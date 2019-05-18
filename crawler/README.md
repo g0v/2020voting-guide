@@ -11,6 +11,7 @@ Using scrapy to scrape the info legislator
 1. [Scrapy](https://scrapy.org/)
    > [chinese tutorial](https://ithelp.ithome.com.tw/users/20107514/ironman/1919)
 2. [Pipenv](https://docs.pipenv.org/en/latest/)
+3. [Requests](https://2.python-requests.org/en/master/)
 
 ## resorces link
 
