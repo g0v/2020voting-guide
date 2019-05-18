@@ -9,9 +9,9 @@ pep8 = "*"
 pylint = "*"
 mypy = "*"
 pytest = "*"
+pipenv = "*"
 
 [packages]
-scrapy = "*"
 
 [requires]
 python_version = "3.7"
