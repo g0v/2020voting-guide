@@ -1,19 +1,20 @@
 # crawler
 
-Using scrapy to scrape the info legislator
+爬取所需資料
 
-## output data
+## 儲存位置
 
 > 2020voting-guide/data
 
-## script data mapping
+## 爬取內容
 
-crawl_legislator_info -> data/history_legislator_info_page*.json
-                      -> data/current_legislator_info_page*.json
+[crawl_legislator_info.py](crawl_legislator_info.py)
 
-## resorces link
-
-1. [legislator info](https://data.ly.gov.tw/getds.action?id=16)
+內容        | 儲存位置                                 | 來源
+-----------|-----------------------------------------|---------------------------------------------------
+歷屆立委資料 | data/history_legislator_info*.json      | [Source](https://data.ly.gov.tw/getds.action?id=16)
+當屆立委資料 | data/current_legislator_info*.json      | [Source](https://data.ly.gov.tw/getds.action?id=9)
+會議資料    | data/meeting_info*.json                 | [Source](https://data.ly.gov.tw/getds.action?id=42)
 
 ## tools
 
