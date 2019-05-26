@@ -1,4 +1,4 @@
-# Numbering legislator
+# Numbering Legislator
 
 This script is for numbering legislator
 
