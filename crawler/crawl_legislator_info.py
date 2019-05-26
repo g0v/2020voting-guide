@@ -1,4 +1,4 @@
-from os import path, environ
+from os import environ, path
 from sys import exit
 
 import requests
