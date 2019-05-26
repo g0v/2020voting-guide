@@ -38,3 +38,4 @@ def crawl_legislator_info_pages(id, payload_base={}, page_count=1):
 if __name__ == "__main__":
     crawl_legislator_info_pages('history_legislator_info', payload_base={'id': 16, 'selectTerm': 'all'}, page_count=2)
     crawl_legislator_info_pages('current_legislator_info', payload_base={'id': 9, 'selectTerm': 'all'}, page_count=1)
+    crawl_legislator_info_pages('meeting_info', payload_base={'id': 42, 'selectTerm': 'all'}, page_count=6)
