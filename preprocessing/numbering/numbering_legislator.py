@@ -3,9 +3,10 @@ import json
 from os import path
 from sys import exit
 
-SOURCE_FILE_NAME="fake_source.json"
-RESULT_FILE_NAME="numbering_result.csv"
-FIELDS=["id", "name"]
+SOURCE_FILE_NAME = "fake_source.json"
+RESULT_FILE_NAME = "numbering_result.csv"
+FIELDS = ["id", "name"]
+
 
 def readSource():
     try:
@@ -15,6 +16,7 @@ def readSource():
         exit("Fail to load source file. error: "+str(e))
 
     return source
+
 
 def readResult():
     result = []
@@ -27,6 +29,7 @@ def readResult():
         exit("Fail to load result file. error: "+str(e))
 
     return result
+
 
 def genNewResult(oldResult):
     nameList = [x["name"] for x in oldResult]
@@ -41,6 +44,7 @@ def genNewResult(oldResult):
 
     return newResult[len(oldResult):]
 
+
 def writeResult(newResult):
     if path.exists(RESULT_FILE_NAME):
         with open(RESULT_FILE_NAME, "a") as f:
@@ -53,6 +57,7 @@ def writeResult(newResult):
             writer.writeheader()
             for legislator in newResult:
                 writer.writerow(legislator)
+
 
 if __name__ == "__main__":
     source = readSource()
