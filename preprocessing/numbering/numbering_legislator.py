@@ -13,7 +13,7 @@ def readSource():
         with open(SOURCE_FILE_NAME, "r") as f:
             source = json.loads(f.read())
     except Exception as e:
-        exit("Fail to load source file. error: "+str(e))
+        exit("Fail to load source file. error: " + str(e))
 
     return source
 
@@ -26,7 +26,7 @@ def readResult():
             with open(RESULT_FILE_NAME, newline="") as f:
                 result = [{k: v for k, v in row.items()} for row in csv.DictReader(f, skipinitialspace=True)]
     except Exception as e:
-        exit("Fail to load result file. error: "+str(e))
+        exit("Fail to load result file. error: " + str(e))
 
     return result
 
@@ -40,7 +40,7 @@ def genNewResult(oldResult):
             print(name, "already exists, skip.")
         else:
             nameList.append(name)
-            newResult.append({"id": len(newResult)+1, "name": name})
+            newResult.append({"id": len(newResult) + 1, "name": name})
 
     return newResult[len(oldResult):]
 
