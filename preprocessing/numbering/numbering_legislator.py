@@ -45,14 +45,14 @@ def writeResult(newResult):
     if path.exists(RESULT_FILE_NAME):
         with open(RESULT_FILE_NAME, "a") as f:
             writer = csv.DictWriter(f, fieldnames=FIELDS)
-            for legistator in newResult:
-                writer.writerow(legistator)
+            for legislator in newResult:
+                writer.writerow(legislator)
     else:
         with open(RESULT_FILE_NAME, "w") as f:
             writer = csv.DictWriter(f, fieldnames=FIELDS)
             writer.writeheader()
-            for legistator in newResult:
-                writer.writerow(legistator)
+            for legislator in newResult:
+                writer.writerow(legislator)
 
 if __name__ == "__main__":
     source = readSource()

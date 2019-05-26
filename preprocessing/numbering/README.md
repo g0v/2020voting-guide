@@ -1,6 +1,6 @@
-# Numbering Legistator
+# Numbering legislator
 
-This script is for numbering legistator
+This script is for numbering legislator
 
 ## Source Format
 
