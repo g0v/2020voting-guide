@@ -6,7 +6,6 @@ verify_ssl = true
 [dev-packages]
 flake8 = "*"
 pep8 = "*"
-pylint = "*"
 mypy = "*"
 pytest = "*"
 pipenv = "*"

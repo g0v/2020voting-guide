@@ -1,7 +1,15 @@
 """crawl current legislation candidate.
 
-`scrapy runspider legislator_candidate.py --output=../data/legislator_candidate.json -t json --set=FEED_EXPORT_ENCODING='utf-8'`
-relate wiki: https://zh.wikipedia.org/wiki/2020年中華民國立法委員選舉
+command: `scrapy runspider legislator_candidate.py --output=../data/legislator_candidate.json -t json --set=FEED_EXPORT_ENCODING='utf-8'`
+
+example item:
+    {
+        "name": "臺北市第一選舉區",
+        "kmt": "詹為元、黃子哲、曾文培、陳重文、汪志冰,初選勝出者再與新黨民調決定,6/15公布結果.",
+        "dpp": "吳思瑤",
+        "other_party": {"name": "潘懷宗", "party": "新黨,再與國民黨民調決定."}, 
+        "no_party": "陳建銘 、王郁楊"
+    }
 """
 import json
 
