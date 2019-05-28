@@ -1,7 +1,7 @@
 import csv
 import os
 
-NUMBERING_FILE_PATH = os.path.dirname(os.path.abspath(__file__))+"/../data/organized/numbering_result.csv"
+NUMBERING_FILE_PATH = os.path.dirname(os.path.abspath(__file__)) + "/../data/organized/numbering_result.csv"
 
 os.makedirs(os.path.dirname(NUMBERING_FILE_PATH), exist_ok=True)
 
