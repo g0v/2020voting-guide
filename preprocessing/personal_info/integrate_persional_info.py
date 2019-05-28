@@ -1,28 +1,28 @@
-import sys
-sys.path.insert(0, "..")
-from util import Util
-
+import json
 import os
 import re
-import json
 from itertools import groupby
 
-RAW_DATA_DIR=os.path.dirname(os.path.abspath(__file__))+"/../../data"
-RAW_DATA_REGEX="history_legislator_info_page\d+.json"
-DEST_FILE_PATH=os.path.dirname(os.path.abspath(__file__))+"/../../data/organized/personal_info.json"
-FIELDS=["id","name","terms","party","areaName","onboardDate","degree","experience","picUrl"]
+import util
 
-NUMBER_INFO=Util.readNumberingData()
+RAW_DATA_DIR = os.path.dirname(os.path.abspath(__file__))+"/../../data"
+RAW_DATA_REGEX = r"history_legislator_info_page\d+.json"
+DEST_FILE_PATH = os.path.dirname(os.path.abspath(__file__))+"/../../data/organized/personal_info.json"
+FIELDS = ["id", "name", "terms", "party", "areaName", "onboardDate", "degree", "experience", "picUrl"]
+
+NUMBER_INFO = util.readNumberingData()
+
 
 def readRawData():
     f_list = [os.path.join(RAW_DATA_DIR, x) for x in os.listdir(RAW_DATA_DIR) if re.match(RAW_DATA_REGEX, x)]
     print("Raw data files:", json.dumps(f_list))
     raw = []
     for path in f_list:
-        with open(path,"r") as f:
+        with open(path, "r") as f:
             raw += json.loads(f.read())["jsonList"]
 
     return raw
+
 
 def integrateData(raw):
     name_list = list(map(lambda x: x["name"], NUMBER_INFO))
@@ -47,6 +47,7 @@ def integrateData(raw):
         each["detail_list"].sort(key=lambda x: x["term"])
 
     return result
+
 
 if __name__ == "__main__":
     raw = readRawData()

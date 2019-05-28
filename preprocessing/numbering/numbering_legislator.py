@@ -1,10 +1,8 @@
-import sys
-sys.path.insert(0, "..")
-from util import Util
-
 import csv
 import json
 from os import path
+
+import util
 
 SOURCE_FILE_NAME = "fake_source.json"
 RESULT_FILE_NAME = "numbering_result.csv"
@@ -64,6 +62,6 @@ def writeResult(newResult):
 
 if __name__ == "__main__":
     source = readSource()
-    result = Util.readNumberingData()
+    result = util.readNumberingData()
     newResult = genNewResult(result)
     writeResult(newResult)
