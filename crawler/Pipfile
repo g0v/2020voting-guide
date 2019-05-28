@@ -6,13 +6,13 @@ verify_ssl = true
 [dev-packages]
 flake8 = "*"
 pep8 = "*"
-pylint = "*"
 mypy = "*"
 pytest = "*"
 pipenv = "*"
 
 [packages]
 requests = "*"
+scrapy = "*"
 
 [requires]
 python_version = "3.7"
