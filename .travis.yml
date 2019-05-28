@@ -6,7 +6,7 @@ install:
   - pip install pycodestyle
   - pip install flake8
 before_script:
-  - pycodestyle --max-line-length=140 --ignore=D100,D101,D102,D103,D213 ./
   - flake8 --max-line-length=140
+  - pycodestyle --max-line-length=140 --ignore=D100,D101,D102,D103,D213 ./
 script:
   - echo "skipping tests"

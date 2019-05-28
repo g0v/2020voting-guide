@@ -5,9 +5,9 @@ from itertools import groupby
 
 import util
 
-RAW_DATA_DIR = os.path.dirname(os.path.abspath(__file__))+"/../../data"
+RAW_DATA_DIR = os.path.dirname(os.path.abspath(__file__)) + "/../../data"
 RAW_DATA_REGEX = r"history_legislator_info_page\d+.json"
-DEST_FILE_PATH = os.path.dirname(os.path.abspath(__file__))+"/../../data/organized/personal_info.json"
+DEST_FILE_PATH = os.path.dirname(os.path.abspath(__file__)) + "/../../data/organized/personal_info.json"
 FIELDS = ["id", "name", "terms", "party", "areaName", "onboardDate", "degree", "experience", "picUrl"]
 
 NUMBER_INFO = util.readNumberingData()
