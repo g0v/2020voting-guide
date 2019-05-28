@@ -3,13 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "next",
+    "@material-ui/icons": "next",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.0",
-    "react-scripts": "3.0.1",
-    "react-styleguidist": "^9.1.2",
-    "@material-ui/icons": "next",
-    "@material-ui/core": "next"
+    "react-scripts": "3.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -38,11 +37,14 @@
   },
   "proxy": "http://localhost:8000",
   "devDependencies": {
-    "@storybook/react": "^5.0.11",
+    "@babel/core": "^7.4.5",
     "@storybook/addon-actions": "^5.0.11",
     "@storybook/addon-links": "^5.0.11",
     "@storybook/addons": "^5.0.11",
-    "@babel/core": "^7.4.5",
-    "babel-loader": "8.0.5"
+    "@storybook/react": "^5.0.11",
+    "babel-loader": "8.0.5",
+    "eslint": "^5.16.0",
+    "eslint-config-google": "^0.13.0",
+    "eslint-plugin-react": "^7.13.0"
   }
 }
