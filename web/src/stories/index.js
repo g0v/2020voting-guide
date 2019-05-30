@@ -3,7 +3,9 @@ import React from 'react';
 import {storiesOf} from '@storybook/react';
 import InfoCard from '../components/InfoCard';
 import CardExample from '../components/CardExample';
+import InfoDetalis from '../components/InfoDetails';
 
-storiesOf('Card', module)
+storiesOf('Legislator', module)
     .add('Testing', () => <CardExample />)
-    .add('Legislatior Info', () => <InfoCard />);
+    .add('Overview', () => <InfoCard />)
+    .add('Details', () => <InfoDetalis />);
