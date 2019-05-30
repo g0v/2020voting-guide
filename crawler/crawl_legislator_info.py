@@ -4,7 +4,7 @@ from sys import exit
 import requests
 
 FILE_DIR = path.dirname(path.abspath(__file__))
-OUTPUT_DIR = environ.get('OUTPUT_DIR', f'{FILE_DIR}/../data')
+OUTPUT_DIR = environ.get('OUTPUT_DIR', f'{FILE_DIR}/../data/raw')
 URL = 'http://data.ly.gov.tw/odw/openDatasetJson.action'
 
 

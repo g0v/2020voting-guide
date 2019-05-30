@@ -1,8 +1,12 @@
 # crawler
 
+## 爬所有資料
+
+`./crawl_all.sh`
+
 ## 儲存位置
 
-> 2020voting-guide/data
+> 2020voting-guide/data/raw
 
 ## 爬取內容
 
