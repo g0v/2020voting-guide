@@ -1,4 +1,4 @@
-# Numbering legislator
+# Numbering Legislator
 
 This script is for numbering legislator
 
@@ -32,7 +32,7 @@ example:
 id,name  
 1,蔡英文  
 2,郭台銘  
-3,韓國瑜   
+3,韓國瑜
 4,柯文哲  
 5,張善政  
 6,賴清德  
