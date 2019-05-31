@@ -1,5 +1,6 @@
 import csv
 import os
+from typing import List, Dict, Any
 
 NUMBERING_FILE_PATH = os.path.dirname(os.path.abspath(__file__)) + "/../data/organized/numbering_result.csv"
 
@@ -21,3 +22,12 @@ def readNumberingData():
         exit("Fail to load result file. error: " + str(e))
 
     return result
+
+
+def read_csv(path: str) -> List[Dict[str, Any]]:
+    data: List[Dict[str, Any]] = []
+
+    with open(path, 'w+', newline="") as f:
+        data = [row for row in csv.DictReader(f, skipinitialspace=True)]
+
+    return data
