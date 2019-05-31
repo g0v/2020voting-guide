@@ -27,7 +27,10 @@ def readNumberingData():
 def read_csv(path: str) -> List[Dict[str, Any]]:
     data: List[Dict[str, Any]] = []
 
-    with open(path, 'w+', newline="") as f:
-        data = [row for row in csv.DictReader(f, skipinitialspace=True)]
+    try:
+        with open(path, 'r+', newline="") as f:
+            data = [row for row in csv.DictReader(f, skipinitialspace=True)]
+    except FileNotFoundError:
+        open(path, 'w')
 
     return data
