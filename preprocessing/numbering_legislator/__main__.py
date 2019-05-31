@@ -1,5 +1,6 @@
 import csv
 from os import path
+from typing import Iterable
 
 import util
 from parse_history_legislator import get_legislator_names
@@ -19,7 +20,7 @@ def readResult():
     return result
 
 
-def writeResult(add_legislation_list, start_id):
+def writeResult(add_legislation_list: Iterable[str], start_id: int):
     should_wirte_header = path.exists(RESULT_FILE_PATH)
     with open(RESULT_FILE_PATH, "a") as f:
         writer = csv.writer(f)
