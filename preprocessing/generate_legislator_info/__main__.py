@@ -4,6 +4,7 @@ import re
 from itertools import groupby
 
 import util
+from yuan_sittings_attend_rate import yuan_sittings_attend_rate
 
 FILE_DIR = os.path.dirname(os.path.abspath(__file__))
 RAW_DATA_DIR = f'{FILE_DIR}/../../data'
@@ -39,7 +40,8 @@ def integrateData(raw):
                         "onboardDate": data["onboardDate"],
                         "degree": data["degree"],
                         "experience": data["experience"],
-                        "picUrl": data["picUrl"]
+                        "picUrl": data["picUrl"],
+                        "yuanSittingsAttendRate": yuan_sittings_attend_rate.calc(name, data["term"])
                     }
                 )
             else:
