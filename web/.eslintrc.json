@@ -1,6 +1,10 @@
 {
   "extends": ["react-app", "google"],
   "rules": {
-    "require-jsdoc": "off"
+    "require-jsdoc": "off",
+    "max-len": [
+      "error",
+      { "code": 140 }
+    ]
   }
 }
