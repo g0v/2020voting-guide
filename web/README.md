@@ -4,6 +4,10 @@
 
 ## Commands
 
+### `npm install`
+
+First of all, install all the package in 'package.json'.
+
 ### `npm run storybook`
 
 Shows up the independent component we used in project. For demo or prototyping.
