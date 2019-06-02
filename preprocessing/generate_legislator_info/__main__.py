@@ -1,25 +1,22 @@
 import json
 import os
-import re
+from glob import glob
 from itertools import groupby
 
 import util
 from yuan_sittings_attend_rate import yuan_sittings_attend_rate
 
 FILE_DIR = os.path.dirname(os.path.abspath(__file__))
-RAW_DATA_DIR = f'{FILE_DIR}/../../data'
-RAW_DATA_REGEX = r'history_legislator_info_page\d+.json'
 DEST_FILE_PATH = f'{FILE_DIR}/../../data/organized/personal_info.json'
-# FIELDS = ['id', 'name', 'terms', 'party', 'areaName', 'onboardDate', 'degree', 'experience', 'picUrl']
 
 NUMBER_INFO = util.readNumberingData()
 
 
 def readRawData():
-    f_list = [os.path.join(RAW_DATA_DIR, x) for x in os.listdir(RAW_DATA_DIR) if re.match(RAW_DATA_REGEX, x)]
-    print("Raw data files:", json.dumps(f_list))
+    file_list = glob(f'{FILE_DIR}/../../data/raw/history_legislator_info_page*.json')
+    print("Raw data files:", str(file_list))
     raw = []
-    for path in f_list:
+    for path in file_list:
         with open(path, "r") as f:
             raw += json.loads(f.read())["jsonList"]
 
@@ -41,7 +38,7 @@ def integrateData(raw):
                         "degree": data["degree"],
                         "experience": data["experience"],
                         "picUrl": data["picUrl"],
-                        "yuanSittingsAttendRate": yuan_sittings_attend_rate.calc(name, data["term"])
+                        "yuanSittingsAttendRate": yuan_sittings_attend_rate.calc_attending_rate(name, data["term"])
                     }
                 )
             else:
