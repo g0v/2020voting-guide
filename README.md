@@ -1,5 +1,18 @@
 # 2020voting-guide
 
+## Naming Convention
+
+候選人： candidate
+立委： legislator
+
+## Dataflow
+
+> crawler -> data/raw
+> -> preprocessing -> data/clean_data
+> -> preprocessing -> data/organized
+> -> backend
+> -> frontend
+
 ## Guide
 
 抓取所有所需資料：
