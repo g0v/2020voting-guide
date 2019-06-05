@@ -81,9 +81,16 @@ const data02 = [
 ];
 
 const useStyles = makeStyles({
+  card: {
+    width: 600,
+    textAlign: 'left',
+  },
   details: {
     display: 'flex',
     flexDirection: 'column',
+  },
+  piechart: {
+    margin: 'auto',
   },
 });
 
@@ -134,7 +141,7 @@ const InfoDetails = () => {
           <Typography className={classes.title} component="h5" variant="h5">
             政治獻金
           </Typography>
-          <PieChart width={730} height={250}>
+          <PieChart width={500} height={250} className={classes.piechart}>
             <Pie data={data01} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={50} fill="#8884d8" />
             <Pie data={data02} dataKey="value" nameKey="name" cx="50%" cy="50%" innerRadius={60} outerRadius={80} fill="#82ca9d" label />
           </PieChart>
