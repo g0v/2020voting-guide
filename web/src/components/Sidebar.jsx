@@ -72,8 +72,10 @@ class Sidebar extends Component {
     if (counties[countyData.name]) {
       return (
         <ListItem button key={countyData.name}>
-          <ListItemText primary={countyData.name} onClick={this.toggleCounty} />
-          {countyData['area'].map((area) => <ListItem button key={area}><ListItemText primary={area} /></ListItem>)}
+          <ListItemText primary={countyData.name} onClick={() => this.toggleCounty(countyData.name)} />
+          <List>
+            {countyData['area'].map((area) => <ListItem button key={area}><ListItemText primary={area} /></ListItem>)}
+          </List>
         </ListItem>
       );
     } else {
