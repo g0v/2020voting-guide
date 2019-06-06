@@ -5,9 +5,8 @@ from typing import Iterable
 import util
 from parse_history_legislator import get_legislator_names
 
-SOURCE_FILE_PATH1 = "../data/raw/history_legislator_info_page1.json"
-SOURCE_FILE_PATH2 = "../data/raw/history_legislator_info_page2.json"
-RESULT_FILE_PATH = "../data/organized/legislator_id.csv"
+SOURCE_FILE_PATH = "../data/organized/legislator_candidate.json"
+RESULT_FILE_PATH = "../data/final/legislator_id.csv"
 FIELD_NAMES = ["id", "name"]
 
 
@@ -31,9 +30,8 @@ def writeResult(add_legislation_list: Iterable[str], start_id: int):
 
 
 if __name__ == "__main__":
-    new_legislator_list1 = get_legislator_names(SOURCE_FILE_PATH1)
-    new_legislator_list2 = get_legislator_names(SOURCE_FILE_PATH2)
+    new_legislator_list = get_legislator_names(SOURCE_FILE_PATH)
     old_legislator_list = [legislator['name'] for legislator in util.read_csv(RESULT_FILE_PATH)]
     assert len(old_legislator_list) == len(set(old_legislator_list))
-    add_legislator_list = set(new_legislator_list1).union(set(new_legislator_list2)) - set(old_legislator_list)
+    add_legislator_list = set(new_legislator_list) - set(old_legislator_list)
     writeResult(add_legislator_list, len(old_legislator_list) + 1)
