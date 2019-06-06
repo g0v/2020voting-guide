@@ -18,4 +18,4 @@ find ../data/raw -type f \
 
 # Crawl the raw data we need.
 pipenv run python3 crawl_legislator_info.py
-scrapy runspider legislator_candidate.py --set=FEED_EXPORT_ENCODING='utf-8' -t json --output=- > ../data/raw/legislator_candidate.json
+pipenv run python3 legislator_candidate

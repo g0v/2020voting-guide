@@ -4,6 +4,7 @@
 
 候選人： candidate
 立委： legislator
+選區： constituency
 
 ## Dataflow
 
