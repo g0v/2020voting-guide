@@ -16,6 +16,7 @@ find ../data/raw -type f \
     -not -name 'voting_area_mapping.json' \
     -delete
 
+pipenv sync
 # crawl & transform to a useful format
 pipenv run python3 legislator_candidate
 pipenv run python3 legislator_info
