@@ -11,9 +11,12 @@ const CandidatePage = () => (
       </Typography>
       <Box m={1} />
       <Typography variant="h5">溫邦宇</Typography>
-      <Typography variant="h5">金伯仲</Typography>
+      <Typography variant="h5">金柏仲</Typography>
       <Typography variant="h5">林佳鴻</Typography>
       <Typography variant="h5">倫斯</Typography>
+      <Typography variant="h5">Jia-Xuan Lee</Typography>
+      <Typography variant="h5">倫斯</Typography>
+      <Typography variant="h5">chloe</Typography>
     </CardContent>
   </div>
 );
