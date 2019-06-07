@@ -16,7 +16,7 @@ find ../data/raw -type f \
     -not -name 'voting_area_mapping.json' \
     -delete
 
-# Crawl the raw data we need.
+# crawl & transform to a useful format
 pipenv run python3 legislator_candidate
 pipenv run python3 legislator_info
 pipenv run python3 sitting_info
