@@ -1,5 +1,10 @@
 # crawler
 
+## 前置安裝dependencies
+
+`pip3 install pipenv`
+`pipenv install`
+
 ## 爬所有資料
 
 `./crawl_all.sh`
