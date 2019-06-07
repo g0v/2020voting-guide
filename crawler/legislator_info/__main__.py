@@ -27,5 +27,5 @@ def run_current_legislator_info_pages():
 if __name__ == "__main__":
     history_legislator_info_pages = run_history_legislator_info_pages()
     current_legislator_info_pages = run_current_legislator_info_pages()
-    legislator_info = transform(history_legislator_info_pages, current_legislator_info_pages)
-    store_json(legislator_info, f'{OUTPUT_TRANSFORMED_DIR}/legislator_info.json')
+    legislators_info = transform(history_legislator_info_pages, current_legislator_info_pages)
+    store_json(legislators_info, f'{OUTPUT_TRANSFORMED_DIR}/legislator_info.json')
