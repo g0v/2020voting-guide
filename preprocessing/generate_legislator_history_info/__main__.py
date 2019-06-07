@@ -7,7 +7,7 @@ import util
 from yuan_sittings_attend_rate import yuan_sittings_attend_rate
 
 FILE_DIR = os.path.dirname(os.path.abspath(__file__))
-DEST_FILE_PATH = f'{FILE_DIR}/../../data/organized/personal_info.json'
+DEST_FILE_PATH = f'{FILE_DIR}/../../data/final/personal_info_history.json'
 
 NUMBER_INFO = util.readNumberingData()
 
