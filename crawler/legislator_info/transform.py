@@ -1,45 +1,22 @@
 import json
-from glob import glob
-from itertools import groupby
+from typing import List, Dict, Optional
 
 
-def _readRawData(raw_dir):
-    file_list = glob(f'{raw_dir}/history_legislator_info_page*.json')
-    print("Raw data files:", str(file_list))
-    raw = []
-    for path in file_list:
-        with open(path, "r") as f:
-            raw += json.loads(f.read())["jsonList"]
+def transform(history_legislator_info_pages, current_legislator_info_pages) -> str:
+    legislators: Dict[str, Dict[str, List[Dict[str, Optional[str]]]]] = {}
+    history_legislators_pages = [json.loads(page)['jsonList'] for page in history_legislator_info_pages]
+    current_legislators_pages = [json.loads(page)['jsonList'] for page in current_legislator_info_pages]
 
-    return raw
+    for history_legislators in history_legislators_pages:
+        for legislator in history_legislators:
+            name = legislator['name']
+            if name not in legislators:
+                legislators[name] = {'current_info': [], 'history_info': []}
+            legislators[name]['history_info'].append(legislator)
 
+    for current_legislators in current_legislators_pages:
+        for legislator in current_legislators:
+            name = legislator['name']
+            legislators[name]['current_info'].append(legislator)
 
-def _writeResult(result, output_dir):
-    fname = f'{output_dir}/personal_info_history.json'
-    with open(fname, "w") as f:
-        f.write(json.dumps(result, ensure_ascii=False))
-
-
-def _integrateData(raw):
-    result = {}
-    for name, datas in groupby(raw, lambda x: x["name"]):
-        for data in datas:
-            result.setdefault(name, []).append(
-                {
-                    "term": data["term"],
-                    "party": data["party"],
-                    "areaName": data["areaName"],
-                    "onboardDate": data["onboardDate"],
-                    "degree": data["degree"],
-                    "experience": data["experience"],
-                    "picUrl": data["picUrl"],
-                }
-            )
-    for each in result.values():
-        each.sort(key=lambda x: x["term"])
-
-    return result
-
-
-def transform(raw_dir, output_dir):
-    _writeResult(_integrateData(_readRawData(raw_dir)), output_dir)
+    return json.dumps(legislators, ensure_ascii=False)
