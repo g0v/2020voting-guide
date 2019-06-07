@@ -10,7 +10,7 @@
 
 ## 爬取內容
 
-[crawl_legislator_info.py](crawl_legislator_info.py)
+[crawl_legislator_info](legislator_info/__main__.py)
 
 內容        | 儲存位置                                 | 來源
 -----------|-----------------------------------------|---------------------------------------------------
@@ -18,7 +18,7 @@
 當屆立委資料 | data/current_legislator_info*.json      | [Source](https://data.ly.gov.tw/getds.action?id=9)
 會議資料    | data/meeting_info*.json                 | [Source](https://data.ly.gov.tw/getds.action?id=42)
 
-[legislator_candidate.py](legislator_candidate.py)
+[legislator_candidate](legislator_candidate/__main__.py)
 
 內容        | 儲存位置                                 | 來源
 -----------|-----------------------------------------|---------------------------------------------------

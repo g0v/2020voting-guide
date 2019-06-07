@@ -17,5 +17,6 @@ find ../data/raw -type f \
     -delete
 
 # Crawl the raw data we need.
-pipenv run python3 legislator_info
 pipenv run python3 legislator_candidate
+pipenv run python3 legislator_info
+pipenv run python3 sitting_info
