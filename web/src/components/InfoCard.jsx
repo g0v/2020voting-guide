@@ -1,12 +1,13 @@
-import React from 'react';
-import Card from '@material-ui/core/Card';
-import CardMedia from '@material-ui/core/CardMedia';
-import CardContent from '@material-ui/core/CardContent';
 import Button from '@material-ui/core/Button';
+import Card from '@material-ui/core/Card';
 import CardActions from '@material-ui/core/CardActions';
-
+import CardContent from '@material-ui/core/CardContent';
+import CardMedia from '@material-ui/core/CardMedia';
 import { makeStyles } from '@material-ui/core/styles';
 import Typography from '@material-ui/core/Typography';
+import React from 'react';
+import legislator from '../api/legislator.json';
+
 
 const useStyles = makeStyles((theme) => ({
   button: {
@@ -19,6 +20,7 @@ const useStyles = makeStyles((theme) => ({
   },
   content: {
     flex: '1 0 auto',
+    textAlign: 'left',
   },
   details: {
     paddingLeft: 40,
@@ -49,29 +51,24 @@ const useStyles = makeStyles((theme) => ({
 
 const InfoCard = () => {
   const classes = useStyles();
+  const { name, party, age, experience, picUrl } = legislator;
   return (
     <Card className={classes.card}>
       <CardMedia
         className={classes.cover}
-        image="/images/90030.jpg"
+        image={picUrl}
         title="Live from space album cover"
       />
       <div className={classes.details}>
         <CardContent className={classes.content}>
           <Typography className={classes.name} component="h1" variant="h2">
-            林昶佐
+            {name}
           </Typography>
           <Typography className={classes.subtitle} variant="h5" color="textSecondary">
-            時代力量，43歲
+            {party}，{age}歲
           </Typography>
           <Typography className={classes.description} variant="body2">
-            時代力量創黨工程隊總隊長 <br />
-            時代力量主席團成員 <br />
-            國際知名閃靈樂團主唱 <br />
-            國際特赦組織台灣分會理事長 <br />
-            行政院二二八基金會董事 <br />
-            獨立音樂協會理事長 <br />
-            曾獲金曲獎、總統文化獎 <br />
+            {experience.map((exp) => <span>{exp}<br /></span> )}
           </Typography>
         </CardContent>
       </div>
