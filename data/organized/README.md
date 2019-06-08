@@ -1,3 +1,3 @@
-# organized
+# 資料相關事項
 
-## 2020voting-guide/data/organized 儲存preprocessing的結果
+儲存整理raw的結果，並且不做aggreation，程式會放在crawler裡面
