@@ -2,15 +2,23 @@ import React, { Component } from 'react';
 import Drawer from '@material-ui/core/Drawer';
 import List from '@material-ui/core/List';
 import ListItem from '@material-ui/core/ListItem';
-import ListItemIcon from '@material-ui/core/ListItemIcon';
 import ListItemText from '@material-ui/core/ListItemText';
 import Divider from '@material-ui/core/Divider';
-import { withStyles } from '@material-ui/core/styles';
 import Collapse from '@material-ui/core/Collapse';
 import ExpandLess from '@material-ui/icons/ExpandLess';
 import ExpandMore from '@material-ui/icons/ExpandMore';
-import { makeStyles } from '@material-ui/core/styles';
+import { withStyles } from '@material-ui/core/styles';
 
+const styles = theme => ({
+  root: {
+    width: "100%",
+    maxWidth: 360,
+    backgroundColor: theme.palette.background.paper
+  },
+  nested: {
+    paddingLeft: theme.spacing(4)
+  }
+})
 
 const geographicalConstituency = [
   {'name': '基隆市', 'area': ['基隆市選舉區']},
@@ -38,15 +46,6 @@ const geographicalConstituency = [
   {'name': '原住民', 'area': ['山地原住民選舉區', '平地原住民選舉區']},
 ];
 
-// const classes = {
-//   drawer: {
-//     width: 240,
-//     flexShrink: 0,
-//   },
-//   drawerPaper: {
-//     width: 240,
-//   },
-// };
 
 class Sidebar extends Component {
   constructor(props) {
@@ -73,30 +72,20 @@ class Sidebar extends Component {
   }
 
   getCountyItem(countyData) {
-    const classes = makeStyles(theme => ({
-      root: {
-        width: '100%',
-        maxWidth: 360,
-        backgroundColor: theme.palette.background.paper,
-      },
-      nested: {
-        paddingLeft: theme.spacing(4),
-      },
-    }));
     const { counties } = this.state;
-    // if (!counties) return;
-
 
     return (
-      <ListItem button key={countyData.name} button className={classes.nested} onClick={() => this.toggleCounty(countyData.name)} >
-        {counties[countyData.name] ? <ExpandLess /> : <ExpandMore />}
+      <React.Fragment>
+      <ListItem button key={countyData.name} onClick={() => this.toggleCounty(countyData.name)} >
         <ListItemText primary={countyData.name}/>
-        <Collapse in={counties[countyData.name]} timeout="auto" unmountOnExit>
-        <List>
-          {countyData['area'].map((area) => <ListItem button key={area}><ListItemText primary={area} /></ListItem>)}
-        </List>
-        </Collapse>
+          {counties[countyData.name] ? <ExpandLess /> : <ExpandMore />}
       </ListItem>
+      <Collapse in={counties[countyData.name]} timeout="auto" unmountOnExit>
+        <List>
+          {countyData['area'].map((area) => <ListItem button className={this.props.classes.nested} key={area}><ListItemText primary={area} /></ListItem>)}
+        </List>
+      </Collapse>
+      </React.Fragment>
     );
   }
 
@@ -116,4 +105,4 @@ class Sidebar extends Component {
   }
 }
 
-export default Sidebar;
+export default withStyles(styles)(Sidebar);
