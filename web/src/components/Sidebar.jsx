@@ -9,21 +9,28 @@ import ExpandLess from '@material-ui/icons/ExpandLess';
 import ExpandMore from '@material-ui/icons/ExpandMore';
 import { withStyles } from '@material-ui/core/styles';
 
-const styles = theme => ({
+const styles = (theme) => ({
   root: {
-    width: "100%",
+    width: '100%',
     maxWidth: 360,
-    backgroundColor: theme.palette.background.paper
+    backgroundColor: theme.palette.background.paper,
   },
   nested: {
-    paddingLeft: theme.spacing(4)
-  }
-})
+    paddingLeft: theme.spacing(4),
+  },
+  drawer: {
+    width: 240,
+  },
+  drawerPaper: {
+    width: 240,
+  },
+});
 
 const geographicalConstituency = [
   {'name': '基隆市', 'area': ['基隆市選舉區']},
   {'name': '臺北市', 'area': ['臺北市第一選舉區', '臺北市第二選舉區', '臺北市第三選舉區', '臺北市第四選舉區', '臺北市第五選舉區', '臺北市第六選舉區', '臺北市第七選舉區', '臺北市第八選舉區']},
-  {'name': '新北市', 'area': ['新北市第一選舉區', '新北市第二選舉區', '新北市第三選舉區', '新北市第四選舉區', '新北市第五選舉區', '新北市第六選舉區', '新北市第七選舉區', '新北市第八選舉區', '新北市第九選舉區', '新北市第十選舉區', '新北市第十一選舉區', '新北市第十二選舉區']},
+  {'name': '新北市', 'area': ['新北市第一選舉區', '新北市第二選舉區', '新北市第三選舉區', '新北市第四選舉區', '新北市第五選舉區', '新北市第六選舉區', '新北市第七選舉區', '新北市第八選舉區',
+    '新北市第九選舉區', '新北市第十選舉區', '新北市第十一選舉區', '新北市第十二選舉區']},
   {'name': '桃園市', 'area': ['桃園市第一選舉區', '桃園市第二選舉區', '桃園市第三選舉區', '桃園市第四選舉區', '桃園市第五選舉區', '桃園市第六選舉區']},
   {'name': '新竹市', 'area': ['新竹市選舉區']},
   {'name': '新竹縣', 'area': ['新竹縣第一選舉區', '新竹縣第二選舉區']},
@@ -75,30 +82,35 @@ class Sidebar extends Component {
     const { counties } = this.state;
 
     return (
-      <React.Fragment>
-      <ListItem button key={countyData.name} onClick={() => this.toggleCounty(countyData.name)} >
-        <ListItemText primary={countyData.name}/>
+      <List>
+        <ListItem button key={countyData.name} onClick={() => this.toggleCounty(countyData.name)} >
+          <ListItemText primary={countyData.name}/>
           {counties[countyData.name] ? <ExpandLess /> : <ExpandMore />}
-      </ListItem>
-      <Collapse in={counties[countyData.name]} timeout="auto" unmountOnExit>
-        <List>
-          {countyData['area'].map((area) => <ListItem button className={this.props.classes.nested} key={area}><ListItemText primary={area} /></ListItem>)}
-        </List>
-      </Collapse>
-      </React.Fragment>
+        </ListItem>
+        <Collapse in={counties[countyData.name]} timeout="auto" unmountOnExit>
+          <List>
+            {countyData['area'].map((area) => (
+              <ListItem button className={this.props.classes.nested} key={area}><ListItemText primary={area} /></ListItem>)
+            )}
+          </List>
+        </Collapse>
+      </List>
     );
   }
 
   render() {
+    const { classes } = this.props;
     return (
       <Drawer
         variant="permanent"
         anchor="left"
+        className={classes.drawer}
+        classes={{
+          paper: classes.drawerPaper,
+        }}
       >
         <Divider />
-        <List>
-          {geographicalConstituency.map(this.getCountyItem)}
-        </List>
+        {geographicalConstituency.map(this.getCountyItem)}
         <Divider />
       </Drawer>
     );
