@@ -1,10 +1,16 @@
 import React, { Component } from 'react';
 import Drawer from '@material-ui/core/Drawer';
 import List from '@material-ui/core/List';
-import Divider from '@material-ui/core/Divider';
 import ListItem from '@material-ui/core/ListItem';
-import { withStyles } from '@material-ui/core/styles';
+import ListItemIcon from '@material-ui/core/ListItemIcon';
 import ListItemText from '@material-ui/core/ListItemText';
+import Divider from '@material-ui/core/Divider';
+import { withStyles } from '@material-ui/core/styles';
+import Collapse from '@material-ui/core/Collapse';
+import ExpandLess from '@material-ui/icons/ExpandLess';
+import ExpandMore from '@material-ui/icons/ExpandMore';
+import { makeStyles } from '@material-ui/core/styles';
+
 
 const geographicalConstituency = [
   {'name': '基隆市', 'area': ['基隆市選舉區']},
@@ -67,24 +73,31 @@ class Sidebar extends Component {
   }
 
   getCountyItem(countyData) {
+    const classes = makeStyles(theme => ({
+      root: {
+        width: '100%',
+        maxWidth: 360,
+        backgroundColor: theme.palette.background.paper,
+      },
+      nested: {
+        paddingLeft: theme.spacing(4),
+      },
+    }));
     const { counties } = this.state;
     // if (!counties) return;
-    if (counties[countyData.name]) {
-      return (
-        <ListItem button key={countyData.name}>
-          <ListItemText primary={countyData.name} onClick={() => this.toggleCounty(countyData.name)} />
-          <List>
-            {countyData['area'].map((area) => <ListItem button key={area}><ListItemText primary={area} /></ListItem>)}
-          </List>
-        </ListItem>
-      );
-    } else {
-      return (
-        <ListItem button key={countyData.name} onClick={() => this.toggleCounty(countyData.name)}>
-          <ListItemText primary={countyData.name} />
-        </ListItem>
-      );
-    }
+
+
+    return (
+      <ListItem button key={countyData.name} button className={classes.nested} onClick={() => this.toggleCounty(countyData.name)} >
+        {counties[countyData.name] ? <ExpandLess /> : <ExpandMore />}
+        <ListItemText primary={countyData.name}/>
+        <Collapse in={counties[countyData.name]} timeout="auto" unmountOnExit>
+        <List>
+          {countyData['area'].map((area) => <ListItem button key={area}><ListItemText primary={area} /></ListItem>)}
+        </List>
+        </Collapse>
+      </ListItem>
+    );
   }
 
   render() {
