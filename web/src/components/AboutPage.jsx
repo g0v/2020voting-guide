@@ -2,7 +2,14 @@ import React from 'react';
 import CardContent from '@material-ui/core/CardContent';
 import Typography from '@material-ui/core/Typography';
 import Box from '@material-ui/core/Box';
-import AboutInfoCard from './AboutInfoCard';
+import AboutInfoBangYu from './AboutInfoBangYu';
+import AboutInfoPoChung from './AboutInfoPoChung';
+import AboutInfoKbear from './AboutInfoKbear';
+import AboutInfoTerence from './AboutInfoTerence';
+import AboutInfoJiaXuan from './AboutInfoJiaXuan';
+import AboutInfoChloe from "./AboutInfoChloe";
+
+
 
 const CandidatePage = () => (
   <div>
@@ -11,14 +18,17 @@ const CandidatePage = () => (
         共同作者
       </Typography>
       <Box m={1} />
-      <AboutInfoCard />
-      <Typography variant="h5">溫邦宇</Typography>
-      <Typography variant="h5">金柏仲</Typography>
-      <Typography variant="h5">林佳鴻</Typography>
-      <Typography variant="h5">倫斯</Typography>
-      <Typography variant="h5">Jia-Xuan Lee</Typography>
-      <Typography variant="h5">倫斯</Typography>
-      <Typography variant="h5">chloe</Typography>
+      <AboutInfoBangYu />
+      <Box m={1} />
+      <AboutInfoPoChung />
+      <Box m={1} />
+      <AboutInfoKbear />
+      <Box m={1} />
+      <AboutInfoTerence />
+      <Box m={1} />
+      <AboutInfoJiaXuan />
+      <Box m={1} />
+      <AboutInfoChloe />
     </CardContent>
   </div>
 );
