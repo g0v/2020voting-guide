@@ -82,7 +82,7 @@ class Sidebar extends Component {
     const { counties } = this.state;
 
     return (
-      <List>
+      <React.Fragment>
         <ListItem button key={countyData.name} onClick={() => this.toggleCounty(countyData.name)} >
           <ListItemText primary={countyData.name}/>
           {counties[countyData.name] ? <ExpandLess /> : <ExpandMore />}
@@ -94,7 +94,7 @@ class Sidebar extends Component {
             )}
           </List>
         </Collapse>
-      </List>
+      </React.Fragment>
     );
   }
 
@@ -110,7 +110,9 @@ class Sidebar extends Component {
         }}
       >
         <Divider />
-        {geographicalConstituency.map(this.getCountyItem)}
+        <List>
+          {geographicalConstituency.map(this.getCountyItem)}
+        </List>
         <Divider />
       </Drawer>
     );
