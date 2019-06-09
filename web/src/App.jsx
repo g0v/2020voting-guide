@@ -9,6 +9,7 @@ import './App.css';
 import CandidatePage from './components/CandidatePage';
 import AboutPage from './components/AboutPage';
 import MapPage from './components/MapPage';
+import CandidateListPage from './components/CandidateListPage';
 
 
 const App = () => (
@@ -27,16 +28,16 @@ const App = () => (
         >
           <MenuIcon />
         </IconButton>
+        <Tab label="首頁" component={Link} to="/" />
         <Tab label="地圖" component={Link} to="/map" />
         <Tab label="立委候選人" component={Link} to="/candidate" />
         <Tab label="關於" component={Link} to="/about" />
       </Tabs>
       <Container maxWidth="sm">
-        <Switch>
-          <Route path="/map" component={MapPage} />
-          <Route path="/candidate" component={CandidatePage} />
-          <Route path="/about" component={AboutPage} />
-        </Switch>
+        <Route exact path="/" component={CandidateListPage} />
+        <Route path="/map" component={MapPage} />
+        <Route path="/candidate" component={CandidatePage} />
+        <Route path="/about" component={AboutPage} />
       </Container>
     </BrowserRouter>
   </div>
