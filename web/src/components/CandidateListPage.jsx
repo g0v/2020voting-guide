@@ -2,6 +2,7 @@ import Box from '@material-ui/core/Box';
 import React from 'react';
 import constituencyCandidate from '../api/constituencyCandidate.json';
 import SummaryCard from './SummaryCard';
+import Sidebar from './Sidebar';
 import Typography from '@material-ui/core/Typography';
 
 
@@ -9,6 +10,7 @@ const { candidates, constituency } = constituencyCandidate;
 
 const CandidatePage = () => (
   <div>
+    <Sidebar />
     <Typography variant="h4">
       {constituency}
     </Typography>
