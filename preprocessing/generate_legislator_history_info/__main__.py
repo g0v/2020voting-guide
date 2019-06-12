@@ -45,6 +45,10 @@ def integrateData(raw):
                 print(name, "is not in this term, skip.")
     for each in result.values():
         each["detail_list"].sort(key=lambda x: x["term"])
+    for old_key in list(result.keys()):
+        new_key = result[old_key]["id"]
+        del result[old_key]["id"]
+        result[new_key] = result.pop(old_key)
 
     return result
 
