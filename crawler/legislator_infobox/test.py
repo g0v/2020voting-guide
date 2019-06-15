@@ -1,5 +1,3 @@
-import mwparserfromhell
-import re
 import requests
 from spider import parse_content
 
