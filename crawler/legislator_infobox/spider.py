@@ -1,5 +1,8 @@
 """Crawl current legislation candidate.
 
+wiki API info: https://zh.wikipedia.org/w/api.php?action=help&modules=query
+wiki API example: https://zh.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&format=json&titles=%E6%B2%88%E6%99%BA%E6%85%A7_(%E8%87%BA%E7%81%A3)&rvsection=0&rvslots=main
+
 output:
 
 [{
