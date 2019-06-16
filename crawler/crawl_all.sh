@@ -18,3 +18,4 @@ pipenv sync
 pipenv run python3 legislator_candidate
 pipenv run python3 legislator_info
 pipenv run python3 sitting_info
+pipenv run python3 wiki_infoboxes
