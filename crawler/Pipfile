@@ -8,14 +8,16 @@ flake8 = "*"
 pep8 = "*"
 mypy = "*"
 pytest = "*"
-pipenv = "*"
 pydocstyle = "*"
+autopep8 = "*"
 
 [packages]
 requests = "*"
 scrapy = "*"
 grequests = "*"
 mwparserfromhell = "*"
+wptools = "*"
+pycurl = "*"
 
 [requires]
 python_version = "3.7"

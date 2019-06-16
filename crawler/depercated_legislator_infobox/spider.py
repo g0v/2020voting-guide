@@ -25,9 +25,10 @@ output:
 import json
 import re
 from typing import List
-import mwparserfromhell
 
 import scrapy
+
+import mwparserfromhell
 
 CANDIDATE_FILE = '../data/organized/legislator_candidate.json'
 
