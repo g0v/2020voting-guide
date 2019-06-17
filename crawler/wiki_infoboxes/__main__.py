@@ -19,7 +19,7 @@ def remove_output():
 
 
 def _send_request(payload):
-    print(f'[INFO] Sending request to {URL}')
+    print(f'[INFO] Sending request to {URL}, payload: {payload}')
     try:
         response = requests.get(URL, params=payload, timeout=10)
     except requests.exceptions.ConnectTimeout:
@@ -57,4 +57,4 @@ if __name__ == "__main__":
     with Pool(processes=4) as pool:
         info_boxes = pool.map(get_infobox, page_names)
     info_boxes_string = json.dumps(info_boxes, ensure_ascii=False)
-    store_json(info_boxes_string, '../data/raw/legislator_candidate_infobox.json')
+    store_json(info_boxes_string, OUTPUT_RAW)
