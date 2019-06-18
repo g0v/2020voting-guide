@@ -1,4 +1,5 @@
 import json
+import re
 from multiprocessing.dummy import Pool
 from os import remove
 
@@ -8,6 +9,7 @@ from util import store_json
 
 URL = 'https://zh.wikipedia.org/w/api.php'
 OUTPUT_RAW = '../data/raw/legislator_candidate_external_links.json'
+OUTPUT_TRANSFORMED = '../data/organized/legislator_candidate_external_links.json'
 
 
 def remove_output():
@@ -41,7 +43,7 @@ def get_infobox_page_list():
     return [link['*'] for link in response_data['parse']['links'] if not link['*'].startswith('Template')]
 
 
-def get_infobox(page_name):
+def get_page_links(page_name):
     payload = {
         'action': 'parse',
         'format': 'json',
@@ -57,9 +59,23 @@ def get_infobox(page_name):
         return {'title': page_name}
 
 
+def transform(pages_links):
+    def classify_links(page):
+        return {
+            'title': page['title'],
+            'fb_links': [link for link in page.get('externallinks', []) if re.match(r'^https://www.facebook.com/[^/]+/?$', link)]
+        }
+
+    return [classify_links(page) for page in pages_links]
+
+
 if __name__ == "__main__":
     page_names = get_infobox_page_list()
     with Pool(processes=4) as pool:
-        info_boxes = pool.map(get_infobox, page_names)
-    info_boxes_string = json.dumps(info_boxes, ensure_ascii=False)
-    store_json(info_boxes_string, OUTPUT_RAW)
+        pages_links = pool.map(get_page_links, page_names)
+    pages_links_string = json.dumps(pages_links, ensure_ascii=False)
+    store_json(pages_links_string, OUTPUT_RAW)
+
+    # with open(OUTPUT_RAW) as fp:
+    #     pages_links = json.load(fp)
+    store_json(json.dumps(transform(pages_links), ensure_ascii=False), OUTPUT_TRANSFORMED)
