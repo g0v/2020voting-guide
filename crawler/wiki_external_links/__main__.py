@@ -63,7 +63,11 @@ def transform(pages_links):
     def classify_links(page):
         return {
             'title': page['title'],
-            'fb_links': [link for link in page.get('externallinks', []) if re.match(r'^https://www.facebook.com/[^/]+/?$', link)]
+            'fb_accounts': [link for link in page.get('externallinks', []) if re.match(r'^https://www.facebook.com/[^/]+/?$', link)],
+            'ig_accounts': [link for link in page.get('externallinks', []) if re.match(r'^https://www.instagram.com/[^/]+/?$', link)],
+            'youtube_channels': [
+                link for link in page.get('externallinks', []) if re.match(r'^https://www.youtube.com/channel/[^/]+/?$', link)
+            ]
         }
 
     return [classify_links(page) for page in pages_links]

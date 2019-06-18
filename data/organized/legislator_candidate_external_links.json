@@ -1,964 +1,1606 @@
 [{
   "title": "中國國民黨",
-  "fb_links": ["https://www.facebook.com/kyoung.tw"]
+  "fb_accounts": ["https://www.facebook.com/kyoung.tw"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "中華民國政黨列表",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "中華民國立法委員",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "何志偉",
-  "fb_links": ["https://www.facebook.com/newdaytaipeiho"]
+  "fb_accounts": ["https://www.facebook.com/newdaytaipeiho"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "何欣純",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "余天",
-  "fb_links": ["https://www.facebook.com/yutian.yutian", "https://www.facebook.com/yutian.fans", "https://www.facebook.com/dpp.ntc"]
+  "fb_accounts": ["https://www.facebook.com/yutian.yutian", "https://www.facebook.com/yutian.fans", "https://www.facebook.com/dpp.ntc"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "傅崑萁",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "劉世芳",
-  "fb_links": ["https://www.facebook.com/2016newpower"]
+  "fb_accounts": ["https://www.facebook.com/2016newpower"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "劉建國",
-  "fb_links": ["https://www.facebook.com/liucnko"]
+  "fb_accounts": ["https://www.facebook.com/liucnko"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "劉櫂豪",
-  "fb_links": ["https://www.facebook.com/ChaoHaoLiu"]
+  "fb_accounts": ["https://www.facebook.com/ChaoHaoLiu"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "南投縣第一選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "南投縣第二選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "台灣團結聯盟",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "吳志揚 (政治人物)",
-  "fb_links": ["https://www.facebook.com/JohnChihYangWU"]
+  "fb_accounts": ["https://www.facebook.com/JohnChihYangWU"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "吳思瑤",
-  "fb_links": ["https://www.facebook.com/taipeineedyou"]
+  "fb_accounts": ["https://www.facebook.com/taipeineedyou"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "吳琪銘",
-  "fb_links": ["https://www.facebook.com/wuqiming519"]
+  "fb_accounts": ["https://www.facebook.com/wuqiming519"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "吳益政",
-  "fb_links": ["https://www.facebook.com/genewu5568/"]
+  "fb_accounts": ["https://www.facebook.com/genewu5568/"],
+  "ig_accounts": ["https://www.instagram.com/genewuyicheng/"],
+  "youtube_channels": []
 }, {
   "title": "吳秉叡",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "吳顯森",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "呂國華",
-  "fb_links": ["https://www.facebook.com/yilan.kuohua"]
+  "fb_accounts": ["https://www.facebook.com/yilan.kuohua"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "呂孫綾",
-  "fb_links": ["https://www.facebook.com/shirleylu312"]
+  "fb_accounts": ["https://www.facebook.com/shirleylu312"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "呂玉玲",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "周柏雅",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "嘉義市立法委員選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "嘉義縣第一選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "嘉義縣第二選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "國會政黨聯盟",
-  "fb_links": ["https://www.facebook.com/CongressPartyAlliance"]
+  "fb_accounts": ["https://www.facebook.com/CongressPartyAlliance"],
+  "ig_accounts": [],
+  "youtube_channels": ["https://www.youtube.com/channel/UC4z-xdASmQkOY8oW1y-XzhA"]
 }, {
   "title": "基進黨",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "基隆市選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "孔文吉",
-  "fb_links": ["https://www.facebook.com/ETtoday"]
+  "fb_accounts": ["https://www.facebook.com/ETtoday"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "孫大千",
-  "fb_links": ["https://www.facebook.com/ETtoday"]
+  "fb_accounts": ["https://www.facebook.com/ETtoday"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "孫繼正",
-  "fb_links": ["https://www.facebook.com/%E5%AD%AB%E7%B9%BC%E6%AD%A3-1218017734949604"]
+  "fb_accounts": ["https://www.facebook.com/%E5%AD%AB%E7%B9%BC%E6%AD%A3-1218017734949604"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "安定力量",
-  "fb_links": ["https://www.facebook.com/ETtoday", "https://www.facebook.com/%E5%8C%97%E5%8C%97%E5%9F%BA%E5%AE%89%E5%AE%9A%E5%8A%9B%E9%87%8F%E8%81%AF%E7%9B%9F-566981693492773/", "https://www.facebook.com/%E5%8F%B0%E5%8D%97%E5%AE%89%E5%AE%9A%E5%8A%9B%E9%87%8F%E8%81%AF%E7%9B%9F-1584379001576217/", "https://www.facebook.com/StabilityOfPower/"]
+  "fb_accounts": ["https://www.facebook.com/ETtoday", "https://www.facebook.com/%E5%8C%97%E5%8C%97%E5%9F%BA%E5%AE%89%E5%AE%9A%E5%8A%9B%E9%87%8F%E8%81%AF%E7%9B%9F-566981693492773/", "https://www.facebook.com/%E5%8F%B0%E5%8D%97%E5%AE%89%E5%AE%9A%E5%8A%9B%E9%87%8F%E8%81%AF%E7%9B%9F-1584379001576217/", "https://www.facebook.com/StabilityOfPower/"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "宋瑋莉",
-  "fb_links": ["https://www.facebook.com/sungweili729"]
+  "fb_accounts": ["https://www.facebook.com/sungweili729"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "宜蘭縣選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "屏東縣第一選舉區 (立法委員)",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "屏東縣第二選舉區 (立法委員)",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "山地原住民選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "平地原住民選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "廖國棟",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "張嘉郡",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "張宏陸",
-  "fb_links": ["https://www.facebook.com/hunglueball"]
+  "fb_accounts": ["https://www.facebook.com/hunglueball"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "張廖萬堅",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "張誠 (臺灣)",
-  "fb_links": ["https://www.facebook.com/PhDChang", "https://www.facebook.com/NoDrugsInTaiwan/", "https://www.facebook.com/AllhandsIM/", "https://www.facebook.com/Taiwan.CT.Alliance/"]
+  "fb_accounts": ["https://www.facebook.com/PhDChang", "https://www.facebook.com/NoDrugsInTaiwan/", "https://www.facebook.com/AllhandsIM/", "https://www.facebook.com/Taiwan.CT.Alliance/"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "彭俊豪",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "彰化縣第一選舉區 (立法委員)",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "彰化縣第三選舉區 (立法委員)",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "彰化縣第二選舉區 (立法委員)",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "彰化縣第四選舉區 (立法委員)",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "徐志榮",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "徐欣瑩",
-  "fb_links": ["https://www.facebook.com/%E5%BE%90%E6%AC%A3%E7%91%A9-131795423172"]
+  "fb_accounts": ["https://www.facebook.com/%E5%BE%90%E6%AC%A3%E7%91%A9-131795423172"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "新北市第一選舉區 (立法委員)",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "新北市第七選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "新北市第三選舉區 (立法委員)",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "新北市第九選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "新北市第二選舉區 (立法委員)",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "新北市第五選舉區 (立法委員)",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "新北市第八選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "新北市第六選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "新北市第十一選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "新北市第十二選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "新北市第十選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "新北市第四選舉區 (立法委員)",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "新竹市選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "新竹縣第一選舉區 (立法委員)",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "新竹縣第二選舉區 (立法委員)",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "新黨",
-  "fb_links": ["https://www.facebook.com/newparty.antifake?fref=ts/"]
+  "fb_accounts": ["https://www.facebook.com/newparty.antifake?fref=ts/"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "時代力量",
-  "fb_links": ["https://www.facebook.com/newpowerparty"]
+  "fb_accounts": ["https://www.facebook.com/newpowerparty"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "曹爾忠",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "李中",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "李彥秀",
-  "fb_links": ["https://www.facebook.com/ashow.tpe"]
+  "fb_accounts": ["https://www.facebook.com/ashow.tpe"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "李昆澤",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "李永萍",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "李翁月娥",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "李雅靜",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "李鴻鈞",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "李麗華",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "林佳瑋",
-  "fb_links": ["https://www.facebook.com/permalink.php?story_fbid=436627120251286&id=435406813706650", "https://www.facebook.com/435406813706650"]
+  "fb_accounts": ["https://www.facebook.com/permalink.php?story_fbid=436627120251286&id=435406813706650", "https://www.facebook.com/435406813706650"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "林俊憲",
-  "fb_links": ["https://www.facebook.com/seeklin"]
+  "fb_accounts": ["https://www.facebook.com/seeklin"],
+  "ig_accounts": [],
+  "youtube_channels": ["https://www.youtube.com/channel/UC6B3ca4b1X_VZtkarAsSuwA"]
 }, {
   "title": "林國春",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "林奕華 (臺灣)",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "林宜瑾",
-  "fb_links": ["https://www.facebook.com/ichin0825", "https://www.facebook.com/ichin870"]
+  "fb_accounts": ["https://www.facebook.com/ichin0825", "https://www.facebook.com/ichin870"],
+  "ig_accounts": [],
+  "youtube_channels": ["https://www.youtube.com/channel/UC7gjO5vLcBfolNiBtLYluSA"]
 }, {
   "title": "林岱樺",
-  "fb_links": ["https://www.facebook.com/ETtoday"]
+  "fb_accounts": ["https://www.facebook.com/ETtoday"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "林德福",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "林易煌",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "林昶佐",
-  "fb_links": ["https://www.facebook.com/limfreddy"]
+  "fb_accounts": ["https://www.facebook.com/limfreddy"],
+  "ig_accounts": [],
+  "youtube_channels": ["https://www.youtube.com/channel/UCeiuy8flBgW3BVbi3O6NjCg"]
 }, {
   "title": "林有志",
-  "fb_links": ["https://www.facebook.com/yochihlin/", "https://www.facebook.com/profile.php?id=100000092542467", "https://www.facebook.com/%E8%8A%B1%E8%93%AE%E8%A7%80%E8%AD%B7%E7%9B%83%E5%9C%8B%E9%9A%9B%E7%B1%83%E7%90%83%E9%82%80%E8%AB%8B%E8%B3%BD-609108919122371/"]
+  "fb_accounts": ["https://www.facebook.com/yochihlin/", "https://www.facebook.com/profile.php?id=100000092542467", "https://www.facebook.com/%E8%8A%B1%E8%93%AE%E8%A7%80%E8%AD%B7%E7%9B%83%E5%9C%8B%E9%9A%9B%E7%B1%83%E7%90%83%E9%82%80%E8%AB%8B%E8%B3%BD-609108919122371/"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "林淑芬",
-  "fb_links": ["https://www.facebook.com/photo.php?fbid=735497599855988&set=a.162786293793791.40993.100001872656795&type=3"]
+  "fb_accounts": ["https://www.facebook.com/photo.php?fbid=735497599855988&set=a.162786293793791.40993.100001872656795&type=3"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "林炳坤",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "林為洲",
-  "fb_links": ["https://www.facebook.com/linweijo"]
+  "fb_accounts": ["https://www.facebook.com/linweijo"],
+  "ig_accounts": [],
+  "youtube_channels": ["https://www.youtube.com/channel/UCoyjNG1o91j2CO4KWMBpV_g"]
 }, {
   "title": "林燕祝",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "林耕仁",
-  "fb_links": ["https://www.facebook.com/CCCHsinchu"]
+  "fb_accounts": ["https://www.facebook.com/CCCHsinchu"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "林郁方",
-  "fb_links": ["https://www.facebook.com/%E6%9E%97%E9%83%81%E6%96%B9-1535162756797804/", "https://www.facebook.com/yufang.lin.182"]
+  "fb_accounts": ["https://www.facebook.com/%E6%9E%97%E9%83%81%E6%96%B9-1535162756797804/", "https://www.facebook.com/yufang.lin.182"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "柯呈枋",
-  "fb_links": ["https://www.facebook.com/chckcf"]
+  "fb_accounts": ["https://www.facebook.com/chckcf"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "柯志恩",
-  "fb_links": ["https://www.facebook.com/ETtoday", "https://www.facebook.com/KoChihEn/"]
+  "fb_accounts": ["https://www.facebook.com/ETtoday", "https://www.facebook.com/KoChihEn/"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "桃園市第一選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "桃園市第三選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "桃園市第二選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "桃園市第五選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "桃園市第六選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "桃園市第四選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "梁文傑",
-  "fb_links": ["https://www.facebook.com/wenchieh.liang.3", "https://www.facebook.com/%E5%8F%B0%E5%8C%97%E5%B8%82%E8%AD%B0%E5%93%A1%E6%A2%81%E6%96%87%E5%82%91-157708810935027"]
+  "fb_accounts": ["https://www.facebook.com/wenchieh.liang.3", "https://www.facebook.com/%E5%8F%B0%E5%8C%97%E5%B8%82%E8%AD%B0%E5%93%A1%E6%A2%81%E6%96%87%E5%82%91-157708810935027"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "楊曜",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "楊瓊瓔",
-  "fb_links": ["https://www.facebook.com/%E5%A5%BD%E7%AB%8B%E5%A7%94-%E6%A5%8A%E7%93%8A%E7%93%94-195094157238158/"]
+  "fb_accounts": ["https://www.facebook.com/%E5%A5%BD%E7%AB%8B%E5%A7%94-%E6%A5%8A%E7%93%8A%E7%93%94-195094157238158/"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "楊麗環",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "民主進步黨",
-  "fb_links": ["https://www.facebook.com/dpptw"]
+  "fb_accounts": ["https://www.facebook.com/dpptw"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "江啟臣",
-  "fb_links": ["https://www.facebook.com/johnnyccchiang"]
+  "fb_accounts": ["https://www.facebook.com/johnnyccchiang"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "江永昌",
-  "fb_links": ["https://www.facebook.com/iamyungchang"]
+  "fb_accounts": ["https://www.facebook.com/iamyungchang"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "汪志冰",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "沈智慧",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "沈發惠",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "洪孟楷",
-  "fb_links": ["https://www.facebook.com/MongKaiHUNG"]
+  "fb_accounts": ["https://www.facebook.com/MongKaiHUNG"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "洪宗熠",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "洪慈庸",
-  "fb_links": ["https://www.facebook.com/newpowerhung"]
+  "fb_accounts": ["https://www.facebook.com/newpowerhung"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "洪麗萍",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "游祥耀",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "潘懷宗",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "澎湖縣選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "無黨團結聯盟",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "無黨籍",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "王世堅",
-  "fb_links": ["https://www.facebook.com/shihchien888/", "https://www.facebook.com/shihchien888"]
+  "fb_accounts": ["https://www.facebook.com/shihchien888/", "https://www.facebook.com/shihchien888"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "王定宇",
-  "fb_links": ["https://www.facebook.com/wdy19690305"]
+  "fb_accounts": ["https://www.facebook.com/wdy19690305"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "王家貞",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "王廷升",
-  "fb_links": ["https://www.facebook.com/hongjhen.chen", "https://www.facebook.com/timothyw.tw/"]
+  "fb_accounts": ["https://www.facebook.com/hongjhen.chen", "https://www.facebook.com/timothyw.tw/"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "王義川",
-  "fb_links": ["https://www.facebook.com/ariver1972"]
+  "fb_accounts": ["https://www.facebook.com/ariver1972"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "社會民主黨 (臺灣)",
-  "fb_links": ["https://www.facebook.com/sdparty.tw"]
+  "fb_accounts": ["https://www.facebook.com/sdparty.tw"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "羅明才",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "羅致政",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "翁美春",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "臺中市第一選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "臺中市第七選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "臺中市第三選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "臺中市第二選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "臺中市第五選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "臺中市第八選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "臺中市第六選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "臺中市第四選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "臺北市第一選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "臺北市第七選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "臺北市第三選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "臺北市第二選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "臺北市第五選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "臺北市第八選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "臺北市第六選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "臺北市第四選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "臺南市第一選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "臺南市第三選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "臺南市第二選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "臺南市第五選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "臺南市第六選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "臺南市第四選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "臺東縣選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "花蓮縣選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "苗栗縣第一選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "苗栗縣第二選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "范雲",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "莊子富",
-  "fb_links": ["https://www.facebook.com/FM1007Nico", "https://www.facebook.com/FM1007Nico/"]
+  "fb_accounts": ["https://www.facebook.com/FM1007Nico", "https://www.facebook.com/FM1007Nico/"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "莊瑞雄",
-  "fb_links": ["https://www.facebook.com/lawyer0420"]
+  "fb_accounts": ["https://www.facebook.com/lawyer0420"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "葉壽山",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "蔡其昌",
-  "fb_links": ["https://www.facebook.com/taichungGogogo"]
+  "fb_accounts": ["https://www.facebook.com/taichungGogogo"],
+  "ig_accounts": ["https://www.instagram.com/tsaimimi0416"],
+  "youtube_channels": []
 }, {
   "title": "蔡培慧",
-  "fb_links": ["https://www.facebook.com/ahuitsai.tw/"]
+  "fb_accounts": ["https://www.facebook.com/ahuitsai.tw/"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "蔡易餘",
-  "fb_links": ["https://www.facebook.com/chiayionefish/"]
+  "fb_accounts": ["https://www.facebook.com/chiayionefish/"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "蔡育輝",
-  "fb_links": ["https://www.facebook.com/yuhui877/"]
+  "fb_accounts": ["https://www.facebook.com/yuhui877/"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "蔡適應",
-  "fb_links": ["https://www.facebook.com/%E5%9F%BA%E9%9A%86%E8%94%A1%E9%81%A9%E6%87%89-114129008623973/"]
+  "fb_accounts": ["https://www.facebook.com/%E5%9F%BA%E9%9A%86%E8%94%A1%E9%81%A9%E6%87%89-114129008623973/"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "蔣月惠",
-  "fb_links": ["https://www.facebook.com/photo.php?fbid=1812503248830033&set=a.153796098034098.41150.100002111251596&type=3", "https://www.facebook.com/permalink.php?story_fbid=1133784290005413&id=100001215589335", "https://www.facebook.com/%E8%94%A3%E6%9C%88%E6%83%A0%E7%B8%A3%E8%AD%B0%E5%93%A1%E6%9C%8D%E5%8B%99%E5%B0%88%E5%8D%80-1415047975474831"]
+  "fb_accounts": ["https://www.facebook.com/photo.php?fbid=1812503248830033&set=a.153796098034098.41150.100002111251596&type=3", "https://www.facebook.com/permalink.php?story_fbid=1133784290005413&id=100001215589335", "https://www.facebook.com/%E8%94%A3%E6%9C%88%E6%83%A0%E7%B8%A3%E8%AD%B0%E5%93%A1%E6%9C%8D%E5%8B%99%E5%B0%88%E5%8D%80-1415047975474831"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "蔣絜安",
-  "fb_links": ["https://www.facebook.com/chiehan.chiang", "https://www.facebook.com/ChiangChiehAn/"]
+  "fb_accounts": ["https://www.facebook.com/chiehan.chiang", "https://www.facebook.com/ChiangChiehAn/"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "蔣萬安",
-  "fb_links": ["https://www.facebook.com/chiangwanan"]
+  "fb_accounts": ["https://www.facebook.com/chiangwanan"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "蕭景田",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "蕭美琴",
-  "fb_links": ["https://www.facebook.com/Bikhim"]
+  "fb_accounts": ["https://www.facebook.com/Bikhim"],
+  "ig_accounts": ["https://www.instagram.com/bikhimhsiao/"],
+  "youtube_channels": []
 }, {
   "title": "蘇巧慧",
-  "fb_links": ["https://www.facebook.com/chiaohui.su"]
+  "fb_accounts": ["https://www.facebook.com/chiaohui.su"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "親民黨",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "許智傑",
-  "fb_links": ["https://www.facebook.com/ifongshan"]
+  "fb_accounts": ["https://www.facebook.com/ifongshan"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "許淑華 (南投縣)",
-  "fb_links": ["https://www.facebook.com/%E8%A8%B1%E6%B7%91%E8%8F%AF-130771133668155"]
+  "fb_accounts": ["https://www.facebook.com/%E8%A8%B1%E6%B7%91%E8%8F%AF-130771133668155"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "謝淑亞",
-  "fb_links": ["https://www.facebook.com/photo.php?fbid=802875459807847&set=a.269049123190486.59388.100002562014242&type=1&theater", "https://www.facebook.com/photo.php?fbid=838166076278785&set=a.269049123190486.59388.100002562014242&type=1", "https://www.facebook.com/photo.php?fbid=832289873533072&set=a.269049123190486.59388.100002562014242&type=1"]
+  "fb_accounts": ["https://www.facebook.com/photo.php?fbid=802875459807847&set=a.269049123190486.59388.100002562014242&type=1&theater", "https://www.facebook.com/photo.php?fbid=838166076278785&set=a.269049123190486.59388.100002562014242&type=1", "https://www.facebook.com/photo.php?fbid=832289873533072&set=a.269049123190486.59388.100002562014242&type=1"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "謝龍介",
-  "fb_links": ["https://www.facebook.com/TEL062268268/", "https://www.facebook.com/TEL062268268"]
+  "fb_accounts": ["https://www.facebook.com/TEL062268268/", "https://www.facebook.com/TEL062268268"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "費鴻泰",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "賴士葆",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "賴惠員",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "賴燕雪",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "賴瑞隆",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "賴義鍠",
-  "fb_links": ["https://www.facebook.com/profile.php?id=100000969381832"]
+  "fb_accounts": ["https://www.facebook.com/profile.php?id=100000969381832"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "趙天麟 (臺灣)",
-  "fb_links": ["https://www.facebook.com/%E8%B6%99%E5%A4%A9%E9%BA%9F-109004835824305/", "https://www.facebook.com/usky6238"]
+  "fb_accounts": ["https://www.facebook.com/%E8%B6%99%E5%A4%A9%E9%BA%9F-109004835824305/", "https://www.facebook.com/usky6238"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "趙正宇",
-  "fb_links": ["https://www.facebook.com/JhengYuOfficeBlog/"]
+  "fb_accounts": ["https://www.facebook.com/JhengYuOfficeBlog/"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "連江縣選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "選區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "邱志偉 (政治人物)",
-  "fb_links": ["https://www.facebook.com/profile.php?id=100002627701853&fref=ts"]
+  "fb_accounts": ["https://www.facebook.com/profile.php?id=100002627701853&fref=ts"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "邱議瑩",
-  "fb_links": ["https://www.facebook.com/%E7%99%BB%E7%9C%9F%E9%82%B1%E8%AD%B0%E7%91%A9-179828222070223"]
+  "fb_accounts": ["https://www.facebook.com/%E7%99%BB%E7%9C%9F%E9%82%B1%E8%AD%B0%E7%91%A9-179828222070223"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "邱靖雅",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "郭國文",
-  "fb_links": ["https://www.facebook.com/gogowin2010"]
+  "fb_accounts": ["https://www.facebook.com/gogowin2010"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "鄭天財",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "鄭宏輝",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "鄭寶清",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "鄭朝方",
-  "fb_links": ["https://www.facebook.com/newchange13/"]
+  "fb_accounts": ["https://www.facebook.com/newchange13/"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "鄭正鈐",
-  "fb_links": ["https://www.facebook.com/CCCHsinchu"]
+  "fb_accounts": ["https://www.facebook.com/CCCHsinchu"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "鄭運鵬",
-  "fb_links": ["https://www.facebook.com/nicepongpong"]
+  "fb_accounts": ["https://www.facebook.com/nicepongpong"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "金門縣選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "鍾佳濱",
-  "fb_links": ["https://www.facebook.com/cafe1965"]
+  "fb_accounts": ["https://www.facebook.com/cafe1965"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "陳亭妃",
-  "fb_links": ["https://www.facebook.com/fififamily"]
+  "fb_accounts": ["https://www.facebook.com/fififamily"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "陳俊龍",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "陳學聖",
-  "fb_links": ["https://www.facebook.com/junglicity/", "https://www.facebook.com/junglicity"]
+  "fb_accounts": ["https://www.facebook.com/junglicity/", "https://www.facebook.com/junglicity"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "陳建銘",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "陳怡潔",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "陳明文",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "陳明義 (臺灣)",
-  "fb_links": ["https://www.facebook.com/imingyi"]
+  "fb_accounts": ["https://www.facebook.com/imingyi"],
+  "ig_accounts": ["https://www.instagram.com/good_mingyi/"],
+  "youtube_channels": []
 }, {
   "title": "陳杰 (政治人物)",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "陳柏惟",
-  "fb_links": ["https://www.facebook.com/ETtoday", "https://www.facebook.com/3Q.PehUi", "https://www.facebook.com/3Q.PehUi/", "https://www.facebook.com/wonda.chen"]
+  "fb_accounts": ["https://www.facebook.com/ETtoday", "https://www.facebook.com/3Q.PehUi", "https://www.facebook.com/3Q.PehUi/", "https://www.facebook.com/wonda.chen"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "陳根德",
-  "fb_links": ["https://www.facebook.com/kentechen"]
+  "fb_accounts": ["https://www.facebook.com/kentechen"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "陳歐珀",
-  "fb_links": ["https://www.facebook.com/oupchen"]
+  "fb_accounts": ["https://www.facebook.com/oupchen"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "陳玉珍 (金門)",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "陳瑩 (政治人物)",
-  "fb_links": ["https://www.facebook.com/11YIG"]
+  "fb_accounts": ["https://www.facebook.com/11YIG"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "陳福海",
-  "fb_links": ["https://www.facebook.com/%E9%99%B3%E7%A6%8F%E6%B5%B7-275539222468954"]
+  "fb_accounts": ["https://www.facebook.com/%E9%99%B3%E7%A6%8F%E6%B5%B7-275539222468954"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "陳素月",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "陳美雅",
-  "fb_links": ["https://www.facebook.com/meiya5881555"]
+  "fb_accounts": ["https://www.facebook.com/meiya5881555"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "陳茂嘉",
-  "fb_links": ["https://www.facebook.com/mars.chen.359778/"]
+  "fb_accounts": ["https://www.facebook.com/mars.chen.359778/"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "陳超明",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "陳雨凡",
-  "fb_links": ["https://www.facebook.com/voteufan", "https://www.facebook.com/yufan.chen.7"]
+  "fb_accounts": ["https://www.facebook.com/voteufan", "https://www.facebook.com/yufan.chen.7"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "陳雪生",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "雲林縣第一選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "雲林縣第二選舉區",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "顏寬恒",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "顏秋月",
-  "fb_links": ["https://www.facebook.com/chiouyueyen?fref=ts"]
+  "fb_accounts": ["https://www.facebook.com/chiouyueyen?fref=ts"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "顏聖冠",
-  "fb_links": ["https://www.facebook.com/ShengKuan", "https://www.facebook.com/akuan620/"]
+  "fb_accounts": ["https://www.facebook.com/ShengKuan", "https://www.facebook.com/akuan620/"],
+  "ig_accounts": ["https://www.instagram.com/aguan0620/"],
+  "youtube_channels": []
 }, {
   "title": "馬文君",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "高嘉瑜",
-  "fb_links": ["https://www.facebook.com/ntufishfans"]
+  "fb_accounts": ["https://www.facebook.com/ntufishfans"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "高金素梅",
-  "fb_links": ["https://www.facebook.com/ETtoday"]
+  "fb_accounts": ["https://www.facebook.com/ETtoday"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "高鈺婷",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "高雄市第一選舉區 (立法委員)",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "高雄市第七選舉區 (立法委員)",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "高雄市第三選舉區 (立法委員)",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "高雄市第二選舉區 (立法委員)",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "高雄市第五選舉區 (立法委員)",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "高雄市第八選舉區 (立法委員)",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "高雄市第六選舉區 (立法委員)",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "高雄市第四選舉區 (立法委員)",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "魯明哲",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "黃國昌",
-  "fb_links": ["https://www.facebook.com/kchuang2013", "https://www.facebook.com/kcfor2016"]
+  "fb_accounts": ["https://www.facebook.com/kchuang2013", "https://www.facebook.com/kcfor2016"],
+  "ig_accounts": [],
+  "youtube_channels": ["https://www.youtube.com/channel/UCNWAsexY9eiS1N6JDns-0kw"]
 }, {
   "title": "黃國書 (臺中市政治人物)",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "黃志雄",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "黃昭順",
-  "fb_links": ["https://www.facebook.com/ETtoday", "https://www.facebook.com/chaoshun"]
+  "fb_accounts": ["https://www.facebook.com/ETtoday", "https://www.facebook.com/chaoshun"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "黃柏霖",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "黃桂蘭",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "黃玉芬",
-  "fb_links": ["https://www.facebook.com/%E9%BB%83%E7%8E%89%E8%8A%AC-491176550931779/"]
+  "fb_accounts": ["https://www.facebook.com/%E9%BB%83%E7%8E%89%E8%8A%AC-491176550931779/"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "黃珊珊",
-  "fb_links": ["https://www.facebook.com/taipei33"]
+  "fb_accounts": ["https://www.facebook.com/taipei33"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "黃秀芳",
-  "fb_links": ["https://www.facebook.com/smilefangfang/"]
+  "fb_accounts": ["https://www.facebook.com/smilefangfang/"],
+  "ig_accounts": [],
+  "youtube_channels": ["https://www.youtube.com/channel/UCIcAHFFAEEMnOmNXKzyfZng"]
 }, {
   "title": "黃馨慧",
-  "fb_links": ["https://www.facebook.com/hsinghwi200"]
+  "fb_accounts": ["https://www.facebook.com/hsinghwi200"],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "张志明",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "黃世傑",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "黄仁",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "池國樑",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "蔡森然",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "蔡明堂",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "邱烽堯",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "羅文崇",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "林金結",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "萬美玲",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "楊家俍",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "劉得宏",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "游良福",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "吳守文",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "周賜海",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "顏東義",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "洪秀菊",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "李武龍",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "李中岑",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "許至樁",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "陳麗真",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "蔡淑惠",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "林美燕",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "盧崑福",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "曾培雅",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "王齡嬌",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "朱信強",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "羅鼎城",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "黃韻涵",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "徐慶煌",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "陳麗娜",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "陳志成",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "楊石城",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "孫博萮",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "林碩彥",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "林思銘",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "周江杰",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "黃源甫",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "朱英濠",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "温俊勇",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "陳秀寶",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "楊澤民",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "張瀚天",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "謝衣鳳",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "林文瑞",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "李培元",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "許忠富",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "江永田",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "彭新銘",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "林江釧",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "王啟澧",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "蔡義柏",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "簡明廉",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "許能通",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "傅大偉",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "王美惠",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "蔡永泉",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "黃冬輝",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "宋麗華",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "林育先",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "周佳琪",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "潘政治",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "李建智",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "黃啟嘉",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "黃同成",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "歐中慨",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "陳大松",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "高美珠",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "楊進福",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "章正輝",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "邱黃肇崇",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "伍麗華",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "伊斯坦大.貝雅夫.正福",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "高李孟萍",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "柯富國",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }, {
   "title": "李玉蕙",
-  "fb_links": []
+  "fb_accounts": [],
+  "ig_accounts": [],
+  "youtube_channels": []
 }]
