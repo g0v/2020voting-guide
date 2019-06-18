@@ -1,14 +1,15 @@
 import json
+import re
 from multiprocessing.dummy import Pool
 from os import remove
 
 import requests
-import wptools
 
 from util import store_json
 
 URL = 'https://zh.wikipedia.org/w/api.php'
-OUTPUT_RAW = '../data/raw/legislator_candidate_infobox.json'
+OUTPUT_RAW = '../data/raw/legislator_candidate_external_links.json'
+OUTPUT_TRANSFORMED = '../data/organized/legislator_candidate_external_links.json'
 
 
 def remove_output():
@@ -42,19 +43,39 @@ def get_infobox_page_list():
     return [link['*'] for link in response_data['parse']['links'] if not link['*'].startswith('Template')]
 
 
-def get_infobox(page_name):
+def get_page_links(page_name):
+    payload = {
+        'action': 'parse',
+        'format': 'json',
+        'page': page_name,
+        'prop': 'externallinks',
+        'utf8': ''
+    }
+    response_data = json.loads(_send_request(payload))
     try:
-        page = wptools.page(page_name, lang='zh').get_parse()
-        return {'page_name': page_name, **page.data['infobox']}
-    except TypeError:
-        print(f'[WARRNING] No infobox could be find, page_name: {page_name}')
-    except LookupError:
-        print(f'[ERROR] No page could be find, page_name: {page_name}')
+        return response_data['parse']
+    except KeyError:
+        print(f'[WARRNING] {page_name} does not have key "parse"')
+        return {'title': page_name}
+
+
+def transform(pages_links):
+    def classify_links(page):
+        return {
+            'title': page['title'],
+            'fb_links': [link for link in page.get('externallinks', []) if re.match(r'^https://www.facebook.com/[^/]+/?$', link)]
+        }
+
+    return [classify_links(page) for page in pages_links]
 
 
 if __name__ == "__main__":
     page_names = get_infobox_page_list()
     with Pool(processes=4) as pool:
-        info_boxes = pool.map(get_infobox, page_names)
-    info_boxes_string = json.dumps(info_boxes, ensure_ascii=False)
-    store_json(info_boxes_string, OUTPUT_RAW)
+        pages_links = pool.map(get_page_links, page_names)
+    pages_links_string = json.dumps(pages_links, ensure_ascii=False)
+    store_json(pages_links_string, OUTPUT_RAW)
+
+    # with open(OUTPUT_RAW) as fp:
+    #     pages_links = json.load(fp)
+    store_json(json.dumps(transform(pages_links), ensure_ascii=False), OUTPUT_TRANSFORMED)
