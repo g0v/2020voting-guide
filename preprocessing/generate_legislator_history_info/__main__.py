@@ -27,12 +27,12 @@ def readRawData():
 def integrateData(raw):
     name_list = list(map(lambda x: x["name"], NUMBER_INFO))
     result = {
-      info["name"]: {
-        "id": info["id"],
-        "name": info["name"],
-        "detail_list": [],
-        "electionHistory": election_history.getHistory(info["name"])
-      } for info in NUMBER_INFO
+        info["name"]: {
+            "id": info["id"],
+            "name": info["name"],
+            "detail_list": [],
+            "electionHistory": election_history.getHistory(info["name"])
+        } for info in NUMBER_INFO
     }
     for name, datas in groupby(raw, lambda x: x["name"]):
         for data in datas:

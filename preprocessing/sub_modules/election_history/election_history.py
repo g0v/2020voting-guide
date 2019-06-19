@@ -1,23 +1,16 @@
 import re
 import os
 import csv
-import json
-from glob import glob
 from pathlib import Path
-
-import util
-
-# NUMBER_INFO = util.readNumberingData()
-# name_list = list(map(lambda x: x["name"], NUMBER_INFO))
 
 FILE_NAME_CAND = r"elcand*.csv"
 FILE_NAME_PARTY = r"elpaty.csv"
 FILE_NAME_REPM = r"elrepm*.csv"
 
 SCHEMA = {
-  FILE_NAME_CAND: ["province", "county", "area", "city", "village", "number", "name", "partyNo", "gender", "birth", "age", "birthPlace", "education", "incumbent", "win", "vice"],
-  FILE_NAME_PARTY: ["number", "name"],
-  FILE_NAME_REPM: ["partyNo", "rank", "name", "gender", "birth", "age", "birthPlace", "education", "incumbent", "win"]
+    FILE_NAME_CAND: ["province", "county", "area", "city", "village", "number", "name", "partyNo", "gender", "birth", "age", "birthPlace", "education", "incumbent", "win", "vice"],
+    FILE_NAME_PARTY: ["number", "name"],
+    FILE_NAME_REPM: ["partyNo", "rank", "name", "gender", "birth", "age", "birthPlace", "education", "incumbent", "win"]
 }
 
 FILE_DIR = os.path.dirname(os.path.abspath(__file__))
