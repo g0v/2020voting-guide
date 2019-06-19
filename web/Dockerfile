@@ -4,6 +4,6 @@ ENV PATH /app/node_modules/.bin:$PATH
 COPY web /app
 
 WORKDIR /app
-RUN npm install --silent --only=production
+RUN npm install --silent
 ENTRYPOINT [ "npm" ]
 CMD ["start"]
