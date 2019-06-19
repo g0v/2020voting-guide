@@ -61,12 +61,18 @@ def get_page_links(page_name):
 
 def transform(pages_links):
     def classify_links(page):
+        blacklist = ['https://www.facebook.com/ETtoday',
+                     'https://www.facebook.com/StabilityOfPower/']
         return {
             'title': page['title'],
-            'fb_accounts': [link for link in page.get('externallinks', []) if re.match(r'^https://www.facebook.com/[^/]+/?$', link)],
+            'fb_accounts': [
+                link for link in page.get('externallinks', [])
+                if re.match(r'^https://www.facebook.com/[^/]+/?$', link) and link not in blacklist
+            ],
             'ig_accounts': [link for link in page.get('externallinks', []) if re.match(r'^https://www.instagram.com/[^/]+/?$', link)],
             'youtube_channels': [
-                link for link in page.get('externallinks', []) if re.match(r'^https://www.youtube.com/channel/[^/]+/?$', link)
+                link for link in page.get('externallinks', [])
+                if re.match(r'^https://www.youtube.com/channel/[^/]+/?$', link)
             ]
         }
 
@@ -74,12 +80,12 @@ def transform(pages_links):
 
 
 if __name__ == "__main__":
-    page_names = get_infobox_page_list()
-    with Pool(processes=4) as pool:
-        pages_links = pool.map(get_page_links, page_names)
-    pages_links_string = json.dumps(pages_links, ensure_ascii=False)
-    store_json(pages_links_string, OUTPUT_RAW)
+    # page_names = get_infobox_page_list()
+    # with Pool(processes=4) as pool:
+    #     pages_links = pool.map(get_page_links, page_names)
+    # pages_links_string = json.dumps(pages_links, ensure_ascii=False)
+    # store_json(pages_links_string, OUTPUT_RAW)
 
-    # with open(OUTPUT_RAW) as fp:
-    #     pages_links = json.load(fp)
+    with open(OUTPUT_RAW) as fp:
+        pages_links = json.load(fp)
     store_json(json.dumps(transform(pages_links), ensure_ascii=False), OUTPUT_TRANSFORMED)
