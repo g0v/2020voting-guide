@@ -4,3 +4,5 @@ steps:
   timeout: 500s
 - name: 'gcr.io/cloud-builders/docker'
   args: ['push', 'gcr.io/${PROJECT_ID}/voting-guide']
+- name: 'gcr.io/cloud-builders/gcloud'
+  args: ['compute', 'instances', 'update-container', 'voting-guide', '--container-image', 'gcr.io/${PROJECT_ID}/voting-guide']

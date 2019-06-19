@@ -5,3 +5,5 @@ COPY web /app
 
 WORKDIR /app
 RUN npm install --silent --only=production
+ENTRYPOINT [ "npm" ]
+CMD ["start"]
