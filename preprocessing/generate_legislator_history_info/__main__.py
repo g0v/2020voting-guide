@@ -4,6 +4,7 @@ from glob import glob
 from itertools import groupby
 
 import util
+from election_history import election_history
 from yuan_sittings_attend_rate import yuan_sittings_attend_rate
 
 FILE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -25,7 +26,14 @@ def readRawData():
 
 def integrateData(raw):
     name_list = list(map(lambda x: x["name"], NUMBER_INFO))
-    result = {info["name"]: {"id": info["id"], "name": info["name"], "detail_list": []} for info in NUMBER_INFO}
+    result = {
+      info["name"]: {
+        "id": info["id"],
+        "name": info["name"],
+        "detail_list": [],
+        "electionHistory": election_history.getHistory(info["name"])
+      } for info in NUMBER_INFO
+    }
     for name, datas in groupby(raw, lambda x: x["name"]):
         for data in datas:
             if name in name_list:
