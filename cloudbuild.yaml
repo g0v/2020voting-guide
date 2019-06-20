@@ -1,0 +1,8 @@
+steps:
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['build', '-t', 'gcr.io/${PROJECT_ID}/voting-guide', '-f', 'web/Dockerfile', '.']
+  timeout: 500s
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['push', 'gcr.io/${PROJECT_ID}/voting-guide']
+- name: 'gcr.io/cloud-builders/gcloud'
+  args: ['compute', 'instances', 'update-container', 'voting-guide', '--zone', 'us-central1-a', '--container-image', 'gcr.io/${PROJECT_ID}/voting-guide']
