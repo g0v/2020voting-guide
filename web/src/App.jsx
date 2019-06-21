@@ -35,7 +35,7 @@ function App() {
           textColor="primary"
           centered
         >
-          <Tab className={classes.tab} label="首頁" component={Link} to="/" />
+          <Tab className={classes.tab} label="首頁test" component={Link} to="/" />
           <Tab className={classes.tab} label="地圖" component={Link} to="/map" />
           <Tab className={classes.tab} label="立委候選人" component={Link} to="/candidate" />
           <Tab className={classes.tab} label="關於" component={Link} to="/about" />
