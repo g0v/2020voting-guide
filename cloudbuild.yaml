@@ -5,4 +5,4 @@ steps:
 - name: 'gcr.io/cloud-builders/docker'
   args: ['push', 'gcr.io/${PROJECT_ID}/voting-guide']
 - name: 'gcr.io/cloud-builders/gcloud'
-  args: ['compute', 'instances', 'reset', 'voting-guide']
+  args: ['compute', 'instances', 'reset', 'voting-guide', '--zone', 'us-central1-a']
