@@ -1,10 +1,10 @@
-"""Crawl 2016 candidate bulletin.
+"""Crawl 2016 candidate politics.
 
 output:
 
 [{
   "name": "丁守中",
-  "bulletin": "一、 獎助科研創新、大幅獎助綠能與文創產業；大幅提高智慧..."
+  "politics": "一、 獎助科研創新、大幅獎助綠能與文創產業；大幅提高智慧..."
 },...]
 """
 import re
@@ -13,13 +13,13 @@ import scrapy
 from scrapy.selector import Selector
 
 
-class BulletinSpider(scrapy.Spider):
-    name = "2016-legistator_bulletin"
+class PoliticsSpider(scrapy.Spider):
+    name = "2016-legistator_politics"
     allowed_domains = ["2016.cec.gov.tw"]
 
     def __init__(self, start_urls=None, *args, **kwargs):
         self.start_urls = start_urls
-        super(BulletinSpider, self).__init__(*args, **kwargs)
+        super(PoliticsSpider, self).__init__(*args, **kwargs)
 
     def start_requests(self):
         for url in self.start_urls:
@@ -33,10 +33,10 @@ class BulletinSpider(scrapy.Spider):
             if re.match(pattern, text):
                 data = json.loads(re.match(pattern, text).group(1))
         if "rptpolitics" in data:
-            self.logger.info("processed bulletin info for " + data["candidatename"])
+            self.logger.info("processed politics info for " + data["candidatename"])
             yield {
                 "name": data["candidatename"],
-                "bulletin": data["rptpolitics"]
+                "politics": data["rptpolitics"]
             }
         else:
-            self.logger.info("no bulletin info for " + data["candidatename"])
+            self.logger.info("no politics info for " + data["candidatename"])
