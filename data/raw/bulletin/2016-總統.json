@@ -1,0 +1,29 @@
+[
+  {
+    "RecPartyName": "中國國民黨",
+    "RecPartyNo": "001",
+    "DrawNo": "1",
+    "CandidateName": "總統候選人:朱立倫",
+    "CandidateUrl": "http://2016.cec.gov.tw/frontsite/2016/proofreader/canRPT/detail/1/1",
+    "CandidateName2": "副總統候選人:王如玄",
+    "CandidateUrl2": "http://2016.cec.gov.tw/frontsite/2016/proofreader/canRPT/detail/2/1"
+  },
+  {
+    "RecPartyName": "民主進步黨",
+    "RecPartyNo": "016",
+    "DrawNo": "2",
+    "CandidateName": "總統候選人:蔡英文",
+    "CandidateUrl": "http://2016.cec.gov.tw/frontsite/2016/proofreader/canRPT/detail/1/2",
+    "CandidateName2": "副總統候選人:陳建仁",
+    "CandidateUrl2": "http://2016.cec.gov.tw/frontsite/2016/proofreader/canRPT/detail/2/2"
+  },
+  {
+    "RecPartyName": "親民黨",
+    "RecPartyNo": "090",
+    "DrawNo": "3",
+    "CandidateName": "總統候選人:宋楚瑜",
+    "CandidateUrl": "http://2016.cec.gov.tw/frontsite/2016/proofreader/canRPT/detail/1/3",
+    "CandidateName2": "副總統候選人:徐欣瑩",
+    "CandidateUrl2": "http://2016.cec.gov.tw/frontsite/2016/proofreader/canRPT/detail/2/3"
+  }
+]
