@@ -1,0 +1,32 @@
+$barHeight: 56px;
+
+.appName {
+    font-size: 20px;
+    color: white;
+    list-style: none;
+    
+}
+.nav{
+    list-style: none;
+    
+    width: 95%;
+    height: $barHeight;
+    margin: 0 auto;
+    position: relative;
+    .tab{
+        font-family: 'Segoe';
+        line-height: $barHeight;
+        a{
+            font-size: 18px;
+            color: #b8c7ce;
+            text-decoration: none;
+        }
+    }
+    .firstTab{
+        margin: 0 20px;
+    }
+    .logo{
+        margin-top: 2px;
+        max-width: 128px;
+    }
+}
