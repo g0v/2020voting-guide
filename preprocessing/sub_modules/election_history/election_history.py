@@ -4,6 +4,8 @@ import csv
 import json
 from pathlib import Path
 
+from political_contributions import political_contributions
+
 FILE_NAME_CAND = r"elcand*.csv"
 FILE_NAME_PARTY = r"elpaty.csv"
 FILE_NAME_REPM = r"elrepm*.csv"
@@ -59,6 +61,16 @@ def readRawData():
                     row["electionName"] = "-".join(dir.split("voteData/")[1].split("/"))
                     if row["electionName"].startswith("2016") and row["name"] in politics_info:
                         row["politics"] = politics_info[row["name"]]
+                        pc = political_contributions.getPCInfo(row["name"])
+                        if len(pc) > 0:
+                            row["voteCount"] = pc["voteCount"]
+                            row["votePer"] = pc["votePer"]
+                            if row["win"] == "*":
+                                row["committee"] = pc["committee"]
+                            del pc["voteCount"]
+                            del pc["votePer"]
+                            del pc["committee"]
+                            row["politicalContributions"] = pc
                     history_info.setdefault(row['name'], []).append(row)
     return history_info
 
