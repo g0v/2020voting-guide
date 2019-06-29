@@ -7,6 +7,7 @@
 }
 
 .header{
+  padding-top: 10px;
   position: fixed;
   left: 0;
   top: 0;
@@ -28,4 +29,24 @@
   margin-top: 74px;
   margin-bottom: 30px;
   background: #fff;
+}
+
+$barHeight: 56px;
+
+.nav{
+    list-style: none;
+    width: 95%;
+    height: $barHeight;
+    margin: 0 auto;
+    position: relative;
+    .appName {
+      font-size: 20px;
+      color: white;
+      list-style: none;
+      
+    }
+}
+
+.drawer-btn {
+  padding: 10px;
 }
