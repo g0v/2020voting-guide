@@ -1,4 +1,4 @@
-FROM node:12.5.0-alpine AS builder
+FROM node:12.2.0-alpine AS builder
 
 ENV PATH /app/node_modules/.bin:$PATH
 COPY web /app
