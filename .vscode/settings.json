@@ -1,0 +1,22 @@
+{
+    "python.linting.pydocstyleEnabled": true,
+    "python.linting.pydocstyleArgs": ["--ignore=D100,D103,D213,D101,D102"],
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Args": ["--max-line-length=140"],
+    "python.jediEnabled": true,
+    "go.useLanguageServer": true,
+    "go.autocompleteUnimportedPackages": true,
+    "go.docsTool": "gogetdoc",
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        {
+            "language": "typescript",
+            "autoFix": true
+        },
+        {
+            "language": "typescriptreact",
+            "autoFix": true
+        }
+    ]
+}
