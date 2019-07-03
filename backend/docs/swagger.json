@@ -1,0 +1,190 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "2020 Voting Guide Backend",
+        "title": "2020 Voting Guide",
+        "contact": {},
+        "license": {},
+        "version": "0.0.1"
+    },
+    "host": "{{.Host}}",
+    "basePath": "{{.BasePath}}",
+    "paths": {
+        "/candidate/{id}": {
+            "get": {
+                "description": "get the candidate by id",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "summary": "get the candidate by id",
+                "parameters": [
+                    {
+                        "type": "string",
+                        "description": "ID",
+                        "name": "id",
+                        "in": "path",
+                        "required": true
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "schema": {
+                            "type": "object",
+                            "$ref": "#/definitions/main.Candidate"
+                        }
+                    }
+                }
+            }
+        },
+        "/candidates/constituency/{constituency}": {
+            "get": {
+                "description": "list candidates by constituency",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "summary": "List candidates by constituency",
+                "parameters": [
+                    {
+                        "type": "string",
+                        "description": "Constituency",
+                        "name": "constituency",
+                        "in": "path",
+                        "required": true
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "schema": {
+                            "type": "object",
+                            "$ref": "#/definitions/main.CandidateCards"
+                        }
+                    }
+                }
+            }
+        },
+        "/version": {
+            "get": {
+                "summary": "2020 Voting Guide Service Version",
+                "responses": {
+                    "200": {
+                        "description": "X.X.X",
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    "500": {
+                        "description": "fail"
+                    }
+                }
+            }
+        }
+    },
+    "definitions": {
+        "main.Candidate": {
+            "type": "object",
+            "properties": {
+                "age": {
+                    "type": "integer"
+                },
+                "bornIn": {
+                    "type": "string"
+                },
+                "county": {
+                    "type": "object",
+                    "$ref": "#/definitions/main.CountyCard"
+                },
+                "educationalBackground": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "experiences": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "id": {
+                    "type": "string"
+                },
+                "name": {
+                    "type": "string"
+                },
+                "photo": {
+                    "type": "string"
+                },
+                "politics": {
+                    "type": "string"
+                }
+            }
+        },
+        "main.CandidateCard": {
+            "type": "object",
+            "properties": {
+                "county": {
+                    "type": "object",
+                    "$ref": "#/definitions/main.CountyCard"
+                },
+                "experience": {
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "name": {
+                    "type": "string"
+                },
+                "photo": {
+                    "type": "string"
+                }
+            }
+        },
+        "main.CandidateCards": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "county": {
+                        "type": "object",
+                        "$ref": "#/definitions/main.CountyCard"
+                    },
+                    "experience": {
+                        "type": "string"
+                    },
+                    "id": {
+                        "type": "string"
+                    },
+                    "name": {
+                        "type": "string"
+                    },
+                    "photo": {
+                        "type": "string"
+                    }
+                }
+            }
+        },
+        "main.CountyCard": {
+            "type": "object",
+            "properties": {
+                "emblem": {
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "name": {
+                    "type": "string"
+                }
+            }
+        }
+    }
+}

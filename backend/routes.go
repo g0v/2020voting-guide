@@ -1,34 +1,19 @@
 package main
 
 import (
-	"net/http"
-
-	"github.com/gorilla/mux"
+	_ "github.com/bangyuwen/2020voting-guide/backend/docs"
+	"github.com/gin-gonic/gin"
+	ginSwagger "github.com/swaggo/gin-swagger"
+	"github.com/swaggo/gin-swagger/swaggerFiles"
 )
 
-type Route struct {
-	Name    string
-	Method  string
-	Path    string
-	Handler http.HandlerFunc
-}
+func setupRouter() *gin.Engine {
+	r := gin.Default()
 
-type Routes []Route
+	r.GET("/swagger/*any", ginSwagger.WrapHandler(swaggerFiles.Handler))
+	r.GET("/version", VersionHandler)
+	r.GET("/candidates/constituency/:constituency", ListCandidatesByConstituencyHandler)
+	r.GET("/candidate/:id", GetCandidateByIdHandler)
 
-func NewRouter() *mux.Router {
-	router := mux.NewRouter().StrictSlash(true)
-	for _, route := range routes {
-		router.Methods(route.Method).Path(route.Path).Name(route.Name).Handler(route.Handler)
-	}
-
-	return router
-}
-
-var routes = Routes{
-	Route{
-		"ListLegislators",
-		"GET",
-		"/legislators",
-		ListLegislatorsHandler,
-	},
+	return r
 }

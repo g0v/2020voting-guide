@@ -1,0 +1,126 @@
+basePath: '{{.BasePath}}'
+definitions:
+  main.Candidate:
+    properties:
+      age:
+        type: integer
+      bornIn:
+        type: string
+      county:
+        $ref: '#/definitions/main.CountyCard'
+        type: object
+      educationalBackground:
+        items:
+          type: string
+        type: array
+      experiences:
+        items:
+          type: string
+        type: array
+      id:
+        type: string
+      name:
+        type: string
+      photo:
+        type: string
+      politics:
+        type: string
+    type: object
+  main.CandidateCard:
+    properties:
+      county:
+        $ref: '#/definitions/main.CountyCard'
+        type: object
+      experience:
+        type: string
+      id:
+        type: string
+      name:
+        type: string
+      photo:
+        type: string
+    type: object
+  main.CandidateCards:
+    items:
+      properties:
+        county:
+          $ref: '#/definitions/main.CountyCard'
+          type: object
+        experience:
+          type: string
+        id:
+          type: string
+        name:
+          type: string
+        photo:
+          type: string
+      type: object
+    type: array
+  main.CountyCard:
+    properties:
+      emblem:
+        type: string
+      id:
+        type: string
+      name:
+        type: string
+    type: object
+host: '{{.Host}}'
+info:
+  contact: {}
+  description: 2020 Voting Guide Backend
+  license: {}
+  title: 2020 Voting Guide
+  version: 0.0.1
+paths:
+  /candidate/{id}:
+    get:
+      consumes:
+      - application/json
+      description: get the candidate by id
+      parameters:
+      - description: ID
+        in: path
+        name: id
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/main.Candidate'
+            type: object
+      summary: get the candidate by id
+  /candidates/constituency/{constituency}:
+    get:
+      consumes:
+      - application/json
+      description: list candidates by constituency
+      parameters:
+      - description: Constituency
+        in: path
+        name: constituency
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/main.CandidateCards'
+            type: object
+      summary: List candidates by constituency
+  /version:
+    get:
+      responses:
+        "200":
+          description: X.X.X
+          schema:
+            type: string
+        "500":
+          description: fail
+      summary: 2020 Voting Guide Service Version
+swagger: "2.0"
