@@ -7,11 +7,11 @@
 ## Naming Convention
 
 [官方英文名稱](https://www.ly.gov.tw/Pages/List.aspx?nodeid=214)
-候選人： candidate
-立委： legislator
-選區： constituency
-會議： sitting
-委員會： committee
+候選人： candidate  
+立委： legislator  
+選區： constituency  
+會議： sitting  
+委員會： committee  
 
 ## Dataflow
 

@@ -43,4 +43,5 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+[microsoft/TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter)
 [bestpratice of typescript](https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680)
