@@ -3,7 +3,8 @@ import * as React from 'react';
 import MediaQuery from 'react-responsive';
 import { NavLink, Route } from 'react-router-dom';
 import './App.scss';
-import Home from './components/Home';
+// import Home from './components/Home';
+import CountyCandidates from './components/CountyCandidates/CountyCandidates';
 import './static/style/button.scss';
 
 interface State {
@@ -38,7 +39,7 @@ class App extends React.Component<{}, State> {
                             <MediaQuery minDeviceWidth={300}>
                                 <Row className="nav">
                                     <ul>
-                                        <NavLink exact to="/home">
+                                        <NavLink exact to="/county-candidates">
                                             <li className="appName">2020 投票指南</li>
                                         </NavLink>
                                     </ul>
@@ -50,7 +51,8 @@ class App extends React.Component<{}, State> {
                 </Row>
                 <Row className="contentBox">
                     <Row className="content">
-                        <Route exact path="/home" component={Home} />
+                        {/* <Route exact path="/" component={Home} /> */}
+                        <Route exact path="/" component={CountyCandidates} />
                     </Row>
                 </Row>
                 <Drawer
