@@ -4,7 +4,9 @@ import MediaQuery from 'react-responsive';
 import { NavLink, Route } from 'react-router-dom';
 import './App.scss';
 // import Home from './components/Home';
-import CountyCandidates from './components/CountyCandidates/CountyCandidates';
+// import CountyCandidates from './components/CountyCandidates/CountyCandidates';
+import ConstituencyPage from './components/ConstituencyDistrict/Constituency';
+import County from './components/CountyConstituency/County';
 import './static/style/button.scss';
 
 interface State {
@@ -15,19 +17,22 @@ class App extends React.Component<{}, State> {
     state = { visible: false };
     showDrawer = (): void => {
         this.setState({
-            visible: true,
+            visible: true
         });
     };
 
     onClose = (): void => {
         this.setState({
-            visible: false,
+            visible: false
         });
     };
 
     render() {
         return (
-            <Row className="main-page" style={{ minHeight: window.innerHeight }}>
+            <Row
+                className="main-page"
+                style={{ minHeight: window.innerHeight }}
+            >
                 <Row className="header">
                     <Col span={1}>
                         <Button type="ghost" onClick={this.showDrawer}>
@@ -39,8 +44,10 @@ class App extends React.Component<{}, State> {
                             <MediaQuery minDeviceWidth={300}>
                                 <Row className="nav">
                                     <ul>
-                                        <NavLink exact to="/county-candidates">
-                                            <li className="appName">2020 投票指南</li>
+                                        <NavLink exact to="/">
+                                            <li className="appName">
+                                                2020 投票指南
+                                            </li>
                                         </NavLink>
                                     </ul>
                                 </Row>
@@ -52,7 +59,11 @@ class App extends React.Component<{}, State> {
                 <Row className="contentBox">
                     <Row className="content">
                         {/* <Route exact path="/" component={Home} /> */}
-                        <Route exact path="/" component={CountyCandidates} />
+                        <Route exact path="/" component={County} />
+                        <Route
+                            path="/regional/:county"
+                            component={ConstituencyPage}
+                        />
                     </Row>
                 </Row>
                 <Drawer
