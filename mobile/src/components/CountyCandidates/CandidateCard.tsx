@@ -10,26 +10,26 @@ const useStyles = makeStyles({
         flexDirection: 'column',
         paddingTop: 29,
         paddingLeft: 14,
-        backgroundColor: '#E1E1E1',
+        backgroundColor: '#E1E1E1'
     },
     photo: {
         width: 40,
         height: 40,
-        borderRadius: '50%',
+        borderRadius: '50%'
     },
     title: {
-        verticalAlign: 'middle',
+        verticalAlign: 'middle'
     },
     name: {
         marginLeft: 8,
-        fontSize: 16,
+        fontSize: 16
     },
     contentRow: {
         marginTop: 7,
         marginBottom: 0,
         fontSize: 14,
-        lineHeight: '16px',
-    },
+        lineHeight: '16px'
+    }
 });
 
 interface Party {
@@ -46,7 +46,11 @@ export interface CandidateProps {
     experience: string;
 }
 
-export const CandidateCard: React.FunctionComponent<CandidateProps> = ({ name, county, experience }) => {
+export const CandidateCard: React.FunctionComponent<CandidateProps> = ({
+    name,
+    county,
+    experience
+}) => {
     const classes = useStyles();
 
     return (
