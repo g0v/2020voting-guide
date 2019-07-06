@@ -5,18 +5,18 @@ import { CandidateProps, CandidateCard } from './CandidateCard';
 const useStyles = makeStyles({
     county: {
         fontSize: 24,
-        fontWeight: 'bold',
+        fontWeight: 'bold'
     },
     subTitle: {
         marginTop: 12,
         marginBottom: 5,
-        fontSize: 14,
+        fontSize: 14
     },
     previous: {
         marginTop: 10,
         marginBottom: 25,
-        fontSize: 24,
-    },
+        fontSize: 24
+    }
 });
 
 const CountyCandidates = () => {
