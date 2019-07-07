@@ -14,6 +14,7 @@ func setupRouter() *gin.Engine {
 	r.GET("/version", VersionHandler)
 	r.GET("/candidates/constituency/:constituency", ListCandidatesByConstituencyHandler)
 	r.GET("/candidate/:id", GetCandidateByIdHandler)
+	r.GET("/candidate/:id/record", GetCandidateRecordByIdHandler)
 
 	return r
 }
