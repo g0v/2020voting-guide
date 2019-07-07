@@ -40,6 +40,31 @@
                 }
             }
         },
+        "/candidate/{id}/record": {
+            "get": {
+                "description": "get records of candidate by id",
+                "consumes": [
+                    "application/json"
+                ],
+                "summary": "get records of candidate by id",
+                "parameters": [
+                    {
+                        "type": "string",
+                        "description": "ID",
+                        "name": "id",
+                        "in": "path"
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "record",
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                }
+            }
+        },
         "/candidates/constituency/{constituency}": {
             "get": {
                 "description": "list candidates by constituency",
@@ -99,7 +124,7 @@
                 },
                 "county": {
                     "type": "object",
-                    "$ref": "#/definitions/main.CountyCard"
+                    "$ref": "#/definitions/main.PartyCard"
                 },
                 "educationalBackground": {
                     "type": "array",
@@ -132,7 +157,7 @@
             "properties": {
                 "county": {
                     "type": "object",
-                    "$ref": "#/definitions/main.CountyCard"
+                    "$ref": "#/definitions/main.PartyCard"
                 },
                 "experience": {
                     "type": "string"
@@ -155,7 +180,7 @@
                 "properties": {
                     "county": {
                         "type": "object",
-                        "$ref": "#/definitions/main.CountyCard"
+                        "$ref": "#/definitions/main.PartyCard"
                     },
                     "experience": {
                         "type": "string"
@@ -172,7 +197,7 @@
                 }
             }
         },
-        "main.CountyCard": {
+        "main.PartyCard": {
             "type": "object",
             "properties": {
                 "emblem": {

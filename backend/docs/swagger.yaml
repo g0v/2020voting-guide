@@ -7,7 +7,7 @@ definitions:
       bornIn:
         type: string
       county:
-        $ref: '#/definitions/main.CountyCard'
+        $ref: '#/definitions/main.PartyCard'
         type: object
       educationalBackground:
         items:
@@ -29,7 +29,7 @@ definitions:
   main.CandidateCard:
     properties:
       county:
-        $ref: '#/definitions/main.CountyCard'
+        $ref: '#/definitions/main.PartyCard'
         type: object
       experience:
         type: string
@@ -44,7 +44,7 @@ definitions:
     items:
       properties:
         county:
-          $ref: '#/definitions/main.CountyCard'
+          $ref: '#/definitions/main.PartyCard'
           type: object
         experience:
           type: string
@@ -56,7 +56,7 @@ definitions:
           type: string
       type: object
     type: array
-  main.CountyCard:
+  main.PartyCard:
     properties:
       emblem:
         type: string
@@ -93,6 +93,22 @@ paths:
             $ref: '#/definitions/main.Candidate'
             type: object
       summary: get the candidate by id
+  /candidate/{id}/record:
+    get:
+      consumes:
+      - application/json
+      description: get records of candidate by id
+      parameters:
+      - description: ID
+        in: path
+        name: id
+        type: string
+      responses:
+        "200":
+          description: record
+          schema:
+            type: string
+      summary: get records of candidate by id
   /candidates/constituency/{constituency}:
     get:
       consumes:

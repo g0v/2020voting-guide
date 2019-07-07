@@ -31,7 +31,7 @@ func ListCandidatesByConstituencyHandler(c *gin.Context) {
 			ID:    "1",
 			Name:  "Ding",
 			Photo: "",
-			County: CountyCard{
+			Party: PartyCard{
 				ID:     "1",
 				Name:   "KMT",
 				Emblem: "",
@@ -42,7 +42,7 @@ func ListCandidatesByConstituencyHandler(c *gin.Context) {
 			ID:    "2",
 			Name:  "Yao",
 			Photo: "",
-			County: CountyCard{
+			Party: PartyCard{
 				ID:     "2",
 				Name:   "DPP",
 				Emblem: "",
@@ -53,7 +53,7 @@ func ListCandidatesByConstituencyHandler(c *gin.Context) {
 			ID:    "3",
 			Name:  "Lin",
 			Photo: "",
-			County: CountyCard{
+			Party: PartyCard{
 				ID:     "3",
 				Name:   "NPP",
 				Emblem: "",
@@ -79,7 +79,7 @@ func GetCandidateByIdHandler(c *gin.Context) {
 		ID:    "1",
 		Name:  "Ding",
 		Photo: "",
-		County: CountyCard{
+		Party: PartyCard{
 			ID:     "1",
 			Name:   "KMT",
 			Emblem: "",
@@ -92,4 +92,18 @@ func GetCandidateByIdHandler(c *gin.Context) {
 	}
 
 	c.JSON(http.StatusOK, r)
+}
+
+// @Summary get records of candidate by id
+// @Description get records of candidate by id
+// @Accept json
+// @Product string
+// @Param id path string ture "ID"
+// @Success 200 {string} string "record"
+// @Router /candidate/{id}/record [get]
+func GetCandidateRecordByIdHandler(c *gin.Context) {
+	id := c.Param("id")
+	fmt.Println(id)
+
+	c.String(http.StatusOK, "record")
 }
