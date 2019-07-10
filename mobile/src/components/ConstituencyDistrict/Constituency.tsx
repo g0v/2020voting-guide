@@ -1,16 +1,24 @@
 import React from 'react';
 import constituencyArea from './constituenciesArea';
-import { makeStyles } from '@material-ui/styles';
+import { makeStyles, createStyles, Theme } from '@material-ui/core/styles';
 import { Link } from 'react-router-dom';
+import Grid from '@material-ui/core/Grid';
+import NavigateBefore from '@material-ui/icons/NavigateBefore';
 
-const useStyles = makeStyles({
-    constituency: {
-        lineHeight: '24px',
-        '&:hover': {
-            color: '#aaa'
+const useStyles = makeStyles((theme: Theme) =>
+    createStyles({
+        constituencyArea: {
+            lineHeight: '24px',
+            '&:hover': {
+                color: '#aaa'
+            },
+            backgroundColor: '#cacbcc',
+            padding: theme.spacing(2),
+            margin: theme.spacing(1),
+            cursor: 'pointer'
         }
-    }
-});
+    })
+);
 
 interface County {
     match: {
@@ -41,15 +49,22 @@ const ConstituencyPage: React.FunctionComponent<County> = ({ match }) => {
 
 const ConstituencyCard: React.FunctionComponent<Constituency> = ({ name }) => {
     const classes = useStyles();
+    console.log(classes)
     return (
         <>
-            <div>選區找立委</div>
-            {
-                Object.keys(constituencyArea[name]).map(area => {
-                    return <Link to={`/regional/${name.slice(0, 3)}/${area}`} key={area}>
-                        <div >{area}</div>
-                    </Link>
-                })}
+            <div ><NavigateBefore></NavigateBefore>選區找立委</div>
+            <Grid container>
+                {
+                    Object.keys(constituencyArea[name]).map(area => {
+                        return (
+                            <Grid item xs={6}>
+                                <Link to={`/regional/${name.slice(0, 3)}/${area}`} key={area}>
+                                    <div className={classes.constituencyArea}>{area}</div>
+                                </Link>
+                            </Grid>
+                        )
+                    })}
+            </Grid>
         </>
     );
 };
