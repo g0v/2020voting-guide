@@ -26,7 +26,7 @@ const Constituency = () => {
         <>
             <div className={classes.title}>選區找立委</div>
             {counties.map(county => (
-                <Link to={`/regional/${county}`}>
+                <Link to={`/regionals/${county}`} key={county}>
                     <div className={classes.county}>{county}</div>
                 </Link>
             ))}

@@ -43,11 +43,13 @@ const ConstituencyCard: React.FunctionComponent<Constituency> = ({ name }) => {
     const classes = useStyles();
     return (
         <>
-            <Link to={`/${name}`}>
-                <div className={classes.constituency}>
-                    {Object.keys(constituencyArea[name]).join('、')}
-                </div>
-            </Link>
+            <div>選區找立委</div>
+            {
+                Object.keys(constituencyArea[name]).map(area => {
+                    return <Link to={`/regional/${name.slice(0, 3)}/${area}`} key={area}>
+                        <div >{area}</div>
+                    </Link>
+                })}
         </>
     );
 };
