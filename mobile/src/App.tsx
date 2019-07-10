@@ -8,6 +8,7 @@ import Home from './components/Home';
 import ConstituencyPage from './components/ConstituencyDistrict/Constituency';
 import County from './components/CountyConstituency/County';
 import './static/style/button.scss';
+import LegislatorList from './components/Legislator/LegislatorList';
 
 interface State {
     visible: boolean;
@@ -62,9 +63,11 @@ class App extends React.Component<{}, State> {
                             <Route exact path="/" component={Home} />
                             <Route exact path="/regionals" component={County} />
                             <Route
-                                exact path="/regionals/:county"
+                                exact
+                                path="/regionals/:county"
                                 component={ConstituencyPage}
                             />
+                            <Route exact path="/regionals/:county/:district" component={LegislatorList} />
                         </Switch>
                     </Row>
                 </Row>

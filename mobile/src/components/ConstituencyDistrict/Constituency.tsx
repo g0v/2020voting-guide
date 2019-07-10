@@ -4,6 +4,7 @@ import { makeStyles, createStyles, Theme } from '@material-ui/core/styles';
 import { Link } from 'react-router-dom';
 import Grid from '@material-ui/core/Grid';
 import NavigateBefore from '@material-ui/icons/NavigateBefore';
+import SmallCard from '../public-child/SmallCard'
 
 const useStyles = makeStyles((theme: Theme) =>
     createStyles({
@@ -16,6 +17,13 @@ const useStyles = makeStyles((theme: Theme) =>
             padding: theme.spacing(2),
             margin: theme.spacing(1),
             cursor: 'pointer'
+        },
+        title: {
+            lineHeight: '24px',
+            display: 'inline-flex',
+            '& a': {
+                color: 'black'
+            }
         }
     })
 );
@@ -49,18 +57,19 @@ const ConstituencyPage: React.FunctionComponent<County> = ({ match }) => {
 
 const ConstituencyCard: React.FunctionComponent<Constituency> = ({ name }) => {
     const classes = useStyles();
-    console.log(classes)
     return (
         <>
-            <div ><NavigateBefore></NavigateBefore>選區找立委</div>
+            <div className={classes.title}>
+                <Link to={`/regionals`}><NavigateBefore /></Link>
+                <div>選區找立委</div>
+            </div>
             <Grid container>
+
                 {
                     Object.keys(constituencyArea[name]).map(area => {
                         return (
-                            <Grid item xs={6}>
-                                <Link to={`/regional/${name.slice(0, 3)}/${area}`} key={area}>
-                                    <div className={classes.constituencyArea}>{area}</div>
-                                </Link>
+                            < Grid item xs={6} key={area}>
+                                <SmallCard target={`/regionals/${name.slice(0, 3)}/${area}`} name={area}></SmallCard>
                             </Grid>
                         )
                     })}
