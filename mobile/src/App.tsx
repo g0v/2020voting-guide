@@ -3,7 +3,7 @@ import * as React from 'react';
 import MediaQuery from 'react-responsive';
 import { NavLink, Route } from 'react-router-dom';
 import './App.scss';
-// import Home from './components/Home';
+import Home from './components/Home';
 // import CountyCandidates from './components/CountyCandidates/CountyCandidates';
 import ConstituencyPage from './components/ConstituencyDistrict/Constituency';
 import County from './components/CountyConstituency/County';
@@ -58,8 +58,8 @@ class App extends React.Component<{}, State> {
                 </Row>
                 <Row className="contentBox">
                     <Row className="content">
-                        {/* <Route exact path="/" component={Home} /> */}
-                        <Route exact path="/" component={County} />
+                        <Route exact path="/" component={Home} />
+                        <Route path="/county" component={County} />
                         <Route
                             path="/regional/:county"
                             component={ConstituencyPage}
