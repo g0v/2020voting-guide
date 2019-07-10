@@ -1,5 +1,6 @@
 import React from 'react';
 import { Divider, Button } from 'antd';
+import { Link } from 'react-router-dom'
 
 class Home extends React.Component {
     render() {
@@ -16,7 +17,8 @@ class Home extends React.Component {
                     比較政黨
                 </Button>
                 <Button style={{ backgroundColor: '#018786', color: 'white' }}>
-                    比較區域立委
+                    <Link to="/regionals">比較區域立委</Link>
+
                 </Button>
             </div>
         );

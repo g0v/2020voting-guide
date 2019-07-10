@@ -1,9 +1,9 @@
 import { Button, Col, Drawer, Icon, Row } from 'antd';
 import * as React from 'react';
 import MediaQuery from 'react-responsive';
-import { NavLink, Route } from 'react-router-dom';
+import { NavLink, Route, Switch, Link } from 'react-router-dom';
 import './App.scss';
-// import Home from './components/Home';
+import Home from './components/Home';
 // import CountyCandidates from './components/CountyCandidates/CountyCandidates';
 import ConstituencyPage from './components/ConstituencyDistrict/Constituency';
 import County from './components/CountyConstituency/County';
@@ -58,12 +58,14 @@ class App extends React.Component<{}, State> {
                 </Row>
                 <Row className="contentBox">
                     <Row className="content">
-                        {/* <Route exact path="/" component={Home} /> */}
-                        <Route exact path="/" component={County} />
-                        <Route
-                            path="/regional/:county"
-                            component={ConstituencyPage}
-                        />
+                        <Switch>
+                            <Route exact path="/" component={Home} />
+                            <Route exact path="/regionals" component={County} />
+                            <Route
+                                exact path="/regionals/:county"
+                                component={ConstituencyPage}
+                            />
+                        </Switch>
                     </Row>
                 </Row>
                 <Drawer
@@ -73,7 +75,7 @@ class App extends React.Component<{}, State> {
                     onClose={this.onClose}
                     visible={this.state.visible}
                 >
-                    <p>Some contents...</p>
+                    <p><Link to="/regionals">比較區域立委</Link></p>
                     <p>Some contents...</p>
                     <p>Some contents...</p>
                 </Drawer>
