@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "github.com/bangyuwen/2020voting-guide/backend/docs"
+	_ "./docs"
 	"github.com/gin-gonic/gin"
 	ginSwagger "github.com/swaggo/gin-swagger"
 	"github.com/swaggo/gin-swagger/swaggerFiles"

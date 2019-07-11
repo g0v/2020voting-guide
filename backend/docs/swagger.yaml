@@ -6,9 +6,6 @@ definitions:
         type: integer
       bornIn:
         type: string
-      county:
-        $ref: '#/definitions/main.PartyCard'
-        type: object
       educationalBackground:
         items:
           type: string
@@ -21,6 +18,9 @@ definitions:
         type: string
       name:
         type: string
+      party:
+        $ref: '#/definitions/main.PartyCard'
+        type: object
       photo:
         type: string
       politics:
@@ -28,30 +28,30 @@ definitions:
     type: object
   main.CandidateCard:
     properties:
-      county:
-        $ref: '#/definitions/main.PartyCard'
-        type: object
       experience:
         type: string
       id:
         type: string
       name:
         type: string
+      party:
+        $ref: '#/definitions/main.PartyCard'
+        type: object
       photo:
         type: string
     type: object
   main.CandidateCards:
     items:
       properties:
-        county:
-          $ref: '#/definitions/main.PartyCard'
-          type: object
         experience:
           type: string
         id:
           type: string
         name:
           type: string
+        party:
+          $ref: '#/definitions/main.PartyCard'
+          type: object
         photo:
           type: string
       type: object
