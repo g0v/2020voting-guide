@@ -12,7 +12,7 @@ type CandidateCard struct {
 	ID         string    `json:"id"`
 	Name       string    `json:"name"`
 	Photo      string    `json:"photo"`
-	Party      PartyCard `json:"county"`
+	Party      PartyCard `json:"party"`
 	Experience string    `json:"experience"`
 }
 
@@ -24,7 +24,7 @@ type Candidate struct {
 	ID                    string    `json:"id"`
 	Name                  string    `json:"name"`
 	Photo                 string    `json:"photo"`
-	Party                 PartyCard `json:"county"`
+	Party                 PartyCard `json:"party"`
 	Age                   int       `json:"age"`
 	BornIn                string    `json:"bornIn"`
 	EducationalBackground []string  `json:"educationalBackground"`

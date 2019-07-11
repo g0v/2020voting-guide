@@ -122,10 +122,6 @@
                 "bornIn": {
                     "type": "string"
                 },
-                "county": {
-                    "type": "object",
-                    "$ref": "#/definitions/main.PartyCard"
-                },
                 "educationalBackground": {
                     "type": "array",
                     "items": {
@@ -144,6 +140,10 @@
                 "name": {
                     "type": "string"
                 },
+                "party": {
+                    "type": "object",
+                    "$ref": "#/definitions/main.PartyCard"
+                },
                 "photo": {
                     "type": "string"
                 },
@@ -155,10 +155,6 @@
         "main.CandidateCard": {
             "type": "object",
             "properties": {
-                "county": {
-                    "type": "object",
-                    "$ref": "#/definitions/main.PartyCard"
-                },
                 "experience": {
                     "type": "string"
                 },
@@ -167,6 +163,10 @@
                 },
                 "name": {
                     "type": "string"
+                },
+                "party": {
+                    "type": "object",
+                    "$ref": "#/definitions/main.PartyCard"
                 },
                 "photo": {
                     "type": "string"
@@ -178,10 +178,6 @@
             "items": {
                 "type": "object",
                 "properties": {
-                    "county": {
-                        "type": "object",
-                        "$ref": "#/definitions/main.PartyCard"
-                    },
                     "experience": {
                         "type": "string"
                     },
@@ -190,6 +186,10 @@
                     },
                     "name": {
                         "type": "string"
+                    },
+                    "party": {
+                        "type": "object",
+                        "$ref": "#/definitions/main.PartyCard"
                     },
                     "photo": {
                         "type": "string"
