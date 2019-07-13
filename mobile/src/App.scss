@@ -23,7 +23,7 @@
   background-color: white;
 }
 .content{
-  width: 92%;
+  // width: 92%;
   margin: 0 auto;
   margin-top: 74px;
   margin-bottom: 30px;
@@ -48,4 +48,10 @@ $barHeight: 56px;
 
 .drawer-btn {
   padding: 10px;
+}
+
+iframe {
+  border: 0;
+  width: 100%;
+  height: auto;
 }
