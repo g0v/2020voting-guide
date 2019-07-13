@@ -37,7 +37,7 @@ const CountyCandidates = () => {
                     id={candidate.id}
                     name={candidate.name}
                     photo={candidate.photo}
-                    county={candidate.county}
+                    party={candidate.party}
                     experience={candidate.experience}
                 />
             ))}
