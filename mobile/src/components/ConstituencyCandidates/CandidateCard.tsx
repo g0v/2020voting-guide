@@ -42,13 +42,13 @@ export interface CandidateProps {
     id: string;
     name: string;
     photo: string;
-    county: Party;
+    party: Party;
     experience: string;
 }
 
 export const CandidateCard: React.FunctionComponent<CandidateProps> = ({
     name,
-    county,
+    party,
     experience
 }) => {
     const classes = useStyles();
@@ -63,7 +63,7 @@ export const CandidateCard: React.FunctionComponent<CandidateProps> = ({
                 />
                 <span className={classes.name}>{name}</span>
             </div>
-            <p className={classes.contentRow}>{county.name}</p>
+            <p className={classes.contentRow}>{party.name}</p>
             <p className={classes.contentRow}>{experience}</p>
             <p className={classes.contentRow}>中文測試</p>
         </div>
