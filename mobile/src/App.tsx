@@ -4,9 +4,10 @@ import MediaQuery from 'react-responsive';
 import { NavLink, Route } from 'react-router-dom';
 import './App.scss';
 import Home from './components/Home';
-// import CountyCandidates from './components/CountyCandidates/CountyCandidates';
+import ConstituencyCandidates from './components/ConstituencyCandidates/ConstituencyCandidates';
 import ConstituencyPage from './components/ConstituencyDistrict/Constituency';
 import County from './components/CountyConstituency/County';
+import Candidate from './components/Candidate/Candidate';
 import './static/style/button.scss';
 
 interface State {
@@ -60,6 +61,11 @@ class App extends React.Component<{}, State> {
                     <Row className="content">
                         <Route exact path="/" component={Home} />
                         <Route path="/county" component={County} />
+                        <Route path="/candidate" component={Candidate} />
+                        <Route
+                            path="/candidatelist"
+                            component={ConstituencyCandidates}
+                        />
                         <Route
                             path="/regional/:county"
                             component={ConstituencyPage}
