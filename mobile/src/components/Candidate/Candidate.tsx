@@ -1,7 +1,9 @@
 import React from 'react';
 import Tabs from '@material-ui/core/Tabs';
 import Tab from '@material-ui/core/Tab';
-import BasicInfo from './BasicInfo';
+import BasicInfoTab from './BasicInfoTab';
+import PassPerformance from './PassPerformanceTab';
+import Position from './PositionTab';
 
 interface Candidate {
     match: {
@@ -31,7 +33,13 @@ const Candidate: React.FunctionComponent<Candidate> = ({ match }) => {
                 <Tab label="過去表現" />
                 <Tab label="立場" />
             </Tabs>
-            {value === 0 ? <BasicInfo /> : value === 1 ? '過去表現' : '立場'}
+            {value === 0 ? (
+                <BasicInfoTab />
+            ) : value === 1 ? (
+                <PassPerformance />
+            ) : (
+                <Position />
+            )}
         </>
     );
 };
