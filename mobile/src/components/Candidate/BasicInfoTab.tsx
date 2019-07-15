@@ -39,7 +39,7 @@ const useStyle = makeStyles({
     }
 });
 
-const BasicInfo = () => {
+const BasicInfoTab = () => {
     const classes = useStyle();
     return (
         <>
@@ -84,4 +84,4 @@ const BasicInfo = () => {
     );
 };
 
-export default BasicInfo;
+export default BasicInfoTab;
