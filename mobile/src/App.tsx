@@ -63,7 +63,7 @@ class App extends React.Component<{}, State> {
                         <Route path="/county" component={County} />
                         <Route path="/candidate" component={Candidate} />
                         <Route
-                            path="/candidatelist"
+                            path="/candidate-list"
                             component={ConstituencyCandidates}
                         />
                         <Route
