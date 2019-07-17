@@ -1,33 +1,21 @@
 import React from 'react';
 import countyConstituency from './county_constituency.json';
-import { makeStyles } from '@material-ui/styles';
 import { Link } from 'react-router-dom';
-
-const useStyles = makeStyles({
-    title: {
-        marginBottom: 40,
-        fontSize: 24,
-        fontWeight: 'bold'
-    },
-    county: {
-        paddingTop: 20,
-        paddingBottom: 20,
-        fontSize: 18,
-        lineHeight: '26px',
-        borderBottom: '1px solid #C4C4C4'
-    }
-});
+import Typography from '@material-ui/core/Typography';
+import Box from '@material-ui/core/Box';
 
 const counties = countyConstituency.map(county => county.name);
 const Constituency = () => {
-    const classes = useStyles();
-
     return (
         <>
-            <div className={classes.title}>選區找立委</div>
+            <Box my={2} mx={1}>
+                <Typography variant="h6">選擇選區</Typography>
+            </Box>
             {counties.map(county => (
-                <Link to={`/regional/${county}`}>
-                    <div className={classes.county}>{county}</div>
+                <Link to={`/regional/${county}`} key={county}>
+                    <Box px={1} py={2} borderBottom={1} borderColor="grey.100">
+                        <Typography variant="button">{county}</Typography>
+                    </Box>
                 </Link>
             ))}
         </>
