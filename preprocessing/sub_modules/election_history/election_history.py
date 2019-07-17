@@ -3,7 +3,9 @@ import os
 import csv
 import json
 from pathlib import Path
+from copy import deepcopy
 
+import util
 from political_contributions import political_contributions
 
 FILE_NAME_CAND = r"elcand*.csv"
@@ -23,6 +25,8 @@ FILE_DIR = os.path.dirname(os.path.abspath(__file__))
 SOURCE_DIR = f'{FILE_DIR}/../../../data/raw/voteData/'
 POLITICS_FILE_PATH = f'{FILE_DIR}/../../../data/organized/2016-politics.json'
 print(os.path.abspath(SOURCE_DIR))
+
+connection = util.getDbConnection()
 
 
 def readRawData():
@@ -75,7 +79,25 @@ def readRawData():
     return history_info
 
 
+def writeResultToDb(history_info):
+    datas = []
+    for name, history in history_info.items():
+        copy = deepcopy(history)
+        for h in copy:
+            h["name"] = name
+            datas.append(h)
+    with connection.cursor() as cursor:
+        data = [(h["name"], h["electionName"], h.get("party", None), h.get("politics", None), h.get("win", None),
+                h.get("incumbent", None), h.get("voteCount", None), h.get("votePer", None), h.get("committee", None)) for h in datas]
+        sql = "INSERT IGNORE INTO `election_history` (`name`, `electionName`, `party`, `politics`, `win`, `incumbent`, `voteCount`," \
+            "`votePer`, `committee`) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)"
+        cursor.executemany(sql, data)
+
+
 HISTORY_INFO = readRawData()
+writeResultToDb(HISTORY_INFO)
+connection.begin()
+connection.close()
 
 
 def getHistory(name: str):

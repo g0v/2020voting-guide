@@ -35,5 +35,11 @@ def transform(input_path, output_path):
 
     transformed_constituencies_candidates = [parse_constituency(constituency_data) for constituency_data in constituencies_candidates]
 
+    party_list = set()
+    for constituency in transformed_constituencies_candidates:
+        for candidate in constituency.get("candidates", []):
+            party_list.add(candidate["party"])
+    print("Candidate party list:", ", ".join(party_list))
+
     with open(output_path, 'w') as fp:
         fp.write(json.dumps(transformed_constituencies_candidates, ensure_ascii=False))
