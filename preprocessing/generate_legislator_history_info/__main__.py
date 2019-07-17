@@ -12,6 +12,8 @@ DEST_FILE_PATH = f'{FILE_DIR}/../../data/final/personal_info_history.json'
 
 NUMBER_INFO = util.readNumberingData()
 
+connection = util.getDbConnection()
+
 
 def readRawData():
     file_list = glob(f'{FILE_DIR}/../../data/raw/history_legislator_info_page*.json')
@@ -61,8 +63,25 @@ def integrateData(raw):
     return result
 
 
+def writeResultToDb(legislator_info):
+    datas = []
+    for id, info in legislator_info.items():
+        for each in info["detail_list"]:
+            each["name"] = info["name"]
+            datas.append(each)
+    with connection.cursor() as cursor:
+        data = [(h["name"], h["term"], h.get("party", None), h.get("areaName", None), h.get("onboardDate", None),
+                h.get("degree", None), h.get("experience", None), h.get("picUrl", None), h.get("yuanSittingsAttendRate", None)) for h in datas]
+        sql = "INSERT IGNORE INTO `personal_info_history` (`name`, `term`, `party`, `areaName`, `onboardDate`, `degree`, `experience`," \
+            "`picUrl`, `yuanSittingsAttendRate`) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)"
+        cursor.executemany(sql, data)
+
+
 if __name__ == "__main__":
     raw = readRawData()
     result = integrateData(raw)
     with open(DEST_FILE_PATH, "w") as f:
         f.write(json.dumps(result, ensure_ascii=False))
+    writeResultToDb(result)
+    connection.begin()
+    connection.close()

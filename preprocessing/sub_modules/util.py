@@ -1,8 +1,16 @@
-import csv
 import os
+import csv
+import pymysql.cursors
 from typing import List, Dict, Any
 
 NUMBERING_FILE_PATH = os.path.dirname(os.path.abspath(__file__)) + "/../../data/final/legislator_id.csv"
+
+# DB config
+MYSQL_HOST = os.environ["MYSQL_HOST"]
+MYSQL_USER = os.environ["MYSQL_USER"]
+MYSQL_PASSWORD = os.environ["MYSQL_PASSWORD"]
+MYSQL_DB = os.environ["MYSQL_DB"]
+MYSQL_CHARSET = os.environ["MYSQL_CHARSET"]
 
 os.makedirs(os.path.dirname(NUMBERING_FILE_PATH), exist_ok=True)
 
@@ -34,3 +42,15 @@ def read_csv(path: str) -> List[Dict[str, Any]]:
         open(path, 'w')
 
     return data
+
+
+def getDbConnection():
+    connection = pymysql.connect(
+        host=MYSQL_HOST,
+        user=MYSQL_USER,
+        password=MYSQL_PASSWORD,
+        db=MYSQL_DB,
+        charset=MYSQL_CHARSET,
+        cursorclass=pymysql.cursors.DictCursor)
+
+    return connection

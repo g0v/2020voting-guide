@@ -1,4 +1,6 @@
+import os
 import csv
+import pymysql.cursors
 from os import path
 from typing import Iterable
 
@@ -8,6 +10,8 @@ from parse_history_legislator import get_legislator_names
 SOURCE_FILE_PATH = "../data/organized/legislator_candidate.json"
 RESULT_FILE_PATH = "../data/final/legislator_id.csv"
 FIELD_NAMES = ["id", "name"]
+
+connection = util.getDbConnection()
 
 
 def readResult():
@@ -20,18 +24,26 @@ def readResult():
     return result
 
 
-def writeResult(add_legislation_list: Iterable[str], start_id: int):
-    with open(RESULT_FILE_PATH, "a+") as fp:
-        fp.seek(0)
-        writer = csv.writer(fp)
-        if not fp.read():
-            writer.writerow(FIELD_NAMES)
-        writer.writerows(enumerate(add_legislation_list, start_id))
+def readOldLegislator():
+    with connection.cursor() as cursor:
+        sql = "SELECT `name` FROM `legislator_number`"
+        cursor.execute(sql)
+        res = cursor.fetchall()
+
+    return [row["name"] for row in res]
+
+
+def writeResultToDb(legislation_list: Iterable[str]):
+    print("Totoal", len(legislation_list), "new candidates")
+    with connection.cursor() as cursor:
+        sql = "INSERT INTO `legislator_number` (`name`) VALUES (%s)"
+        cursor.executemany(sql, legislation_list)
 
 
 if __name__ == "__main__":
     new_legislator_list = get_legislator_names(SOURCE_FILE_PATH)
-    old_legislator_list = [legislator['name'] for legislator in util.read_csv(RESULT_FILE_PATH)]
-    assert len(old_legislator_list) == len(set(old_legislator_list))
+    old_legislator_list = readOldLegislator()
     add_legislator_list = set(new_legislator_list) - set(old_legislator_list)
-    writeResult(add_legislator_list, len(old_legislator_list) + 1)
+    writeResultToDb(add_legislator_list)
+    connection.begin()
+    connection.close()
