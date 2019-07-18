@@ -1,6 +1,4 @@
-import os
 import csv
-import pymysql.cursors
 from os import path
 from typing import Iterable
 

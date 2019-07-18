@@ -70,8 +70,8 @@ def writeResultToDb(legislator_info):
             each["name"] = info["name"]
             datas.append(each)
     with connection.cursor() as cursor:
-        data = [(h["name"], h["term"], h.get("party", None), h.get("areaName", None), h.get("onboardDate", None),
-                h.get("degree", None), h.get("experience", None), h.get("picUrl", None), h.get("yuanSittingsAttendRate", None)) for h in datas]
+        data = [(h["name"], h["term"], h.get("party", None), h.get("areaName", None), h.get("onboardDate", None), h.get("degree", None),
+                h.get("experience", None), h.get("picUrl", None), h.get("yuanSittingsAttendRate", None)) for h in datas]
         sql = "INSERT IGNORE INTO `personal_info_history` (`name`, `term`, `party`, `areaName`, `onboardDate`, `degree`, `experience`," \
             "`picUrl`, `yuanSittingsAttendRate`) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)"
         cursor.executemany(sql, data)
