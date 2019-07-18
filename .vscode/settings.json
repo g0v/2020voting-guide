@@ -1,8 +1,12 @@
 {
     "python.linting.pydocstyleEnabled": true,
-    "python.linting.pydocstyleArgs": ["--ignore=D100,D103,D213,D101,D102"],
+    "python.linting.pydocstyleArgs": [
+        "--ignore=D100,D103,D213,D101,D102"
+    ],
     "python.linting.flake8Enabled": true,
-    "python.linting.flake8Args": ["--max-line-length=140"],
+    "python.linting.flake8Args": [
+        "--max-line-length=140"
+    ],
     "python.jediEnabled": true,
     "go.useLanguageServer": true,
     "go.autocompleteUnimportedPackages": true,
@@ -33,5 +37,8 @@
     "[typescriptreact]": {
         "editor.formatOnSave": false,
     },
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "python.formatting.provider": "black",
+    "python.formatting.blackArgs": [
+        "--line-length=140"
+    ],
 }
