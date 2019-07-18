@@ -8,7 +8,7 @@ from election_history import election_history
 from yuan_sittings_attend_rate import yuan_sittings_attend_rate
 
 FILE_DIR = os.path.dirname(os.path.abspath(__file__))
-DEST_FILE_PATH = f'{FILE_DIR}/../../data/final/personal_info_history.json'
+DEST_FILE_PATH = f"{FILE_DIR}/../../data/final/personal_info_history.json"
 
 NUMBER_INFO = util.readNumberingData()
 
@@ -16,7 +16,7 @@ connection = util.getDbConnection()
 
 
 def readRawData():
-    file_list = glob(f'{FILE_DIR}/../../data/raw/history_legislator_info_page*.json')
+    file_list = glob(f"{FILE_DIR}/../../data/raw/history_legislator_info_page*.json")
     print("Raw data files:", str(file_list))
     raw = []
     for path in file_list:
@@ -33,8 +33,9 @@ def integrateData(raw):
             "id": info["id"],
             "name": info["name"],
             "detail_list": [],
-            "electionHistory": election_history.getHistory(info["name"])
-        } for info in NUMBER_INFO
+            "electionHistory": election_history.getHistory(info["name"]),
+        }
+        for info in NUMBER_INFO
     }
     for name, datas in groupby(raw, lambda x: x["name"]):
         for data in datas:
@@ -48,7 +49,7 @@ def integrateData(raw):
                         "degree": data["degree"],
                         "experience": data["experience"],
                         "picUrl": data["picUrl"],
-                        "yuanSittingsAttendRate": yuan_sittings_attend_rate.calc_attending_rate(name, data["term"])
+                        "yuanSittingsAttendRate": yuan_sittings_attend_rate.calc_attending_rate(name, data["term"]),
                     }
                 )
             else:
@@ -65,15 +66,29 @@ def integrateData(raw):
 
 def writeResultToDb(legislator_info):
     datas = []
-    for id, info in legislator_info.items():
+    for dummy_id, info in legislator_info.items():
         for each in info["detail_list"]:
             each["name"] = info["name"]
             datas.append(each)
     with connection.cursor() as cursor:
-        data = [(h["name"], h["term"], h.get("party", None), h.get("areaName", None), h.get("onboardDate", None), h.get("degree", None),
-                h.get("experience", None), h.get("picUrl", None), h.get("yuanSittingsAttendRate", None)) for h in datas]
-        sql = "INSERT IGNORE INTO `personal_info_history` (`name`, `term`, `party`, `areaName`, `onboardDate`, `degree`, `experience`," \
+        data = [
+            (
+                h["name"],
+                h["term"],
+                h.get("party", None),
+                h.get("areaName", None),
+                h.get("onboardDate", None),
+                h.get("degree", None),
+                h.get("experience", None),
+                h.get("picUrl", None),
+                h.get("yuanSittingsAttendRate", None),
+            )
+            for h in datas
+        ]
+        sql = (
+            "INSERT IGNORE INTO `personal_info_history` (`name`, `term`, `party`, `areaName`, `onboardDate`, `degree`, `experience`,"
             "`picUrl`, `yuanSittingsAttendRate`) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)"
+        )
         cursor.executemany(sql, data)
 
 
