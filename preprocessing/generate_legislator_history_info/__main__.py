@@ -12,8 +12,6 @@ DEST_FILE_PATH = f"{FILE_DIR}/../../data/final/personal_info_history.json"
 
 NUMBER_INFO = util.readNumberingData()
 
-connection = util.getDbConnection()
-
 
 def readRawData():
     file_list = glob(f"{FILE_DIR}/../../data/raw/history_legislator_info_page*.json")
@@ -65,31 +63,32 @@ def integrateData(raw):
 
 
 def writeResultToDb(legislator_info):
-    datas = []
-    for dummy_id, info in legislator_info.items():
-        for each in info["detail_list"]:
-            each["name"] = info["name"]
-            datas.append(each)
-    with connection.cursor() as cursor:
-        data = [
-            (
-                h["name"],
-                h["term"],
-                h.get("party", None),
-                h.get("areaName", None),
-                h.get("onboardDate", None),
-                h.get("degree", None),
-                h.get("experience", None),
-                h.get("picUrl", None),
-                h.get("yuanSittingsAttendRate", None),
+    connection = util.getDbConnection()
+    try:
+        term_info_list = [{"name": info["name"], **term} for info in legislator_info.values() for term in info["detail_list"]]
+        with connection.cursor() as cursor:
+            data = [
+                (
+                    term_info["name"],
+                    term_info["term"],
+                    term_info.get("party", None),
+                    term_info.get("areaName", None),
+                    term_info.get("onboardDate", None),
+                    term_info.get("degree", None),
+                    term_info.get("experience", None),
+                    term_info.get("picUrl", None),
+                    term_info.get("yuanSittingsAttendRate", None),
+                )
+                for term_info in term_info_list
+            ]
+            sql = (
+                "INSERT IGNORE INTO personal_info_history (name, term, party, areaName, onboardDate, degree, experience,"
+                "picUrl, yuanSittingsAttendRate) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)"
             )
-            for h in datas
-        ]
-        sql = (
-            "INSERT IGNORE INTO `personal_info_history` (`name`, `term`, `party`, `areaName`, `onboardDate`, `degree`, `experience`,"
-            "`picUrl`, `yuanSittingsAttendRate`) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)"
-        )
-        cursor.executemany(sql, data)
+            cursor.executemany(sql, data)
+        connection.commit()
+    finally:
+        connection.close()
 
 
 if __name__ == "__main__":
@@ -98,5 +97,3 @@ if __name__ == "__main__":
     with open(DEST_FILE_PATH, "w") as f:
         f.write(json.dumps(result, ensure_ascii=False))
     writeResultToDb(result)
-    connection.begin()
-    connection.close()

@@ -9,8 +9,6 @@ SOURCE_FILE_PATH = "../data/organized/legislator_candidate.json"
 RESULT_FILE_PATH = "../data/final/legislator_id.csv"
 FIELD_NAMES = ["id", "name"]
 
-connection = util.getDbConnection()
-
 
 def readResult():
     result = []
@@ -23,19 +21,28 @@ def readResult():
 
 
 def readOldLegislator():
-    with connection.cursor() as cursor:
-        sql = "SELECT `name` FROM `legislator_number`"
-        cursor.execute(sql)
-        res = cursor.fetchall()
+    connection = util.getDbConnection()
+    try:
+        with connection.cursor() as cursor:
+            sql = "SELECT `name` FROM `legislator_number`"
+            cursor.execute(sql)
+            res = cursor.fetchall()
 
-    return [row["name"] for row in res]
+        return [row["name"] for row in res]
+    finally:
+        connection.close()
 
 
 def writeResultToDb(legislation_list: Iterable[str]):
+    connection = util.getDbConnection()
     print("Totoal", len(legislation_list), "new candidates")
-    with connection.cursor() as cursor:
-        sql = "INSERT INTO `legislator_number` (`name`) VALUES (%s)"
-        cursor.executemany(sql, legislation_list)
+    try:
+        with connection.cursor() as cursor:
+            sql = "INSERT INTO `legislator_number` (`name`) VALUES (%s)"
+            cursor.executemany(sql, legislation_list)
+        connection.commit()
+    finally:
+        connection.close()
 
 
 if __name__ == "__main__":
@@ -43,5 +50,3 @@ if __name__ == "__main__":
     old_legislator_list = readOldLegislator()
     add_legislator_list = set(new_legislator_list) - set(old_legislator_list)
     writeResultToDb(add_legislator_list)
-    connection.begin()
-    connection.close()
