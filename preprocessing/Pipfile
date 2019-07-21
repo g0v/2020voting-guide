@@ -7,8 +7,10 @@ verify_ssl = true
 pydocstyle = "*"
 flake8 = "*"
 mypy = "*"
+black = "*"
 
 [packages]
+pymysql = "*"
 
 [requires]
 python_version = "3.7"

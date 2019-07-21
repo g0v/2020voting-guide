@@ -8,13 +8,13 @@ from election_history import election_history
 from yuan_sittings_attend_rate import yuan_sittings_attend_rate
 
 FILE_DIR = os.path.dirname(os.path.abspath(__file__))
-DEST_FILE_PATH = f'{FILE_DIR}/../../data/final/personal_info_history.json'
+DEST_FILE_PATH = f"{FILE_DIR}/../../data/final/personal_info_history.json"
 
 NUMBER_INFO = util.readNumberingData()
 
 
 def readRawData():
-    file_list = glob(f'{FILE_DIR}/../../data/raw/history_legislator_info_page*.json')
+    file_list = glob(f"{FILE_DIR}/../../data/raw/history_legislator_info_page*.json")
     print("Raw data files:", str(file_list))
     raw = []
     for path in file_list:
@@ -31,8 +31,9 @@ def integrateData(raw):
             "id": info["id"],
             "name": info["name"],
             "detail_list": [],
-            "electionHistory": election_history.getHistory(info["name"])
-        } for info in NUMBER_INFO
+            "electionHistory": election_history.getHistory(info["name"]),
+        }
+        for info in NUMBER_INFO
     }
     for name, datas in groupby(raw, lambda x: x["name"]):
         for data in datas:
@@ -46,7 +47,7 @@ def integrateData(raw):
                         "degree": data["degree"],
                         "experience": data["experience"],
                         "picUrl": data["picUrl"],
-                        "yuanSittingsAttendRate": yuan_sittings_attend_rate.calc_attending_rate(name, data["term"])
+                        "yuanSittingsAttendRate": yuan_sittings_attend_rate.calc_attending_rate(name, data["term"]),
                     }
                 )
             else:
@@ -61,8 +62,38 @@ def integrateData(raw):
     return result
 
 
+def writeResultToDb(legislator_info):
+    connection = util.getDbConnection()
+    try:
+        term_info_list = [{"name": info["name"], **term} for info in legislator_info.values() for term in info["detail_list"]]
+        with connection.cursor() as cursor:
+            data = [
+                (
+                    term_info["name"],
+                    term_info["term"],
+                    term_info.get("party", None),
+                    term_info.get("areaName", None),
+                    term_info.get("onboardDate", None),
+                    term_info.get("degree", None),
+                    term_info.get("experience", None),
+                    term_info.get("picUrl", None),
+                    term_info.get("yuanSittingsAttendRate", None),
+                )
+                for term_info in term_info_list
+            ]
+            sql = (
+                "INSERT IGNORE INTO personal_info_history (name, term, party, areaName, onboardDate, degree, experience,"
+                "picUrl, yuanSittingsAttendRate) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)"
+            )
+            cursor.executemany(sql, data)
+        connection.commit()
+    finally:
+        connection.close()
+
+
 if __name__ == "__main__":
     raw = readRawData()
     result = integrateData(raw)
     with open(DEST_FILE_PATH, "w") as f:
         f.write(json.dumps(result, ensure_ascii=False))
+    writeResultToDb(result)
