@@ -14,6 +14,7 @@ import json
 
 import scrapy
 from scrapy.selector import Selector
+import re
 
 
 class VotingAreaMappingSpider(scrapy.Spider):
@@ -34,6 +35,7 @@ class VotingAreaMappingSpider(scrapy.Spider):
 
     def parse(self, response):
         response_text = json.loads(response.body_as_unicode())['parse']['text']['*']
+        response_text = re.sub(r'\((.*)\)', '', response_text)
         table = Selector(text=response_text).xpath('//table')  # table_name: 2020年中華民國立法委員區域暨原住民候選人名單
         for row in table.xpath('.//tr')[3:-1]:
             yield {
