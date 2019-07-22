@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/g0v/2020voting-guide/backend/pkg/models"
+	"github.com/g0v/2020voting-guide/backend/internal/models"
 
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"

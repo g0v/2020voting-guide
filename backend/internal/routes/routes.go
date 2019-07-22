@@ -2,7 +2,7 @@ package routes
 
 import (
 	_ "github.com/g0v/2020voting-guide/backend/docs"
-	"github.com/g0v/2020voting-guide/backend/pkg/handler"
+	"github.com/g0v/2020voting-guide/backend/internal/handler"
 
 	"github.com/gin-gonic/gin"
 	ginSwagger "github.com/swaggo/gin-swagger"
