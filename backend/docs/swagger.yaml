@@ -1,6 +1,6 @@
 basePath: '{{.BasePath}}'
 definitions:
-  main.Candidate:
+  models.Candidate:
     properties:
       age:
         type: integer
@@ -19,14 +19,14 @@ definitions:
       name:
         type: string
       party:
-        $ref: '#/definitions/main.PartyCard'
+        $ref: '#/definitions/models.PartyCard'
         type: object
       photo:
         type: string
       politics:
         type: string
     type: object
-  main.CandidateCard:
+  models.CandidateCard:
     properties:
       experience:
         type: string
@@ -35,12 +35,12 @@ definitions:
       name:
         type: string
       party:
-        $ref: '#/definitions/main.PartyCard'
+        $ref: '#/definitions/models.PartyCard'
         type: object
       photo:
         type: string
     type: object
-  main.CandidateCards:
+  models.CandidateCards:
     items:
       properties:
         experience:
@@ -50,13 +50,13 @@ definitions:
         name:
           type: string
         party:
-          $ref: '#/definitions/main.PartyCard'
+          $ref: '#/definitions/models.PartyCard'
           type: object
         photo:
           type: string
       type: object
     type: array
-  main.PartyCard:
+  models.PartyCard:
     properties:
       emblem:
         type: string
@@ -90,7 +90,7 @@ paths:
         "200":
           description: OK
           schema:
-            $ref: '#/definitions/main.Candidate'
+            $ref: '#/definitions/models.Candidate'
             type: object
       summary: get the candidate by id
   /candidate/{id}/record:
@@ -126,7 +126,7 @@ paths:
         "200":
           description: OK
           schema:
-            $ref: '#/definitions/main.CandidateCards'
+            $ref: '#/definitions/models.CandidateCards'
             type: object
       summary: List candidates by constituency
   /version:
