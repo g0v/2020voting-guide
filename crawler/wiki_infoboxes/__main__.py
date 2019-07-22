@@ -5,7 +5,7 @@ from os import remove
 import requests
 import wptools
 
-from util import store_json
+import util
 
 URL = 'https://zh.wikipedia.org/w/api.php'
 OUTPUT_RAW = '../data/raw/legislator_candidate_infobox.json'
@@ -52,9 +52,37 @@ def get_infobox(page_name):
         print(f'[ERROR] No page could be find, page_name: {page_name}')
 
 
+def writeResultToDb(infos):
+    connection = util.getDbConnection()
+    try:
+        with connection.cursor() as cursor:
+            data = [
+                (
+                    info.get("page_name"),
+                    info.get("sex", info.get("Sex", info.get("性別", None))),
+                    info.get("birth_date", info.get("date of birth", info.get("date_of_birth", None))),
+                    info.get("party", info.get("party_election", info.get("政黨", None))),
+                    info.get("otherparty", None),
+                    info.get("educate", info.get("education", None)),
+                    info.get("past", None)
+                )
+                for info in infos
+            ]
+            sql = (
+                "INSERT INTO `wiki_infobox` (`pageName`, `sex`, `birth`, `party`, `otherParty`, `educate`, `past`)"
+                "VALUES (%s, %s, %s, %s, %s, %s, %s)"
+            )
+            cursor.executemany(sql, data)
+        connection.commit()
+    finally:
+        connection.close()
+
+
 if __name__ == "__main__":
     page_names = get_infobox_page_list()
     with Pool(processes=4) as pool:
         info_boxes = pool.map(get_infobox, page_names)
+    filtered_info_boxes = [i for i in info_boxes if i]
+    writeResultToDb(filtered_info_boxes)
     info_boxes_string = json.dumps(info_boxes, ensure_ascii=False)
-    store_json(info_boxes_string, OUTPUT_RAW)
+    util.store_json(info_boxes_string, OUTPUT_RAW)

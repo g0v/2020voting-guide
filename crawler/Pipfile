@@ -18,6 +18,7 @@ grequests = "*"
 mwparserfromhell = "*"
 wptools = "*"
 pycurl = "*"
+pymysql = "*"
 
 [requires]
 python_version = "3.7"
