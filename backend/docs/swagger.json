@@ -34,7 +34,7 @@
                         "description": "OK",
                         "schema": {
                             "type": "object",
-                            "$ref": "#/definitions/main.Candidate"
+                            "$ref": "#/definitions/models.Candidate"
                         }
                     }
                 }
@@ -89,7 +89,7 @@
                         "description": "OK",
                         "schema": {
                             "type": "object",
-                            "$ref": "#/definitions/main.CandidateCards"
+                            "$ref": "#/definitions/models.CandidateCards"
                         }
                     }
                 }
@@ -113,7 +113,7 @@
         }
     },
     "definitions": {
-        "main.Candidate": {
+        "models.Candidate": {
             "type": "object",
             "properties": {
                 "age": {
@@ -142,7 +142,7 @@
                 },
                 "party": {
                     "type": "object",
-                    "$ref": "#/definitions/main.PartyCard"
+                    "$ref": "#/definitions/models.PartyCard"
                 },
                 "photo": {
                     "type": "string"
@@ -152,7 +152,7 @@
                 }
             }
         },
-        "main.CandidateCard": {
+        "models.CandidateCard": {
             "type": "object",
             "properties": {
                 "experience": {
@@ -166,14 +166,14 @@
                 },
                 "party": {
                     "type": "object",
-                    "$ref": "#/definitions/main.PartyCard"
+                    "$ref": "#/definitions/models.PartyCard"
                 },
                 "photo": {
                     "type": "string"
                 }
             }
         },
-        "main.CandidateCards": {
+        "models.CandidateCards": {
             "type": "array",
             "items": {
                 "type": "object",
@@ -189,7 +189,7 @@
                     },
                     "party": {
                         "type": "object",
-                        "$ref": "#/definitions/main.PartyCard"
+                        "$ref": "#/definitions/models.PartyCard"
                     },
                     "photo": {
                         "type": "string"
@@ -197,7 +197,7 @@
                 }
             }
         },
-        "main.PartyCard": {
+        "models.PartyCard": {
             "type": "object",
             "properties": {
                 "emblem": {

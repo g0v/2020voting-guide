@@ -3,6 +3,7 @@
 ## Setup
 
 1. Put *2020voting-guide* folder under `${GOPATH}/github.com/g0v`
+2. `./bin/setup.sh`
 
 ## Run
 
@@ -10,8 +11,8 @@
 
 ## How to build docker image
 
-`docker build -t 2020-voting-guide .`
+`docker-compose build`
 
 ## How to run docker container
 
-`docker run -d -p 9000:9000 2020-voting-guide`
+`docker-compose up`

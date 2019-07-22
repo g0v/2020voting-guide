@@ -24,7 +24,7 @@ func VersionHandler(c *gin.Context) {
 // @Accept json
 // @Produce json
 // @Param constituency path string true "Constituency"
-// @Success 200 {object} main.CandidateCards
+// @Success 200 {object} models.CandidateCards
 // @Router /candidates/constituency/{constituency} [get]
 func ListCandidatesByConstituencyHandler(c *gin.Context) {
 	ct := c.Param("constituency")
@@ -73,7 +73,7 @@ func ListCandidatesByConstituencyHandler(c *gin.Context) {
 // @Accept json
 // @Produce json
 // @Param id path string true "ID"
-// @Success 200 {object} main.Candidate
+// @Success 200 {object} models.Candidate
 // @Router /candidate/{id} [get]
 func GetCandidateByIdHandler(c *gin.Context) {
 	id := c.Param("id")
