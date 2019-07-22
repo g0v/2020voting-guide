@@ -84,5 +84,5 @@ if __name__ == "__main__":
         info_boxes = pool.map(get_infobox, page_names)
     filtered_info_boxes = [i for i in info_boxes if i]
     writeResultToDb(filtered_info_boxes)
-    info_boxes_string = json.dumps(info_boxes, ensure_ascii=False)
+    info_boxes_string = json.dumps(filtered_info_boxes, ensure_ascii=False)
     util.store_json(info_boxes_string, OUTPUT_RAW)
