@@ -1,6 +1,6 @@
-version: 3
+version: '3'
 services:
   swagger:
-    build: backend
+    build: .
     ports:
       - 9000:9000

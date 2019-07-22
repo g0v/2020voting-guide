@@ -1,4 +1,4 @@
-package main
+package models
 
 // PartyCard is the simple version of party information
 type PartyCard struct {
