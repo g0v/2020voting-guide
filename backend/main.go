@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/g0v/2020voting-guide/backend/pkg/routes"
+	"github.com/g0v/2020voting-guide/backend/internal/routes"
 )
 
 // @title 2020 Voting Guide
