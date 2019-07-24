@@ -11,6 +11,7 @@ FROM ubuntu
 WORKDIR /root/
 
 COPY --from=builder /go/bin/backend .
+COPY config.yaml .
 
 EXPOSE 9000
 
