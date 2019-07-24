@@ -9,11 +9,13 @@ type PartyCard struct {
 
 // CandidateCard is the simple version of candidate information
 type CandidateCard struct {
-	ID         string    `json:"id"`
-	Name       string    `json:"name"`
-	Photo      string    `json:"photo"`
-	Party      PartyCard `json:"party"`
-	Experience string    `json:"experience"`
+	ID    string `json:"id"`
+	Name  string `json:"name"`
+	Photo string `json:"photo"`
+	// Party      PartyCard `json:"party"`
+	Party        string `json:"party"`
+	Experience   string `json:"experience"`
+	Constituency string `json:"constituency"`
 }
 
 // CandidateCards is array of CandidateCard

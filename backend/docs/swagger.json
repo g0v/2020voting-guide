@@ -155,20 +155,16 @@
         "models.CandidateCard": {
             "type": "object",
             "properties": {
-                "experience": {
-                    "type": "string"
-                },
-                "id": {
+                "constituency": {
+                    "description": "Experience string json:\"experience\"",
                     "type": "string"
                 },
                 "name": {
+                    "description": "ID    string json:\"id\"",
                     "type": "string"
                 },
                 "party": {
-                    "type": "object",
-                    "$ref": "#/definitions/models.PartyCard"
-                },
-                "photo": {
+                    "description": "Photo string json:\"photo\"\nParty      PartyCard json:\"party\"",
                     "type": "string"
                 }
             }
@@ -178,20 +174,16 @@
             "items": {
                 "type": "object",
                 "properties": {
-                    "experience": {
-                        "type": "string"
-                    },
-                    "id": {
+                    "constituency": {
+                        "description": "Experience string json:\"experience\"",
                         "type": "string"
                     },
                     "name": {
+                        "description": "ID    string json:\"id\"",
                         "type": "string"
                     },
                     "party": {
-                        "type": "object",
-                        "$ref": "#/definitions/models.PartyCard"
-                    },
-                    "photo": {
+                        "description": "Photo string json:\"photo\"\nParty      PartyCard json:\"party\"",
                         "type": "string"
                     }
                 }

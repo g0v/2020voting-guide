@@ -28,31 +28,31 @@ definitions:
     type: object
   models.CandidateCard:
     properties:
-      experience:
-        type: string
-      id:
+      constituency:
+        description: Experience string json:"experience"
         type: string
       name:
+        description: ID    string json:"id"
         type: string
       party:
-        $ref: '#/definitions/models.PartyCard'
-        type: object
-      photo:
+        description: |-
+          Photo string json:"photo"
+          Party      PartyCard json:"party"
         type: string
     type: object
   models.CandidateCards:
     items:
       properties:
-        experience:
-          type: string
-        id:
+        constituency:
+          description: Experience string json:"experience"
           type: string
         name:
+          description: ID    string json:"id"
           type: string
         party:
-          $ref: '#/definitions/models.PartyCard'
-          type: object
-        photo:
+          description: |-
+            Photo string json:"photo"
+            Party      PartyCard json:"party"
           type: string
       type: object
     type: array
