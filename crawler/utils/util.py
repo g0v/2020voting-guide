@@ -9,8 +9,8 @@ MYSQL_DB = os.environ["MYSQL_DB"]
 MYSQL_CHARSET = os.environ["MYSQL_CHARSET"]
 
 
-def store_json(json_data: str, output_path: str):
-    with open(output_path, 'w+') as fp:
+def store_json(json_data: str, output_path: str) -> None:
+    with open(output_path, "w+") as fp:
         fp.write(json_data)
         print(f'[INFO] JSON data is written to "{output_path}"')
 
@@ -22,6 +22,7 @@ def getDbConnection():
         password=MYSQL_PASSWORD,
         db=MYSQL_DB,
         charset=MYSQL_CHARSET,
-        cursorclass=pymysql.cursors.DictCursor)
+        cursorclass=pymysql.cursors.DictCursor,
+    )
 
     return connection
