@@ -1,46 +1,48 @@
 import React, { useState, useEffect } from 'react';
-import { makeStyles } from '@material-ui/styles';
 import { CandidateProps, CandidateCard } from './CandidateCard';
+import Box from '@material-ui/core/Box';
+import { Link } from 'react-router-dom';
+import Typography from '@material-ui/core/Typography';
 
-const useStyles = makeStyles({
-    county: {
-        fontSize: 24,
-        fontWeight: 'bold'
-    },
-    subTitle: {
-        marginTop: 12,
-        marginBottom: 5,
-        fontSize: 14
-    },
-    previous: {
-        marginTop: 10,
-        marginBottom: 25,
-        fontSize: 24
-    }
-});
+interface Route {
+    match: {
+        params: {
+            county: string;
+            constituency: string;
+        };
+    };
+}
 
-const CountyCandidates = () => {
-    const classes = useStyles();
+const CountyCandidates: React.FunctionComponent<Route> = ({ match }) => {
+    const { county, constituency } = match.params;
     const [candidates, setCandidates] = useState<CandidateProps[]>([]);
     useEffect(() => {
-        fetch('/candidates/constituency/新竹')
+        fetch(`/candidates/constituency/${constituency}`)
             .then(res => res.json())
             .then(setCandidates);
-    }, []);
+    }, [constituency]);
     return (
         <>
-            <div className={classes.previous}>＜其他選區</div>
-            <div className={classes.county}>台北市 北投天母選區</div>
-            <div className={classes.subTitle}>第一選區</div>
-            {candidates.map(candidate => (
-                <CandidateCard
-                    id={candidate.id}
-                    name={candidate.name}
-                    photo={candidate.photo}
-                    party={candidate.party}
-                    experience={candidate.experience}
-                />
-            ))}
+            <Box m={2}>
+                <Link to={`/regional/${county}`}>＜ 其他選區</Link>
+                <Box m={1}>
+                    <Typography variant="h6">{county}</Typography>
+                    <Typography variant="subtitle2">{constituency}</Typography>
+                </Box>
+                {candidates.map(candidate => (
+                    <Link
+                        to={`/candidate?county=${county}&constituency=${constituency}`}
+                    >
+                        <CandidateCard
+                            id={candidate.id}
+                            name={candidate.name}
+                            photo={candidate.photo}
+                            party={candidate.party}
+                            experience={candidate.experience}
+                        />
+                    </Link>
+                ))}
+            </Box>
         </>
     );
 };

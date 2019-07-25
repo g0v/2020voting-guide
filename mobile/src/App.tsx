@@ -1,11 +1,11 @@
 import { Button, Col, Drawer, Icon, Row } from 'antd';
 import * as React from 'react';
 import MediaQuery from 'react-responsive';
-import { NavLink, Route } from 'react-router-dom';
+import { NavLink, Route, Switch } from 'react-router-dom';
 import './App.scss';
 import Home from './components/Home';
 import ConstituencyCandidates from './components/ConstituencyCandidates/ConstituencyCandidates';
-import ConstituencyPage from './components/ConstituencyDistrict/Constituency';
+import ConstituencyPage from './components/ConstituencyDistrict/ConstituencyPage';
 import County from './components/CountyConstituency/County';
 import Candidate from './components/Candidate/Candidate';
 import './static/style/button.scss';
@@ -59,17 +59,19 @@ class App extends React.Component<{}, State> {
                 </Row>
                 <Row className="contentBox">
                     <Row className="content">
-                        <Route exact path="/" component={Home} />
-                        <Route path="/county" component={County} />
-                        <Route path="/candidate" component={Candidate} />
-                        <Route
-                            path="/candidate-list"
-                            component={ConstituencyCandidates}
-                        />
-                        <Route
-                            path="/regional/:county"
-                            component={ConstituencyPage}
-                        />
+                        <Switch>
+                            <Route exact path="/" component={Home} />
+                            <Route path="/county" component={County} />
+                            <Route path="/candidate" component={Candidate} />
+                            <Route
+                                path="/regional/:county/:constituency"
+                                component={ConstituencyCandidates}
+                            />
+                            <Route
+                                path="/regional/:county"
+                                component={ConstituencyPage}
+                            />
+                        </Switch>
                     </Row>
                 </Row>
                 <Drawer

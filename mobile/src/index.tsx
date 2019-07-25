@@ -5,9 +5,24 @@ import { BrowserRouter } from 'react-router-dom';
 import './index.scss';
 import App from './App';
 
+import { createMuiTheme } from '@material-ui/core/styles';
+import { ThemeProvider } from '@material-ui/styles';
+import { grey } from '@material-ui/core/colors';
+
+const theme = createMuiTheme({
+    palette: {
+        primary: {
+            main: '#24D0BC',
+            contrastText: grey[50]
+        }
+    }
+});
+
 ReactDOM.render(
     <BrowserRouter>
-        <App />
+        <ThemeProvider theme={theme}>
+            <App />
+        </ThemeProvider>
     </BrowserRouter>,
     document.getElementById('root') as HTMLElement
 );

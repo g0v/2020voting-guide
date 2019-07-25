@@ -3,8 +3,8 @@ import { makeStyles } from '@material-ui/styles';
 
 const useStyles = makeStyles({
     card: {
-        width: 177,
-        height: 179,
+        width: 157,
+        height: 159,
         margin: '7px 5px',
         display: 'inline-flex',
         flexDirection: 'column',
@@ -63,9 +63,9 @@ export const CandidateCard: React.FunctionComponent<CandidateProps> = ({
                 />
                 <span className={classes.name}>{name}</span>
             </div>
-            <p className={classes.contentRow}>{party.name}</p>
-            <p className={classes.contentRow}>{experience}</p>
-            <p className={classes.contentRow}>中文測試</p>
+            <p className={classes.contentRow}>{party}</p>
+            {/* <p className={classes.contentRow}>{experience}</p> */}
+            {/* <p className={classes.contentRow}>中文測試</p> */}
         </div>
     );
 };
