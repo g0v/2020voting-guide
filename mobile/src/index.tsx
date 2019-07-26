@@ -15,6 +15,26 @@ const theme = createMuiTheme({
             main: '#24D0BC',
             contrastText: grey[50]
         }
+    },
+    typography: {
+        fontFamily: [
+            'Noto Sans TC',
+            '-apple-system',
+            'BlinkMacSystemFont',
+            'Segoe UI',
+            'Roboto',
+            'Oxygen',
+            'Ubuntu',
+            'Cantarell',
+            'Fira Sans',
+            'Droid Sans',
+            'Helvetica Neue',
+            'sans-serif'
+        ].join(','),
+        body2: {
+            color: grey[900],
+            fontSize: 14
+        }
     }
 });
 

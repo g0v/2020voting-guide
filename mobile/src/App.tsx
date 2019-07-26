@@ -2,6 +2,7 @@ import { Button, Col, Drawer, Icon, Row } from 'antd';
 import * as React from 'react';
 import MediaQuery from 'react-responsive';
 import { NavLink, Route, Switch } from 'react-router-dom';
+import Box from '@material-ui/core/Box';
 import './App.scss';
 import Home from './components/Home';
 import ConstituencyCandidates from './components/ConstituencyCandidates/ConstituencyCandidates';
@@ -57,23 +58,21 @@ class App extends React.Component<{}, State> {
                     </Col>
                     <Col span={1} />
                 </Row>
-                <Row className="contentBox">
-                    <Row className="content">
-                        <Switch>
-                            <Route exact path="/" component={Home} />
-                            <Route path="/county" component={County} />
-                            <Route path="/candidate" component={Candidate} />
-                            <Route
-                                path="/regional/:county/:constituency"
-                                component={ConstituencyCandidates}
-                            />
-                            <Route
-                                path="/regional/:county"
-                                component={ConstituencyPage}
-                            />
-                        </Switch>
-                    </Row>
-                </Row>
+                <Box mt="74px" mb="30px">
+                    <Switch>
+                        <Route exact path="/" component={Home} />
+                        <Route path="/county" component={County} />
+                        <Route path="/candidate" component={Candidate} />
+                        <Route
+                            path="/regional/:county/:constituency"
+                            component={ConstituencyCandidates}
+                        />
+                        <Route
+                            path="/regional/:county"
+                            component={ConstituencyPage}
+                        />
+                    </Switch>
+                </Box>
                 <Drawer
                     title="選區找立委"
                     placement="left"

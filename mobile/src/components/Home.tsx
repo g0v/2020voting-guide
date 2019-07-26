@@ -21,7 +21,7 @@ const VideoCard = ({ title, subtitle, src, content }: VideoCard) => (
             <Typography variant="h6">{title}</Typography>
             <Typography variant="subtitle2">{subtitle}</Typography>
         </Box>
-        <iframe title={title} src={src}></iframe>
+        <iframe title={title} src={src} frameBorder="0" width="100%"></iframe>
         <Box mx={1}>
             <Typography variant="body2">{content}</Typography>
         </Box>

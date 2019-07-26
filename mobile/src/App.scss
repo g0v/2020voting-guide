@@ -1,9 +1,4 @@
 @import '~antd/dist/antd.css';
-.main-page{
-  color: #212121;
-  font-size: 14px;
-  background: #f2f2f2;
-}
 
 .header{
   padding-top: 10px;
@@ -15,19 +10,6 @@
   background: #202124;
   border-right: 1px solid #ccc;
   z-index: 1000;
-}
-
-
-.contentBox{
-  width: 100%;
-  background-color: white;
-}
-.content{
-  // width: 92%;
-  margin: 0 auto;
-  margin-top: 74px;
-  margin-bottom: 30px;
-  background: #fff;
 }
 
 $barHeight: 56px;
@@ -48,10 +30,4 @@ $barHeight: 56px;
 
 .drawer-btn {
   padding: 10px;
-}
-
-iframe {
-  border: 0;
-  width: 100%;
-  height: auto;
 }
