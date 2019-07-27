@@ -35,11 +35,21 @@ const Home = () => (
                 減少盲目支持，從更多的理解和認識，選擇你真正認同的候選人。
                 整合政府開放資料，提供民眾對照，快速比較出你支持的政黨、候選人。
             </Typography>
-            <Box my={6} display="flex" justifyContent="center">
-                <Button color="primary" variant="contained" href="/county">
+            <Box my={6}>
+                <Button
+                    color="primary"
+                    variant="contained"
+                    href="/county"
+                    fullWidth
+                >
                     <Typography variant="button">比較政黨</Typography>
                 </Button>
-                <Button color="primary" variant="contained" href="/county">
+                <Button
+                    color="primary"
+                    variant="contained"
+                    href="/county"
+                    fullWidth
+                >
                     <Typography variant="button">比較區域立委</Typography>
                 </Button>
             </Box>
