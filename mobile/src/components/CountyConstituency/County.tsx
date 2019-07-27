@@ -1,6 +1,8 @@
 import React from 'react';
 import countyConstituency from './county_constituency.json';
-import { Link } from 'react-router-dom';
+import Button from '@material-ui/core/Button';
+import Divider from '@material-ui/core/Divider';
+
 import Typography from '@material-ui/core/Typography';
 import Box from '@material-ui/core/Box';
 
@@ -12,11 +14,12 @@ const Constituency = () => {
                 <Typography variant="h6">選擇選區</Typography>
             </Box>
             {counties.map(county => (
-                <Link to={`/regional/${county}`} key={county}>
-                    <Box px={1} py={2} borderBottom={1} borderColor="grey.100">
+                <>
+                    <Button href={`/regional/${county}`} size="large" fullWidth>
                         <Typography variant="button">{county}</Typography>
-                    </Box>
-                </Link>
+                    </Button>
+                    <Divider />
+                </>
             ))}
         </>
     );
