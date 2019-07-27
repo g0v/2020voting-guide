@@ -1,11 +1,23 @@
-package main
+package handler
 
 import (
 	"fmt"
 	"net/http"
 
+	"github.com/g0v/2020voting-guide/backend/internal/models"
+
 	"github.com/gin-gonic/gin"
+	_ "github.com/jinzhu/gorm/dialects/mysql"
 )
+
+type Config struct {
+	Mysql struct {
+		Host     string
+		User     string
+		Password string
+		DB       string
+	}
+}
 
 // @Summary 2020 Voting Guide Service Version
 // @Success 200 {string} string "X.X.X"
@@ -15,71 +27,22 @@ func VersionHandler(c *gin.Context) {
 	c.String(http.StatusOK, "0.0.1")
 }
 
-// @Summary List candidates by constituency
-// @Description list candidates by constituency
-// @Accept json
-// @Produce json
-// @Param constituency path string true "Constituency"
-// @Success 200 {object} main.CandidateCards
-// @Router /candidates/constituency/{constituency} [get]
-func ListCandidatesByConstituencyHandler(c *gin.Context) {
-	ct := c.Param("constituency")
-	fmt.Println(ct)
-
-	r := CandidateCards{
-		CandidateCard{
-			ID:    "1",
-			Name:  "Ding",
-			Photo: "",
-			Party: PartyCard{
-				ID:     "1",
-				Name:   "KMT",
-				Emblem: "",
-			},
-			Experience: "Taipei major candidate",
-		},
-		CandidateCard{
-			ID:    "2",
-			Name:  "Yao",
-			Photo: "",
-			Party: PartyCard{
-				ID:     "2",
-				Name:   "DPP",
-				Emblem: "",
-			},
-			Experience: "Taipei major candidate",
-		},
-		CandidateCard{
-			ID:    "3",
-			Name:  "Lin",
-			Photo: "",
-			Party: PartyCard{
-				ID:     "3",
-				Name:   "NPP",
-				Emblem: "",
-			},
-			Experience: "Taipei legislator",
-		},
-	}
-	c.JSON(http.StatusOK, r)
-}
-
 // @Summary get the candidate by id
 // @Description get the candidate by id
 // @Accept json
 // @Produce json
 // @Param id path string true "ID"
-// @Success 200 {object} main.Candidate
+// @Success 200 {object} models.Candidate
 // @Router /candidate/{id} [get]
 func GetCandidateByIdHandler(c *gin.Context) {
 	id := c.Param("id")
 	fmt.Println(id)
 
-	r := Candidate{
+	r := models.Candidate{
 		ID:    "1",
 		Name:  "Ding",
 		Photo: "",
-		Party: PartyCard{
+		Party: models.PartyCard{
 			ID:     "1",
 			Name:   "KMT",
 			Emblem: "",
@@ -102,6 +65,7 @@ func GetCandidateByIdHandler(c *gin.Context) {
 // @Success 200 {string} string "record"
 // @Router /candidate/{id}/record [get]
 func GetCandidateRecordByIdHandler(c *gin.Context) {
+
 	id := c.Param("id")
 	fmt.Println(id)
 

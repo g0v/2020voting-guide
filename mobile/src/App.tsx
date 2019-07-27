@@ -1,11 +1,16 @@
-import { Button, Col, Drawer, Icon, Row } from 'antd';
+// import { Drawer } from 'antd';
 import * as React from 'react';
-import MediaQuery from 'react-responsive';
-import { NavLink, Route } from 'react-router-dom';
+import Typography from '@material-ui/core/Typography';
+import { Link } from 'react-router-dom';
+
+import { Route, Switch } from 'react-router-dom';
+import Box from '@material-ui/core/Box';
 import './App.scss';
+import AppBar from '@material-ui/core/AppBar';
+import Toolbar from '@material-ui/core/Toolbar';
 import Home from './components/Home';
 import ConstituencyCandidates from './components/ConstituencyCandidates/ConstituencyCandidates';
-import ConstituencyPage from './components/ConstituencyDistrict/Constituency';
+import ConstituencyPage from './components/ConstituencyDistrict/ConstituencyPage';
 import County from './components/CountyConstituency/County';
 import Candidate from './components/Candidate/Candidate';
 import './static/style/button.scss';
@@ -30,49 +35,38 @@ class App extends React.Component<{}, State> {
 
     render() {
         return (
-            <Row
-                className="main-page"
-                style={{ minHeight: window.innerHeight }}
-            >
-                <Row className="header">
-                    <Col span={1}>
-                        <Button type="ghost" onClick={this.showDrawer}>
-                            <Icon type="menu" style={{ color: 'white' }} />
-                        </Button>
-                    </Col>
-                    <Col span={22}>
-                        <Row>
-                            <MediaQuery minDeviceWidth={300}>
-                                <Row className="nav">
-                                    <ul>
-                                        <NavLink exact to="/">
-                                            <li className="appName">
-                                                2020 投票指南
-                                            </li>
-                                        </NavLink>
-                                    </ul>
-                                </Row>
-                            </MediaQuery>
-                        </Row>
-                    </Col>
-                    <Col span={1} />
-                </Row>
-                <Row className="contentBox">
-                    <Row className="content">
+            <>
+                <AppBar>
+                    <Toolbar>
+                        <Link
+                            to="/"
+                            style={{ textDecoration: 'none', color: 'white' }}
+                        >
+                            <Typography variant="h6" color="inherit">
+                                投票指南
+                            </Typography>
+                        </Link>
+                    </Toolbar>
+                </AppBar>
+                <Toolbar />
+
+                <Box my={2}>
+                    <Switch>
                         <Route exact path="/" component={Home} />
                         <Route path="/county" component={County} />
                         <Route path="/candidate" component={Candidate} />
                         <Route
-                            path="/candidate-list"
+                            path="/regional/:county/:constituency"
                             component={ConstituencyCandidates}
                         />
                         <Route
                             path="/regional/:county"
                             component={ConstituencyPage}
                         />
-                    </Row>
-                </Row>
-                <Drawer
+                    </Switch>
+                </Box>
+
+                {/* <Drawer
                     title="選區找立委"
                     placement="left"
                     closable={false}
@@ -82,8 +76,8 @@ class App extends React.Component<{}, State> {
                     <p>Some contents...</p>
                     <p>Some contents...</p>
                     <p>Some contents...</p>
-                </Drawer>
-            </Row>
+                </Drawer> */}
+            </>
         );
     }
 }

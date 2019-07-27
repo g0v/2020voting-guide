@@ -1,11 +1,18 @@
-# How to build docker image
+# Backend
 
-```
-docker build -t 2020-voting-guide .
-```
+## Setup
 
-# How to run docker container
+1. Put *2020voting-guide* folder under `${GOPATH}/github.com/g0v`
+2. `./bin/setup.sh`
 
-```
-docker run -d -p 9000:9000 2020-voting-guide
-```
+## Run
+
+`go run main.go`
+
+## How to build docker image
+
+`docker-compose build`
+
+## How to run docker container
+
+`docker-compose up`

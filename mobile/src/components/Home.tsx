@@ -2,11 +2,6 @@ import React from 'react';
 import Box from '@material-ui/core/Box';
 import Typography from '@material-ui/core/Typography';
 import Button from '@material-ui/core/Button';
-import { Link, LinkProps } from 'react-router-dom';
-
-const AdapterLink = React.forwardRef<HTMLAnchorElement, LinkProps>(
-    (props, ref) => <Link innerRef={ref} {...props} />
-);
 
 interface VideoCard {
     title: string;
@@ -21,7 +16,7 @@ const VideoCard = ({ title, subtitle, src, content }: VideoCard) => (
             <Typography variant="h6">{title}</Typography>
             <Typography variant="subtitle2">{subtitle}</Typography>
         </Box>
-        <iframe title={title} src={src}></iframe>
+        <iframe title={title} src={src} frameBorder="0" width="100%"></iframe>
         <Box mx={1}>
             <Typography variant="body2">{content}</Typography>
         </Box>
@@ -30,23 +25,21 @@ const VideoCard = ({ title, subtitle, src, content }: VideoCard) => (
 
 const Home = () => (
     <div>
-        <Box m={1}>
-            <Typography variant="h6">2020 投票指南</Typography>
-            <Typography variant="body2">
+        <Box m={1} height="100vh">
+            <Box my={4}>
+                <Typography variant="h4" align="center">
+                    2020 投票指南
+                </Typography>
+            </Box>
+            <Typography variant="body2" align="center">
                 減少盲目支持，從更多的理解和認識，選擇你真正認同的候選人。
-                <br />
                 整合政府開放資料，提供民眾對照，快速比較出你支持的政黨、候選人。
             </Typography>
-            <Box textAlign="center" m={10}>
-                <Button color="primary" variant="contained">
+            <Box my={6} display="flex" justifyContent="center">
+                <Button color="primary" variant="contained" href="/county">
                     <Typography variant="button">比較政黨</Typography>
                 </Button>
-                <Button
-                    color="primary"
-                    variant="contained"
-                    component={AdapterLink}
-                    to="/county"
-                >
+                <Button color="primary" variant="contained" href="/county">
                     <Typography variant="button">比較區域立委</Typography>
                 </Button>
             </Box>
