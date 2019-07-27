@@ -1,8 +1,9 @@
 import React from 'react';
 import constituencyArea from './constituenciesArea';
 import Typography from '@material-ui/core/Typography';
-import { Link } from 'react-router-dom';
 import Box from '@material-ui/core/Box';
+import Button from '@material-ui/core/Button';
+import Divider from '@material-ui/core/Divider';
 
 interface County {
     match: {
@@ -28,17 +29,11 @@ const ConstituencyPage: React.FunctionComponent<County> = ({ match }) => {
             <Box m={2}>
                 <Typography variant="h6">{county}</Typography>
             </Box>
-            <Box display="flex" flexWrap="wrap" justifyContent="center">
-                {constituencyNames.map(name => (
-                    <Box m={1}>
-                        <ConstituencyCard
-                            name={name}
-                            county={county}
-                            key={name}
-                        />
-                    </Box>
-                ))}
-            </Box>
+            {constituencyNames.map(name => (
+                <Box m={1}>
+                    <ConstituencyCard name={name} county={county} key={name} />
+                </Box>
+            ))}
         </>
     );
 };
@@ -49,11 +44,12 @@ const ConstituencyCard: React.FunctionComponent<Constituency> = ({
 }) => {
     return (
         <>
-            <Link to={`/regional/${county}/${name}`}>
-                <Box width={150} height={150} textAlign="center" boxShadow="1">
+            <Button href={`/regional/${county}/${name}`} size="large" fullWidth>
+                <Typography variant="button">
                     {Object.keys(constituencyArea[name]).join('、')}
-                </Box>
-            </Link>
+                </Typography>
+            </Button>
+            <Divider />
         </>
     );
 };
