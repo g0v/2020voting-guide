@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 
 import { Route, Switch } from 'react-router-dom';
 import Box from '@material-ui/core/Box';
-import './App.scss';
+// import './App.scss';
 import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
 import Home from './components/Home';
