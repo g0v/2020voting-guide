@@ -2,14 +2,17 @@ import json
 
 
 def parse_constituency(constituency_data):
-    kmt_candidates = [{'party': '國民黨', 'name': candidate_name} for candidate_name in constituency_data['kmt']]
-    dpp_candidates = [{'party': '民進黨', 'name': candidate_name} for candidate_name in constituency_data['dpp']]
-    other_party_candidates = [{'party': candidate_data[0], 'name': candidate_data[1]}
-                              for candidate_data in zip(constituency_data['other_party']['party'],
-                                                        constituency_data['other_party']['name'])]
-    no_party_candidates = [{'party': '無黨籍', 'name': candidate_name} for candidate_name in constituency_data['no_party']]
-    return {'constituency': constituency_data['constituency'],
-            'candidates': [*kmt_candidates, *dpp_candidates, *other_party_candidates, *no_party_candidates]}
+    kmt_candidates = [{"party": "國民黨", "name": candidate_name} for candidate_name in constituency_data["kmt"]]
+    dpp_candidates = [{"party": "民進黨", "name": candidate_name} for candidate_name in constituency_data["dpp"]]
+    other_party_candidates = [
+        {"party": candidate_data[0], "name": candidate_data[1]}
+        for candidate_data in zip(constituency_data["other_party"]["party"], constituency_data["other_party"]["name"])
+    ]
+    no_party_candidates = [{"party": "無黨籍", "name": candidate_name} for candidate_name in constituency_data["no_party"]]
+    return {
+        "constituency": constituency_data["constituency"],
+        "candidates": [*kmt_candidates, *dpp_candidates, *other_party_candidates, *no_party_candidates],
+    }
 
 
 def transform(input_path, output_path):
@@ -35,11 +38,12 @@ def transform(input_path, output_path):
 
     transformed_constituencies_candidates = [parse_constituency(constituency_data) for constituency_data in constituencies_candidates]
 
-    party_list = set()
-    for constituency in transformed_constituencies_candidates:
-        for candidate in constituency.get("candidates", []):
-            party_list.add(candidate["party"])
-    print("Candidate party list:", ", ".join(party_list))
+    # # get candidates' party list
+    # party_list = set()
+    # for constituency in transformed_constituencies_candidates:
+    #     for candidate in constituency.get("candidates", []):
+    #         party_list.add(candidate["party"])
+    # print("Candidate party list:", ", ".join(party_list))
 
-    with open(output_path, 'w') as fp:
+    with open(output_path, "w") as fp:
         fp.write(json.dumps(transformed_constituencies_candidates, ensure_ascii=False))
