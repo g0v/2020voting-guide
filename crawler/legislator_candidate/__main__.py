@@ -62,7 +62,7 @@ def write_result_to_db(file_path):
             )
             cursor.execute(sql)
             data = [
-                (candidate["name"], candidate["party"], constituency["constituency"])
+                (candidate["name"].replace("․", "．"), candidate["party"], constituency["constituency"])
                 for constituency in data
                 for candidate in constituency["candidates"]
             ]
