@@ -7,20 +7,15 @@ definitions:
       bornIn:
         type: string
       educationalBackground:
-        items:
-          type: string
-        type: array
-      experiences:
-        items:
-          type: string
-        type: array
+        type: string
+      experience:
+        type: string
       id:
         type: string
       name:
         type: string
       party:
-        $ref: '#/definitions/models.PartyCard'
-        type: object
+        type: string
       photo:
         type: string
       politics:
@@ -29,42 +24,35 @@ definitions:
   models.CandidateCard:
     properties:
       constituency:
-        description: Experience string json:"experience"
+        type: string
+      experience:
+        type: string
+      id:
         type: string
       name:
-        description: ID    string json:"id"
         type: string
       party:
-        description: |-
-          Photo string json:"photo"
-          Party      PartyCard json:"party"
+        type: string
+      photo:
         type: string
     type: object
   models.CandidateCards:
     items:
       properties:
         constituency:
-          description: Experience string json:"experience"
+          type: string
+        experience:
+          type: string
+        id:
           type: string
         name:
-          description: ID    string json:"id"
           type: string
         party:
-          description: |-
-            Photo string json:"photo"
-            Party      PartyCard json:"party"
+          type: string
+        photo:
           type: string
       type: object
     type: array
-  models.PartyCard:
-    properties:
-      emblem:
-        type: string
-      id:
-        type: string
-      name:
-        type: string
-    type: object
 host: '{{.Host}}'
 info:
   contact: {}
@@ -73,15 +61,15 @@ info:
   title: 2020 Voting Guide
   version: 0.0.1
 paths:
-  /candidate/{id}:
+  /candidate/{name}:
     get:
       consumes:
       - application/json
-      description: get the candidate by id
+      description: get the candidate by name
       parameters:
-      - description: ID
+      - description: Name
         in: path
-        name: id
+        name: name
         required: true
         type: string
       produces:
@@ -92,23 +80,23 @@ paths:
           schema:
             $ref: '#/definitions/models.Candidate'
             type: object
-      summary: get the candidate by id
-  /candidate/{id}/record:
+      summary: get the candidate by name
+  /candidate/{name}/record:
     get:
       consumes:
       - application/json
-      description: get records of candidate by id
+      description: get records of candidate by name
       parameters:
-      - description: ID
+      - description: Name
         in: path
-        name: id
+        name: name
         type: string
       responses:
         "200":
           description: record
           schema:
             type: string
-      summary: get records of candidate by id
+      summary: get records of candidate by name
   /candidates/constituency/{constituency}:
     get:
       consumes:

@@ -9,10 +9,9 @@ type PartyCard struct {
 
 // CandidateCard is the simple version of candidate information
 type CandidateCard struct {
-	ID    string `json:"id"`
-	Name  string `json:"name"`
-	Photo string `json:"photo"`
-	// Party      PartyCard `json:"party"`
+	ID           string `json:"id"`
+	Name         string `json:"name"`
+	Photo        string `json:"photo"`
 	Party        string `json:"party"`
 	Experience   string `json:"experience"`
 	Constituency string `json:"constituency"`
@@ -23,13 +22,13 @@ type CandidateCards []CandidateCard
 
 // Candidate is this candidate's profile
 type Candidate struct {
-	ID                    string    `json:"id"`
-	Name                  string    `json:"name"`
-	Photo                 string    `json:"photo"`
-	Party                 PartyCard `json:"party"`
-	Age                   int       `json:"age"`
-	BornIn                string    `json:"bornIn"`
-	EducationalBackground []string  `json:"educationalBackground"`
-	Experiences           []string  `json:"experiences"`
-	Politics              string    `json:"politics"`
+	ID                    string `json:"id"`
+	Name                  string `json:"name"`
+	Photo                 string `json:"photo"`
+	Party                 string `json:"party"`
+	Age                   int    `json:"age"`
+	BornIn                string `json:"bornIn"`
+	EducationalBackground string `json:"educationalBackground"`
+	Experience            string `json:"experience"`
+	Politics              string `json:"politics"`
 }
