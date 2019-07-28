@@ -4,3 +4,8 @@ services:
     build: .
     ports:
       - 9000:9000
+    environment:
+      MYSQL_HOST: ""
+      MYSQL_USER: ""
+      MYSQL_PASSWORD: ""
+      MYSQL_DB: ""

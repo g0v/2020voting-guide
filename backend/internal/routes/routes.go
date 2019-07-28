@@ -15,8 +15,8 @@ func SetupRouter() *gin.Engine {
 	r.GET("/swagger/*any", ginSwagger.WrapHandler(swaggerFiles.Handler))
 	r.GET("/version", handler.VersionHandler)
 	r.GET("/candidates/constituency/:constituency", handler.ListCandidatesByConstituencyHandler)
-	r.GET("/candidate/:id", handler.GetCandidateByIdHandler)
-	r.GET("/candidate/:id/record", handler.GetCandidateRecordByIdHandler)
+	r.GET("/candidate/:name", handler.GetCandidateByNameHandler)
+	r.GET("/candidate/:name/record", handler.GetCandidateRecordByIdHandler)
 
 	return r
 }

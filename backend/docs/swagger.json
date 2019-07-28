@@ -10,21 +10,21 @@
     "host": "{{.Host}}",
     "basePath": "{{.BasePath}}",
     "paths": {
-        "/candidate/{id}": {
+        "/candidate/{name}": {
             "get": {
-                "description": "get the candidate by id",
+                "description": "get the candidate by name",
                 "consumes": [
                     "application/json"
                 ],
                 "produces": [
                     "application/json"
                 ],
-                "summary": "get the candidate by id",
+                "summary": "get the candidate by name",
                 "parameters": [
                     {
                         "type": "string",
-                        "description": "ID",
-                        "name": "id",
+                        "description": "Name",
+                        "name": "name",
                         "in": "path",
                         "required": true
                     }
@@ -40,18 +40,18 @@
                 }
             }
         },
-        "/candidate/{id}/record": {
+        "/candidate/{name}/record": {
             "get": {
-                "description": "get records of candidate by id",
+                "description": "get records of candidate by name",
                 "consumes": [
                     "application/json"
                 ],
-                "summary": "get records of candidate by id",
+                "summary": "get records of candidate by name",
                 "parameters": [
                     {
                         "type": "string",
-                        "description": "ID",
-                        "name": "id",
+                        "description": "Name",
+                        "name": "name",
                         "in": "path"
                     }
                 ],
@@ -123,16 +123,10 @@
                     "type": "string"
                 },
                 "educationalBackground": {
-                    "type": "array",
-                    "items": {
-                        "type": "string"
-                    }
+                    "type": "string"
                 },
-                "experiences": {
-                    "type": "array",
-                    "items": {
-                        "type": "string"
-                    }
+                "experience": {
+                    "type": "string"
                 },
                 "id": {
                     "type": "string"
@@ -141,8 +135,7 @@
                     "type": "string"
                 },
                 "party": {
-                    "type": "object",
-                    "$ref": "#/definitions/models.PartyCard"
+                    "type": "string"
                 },
                 "photo": {
                     "type": "string"
@@ -156,15 +149,21 @@
             "type": "object",
             "properties": {
                 "constituency": {
-                    "description": "Experience string json:\"experience\"",
+                    "type": "string"
+                },
+                "experience": {
+                    "type": "string"
+                },
+                "id": {
                     "type": "string"
                 },
                 "name": {
-                    "description": "ID    string json:\"id\"",
                     "type": "string"
                 },
                 "party": {
-                    "description": "Photo string json:\"photo\"\nParty      PartyCard json:\"party\"",
+                    "type": "string"
+                },
+                "photo": {
                     "type": "string"
                 }
             }
@@ -175,31 +174,23 @@
                 "type": "object",
                 "properties": {
                     "constituency": {
-                        "description": "Experience string json:\"experience\"",
+                        "type": "string"
+                    },
+                    "experience": {
+                        "type": "string"
+                    },
+                    "id": {
                         "type": "string"
                     },
                     "name": {
-                        "description": "ID    string json:\"id\"",
                         "type": "string"
                     },
                     "party": {
-                        "description": "Photo string json:\"photo\"\nParty      PartyCard json:\"party\"",
+                        "type": "string"
+                    },
+                    "photo": {
                         "type": "string"
                     }
-                }
-            }
-        },
-        "models.PartyCard": {
-            "type": "object",
-            "properties": {
-                "emblem": {
-                    "type": "string"
-                },
-                "id": {
-                    "type": "string"
-                },
-                "name": {
-                    "type": "string"
                 }
             }
         }

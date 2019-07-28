@@ -1,15 +1,12 @@
 package handler
 
 import (
-	"fmt"
-	"log"
 	"net/http"
 
+	"github.com/g0v/2020voting-guide/backend/internal/db"
 	"github.com/g0v/2020voting-guide/backend/internal/models"
 
 	"github.com/gin-gonic/gin"
-	"github.com/jinzhu/gorm"
-	"github.com/spf13/viper"
 )
 
 // @Summary List candidates by constituency
@@ -22,37 +19,24 @@ import (
 func ListCandidatesByConstituencyHandler(c *gin.Context) {
 
 	constituency := c.Param("constituency")
-	fmt.Println(constituency)
-
-	viper.SetConfigType("yaml")
-	viper.SetConfigName("config")
-	viper.AddConfigPath(".")
-	if err := viper.ReadInConfig(); err == nil {
-		fmt.Println("Using config file:", viper.ConfigFileUsed())
-	}
-
-	var configuration Config
-	err := viper.Unmarshal(&configuration)
-	if err != nil {
-		log.Fatalf("unable to decode into struct, %v", err)
-	}
-	fmt.Println(configuration)
-
-	db, err := gorm.Open(
-		"mysql",
-		fmt.Sprintf("%s:%s@tcp(%s:3306)/%s",
-			configuration.Mysql.User,
-			configuration.Mysql.Password,
-			configuration.Mysql.Host,
-			configuration.Mysql.DB))
-	if err != nil {
-		panic(err)
-	}
-	defer db.Close()
 
 	var candidates models.CandidateCards
-	db.Table("candidates").Where("constituency = ?", constituency).Find(&candidates)
-	fmt.Println(candidates)
-
+	db.MySQL.Table("candidates").Where("constituency = ?", constituency).Find(&candidates)
 	c.JSON(http.StatusOK, candidates)
+}
+
+// @Summary get the candidate by name
+// @Description get the candidate by name
+// @Accept json
+// @Produce json
+// @Param name path string true "Name"
+// @Success 200 {object} models.Candidate
+// @Router /candidate/{name} [get]
+func GetCandidateByNameHandler(c *gin.Context) {
+	name := c.Param("name")
+
+	var candidate models.Candidate
+	db.MySQL.Table("candidates").Select("candidates.name, candidates.party, personal_info_history.experience, personal_info_history.term").Where("candidates.name = ?", name).Joins("left join personal_info_history on candidates.name = personal_info_history.name").Order("personal_info_history.term desc").Find(&candidate)
+
+	c.JSON(http.StatusOK, candidate)
 }
