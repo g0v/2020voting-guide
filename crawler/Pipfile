@@ -10,7 +10,7 @@ mypy = "*"
 pytest = "*"
 pydocstyle = "*"
 autopep8 = "*"
-black = "*"
+black = "==19.3b0"
 
 [packages]
 requests = "*"
@@ -20,6 +20,7 @@ mwparserfromhell = "*"
 wptools = "*"
 pycurl = "*"
 pymysql = "*"
+peewee = "*"
 
 [requires]
 python_version = "3.7"
