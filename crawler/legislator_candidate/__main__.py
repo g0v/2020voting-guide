@@ -5,7 +5,7 @@ from scrapy.crawler import CrawlerProcess
 
 from spider import VotingAreaMappingSpider
 from transform import transform
-from util import getDbConnection
+from db import Candidate
 
 OUTPUT_RAW = "../data/raw/legislator_candidate.json"
 OUTPUT_TRANSFORMED = "../data/organized/legislator_candidate.json"
@@ -48,31 +48,17 @@ def write_result_to_db(file_path):
     with open(file_path) as fp:
         data = json.load(fp)
 
-    connection = getDbConnection()
-    try:
-        with connection.cursor() as cursor:
-            sql = "DROP TABLE IF EXISTS candidates;"
-            cursor.execute(sql)
-            sql = (
-                "CREATE TABLE candidates ("
-                "name varchar(30) NOT NULL,"
-                "party varchar(20) NOT NULL,"
-                "constituency varchar(50) NOT NULL"
-                ");"
-            )
-            cursor.execute(sql)
-            data = [
-                (candidate["name"].replace("․", "．"), candidate["party"], constituency["constituency"])
-                for constituency in data
-                for candidate in constituency["candidates"]
-            ]
-            sql = "INSERT INTO candidates (name, party, constituency) VALUES (%s, %s, %s)"
-            cursor.executemany(sql, data)
-        connection.commit()
-    except Exception as err:
-        print(err)
-    finally:
-        connection.close()
+    data = [
+        {
+            "name": candidate["name"].replace("․", "．"),
+            "party": candidate["party"],
+            "consistuency": constituency["constituency"],
+        }
+        for constituency in data
+        for candidate in constituency["candidates"]
+    ]
+    Candidate.create_table()
+    Candidate.insert_many(data).execute()
 
 
 if __name__ == "__main__":

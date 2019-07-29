@@ -2,7 +2,8 @@ from os import environ, path
 from typing import List
 from legislative_yuan_open_data import scrap_legislator_info_pages, store_pages_info
 from transform import get_legislators_info, get_current_legislator_names
-from util import store_json, getDbConnection
+from util import store_json
+from db import Candidate
 
 FILE_DIR = path.dirname(path.abspath(__file__))
 OUTPUT_RAW_DIR = environ.get("OUTPUT_RAW_DIR", f"{FILE_DIR}/../../data/raw")
@@ -24,19 +25,13 @@ def run_current_legislator_info_pages():
 
 
 def tag_current_legislator_in_db(names: List[str]) -> None:
-    connection = getDbConnection()
-    # Add column before runs
-    # ALTER TABLE vote2020.candidates ADD COLUMN current_legislator BOOLEAN DEFAULT FALSE NOT NULL;
-    try:
-        with connection.cursor() as cursor:
-            sql = "UPDATE candidates SET current_legislator = TRUE WHERE name = %s;"
-            data = [(name) for name in names]
-            cursor.executemany(sql, data)
-        connection.commit()
-    except Exception as err:
-        print(err)
-    finally:
-        connection.close()
+    """Write current_legislator column.
+
+    Notice: won't change others to False
+    """
+    print(f"current legislators: {names}")
+    query = Candidate.update(current_legislator=True).where(Candidate.name.in_(names))
+    query.execute()
 
 
 if __name__ == "__main__":

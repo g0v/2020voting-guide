@@ -1,14 +1,17 @@
 {
+    "[python]": {
+        "editor.formatOnPaste": false
+    },
     "python.formatting.provider": "black",
     "python.formatting.blackArgs": [
-        "--line-length=140"
+        "--line-length=120"
     ],
     "python.jediEnabled": true,
     "python.linting.enabled": true,
     "python.linting.pylintEnabled": false,
     "python.linting.pydocstyleEnabled": true,
     "python.linting.pydocstyleArgs": [
-        "--ignore=D100,D103,D213,D101,D102"
+        "--ignore=D100,D103,D213,D101,D102,D106"
     ],
     "python.linting.flake8Enabled": true,
     "python.linting.flake8Args": [
