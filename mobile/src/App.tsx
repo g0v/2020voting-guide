@@ -13,7 +13,6 @@ import ConstituencyCandidates from './components/ConstituencyCandidates/Constitu
 import ConstituencyPage from './components/ConstituencyDistrict/ConstituencyPage';
 import County from './components/CountyConstituency/County';
 import Candidate from './components/Candidate/Candidate';
-import './static/style/button.scss';
 
 interface State {
     visible: boolean;
