@@ -2,13 +2,26 @@ import json
 
 
 def parse_constituency(constituency_data):
-    kmt_candidates = [{"party": "國民黨", "name": candidate_name} for candidate_name in constituency_data["kmt"]]
-    dpp_candidates = [{"party": "民進黨", "name": candidate_name} for candidate_name in constituency_data["dpp"]]
-    other_party_candidates = [
-        {"party": candidate_data[0], "name": candidate_data[1]}
-        for candidate_data in zip(constituency_data["other_party"]["party"], constituency_data["other_party"]["name"])
+    kmt_candidates = [
+        {"party": "國民黨", "name": name, "wiki": "https://zh.wikipedia.org" + wiki_link}
+        for name, wiki_link in zip(constituency_data["kmt"]["name"], constituency_data["kmt"]["wiki_link"])
     ]
-    no_party_candidates = [{"party": "無黨籍", "name": candidate_name} for candidate_name in constituency_data["no_party"]]
+    dpp_candidates = [
+        {"party": "民進黨", "name": name, "wiki": "https://zh.wikipedia.org" + wiki_link}
+        for name, wiki_link in zip(constituency_data["dpp"]["name"], constituency_data["dpp"]["wiki_link"])
+    ]
+    other_party_candidates = [
+        {"party": party, "name": name, "wiki": "https://zh.wikipedia.org" + wiki_link}
+        for party, name, wiki_link in zip(
+            constituency_data["other_party"]["party"],
+            constituency_data["other_party"]["name"],
+            constituency_data["other_party"]["wiki_link"],
+        )
+    ]
+    no_party_candidates = [
+        {"party": "無黨籍", "name": name, "wiki": "https://zh.wikipedia.org" + wiki_link}
+        for name, wiki_link in zip(constituency_data["no_party"]["name"], constituency_data["no_party"]["wiki_link"])
+    ]
     return {
         "constituency": constituency_data["constituency"],
         "candidates": [*kmt_candidates, *dpp_candidates, *other_party_candidates, *no_party_candidates],
@@ -17,15 +30,6 @@ def parse_constituency(constituency_data):
 
 def transform(input_path, output_path):
     """Transform legislator candidate.
-
-    input:
-    [{
-        "constituency": "臺北市第一選舉區",
-        "kmt": ["詹為元", "黃子哲", "曾文培", "陳重文", "汪志冰"],
-        "dpp": ["吳思瑤"],
-        "other_party": {"name": ["潘懷宗"], "party": ["新黨"]},
-        "no_party": ["陳建銘", "王郁楊"]
-    },...]
 
     output:
     [{
@@ -36,7 +40,9 @@ def transform(input_path, output_path):
     with open(input_path) as fp:
         constituencies_candidates = json.load(fp)
 
-    transformed_constituencies_candidates = [parse_constituency(constituency_data) for constituency_data in constituencies_candidates]
+    transformed_constituencies_candidates = [
+        parse_constituency(constituency_data) for constituency_data in constituencies_candidates
+    ]
 
     # # get candidates' party list
     # party_list = set()
@@ -46,4 +52,4 @@ def transform(input_path, output_path):
     # print("Candidate party list:", ", ".join(party_list))
 
     with open(output_path, "w") as fp:
-        fp.write(json.dumps(transformed_constituencies_candidates, ensure_ascii=False))
+        fp.write(json.dumps(transformed_constituencies_candidates, ensure_ascii=False, indent=2))

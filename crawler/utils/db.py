@@ -18,4 +18,5 @@ class Candidate(BaseModel):
     name = CharField()
     party = CharField(null=True)
     consistuency = CharField()
+    wiki = CharField()
     current_legislator = BooleanField(default=False)

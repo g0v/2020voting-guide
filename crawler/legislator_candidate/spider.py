@@ -39,9 +39,47 @@ class VotingAreaMappingSpider(scrapy.Spider):
         table = Selector(text=response_text).xpath("//table")  # table_name: 2020年中華民國立法委員區域暨原住民候選人名單
         for row in table.xpath(".//tr")[3:-1]:
             yield {
-                "constituency": row.xpath("./td[1]//a/text()").extract_first(),
-                "kmt": row.xpath("./td[2]//a/text()").extract(),
-                "dpp": row.xpath("./td[3]//a/text()").extract(),
-                "other_party": {"name": row.xpath("./td[4]//a/text()").extract(), "party": row.xpath("./td[5]//a/text()").extract()},
-                "no_party": row.xpath("./td[6]//a/text()").extract(),
+                "constituency": row.xpath("./td[1]/a/text()").extract_first(),
+                "kmt": {
+                    "name": row.xpath("./td[2]//a/text()").extract(),
+                    "wiki_link": [
+                        item
+                        for item in row.xpath("./td[2]//a/@href").extract()
+                        if item
+                        not in ["/wiki/File:Yes_check.svg", "/wiki/File:Blue_check.svg", "/wiki/File:Black_check.svg"]
+                    ],
+                },
+                "dpp": {
+                    "name": row.xpath("./td[3]//a/text()").extract(),
+                    "wiki_link": [
+                        item
+                        for item in row.xpath("./td[3]//a/@href").extract()
+                        if item
+                        not in ["/wiki/File:Yes_check.svg", "/wiki/File:Blue_check.svg", "/wiki/File:Black_check.svg"]
+                    ],
+                },
+                "other_party": {
+                    "name": row.xpath("./td[4]//a/text()").extract(),
+                    "wiki_link": [
+                        item
+                        for item in row.xpath("./td[4]//a/@href").extract()
+                        if item
+                        not in ["/wiki/File:Yes_check.svg", "/wiki/File:Blue_check.svg", "/wiki/File:Black_check.svg"]
+                    ],
+                    "party": [
+                        item
+                        for item in row.xpath("./td[5]//a/text()").extract()
+                        if item
+                        not in ["/wiki/File:Yes_check.svg", "/wiki/File:Blue_check.svg", "/wiki/File:Black_check.svg"]
+                    ],
+                },
+                "no_party": {
+                    "name": row.xpath("./td[6]//a/text()").extract(),
+                    "wiki_link": [
+                        item
+                        for item in row.xpath("./td[6]//a/@href").extract()
+                        if item
+                        not in ["/wiki/File:Yes_check.svg", "/wiki/File:Blue_check.svg", "/wiki/File:Black_check.svg"]
+                    ],
+                },
             }
