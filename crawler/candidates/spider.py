@@ -11,8 +11,10 @@ output:
 },...]
 """
 import json
-
+from typing import List
 import scrapy
+from urllib.parse import unquote
+
 from scrapy.selector import Selector
 import re
 
@@ -34,6 +36,14 @@ class VotingAreaMappingSpider(scrapy.Spider):
         yield scrapy.FormRequest(url=wiki_api, formdata=params)
 
     def parse(self, response):
+        def wiki_links_processor(links: List[str]) -> List[str]:
+            return [
+                unquote(link)
+                for link in links
+                if link not in ["/wiki/File:Yes_check.svg", "/wiki/File:Blue_check.svg", "/wiki/File:Black_check.svg"]
+                and not link.endswith("redlink=1")
+            ]
+
         response_text = json.loads(response.body_as_unicode())["parse"]["text"]["*"]
         response_text = re.sub(r"\((.*)\)", "", response_text)  # remove notes
         table = Selector(text=response_text).xpath("//table")  # table_name: 2020年中華民國立法委員區域暨原住民候選人名單
@@ -42,44 +52,19 @@ class VotingAreaMappingSpider(scrapy.Spider):
                 "constituency": row.xpath("./td[1]/a/text()").extract_first(),
                 "kmt": {
                     "name": row.xpath("./td[2]//a/text()").extract(),
-                    "wiki_link": [
-                        item
-                        for item in row.xpath("./td[2]//a/@href").extract()
-                        if item
-                        not in ["/wiki/File:Yes_check.svg", "/wiki/File:Blue_check.svg", "/wiki/File:Black_check.svg"]
-                    ],
+                    "wiki_link": wiki_links_processor(row.xpath("./td[2]//a/@href").extract()),
                 },
                 "dpp": {
                     "name": row.xpath("./td[3]//a/text()").extract(),
-                    "wiki_link": [
-                        item
-                        for item in row.xpath("./td[3]//a/@href").extract()
-                        if item
-                        not in ["/wiki/File:Yes_check.svg", "/wiki/File:Blue_check.svg", "/wiki/File:Black_check.svg"]
-                    ],
+                    "wiki_link": wiki_links_processor(row.xpath("./td[3]//a/@href").extract()),
                 },
                 "other_party": {
                     "name": row.xpath("./td[4]//a/text()").extract(),
-                    "wiki_link": [
-                        item
-                        for item in row.xpath("./td[4]//a/@href").extract()
-                        if item
-                        not in ["/wiki/File:Yes_check.svg", "/wiki/File:Blue_check.svg", "/wiki/File:Black_check.svg"]
-                    ],
-                    "party": [
-                        item
-                        for item in row.xpath("./td[5]//a/text()").extract()
-                        if item
-                        not in ["/wiki/File:Yes_check.svg", "/wiki/File:Blue_check.svg", "/wiki/File:Black_check.svg"]
-                    ],
+                    "wiki_link": wiki_links_processor(row.xpath("./td[4]//a/@href").extract()),
+                    "party": row.xpath("./td[5]//a/text()").extract(),
                 },
                 "no_party": {
                     "name": row.xpath("./td[6]//a/text()").extract(),
-                    "wiki_link": [
-                        item
-                        for item in row.xpath("./td[6]//a/@href").extract()
-                        if item
-                        not in ["/wiki/File:Yes_check.svg", "/wiki/File:Blue_check.svg", "/wiki/File:Black_check.svg"]
-                    ],
+                    "wiki_link": wiki_links_processor(row.xpath("./td[6]//a/@href").extract()),
                 },
             }

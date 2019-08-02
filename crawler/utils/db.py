@@ -20,3 +20,5 @@ class Candidate(BaseModel):
     consistuency = CharField()
     wiki = CharField()
     current_legislator = BooleanField(default=False)
+    date_of_birth = CharField(null=True)
+    info_box = BooleanField(default=False)

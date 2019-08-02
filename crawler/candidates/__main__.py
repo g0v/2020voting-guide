@@ -58,6 +58,7 @@ def write_result_to_db(file_path):
         for constituency in data
         for candidate in constituency["candidates"]
     ]
+    Candidate.drop_table()
     Candidate.create_table()
     Candidate.insert_many(data).execute()
 
