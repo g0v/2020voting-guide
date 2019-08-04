@@ -1,32 +1,47 @@
 from os import remove
-
+import json
 from scrapy.crawler import CrawlerProcess
 from spider import VotingAreaMappingSpider
-from transform import transform
+from db import Candidate
 
-OUTPUT_RAW = '../data/raw/legislator_candidate.json'
-OUTPUT_TRANSFORMED = '../data/organized/legislator_candidate.json'
+OUTPUT_RAW = "../data/raw/candidate_birthday.json"
 
 
 def remove_output():
     try:
         remove(OUTPUT_RAW)
     except FileNotFoundError:
-        print(f'File not exist: {OUTPUT_RAW}')
+        print(f"File not exist: {OUTPUT_RAW}")
+
+
+def get_page_list():
+    return [row.wiki.split("/")[-1] for row in Candidate.select()]
 
 
 def crawl():
-    process = CrawlerProcess({
-        'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)',
-        'FEED_FORMAT': 'json',
-        'FEED_EXPORT_ENCODING': 'utf-8',
-        'FEED_URI': OUTPUT_RAW
-    })
-    process.crawl(VotingAreaMappingSpider)
+    process = CrawlerProcess(
+        {
+            "USER_AGENT": "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)",
+            "FEED_FORMAT": "json",
+            "FEED_EXPORT_ENCODING": "utf-8",
+            "FEED_URI": OUTPUT_RAW,
+        }
+    )
+    process.crawl(VotingAreaMappingSpider, get_page_list())
     process.start()
+
+
+def write_result_to_db(file_path):
+    with open(file_path) as fp:
+        data = json.load(fp)
+
+    for candidate in data:
+        Candidate.update(date_of_birth=candidate["date_of_birth"], age=candidate["age"]).where(
+            Candidate.name == candidate["page_name"]
+        ).execute()
 
 
 if __name__ == "__main__":
     remove_output()
     crawl()
-    # transform(OUTPUT_RAW, OUTPUT_TRANSFORMED)
+    write_result_to_db(OUTPUT_RAW)

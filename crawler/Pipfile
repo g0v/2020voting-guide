@@ -18,9 +18,9 @@ scrapy = "*"
 grequests = "*"
 mwparserfromhell = "*"
 wptools = "*"
-pycurl = "*"
 pymysql = "*"
 peewee = "*"
+pycurl = "*"
 
 [requires]
 python_version = "3.7"
