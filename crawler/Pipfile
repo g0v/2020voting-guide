@@ -15,12 +15,7 @@ black = "==19.3b0"
 [packages]
 requests = "*"
 scrapy = "*"
-grequests = "*"
-mwparserfromhell = "*"
-wptools = "*"
-pymysql = "*"
 peewee = "*"
-pycurl = "*"
 
 [requires]
 python_version = "3.7"
