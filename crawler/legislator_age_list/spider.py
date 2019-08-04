@@ -21,50 +21,45 @@ def calculate_age(year, month, day):
     today = date.today()
     return today.year - year - ((today.month, today.day) < (month, day))
 
+
 class VotingAreaMappingSpider(scrapy.Spider):
-    name = 'voting_area_mapping'
-    allowed_domains = ['zh.wikipedia.org']
+    name = "voting_area_mapping"
+    allowed_domains = ["zh.wikipedia.org"]
 
-
-
+    def __init__(self, page_list):
+        """Use wiki page names as input."""
+        self.page_list = page_list
 
     def start_requests(self):
-        wiki_api = 'https://zh.wikipedia.org/w/api.php'
-        params = {
-            'action': 'parse',
-            'format': 'json',
-            'page': '黃國昌',
-            'prop': 'text',
-            'section': '0',
-            'utf8': ''
-        }
-        yield scrapy.FormRequest(url=wiki_api, formdata=params)
-
+        wiki_api = "https://zh.wikipedia.org/w/api.php"
+        for page_name in self.page_list:
+            params = {
+                "action": "parse",
+                "format": "json",
+                "page": page_name,
+                "prop": "text",
+                "section": "0",
+                "utf8": "",
+            }
+            yield scrapy.FormRequest(url=wiki_api, formdata=params, meta={"page_name": page_name})
 
     def parse(self, response):
-
-        print("Result:" )
-
-        response_text = json.loads(response.body_as_unicode())['parse']['text']['*']
-
-        print(response_text)
-
-        print("EXTRACT!")
-        # response.xpath('//h3[@class="title"]/a/span/text()').extract_first()
-
-        print(Selector(text=response_text).xpath('//span/text()').extract_first())
-        print(Selector(text=response_text).xpath("//span[@class ='bday']/text()").extract_first())
+        try:
+            response_text = json.loads(response.body_as_unicode())["parse"]["text"]["*"]
+        except Exception:
+            print(f'no response from {response.meta["page_name"]}')
+            return
 
         date_of_birth = Selector(text=response_text).xpath("//span[@class ='bday']/text()").extract_first()
-        # print(date_of_birth)
-        year = int(date_of_birth[0:4])
-        month = int(date_of_birth[5:7])
-        day = int(date_of_birth[8:11])
-        # print(year)
-        # print(month)
-        # print(day)
-        print(calculate_age(year, month, day))
+        if date_of_birth:
+            year = int(date_of_birth[0:4])
+            month = int(date_of_birth[5:7])
+            day = int(date_of_birth[8:11])
 
-
-
-
+            yield {
+                "page_name": response.meta["page_name"],
+                "date_of_birth": date_of_birth,
+                "age": calculate_age(year, month, day),
+            }
+        else:
+            yield {"page_name": response.meta["page_name"], "date_of_birth": None, "age": None}
