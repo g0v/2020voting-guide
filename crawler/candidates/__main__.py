@@ -53,7 +53,7 @@ def write_result_to_db(file_path):
             "name": candidate["name"].replace("․", "．"),
             "party": candidate["party"],
             "wiki": candidate["wiki"],
-            "consistuency": constituency["constituency"],
+            "constituency": constituency["constituency"],
         }
         for constituency in data
         for candidate in constituency["candidates"]

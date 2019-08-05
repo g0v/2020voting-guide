@@ -21,7 +21,7 @@ func ListCandidatesByConstituencyHandler(c *gin.Context) {
 	constituency := c.Param("constituency")
 
 	var candidates models.CandidateCards
-	db.MySQL.Table("candidates").Where("constituency = ?", constituency).Find(&candidates)
+	db.MySQL.Table("candidate").Where("constituency = ?", constituency).Find(&candidates)
 	c.JSON(http.StatusOK, candidates)
 }
 
