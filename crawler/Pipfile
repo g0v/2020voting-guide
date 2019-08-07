@@ -16,6 +16,7 @@ black = "==19.3b0"
 requests = "*"
 scrapy = "*"
 peewee = "*"
+pymysql = "*"
 
 [requires]
 python_version = "3.7"
