@@ -1,5 +1,5 @@
 from os import environ
-from peewee import MySQLDatabase, Model, CharField, BooleanField, SmallIntegerField
+from peewee import MySQLDatabase, Model, CharField, BooleanField, SmallIntegerField, TextField
 
 USER = environ["MYSQL_USER"]
 PASSWORD = environ["MYSQL_PASSWORD"]
@@ -19,6 +19,29 @@ class Candidate(BaseModel):
     party = CharField(null=True)
     constituency = CharField()
     wiki = CharField()
-    current_legislator = BooleanField(default=False)
-    date_of_birth = CharField(null=True)
+    currentLegislator = BooleanField(default=False)
+    dateOfBirth = CharField(null=True)
     age = SmallIntegerField(null=True)
+
+
+class LegislatorRecord(BaseModel):
+    name = CharField()
+    ename = CharField()
+    picUrl = CharField(null=True)
+    sex = CharField()
+    party = CharField()
+    degree = TextField(null=True)
+    experience = TextField(null=True)
+    term = CharField()
+    areaName = CharField()
+    committee = TextField(null=True)
+    partyGroup = CharField()
+    county = CharField(null=True)
+    onboardDate = CharField()
+    leaveFlag = CharField()
+    leaveReason = CharField(null=True)
+    leaveDate = CharField(null=True)
+    attendance_rate = CharField(null=True)
+
+    class Meta:
+        db_table = "legislator_record"
