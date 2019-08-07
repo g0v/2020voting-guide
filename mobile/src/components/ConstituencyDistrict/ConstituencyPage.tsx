@@ -20,7 +20,6 @@ interface Constituency {
 
 const ConstituencyPage: React.FunctionComponent<County> = ({ match }) => {
     const { county } = match.params;
-    console.log(match);
     const constituencyNames = Object.keys(constituencyArea).filter(
         constituency => constituency.startsWith(county)
     );
@@ -30,7 +29,7 @@ const ConstituencyPage: React.FunctionComponent<County> = ({ match }) => {
                 <Typography variant="h6">{county}</Typography>
             </Box>
             {constituencyNames.map(name => (
-                <Box m={1}>
+                <Box m={1} key={name}>
                     <ConstituencyCard name={name} county={county} key={name} />
                 </Box>
             ))}
