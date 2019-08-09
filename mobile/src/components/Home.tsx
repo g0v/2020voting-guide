@@ -17,8 +17,6 @@ const useStyles = makeStyles({
     mainButton: {
         height: '35vw',
         width: '41vw'
-        // display: 'block',
-        // textAlign: 'center'
     }
 });
 
@@ -64,7 +62,10 @@ const Home = () => {
                         className={classes.mainButton}
                     >
                         <Box textAlign="center">
-                            <Typography variant="h6">比較候選人</Typography>
+                            <Typography variant="h6">
+                                <b>比較候選人</b>
+                            </Typography>
+
                             <Typography variant="button">區域立委</Typography>
                         </Box>
                     </Button>
@@ -76,7 +77,9 @@ const Home = () => {
                         className={classes.mainButton}
                     >
                         <Box textAlign="center">
-                            <Typography variant="h6">比較參選政黨</Typography>
+                            <Typography variant="h6">
+                                <b>比較參選政黨</b>
+                            </Typography>
                             <Typography variant="button">不分區立委</Typography>
                         </Box>
                     </Button>

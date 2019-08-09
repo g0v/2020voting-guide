@@ -5,7 +5,7 @@ import AppDrawer from './components/AppDrawer';
 import Candidate from './components/Candidate/Candidate';
 import ConstituencyCandidates from './components/ConstituencyCandidates/ConstituencyCandidates';
 import ConstituencyPage from './components/ConstituencyDistrict/ConstituencyPage';
-import County from './components/CountyConstituency/County';
+import County from './components/ConstituencyCounty/County';
 import Home from './components/Home';
 import Nav from './components/Nav';
 
