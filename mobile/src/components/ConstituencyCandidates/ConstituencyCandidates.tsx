@@ -1,9 +1,8 @@
-import React, { useState, useEffect } from 'react';
-import { CandidateProps, CandidateCard } from './CandidateCard';
 import Box from '@material-ui/core/Box';
-import { Link } from 'react-router-dom';
-import Typography from '@material-ui/core/Typography';
 import Button from '@material-ui/core/Button';
+import Typography from '@material-ui/core/Typography';
+import React, { useEffect, useState } from 'react';
+import { CandidateCard, CandidateProps } from './CandidateCard';
 
 interface Route {
     match: {
@@ -33,17 +32,17 @@ const CountyCandidates: React.FunctionComponent<Route> = ({ match }) => {
                     <Typography variant="subtitle2">{constituency}</Typography>
                 </Box>
                 {candidates.map(candidate => (
-                    <Link
-                        to={`/candidate?county=${county}&constituency=${constituency}`}
-                    >
+                    <Box my={1}>
                         <CandidateCard
                             id={candidate.id}
                             name={candidate.name}
                             photo={candidate.photo}
                             party={candidate.party}
                             experience={candidate.experience}
+                            county={county}
+                            constituency={constituency}
                         />
-                    </Link>
+                    </Box>
                 ))}
             </Box>
         </>
