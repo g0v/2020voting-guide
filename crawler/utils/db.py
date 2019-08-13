@@ -45,3 +45,20 @@ class LegislatorRecord(BaseModel):
 
     class Meta:
         db_table = "legislator_record"
+
+
+class Sitting(BaseModel):
+    sessionTimes = CharField()
+    jointCommittee = CharField(null=True)
+    sessionPeriod = CharField()
+    meetingContent = TextField(null=True)
+    meetingNo = CharField()
+    selectTerm = CharField()
+    meetingName = CharField()
+    term = CharField()
+    meetingDateDesc = CharField()
+    coChairman = CharField(null=True)
+    meetingUnit = CharField()
+    meetingTimes = CharField()
+    meetingRoom = CharField(null=True)
+    attendLegislator = TextField(null=True)
