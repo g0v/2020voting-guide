@@ -59,12 +59,12 @@ class VotingAreaMappingSpider(scrapy.Spider):
                     "wiki_link": wiki_links_processor(row.xpath("./td[3]//a/@href").extract()),
                 },
                 "other_party": {
-                    "name": row.xpath("./td[5]//a/text()").extract(),
+                    "name": row.xpath("./td[4]//a/text()").extract(),
                     "wiki_link": wiki_links_processor(row.xpath("./td[5]//a/@href").extract()),
-                    "party": row.xpath("./td[6]//a/text()").extract(),
+                    "party": row.xpath("./td[5]//a/text()").extract(),
                 },
                 "no_party": {
-                    "name": row.xpath("./td[7]//a/text()").extract(),
-                    "wiki_link": wiki_links_processor(row.xpath("./td[7]//a/@href").extract()),
+                    "name": row.xpath("./td[6]//a/text()").extract(),
+                    "wiki_link": wiki_links_processor(row.xpath("./td[6]//a/@href").extract()),
                 },
             }
