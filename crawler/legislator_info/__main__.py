@@ -1,10 +1,10 @@
 import json
 from os import environ, path
-from typing import Dict, List
+from typing import List
 
 from db import Candidate, LegislatorRecord
 from legislative_yuan_open_data import scrap_legislator_info_pages, store_pages_info
-from transform import get_current_legislator_names
+from transform import get_current_legislator_names, get_history_legislator_names
 
 
 FILE_DIR = path.dirname(path.abspath(__file__))
@@ -12,7 +12,7 @@ OUTPUT_RAW_DIR = environ.get("OUTPUT_RAW_DIR", f"{FILE_DIR}/../../data/raw")
 OUTPUT_TRANSFORMED_DIR = environ.get("OUTPUT_TRANSFORMED_DIR", f"{FILE_DIR}/../../data/organized")
 
 
-def run_history_legislator_info_pages() -> List[Dict[str, str]]:
+def run_history_legislator_info_pages() -> List[str]:
     id = "history_legislator_info"
     pages_info = scrap_legislator_info_pages(id, payload_base={"id": 16, "selectTerm": "all"}, page_count=2)
     store_pages_info(pages_info, id, OUTPUT_RAW_DIR)
@@ -24,6 +24,16 @@ def run_current_legislator_info_pages():
     pages_info = scrap_legislator_info_pages(id, payload_base={"id": 9, "selectTerm": "all"}, page_count=1)
     store_pages_info(pages_info, id, OUTPUT_RAW_DIR)
     return pages_info
+
+
+def tag_history_legislator_in_db(names: List[str]) -> None:
+    """Write history_legislator column.
+
+    Notice: won't change others to False
+    """
+    print(f"history legislators: {names}")
+    query = Candidate.update(historyLegislator=True).where(Candidate.name.in_(names))
+    query.execute()
 
 
 def tag_current_legislator_in_db(names: List[str]) -> None:
@@ -42,6 +52,9 @@ if __name__ == "__main__":
     LegislatorRecord.drop_table()
     LegislatorRecord.create_table()
     LegislatorRecord.insert_many(data).execute()
+
+    history_legislator_names = get_history_legislator_names(history_legislator_info_pages)
+    tag_history_legislator_in_db(history_legislator_names)
 
     current_legislator_info_pages = run_current_legislator_info_pages()
     current_legislator_names = get_current_legislator_names(current_legislator_info_pages)
