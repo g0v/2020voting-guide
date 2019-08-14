@@ -25,7 +25,7 @@ class Candidate(BaseModel):
     age = SmallIntegerField(null=True)
 
 
-class LegislatorRecord(BaseModel):
+class Legislator(BaseModel):
     name = CharField()
     ename = CharField()
     picUrl = CharField(null=True)
@@ -43,9 +43,6 @@ class LegislatorRecord(BaseModel):
     leaveReason = CharField(null=True)
     leaveDate = CharField(null=True)
     attendance_rate = CharField(null=True)
-
-    class Meta:
-        db_table = "legislator_record"
 
 
 class Sitting(BaseModel):

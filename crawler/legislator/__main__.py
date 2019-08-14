@@ -2,7 +2,7 @@ import json
 from os import environ, path
 from typing import List
 
-from db import Candidate, LegislatorRecord
+from db import Candidate, Legislator
 from legislative_yuan_open_data import scrap_legislator_info_pages, store_pages_info
 from transform import get_current_legislator_names, get_history_legislator_names
 
@@ -49,9 +49,9 @@ def tag_current_legislator_in_db(names: List[str]) -> None:
 if __name__ == "__main__":
     history_legislator_info_pages = run_history_legislator_info_pages()
     data = [legislator for page in history_legislator_info_pages for legislator in json.loads(page)["jsonList"]]
-    LegislatorRecord.drop_table()
-    LegislatorRecord.create_table()
-    LegislatorRecord.insert_many(data).execute()
+    Legislator.drop_table()
+    Legislator.create_table()
+    Legislator.insert_many(data).execute()
 
     history_legislator_names = get_history_legislator_names(history_legislator_info_pages)
     tag_history_legislator_in_db(history_legislator_names)

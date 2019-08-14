@@ -36,7 +36,7 @@ def write_result_to_db(file_path):
         data = json.load(fp)
 
     for candidate in data:
-        Candidate.update(date_of_birth=candidate["date_of_birth"], age=candidate["age"]).where(
+        Candidate.update(dateOfBirth=candidate["date_of_birth"], age=candidate["age"]).where(
             Candidate.name == candidate["page_name"]
         ).execute()
 
