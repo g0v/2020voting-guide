@@ -1,6 +1,5 @@
 import json
 from typing import List, Dict, Optional
-import re
 
 
 def get_legislators_info(history_legislator_info_pages, current_legislator_info_pages) -> str:
@@ -21,24 +20,3 @@ def get_legislators_info(history_legislator_info_pages, current_legislator_info_
             legislators[name]["current_info"].append(legislator)
 
     return json.dumps(legislators, ensure_ascii=False)
-
-
-def get_history_legislator_names(history_legislator_info_pages):
-    history_legislators_pages = [json.loads(page)["jsonList"] for page in history_legislator_info_pages]
-    names = [
-        re.match(r"[\u4e00-\u9fff|．]{2,}", legislator["name"])[0]
-        for history_legislators in history_legislators_pages
-        for legislator in history_legislators
-    ]
-    return names
-
-
-def get_current_legislator_names(current_legislator_info_pages):
-    current_legislators_pages = [json.loads(page)["jsonList"] for page in current_legislator_info_pages]
-    names = [
-        re.match(r"[\u4e00-\u9fff|．]{2,}", legislator["name"])[0]
-        for current_legislators in current_legislators_pages
-        for legislator in current_legislators
-        if legislator["leaveFlag"] == "否"
-    ]
-    return names

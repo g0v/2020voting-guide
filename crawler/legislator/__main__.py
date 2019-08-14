@@ -4,7 +4,6 @@ from typing import List
 
 from db import Candidate, Legislator
 from legislative_yuan_open_data import scrap_legislator_info_pages, store_pages_info
-from transform import get_current_legislator_names, get_history_legislator_names
 
 
 FILE_DIR = path.dirname(path.abspath(__file__))
@@ -52,10 +51,3 @@ if __name__ == "__main__":
     Legislator.drop_table()
     Legislator.create_table()
     Legislator.insert_many(data).execute()
-
-    history_legislator_names = get_history_legislator_names(history_legislator_info_pages)
-    tag_history_legislator_in_db(history_legislator_names)
-
-    current_legislator_info_pages = run_current_legislator_info_pages()
-    current_legislator_names = get_current_legislator_names(current_legislator_info_pages)
-    tag_current_legislator_in_db(current_legislator_names)
