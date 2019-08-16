@@ -24,6 +24,7 @@ def crawl():
             "USER_AGENT": "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)",
             "FEED_FORMAT": "json",
             "FEED_EXPORT_ENCODING": "utf-8",
+            "CONCURRENT_REQUESTS": 1,
             "FEED_URI": OUTPUT_RAW,
         }
     )

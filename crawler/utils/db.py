@@ -21,6 +21,7 @@ class Candidate(BaseModel):
     wiki = CharField()
     currentLegislator = BooleanField(default=False)
     historyLegislator = BooleanField(default=False)
+    lastTerm = CharField(null=True)
     dateOfBirth = CharField(null=True)
     age = SmallIntegerField(null=True)
 

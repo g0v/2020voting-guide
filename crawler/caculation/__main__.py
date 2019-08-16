@@ -1,4 +1,5 @@
 from db import Candidate, Legislator
+from peewee import fn
 import re
 
 
@@ -18,6 +19,13 @@ def tag_history_candidate():
     query.execute()
 
 
+def update_last_term():
+    query = Legislator.select(Legislator.name, fn.max(Legislator.term).alias("last_term")).group_by(Legislator.name)
+    for legislator in query:
+        Candidate.update(lastTerm=legislator.last_term).where(Candidate.name == legislator.name).execute()
+
+
 if __name__ == "__main__":
     tag_current_candidate()
     tag_history_candidate()
+    update_last_term()
