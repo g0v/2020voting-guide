@@ -19,6 +19,7 @@ class Candidate(BaseModel):
     party = CharField(null=True)
     constituency = CharField()
     wiki = CharField()
+    picUrl = CharField(null=True)
     currentLegislator = BooleanField(default=False)
     historyLegislator = BooleanField(default=False)
     lastTerm = CharField(null=True)
