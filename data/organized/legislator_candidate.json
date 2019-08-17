@@ -45,17 +45,12 @@
       {
         "party": "親民黨",
         "name": "陳怡潔",
-        "wiki": "https://zh.wikipedia.org/wiki/陳怡潔"
+        "wiki": "https://zh.wikipedia.org/wiki/親民黨"
       },
       {
         "party": "民生公益",
         "name": "張穆庭",
-        "wiki": "https://zh.wikipedia.org/wiki/張穆庭"
-      },
-      {
-        "party": "無黨籍",
-        "name": "陳思宇",
-        "wiki": "https://zh.wikipedia.org/wiki/陳思宇"
+        "wiki": "https://zh.wikipedia.org/wiki/民生公益"
       }
     ]
   },
@@ -69,8 +64,18 @@
       },
       {
         "party": "民進黨",
-        "name": "李晏榕",
-        "wiki": "https://zh.wikipedia.org/wiki/李晏榕"
+        "name": "吳怡農",
+        "wiki": "https://zh.wikipedia.org/wiki/吳怡農"
+      },
+      {
+        "party": "時代力量",
+        "name": "陳孟秀",
+        "wiki": "https://zh.wikipedia.org/wiki/時代力量"
+      },
+      {
+        "party": "新黨",
+        "name": "林明正",
+        "wiki": "https://zh.wikipedia.org/wiki/新黨"
       }
     ]
   },
@@ -86,11 +91,6 @@
         "party": "民進黨",
         "name": "高嘉瑜",
         "wiki": "https://zh.wikipedia.org/wiki/高嘉瑜"
-      },
-      {
-        "party": "親民黨",
-        "name": "黃珊珊",
-        "wiki": "https://zh.wikipedia.org/wiki/黃珊珊"
       }
     ]
   },
@@ -103,14 +103,19 @@
         "wiki": "https://zh.wikipedia.org/wiki/林郁方"
       },
       {
-        "party": "無黨籍",
-        "name": "鍾小平",
-        "wiki": "https://zh.wikipedia.org/wiki/鍾小平"
+        "party": "新黨",
+        "name": "王炳忠",
+        "wiki": "https://zh.wikipedia.org/wiki/新黨"
       },
       {
         "party": "無黨籍",
         "name": "林昶佐",
         "wiki": "https://zh.wikipedia.org/wiki/林昶佐"
+      },
+      {
+        "party": "無黨籍",
+        "name": "鍾小平",
+        "wiki": "https://zh.wikipedia.org/wiki/鍾小平"
       }
     ]
   },
@@ -123,14 +128,14 @@
         "wiki": "https://zh.wikipedia.org/wiki/林奕華_"
       },
       {
-        "party": "民進黨",
-        "name": "阮昭雄",
-        "wiki": "https://zh.wikipedia.org/wiki/阮昭雄"
-      },
-      {
         "party": "社會民主黨",
         "name": "范雲",
-        "wiki": "https://zh.wikipedia.org/wiki/范雲"
+        "wiki": "https://zh.wikipedia.org/wiki/File:Colourful_Rose.png"
+      },
+      {
+        "party": "新黨",
+        "name": "蘇恆",
+        "wiki": "https://zh.wikipedia.org/wiki/新黨"
       }
     ]
   },
@@ -150,7 +155,7 @@
       {
         "party": "時代力量",
         "name": "陳雨凡",
-        "wiki": "https://zh.wikipedia.org/wiki/陳雨凡"
+        "wiki": "https://zh.wikipedia.org/wiki/時代力量"
       }
     ]
   },
@@ -161,11 +166,6 @@
         "party": "國民黨",
         "name": "賴士葆",
         "wiki": "https://zh.wikipedia.org/wiki/赖士葆"
-      },
-      {
-        "party": "民進黨",
-        "name": "蔡森然",
-        "wiki": "https://zh.wikipedia.org/wiki/蔡森然"
       }
     ]
   },
@@ -181,6 +181,11 @@
         "party": "民進黨",
         "name": "呂孫綾",
         "wiki": "https://zh.wikipedia.org/wiki/呂孫綾"
+      },
+      {
+        "party": "時代力量",
+        "name": "張衞航",
+        "wiki": "https://zh.wikipedia.org/wiki/時代力量"
       }
     ]
   },
@@ -190,7 +195,7 @@
       {
         "party": "國民黨",
         "name": "黃桂蘭",
-        "wiki": "https://zh.wikipedia.org/wiki/黃桂蘭"
+        "wiki": "https://zh.wikipedia.org/w/index.php?title=黃桂蘭_（页面不存在）"
       },
       {
         "party": "民進黨",
@@ -203,14 +208,14 @@
     "constituency": "新北市第三選舉區",
     "candidates": [
       {
-        "party": "國民黨",
-        "name": "鄭世維",
-        "wiki": "https://zh.wikipedia.org/wiki/鄭世維"
-      },
-      {
         "party": "民進黨",
         "name": "余天",
         "wiki": "https://zh.wikipedia.org/wiki/余天"
+      },
+      {
+        "party": "無黨團結聯盟",
+        "name": "李翁月娥",
+        "wiki": "https://zh.wikipedia.org/wiki/無黨團結聯盟"
       }
     ]
   },
@@ -226,11 +231,6 @@
         "party": "民進黨",
         "name": "吳秉叡",
         "wiki": "https://zh.wikipedia.org/wiki/吳秉叡"
-      },
-      {
-        "party": "親民黨",
-        "name": "李鴻鈞",
-        "wiki": "https://zh.wikipedia.org/wiki/李鴻鈞"
       }
     ]
   },
@@ -321,16 +321,6 @@
         "party": "國民黨",
         "name": "羅明才",
         "wiki": "https://zh.wikipedia.org/wiki/羅明才"
-      },
-      {
-        "party": "民進黨",
-        "name": "陳永福",
-        "wiki": "https://zh.wikipedia.org/wiki/陳永福_"
-      },
-      {
-        "party": "時代力量",
-        "name": "曾柏瑜",
-        "wiki": "https://zh.wikipedia.org/wiki/曾柏瑜"
       }
     ]
   },
@@ -343,9 +333,19 @@
         "wiki": "https://zh.wikipedia.org/wiki/李永萍"
       },
       {
+        "party": "時代力量",
+        "name": "賴嘉倫",
+        "wiki": "https://zh.wikipedia.org/wiki/時代力量"
+      },
+      {
+        "party": "台灣團結聯盟",
+        "name": "劉一德",
+        "wiki": "https://zh.wikipedia.org/wiki/台灣團結聯盟"
+      },
+      {
         "party": "安定力量",
         "name": "孫繼正",
-        "wiki": "https://zh.wikipedia.org/wiki/孫繼正"
+        "wiki": "https://zh.wikipedia.org/wiki/安定力量"
       }
     ]
   },
@@ -385,7 +385,7 @@
       {
         "party": "無黨籍",
         "name": "吳文凱",
-        "wiki": "https://zh.wikipedia.org/wiki/吴文凯"
+        "wiki": "https://zh.wikipedia.org/w/index.php?title=吳文凱_（页面不存在）"
       }
     ]
   },
@@ -405,7 +405,7 @@
       {
         "party": "時代力量",
         "name": "林佳瑋",
-        "wiki": "https://zh.wikipedia.org/wiki/林佳瑋"
+        "wiki": "https://zh.wikipedia.org/wiki/時代力量"
       }
     ]
   },
@@ -440,7 +440,7 @@
       {
         "party": "國會政黨聯盟",
         "name": "歐陽霆",
-        "wiki": "https://zh.wikipedia.org/wiki/張誠"
+        "wiki": "https://zh.wikipedia.org/wiki/國會政黨聯盟"
       }
     ]
   },
@@ -485,7 +485,7 @@
       {
         "party": "台灣基進",
         "name": "陳柏惟",
-        "wiki": "https://zh.wikipedia.org/wiki/陳柏惟"
+        "wiki": "https://zh.wikipedia.org/wiki/台灣基進"
       }
     ]
   },
@@ -498,7 +498,7 @@
         "wiki": "https://zh.wikipedia.org/wiki/楊瓊瓔"
       },
       {
-        "party": "時代力量",
+        "party": "無黨籍",
         "name": "洪慈庸",
         "wiki": "https://zh.wikipedia.org/wiki/洪慈庸"
       }
@@ -526,11 +526,6 @@
         "party": "國民黨",
         "name": "沈智慧",
         "wiki": "https://zh.wikipedia.org/wiki/沈智慧_"
-      },
-      {
-        "party": "民進黨",
-        "name": "曾朝榮",
-        "wiki": "https://zh.wikipedia.org/wiki/曾朝榮"
       },
       {
         "party": "無黨籍",
@@ -649,13 +644,8 @@
     "candidates": [
       {
         "party": "國民黨",
-        "name": "王家貞",
-        "wiki": "https://zh.wikipedia.org/wiki/王家貞"
-      },
-      {
-        "party": "國民黨",
-        "name": "林易煌",
-        "wiki": "https://zh.wikipedia.org/wiki/林易煌"
+        "name": "洪秀柱",
+        "wiki": "https://zh.wikipedia.org/wiki/洪秀柱"
       },
       {
         "party": "民進黨",
@@ -671,6 +661,11 @@
         "party": "民進黨",
         "name": "邱議瑩",
         "wiki": "https://zh.wikipedia.org/wiki/邱議瑩"
+      },
+      {
+        "party": "無黨團結聯盟",
+        "name": "朱信強",
+        "wiki": "https://zh.wikipedia.org/wiki/無黨團結聯盟"
       }
     ]
   },
@@ -740,7 +735,7 @@
       {
         "party": "親民黨",
         "name": "吳益政",
-        "wiki": "https://zh.wikipedia.org/wiki/吳益政"
+        "wiki": "https://zh.wikipedia.org/wiki/親民黨"
       }
     ]
   },
@@ -760,7 +755,7 @@
       {
         "party": "時代力量",
         "name": "陳惠敏",
-        "wiki": "https://zh.wikipedia.org/wiki/陳惠敏"
+        "wiki": "https://zh.wikipedia.org/wiki/時代力量"
       }
     ]
   },
@@ -786,6 +781,11 @@
         "party": "民進黨",
         "name": "蔡適應",
         "wiki": "https://zh.wikipedia.org/wiki/蔡適應"
+      },
+      {
+        "party": "國會政黨聯盟",
+        "name": "楊石城",
+        "wiki": "https://zh.wikipedia.org/wiki/國會政黨聯盟"
       }
     ]
   },
@@ -799,8 +799,8 @@
       },
       {
         "party": "國會政黨聯盟",
-        "name": "徐欣瑩",
-        "wiki": "https://zh.wikipedia.org/wiki/徐欣瑩"
+        "name": "余筱菁",
+        "wiki": "https://zh.wikipedia.org/wiki/國會政黨聯盟"
       }
     ]
   },
@@ -809,13 +809,13 @@
     "candidates": [
       {
         "party": "民進黨",
-        "name": "鄭朝方",
-        "wiki": "https://zh.wikipedia.org/wiki/鄭朝方"
+        "name": "周江杰",
+        "wiki": "https://zh.wikipedia.org/wiki/周江杰"
       },
       {
         "party": "國會政黨聯盟",
         "name": "邱靖雅",
-        "wiki": "https://zh.wikipedia.org/wiki/邱靖雅"
+        "wiki": "https://zh.wikipedia.org/wiki/國會政黨聯盟"
       }
     ]
   },
@@ -835,7 +835,7 @@
       {
         "party": "時代力量",
         "name": "高鈺婷",
-        "wiki": "https://zh.wikipedia.org/wiki/高鈺婷"
+        "wiki": "https://zh.wikipedia.org/wiki/時代力量"
       }
     ]
   },
@@ -858,9 +858,9 @@
         "wiki": "https://zh.wikipedia.org/wiki/徐志榮"
       },
       {
-        "party": "民進黨",
-        "name": "陳光軒",
-        "wiki": "https://zh.wikipedia.org/wiki/陳光軒"
+        "party": "無黨籍",
+        "name": "温俊勇",
+        "wiki": "https://zh.wikipedia.org/w/index.php?title=張國樑_（页面不存在）"
       }
     ]
   },
@@ -884,18 +884,8 @@
       },
       {
         "party": "無黨籍",
-        "name": "陳杰",
-        "wiki": "https://zh.wikipedia.org/wiki/陳杰"
-      },
-      {
-        "party": "無黨籍",
-        "name": "黃玉芬",
-        "wiki": "https://zh.wikipedia.org/wiki/黃玉芬"
-      },
-      {
-        "party": "無黨籍",
         "name": "陳志傑",
-        "wiki": "https://zh.wikipedia.org/wiki/陈志杰"
+        "wiki": "https://zh.wikipedia.org/wiki/陳杰_（页面不存在）"
       }
     ]
   },
@@ -946,6 +936,11 @@
         "party": "國民黨",
         "name": "許淑華",
         "wiki": "https://zh.wikipedia.org/wiki/許淑華_"
+      },
+      {
+        "party": "無黨籍",
+        "name": "陳癸佑",
+        "wiki": "https://zh.wikipedia.org/wiki/陳癸佑"
       }
     ]
   },
@@ -960,7 +955,7 @@
       {
         "party": "無黨籍",
         "name": "陳俊龍",
-        "wiki": "https://zh.wikipedia.org/wiki/陳俊龍"
+        "wiki": "https://zh.wikipedia.org/w/index.php?title=陳俊龍_（页面不存在）"
       }
     ]
   },
@@ -982,6 +977,11 @@
   {
     "constituency": "嘉義市選舉區",
     "candidates": [
+      {
+        "party": "台灣團結聯盟",
+        "name": "蔡永泉",
+        "wiki": "https://zh.wikipedia.org/wiki/台灣團結聯盟"
+      },
       {
         "party": "無黨籍",
         "name": "蕭淑麗",
@@ -1079,8 +1079,8 @@
       },
       {
         "party": "無黨籍",
-        "name": "傅崑萁",
-        "wiki": "https://zh.wikipedia.org/wiki/傅崑萁"
+        "name": "傅崐萁",
+        "wiki": "https://zh.wikipedia.org/wiki/傅崐萁"
       }
     ]
   },
@@ -1090,7 +1090,7 @@
       {
         "party": "國民黨",
         "name": "張志明",
-        "wiki": "https://zh.wikipedia.org/wiki/张志明"
+        "wiki": "https://zh.wikipedia.org/w/index.php?title=張志明_（页面不存在）"
       },
       {
         "party": "民進黨",
@@ -1110,7 +1110,7 @@
       {
         "party": "無黨團結聯盟",
         "name": "林炳坤",
-        "wiki": "https://zh.wikipedia.org/wiki/林炳坤"
+        "wiki": "https://zh.wikipedia.org/wiki/無黨團結聯盟"
       }
     ]
   },
@@ -1119,13 +1119,13 @@
     "candidates": [
       {
         "party": "國民黨",
-        "name": "洪麗萍",
-        "wiki": "https://zh.wikipedia.org/wiki/洪麗萍"
+        "name": "陳玉珍",
+        "wiki": "https://zh.wikipedia.org/wiki/陳玉珍_"
       },
       {
-        "party": "無黨籍",
-        "name": "陳玉珍",
-        "wiki": "https://zh.wikipedia.org/wiki/陳玉珍"
+        "party": "新黨",
+        "name": "吳成典",
+        "wiki": "https://zh.wikipedia.org/wiki/新黨"
       },
       {
         "party": "無黨籍",
@@ -1153,16 +1153,19 @@
         "wiki": "https://zh.wikipedia.org/wiki/鄭天財"
       },
       {
-        "party": "國民黨",
-        "name": "廖國棟",
-        "wiki": "https://zh.wikipedia.org/wiki/廖國棟"
-      },
-      {
         "party": "民進黨",
         "name": "陳瑩",
         "wiki": "https://zh.wikipedia.org/wiki/陳瑩_"
       }
     ]
+  },
+  {
+    "constituency": null,
+    "candidates": []
+  },
+  {
+    "constituency": "黃仁",
+    "candidates": []
   },
   {
     "constituency": "山地原住民選舉區",
@@ -1175,8 +1178,16 @@
       {
         "party": "無黨團結聯盟",
         "name": "高金素梅",
-        "wiki": "https://zh.wikipedia.org/wiki/高金素梅"
+        "wiki": "https://zh.wikipedia.org/wiki/無黨團結聯盟"
       }
     ]
+  },
+  {
+    "constituency": "章正輝",
+    "candidates": []
+  },
+  {
+    "constituency": null,
+    "candidates": []
   }
 ]
