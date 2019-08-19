@@ -1,0 +1,97 @@
+[
+  {
+    "name": "中國國民黨",
+    "chairman": ["吳敦義"],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Emblem_of_the_Kuomintang.svg/1200px-Emblem_of_the_Kuomintang.svg.png",
+    "voteNum": 3280949,
+    "voteRate": "32.1944%",
+    "electedPersonNum": 11,
+    "electedPerson": [
+      "王金平",
+      "柯志恩",
+      "陳宜民",
+      "林麗蟬",
+      "許毓仁",
+      "曾銘宗",
+      "黃昭順",
+      "吳志揚",
+      "張麗善",
+      "徐榛蔚",
+      "曾永權",
+      "王育敏"
+    ]
+  },
+  {
+    "name": "民主進步黨",
+    "chairman": ["卓榮泰"],
+    "logo": "https://upload.wikimedia.org/wikipedia/zh/c/c1/Emblem_of_Democratic_Progressive_Party_%28new%29.svg",
+    "voteNum": 5370953,
+    "voteRate": "44.0598%",
+    "electedPersonNum": 18,
+    "electedPerson": [
+      "吳焜裕",
+      "吳玉琴",
+      "陳曼麗",
+      "顧立雄",
+      "蔡培慧",
+      "王榮璋",
+      "谷辣斯·尤達卡（Kolas Yotaka）",
+      "余宛如",
+      "蘇嘉全",
+      "段宜康",
+      "鄭麗君",
+      "陳其邁",
+      "尤美女",
+      "李應元",
+      "鍾孔炤",
+      "林靜儀",
+      "徐國勇",
+      "周春米"
+    ]
+  },
+  {
+    "name": "親民黨",
+    "chairman": ["宋楚瑜"],
+    "logo": "https://upload.wikimedia.org/wikipedia/zh/thumb/f/f7/Emblem_of_People_First_Party.svg/2880px-Emblem_of_People_First_Party.svg.png",
+    "voteNum": 794838,
+    "voteRate": "6.5203%",
+    "electedPersonNum": 3,
+    "electedPerson": ["李鴻鈞", "陳怡潔", "周陳秀霞"]
+  },
+  {
+    "name": "時代力量",
+    "chairman": [],
+    "logo": "https://upload.wikimedia.org/wikipedia/zh/thumb/c/cc/New_Power_Party_logo.svg/2880px-New_Power_Party_logo.svg.png",
+    "voteNum": 744315,
+    "voteRate": "6.1059%",
+    "electedPersonNum": 2,
+    "electedPerson": ["高潞·以用·巴魕剌（Kawlo Iyun Pacidal）", "徐永明"]
+  },
+  {
+    "name": "新黨",
+    "chairman": ["郁慕明"],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Np_logo.png",
+    "voteNum": 510074,
+    "voteRate": "4.1843%",
+    "electedPersonNum": 0,
+    "electedPerson": []
+  },
+  {
+    "name": "綠黨社會民主黨聯盟",
+    "chairman": ["梁益誌", "范雲"],
+    "logo": "https://upload.wikimedia.org/wikipedia/zh/9/97/GreenSDParty_logo.jpg",
+    "voteNum": 510074,
+    "voteRate": "4.1843%",
+    "electedPersonNum": 0,
+    "electedPerson": []
+  },
+  {
+    "name": "台灣團結聯盟",
+    "chairman": ["劉一德"],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sunrise_Island.svg/400px-Sunrise_Island.svg.png",
+    "voteNum": 305675,
+    "voteRate": "2.5076%",
+    "electedPersonNum": 0,
+    "electedPerson": []
+  }
+]
