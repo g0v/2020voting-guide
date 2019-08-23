@@ -17,6 +17,7 @@ requests = "*"
 scrapy = "*"
 peewee = "*"
 pymysql = "*"
+sparqlwrapper = "*"
 
 [requires]
 python_version = "3.7"

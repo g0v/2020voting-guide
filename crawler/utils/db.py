@@ -20,10 +20,12 @@ class Candidate(BaseModel):
     constituency = CharField()
     wiki = CharField()
     picUrl = CharField(null=True)
+    wikidataPicUrl = CharField(null=True)
     currentLegislator = BooleanField(default=False)
     historyLegislator = BooleanField(default=False)
     lastTerm = CharField(null=True)
     dateOfBirth = CharField(null=True)
+    wikidataDateOfBirth = CharField(null=True)
     age = SmallIntegerField(null=True)
 
 
