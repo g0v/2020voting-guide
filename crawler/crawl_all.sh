@@ -12,5 +12,5 @@ pipenv run python3 candidate_age
 pipenv run python3 legislator
 pipenv run python3 sitting
 pipenv run python3 bulletin
-pipenv run python3 wikidata
+pipenv run python3 candidate_wikidata
 pipenv run python3 caculation
