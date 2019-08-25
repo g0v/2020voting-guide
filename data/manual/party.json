@@ -60,12 +60,12 @@
   },
   {
     "name": "時代力量",
-    "chairman": [],
+    "chairman": ["徐永明"],
     "logo": "https://upload.wikimedia.org/wikipedia/zh/thumb/c/cc/New_Power_Party_logo.svg/2880px-New_Power_Party_logo.svg.png",
     "voteNum": 744315,
     "voteRate": "6.1059%",
     "electedPersonNum": 2,
-    "electedPerson": ["高潞·以用·巴魕剌（Kawlo Iyun Pacidal）", "徐永明"]
+    "electedPerson": ["高潞·以用·巴魕剌", "徐永明"]
   },
   {
     "name": "新黨",
