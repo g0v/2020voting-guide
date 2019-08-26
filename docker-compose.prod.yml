@@ -1,0 +1,11 @@
+version: "3"
+services:
+  service:
+    build: .
+    ports:
+      - 9000:9000
+    environment:
+      MYSQL_HOST: 35.241.81.102
+      MYSQL_USER: vote2020
+      MYSQL_PASSWORD: vote2020
+      MYSQL_DB: vote2020

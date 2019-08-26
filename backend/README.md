@@ -2,7 +2,7 @@
 
 ## Setup
 
-1. Put *2020voting-guide* folder under `${GOPATH}/github.com/g0v`
+1. Put _2020voting-guide_ folder under `${GOPATH}/github.com/g0v`
 2. `./bin/setup.sh`
 
 ## Run
@@ -16,3 +16,11 @@
 ## How to run docker container
 
 `docker-compose up`
+
+## Swagger
+
+[Index Page](http://localhost:9000/api/swagger/index.html)
+
+### Generate Doc
+
+`./bin/generate-swagger-docs.sh`

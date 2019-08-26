@@ -4,19 +4,27 @@ import (
 	_ "github.com/g0v/2020voting-guide/backend/docs"
 	"github.com/g0v/2020voting-guide/backend/internal/handler"
 
+	"github.com/gin-contrib/static"
 	"github.com/gin-gonic/gin"
 	ginSwagger "github.com/swaggo/gin-swagger"
 	"github.com/swaggo/gin-swagger/swaggerFiles"
 )
 
 func SetupRouter() *gin.Engine {
-	r := gin.Default()
+	router := gin.Default()
 
-	r.GET("/swagger/*any", ginSwagger.WrapHandler(swaggerFiles.Handler))
-	r.GET("/version", handler.VersionHandler)
-	r.GET("/candidates/constituency/:constituency", handler.ListCandidatesByConstituencyHandler)
-	r.GET("/candidate/:name", handler.GetCandidateByNameHandler)
-	r.GET("/candidate/:name/record", handler.GetCandidateRecordByIdHandler)
+	// Using frontend as static and default file
+	router.Use(static.Serve("/", static.LocalFile("/root/client", true)))
+	router.NoRoute(func(c *gin.Context) {
+		c.File("/root/client/index.html")
+	})
 
-	return r
+	api := router.Group("/api")
+	api.GET("/swagger/*any", ginSwagger.WrapHandler(swaggerFiles.Handler))
+	api.GET("/version", handler.VersionHandler)
+	api.GET("/candidates/constituency/:constituency", handler.ListCandidatesByConstituencyHandler)
+	api.GET("/candidate/:name", handler.GetCandidateByNameHandler)
+	api.GET("/candidate/:name/record", handler.GetCandidateRecordByIdHandler)
+
+	return router
 }

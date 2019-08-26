@@ -25,6 +25,12 @@ func Setup() {
 	MySQL, err = gorm.Open("mysql", c)
 
 	if err != nil {
+		m := fmt.Sprintf("%s@tcp(%s:3306)/%s",
+			config.MySQL.User,
+			config.MySQL.Host,
+			config.MySQL.DB,
+		)
+		log.Print(m)
 		log.Fatalf("Connect DB error: %v", err)
 	}
 }
