@@ -9,10 +9,10 @@ services:
     volumes:
       - ~/go:/go
     environment:
-      MYSQL_HOST: 35.241.81.102
-      MYSQL_USER: vote2020
-      MYSQL_PASSWORD: vote2020
-      MYSQL_DB: vote2020
+      MYSQL_HOST:
+      MYSQL_USER:
+      MYSQL_PASSWORD:
+      MYSQL_DB:
   mobile:
     build:
       context: ./mobile
