@@ -36,7 +36,7 @@ const CountyCandidates: React.FunctionComponent<Route> = ({ match }) => {
                         <CandidateCard
                             id={candidate.id}
                             name={candidate.name}
-                            photo={candidate.photo}
+                            picUrl={candidate.picUrl}
                             party={candidate.party}
                             experience={candidate.experience}
                             county={county}

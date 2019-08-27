@@ -25,7 +25,7 @@ interface Party {
 export interface CandidateProps {
     id: string;
     name: string;
-    photo: string;
+    picUrl: string;
     party: Party;
     experience: string;
     county: string;
@@ -36,11 +36,11 @@ export const CandidateCard: React.FunctionComponent<CandidateProps> = ({
     name,
     party,
     county,
+    picUrl,
     constituency,
     experience
 }) => {
     const classes = useStyles();
-
     return (
         <Link href={`/candidate?county=${county}&constituency=${constituency}`}>
             <Card>
@@ -50,7 +50,7 @@ export const CandidateCard: React.FunctionComponent<CandidateProps> = ({
                             <Grid item>
                                 <img
                                     className={classes.photo}
-                                    src="https://upload.wikimedia.org/wikipedia/commons/0/01/Wan-An_Jiang_Portrait_20150613.jpg"
+                                    src={picUrl || '/grey.jpg'}
                                     alt="candidate"
                                 />
                             </Grid>
