@@ -10,7 +10,7 @@ import (
 // @Summary 2020 Voting Guide Service Version
 // @Success 200 {string} string "X.X.X"
 // @Failure 500 "fail"
-// @Router /version [get]
+// @Router /api/version [get]
 func VersionHandler(c *gin.Context) {
 	c.String(http.StatusOK, "0.0.1")
 }
@@ -21,7 +21,7 @@ func VersionHandler(c *gin.Context) {
 // @Product string
 // @Param name path string ture "Name"
 // @Success 200 {string} string "record"
-// @Router /candidate/{name}/record [get]
+// @Router /api/candidate/{name}/record [get]
 func GetCandidateRecordByIdHandler(c *gin.Context) {
 
 	name := c.Param("name")

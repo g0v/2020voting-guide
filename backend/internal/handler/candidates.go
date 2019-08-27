@@ -15,7 +15,7 @@ import (
 // @Produce json
 // @Param constituency path string true "Constituency"
 // @Success 200 {object} models.CandidateCards
-// @Router /candidates/constituency/{constituency} [get]
+// @Router /api/candidates/constituency/{constituency} [get]
 func ListCandidatesByConstituencyHandler(c *gin.Context) {
 
 	constituency := c.Param("constituency")
@@ -31,7 +31,7 @@ func ListCandidatesByConstituencyHandler(c *gin.Context) {
 // @Produce json
 // @Param name path string true "Name"
 // @Success 200 {object} models.Candidate
-// @Router /candidate/{name} [get]
+// @Router /api/candidate/{name} [get]
 func GetCandidateByNameHandler(c *gin.Context) {
 	name := c.Param("name")
 

@@ -17,7 +17,7 @@ const CountyCandidates: React.FunctionComponent<Route> = ({ match }) => {
     const { county, constituency } = match.params;
     const [candidates, setCandidates] = useState<CandidateProps[]>([]);
     useEffect(() => {
-        fetch(`/candidates/constituency/${constituency}`)
+        fetch(`/api/candidates/constituency/${constituency}`)
             .then(res => res.json())
             .then(setCandidates);
     }, [constituency]);
