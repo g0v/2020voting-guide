@@ -23,7 +23,7 @@ const useStyles = makeStyles({
 const VideoCard = ({ title, subtitle, src, children }: VideoCard) => (
     <Box my={4}>
         <Box mx={1}>
-            <Typography variant="h6">{title}</Typography>
+            <Typography variant="h2">{title}</Typography>
             <Typography variant="subtitle2">{subtitle}</Typography>
         </Box>
         <iframe title={title} src={src} frameBorder="0" width="100%"></iframe>
@@ -39,17 +39,25 @@ const Home = () => {
     return (
         <div>
             <Box m={1} height="100vh">
-                <Box my={4}>
-                    <Typography variant="h4" align="center">
-                        2020 投票指南
+                <Box my={6}>
+                    <Typography variant="h1" align="center">
+                        2020<br />
+                        投票指南
                     </Typography>
                 </Box>
-                <Typography variant="body2" align="center">
-                    減少盲目支持，從更多的理解和認識，選擇你真正認同的候選人。
-                    整合政府開放資料，提供民眾對照，快速比較出你支持的政黨、候選人。
+                <Typography variant="h3" align="center">
+                    不再看臉投票<br />
+                    檢視實際作為<br />
+                    投下真正幫助社會的一票 
                 </Typography>
+                <Box mt={5}>
+                    <Typography variant="h5" align="center">
+                        整合政府開放資料，比較政黨、候選人表現
+                    </Typography>
+                </Box>
                 <Box
-                    my={6}
+                    mt={2}
+                    mb={6}
                     mx={2}
                     display="flex"
                     justifyContent="space-between"
@@ -62,10 +70,10 @@ const Home = () => {
                         className={classes.mainButton}
                     >
                         <Box textAlign="center">
+                            <img src="/img/nobody.svg" />
                             <Typography variant="h6">
                                 <b>比較候選人</b>
                             </Typography>
-
                             <Typography variant="button">區域立委</Typography>
                         </Box>
                     </Button>
@@ -77,6 +85,7 @@ const Home = () => {
                         className={classes.mainButton}
                     >
                         <Box textAlign="center">
+                            <img src="/img/party.svg" />
                             <Typography variant="h6">
                                 <b>比較參選政黨</b>
                             </Typography>
@@ -84,16 +93,18 @@ const Home = () => {
                         </Box>
                     </Button>
                 </Box>
-                <Box mt={15} textAlign="center">
-                    <Link href="/#legislator_intro" color="inherit">
-                        <Typography variant="h6">
-                            立委介紹、政黨票說明
-                        </Typography>
-                        <KeyboardArrowDown fontSize="large" />
-                    </Link>
+                <Box m={1}>
+                    <Typography variant="h4">
+                        本站資料來源：
+                    </Typography>
+                    <img src="/img/logo/central_election_commision.png" />
+                    <img src="/img/logo/citizen_congress_watch.png" />
+                    <img src="/img/logo/control_yuan.png" />
+                    <img src="/img/logo/logo_legislation.png" />
+                    <img src="/img/logo/wikipedia.png" />
                 </Box>
             </Box>
-            <Box id="legislator_intro" height="60px"></Box>
+            {/* <Box id="legislator_intro" height="60px"></Box> */}
             <VideoCard
                 title="立委工作說明"
                 subtitle="The News Lens 關鍵評論網 - 立委的一天在幹嘛?"

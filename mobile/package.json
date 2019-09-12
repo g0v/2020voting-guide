@@ -3,25 +3,25 @@
     "version": "0.1.0",
     "private": true,
     "dependencies": {
-        "@material-ui/core": "^4.2.1",
+        "@material-ui/core": "^4.4.0",
         "@material-ui/icons": "^4.2.1",
-        "@types/jest": "24.0.15",
-        "@types/node": "12.0.10",
-        "@types/react": "16.8.22",
-        "@types/react-dom": "16.8.4",
+        "@types/jest": "24.0.18",
+        "@types/node": "12.7.4",
+        "@types/react": "16.9.2",
+        "@types/react-dom": "16.9.0",
         "@types/react-responsive": "^3.0.3",
-        "@types/react-router-dom": "^4.3.4",
-        "@types/recharts": "^1.1.19",
-        "n": "^5.0.2",
-        "query-string": "^6.8.1",
-        "react": "^16.8.6",
-        "react-dom": "^16.8.6",
-        "react-responsive": "^7.0.0",
+        "@types/react-router-dom": "^4.3.5",
+        "@types/recharts": "^1.1.21",
+        "n": "^6.0.1",
+        "query-string": "^6.8.3",
+        "react": "^16.9.0",
+        "react-dom": "^16.9.0",
+        "react-responsive": "^8.0.0",
         "react-router": "^5.0.1",
         "react-router-dom": "^5.0.1",
-        "react-scripts": "3.0.1",
-        "recharts": "^1.6.2",
-        "typescript": "3.5.2"
+        "react-scripts": "3.1.1",
+        "recharts": "^1.7.1",
+        "typescript": "3.6.2"
     },
     "scripts": {
         "start": "react-scripts start",
@@ -45,9 +45,10 @@
         ]
     },
     "devDependencies": {
-        "eslint-config-prettier": "^6.0.0",
+        "eslint": "^6.3.0",
+        "eslint-config-prettier": "^6.2.0",
         "eslint-plugin-prettier": "^3.1.0",
-        "eslint-plugin-react": "^7.14.2",
+        "eslint-plugin-react": "^7.14.3",
         "prettier": "^1.18.2"
     },
     "proxy": "http://localhost:9000"

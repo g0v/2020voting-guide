@@ -36,11 +36,16 @@ const theme = createMuiTheme({
             'Helvetica Neue',
             'sans-serif'
         ].join(','),
+        h1: {
+            fontWeight: 500,
+            fontSize: 48
+        },
         h2: {
-            fontSize: 24,
-            fontWeight: 'bold'
+            fontWeight: 500,
+            fontSize: 24
         },
         h3: {
+            fontWeight: 500,
             fontSize: 20
         },
         h4: {
