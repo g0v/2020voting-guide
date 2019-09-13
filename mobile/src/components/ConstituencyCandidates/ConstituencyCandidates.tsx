@@ -1,8 +1,10 @@
 import Box from '@material-ui/core/Box';
 import Button from '@material-ui/core/Button';
 import Typography from '@material-ui/core/Typography';
+import List from '@material-ui/core/List';
 import React, { useEffect, useState } from 'react';
 import { CandidateCard, CandidateProps } from './CandidateCard';
+import Navigation from '../Navigation';
 
 interface Route {
     match: {
@@ -23,28 +25,20 @@ const CountyCandidates: React.FunctionComponent<Route> = ({ match }) => {
     }, [constituency]);
     return (
         <>
-            <Button href={`/regional/${county}`} size="small">
-                <Typography variant="button">＜ 其他選區</Typography>
-            </Button>
-            <Box mx={2}>
-                <Box mb={1} mx={1}>
-                    <Typography variant="h6">{county}</Typography>
-                    <Typography variant="subtitle2">{constituency}</Typography>
-                </Box>
+            <Navigation title="區域立委候選人" description={constituency} />
+            <List>
                 {candidates.map(candidate => (
-                    <Box my={1}>
-                        <CandidateCard
-                            id={candidate.id}
-                            name={candidate.name}
-                            picUrl={candidate.picUrl}
-                            party={candidate.party}
-                            experience={candidate.experience}
-                            county={county}
-                            constituency={constituency}
-                        />
-                    </Box>
+                    <CandidateCard
+                        id={candidate.id}
+                        name={candidate.name}
+                        picUrl={candidate.picUrl}
+                        party={candidate.party}
+                        experience={candidate.experience}
+                        county={county}
+                        constituency={constituency}
+                    />
                 ))}
-            </Box>
+            </List>
         </>
     );
 };

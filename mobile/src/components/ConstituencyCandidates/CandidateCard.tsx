@@ -3,6 +3,10 @@ import { makeStyles } from '@material-ui/styles';
 import Card from '@material-ui/core/Card';
 import CardActionArea from '@material-ui/core/CardActionArea';
 import Link from '@material-ui/core/Link';
+import ListItem from '@material-ui/core/ListItem';
+import Avatar from '@material-ui/core/Avatar';
+import ListItemText from '@material-ui/core/ListItemText';
+import Divider from '@material-ui/core/Divider';
 import Typography from '@material-ui/core/Typography';
 import Box from '@material-ui/core/Box';
 
@@ -11,8 +15,7 @@ import Grid from '@material-ui/core/Grid';
 const useStyles = makeStyles({
     photo: {
         width: 76,
-        height: 76,
-        borderRadius: '50%'
+        height: 76
     }
 });
 
@@ -42,17 +45,26 @@ export const CandidateCard: React.FunctionComponent<CandidateProps> = ({
 }) => {
     const classes = useStyles();
     return (
-        <Link href={`/candidate?county=${county}&constituency=${constituency}`}>
-            <Card>
-                <CardActionArea>
-                    <Box m={1.5}>
+        <>
+            <ListItem
+                button
+                component="a"
+                href={`/candidate?county=${county}&constituency=${constituency}`}
+            >
+                <ListItemText
+                    primary={
                         <Grid container>
                             <Grid item>
-                                <img
-                                    className={classes.photo}
-                                    src={picUrl || '/grey.jpg'}
-                                    alt="candidate"
-                                />
+                                {picUrl ? (
+                                    <Avatar
+                                        src={picUrl}
+                                        className={classes.photo}
+                                    />
+                                ) : (
+                                    <Avatar className={classes.photo}>
+                                        {name.charAt(0)}
+                                    </Avatar>
+                                )}
                             </Grid>
                             <Grid item>
                                 <Box m={1}>
@@ -76,9 +88,10 @@ export const CandidateCard: React.FunctionComponent<CandidateProps> = ({
                                 </Box>
                             </Grid>
                         </Grid>
-                    </Box>
-                </CardActionArea>
-            </Card>
-        </Link>
+                    }
+                ></ListItemText>
+            </ListItem>
+            <Divider />
+        </>
     );
 };
