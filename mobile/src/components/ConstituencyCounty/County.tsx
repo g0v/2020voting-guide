@@ -1,25 +1,33 @@
 import Box from '@material-ui/core/Box';
 import Button from '@material-ui/core/Button';
 import Divider from '@material-ui/core/Divider';
+import List from '@material-ui/core/List';
+import ListItem from '@material-ui/core/ListItem';
+import ListItemText from '@material-ui/core/ListItemText';
 import Typography from '@material-ui/core/Typography';
 import React from 'react';
 import countyConstituency from './county_constituency.json';
+import Navigation from '../Navigation';
 
 const counties = countyConstituency.map(county => county.name);
 const Constituency = () => {
     return (
         <>
-            <Box my={2} mx={1}>
-                <Typography variant="h6">選擇選區</Typography>
-            </Box>
-            {counties.map(county => (
-                <div key={county}>
-                    <Button href={`/regional/${county}`} size="large" fullWidth>
-                        <Typography variant="button">{county}</Typography>
-                    </Button>
-                    <Divider />
-                </div>
-            ))}
+            <Navigation title="區域立委候選人" description="選擇縣市" />
+            <List>
+                {counties.map(county => (
+                    <>
+                        <ListItem
+                            button
+                            component="a"
+                            href={`/regional/${county}`}
+                        >
+                            <ListItemText primary={county}></ListItemText>
+                        </ListItem>
+                        <Divider />
+                    </>
+                ))}
+            </List>
         </>
     );
 };

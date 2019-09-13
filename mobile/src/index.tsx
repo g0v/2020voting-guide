@@ -12,8 +12,13 @@ import { grey } from '@material-ui/core/colors';
 const theme = createMuiTheme({
     palette: {
         primary: {
-            main: '#24D0BC',
-            contrastText: grey[50]
+            main: '#3199BA'
+        },
+        secondary: {
+            main: '#F9F9F9'
+        },
+        background: {
+            default: '#F9F9F9'
         }
     },
     typography: {
@@ -31,8 +36,17 @@ const theme = createMuiTheme({
             'Helvetica Neue',
             'sans-serif'
         ].join(','),
-        body2: {
-            color: grey[900],
+        h2: {
+            fontSize: 24,
+            fontWeight: 'bold'
+        },
+        h3: {
+            fontSize: 20
+        },
+        h4: {
+            fontSize: 18
+        },
+        h5: {
             fontSize: 14
         }
     }

@@ -7,7 +7,7 @@ import ConstituencyCandidates from './components/ConstituencyCandidates/Constitu
 import ConstituencyPage from './components/ConstituencyDistrict/ConstituencyPage';
 import County from './components/ConstituencyCounty/County';
 import Home from './components/Home';
-import Nav from './components/Nav';
+import Nav from './components/Header';
 
 interface State {
     visible: boolean;
@@ -29,7 +29,7 @@ const App = () => {
             <Nav open={open} handleDrawerOpen={handleDrawerOpen} />
             <AppDrawer handleDrawerClose={handleDrawerClose} open={open} />
 
-            <Box my={2}>
+            <Box>
                 <Switch>
                     <Route exact path="/" component={Home} />
                     <Route path="/county" component={County} />
