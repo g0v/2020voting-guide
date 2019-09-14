@@ -1,7 +1,5 @@
 import React from 'react';
 import { makeStyles } from '@material-ui/styles';
-import Card from '@material-ui/core/Card';
-import CardActionArea from '@material-ui/core/CardActionArea';
 import Link from '@material-ui/core/Link';
 import ListItem from '@material-ui/core/ListItem';
 import Avatar from '@material-ui/core/Avatar';
@@ -15,7 +13,8 @@ import Grid from '@material-ui/core/Grid';
 const useStyles = makeStyles({
     photo: {
         width: 76,
-        height: 76
+        height: 76,
+        fontSize: 40
     }
 });
 

@@ -44,26 +44,6 @@ const BasicInfoTab = () => {
     return (
         <>
             <div className={classes.overview}>
-                <img
-                    className={classes.photo}
-                    src="https://upload.wikimedia.org/wikipedia/commons/7/7e/%E6%BD%98%E5%BB%BA%E5%BF%97_%286%29.JPG"
-                    alt="潘建制"
-                />
-                <div className={classes.overviewText}>
-                    <span>潘建志</span>
-                    <br />
-                    <span>彰化縣出生 52歲</span>
-                    <br />
-                    <span>無刑事紀錄</span>
-                </div>
-                <hr />
-                <div>
-                    <div>經歷</div>
-                    {experiences.map(exp => (
-                        <div>{exp}</div>
-                    ))}
-                </div>
-                <hr />
                 <div>
                     <div>經歷</div>
                     {experiences.map(exp => (

@@ -5,7 +5,7 @@ import BasicInfoTab from './BasicInfoTab';
 import PassPerformance from './PassPerformanceTab';
 import Position from './PositionTab';
 import queryString from 'query-string';
-import { Link } from 'react-router-dom';
+import Nav from './Nav';
 
 interface Candidate {
     match: {
@@ -20,7 +20,10 @@ interface Candidate {
 
 const Candidate: React.FunctionComponent<Candidate> = ({ match, location }) => {
     const [value, setValue] = React.useState(0);
-    const { county, constituency } = queryString.parse(location.search);
+    const { county, constituency } = queryString.parse(location.search) as {
+        county: string;
+        constituency: string;
+    };
 
     const handleChange = (event: React.ChangeEvent<{}>, newValue: number) => {
         console.log(newValue);
@@ -29,13 +32,12 @@ const Candidate: React.FunctionComponent<Candidate> = ({ match, location }) => {
 
     return (
         <>
-            <Link to={`/regional/${county}/${constituency}`}>
-                ＜ 其他候選人
-            </Link>
+            <Nav name="潘建志" county={county} constituency={constituency} />
             <Tabs
                 value={value}
                 indicatorColor="primary"
                 textColor="primary"
+                variant="fullWidth"
                 onChange={handleChange}
             >
                 <Tab label="基本資料" />
