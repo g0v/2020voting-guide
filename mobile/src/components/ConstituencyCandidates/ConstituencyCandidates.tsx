@@ -1,10 +1,7 @@
-import Box from '@material-ui/core/Box';
-import Button from '@material-ui/core/Button';
-import Typography from '@material-ui/core/Typography';
 import List from '@material-ui/core/List';
 import React, { useEffect, useState } from 'react';
-import { CandidateCard, CandidateProps } from './CandidateCard';
 import Navigation from '../Navigation';
+import { CandidateCard, CandidateProps } from './CandidateCard';
 
 interface Route {
     match: {

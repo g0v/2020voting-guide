@@ -1,14 +1,14 @@
-import React from 'react';
+import {
+    Avatar,
+    Box,
+    Divider,
+    Grid,
+    ListItem,
+    ListItemText,
+    Typography
+} from '@material-ui/core';
 import { makeStyles } from '@material-ui/styles';
-import Link from '@material-ui/core/Link';
-import ListItem from '@material-ui/core/ListItem';
-import Avatar from '@material-ui/core/Avatar';
-import ListItemText from '@material-ui/core/ListItemText';
-import Divider from '@material-ui/core/Divider';
-import Typography from '@material-ui/core/Typography';
-import Box from '@material-ui/core/Box';
-
-import Grid from '@material-ui/core/Grid';
+import React from 'react';
 
 const useStyles = makeStyles({
     photo: {

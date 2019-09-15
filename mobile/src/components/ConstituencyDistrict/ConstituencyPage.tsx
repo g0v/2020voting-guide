@@ -1,16 +1,13 @@
 import React from 'react';
+import {
+    Divider,
+    List,
+    ListItem,
+    ListItemText,
+    Typography
+} from '@material-ui/core';
 import constituencyArea from './constituenciesArea';
-import Typography from '@material-ui/core/Typography';
-import Box from '@material-ui/core/Box';
-import Button from '@material-ui/core/Button';
-import List from '@material-ui/core/List';
-import ListItem from '@material-ui/core/ListItem';
-import ListItemText from '@material-ui/core/ListItemText';
-import CardActionArea from '@material-ui/core/CardActionArea';
-import Link from '@material-ui/core/Link';
-import { makeStyles } from '@material-ui/core/styles';
 import Navigation from '../Navigation';
-import Divider from '@material-ui/core/Divider';
 
 interface County {
     match: {

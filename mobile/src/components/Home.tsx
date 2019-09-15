@@ -1,9 +1,5 @@
-import Box from '@material-ui/core/Box';
-import Button from '@material-ui/core/Button';
-import Link from '@material-ui/core/Link';
+import { Box, Button, Typography } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
-import Typography from '@material-ui/core/Typography';
-import KeyboardArrowDown from '@material-ui/icons/KeyboardArrowDown';
 import React, { ReactNode } from 'react';
 
 interface VideoCard {
@@ -41,14 +37,17 @@ const Home = () => {
             <Box m={1} height="100vh">
                 <Box my={6}>
                     <Typography variant="h1" align="center">
-                        2020<br />
+                        2020
+                        <br />
                         投票指南
                     </Typography>
                 </Box>
                 <Typography variant="h3" align="center">
-                    不再看臉投票<br />
-                    檢視實際作為<br />
-                    投下真正幫助社會的一票 
+                    不再看臉投票
+                    <br />
+                    檢視實際作為
+                    <br />
+                    投下真正幫助社會的一票
                 </Typography>
                 <Box mt={5}>
                     <Typography variant="h5" align="center">
@@ -70,7 +69,7 @@ const Home = () => {
                         className={classes.mainButton}
                     >
                         <Box textAlign="center">
-                            <img src="/img/nobody.svg" />
+                            <img alt="nobody" src="/img/nobody.svg" />
                             <Typography variant="h6">
                                 <b>比較候選人</b>
                             </Typography>
@@ -85,7 +84,7 @@ const Home = () => {
                         className={classes.mainButton}
                     >
                         <Box textAlign="center">
-                            <img src="/img/party.svg" />
+                            <img alt="party" src="/img/party.svg" />
                             <Typography variant="h6">
                                 <b>比較參選政黨</b>
                             </Typography>
@@ -94,14 +93,12 @@ const Home = () => {
                     </Button>
                 </Box>
                 <Box m={1}>
-                    <Typography variant="h4">
-                        本站資料來源：
-                    </Typography>
-                    <img src="/img/logo/central_election_commision.png" />
-                    <img src="/img/logo/citizen_congress_watch.png" />
-                    <img src="/img/logo/control_yuan.png" />
-                    <img src="/img/logo/logo_legislation.png" />
-                    <img src="/img/logo/wikipedia.png" />
+                    <Typography variant="h4">本站資料來源：</Typography>
+                    <img alt="中央選舉委員會" src="/img/logo/central_election_commision.png" />
+                    <img alt="公民監督國會聯盟" src="/img/logo/citizen_congress_watch.png" />
+                    <img alt="監察院" src="/img/logo/control_yuan.png" />
+                    <img alt="立法院" src="/img/logo/logo_legislation.png" />
+                    <img alt="維基百科" src="/img/logo/wikipedia.png" />
                 </Box>
             </Box>
             {/* <Box id="legislator_intro" height="60px"></Box> */}
