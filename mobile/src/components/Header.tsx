@@ -1,9 +1,12 @@
-import AppBar from '@material-ui/core/AppBar';
-import IconButton from '@material-ui/core/IconButton';
-import Link from '@material-ui/core/Link';
+import {
+    AppBar,
+    Box,
+    IconButton,
+    Link,
+    Toolbar,
+    Typography
+} from '@material-ui/core';
 import { createStyles, makeStyles, Theme } from '@material-ui/core/styles';
-import Toolbar from '@material-ui/core/Toolbar';
-import Typography from '@material-ui/core/Typography';
 import MenuIcon from '@material-ui/icons/Menu';
 import clsx from 'clsx';
 import React from 'react';
@@ -37,6 +40,18 @@ const useStyles = makeStyles((theme: Theme) =>
         drawer: {
             width: drawerWidth,
             flexShrink: 0
+        },
+        icon: {
+            textAlign: 'center',
+            position: 'absolute',
+            zIndex: 1,
+            top: 3,
+            left: 0,
+            right: 0,
+            margin: '0 auto'
+        },
+        menu: {
+            zIndex: 2
         }
     })
 );
@@ -53,11 +68,6 @@ const Nav = ({ open, handleDrawerOpen }: Nav) => {
         <>
             <AppBar>
                 <Toolbar>
-                    <Typography variant="h6" className={classes.title}>
-                        <Link href="/" color="inherit">
-                            投票指南
-                        </Link>
-                    </Typography>
                     <IconButton
                         color="inherit"
                         aria-label="open drawer"
@@ -65,8 +75,15 @@ const Nav = ({ open, handleDrawerOpen }: Nav) => {
                         onClick={handleDrawerOpen}
                         className={clsx(open && classes.hide)}
                     >
-                        <MenuIcon />
+                        <MenuIcon className={classes.menu} />
                     </IconButton>
+                    <Box className={classes.icon}>
+                        <Typography variant="h6" className={classes.title}>
+                            <Link href="/" color="inherit">
+                                <img alt="logo" src="/img/logo.svg" />
+                            </Link>
+                        </Typography>
+                    </Box>
                 </Toolbar>
             </AppBar>
             <Toolbar />

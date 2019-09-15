@@ -1,13 +1,14 @@
 import React from 'react';
 import {
-    BarChart,
     Bar,
-    XAxis,
-    YAxis,
+    BarChart,
     ReferenceLine,
+    ResponsiveContainer,
     Tooltip,
-    ResponsiveContainer
+    XAxis,
+    YAxis
 } from 'recharts';
+import Bulletin from '../Bulletin';
 
 const data = [
     {
@@ -30,9 +31,12 @@ const data = [
     }
 ];
 
+const bulletin = '無私搖 擔任 第九屆立法委員 2016-2020';
+
 const PositionTab = () => {
     return (
         <>
+            <Bulletin primary={bulletin} />
             <div>擔任立委表現</div>
             <hr />
             <div>總覽</div>

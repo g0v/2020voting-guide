@@ -11,7 +11,6 @@ import {
     useTheme
 } from '@material-ui/core/styles';
 import ChevronLeftIcon from '@material-ui/icons/ChevronLeft';
-import ChevronRightIcon from '@material-ui/icons/ChevronRight';
 import React from 'react';
 
 const drawerWidth = 240;
@@ -87,7 +86,7 @@ const AppDrawer = ({ open, handleDrawerClose }: AppDrawer) => {
             <Drawer
                 className={classes.drawer}
                 variant="persistent"
-                anchor="right"
+                anchor="left"
                 open={open}
                 classes={{
                     paper: classes.drawerPaper
@@ -95,11 +94,7 @@ const AppDrawer = ({ open, handleDrawerClose }: AppDrawer) => {
             >
                 <div className={classes.drawerHeader}>
                     <IconButton onClick={handleDrawerClose}>
-                        {theme.direction === 'rtl' ? (
-                            <ChevronLeftIcon />
-                        ) : (
-                            <ChevronRightIcon />
-                        )}
+                        <ChevronLeftIcon />
                     </IconButton>
                 </div>
                 <Divider />

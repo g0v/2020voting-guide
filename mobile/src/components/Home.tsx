@@ -94,8 +94,14 @@ const Home = () => {
                 </Box>
                 <Box m={1}>
                     <Typography variant="h4">本站資料來源：</Typography>
-                    <img alt="中央選舉委員會" src="/img/logo/central_election_commision.png" />
-                    <img alt="公民監督國會聯盟" src="/img/logo/citizen_congress_watch.png" />
+                    <img
+                        alt="中央選舉委員會"
+                        src="/img/logo/central_election_commision.png"
+                    />
+                    <img
+                        alt="公民監督國會聯盟"
+                        src="/img/logo/citizen_congress_watch.png"
+                    />
                     <img alt="監察院" src="/img/logo/control_yuan.png" />
                     <img alt="立法院" src="/img/logo/logo_legislation.png" />
                     <img alt="維基百科" src="/img/logo/wikipedia.png" />

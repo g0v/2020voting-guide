@@ -21,13 +21,7 @@ interface Position {
     link: string;
 }
 
-const PositionCard: React.FunctionComponent<Position> = ({
-    title,
-    category,
-    attitude,
-    content,
-    link
-}) => {
+const PositionCard = ({ title, category, attitude, content }: Position) => {
     return (
         <>
             <div>{title}</div>
@@ -42,13 +36,17 @@ const PositionCard: React.FunctionComponent<Position> = ({
 const PositionTab = () => {
     return (
         <>
-            <Bulletin />
+            <Bulletin
+                primary="對於民眾關注的熱門議題，候選人在立法院實際提案和連署的法案。"
+                secondary="這些議題怎麽產生的？"
+            />
             <div>擔任立委表現</div>
             <hr />
             <div>總覽</div>
             <div>
                 {data.map(position => (
                     <PositionCard
+                        key={position.title}
                         title={position.title}
                         category={position.category}
                         attitude={position.attitude}

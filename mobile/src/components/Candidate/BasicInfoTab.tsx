@@ -1,5 +1,5 @@
-import React from 'react';
 import { makeStyles } from '@material-ui/styles';
+import React from 'react';
 
 const experiences = [
     '台北馬偕醫院及萬芳醫院精神科主治醫師',
@@ -47,14 +47,14 @@ const BasicInfoTab = () => {
                 <div>
                     <div>經歷</div>
                     {experiences.map(exp => (
-                        <div>{exp}</div>
+                        <div key={exp}>{exp}</div>
                     ))}
                 </div>
                 <hr />
                 <div>
                     <div>政見</div>
                     {politics.map((politic, i) => (
-                        <div>
+                        <div key={politic}>
                             {i + 1}.{politic}
                         </div>
                     ))}
