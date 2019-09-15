@@ -1,4 +1,5 @@
 import React from 'react';
+import Bulletin from '../Bulletin';
 
 const data = [
     {
@@ -41,6 +42,7 @@ const PositionCard: React.FunctionComponent<Position> = ({
 const PositionTab = () => {
     return (
         <>
+            <Bulletin />
             <div>擔任立委表現</div>
             <hr />
             <div>總覽</div>

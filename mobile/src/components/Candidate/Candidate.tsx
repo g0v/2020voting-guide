@@ -40,16 +40,16 @@ const Candidate: React.FunctionComponent<Candidate> = ({ match, location }) => {
                 variant="fullWidth"
                 onChange={handleChange}
             >
-                <Tab label="基本資料" />
+                <Tab label="議題法案" />
                 <Tab label="過去表現" />
-                <Tab label="立場" />
+                <Tab label="經歷政見" />
             </Tabs>
             {value === 0 ? (
-                <BasicInfoTab />
+                <Position />
             ) : value === 1 ? (
                 <PassPerformance />
             ) : (
-                <Position />
+                <BasicInfoTab />
             )}
         </>
     );
