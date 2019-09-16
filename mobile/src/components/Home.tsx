@@ -85,7 +85,7 @@ const Home = () => {
                     >
                         <Box textAlign="center">
                             <img alt="party" src="/img/party.svg" />
-                            <Typography variant="h6">
+                            <Typography variant="h6" noWrap>
                                 <b>比較參選政黨</b>
                             </Typography>
                             <Typography variant="button">不分區立委</Typography>
@@ -96,15 +96,15 @@ const Home = () => {
                     <Typography variant="h4">本站資料來源：</Typography>
                     <img
                         alt="中央選舉委員會"
-                        src="/img/logo/central_election_commision.png"
+                        src="/img/source/central_election_commision.png"
                     />
                     <img
                         alt="公民監督國會聯盟"
-                        src="/img/logo/citizen_congress_watch.png"
+                        src="/img/source/citizen_congress_watch.png"
                     />
-                    <img alt="監察院" src="/img/logo/control_yuan.png" />
-                    <img alt="立法院" src="/img/logo/logo_legislation.png" />
-                    <img alt="維基百科" src="/img/logo/wikipedia.png" />
+                    <img alt="監察院" src="/img/source/control_yuan.png" />
+                    <img alt="立法院" src="/img/source/logo_legislation.png" />
+                    <img alt="維基百科" src="/img/source/wikipedia.png" />
                 </Box>
             </Box>
             {/* <Box id="legislator_intro" height="60px"></Box> */}
