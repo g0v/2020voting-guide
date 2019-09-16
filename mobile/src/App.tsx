@@ -4,10 +4,11 @@ import { Route, Switch } from 'react-router-dom';
 import AppDrawer from './components/AppDrawer';
 import Candidate from './components/Candidate/Candidate';
 import ConstituencyCandidates from './components/ConstituencyCandidates/ConstituencyCandidates';
-import ConstituencyPage from './components/ConstituencyDistrict/ConstituencyPage';
 import County from './components/ConstituencyCounty/County';
-import Home from './components/Home';
+import ConstituencyPage from './components/ConstituencyDistrict/ConstituencyPage';
 import Nav from './components/Header';
+import Home from './components/Home';
+import PartyCandidates from './components/PartyCandidates/PartyCandidates';
 
 interface State {
     visible: boolean;
@@ -33,6 +34,7 @@ const App = () => {
                 <Switch>
                     <Route exact path="/" component={Home} />
                     <Route path="/county" component={County} />
+                    <Route path="/party" component={PartyCandidates} />
                     <Route path="/candidate" component={Candidate} />
                     <Route
                         path="/regional/:county/:constituency"

@@ -1,8 +1,8 @@
 import { List, ListItem, ListItemText } from '@material-ui/core';
 import Divider from '@material-ui/core/Divider';
 import React from 'react';
+import countyConstituency from '../../data/county_constituency.json';
 import Navigation from '../Navigation';
-import countyConstituency from './county_constituency.json';
 const counties = countyConstituency.map(county => county.name);
 const Constituency = () => {
     return (

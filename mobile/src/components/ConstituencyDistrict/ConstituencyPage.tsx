@@ -1,4 +1,3 @@
-import React from 'react';
 import {
     Divider,
     List,
@@ -6,7 +5,8 @@ import {
     ListItemText,
     Typography
 } from '@material-ui/core';
-import constituencyArea from './constituenciesArea';
+import React from 'react';
+import constituencyArea from '../../data/constituencies_area.json';
 import Navigation from '../Navigation';
 
 interface County {
@@ -21,6 +21,9 @@ interface Constituency {
     name: string;
     county: string;
 }
+interface ConstituencyArea {
+    [key: string]: { [key: string]: string | string[] };
+}
 
 const ConstituencyCard: React.FunctionComponent<Constituency> = ({
     name,
@@ -33,7 +36,9 @@ const ConstituencyCard: React.FunctionComponent<Constituency> = ({
                     primary={<Typography variant="h3">{name}</Typography>}
                     secondary={
                         <Typography variant="h5">
-                            {Object.keys(constituencyArea[name]).join('、')}
+                            {Object.keys(
+                                (constituencyArea as ConstituencyArea)[name]
+                            ).join('、')}
                         </Typography>
                     }
                 ></ListItemText>

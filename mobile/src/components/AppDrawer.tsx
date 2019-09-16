@@ -4,12 +4,7 @@ import IconButton from '@material-ui/core/IconButton';
 import List from '@material-ui/core/List';
 import ListItem from '@material-ui/core/ListItem';
 import ListItemText from '@material-ui/core/ListItemText';
-import {
-    createStyles,
-    makeStyles,
-    Theme,
-    useTheme
-} from '@material-ui/core/styles';
+import { createStyles, makeStyles, Theme } from '@material-ui/core/styles';
 import ChevronLeftIcon from '@material-ui/icons/ChevronLeft';
 import React from 'react';
 
@@ -79,7 +74,6 @@ interface AppDrawer {
 
 const AppDrawer = ({ open, handleDrawerClose }: AppDrawer) => {
     const classes = useStyles();
-    const theme = useTheme();
 
     return (
         <>
