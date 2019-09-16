@@ -2,7 +2,7 @@
     {
         "name": "中國國民黨",
         "chairman": ["吳敦義"],
-        "logo": "/img/party/kmt.png",
+        "logo": "/img/party/kmt.svg",
         "voteNum": 3280949,
         "voteRate": "32.1944%",
         "electedPersonNum": 11,
@@ -24,7 +24,7 @@
     {
         "name": "民主進步黨",
         "chairman": ["卓榮泰"],
-        "logo": "https://upload.wikimedia.org/wikipedia/zh/c/c1/Emblem_of_Democratic_Progressive_Party_%28new%29.svg",
+        "logo": "/img/party/dpp.svg",
         "voteNum": 5370953,
         "voteRate": "44.0598%",
         "electedPersonNum": 18,
@@ -52,7 +52,7 @@
     {
         "name": "親民黨",
         "chairman": ["宋楚瑜"],
-        "logo": "/img/party/pfp.png",
+        "logo": "/img/party/pfp.svg",
         "voteNum": 794838,
         "voteRate": "6.5203%",
         "electedPersonNum": 3,
@@ -61,7 +61,7 @@
     {
         "name": "時代力量",
         "chairman": ["徐永明"],
-        "logo": "/img/party/npp.png",
+        "logo": "/img/party/npp.svg",
         "voteNum": 744315,
         "voteRate": "6.1059%",
         "electedPersonNum": 2,
@@ -70,7 +70,7 @@
     {
         "name": "新黨",
         "chairman": ["郁慕明"],
-        "logo": "/img/party/np.png",
+        "logo": "/img/party/np.svg",
         "voteNum": 510074,
         "voteRate": "4.1843%",
         "electedPersonNum": 0,
@@ -79,7 +79,7 @@
     {
         "name": "綠黨社會民主黨聯盟",
         "chairman": ["梁益誌", "范雲"],
-        "logo": "/img/party/gsp.png",
+        "logo": "/img/party/gsp.svg",
         "voteNum": 510074,
         "voteRate": "4.1843%",
         "electedPersonNum": 0,
@@ -88,7 +88,7 @@
     {
         "name": "台灣團結聯盟",
         "chairman": ["劉一德"],
-        "logo": "/img/party/tsu.png",
+        "logo": "/img/party/tsu.svg",
         "voteNum": 305675,
         "voteRate": "2.5076%",
         "electedPersonNum": 0,
