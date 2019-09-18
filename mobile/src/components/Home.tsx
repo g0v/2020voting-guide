@@ -79,7 +79,7 @@ const Home = () => {
                     <Button
                         color="primary"
                         variant="contained"
-                        href="/party"
+                        href="/parties"
                         fullWidth
                         className={classes.mainButton}
                     >

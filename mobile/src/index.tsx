@@ -7,7 +7,6 @@ import App from './App';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
 
-
 const theme = createMuiTheme({
     palette: {
         primary: {
@@ -18,6 +17,10 @@ const theme = createMuiTheme({
         },
         background: {
             default: '#F9F9F9'
+        },
+        text: {
+            primary: 'rgba(0, 0, 0, 0.87)',
+            secondary: 'rgba(0, 0, 0, 0.54)'
         }
     },
     typography: {

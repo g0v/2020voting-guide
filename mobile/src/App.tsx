@@ -8,6 +8,7 @@ import County from './components/ConstituencyCounty/County';
 import ConstituencyPage from './components/ConstituencyDistrict/ConstituencyPage';
 import Nav from './components/Header';
 import Home from './components/Home';
+import Party from './components/Party/Party';
 import PartyCandidates from './components/PartyCandidates/PartyCandidates';
 
 interface State {
@@ -34,7 +35,8 @@ const App = () => {
                 <Switch>
                     <Route exact path="/" component={Home} />
                     <Route path="/county" component={County} />
-                    <Route path="/party" component={PartyCandidates} />
+                    <Route path="/parties" component={PartyCandidates} />
+                    <Route path="/party" component={Party} />
                     <Route path="/candidate" component={Candidate} />
                     <Route
                         path="/regional/:county/:constituency"

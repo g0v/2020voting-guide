@@ -1,7 +1,7 @@
-import React from 'react';
 import Box from '@material-ui/core/Box';
-import Typography from '@material-ui/core/Typography';
 import { useTheme } from '@material-ui/core/styles';
+import Typography from '@material-ui/core/Typography';
+import React from 'react';
 
 interface Navigation {
     title: string;
@@ -10,6 +10,7 @@ interface Navigation {
 
 const Navigation = ({ title, description }: Navigation) => {
     const theme = useTheme();
+
     return (
         <>
             <Box
