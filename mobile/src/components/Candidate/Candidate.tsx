@@ -1,38 +1,22 @@
-import React from 'react';
-import Tabs from '@material-ui/core/Tabs';
 import Tab from '@material-ui/core/Tab';
+import Tabs from '@material-ui/core/Tabs';
+import React from 'react';
+import api from './api.json';
 import BasicInfoTab from './BasicInfoTab';
-import PassPerformance from './PassPerformanceTab';
-import Position from './PositionTab';
-import queryString from 'query-string';
+import IssueBillTab from './IssueBillTab';
 import Nav from './Nav';
+import PassPerformance from './PassPerformanceTab';
 
-interface Candidate {
-    match: {
-        params: {
-            name: string;
-        };
-    };
-    location: {
-        search: string;
-    };
-}
-
-const Candidate: React.FunctionComponent<Candidate> = ({ match, location }) => {
+const Candidate = () => {
     const [value, setValue] = React.useState(0);
-    const { county, constituency } = queryString.parse(location.search) as {
-        county: string;
-        constituency: string;
-    };
 
     const handleChange = (event: React.ChangeEvent<{}>, newValue: number) => {
-        console.log(newValue);
         setValue(newValue);
     };
 
     return (
         <>
-            <Nav name="潘建志" county={county} constituency={constituency} />
+            <Nav {...api} />
             <Tabs
                 value={value}
                 indicatorColor="primary"
@@ -45,7 +29,7 @@ const Candidate: React.FunctionComponent<Candidate> = ({ match, location }) => {
                 <Tab label="經歷政見" />
             </Tabs>
             {value === 0 ? (
-                <Position />
+                <IssueBillTab {...api} />
             ) : value === 1 ? (
                 <PassPerformance />
             ) : (

@@ -1,7 +1,8 @@
 {
     "name": "吳思姚",
-    "logo": "https://www.ly.gov.tw/Images/Legislators/90015.jpg",
-    "constituency": "台北市第一選區",
+    "photo": "https://www.ly.gov.tw/Images/Legislators/90015.jpg",
+    "county": "臺北市",
+    "constituency": "臺北市第一選區",
     "party": "民主進步黨",
     "age": 45,
     "education": [

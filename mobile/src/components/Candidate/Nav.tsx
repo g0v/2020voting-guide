@@ -1,9 +1,9 @@
-import React from 'react';
+import { Avatar, Box, Grid } from '@material-ui/core';
 import Link from '@material-ui/core/Link';
 import Typography from '@material-ui/core/Typography';
 import KeyboardArrowLeft from '@material-ui/icons/KeyboardArrowLeft';
-import { Box, Avatar, Grid } from '@material-ui/core';
 import { makeStyles } from '@material-ui/styles';
+import React from 'react';
 
 const useStyles = makeStyles({
     photo: {
@@ -13,13 +13,16 @@ const useStyles = makeStyles({
     }
 });
 
-export interface NavProps {
+export interface Nav {
     name: string;
     county: string;
     constituency: string;
+    photo: string;
+    party: string;
+    age: number;
 }
 
-const Nav = ({ name, county, constituency }: NavProps) => {
+const Nav = ({ name, county, constituency, photo, age, party }: Nav) => {
     const classes = useStyles();
     return (
         <>
@@ -40,20 +43,19 @@ const Nav = ({ name, county, constituency }: NavProps) => {
                 <Box px={1} py={1}>
                     <Grid container alignItems="center" spacing={2}>
                         <Grid item>
-                            <Avatar
-                                className={classes.photo}
-                                src="https://upload.wikimedia.org/wikipedia/commons/7/7e/%E6%BD%98%E5%BB%BA%E5%BF%97_%286%29.JPG"
-                            />
+                            <Avatar className={classes.photo} src={photo} />
                         </Grid>
                         <Grid item>
                             <Grid container direction="column">
                                 <Grid item>
                                     <Typography variant="h5">
-                                        民主進步黨
+                                        {party}
                                     </Typography>
                                 </Grid>
                                 <Grid item>
-                                    <Typography variant="h5">52歲</Typography>
+                                    <Typography variant="h5">
+                                        {age} 歲
+                                    </Typography>
                                 </Grid>
                             </Grid>
                         </Grid>
