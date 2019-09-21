@@ -43,7 +43,7 @@ const theme = createMuiTheme({
             fontSize: 48
         },
         h2: {
-            fontWeight: 500,
+            fontWeight: 'bold',
             fontSize: 24
         },
         h3: {

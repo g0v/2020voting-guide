@@ -1,73 +1,148 @@
+import { Box, Typography } from '@material-ui/core';
+import { useTheme } from '@material-ui/core/styles';
 import React from 'react';
-import {
-    Bar,
-    BarChart,
-    ReferenceLine,
-    ResponsiveContainer,
-    Tooltip,
-    XAxis,
-    YAxis
-} from 'recharts';
+import { Pie, PieChart, ResponsiveContainer, Tooltip } from 'recharts';
+import BasePaper from '../BasePaper';
 import Bulletin from '../Bulletin';
+import BigNum from '../Numbers/BigNum';
 
-const data = [
-    {
-        name: '脫黨表決',
-        百分比: 0.69,
-        pv: 8,
-        fill: '#82ca9d'
-    },
-    {
-        name: '投票表決',
-        百分比: 59.4,
-        pv: '689/1160',
-        fill: '#83a6ed'
-    },
-    {
-        name: '院會出席',
-        百分比: 99,
-        pv: '303/304',
-        fill: '#8884d8'
-    }
+const data01 = [
+    { name: 'Group A', value: 400 },
+    { name: 'Group B', value: 300 },
+    { name: 'Group C', value: 300 },
+    { name: 'Group D', value: 200 },
+    { name: 'Group E', value: 278 },
+    { name: 'Group F', value: 189 }
 ];
 
 const bulletin = '無私搖 擔任 第九屆立法委員 2016-2020';
 
 const PositionTab = () => {
+    const theme = useTheme();
     return (
         <>
             <Bulletin primary={bulletin} />
-            <div>擔任立委表現</div>
-            <hr />
-            <div>總覽</div>
-            <div>
-                <span>所有立委平均 </span>
-                <span>所以立委中位數 </span>
-                <ResponsiveContainer aspect={4.0 / 3.0} width="100%">
-                    <BarChart
-                        data={data}
-                        layout="vertical"
-                        margin={{ top: 5, right: 30, left: 20, bottom: 5 }}
-                    >
-                        <XAxis type="number" hide />
-                        <YAxis dataKey="name" type="category" />
-                        <Tooltip formatter={value => value + '%'} />
-                        <ReferenceLine
-                            x={76}
-                            label="abc"
-                            stroke="red"
-                            strokeDasharray="3 3"
-                        />
-                        <Bar dataKey="百分比" />
-                        <ReferenceLine
-                            x={56}
-                            label="ccc"
-                            stroke="red"
-                            strokeDasharray="3 3"
-                        />
-                    </BarChart>
-                </ResponsiveContainer>
-            </div>
+            <BasePaper
+                title="立法院出席率"
+                subtitle="立委應於指定開會時間出席立法院開會、質詢、審議法案"
+            >
+                <BigNum
+                    num={91}
+                    unit="%"
+                    text1="立委平均數 91%"
+                    text2="中位數 89%"
+                />
+            </BasePaper>
+            <Box p={1} bgcolor={theme.palette.background.default} />
+            <BasePaper
+                title="質詢"
+                subtitle="立法委員要針對行政院的施政進行監督詢答"
+            >
+                <Box my={4}>
+                    <Typography variant="h3">質詢率</Typography>
+                    <BigNum
+                        num={91}
+                        unit="%"
+                        text1="立委平均數 91%"
+                        text2="中位數 89%"
+                    />
+                </Box>
+                <Typography variant="h3">最多質詢類別</Typography>
+                <Typography variant="h5">
+                    立法委員要針對行政院的施政進行監督詢答
+                </Typography>
+                <Box width="100%" height={170} mx="auto" my={5}>
+                    <ResponsiveContainer>
+                        <PieChart>
+                            <Pie
+                                dataKey="value"
+                                isAnimationActive={false}
+                                data={data01}
+                                fill={theme.palette.primary.main}
+                                label
+                            />
+                            <Tooltip />
+                        </PieChart>
+                    </ResponsiveContainer>
+                </Box>
+                <Typography variant="h5">立法院： 吳思姚質詢影音</Typography>
+            </BasePaper>
+            <Box p={1} bgcolor={theme.palette.background.default} />
+            <BasePaper
+                title="修法"
+                subtitle="立委需要研究法案雨各式社會發展，提案修正國家法律"
+            >
+                <Box my={4}>
+                    <Typography variant="h3">主題案修法數量</Typography>
+                    <BigNum
+                        num={83}
+                        unit="件"
+                        text1="立委平均數 92%"
+                        text2="中位數 88%"
+                    />
+                </Box>
+                <Typography variant="h3">最多主提案修法類別</Typography>
+                <Box width="100%" height={170} mx="auto" my={5}>
+                    <ResponsiveContainer>
+                        <PieChart>
+                            <Pie
+                                dataKey="value"
+                                isAnimationActive={false}
+                                data={data01}
+                                fill={theme.palette.primary.main}
+                                label
+                            />
+                            <Tooltip />
+                        </PieChart>
+                    </ResponsiveContainer>
+                </Box>
+                <Typography variant="h5">
+                    立法院： 吳思姚法案主題案影音
+                </Typography>
+            </BasePaper>
+            <Box p={1} bgcolor={theme.palette.background.default} />
+            <BasePaper title="政治現金紀錄" subtitle="每年收到的捐款和使用方式">
+                <Typography variant="h3">吳思姚 收入</Typography>
+                <Box width="100%" height={230} mx="auto">
+                    <ResponsiveContainer>
+                        <PieChart>
+                            <Pie
+                                dataKey="value"
+                                isAnimationActive={false}
+                                data={data01}
+                                fill={theme.palette.primary.main}
+                                startAngle={180}
+                                endAngle={0}
+                                cy="70%"
+                                label
+                            />
+                            <Tooltip />
+                        </PieChart>
+                    </ResponsiveContainer>
+                </Box>
+                <Typography variant="h3">吳思姚 支出</Typography>
+                <Box width="100%" height={230} mx="auto">
+                    <ResponsiveContainer>
+                        <PieChart>
+                            <Pie
+                                dataKey="value"
+                                isAnimationActive={false}
+                                data={data01}
+                                fill={theme.palette.primary.main}
+                                startAngle={180}
+                                endAngle={0}
+                                cy="70%"
+                                label
+                            />
+                            <Tooltip />
+                        </PieChart>
+                    </ResponsiveContainer>
+                </Box>
+                <Typography variant="h5">
+                    立法院： 吳思姚法案主題案影音
+                </Typography>
+            </BasePaper>
+            <Box p={1} bgcolor={theme.palette.background.default} />
         </>
     );
 };
