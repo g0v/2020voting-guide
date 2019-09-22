@@ -1,5 +1,7 @@
-import { makeStyles } from '@material-ui/styles';
+import { Box, Typography } from '@material-ui/core';
+import { useTheme } from '@material-ui/core/styles';
 import React from 'react';
+import BasePaper from '../BasePaper';
 
 const experiences = [
     '台北馬偕醫院及萬芳醫院精神科主治醫師',
@@ -22,44 +24,38 @@ const politics = [
     '白色力量，守護健康。白色力量，翻轉國會。白色力量，智造未來。'
 ];
 
-const useStyle = makeStyles({
-    overview: {
-        padding: 20
-    },
-    photo: {
-        width: 131,
-        height: 131,
-        padding: 10,
-        borderRadius: '50%',
-        verticalAlign: 'middle'
-    },
-    overviewText: {
-        display: 'inline-block',
-        verticalAlign: 'middle'
-    }
-});
-
 const BasicInfoTab = () => {
-    const classes = useStyle();
+    const theme = useTheme();
     return (
         <>
-            <div className={classes.overview}>
-                <div>
-                    <div>經歷</div>
-                    {experiences.map(exp => (
-                        <div key={exp}>{exp}</div>
+            <Box p={1} bgcolor={theme.palette.background.default} />
+            <BasePaper title="學歷">
+                <Typography variant="body1" color="textSecondary">
+                    臺灣大學政治學研究所碩士
+                    <br />
+                    輔仁大學西語系、日語系文學雙學士
+                </Typography>
+            </BasePaper>
+            <Box p={1} bgcolor={theme.palette.background.default} />
+            <BasePaper title="經歷">
+                <Typography variant="body1" color="textSecondary">
+                    {experiences.map((experience, i) => (
+                        <>
+                            {experience} <br />
+                        </>
                     ))}
-                </div>
-                <hr />
-                <div>
-                    <div>政見</div>
+                </Typography>
+            </BasePaper>
+            <Box p={1} bgcolor={theme.palette.background.default} />
+            <BasePaper title="政見">
+                <Typography variant="body1" color="textSecondary">
                     {politics.map((politic, i) => (
-                        <div key={politic}>
-                            {i + 1}.{politic}
-                        </div>
+                        <>
+                            {i + 1}. {politic} <br />
+                        </>
                     ))}
-                </div>
-            </div>
+                </Typography>
+            </BasePaper>
         </>
     );
 };

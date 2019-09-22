@@ -8,7 +8,7 @@ import Nav from './Nav';
 import PassPerformance from './PassPerformanceTab';
 
 const Candidate = () => {
-    const [value, setValue] = React.useState(0);
+    const [value, setValue] = React.useState(2);
 
     const handleChange = (event: React.ChangeEvent<{}>, newValue: number) => {
         setValue(newValue);

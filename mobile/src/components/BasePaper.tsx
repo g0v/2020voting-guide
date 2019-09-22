@@ -4,7 +4,7 @@ import React, { ReactNode } from 'react';
 interface BasePaper {
     children: ReactNode;
     title: string;
-    subtitle: string;
+    subtitle?: string;
 }
 
 const BasePaper = ({ children, title, subtitle }: BasePaper) => {
