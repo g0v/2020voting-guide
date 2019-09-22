@@ -1,5 +1,6 @@
 from os import environ
-from peewee import MySQLDatabase, Model, CharField, BooleanField, SmallIntegerField, TextField, IntegerField
+
+from peewee import BooleanField, CharField, IntegerField, Model, MySQLDatabase, SmallIntegerField, TextField
 
 USER = environ["MYSQL_USER"]
 PASSWORD = environ["MYSQL_PASSWORD"]
@@ -74,3 +75,14 @@ class Party(BaseModel):
     voteRate = CharField()
     electedPersonNum = IntegerField()
     electedPerson = CharField()
+
+
+class Bill(BaseModel):
+    billNo = CharField()
+    name = CharField()
+    proposer = TextField(null=True)
+    cosignatory = TextField(null=True)
+    pdf = CharField(null=True)
+    term = CharField()
+    sessionPeriod = CharField()
+    status = CharField()

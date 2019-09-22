@@ -14,3 +14,4 @@ pipenv run python3 sitting
 pipenv run python3 bulletin
 pipenv run python3 candidate_wikidata
 pipenv run python3 caculation
+pipenv run python3 bill

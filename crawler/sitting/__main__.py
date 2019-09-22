@@ -1,9 +1,9 @@
-from os import environ, path
 import json
-from typing import List, Dict, Optional
-from legislative_yuan_open_data import scrap_legislator_info_pages, store_pages_info
-from db import Sitting
+from os import environ, path
+from typing import Dict, List, Optional
 
+from db import Sitting
+from legislative_yuan_open_data import scrap_info_pages, store_pages_info
 
 FILE_DIR = path.dirname(path.abspath(__file__))
 OUTPUT_RAW_DIR = environ.get("OUTPUT_RAW_DIR", f"{FILE_DIR}/../../data/raw")
@@ -22,6 +22,6 @@ def to_db(pages_info: List[str]) -> None:
 
 
 if __name__ == "__main__":
-    pages_info = scrap_legislator_info_pages(ID, payload_base={"id": 42, "selectTerm": "all"}, page_count=6)
+    pages_info = scrap_info_pages(ID, payload_base={"id": 42, "selectTerm": "all"}, page_count=6)
     store_pages_info(pages_info, ID, OUTPUT_RAW_DIR)
     to_db(pages_info)

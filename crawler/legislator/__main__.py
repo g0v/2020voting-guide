@@ -3,8 +3,7 @@ from os import environ, path
 from typing import List
 
 from db import Candidate, Legislator
-from legislative_yuan_open_data import scrap_legislator_info_pages, store_pages_info
-
+from legislative_yuan_open_data import scrap_info_pages, store_pages_info
 
 FILE_DIR = path.dirname(path.abspath(__file__))
 OUTPUT_RAW_DIR = environ.get("OUTPUT_RAW_DIR", f"{FILE_DIR}/../../data/raw")
@@ -13,14 +12,14 @@ OUTPUT_TRANSFORMED_DIR = environ.get("OUTPUT_TRANSFORMED_DIR", f"{FILE_DIR}/../.
 
 def run_history_legislator_info_pages() -> List[str]:
     id = "history_legislator_info"
-    pages_info = scrap_legislator_info_pages(id, payload_base={"id": 16, "selectTerm": "all"}, page_count=2)
+    pages_info = scrap_info_pages(id, payload_base={"id": 16, "selectTerm": "all"}, page_count=2)
     store_pages_info(pages_info, id, OUTPUT_RAW_DIR)
     return pages_info
 
 
 def run_current_legislator_info_pages():
     id = "current_legislator_info"
-    pages_info = scrap_legislator_info_pages(id, payload_base={"id": 9, "selectTerm": "all"}, page_count=1)
+    pages_info = scrap_info_pages(id, payload_base={"id": 9, "selectTerm": "all"}, page_count=1)
     store_pages_info(pages_info, id, OUTPUT_RAW_DIR)
     return pages_info
 
