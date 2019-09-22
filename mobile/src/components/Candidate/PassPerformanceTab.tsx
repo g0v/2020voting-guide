@@ -5,7 +5,7 @@ import { Pie, PieChart, ResponsiveContainer, Tooltip } from 'recharts';
 import BasePaper from '../BasePaper';
 import Bulletin from '../Bulletin';
 import BigNum from '../Numbers/BigNum';
-
+import AppPieChart from './AppPieChart';
 const data01 = [
     { name: 'Group A', value: 400 },
     { name: 'Group B', value: 300 },
@@ -15,19 +15,39 @@ const data01 = [
     { name: 'Group F', value: 189 }
 ];
 
-const bulletin = '無私搖 擔任 第九屆立法委員 2016-2020';
+interface PositionTab {
+    name: string;
+    lastTerm: string;
+    lastTermYear: string;
+    sittingRate: number;
+    interpellationRate: number;
+    interpellationCategory: { name: string; percent: number }[];
+    billNumCategory: { name: string; percent: number }[];
+}
 
-const PositionTab = () => {
+const PositionTab = ({
+    name,
+    lastTerm,
+    lastTermYear,
+    sittingRate,
+    interpellationRate,
+    interpellationCategory,
+    billNumCategory
+}: PositionTab) => {
     const theme = useTheme();
+
     return (
         <>
-            <Bulletin primary={bulletin} />
+            <Bulletin
+                primary={`${name} 曾擔任 ${lastTerm}`}
+                secondary={lastTermYear}
+            />
             <BasePaper
                 title="立法院出席率"
                 subtitle="立委應於指定開會時間出席立法院開會、質詢、審議法案"
             >
                 <BigNum
-                    num={91}
+                    num={sittingRate}
                     unit="%"
                     text1="立委平均數 91%"
                     text2="中位數 89%"
@@ -41,7 +61,7 @@ const PositionTab = () => {
                 <Box my={4}>
                     <Typography variant="h3">質詢率</Typography>
                     <BigNum
-                        num={91}
+                        num={interpellationRate}
                         unit="%"
                         text1="立委平均數 91%"
                         text2="中位數 89%"
@@ -51,20 +71,7 @@ const PositionTab = () => {
                 <Typography variant="h5">
                     立法委員要針對行政院的施政進行監督詢答
                 </Typography>
-                <Box width="100%" height={170} mx="auto" my={5}>
-                    <ResponsiveContainer>
-                        <PieChart>
-                            <Pie
-                                dataKey="value"
-                                isAnimationActive={false}
-                                data={data01}
-                                fill={theme.palette.primary.main}
-                                label
-                            />
-                            <Tooltip />
-                        </PieChart>
-                    </ResponsiveContainer>
-                </Box>
+                <AppPieChart data={interpellationCategory} />
                 <Typography variant="h5">立法院： 吳思姚質詢影音</Typography>
             </BasePaper>
             <Box p={1} bgcolor={theme.palette.background.default} />
@@ -82,20 +89,7 @@ const PositionTab = () => {
                     />
                 </Box>
                 <Typography variant="h3">最多主提案修法類別</Typography>
-                <Box width="100%" height={170} mx="auto" my={5}>
-                    <ResponsiveContainer>
-                        <PieChart>
-                            <Pie
-                                dataKey="value"
-                                isAnimationActive={false}
-                                data={data01}
-                                fill={theme.palette.primary.main}
-                                label
-                            />
-                            <Tooltip />
-                        </PieChart>
-                    </ResponsiveContainer>
-                </Box>
+                <AppPieChart data={billNumCategory} />
                 <Typography variant="h5">
                     立法院： 吳思姚法案主題案影音
                 </Typography>

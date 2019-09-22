@@ -6,14 +6,6 @@ interface IssueBillTab {
     issueBills: IssueBillProps[];
 }
 
-interface Position {
-    title: string;
-    category: string;
-    attitude: boolean;
-    content: string;
-    link: string;
-}
-
 const IssueBillTab = ({ issueBills }: IssueBillTab) => {
     return (
         <>
