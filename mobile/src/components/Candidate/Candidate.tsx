@@ -8,7 +8,7 @@ import Nav from './Nav';
 import PassPerformance from './PassPerformanceTab';
 
 const Candidate = () => {
-    const [value, setValue] = React.useState(0);
+    const [value, setValue] = React.useState(1);
 
     const handleChange = (event: React.ChangeEvent<{}>, newValue: number) => {
         setValue(newValue);
@@ -31,7 +31,7 @@ const Candidate = () => {
             {value === 0 ? (
                 <IssueBillTab {...api} />
             ) : value === 1 ? (
-                <PassPerformance />
+                <PassPerformance {...api} />
             ) : (
                 <BasicInfoTab {...api} />
             )}
