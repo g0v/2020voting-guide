@@ -23,7 +23,7 @@ const IssueBillTab = ({ issueBills }: IssueBillTab) => {
             />
             <div>
                 {issueBills.map(issueBill => (
-                    <IssueBill {...issueBill} />
+                    <IssueBill {...issueBill} key={issueBill.issue} />
                 ))}
             </div>
         </>

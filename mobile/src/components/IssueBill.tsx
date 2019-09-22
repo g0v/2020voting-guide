@@ -21,7 +21,7 @@ const IssueBill = ({ issue, content }: IssueBillProps) => {
             <Box mx={1.5} py={3}>
                 <Typography variant="h2">{issue}</Typography>
                 {content.map(({ proposer, content }) => (
-                    <>
+                    <Box key={proposer}>
                         <Box
                             my={1.5}
                             borderColor="primary.main"
@@ -31,7 +31,7 @@ const IssueBill = ({ issue, content }: IssueBillProps) => {
                             <Typography variant="h4">{proposer}</Typography>
                         </Box>
                         {content.map(bill => (
-                            <Box my={3}>
+                            <Box my={3} key={bill.bill}>
                                 <Typography variant="h3">
                                     {bill.bill}
                                 </Typography>
@@ -53,7 +53,7 @@ const IssueBill = ({ issue, content }: IssueBillProps) => {
                                 </Box>
                             </Box>
                         ))}
-                    </>
+                    </Box>
                 ))}
             </Box>
             <Box p={1} bgcolor={theme.palette.background.default} />
