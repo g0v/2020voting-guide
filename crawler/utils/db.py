@@ -86,3 +86,14 @@ class Bill(BaseModel):
     term = CharField()
     sessionPeriod = CharField()
     status = CharField()
+
+
+class Bill2(BaseModel):
+    name = CharField()
+    date = CharField()
+    term = CharField()
+    sessionPeriod = CharField()
+    proposer = TextField()
+    cosignatory = TextField()
+    status = CharField()
+    category = CharField(null=True)

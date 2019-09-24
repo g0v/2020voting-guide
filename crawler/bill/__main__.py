@@ -15,7 +15,8 @@ if __name__ == "__main__":
         {
             "name": bill["billName"],
             "pdf": bill["pdfUrl"],
-            "proposer": bill["billProposer"].replace("　　", ";") if bill["billProposer"] else None,
+            "proposer": f'{bill["billOrg"]};'
+            + (bill["billProposer"].replace("　　", ";") if bill["billProposer"] else ""),
             "cosignatory": bill["billCosignatory"].replace("　　", ";") if bill["billCosignatory"] else None,
             "billNo": bill["billNo"],
             "term": bill["term"],
