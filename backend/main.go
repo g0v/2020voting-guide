@@ -10,7 +10,7 @@ import (
 // @version 0.0.1
 // @description 2020 Voting Guide Backend
 func main() {
-
+	// gin.SetMode(gin.DebugMode)
 	db.Setup()
 	defer db.MySQL.Close()
 	r := routes.SetupRouter()

@@ -1,6 +1,7 @@
 package handler
 
 import (
+	
 	"net/http"
 
 	"github.com/g0v/2020voting-guide/backend/internal/db"
@@ -8,6 +9,38 @@ import (
 
 	"github.com/gin-gonic/gin"
 )
+
+type Bill struct {
+	Bill        string `json:"bill"`
+	Description string `json:"description"`
+	Date        string `json:"date"`
+	Proposer    string `json:"proposer"`
+	Category    string `json:"category"`
+}
+
+type Candidate struct {
+	Name                   string `json:"name"`
+	Photo                  string `json:"photo"`
+	County                 string `json:"county"`
+	Constituency           string `json:"constituency"`
+	Party                  string `json:"party"`
+	Age                    int16  `json:"age"`
+	LastTerm               string `json:"lastTerm"`
+	LastTermYear           string `json:"lastTermYear"`
+	Educations             string `json:"educations"`
+	Experiences            string `json:"experiences"`
+	Politics               string `json:"politics"`
+	SittingRate            string `json:"sittingRate"`
+	InterpellationRate     string `json:"interpellationRate"`
+	InterpellationNum      string `json:"interpellationNum"`
+	MaxInterpellationNum   string `json:"maxInterpellationNum"`
+	InterpellationCategory string `json:"interpellationCategory"`
+	BillNum                string `json:"billNum"`
+	BillNumCategory        string `json:"billNumCategory"`
+	PoliticalContribution  string `json:"politicalContribution"`
+	OtherCandidate         string `json:"otherCandidate"`
+	Bills                  []Bill `json:"bills"`
+}
 
 // @Summary List candidates by constituency
 // @Description list candidates by constituency
@@ -35,8 +68,25 @@ func ListCandidatesByConstituencyHandler(c *gin.Context) {
 func GetCandidateByNameHandler(c *gin.Context) {
 	name := c.Param("name")
 
-	var candidate models.Candidate
-	db.MySQL.Table("candidates").Select("candidates.name, candidates.party, personal_info_history.experience, personal_info_history.term").Where("candidates.name = ?", name).Joins("left join personal_info_history on candidates.name = personal_info_history.name").Order("personal_info_history.term desc").Find(&candidate)
+	var candidate Candidate
+
+	candidate.Name = name
+
+	var billsDb []db.Bill2
+	s := "%" + name + "%"
+	db.MySQL.Where("proposer LIKE ?", s).Find(&billsDb)
+	for _, bill := range billsDb {
+		candidate.Bills = append(candidate.Bills, Bill{bill.Name, "", bill.Date, bill.Proposer, bill.Category})
+	}
+
+	var candidateDb db.Candidate
+	db.MySQL.Where("name = ?", name).First(&candidateDb)
+	candidate.Age = candidateDb.Age
+	candidate.Party = candidateDb.Party
+	candidate.Photo = candidateDb.PicURL
+	candidate.Constituency = candidateDb.Constituency
+	candidate.LastTerm = candidateDb.LastTerm
+
 
 	c.JSON(http.StatusOK, candidate)
 }
