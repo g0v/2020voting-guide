@@ -1,12 +1,14 @@
 import React from 'react';
 import Bulletin from '../Bulletin';
-import IssueBill, { IssueBillProps } from '../IssueBill';
+import IssueBill, { Bill } from '../IssueBill';
 
 interface IssueBillTab {
-    issueBills: IssueBillProps[];
+    bills?: Bill[];
 }
 
-const IssueBillTab = ({ issueBills }: IssueBillTab) => {
+const IssueBillTab = ({ bills = [] }: IssueBillTab) => {
+    const issues = [...new Set(bills.filter(b => b.category).map(b => b.category))];
+
     return (
         <>
             <Bulletin
@@ -14,9 +16,14 @@ const IssueBillTab = ({ issueBills }: IssueBillTab) => {
                 secondary="這些議題怎麽產生的？"
             />
             <div>
-                {issueBills.map(issueBill => (
-                    <IssueBill {...issueBill} key={issueBill.issue} />
-                ))}
+                {issues
+                    .map(issue => ({
+                        issue: issue,
+                        bills: bills.filter(i => issue == i.category)
+                    }))
+                    .map(issue => (
+                        <IssueBill issue={issue.issue} bills={issue.bills} />
+                    ))}
             </div>
         </>
     );

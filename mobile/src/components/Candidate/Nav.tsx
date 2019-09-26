@@ -13,17 +13,25 @@ const useStyles = makeStyles({
     }
 });
 
-export interface Nav {
-    name: string;
-    county: string;
-    constituency: string;
-    photo: string;
-    party: string;
-    age: number;
+interface Nav {
+    name?: string;
+    county?: string;
+    constituency?: string;
+    photo?: string;
+    party?: string;
+    age?: number;
 }
 
-const Nav = ({ name, county, constituency, photo, age, party }: Nav) => {
+const Nav = ({
+    name = '',
+    county = '',
+    constituency = '',
+    photo = '',
+    age = 0,
+    party = ''
+}: Nav) => {
     const classes = useStyles();
+    const ageDisplay = age === 0 ? '未知年齡' : `${age} 歲`;
     return (
         <>
             <Box m={1}>
@@ -43,7 +51,13 @@ const Nav = ({ name, county, constituency, photo, age, party }: Nav) => {
                 <Box px={1} py={1}>
                     <Grid container alignItems="center" spacing={2}>
                         <Grid item>
-                            <Avatar className={classes.photo} src={photo} />
+                            {photo ? (
+                                <Avatar src={photo} className={classes.photo} />
+                            ) : (
+                                <Avatar className={classes.photo}>
+                                    {name.charAt(0)}
+                                </Avatar>
+                            )}
                         </Grid>
                         <Grid item>
                             <Grid container direction="column">
@@ -54,7 +68,7 @@ const Nav = ({ name, county, constituency, photo, age, party }: Nav) => {
                                 </Grid>
                                 <Grid item>
                                     <Typography variant="h5">
-                                        {age} 歲
+                                        {ageDisplay}
                                     </Typography>
                                 </Grid>
                             </Grid>

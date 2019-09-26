@@ -12,14 +12,14 @@ interface Route {
     };
 }
 
-const CountyCandidates: React.FunctionComponent<Route> = ({ match }) => {
+const CountyCandidates = ({ match }: Route) => {
     const { county, constituency } = match.params;
     const [candidates, setCandidates] = useState<CandidateProps[]>([]);
     useEffect(() => {
         fetch(`/api/constituency/${constituency}`)
             .then(res => res.json())
             .then(setCandidates);
-    }, [constituency]);
+    }, []);
     return (
         <>
             <Navigation title="區域立委候選人" description={constituency} />

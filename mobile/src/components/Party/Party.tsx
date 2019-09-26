@@ -42,7 +42,7 @@ const Party = ({ match, location }: Party) => {
                 <Tab label="經歷政見" />
             </Tabs>
             {value === 0 ? (
-                <IssueBillTab {...api} />
+                <IssueBillTab />
             ) : value === 1 ? (
                 <PassPerformance />
             ) : (

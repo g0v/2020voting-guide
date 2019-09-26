@@ -45,11 +45,7 @@ export const CandidateCard: React.FunctionComponent<CandidateProps> = ({
     const classes = useStyles();
     return (
         <>
-            <ListItem
-                button
-                component="a"
-                href={`/candidate?county=${county}&constituency=${constituency}`}
-            >
+            <ListItem button component="a" href={`/candidate/${name}`}>
                 <ListItemText
                     primary={
                         <Grid container>

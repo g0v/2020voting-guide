@@ -7,30 +7,76 @@ import IssueBillTab from './IssueBillTab';
 import Nav from './Nav';
 import PassPerformance from './PassPerformanceTab';
 
-const Candidate = () => {
-    const [value, setValue] = React.useState(1);
+interface Bill {
+    bill: string;
+    description: string;
+    date: string;
+    proposer: string;
+    category: string;
+}
 
-    const handleChange = (event: React.ChangeEvent<{}>, newValue: number) => {
-        setValue(newValue);
+interface Candidate {
+    name: string;
+    photo: string;
+    county: string;
+    constituency: string;
+    party: string;
+    age: number;
+    lastterm: string;
+    lasttermyear: string;
+    educations: string;
+    experiences: string;
+    politics: string;
+    sittingrate: string;
+    interpellationrate: string;
+    interpellationnum: string;
+    maxinterpellationnum: string;
+    interpellationcategory: string;
+    billnum: string;
+    billnumcategory: string;
+    politicalcontribution: string;
+    othercandidate: string;
+    bills: Bill[];
+}
+interface CandidatePage {
+    match: {
+        params: {
+            name: string;
+        };
     };
+}
+
+const CandidatePage = ({ match }: CandidatePage) => {
+    const { name } = match.params;
+    const [tab, setTab] = React.useState(1);
+    const switchTab = (_: any, newValue: number) => {
+        setTab(newValue);
+    };
+
+    const [candidate, setCandidate] = React.useState<Candidate>();
+    React.useEffect(() => {
+        fetch(`/api/candidate/${name}`)
+            .then(res => res.json())
+            .then(setCandidate);
+    }, []);
 
     return (
         <>
-            <Nav {...api} />
+            <Nav {...candidate} />
             <Tabs
-                value={value}
+                value={tab}
                 indicatorColor="primary"
                 textColor="primary"
                 variant="fullWidth"
-                onChange={handleChange}
+                onChange={switchTab}
             >
                 <Tab label="議題法案" />
                 <Tab label="過去表現" />
                 <Tab label="經歷政見" />
             </Tabs>
-            {value === 0 ? (
-                <IssueBillTab {...api} />
-            ) : value === 1 ? (
+            {tab === 0 ? (
+                <IssueBillTab {...candidate} />
+            ) : tab === 1 ? (
                 <PassPerformance {...api} />
             ) : (
                 <BasicInfoTab {...api} />
@@ -39,4 +85,4 @@ const Candidate = () => {
     );
 };
 
-export default Candidate;
+export default CandidatePage;

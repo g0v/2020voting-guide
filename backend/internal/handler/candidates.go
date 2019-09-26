@@ -1,7 +1,6 @@
 package handler
 
 import (
-	
 	"net/http"
 
 	"github.com/g0v/2020voting-guide/backend/internal/db"
@@ -75,6 +74,7 @@ func GetCandidateByNameHandler(c *gin.Context) {
 	var billsDb []db.Bill2
 	s := "%" + name + "%"
 	db.MySQL.Where("proposer LIKE ?", s).Find(&billsDb)
+	candidate.Bills = []Bill{}
 	for _, bill := range billsDb {
 		candidate.Bills = append(candidate.Bills, Bill{bill.Name, "", bill.Date, bill.Proposer, bill.Category})
 	}
@@ -86,7 +86,7 @@ func GetCandidateByNameHandler(c *gin.Context) {
 	candidate.Photo = candidateDb.PicURL
 	candidate.Constituency = candidateDb.Constituency
 	candidate.LastTerm = candidateDb.LastTerm
-
+	// candidate.County = candidateDb.Constituency[0:3]
 
 	c.JSON(http.StatusOK, candidate)
 }
