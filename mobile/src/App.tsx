@@ -1,4 +1,5 @@
-import Box from '@material-ui/core/Box';
+import { Box, Container } from '@material-ui/core';
+import { makeStyles } from '@material-ui/styles';
 import React from 'react';
 import { Route, Switch } from 'react-router-dom';
 import AppDrawer from './components/AppDrawer';
@@ -15,7 +16,15 @@ interface State {
     visible: boolean;
 }
 
+const useStyles = makeStyles({
+    container: {
+        padding: 0,
+        margin: 0
+    }
+});
+
 const App = () => {
+    const classes = useStyles();
     const [open, setOpen] = React.useState(false);
 
     const handleDrawerOpen = () => {
@@ -28,26 +37,28 @@ const App = () => {
 
     return (
         <>
-            <Nav open={open} handleDrawerOpen={handleDrawerOpen} />
-            <AppDrawer handleDrawerClose={handleDrawerClose} open={open} />
+            <Container maxWidth="sm" className={classes.container}>
+                <Nav open={open} handleDrawerOpen={handleDrawerOpen} />
+                <AppDrawer handleDrawerClose={handleDrawerClose} open={open} />
 
-            <Box>
-                <Switch>
-                    <Route exact path="/" component={Home} />
-                    <Route path="/county" component={County} />
-                    <Route path="/parties" component={PartyCandidates} />
-                    <Route path="/party" component={Party} />
-                    <Route path="/candidate/:name" component={Candidate} />
-                    <Route
-                        path="/regional/:county/:constituency"
-                        component={ConstituencyCandidates}
-                    />
-                    <Route
-                        path="/regional/:county"
-                        component={ConstituencyPage}
-                    />
-                </Switch>
-            </Box>
+                <Box>
+                    <Switch>
+                        <Route exact path="/" component={Home} />
+                        <Route path="/county" component={County} />
+                        <Route path="/parties" component={PartyCandidates} />
+                        <Route path="/party" component={Party} />
+                        <Route path="/candidate/:name" component={Candidate} />
+                        <Route
+                            path="/regional/:county/:constituency"
+                            component={ConstituencyCandidates}
+                        />
+                        <Route
+                            path="/regional/:county"
+                            component={ConstituencyPage}
+                        />
+                    </Switch>
+                </Box>
+            </Container>
         </>
     );
 };

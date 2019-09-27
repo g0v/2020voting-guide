@@ -19,7 +19,7 @@ const IssueBillTab = ({ bills = [] }: IssueBillTab) => {
                 {issues
                     .map(issue => ({
                         issue: issue,
-                        bills: bills.filter(i => issue == i.category)
+                        bills: bills.filter(i => issue === i.category)
                     }))
                     .map(issue => (
                         <IssueBill issue={issue.issue} bills={issue.bills} />
