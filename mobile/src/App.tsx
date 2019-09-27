@@ -19,7 +19,6 @@ interface State {
 const useStyles = makeStyles({
     container: {
         padding: 0,
-        margin: 0
     }
 });
 
