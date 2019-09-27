@@ -11,7 +11,7 @@ type PartyCard struct {
 type CandidateCard struct {
 	ID           string `json:"id"`
 	Name         string `json:"name"`
-	PicURL       string `json:"picUrl"`
+	PicURL       string `gorm:"column:picUrl" json:"picUrl"`
 	Party        string `json:"party"`
 	Experience   string `json:"experience"`
 	Constituency string `json:"constituency"`

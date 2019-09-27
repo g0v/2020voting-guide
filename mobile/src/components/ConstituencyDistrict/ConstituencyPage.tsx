@@ -51,8 +51,9 @@ const ConstituencyCard: React.FunctionComponent<Constituency> = ({
 const ConstituencyPage: React.FunctionComponent<County> = ({ match }) => {
     const { county } = match.params;
     const constituencyNames = Object.keys(constituencyArea).filter(
-        constituency => constituency.startsWith(county)
+        constituency => constituency.includes(county)
     );
+    console.log(constituencyNames)
     return (
         <>
             <Navigation
