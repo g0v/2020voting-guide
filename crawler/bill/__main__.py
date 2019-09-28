@@ -6,7 +6,7 @@ from legislative_yuan_open_data import scrap_info_pages, store_pages_info
 
 ID = "bill_info"
 FILE_DIR = path.dirname(path.abspath(__file__))
-OUTPUT_RAW_DIR = environ.get("OUTPUT_RAW_DIR", f"{FILE_DIR}/../../data/raw")
+OUTPUT_RAW_DIR = environ.get("OUTPUT_RAW_DIR", f"{FILE_DIR}/../../data/raw/bill")
 
 if __name__ == "__main__":
     pages_info = scrap_info_pages(ID, payload_base={"id": 20, "selectTerm": "all"}, page_count=20)

@@ -97,3 +97,19 @@ class Bill2(BaseModel):
     cosignatory = TextField()
     status = CharField()
     category = CharField(null=True)
+
+
+class BillDescription(BaseModel):
+    bill = CharField()
+    billNo = CharField()
+    selectTerm = CharField()
+    term = CharField()
+    sessionPeriod = CharField()
+    sessionTimes = CharField()
+    docNo = CharField()
+    lawCompareTitle = CharField()
+    description = TextField(null=True)
+    activeLaw = TextField(null=True)
+    reviseLaw = TextField(null=True)
+    docUrl = TextField()
+    meetingTimes = CharField()
