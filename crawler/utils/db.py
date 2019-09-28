@@ -78,14 +78,22 @@ class Party(BaseModel):
 
 
 class Bill(BaseModel):
-    billNo = CharField()
     name = CharField()
-    proposer = TextField(null=True)
-    cosignatory = TextField(null=True)
-    pdf = CharField(null=True)
+    category = CharField(null=True)
+    selectTerm = CharField()
     term = CharField()
     sessionPeriod = CharField()
-    status = CharField()
+    sessionTimes = CharField()
+    billNo = CharField()
+    billOrg = CharField()
+    billProposer = TextField(null=True)
+    billCosignatory = TextField(null=True)
+    pdf = CharField(null=True)
+    billStatus = CharField()
+    docUrl = CharField(null=True)
+    pdfUrl = CharField(null=True)
+    meetingTimes = CharField(null=True)
+    billName = CharField()
 
 
 class Bill2(BaseModel):

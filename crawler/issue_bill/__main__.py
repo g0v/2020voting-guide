@@ -3,7 +3,7 @@ from os import path
 
 import pandas as pd
 
-from db import Bill2
+from db import Bill
 
 FILE_DIR = path.dirname(path.abspath(__file__))
 EXCEL = f"{FILE_DIR}/issueBill.xlsx"
@@ -18,6 +18,6 @@ if __name__ == "__main__":
         ]
         print(formated_bills)
         for bill in formated_bills:
-            Bill2.update(category=bill["category"]).where(
-                Bill2.term == bill["term"], Bill2.sessionPeriod == bill["sessionPeriod"], Bill2.name == bill["name"]
+            Bill.update(category=bill["category"]).where(
+                Bill.term == bill["term"], Bill.sessionPeriod == bill["sessionPeriod"], Bill.bill == bill["name"]
             ).execute()

@@ -1,27 +1,28 @@
 import json
 from os import environ, path
-
+import re
 from db import Bill
-from legislative_yuan_open_data import scrap_info_pages, store_pages_info
+from legislative_yuan_open_data import scrap_info_pages, store_pages_info, read_pages_info
 
 ID = "bill_info"
 FILE_DIR = path.dirname(path.abspath(__file__))
 OUTPUT_RAW_DIR = environ.get("OUTPUT_RAW_DIR", f"{FILE_DIR}/../../data/raw/bill")
 
-if __name__ == "__main__":
+
+def extract():
     pages_info = scrap_info_pages(ID, payload_base={"id": 20, "selectTerm": "all"}, page_count=20)
     store_pages_info(pages_info, ID, OUTPUT_RAW_DIR)
+
+
+def transform_load():
+    pages_info = read_pages_info(ID, OUTPUT_RAW_DIR)
     data = [
         {
-            "name": bill["billName"],
-            "pdf": bill["pdfUrl"],
-            "proposer": f'{bill["billOrg"]};'
-            + (bill["billProposer"].replace("　　", ";") if bill["billProposer"] else ""),
-            "cosignatory": bill["billCosignatory"].replace("　　", ";") if bill["billCosignatory"] else None,
-            "billNo": bill["billNo"],
-            "term": bill["term"],
-            "sessionPeriod": bill["sessionPeriod"],
-            "status": bill["billStatus"],
+            "name": ("廢止" if bill["billName"].startswith("廢止") else "")
+            + re.findall(r"「[\w\W]+」", bill["billName"])[0].replace("「", "").replace("」", ""),
+            "billProposer": re.sub(r"　{2,}", "；", bill["billProposer"]) if bill["billProposer"] else None,
+            "billCosignatory": re.sub(r"　{2,}", "；", bill["billCosignatory"]) if bill["billCosignatory"] else None,
+            **bill,
         }
         for page in pages_info
         for bill in json.loads(page)["jsonList"]
@@ -29,3 +30,9 @@ if __name__ == "__main__":
     Bill.drop_table()
     Bill.create_table()
     Bill.insert_many(data).execute()
+    print("Finish loading")
+
+
+if __name__ == "__main__":
+    extract()
+    transform_load()

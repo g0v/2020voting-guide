@@ -1,7 +1,7 @@
 from sys import exit
 from typing import Any, Dict, List
 from util import store_json
-
+from glob import glob
 import requests
 
 URL = "http://data.ly.gov.tw/odw/openDatasetJson.action"
@@ -33,3 +33,11 @@ def store_pages_info(pages_info: List[str], id: str, output_dir: str, start_page
     for page_num, page_info in enumerate(pages_info, start_page):
         store_json(page_info, f"{output_dir}/{id}_page{page_num}.json")
         print(f"[INFO] Storing page{page_num}")
+
+
+def read_pages_info(id: str, input_dir: str):
+    def read_file(file_name):
+        with open(file_name) as fp:
+            return fp.read()
+
+    return [read_file(file_name) for file_name in glob(f"{input_dir}/*") if id in file_name]
