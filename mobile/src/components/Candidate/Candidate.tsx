@@ -6,7 +6,7 @@ import BasicInfoTab from './BasicInfoTab';
 import IssueBillTab from './IssueBillTab';
 import Nav from './Nav';
 import PassPerformance from './PassPerformanceTab';
-
+import CommingSoon from '../CommingSoon'
 interface Bill {
     bill: string;
     description: string;
@@ -48,7 +48,7 @@ interface CandidatePage {
 
 const CandidatePage = ({ match }: CandidatePage) => {
     const { name } = match.params;
-    const [tab, setTab] = React.useState(1);
+    const [tab, setTab] = React.useState(0);
     const switchTab = (_: any, newValue: number) => {
         setTab(newValue);
     };
@@ -77,9 +77,12 @@ const CandidatePage = ({ match }: CandidatePage) => {
             {tab === 0 ? (
                 <IssueBillTab {...candidate} />
             ) : tab === 1 ? (
-                <PassPerformance {...api} />
+                <CommingSoon />
+
+                // <PassPerformance {...api} />
             ) : (
-                <BasicInfoTab {...api} />
+                <CommingSoon />
+                // <BasicInfoTab {...api} />
             )}
         </>
     );

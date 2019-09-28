@@ -4,6 +4,7 @@ import Typography from '@material-ui/core/Typography';
 import KeyboardArrowLeft from '@material-ui/icons/KeyboardArrowLeft';
 import { makeStyles } from '@material-ui/styles';
 import React from 'react';
+import county_constituency from '../../data/county_constituency.json'
 
 const useStyles = makeStyles({
     photo: {
@@ -24,7 +25,6 @@ interface Nav {
 
 const Nav = ({
     name = '',
-    county = '',
     constituency = '',
     photo = '',
     age = 0,
@@ -32,6 +32,8 @@ const Nav = ({
 }: Nav) => {
     const classes = useStyles();
     const ageDisplay = age === 0 ? '未知年齡' : `${age} 歲`;
+    const county_list = county_constituency.filter(county => county.area.includes(constituency))
+    const county = county_list.length ? county_list[0].name : ""
     return (
         <>
             <Box m={1}>

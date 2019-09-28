@@ -7,9 +7,7 @@ import React from 'react';
 
 const Navigation = () => (
 <Box
-    py={30}
-    px={2}
-    height={65}
+    py="45%"
     textAlign="center"
 >
     <Typography variant="h1" color="primary">Comming Soon...</Typography>

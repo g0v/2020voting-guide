@@ -13,7 +13,7 @@ interface Route {
 }
 
 const CountyCandidates = ({ match }: Route) => {
-    const { county, constituency } = match.params;
+    const { constituency } = match.params;
     const [candidates, setCandidates] = useState<CandidateProps[]>([]);
     useEffect(() => {
         fetch(`/api/constituency/${constituency}`)
@@ -31,8 +31,6 @@ const CountyCandidates = ({ match }: Route) => {
                         picUrl={candidate.picUrl}
                         party={candidate.party}
                         experience={candidate.experience}
-                        county={county}
-                        constituency={constituency}
                     />
                 ))}
             </List>

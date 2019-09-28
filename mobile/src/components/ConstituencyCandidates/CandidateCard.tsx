@@ -30,16 +30,12 @@ export interface CandidateProps {
     picUrl: string;
     party: Party;
     experience: string;
-    county: string;
-    constituency: string;
 }
 
 export const CandidateCard: React.FunctionComponent<CandidateProps> = ({
     name,
     party,
-    county,
     picUrl,
-    constituency,
     experience
 }) => {
     const classes = useStyles();
