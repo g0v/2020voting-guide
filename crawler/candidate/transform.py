@@ -1,26 +1,26 @@
 import json
-
+from itertools import zip_longest
 
 def parse_constituency(constituency_data):
     kmt_candidates = [
-        {"party": "國民黨", "name": name, "wiki": "https://zh.wikipedia.org" + wiki_link}
-        for name, wiki_link in zip(constituency_data["kmt"]["name"], constituency_data["kmt"]["wiki_link"])
+        {"party": "國民黨", "name": name, "wiki": ("https://zh.wikipedia.org" + wiki_link) if wiki_link else None}
+        for name, wiki_link in zip_longest(constituency_data["kmt"]["name"], constituency_data["kmt"]["wiki_link"])
     ]
     dpp_candidates = [
-        {"party": "民進黨", "name": name, "wiki": "https://zh.wikipedia.org" + wiki_link}
-        for name, wiki_link in zip(constituency_data["dpp"]["name"], constituency_data["dpp"]["wiki_link"])
+        {"party": "民進黨", "name": name, "wiki": ("https://zh.wikipedia.org" + wiki_link) if wiki_link else None}
+        for name, wiki_link in zip_longest(constituency_data["dpp"]["name"], constituency_data["dpp"]["wiki_link"])
     ]
     other_party_candidates = [
-        {"party": party, "name": name, "wiki": "https://zh.wikipedia.org" + wiki_link}
-        for party, name, wiki_link in zip(
+        {"party": party, "name": name, "wiki": ("https://zh.wikipedia.org" + wiki_link) if wiki_link else None}
+        for party, name, wiki_link in zip_longest(
             constituency_data["other_party"]["party"],
             constituency_data["other_party"]["name"],
             constituency_data["other_party"]["wiki_link"],
         )
     ]
     no_party_candidates = [
-        {"party": "無黨籍", "name": name, "wiki": "https://zh.wikipedia.org" + wiki_link}
-        for name, wiki_link in zip(constituency_data["no_party"]["name"], constituency_data["no_party"]["wiki_link"])
+        {"party": "無黨籍", "name": name, "wiki": ("https://zh.wikipedia.org" + wiki_link) if wiki_link else None}
+        for name, wiki_link in zip_longest(constituency_data["no_party"]["name"], constituency_data["no_party"]["wiki_link"])
     ]
     return {
         "constituency": constituency_data["constituency"],

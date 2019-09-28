@@ -40,7 +40,7 @@ class VotingAreaMappingSpider(scrapy.Spider):
             return [
                 unquote(link)
                 for link in links
-                if link not in ["/wiki/File:Yes_check.svg", "/wiki/File:Blue_check.svg", "/wiki/File:Black_check.svg"]
+                if link not in ["/wiki/File:Yes_check.svg", "/wiki/File:Blue_check.svg", "/wiki/File:Black_check.svg"] and not link.endswith(".png")
                 and not link.endswith("redlink=1")
             ]
 

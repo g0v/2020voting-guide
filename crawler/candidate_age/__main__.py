@@ -15,7 +15,7 @@ def remove_output():
 
 
 def get_page_list():
-    return [row.wiki.split("/")[-1] for row in Candidate.select()]
+    return [row.wiki.split("/")[-1] for row in Candidate.select() if row.wiki]
 
 
 def crawl():
