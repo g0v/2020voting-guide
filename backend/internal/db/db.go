@@ -24,7 +24,7 @@ func Setup() {
 	)
 	MySQL, err = gorm.Open("mysql", c)
 	MySQL.SingularTable(true)
-	// MySQL.LogMode(true)
+	MySQL.LogMode(true)
 
 	if err != nil {
 		m := fmt.Sprintf("%s@tcp(%s:3306)/%s",
@@ -37,17 +37,14 @@ func Setup() {
 	}
 }
 
-// Bill2 is the ORM of bill2 table for gorm usage
-type Bill2 struct {
-	ID            string
-	Name          string
-	Date          string
-	Term          string
-	SessionPeriod string
-	Proposer      string
-	Cosignatory   string
-	Status        string
-	Category      string
+// Bill is the ORM of bill2 table for gorm usage
+type Bill struct {
+	BillNo       string `gorm:"column:billNo"`
+	Name         string
+	Date         string
+	Category     string
+	BillProposer string `gorm:"column:billProposer"`
+	BillStatus   string `gorm:"column:billStatus"`
 }
 
 // Candidate is the ORM of candidate table for gorm usage

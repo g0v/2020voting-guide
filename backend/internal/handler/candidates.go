@@ -1,8 +1,8 @@
 package handler
 
 import (
+	"fmt"
 	"net/http"
-
 	"github.com/g0v/2020voting-guide/backend/internal/db"
 	"github.com/g0v/2020voting-guide/backend/internal/models"
 
@@ -10,11 +10,13 @@ import (
 )
 
 type Bill struct {
-	Bill        string `json:"bill"`
-	Description string `json:"description"`
-	Date        string `json:"date"`
-	Proposer    string `json:"proposer"`
-	Category    string `json:"category"`
+	Bill         string `json:"bill"`
+	ProposerType string `json:"proposerType"`
+	Description  string `json:"description"`
+	Date         string `json:"date"`
+	Proposer     string `json:"proposer"`
+	Category     string `json:"category"`
+	Status       string `json:"status"`
 }
 
 type Candidate struct {
@@ -39,6 +41,17 @@ type Candidate struct {
 	PoliticalContribution  string `json:"politicalContribution"`
 	OtherCandidate         string `json:"otherCandidate"`
 	Bills                  []Bill `json:"bills"`
+}
+
+func getCaucusName(party string) string {
+	caucus := map[string]string{
+		"親民黨":      "親民黨黨團",
+		"中國國民黨":    "國民黨黨團",
+		"民主進步黨":    "民進黨黨團",
+		"時代力量":     "時代力量黨團",
+		"台灣團結聯盟黨團": "台灣團結聯盟黨團黨團",
+	}
+	return caucus[party]
 }
 
 // @Summary List candidates by constituency
@@ -71,14 +84,6 @@ func GetCandidateByNameHandler(c *gin.Context) {
 
 	candidate.Name = name
 
-	var billsDb []db.Bill2
-	s := "%" + name + "%"
-	db.MySQL.Where("proposer LIKE ?", s).Find(&billsDb)
-	candidate.Bills = []Bill{}
-	for _, bill := range billsDb {
-		candidate.Bills = append(candidate.Bills, Bill{bill.Name, "", bill.Date, bill.Proposer, bill.Category})
-	}
-
 	var candidateDb db.Candidate
 	db.MySQL.Where("name = ?", name).First(&candidateDb)
 	candidate.Age = candidateDb.Age
@@ -86,7 +91,16 @@ func GetCandidateByNameHandler(c *gin.Context) {
 	candidate.Photo = candidateDb.PicURL
 	candidate.Constituency = candidateDb.Constituency
 	candidate.LastTerm = candidateDb.LastTerm
-	// candidate.County = candidateDb.Constituency[0:3]
+
+	var billsDb []db.Bill
+	s := "%" + name + "%"
+	db.MySQL.Where("billProposer LIKE ?", s).Find(&billsDb)
+	fmt.Println(billsDb)
+	candidate.Bills = []Bill{}
+	for _, bill := range billsDb {
+		date := bill.BillNo[0:3] + "-" + bill.BillNo[3:5] + "-" + bill.BillNo[5:7]
+		candidate.Bills = append(candidate.Bills, Bill{bill.Name, "legislator", "", date, bill.BillProposer, bill.Category, bill.BillStatus})
+	}
 
 	c.JSON(http.StatusOK, candidate)
 }

@@ -18,11 +18,11 @@ def transform_load():
     pages_info = read_pages_info(ID, OUTPUT_RAW_DIR)
     data = [
         {
+            **bill,
             "name": ("廢止" if bill["billName"].startswith("廢止") else "")
             + re.findall(r"「[\w\W]+」", bill["billName"])[0].replace("「", "").replace("」", ""),
             "billProposer": re.sub(r"　{2,}", "；", bill["billProposer"]) if bill["billProposer"] else None,
             "billCosignatory": re.sub(r"　{2,}", "；", bill["billCosignatory"]) if bill["billCosignatory"] else None,
-            **bill,
         }
         for page in pages_info
         for bill in json.loads(page)["jsonList"]
@@ -34,5 +34,5 @@ def transform_load():
 
 
 if __name__ == "__main__":
-    extract()
+    # extract()
     transform_load()

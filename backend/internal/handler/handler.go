@@ -22,7 +22,7 @@ func VersionHandler(c *gin.Context) {
 // @Param name path string ture "Name"
 // @Success 200 {string} string "record"
 // @Router /api/candidate/{name}/record [get]
-func GetCandidateRecordByIdHandler(c *gin.Context) {
+func GetCandidateRecordByIDHandler(c *gin.Context) {
 
 	name := c.Param("name")
 	fmt.Println(name)

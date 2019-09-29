@@ -1,11 +1,11 @@
 import Tab from '@material-ui/core/Tab';
 import Tabs from '@material-ui/core/Tabs';
 import React from 'react';
-import api from './api.json';
-import BasicInfoTab from './BasicInfoTab';
-import IssueBillTab from './IssueBillTab';
+// import api from './api.json';
 import Nav from './Nav';
-import PassPerformance from './PassPerformanceTab';
+import IssueBillTab from './IssueBillTab';
+// import BasicInfoTab from './BasicInfoTab';
+// import PassPerformance from './PassPerformanceTab';
 import CommingSoon from '../CommingSoon'
 interface Bill {
     bill: string;
@@ -58,7 +58,7 @@ const CandidatePage = ({ match }: CandidatePage) => {
         fetch(`/api/candidate/${name}`)
             .then(res => res.json())
             .then(setCandidate);
-    }, []);
+    }, [name]);
 
     return (
         <>

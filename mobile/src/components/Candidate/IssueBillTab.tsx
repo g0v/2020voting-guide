@@ -8,7 +8,6 @@ interface IssueBillTab {
 
 const IssueBillTab = ({ bills = [] }: IssueBillTab) => {
     const issues = [...new Set(bills.filter(b => b.category).map(b => b.category))];
-
     return (
         <>
             <Bulletin
@@ -22,7 +21,7 @@ const IssueBillTab = ({ bills = [] }: IssueBillTab) => {
                         bills: bills.filter(i => issue === i.category)
                     }))
                     .map(issue => (
-                        <IssueBill issue={issue.issue} bills={issue.bills} />
+                        <IssueBill issue={issue.issue} bills={issue.bills} key={issue.issue}/>
                     ))}
             </div>
         </>

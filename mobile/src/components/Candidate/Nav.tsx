@@ -42,10 +42,10 @@ const Nav = ({
                         <KeyboardArrowLeft fontSize="large" />
                     </Link>
                     <Box>
-                        <Typography variant="h3" display="inline">
+                        <Typography variant="h3" display="inline" color="textPrimary">
                             {`${name} `}
                         </Typography>
-                        <Typography variant="h5" display="inline">
+                        <Typography variant="h5" display="inline" color="textSecondary">
                             {constituency}
                         </Typography>
                     </Box>
@@ -64,12 +64,13 @@ const Nav = ({
                         <Grid item>
                             <Grid container direction="column">
                                 <Grid item>
-                                    <Typography variant="h5">
+                                    <Typography variant="h5" color="textSecondary">
                                         {party}
                                     </Typography>
                                 </Grid>
+                                <Box height={8} />
                                 <Grid item>
-                                    <Typography variant="h5">
+                                    <Typography variant="h5" color="textSecondary">
                                         {ageDisplay}
                                     </Typography>
                                 </Grid>

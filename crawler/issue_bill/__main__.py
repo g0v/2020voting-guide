@@ -19,5 +19,5 @@ if __name__ == "__main__":
         print(formated_bills)
         for bill in formated_bills:
             Bill.update(category=bill["category"]).where(
-                Bill.term == bill["term"], Bill.sessionPeriod == bill["sessionPeriod"], Bill.bill == bill["name"]
+                Bill.term == bill["term"], Bill.sessionPeriod == bill["sessionPeriod"], Bill.name == bill["name"]
             ).execute()

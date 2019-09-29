@@ -19,7 +19,7 @@ const CountyCandidates = ({ match }: Route) => {
         fetch(`/api/constituency/${constituency}`)
             .then(res => res.json())
             .then(setCandidates);
-    }, []);
+    }, [constituency]);
     return (
         <>
             <Navigation title="區域立委候選人" description={constituency} />
