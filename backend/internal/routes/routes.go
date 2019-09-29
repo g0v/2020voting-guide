@@ -10,6 +10,7 @@ import (
 	"github.com/swaggo/gin-swagger/swaggerFiles"
 )
 
+// SetupRouter is root router
 func SetupRouter() *gin.Engine {
 	router := gin.Default()
 
@@ -27,6 +28,7 @@ func SetupRouter() *gin.Engine {
 	api.GET("/constituency/:constituency", handler.ListCandidatesByConstituencyHandler)
 	api.GET("/candidate/:name", handler.GetCandidateByNameHandler)
 	api.GET("/candidate/:name/record", handler.GetCandidateRecordByIDHandler)
+	api.GET("/bill/:id", handler.GetBillHandler)
 
 	return router
 }

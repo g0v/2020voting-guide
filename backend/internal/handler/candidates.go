@@ -3,14 +3,17 @@ package handler
 import (
 	"fmt"
 	"net/http"
+
 	"github.com/g0v/2020voting-guide/backend/internal/db"
 	"github.com/g0v/2020voting-guide/backend/internal/models"
 
 	"github.com/gin-gonic/gin"
 )
 
+// Bill api in candidate
 type Bill struct {
 	Bill         string `json:"bill"`
+	BillNo       string `json:"billNo"`
 	ProposerType string `json:"proposerType"`
 	Description  string `json:"description"`
 	Date         string `json:"date"`
@@ -19,6 +22,7 @@ type Bill struct {
 	Status       string `json:"status"`
 }
 
+// Candidate api for candidate
 type Candidate struct {
 	Name                   string `json:"name"`
 	Photo                  string `json:"photo"`
@@ -54,6 +58,7 @@ func getCaucusName(party string) string {
 	return caucus[party]
 }
 
+// ListCandidatesByConstituencyHandler provide constituency list
 // @Summary List candidates by constituency
 // @Description list candidates by constituency
 // @Accept json
@@ -70,6 +75,7 @@ func ListCandidatesByConstituencyHandler(c *gin.Context) {
 	c.JSON(http.StatusOK, candidates)
 }
 
+// GetCandidateByNameHandler return candidate info
 // @Summary get the candidate by name
 // @Description get the candidate by name
 // @Accept json
@@ -99,7 +105,7 @@ func GetCandidateByNameHandler(c *gin.Context) {
 	candidate.Bills = []Bill{}
 	for _, bill := range billsDb {
 		date := bill.BillNo[0:3] + "-" + bill.BillNo[3:5] + "-" + bill.BillNo[5:7]
-		candidate.Bills = append(candidate.Bills, Bill{bill.Name, "legislator", "", date, bill.BillProposer, bill.Category, bill.BillStatus})
+		candidate.Bills = append(candidate.Bills, Bill{bill.Name, bill.BillNo, "legislator", "", date, bill.BillProposer, bill.Category, bill.BillStatus})
 	}
 
 	c.JSON(http.StatusOK, candidate)

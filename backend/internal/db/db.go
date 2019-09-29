@@ -45,6 +45,29 @@ type Bill struct {
 	Category     string
 	BillProposer string `gorm:"column:billProposer"`
 	BillStatus   string `gorm:"column:billStatus"`
+	PdfURL       string `gorm:"column:pdfUrl"`
+}
+
+// BillDescription is some description for bill
+type BillDescription struct {
+	Bill            string
+	BillNo          string `gorm:"column:billNo"`
+	SelectTerm      string `gorm:"column:selectTerm"`
+	Term            string
+	SessionPeriod   string `gorm:"column:sessionPeriod"`
+	SessionTimes    string `gorm:"column:sessionTimes"`
+	DocNo           string `gorm:"column:docNo"`
+	LawCompareTitle string `gorm:"column:lawCompareTitle"`
+	Description     string
+	ActiveLaw       string `gorm:"column:activeLaw"`
+	ReviseLaw       string `gorm:"column:reviseLaw"`
+	DocURL          string `gorm:"column:docUrl"`
+	MeetingTimes    string `gorm:"column:meetingTimes"`
+}
+
+// TableName changes the name of table
+func (BillDescription) TableName() string {
+	return "billdescription"
 }
 
 // Candidate is the ORM of candidate table for gorm usage

@@ -7,6 +7,7 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
+// VersionHandler show swagger version
 // @Summary 2020 Voting Guide Service Version
 // @Success 200 {string} string "X.X.X"
 // @Failure 500 "fail"
@@ -15,6 +16,7 @@ func VersionHandler(c *gin.Context) {
 	c.String(http.StatusOK, "0.0.1")
 }
 
+// GetCandidateRecordByIDHandler is unused
 // @Summary get records of candidate by name
 // @Description get records of candidate by name
 // @Accept json
