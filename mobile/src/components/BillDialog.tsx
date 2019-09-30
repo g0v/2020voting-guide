@@ -3,7 +3,6 @@ import {
     Dialog,
     DialogTitle,
     DialogContent,
-    DialogContentText,
     Button,
     Typography,
     Box
@@ -13,12 +12,19 @@ const defaultInfo = {
     bill: {
         name: '',
         pdfUrl: '',
+        billOrg: '',
         billProposer: '',
         billCosignatory: ''
     }
 };
 
-const BillDialog = ({ id }: { id: string }) => {
+const BillDialog = ({
+    id,
+    proposerType
+}: {
+    id: string;
+    proposerType: string;
+}) => {
     const [billInfo, setBillInfo] = React.useState(defaultInfo);
     React.useEffect(() => {
         fetch(`/api/bill/${id}`)
@@ -30,9 +36,38 @@ const BillDialog = ({ id }: { id: string }) => {
     const handleOpen = () => {
         setOpen(true);
     };
-    const handleClose = (value: string) => {
+    const handleClose = () => {
         setOpen(false);
     };
+    const personalPropose = (
+        <>
+            <Typography variant="h3">主提案：</Typography>
+            <Box display="flex" flexDirection="row" flexWrap="wrap" py={1}>
+                {billInfo.bill.billProposer.split('；').map(name => (
+                    <Box flexShrink={0} px={1} key={name}>
+                        <Typography variant="h4">{name}</Typography>
+                    </Box>
+                ))}
+            </Box>
+            <Typography variant="h3">連署：</Typography>
+            <Box display="flex" flexDirection="row" flexWrap="wrap" py={1}>
+                {billInfo.bill.billCosignatory.split('；').map(name => (
+                    <Box flexShrink={0} px={1} key={name}>
+                        <Typography variant="h4">{name}</Typography>
+                    </Box>
+                ))}
+            </Box>
+        </>
+    );
+
+    const cosignatoryPropose = (
+        <>
+            <Typography variant="h4">提案黨團：</Typography>
+            <Box py={1} px={1}>
+                {billInfo.bill.billOrg}
+            </Box>
+        </>
+    );
 
     return (
         <>
@@ -42,38 +77,26 @@ const BillDialog = ({ id }: { id: string }) => {
             <Dialog open={open} onClose={handleClose}>
                 <DialogTitle>{billInfo.bill.name}</DialogTitle>
                 <DialogContent>
-                    <DialogContentText>
-                        <Typography variant="h4">主提案：</Typography>
-                        <Box
-                            display="flex"
-                            flexDirection="row"
-                            flexWrap="wrap"
-                            py={1}
+                    <Button
+                        variant="text"
+                        color="primary"
+                        target="_blank"
+                        href={billInfo.bill.pdfUrl}
+                    >
+                        提案全文
+                    </Button>
+                    {proposerType === '立委提案'
+                        ? personalPropose
+                        : cosignatoryPropose}
+                    <Box display="flex" justifyContent="flex-end">
+                        <Button
+                            variant="outlined"
+                            color="primary"
+                            onClick={handleClose}
                         >
-                            {billInfo.bill.billProposer
-                                .split('；')
-                                .map(name => (
-                                    <Box flexShrink={0} px={1}>
-                                        {name}
-                                    </Box>
-                                ))}
-                        </Box>
-                        <Typography variant="h4">連署：</Typography>
-                        <Box
-                            display="flex"
-                            flexDirection="row"
-                            flexWrap="wrap"
-                            py={1}
-                        >
-                            {billInfo.bill.billCosignatory
-                                .split('；')
-                                .map(name => (
-                                    <Box flexShrink={0} px={1}>
-                                        {name}
-                                    </Box>
-                                ))}
-                        </Box>
-                    </DialogContentText>
+                            關閉
+                        </Button>
+                    </Box>
                 </DialogContent>
             </Dialog>
         </>

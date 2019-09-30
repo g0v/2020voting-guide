@@ -11,6 +11,7 @@ type bill struct {
 	BillNo          string `json:"billNo"`
 	Name            string `json:"name"`
 	Category        string `json:"category"`
+	BillOrg         string `json:"billOrg"`
 	BillProposer    string `json:"billProposer"`
 	BillCosignatory string `json:"billCosignatory"`
 	BillStatus      string `json:"billStatus"`
@@ -42,6 +43,7 @@ func GetBillHandler(c *gin.Context) {
 		billDb.BillNo,
 		billDb.Name,
 		billDb.Category,
+		billDb.BillOrg,
 		billDb.BillProposer,
 		billDb.BillCosignatory,
 		billDb.BillStatus,

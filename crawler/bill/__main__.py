@@ -34,5 +34,5 @@ def transform_load():
 
 
 if __name__ == "__main__":
-    # extract()
+    extract()
     transform_load()

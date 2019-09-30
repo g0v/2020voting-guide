@@ -43,6 +43,7 @@ type Bill struct {
 	Name            string
 	Date            string
 	Category        string
+	BillOrg         string `gorm:"column:billOrg"`
 	BillProposer    string `gorm:"column:billProposer"`
 	BillCosignatory string `gorm:"column:billCosignatory"`
 	BillStatus      string `gorm:"column:billStatus"`

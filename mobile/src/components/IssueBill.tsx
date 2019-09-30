@@ -37,7 +37,10 @@ const IssueBill = ({ issue, bills }: IssueBillProps) => {
                                 {bill.date} {bill.proposerType}
                             </Typography>
                         </Box>
-                        <BillDialog id={bill.billNo} />
+                        <BillDialog
+                            id={bill.billNo}
+                            proposerType={bill.proposerType}
+                        />
                     </Box>
                 ))}
             </Box>
