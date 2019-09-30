@@ -19,7 +19,7 @@ interface State {
 
 const useStyles = makeStyles({
     container: {
-        padding: 0,
+        padding: 0
     }
 });
 
@@ -40,7 +40,6 @@ const App = () => {
             <Container maxWidth="sm" className={classes.container}>
                 <Nav open={open} handleDrawerOpen={handleDrawerOpen} />
                 <AppDrawer handleDrawerClose={handleDrawerClose} open={open} />
-
                 <Box>
                     <Switch>
                         <Route exact path="/" component={Home} />

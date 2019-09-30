@@ -1,13 +1,15 @@
 import { Box, Typography } from '@material-ui/core';
 import { useTheme } from '@material-ui/core/styles';
 import React from 'react';
-
+import BillDialog from './BillDialog';
 export interface Bill {
     bill: string;
     description: string;
     date: string;
     proposer: string;
+    proposerType: string;
     category: string;
+    billNo: string;
 }
 
 interface IssueBillProps {
@@ -17,12 +19,13 @@ interface IssueBillProps {
 
 const IssueBill = ({ issue, bills }: IssueBillProps) => {
     const theme = useTheme();
+
     return (
         <>
             <Box mx={1.5} py={3}>
                 <Typography variant="h2">{issue}</Typography>
                 {bills.map(bill => (
-                    <Box my={3} key={bill.bill}>
+                    <Box mt={3} key={bill.bill}>
                         <Typography variant="h3">{bill.bill}</Typography>
                         <Box my={1}>
                             <Typography variant="h5" color="textSecondary">
@@ -31,46 +34,12 @@ const IssueBill = ({ issue, bills }: IssueBillProps) => {
                         </Box>
                         <Box my={1}>
                             <Typography variant="h5" color="textSecondary">
-                                {bill.date} 提案
+                                {bill.date} {bill.proposerType}
                             </Typography>
                         </Box>
+                        <BillDialog id={bill.billNo} />
                     </Box>
                 ))}
-                {/* {content.map(({ proposer, content }) => (
-                    <Box key={proposer}>
-                        <Box
-                            my={1.5}
-                            borderColor="primary.main"
-                            borderLeft={8}
-                            pl={0.5}
-                        >
-                            <Typography variant="h4">{proposer}</Typography>
-                        </Box>
-                        {content.map(bill => (
-                            <Box my={3} key={bill.bill}>
-                                <Typography variant="h3">
-                                    {bill.bill}
-                                </Typography>
-                                <Box my={1}>
-                                    <Typography
-                                        variant="h5"
-                                        color="textSecondary"
-                                    >
-                                        {bill.description}
-                                    </Typography>
-                                </Box>
-                                <Box my={1}>
-                                    <Typography
-                                        variant="h5"
-                                        color="textSecondary"
-                                    >
-                                        {bill.date} 提案
-                                    </Typography>
-                                </Box>
-                            </Box>
-                        ))}
-                    </Box>
-                ))} */}
             </Box>
             <Box p={1} bgcolor={theme.palette.background.default} />
         </>

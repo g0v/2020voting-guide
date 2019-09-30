@@ -8,12 +8,13 @@ import (
 )
 
 type bill struct {
-	BillNo       string `json:"billNo"`
-	Name         string `json:"name"`
-	Category     string `json:"category"`
-	BillProposer string `json:"billProposer"`
-	BillStatus   string `json:"billStatus"`
-	PdfURL       string `json:"pdfUrl"`
+	BillNo          string `json:"billNo"`
+	Name            string `json:"name"`
+	Category        string `json:"category"`
+	BillProposer    string `json:"billProposer"`
+	BillCosignatory string `json:"billCosignatory"`
+	BillStatus      string `json:"billStatus"`
+	PdfURL          string `json:"pdfUrl"`
 }
 
 type description struct {
@@ -42,6 +43,7 @@ func GetBillHandler(c *gin.Context) {
 		billDb.Name,
 		billDb.Category,
 		billDb.BillProposer,
+		billDb.BillCosignatory,
 		billDb.BillStatus,
 		billDb.PdfURL}
 

@@ -6,13 +6,15 @@ import Nav from './Nav';
 import IssueBillTab from './IssueBillTab';
 // import BasicInfoTab from './BasicInfoTab';
 // import PassPerformance from './PassPerformanceTab';
-import CommingSoon from '../CommingSoon'
+import CommingSoon from '../CommingSoon';
 interface Bill {
     bill: string;
     description: string;
     date: string;
     proposer: string;
+    proposerType: string;
     category: string;
+    billNo: string;
 }
 
 interface Candidate {
@@ -77,12 +79,11 @@ const CandidatePage = ({ match }: CandidatePage) => {
             {tab === 0 ? (
                 <IssueBillTab {...candidate} />
             ) : tab === 1 ? (
-                <CommingSoon />
-
                 // <PassPerformance {...api} />
-            ) : (
                 <CommingSoon />
+            ) : (
                 // <BasicInfoTab {...api} />
+                <CommingSoon />
             )}
         </>
     );

@@ -98,14 +98,22 @@ func GetCandidateByNameHandler(c *gin.Context) {
 	candidate.Constituency = candidateDb.Constituency
 	candidate.LastTerm = candidateDb.LastTerm
 
-	var billsDb []db.Bill
-	s := "%" + name + "%"
-	db.MySQL.Where("billProposer LIKE ?", s).Find(&billsDb)
-	fmt.Println(billsDb)
+	var personalBillsDb []db.Bill
+	nameFilter := "%" + name + "%"
+	db.MySQL.Where("billProposer LIKE ?", nameFilter).Find(&personalBillsDb)
 	candidate.Bills = []Bill{}
-	for _, bill := range billsDb {
+	for _, bill := range personalBillsDb {
 		date := bill.BillNo[0:3] + "-" + bill.BillNo[3:5] + "-" + bill.BillNo[5:7]
-		candidate.Bills = append(candidate.Bills, Bill{bill.Name, bill.BillNo, "legislator", "", date, bill.BillProposer, bill.Category, bill.BillStatus})
+		candidate.Bills = append(candidate.Bills, Bill{bill.Name, bill.BillNo, "立委提案", "", date, bill.BillProposer, bill.Category, bill.BillStatus})
+	}
+
+	var orgBillsDb []db.Bill
+	caucusFilter := "%" + getCaucusName(candidate.Party) + "%"
+	db.MySQL.Where("billOrg LIKE ?", caucusFilter).Find(&orgBillsDb)
+	fmt.Println(caucusFilter)
+	for _, bill := range orgBillsDb {
+		date := bill.BillNo[0:3] + "-" + bill.BillNo[3:5] + "-" + bill.BillNo[5:7]
+		candidate.Bills = append(candidate.Bills, Bill{bill.Name, bill.BillNo, "黨團提案", "", date, bill.BillProposer, bill.Category, bill.BillStatus})
 	}
 
 	c.JSON(http.StatusOK, candidate)

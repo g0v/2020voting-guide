@@ -39,13 +39,14 @@ func Setup() {
 
 // Bill is the ORM of bill2 table for gorm usage
 type Bill struct {
-	BillNo       string `gorm:"column:billNo"`
-	Name         string
-	Date         string
-	Category     string
-	BillProposer string `gorm:"column:billProposer"`
-	BillStatus   string `gorm:"column:billStatus"`
-	PdfURL       string `gorm:"column:pdfUrl"`
+	BillNo          string `gorm:"column:billNo"`
+	Name            string
+	Date            string
+	Category        string
+	BillProposer    string `gorm:"column:billProposer"`
+	BillCosignatory string `gorm:"column:billCosignatory"`
+	BillStatus      string `gorm:"column:billStatus"`
+	PdfURL          string `gorm:"column:pdfUrl"`
 }
 
 // BillDescription is some description for bill

@@ -2,7 +2,7 @@ import { Box } from '@material-ui/core';
 import Tab from '@material-ui/core/Tab';
 import Tabs from '@material-ui/core/Tabs';
 import React from 'react';
-import api from './api.json';
+import api from '../../data/api/party_api.json';
 import BasicInfoTab from './BasicInfoTab';
 import IssueBillTab from './IssueBillTab';
 import Nav from './Nav';
