@@ -94,6 +94,7 @@ class Bill(BaseModel):
     pdfUrl = CharField(null=True)
     meetingTimes = CharField(null=True)
     billName = CharField()
+    caseOfAction = TextField()
 
 
 class Bill2(BaseModel):
