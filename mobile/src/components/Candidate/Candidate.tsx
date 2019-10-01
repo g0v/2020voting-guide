@@ -15,6 +15,7 @@ interface Bill {
     proposerType: string;
     category: string;
     billNo: string;
+    caseOfAction: string;
 }
 
 interface Candidate {

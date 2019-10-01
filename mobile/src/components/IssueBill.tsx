@@ -10,6 +10,7 @@ export interface Bill {
     proposerType: string;
     category: string;
     billNo: string;
+    caseOfAction: string;
 }
 
 interface IssueBillProps {
@@ -32,11 +33,14 @@ const IssueBill = ({ issue, bills }: IssueBillProps) => {
                                 {bill.description}
                             </Typography>
                         </Box>
-                        <Box my={1}>
+                        <Box my={1} height={41} overflow="hidden">
                             <Typography variant="h5" color="textSecondary">
-                                {bill.date} {bill.proposerType}
+                                {bill.caseOfAction}
                             </Typography>
                         </Box>
+                        <Typography variant="h5" color="textSecondary">
+                            {bill.date} {bill.proposerType}
+                        </Typography>
                         <BillDialog
                             id={bill.billNo}
                             proposerType={bill.proposerType}

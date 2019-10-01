@@ -7,6 +7,7 @@ import {
     Typography,
     Box
 } from '@material-ui/core';
+import { useTheme } from '@material-ui/core/styles';
 
 const defaultInfo = {
     bill: {
@@ -14,7 +15,8 @@ const defaultInfo = {
         pdfUrl: '',
         billOrg: '',
         billProposer: '',
-        billCosignatory: ''
+        billCosignatory: '',
+        caseOfAction: ''
     }
 };
 
@@ -25,6 +27,8 @@ const BillDialog = ({
     id: string;
     proposerType: string;
 }) => {
+    const theme = useTheme();
+
     const [billInfo, setBillInfo] = React.useState(defaultInfo);
     React.useEffect(() => {
         fetch(`/api/bill/${id}`)
@@ -39,21 +43,30 @@ const BillDialog = ({
     const handleClose = () => {
         setOpen(false);
     };
+
     const personalPropose = (
         <>
-            <Typography variant="h3">主提案：</Typography>
+            <Typography variant="h5" color="textSecondary">
+                主提案：
+            </Typography>
             <Box display="flex" flexDirection="row" flexWrap="wrap" py={1}>
                 {billInfo.bill.billProposer.split('；').map(name => (
                     <Box flexShrink={0} px={1} key={name}>
-                        <Typography variant="h4">{name}</Typography>
+                        <Typography variant="h5" color="textSecondary">
+                            {name}
+                        </Typography>
                     </Box>
                 ))}
             </Box>
-            <Typography variant="h3">連署：</Typography>
+            <Typography variant="h5" color="textSecondary">
+                連署：
+            </Typography>
             <Box display="flex" flexDirection="row" flexWrap="wrap" py={1}>
                 {billInfo.bill.billCosignatory.split('；').map(name => (
                     <Box flexShrink={0} px={1} key={name}>
-                        <Typography variant="h4">{name}</Typography>
+                        <Typography variant="h5" color="textSecondary">
+                            {name}
+                        </Typography>
                     </Box>
                 ))}
             </Box>
@@ -76,19 +89,32 @@ const BillDialog = ({
             </Button>
             <Dialog open={open} onClose={handleClose}>
                 <DialogTitle>{billInfo.bill.name}</DialogTitle>
+                <Box
+                    bgcolor={theme.palette.background.default}
+                    px={3}
+                    pb={1}
+                    pt={2}
+                    mb={1}
+                >
+                    <Typography variant="h5" color="textSecondary">
+                        {billInfo.bill.caseOfAction}
+                    </Typography>
+                    <Box pt={1}>
+                        <Button
+                            variant="text"
+                            color="primary"
+                            target="_blank"
+                            href={billInfo.bill.pdfUrl}
+                        >
+                            提案全文
+                        </Button>
+                    </Box>
+                </Box>
                 <DialogContent>
-                    <Button
-                        variant="text"
-                        color="primary"
-                        target="_blank"
-                        href={billInfo.bill.pdfUrl}
-                    >
-                        提案全文
-                    </Button>
                     {proposerType === '立委提案'
                         ? personalPropose
                         : cosignatoryPropose}
-                    <Box display="flex" justifyContent="flex-end">
+                    <Box display="flex" justifyContent="flex-end" mb={1} mx={1}>
                         <Button
                             variant="outlined"
                             color="primary"

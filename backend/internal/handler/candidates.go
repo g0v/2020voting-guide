@@ -20,6 +20,7 @@ type Bill struct {
 	Proposer     string `json:"proposer"`
 	Category     string `json:"category"`
 	Status       string `json:"status"`
+	CaseOfAction string `json:"caseOfAction"`
 }
 
 // Candidate api for candidate
@@ -104,7 +105,7 @@ func GetCandidateByNameHandler(c *gin.Context) {
 	candidate.Bills = []Bill{}
 	for _, bill := range personalBillsDb {
 		date := bill.BillNo[0:3] + "-" + bill.BillNo[3:5] + "-" + bill.BillNo[5:7]
-		candidate.Bills = append(candidate.Bills, Bill{bill.Name, bill.BillNo, "立委提案", "", date, bill.BillProposer, bill.Category, bill.BillStatus})
+		candidate.Bills = append(candidate.Bills, Bill{bill.Name, bill.BillNo, "立委提案", "", date, bill.BillProposer, bill.Category, bill.BillStatus, bill.CaseOfAction})
 	}
 
 	var orgBillsDb []db.Bill
@@ -113,7 +114,7 @@ func GetCandidateByNameHandler(c *gin.Context) {
 	fmt.Println(caucusFilter)
 	for _, bill := range orgBillsDb {
 		date := bill.BillNo[0:3] + "-" + bill.BillNo[3:5] + "-" + bill.BillNo[5:7]
-		candidate.Bills = append(candidate.Bills, Bill{bill.Name, bill.BillNo, "黨團提案", "", date, bill.BillProposer, bill.Category, bill.BillStatus})
+		candidate.Bills = append(candidate.Bills, Bill{bill.Name, bill.BillNo, "黨團提案", "", date, bill.BillProposer, bill.Category, bill.BillStatus, bill.CaseOfAction})
 	}
 
 	c.JSON(http.StatusOK, candidate)

@@ -24,7 +24,7 @@ func Setup() {
 	)
 	MySQL, err = gorm.Open("mysql", c)
 	MySQL.SingularTable(true)
-	MySQL.LogMode(true)
+	// MySQL.LogMode(true)
 
 	if err != nil {
 		m := fmt.Sprintf("%s@tcp(%s:3306)/%s",
@@ -48,6 +48,7 @@ type Bill struct {
 	BillCosignatory string `gorm:"column:billCosignatory"`
 	BillStatus      string `gorm:"column:billStatus"`
 	PdfURL          string `gorm:"column:pdfUrl"`
+	CaseOfAction    string `gorm:"column:caseOfAction"`
 }
 
 // BillDescription is some description for bill

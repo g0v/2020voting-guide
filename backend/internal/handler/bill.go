@@ -16,6 +16,7 @@ type bill struct {
 	BillCosignatory string `json:"billCosignatory"`
 	BillStatus      string `json:"billStatus"`
 	PdfURL          string `json:"pdfUrl"`
+	CaseOfAction    string `json:"caseOfAction"`
 }
 
 type description struct {
@@ -47,7 +48,9 @@ func GetBillHandler(c *gin.Context) {
 		billDb.BillProposer,
 		billDb.BillCosignatory,
 		billDb.BillStatus,
-		billDb.PdfURL}
+		billDb.PdfURL,
+		billDb.CaseOfAction,
+	}
 
 	var descriptionsDb []db.BillDescription
 	db.MySQL.Where("billNo = ?", id).Find(&descriptionsDb)
