@@ -27,3 +27,4 @@ COPY --from=builder-go /go/bin/backend .
 EXPOSE 9000
 
 CMD ["./backend"]
+
