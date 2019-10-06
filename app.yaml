@@ -1,0 +1,26 @@
+runtime: go112
+main: ./backend
+
+env_variables:
+  MYSQL_HOST:
+  MYSQL_USER:
+  MYSQL_PASSWORD:
+  MYSQL_DB:
+
+handlers:
+  - url: /api/.*
+    script: auto
+
+  - url: /img
+    static_dir: mobile/build/img
+
+  - url: /static
+    static_dir: mobile/build/static
+
+  - url: /(.*\.(json|ico))$
+    static_files: mobile/build/\1
+    upload: mobile/build/.*\.(json|ico)$
+
+  - url: .*
+    static_files: mobile/build/index.html
+    upload: mobile/build/index.html
