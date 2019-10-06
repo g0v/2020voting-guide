@@ -14,5 +14,5 @@ func main() {
 	db.Setup()
 	defer db.MySQL.Close()
 	r := routes.SetupRouter()
-	r.Run(":9000")
+	r.Run(":8080")
 }
