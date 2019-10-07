@@ -3,7 +3,7 @@ import { useTheme } from '@material-ui/core/styles';
 import React from 'react';
 import BillDialog from './BillDialog';
 export interface Bill {
-    bill: string;
+    name: string;
     description: string;
     date: string;
     proposer: string;
@@ -11,6 +11,10 @@ export interface Bill {
     category: string;
     billNo: string;
     caseOfAction: string;
+    billOrg: string;
+    billProposer: string;
+    billCosignatory: string;
+    pdfUrl: string;
 }
 
 interface IssueBillProps {
@@ -26,8 +30,8 @@ const IssueBill = ({ issue, bills }: IssueBillProps) => {
             <Box mx={1.5} py={3}>
                 <Typography variant="h2">{issue}</Typography>
                 {bills.map(bill => (
-                    <Box mt={3} key={bill.bill}>
-                        <Typography variant="h3">{bill.bill}</Typography>
+                    <Box mt={3} key={bill.name}>
+                        <Typography variant="h3">{bill.name}</Typography>
                         <Box my={1}>
                             <Typography variant="h5" color="textSecondary">
                                 {bill.description}
@@ -44,6 +48,7 @@ const IssueBill = ({ issue, bills }: IssueBillProps) => {
                         <BillDialog
                             id={bill.billNo}
                             proposerType={bill.proposerType}
+                            bill={bill}
                         />
                     </Box>
                 ))}

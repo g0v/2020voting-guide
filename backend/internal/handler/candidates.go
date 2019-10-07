@@ -10,19 +10,6 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-// Bill api in candidate
-type Bill struct {
-	Bill         string `json:"bill"`
-	BillNo       string `json:"billNo"`
-	ProposerType string `json:"proposerType"`
-	Description  string `json:"description"`
-	Date         string `json:"date"`
-	Proposer     string `json:"proposer"`
-	Category     string `json:"category"`
-	Status       string `json:"status"`
-	CaseOfAction string `json:"caseOfAction"`
-}
-
 // Candidate api for candidate
 type Candidate struct {
 	Name                   string `json:"name"`
@@ -46,17 +33,6 @@ type Candidate struct {
 	PoliticalContribution  string `json:"politicalContribution"`
 	OtherCandidate         string `json:"otherCandidate"`
 	Bills                  []Bill `json:"bills"`
-}
-
-func getCaucusName(party string) string {
-	caucus := map[string]string{
-		"親民黨":      "親民黨黨團",
-		"中國國民黨":    "國民黨黨團",
-		"民主進步黨":    "民進黨黨團",
-		"時代力量":     "時代力量黨團",
-		"台灣團結聯盟黨團": "台灣團結聯盟黨團黨團",
-	}
-	return caucus[party]
 }
 
 // ListCandidatesByConstituencyHandler provide constituency list
@@ -105,7 +81,20 @@ func GetCandidateByNameHandler(c *gin.Context) {
 	candidate.Bills = []Bill{}
 	for _, bill := range personalBillsDb {
 		date := bill.BillNo[0:3] + "-" + bill.BillNo[3:5] + "-" + bill.BillNo[5:7]
-		candidate.Bills = append(candidate.Bills, Bill{bill.Name, bill.BillNo, "立委提案", "", date, bill.BillProposer, bill.Category, bill.BillStatus, bill.CaseOfAction})
+		candidate.Bills = append(candidate.Bills, Bill{
+			bill.Name,
+			bill.BillNo,
+			"立委提案",
+			"",
+			date,
+			bill.Category,
+			bill.BillOrg,
+			bill.BillProposer,
+			bill.BillCosignatory,
+			bill.BillStatus,
+			bill.PdfURL,
+			bill.CaseOfAction,
+		})
 	}
 
 	var orgBillsDb []db.Bill
@@ -114,7 +103,20 @@ func GetCandidateByNameHandler(c *gin.Context) {
 	fmt.Println(caucusFilter)
 	for _, bill := range orgBillsDb {
 		date := bill.BillNo[0:3] + "-" + bill.BillNo[3:5] + "-" + bill.BillNo[5:7]
-		candidate.Bills = append(candidate.Bills, Bill{bill.Name, bill.BillNo, "黨團提案", "", date, bill.BillProposer, bill.Category, bill.BillStatus, bill.CaseOfAction})
+		candidate.Bills = append(candidate.Bills, Bill{
+			bill.Name,
+			bill.BillNo,
+			"黨團提案",
+			"",
+			date,
+			bill.Category,
+			bill.BillOrg,
+			bill.BillProposer,
+			bill.BillCosignatory,
+			bill.BillStatus,
+			bill.PdfURL,
+			bill.CaseOfAction,
+		})
 	}
 
 	c.JSON(http.StatusOK, candidate)

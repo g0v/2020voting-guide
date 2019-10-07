@@ -8,6 +8,7 @@ import {
     Box
 } from '@material-ui/core';
 import { useTheme } from '@material-ui/core/styles';
+import { Bill } from './IssueBill';
 
 const defaultInfo = {
     bill: {
@@ -22,19 +23,14 @@ const defaultInfo = {
 
 const BillDialog = ({
     id,
-    proposerType
+    proposerType,
+    bill
 }: {
     id: string;
     proposerType: string;
+    bill: Bill;
 }) => {
     const theme = useTheme();
-
-    const [billInfo, setBillInfo] = React.useState(defaultInfo);
-    React.useEffect(() => {
-        fetch(`/api/bill/${id}`)
-            .then(res => res.json())
-            .then(setBillInfo);
-    }, [id]);
 
     const [open, setOpen] = React.useState(false);
     const handleOpen = () => {
@@ -50,7 +46,7 @@ const BillDialog = ({
                 主提案：
             </Typography>
             <Box display="flex" flexDirection="row" flexWrap="wrap" py={1}>
-                {billInfo.bill.billProposer.split('；').map(name => (
+                {bill.billProposer.split('；').map(name => (
                     <Box flexShrink={0} px={1} key={name}>
                         <Typography variant="h5" color="textSecondary">
                             {name}
@@ -62,7 +58,7 @@ const BillDialog = ({
                 連署：
             </Typography>
             <Box display="flex" flexDirection="row" flexWrap="wrap" py={1}>
-                {billInfo.bill.billCosignatory.split('；').map(name => (
+                {bill.billCosignatory.split('；').map(name => (
                     <Box flexShrink={0} px={1} key={name}>
                         <Typography variant="h5" color="textSecondary">
                             {name}
@@ -77,7 +73,7 @@ const BillDialog = ({
         <>
             <Typography variant="h4">提案黨團：</Typography>
             <Box py={1} px={1}>
-                {billInfo.bill.billOrg}
+                {bill.billOrg}
             </Box>
         </>
     );
@@ -88,7 +84,7 @@ const BillDialog = ({
                 詳細資料
             </Button>
             <Dialog open={open} onClose={handleClose}>
-                <DialogTitle>{billInfo.bill.name}</DialogTitle>
+                <DialogTitle>{bill.name}</DialogTitle>
                 <Box
                     bgcolor={theme.palette.background.default}
                     px={3}
@@ -97,14 +93,14 @@ const BillDialog = ({
                     mb={1}
                 >
                     <Typography variant="h5" color="textSecondary">
-                        {billInfo.bill.caseOfAction}
+                        {bill.caseOfAction}
                     </Typography>
                     <Box pt={1}>
                         <Button
                             variant="text"
                             color="primary"
                             target="_blank"
-                            href={billInfo.bill.pdfUrl}
+                            href={bill.pdfUrl}
                         >
                             提案全文
                         </Button>

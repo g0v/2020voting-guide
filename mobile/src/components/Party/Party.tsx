@@ -18,12 +18,19 @@ interface Party {
         search: string;
     };
 }
+interface CandidatePage {
+    match: {
+        params: {
+            name: string;
+        };
+    };
+}
 
 const Party = ({ match, location }: Party) => {
+    const { name } = match.params;
     const [value, setValue] = React.useState(0);
 
     const handleChange = (event: React.ChangeEvent<{}>, newValue: number) => {
-        console.log(newValue);
         setValue(newValue);
     };
 

@@ -40,7 +40,7 @@ const PartyCard = ({
     const classes = useStyles();
     return (
         <>
-            <ListItem button component="a" href={`/comming_soon`}>
+            <ListItem button component="a" href={`/party/${name}`}>
                 <ListItemText
                     primary={
                         <Grid container>

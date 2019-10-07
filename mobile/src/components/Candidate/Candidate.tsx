@@ -1,22 +1,12 @@
 import Tab from '@material-ui/core/Tab';
 import Tabs from '@material-ui/core/Tabs';
 import React from 'react';
-// import api from './api.json';
 import Nav from './Nav';
 import IssueBillTab from './IssueBillTab';
 // import BasicInfoTab from './BasicInfoTab';
 // import PassPerformance from './PassPerformanceTab';
 import CommingSoon from '../CommingSoon';
-interface Bill {
-    bill: string;
-    description: string;
-    date: string;
-    proposer: string;
-    proposerType: string;
-    category: string;
-    billNo: string;
-    caseOfAction: string;
-}
+import { Bill } from '../IssueBill';
 
 interface Candidate {
     name: string;

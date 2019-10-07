@@ -7,9 +7,13 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-type bill struct {
-	BillNo          string `json:"billNo"`
+// Bill api in candidate
+type Bill struct {
 	Name            string `json:"name"`
+	BillNo          string `json:"billNo"`
+	ProposerType    string `json:"proposerType"`
+	Description     string `json:"description"`
+	Date            string `json:"date"`
 	Category        string `json:"category"`
 	BillOrg         string `json:"billOrg"`
 	BillProposer    string `json:"billProposer"`
@@ -27,7 +31,7 @@ type description struct {
 }
 
 type billAPI struct {
-	Bill         bill          `json:"bill"`
+	Bill         Bill          `json:"bill"`
 	Descriptions []description `json:"descriptions"`
 }
 
@@ -40,9 +44,12 @@ func GetBillHandler(c *gin.Context) {
 
 	var billDb db.Bill
 	db.MySQL.Where("billNo = ?", id).First(&billDb)
-	api.Bill = bill{
-		billDb.BillNo,
+	api.Bill = Bill{
 		billDb.Name,
+		billDb.BillNo,
+		"",
+		"",
+		"",
 		billDb.Category,
 		billDb.BillOrg,
 		billDb.BillProposer,

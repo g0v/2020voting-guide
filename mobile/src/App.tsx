@@ -45,7 +45,7 @@ const App = () => {
                         <Route exact path="/" component={Home} />
                         <Route path="/county" component={County} />
                         <Route path="/parties" component={PartyCandidates} />
-                        <Route path="/party" component={Party} />
+                        <Route path="/party/:party" component={Party} />
                         <Route path="/comming_soon" component={CommingSoon} />
                         <Route path="/candidate/:name" component={Candidate} />
                         <Route
