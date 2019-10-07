@@ -12,7 +12,8 @@ interface VideoCard {
 const useStyles = makeStyles({
     mainButton: {
         height: 142,
-        width: 175
+        width: '48%',
+        maxWidth: 175
     }
 });
 
@@ -57,7 +58,7 @@ const Home = () => {
                 <Box
                     mt={2}
                     mb={6}
-                    mx={2}
+                    mx={1}
                     display="flex"
                     justifyContent="space-evenly"
                 >
