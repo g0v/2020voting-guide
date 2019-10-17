@@ -1,27 +1,4 @@
 # 2020voting-guide
 
-## Dataflow
-
-> crawler -> data/raw
-> -> preprocessing -> data/clean_data
-> -> preprocessing -> data/organized
-> -> backend
-> -> frontend
-
-## Guide
-
-抓取所有所需資料：
-
-```shell
-./crawler/crawl_all.sh
-```
-
-資料處理：
-
-```shell
-./preprocessing/preprocess_all.sh
-```
-
-## References
-
-> [立委投票指南](https://github.com/g0v/twly-voter-guide)
+(Beta Website)[https://voting-guide.appspot.com/]
+(Design Figma)[https://www.figma.com/file/K1nPlmHij67rcZVqse0tWjs4/%E6%8A%95%E7%A5%A8%E6%8C%87%E6%8C%87%E5%8D%97?node-id=1053%3A16729]
