@@ -19,7 +19,8 @@
       "徐榛蔚",
       "曾永權",
       "王育敏"
-    ]
+    ],
+    "symbolicColor": "#000099"
   },
   {
     "name": "民主進步黨",
@@ -47,7 +48,8 @@
       "林靜儀",
       "徐國勇",
       "周春米"
-    ]
+    ],
+    "symbolicColor": "#1B9431"
   },
   {
     "name": "親民黨",
@@ -56,7 +58,8 @@
     "voteNum": 794838,
     "voteRate": "6.5203%",
     "electedPersonNum": 3,
-    "electedPerson": ["李鴻鈞", "陳怡潔", "周陳秀霞"]
+    "electedPerson": ["李鴻鈞", "陳怡潔", "周陳秀霞"],
+    "symbolicColor": "#FF6310"
   },
   {
     "name": "時代力量",
@@ -65,7 +68,8 @@
     "voteNum": 744315,
     "voteRate": "6.1059%",
     "electedPersonNum": 2,
-    "electedPerson": ["高潞·以用·巴魕剌", "徐永明"]
+    "electedPerson": ["高潞·以用·巴魕剌", "徐永明"],
+    "symbolicColor": "#FBBE01"
   },
   {
     "name": "新黨",
@@ -74,7 +78,8 @@
     "voteNum": 510074,
     "voteRate": "4.1843%",
     "electedPersonNum": 0,
-    "electedPerson": []
+    "electedPerson": [],
+    "symbolicColor": "#FFDA00"
   },
   {
     "name": "綠黨社會民主黨聯盟",
@@ -93,5 +98,37 @@
     "voteRate": "2.5076%",
     "electedPersonNum": 0,
     "electedPerson": []
+  },
+  {
+    "name": "台灣民眾黨",
+    "symbolicColor": "#0CB5B5"
+  },
+  {
+    "name": "國會政黨聯盟",
+    "symbolicColor": "#E60012"
+  },
+  {
+    "name": "台灣基進",
+    "symbolicColor": "#A73F24"
+  },
+  {
+    "name": "綠黨",
+    "symbolicColor": "#73BE00"
+  },
+  {
+    "name": "無黨團結聯盟",
+    "symbolicColor": "#C20F51"
+  },
+  {
+    "name": "社會民主黨",
+    "symbolicColor": "#FF0088"
+  },
+  {
+    "name": "台灣團結聯盟",
+    "symbolicColor": "#C69E6A"
+  },
+  {
+    "name": "無黨籍",
+    "symbolicColor": "#212121"
   }
 ]
