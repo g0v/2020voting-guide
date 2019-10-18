@@ -33,23 +33,15 @@ const IssueBill = ({ issue, bills }: IssueBillProps) => {
                     <Box mt={3} key={bill.name}>
                         <Typography variant="h3">{bill.name}</Typography>
                         <Box my={1}>
-                            <Typography variant="h5" color="textSecondary">
+                            <Typography variant="body2" color="textSecondary">
                                 {bill.description}
                             </Typography>
                         </Box>
-                        <Box my={1} height={41} overflow="hidden">
-                            <Typography variant="h5" color="textSecondary">
+                        <Box my={1} height="5em" overflow="hidden">
+                            <Typography variant="body2" color="textSecondary">
                                 {bill.caseOfAction}
                             </Typography>
                         </Box>
-                        <Typography variant="h5" color="textSecondary">
-                            {bill.date} {bill.proposerType}
-                        </Typography>
-                        <BillDialog
-                            id={bill.billNo}
-                            proposerType={bill.proposerType}
-                            bill={bill}
-                        />
                     </Box>
                 ))}
             </Box>

@@ -61,8 +61,7 @@ const theme = createMuiTheme({
             lineHeight: '160%'
         },
         body2: {
-            fontSize: 14,
-            lineHeight: '160%'
+            fontSize: 14
         }
     }
 });
