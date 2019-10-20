@@ -19,3 +19,7 @@ crawler:
 
 1. `cd /crawler`
 2. `bash crawl_all.sh`
+
+## Deploy to App Engine
+
+`./deploy.sh`
