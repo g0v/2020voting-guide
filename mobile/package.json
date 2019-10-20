@@ -5,6 +5,7 @@
     "dependencies": {
         "@material-ui/core": "^4.4.2",
         "@material-ui/icons": "^4.4.1",
+        "@types/diff-match-patch": "^1.0.32",
         "@types/jest": "24.0.18",
         "@types/node": "12.7.4",
         "@types/react": "16.9.2",
@@ -12,6 +13,7 @@
         "@types/react-responsive": "^3.0.3",
         "@types/react-router-dom": "^4.3.5",
         "@types/recharts": "^1.1.21",
+        "diff-match-patch": "^1.0.4",
         "n": "^6.0.1",
         "query-string": "^6.8.3",
         "react": "^16.9.0",

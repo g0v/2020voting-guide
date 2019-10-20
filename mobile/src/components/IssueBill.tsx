@@ -2,7 +2,7 @@ import { Box, Typography, Button } from '@material-ui/core';
 import { useTheme, makeStyles } from '@material-ui/core/styles';
 import React from 'react';
 import BillDialog from './BillDialog';
-
+import { simplifyCaseOfAction } from '../utils';
 export interface Bill {
     name: string;
     description: string;
@@ -25,7 +25,7 @@ interface IssueBillProps {
 
 const useStyles = makeStyles({
     billInfo: (open: boolean) => ({
-        height: open ? 'auto' : '5em',
+        maxHeight: open ? 'none' : '5em',
         overflow: 'hidden'
     })
 });
@@ -78,31 +78,39 @@ const Bill = ({
             >
                 {name}
             </Typography>
-            <Box my={1} className={classes.billInfo}>
+            <Box my={1}>
                 <div
+                    className={classes.billInfo}
                     onClick={() => {
                         setOpen(!open);
+                        console.log(open);
                     }}
                 >
                     <Typography variant="body2" color="textSecondary">
-                        {description ? description : caseOfAction}
+                        {description
+                            ? description
+                            : simplifyCaseOfAction(caseOfAction)}
                     </Typography>
+                </div>
+                {open ? (
                     <RelatePerson
                         proposer={billProposer}
                         cosignatory={billCosignatory}
                     />
-                </div>
-                <Box my={1}>
-                    <Button
-                        variant="outlined"
-                        color="primary"
-                        onClick={() => {
-                            setOpenDetail(!openDetail);
-                        }}
-                    >
-                        詳細法案
-                    </Button>
-                </Box>
+                ) : null}
+                {open ? (
+                    <Box my={1}>
+                        <Button
+                            variant="outlined"
+                            color="primary"
+                            onClick={() => {
+                                setOpenDetail(!openDetail);
+                            }}
+                        >
+                            詳細法案
+                        </Button>
+                    </Box>
+                ) : null}
             </Box>
             {openDetail ? (
                 <BillDialog

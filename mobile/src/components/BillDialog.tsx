@@ -7,8 +7,11 @@ import {
     Typography,
     Box
 } from '@material-ui/core';
+import { diff_match_patch as DiffMatchPatch } from 'diff-match-patch';
+
 import { useTheme } from '@material-ui/core/styles';
 import { Bill } from './IssueBill';
+import { simplifyCaseOfAction } from '../utils';
 
 const defaultInfo = {
     bill: {
@@ -19,7 +22,35 @@ const defaultInfo = {
         billProposer: '',
         billCosignatory: '',
         caseOfAction: ''
-    }
+    },
+    descriptions: []
+};
+
+const ChangedBill = ({
+    index,
+    activeLaw,
+    reviseLaw
+}: {
+    index: number;
+    activeLaw: string;
+    reviseLaw: string;
+}) => {
+    const dmp = new DiffMatchPatch();
+    const diff = dmp.diff_main(activeLaw, reviseLaw);
+    const diff_html = diff.map(d => {
+        if (d[0] == -1) {
+            return <del>{d[1]}</del>;
+        } else if (d[0] == 1) {
+            return <b>{d[1]}</b>;
+        } else {
+            return <>{d[1]}</>;
+        }
+    });
+    return (
+        <Typography variant="h5">
+            {index}. {diff_html}
+        </Typography>
+    );
 };
 
 const BillDialog = ({
@@ -42,23 +73,24 @@ const BillDialog = ({
 
     const proposerType = '立委提案';
     const bill = info.bill;
+    const descriptions = info.descriptions;
 
     const personalPropose = (
         <>
-            <Typography variant="h5">提案：</Typography>
+            <Typography variant="h5">提案</Typography>
             <Box display="flex" flexDirection="row" flexWrap="wrap" py={1}>
                 {bill.billProposer.split('；').map(name => (
-                    <Box flexShrink={0} px={1} key={name}>
+                    <Box flexShrink={0} pr={1} key={name}>
                         <Typography variant="h5" color="textSecondary">
                             {name}
                         </Typography>
                     </Box>
                 ))}
             </Box>
-            <Typography variant="h5">連署：</Typography>
+            <Typography variant="h5">連署</Typography>
             <Box display="flex" flexDirection="row" flexWrap="wrap" py={1}>
                 {bill.billCosignatory.split('；').map(name => (
-                    <Box flexShrink={0} px={1} key={name}>
+                    <Box flexShrink={0} pr={1} key={name}>
                         <Typography variant="h5" color="textSecondary">
                             {name}
                         </Typography>
@@ -71,7 +103,7 @@ const BillDialog = ({
     const cosignatoryPropose = (
         <>
             <Typography variant="h4">提案黨團：</Typography>
-            <Box py={1} px={1}>
+            <Box py={1} pr={1}>
                 {bill.billOrg}
             </Box>
         </>
@@ -91,11 +123,11 @@ const BillDialog = ({
                             gutterBottom
                         >
                             {bill.billNo
-                                ? bill.billNo.substring(0, 4) +
+                                ? bill.billNo.substring(0, 3) +
                                   '/' +
-                                  bill.billNo.substring(4, 6) +
+                                  bill.billNo.substring(3, 5) +
                                   '/' +
-                                  bill.billNo.substring(6, 8) +
+                                  bill.billNo.substring(5, 7) +
                                   ' ' +
                                   '提案'
                                 : ''}
@@ -107,9 +139,31 @@ const BillDialog = ({
                     {proposerType === '立委提案'
                         ? personalPropose
                         : cosignatoryPropose}
-                    <Typography variant="h5" color="textSecondary">
-                        {bill.caseOfAction}
-                    </Typography>
+
+                    <Box my={2}>
+                        <Typography variant="h3">案由</Typography>
+                    </Box>
+                    <Box my={2}>
+                        <Typography variant="h5" color="textSecondary">
+                            {simplifyCaseOfAction(bill.caseOfAction)}
+                        </Typography>
+                    </Box>
+                    <Box my={2}>
+                        <Typography variant="h3">修正條文</Typography>
+                    </Box>
+                    {descriptions.map((description, i) => (
+                        <ChangedBill key={i} index={i + 1} {...description} />
+                    ))}
+                    <Box my={2}>
+                        <Typography variant="h3">修正說明</Typography>
+                    </Box>
+                    {descriptions.map(
+                        (description: { description: string }, i) => (
+                            <Typography variant="h5">
+                                {i + 1}. {description.description}
+                            </Typography>
+                        )
+                    )}
                     <Box display="flex" justifyContent="flex-end" mb={1} mx={1}>
                         <Button
                             variant="outlined"
