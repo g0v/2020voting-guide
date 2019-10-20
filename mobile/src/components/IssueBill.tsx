@@ -2,6 +2,7 @@ import { Box, Typography, Button } from '@material-ui/core';
 import { useTheme, makeStyles } from '@material-ui/core/styles';
 import React from 'react';
 import BillDialog from './BillDialog';
+
 export interface Bill {
     name: string;
     description: string;
@@ -51,28 +52,38 @@ const RelatePerson = ({
 
 const Bill = ({
     name,
+    billNo,
     description,
     caseOfAction,
     billProposer,
     billCosignatory
 }: {
     name: string;
+    billNo: string;
     description: string;
     caseOfAction: string;
     billProposer: string;
     billCosignatory: string;
 }) => {
     const [open, setOpen] = React.useState(false);
+    const [openDetail, setOpenDetail] = React.useState(false);
     const classes = useStyles(open);
     return (
         <Box mt={3} key={name}>
-            <div
+            <Typography
+                variant="h3"
                 onClick={() => {
                     setOpen(!open);
                 }}
             >
-                <Typography variant="h3">{name}</Typography>
-                <Box my={1} className={classes.billInfo}>
+                {name}
+            </Typography>
+            <Box my={1} className={classes.billInfo}>
+                <div
+                    onClick={() => {
+                        setOpen(!open);
+                    }}
+                >
                     <Typography variant="body2" color="textSecondary">
                         {description ? description : caseOfAction}
                     </Typography>
@@ -80,13 +91,28 @@ const Bill = ({
                         proposer={billProposer}
                         cosignatory={billCosignatory}
                     />
-                    <Box my={1}>
-                        <Button variant="outlined" color="primary">
-                            詳細法案
-                        </Button>
-                    </Box>
+                </div>
+                <Box my={1}>
+                    <Button
+                        variant="outlined"
+                        color="primary"
+                        onClick={() => {
+                            setOpenDetail(!openDetail);
+                        }}
+                    >
+                        詳細法案
+                    </Button>
                 </Box>
-            </div>
+            </Box>
+            {openDetail ? (
+                <BillDialog
+                    id={billNo}
+                    open={openDetail}
+                    handleClose={() => {
+                        setOpenDetail(false);
+                    }}
+                />
+            ) : null}
         </Box>
     );
 };

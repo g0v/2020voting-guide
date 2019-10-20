@@ -13,6 +13,7 @@ import { Bill } from './IssueBill';
 const defaultInfo = {
     bill: {
         name: '',
+        billNo: '',
         pdfUrl: '',
         billOrg: '',
         billProposer: '',
@@ -23,28 +24,28 @@ const defaultInfo = {
 
 const BillDialog = ({
     id,
-    proposerType,
-    bill
+    open,
+    handleClose
 }: {
     id: string;
-    proposerType: string;
-    bill: Bill;
+    open: boolean;
+    handleClose: () => void;
 }) => {
     const theme = useTheme();
 
-    const [open, setOpen] = React.useState(false);
-    const handleOpen = () => {
-        setOpen(true);
-    };
-    const handleClose = () => {
-        setOpen(false);
-    };
+    const [info, setInfo] = React.useState(defaultInfo);
+    React.useEffect(() => {
+        fetch(`/api/bill/${id}`)
+            .then(res => res.json())
+            .then(setInfo);
+    }, [id]);
+
+    const proposerType = '立委提案';
+    const bill = info.bill;
 
     const personalPropose = (
         <>
-            <Typography variant="h5" color="textSecondary">
-                主提案：
-            </Typography>
+            <Typography variant="h5">提案：</Typography>
             <Box display="flex" flexDirection="row" flexWrap="wrap" py={1}>
                 {bill.billProposer.split('；').map(name => (
                     <Box flexShrink={0} px={1} key={name}>
@@ -54,9 +55,7 @@ const BillDialog = ({
                     </Box>
                 ))}
             </Box>
-            <Typography variant="h5" color="textSecondary">
-                連署：
-            </Typography>
+            <Typography variant="h5">連署：</Typography>
             <Box display="flex" flexDirection="row" flexWrap="wrap" py={1}>
                 {bill.billCosignatory.split('；').map(name => (
                     <Box flexShrink={0} px={1} key={name}>
@@ -80,36 +79,37 @@ const BillDialog = ({
 
     return (
         <>
-            <Button variant="text" color="primary" onClick={handleOpen}>
-                詳細資料
-            </Button>
             <Dialog open={open} onClose={handleClose}>
-                <DialogTitle>{bill.name}</DialogTitle>
-                <Box
-                    bgcolor={theme.palette.background.default}
-                    px={3}
-                    pb={1}
-                    pt={2}
-                    mb={1}
-                >
-                    <Typography variant="h5" color="textSecondary">
-                        {bill.caseOfAction}
-                    </Typography>
-                    <Box pt={1}>
-                        <Button
-                            variant="text"
-                            color="primary"
-                            target="_blank"
-                            href={bill.pdfUrl}
-                        >
-                            提案全文
-                        </Button>
-                    </Box>
-                </Box>
                 <DialogContent>
+                    <Typography variant="h3" gutterBottom>
+                        {bill.name}
+                    </Typography>
+                    <Box my={2}>
+                        <Typography
+                            variant="h5"
+                            color="textSecondary"
+                            gutterBottom
+                        >
+                            {bill.billNo
+                                ? bill.billNo.substring(0, 4) +
+                                  '/' +
+                                  bill.billNo.substring(4, 6) +
+                                  '/' +
+                                  bill.billNo.substring(6, 8) +
+                                  ' ' +
+                                  '提案'
+                                : ''}
+                        </Typography>
+                    </Box>
+                    <Box my={2}>
+                        <Typography variant="h3">提案 / 連署人</Typography>
+                    </Box>
                     {proposerType === '立委提案'
                         ? personalPropose
                         : cosignatoryPropose}
+                    <Typography variant="h5" color="textSecondary">
+                        {bill.caseOfAction}
+                    </Typography>
                     <Box display="flex" justifyContent="flex-end" mb={1} mx={1}>
                         <Button
                             variant="outlined"
