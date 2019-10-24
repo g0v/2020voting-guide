@@ -18,6 +18,7 @@ scrapy = "*"
 peewee = "*"
 pymysql = "*"
 sparqlwrapper = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.7"
