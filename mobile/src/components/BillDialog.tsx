@@ -9,7 +9,12 @@ import {
 } from '@material-ui/core';
 import { diff_match_patch as DiffMatchPatch } from 'diff-match-patch';
 
-import { useTheme } from '@material-ui/core/styles';
+import {
+    useTheme,
+    makeStyles,
+    Theme,
+    createStyles
+} from '@material-ui/core/styles';
 import { Bill } from './IssueBill';
 import { simplifyCaseOfAction } from '../utils';
 
@@ -26,6 +31,22 @@ const defaultInfo = {
     descriptions: []
 };
 
+const useStyle = makeStyles((theme: Theme) =>
+    createStyles({
+        deleteInner: {
+            color: '#555555'
+        },
+        deleteOuter: {
+            padding: 2,
+            color: theme.palette.primary.main,
+            textDecoration: 'line-through'
+        },
+        add: {
+            color: theme.palette.primary.main
+        }
+    })
+);
+
 const ChangedBill = ({
     index,
     activeLaw,
@@ -35,13 +56,18 @@ const ChangedBill = ({
     activeLaw: string;
     reviseLaw: string;
 }) => {
+    const classes = useStyle();
     const dmp = new DiffMatchPatch();
     const diff = dmp.diff_main(activeLaw, reviseLaw);
     const diff_html = diff.map(d => {
-        if (d[0] == -1) {
-            return <del>{d[1]}</del>;
-        } else if (d[0] == 1) {
-            return <b>{d[1]}</b>;
+        if (d[0] === -1) {
+            return (
+                <span className={classes.deleteOuter}>
+                    <span className={classes.deleteInner}>{d[1]}</span>
+                </span>
+            );
+        } else if (d[0] === 1) {
+            return <span className={classes.add}>{d[1]}</span>;
         } else {
             return <>{d[1]}</>;
         }

@@ -40,7 +40,7 @@ func GetBillHandler(c *gin.Context) {
 
 	id := c.Param("id")
 
-	api := billAPI{}
+	api := billAPI{Bill{}, []description{}}
 
 	var billDb db.Bill
 	db.MySQL.Where("billNo = ?", id).First(&billDb)
