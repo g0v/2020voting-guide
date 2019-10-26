@@ -109,8 +109,8 @@ class Bill2(BaseModel):
 
 
 class BillDescription(BaseModel):
+    billNo = CharField(index=True)
     bill = CharField()
-    billNo = CharField()
     selectTerm = CharField()
     term = CharField()
     sessionPeriod = CharField()
