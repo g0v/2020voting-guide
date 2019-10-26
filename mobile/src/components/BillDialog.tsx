@@ -1,7 +1,6 @@
 import React from 'react';
 import {
     Dialog,
-    DialogTitle,
     DialogContent,
     Button,
     Typography,
@@ -9,13 +8,7 @@ import {
 } from '@material-ui/core';
 import { diff_match_patch as DiffMatchPatch } from 'diff-match-patch';
 
-import {
-    useTheme,
-    makeStyles,
-    Theme,
-    createStyles
-} from '@material-ui/core/styles';
-import { Bill } from './IssueBill';
+import { makeStyles, Theme, createStyles } from '@material-ui/core/styles';
 import { simplifyCaseOfAction } from '../utils';
 
 const defaultInfo = {
@@ -88,8 +81,6 @@ const BillDialog = ({
     open: boolean;
     handleClose: () => void;
 }) => {
-    const theme = useTheme();
-
     const [info, setInfo] = React.useState(defaultInfo);
     React.useEffect(() => {
         fetch(`/api/bill/${id}`)

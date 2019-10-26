@@ -27,7 +27,6 @@ interface CandidatePage {
 }
 
 const Party = ({ match, location }: Party) => {
-    const { name } = match.params;
     const [value, setValue] = React.useState(0);
 
     const handleChange = (event: React.ChangeEvent<{}>, newValue: number) => {
