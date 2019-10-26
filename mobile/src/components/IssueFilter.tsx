@@ -41,7 +41,15 @@ const useStyles = makeStyles((theme: Theme) =>
     })
 );
 
-const IssueFilter = () => {
+const IssueFilter = ({
+    selected,
+    selectIssue,
+    complete
+}: {
+    selected: string[];
+    selectIssue: (issue: string) => void;
+    complete: () => void;
+}) => {
     const classes = useStyles();
 
     const [open, setOpen] = React.useState(true);
@@ -52,17 +60,6 @@ const IssueFilter = () => {
 
     const handleClose = () => {
         setOpen(false);
-    };
-
-    const [selected, updateSelected] = React.useState([] as string[]);
-
-    const selectIssue = (issue: string) => {
-        const new_selected = selected.filter(x => x !== issue);
-        if (new_selected.length == selected.length) {
-            updateSelected([...selected, issue]);
-        } else {
-            updateSelected(new_selected);
-        }
     };
 
     const Transition = React.forwardRef<unknown, TransitionProps>(
@@ -105,7 +102,13 @@ const IssueFilter = () => {
                         <Typography variant="h6" className={classes.title}>
                             篩選議題 3個
                         </Typography>
-                        <Button color="inherit" onClick={handleClose}>
+                        <Button
+                            color="inherit"
+                            onClick={() => {
+                                handleClose();
+                                complete();
+                            }}
+                        >
                             完成
                         </Button>
                     </Toolbar>

@@ -11,6 +11,25 @@ const IssueBillTab = ({ bills = [] }: IssueBillTab) => {
     const issues = [
         ...new Set(bills.filter(b => b.category).map(b => b.category))
     ];
+
+    const [selectedIssue, updateSelectedIssue] = React.useState([] as string[]);
+
+    const selectIssue = (issue: string) => {
+        const new_selected = selectedIssue.filter(x => x !== issue);
+        if (new_selected.length == selectedIssue.length) {
+            updateSelectedIssue([...selectedIssue, issue]);
+        } else {
+            updateSelectedIssue(new_selected);
+        }
+    };
+
+    const [issueFilter, updateIssueFilter] = React.useState([] as string[]);
+    const handleComplete = () => {
+        updateIssueFilter(selectedIssue);
+    };
+    console.log(issueFilter);
+    const filteredIssue = issueFilter.length ? issueFilter : issues;
+
     return (
         <>
             <Bulletin
@@ -18,7 +37,7 @@ const IssueBillTab = ({ bills = [] }: IssueBillTab) => {
                 secondary="這些議題怎麽產生的？"
             />
             <div>
-                {issues
+                {filteredIssue
                     .map(issue => ({
                         issue: issue,
                         bills: bills.filter(i => issue === i.category)
@@ -31,7 +50,11 @@ const IssueBillTab = ({ bills = [] }: IssueBillTab) => {
                         />
                     ))}
             </div>
-            <IssueFilter />
+            <IssueFilter
+                selected={selectedIssue}
+                selectIssue={selectIssue}
+                complete={handleComplete}
+            />
         </>
     );
 };
