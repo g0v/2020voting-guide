@@ -52,7 +52,7 @@ const IssueFilter = ({
 }) => {
     const classes = useStyles();
 
-    const [open, setOpen] = React.useState(true);
+    const [open, setOpen] = React.useState(false);
 
     const handleClickOpen = () => {
         setOpen(true);
@@ -61,12 +61,6 @@ const IssueFilter = ({
     const handleClose = () => {
         setOpen(false);
     };
-
-    const Transition = React.forwardRef<unknown, TransitionProps>(
-        function Transition(props, ref) {
-            return <Slide direction="up" ref={ref} {...props} />;
-        }
-    );
 
     return (
         <>
@@ -83,12 +77,7 @@ const IssueFilter = ({
                 />
                 篩選議題
             </Fab>
-            <Dialog
-                fullScreen
-                open={open}
-                onClose={handleClose}
-                // TransitionComponent={Transition}
-            >
+            <Dialog fullScreen open={open} onClose={handleClose}>
                 <AppBar className={classes.appBar}>
                     <Toolbar>
                         <IconButton
@@ -100,7 +89,7 @@ const IssueFilter = ({
                             <CloseIcon />
                         </IconButton>
                         <Typography variant="h6" className={classes.title}>
-                            篩選議題 3個
+                            篩選議題 {selected.length} 個
                         </Typography>
                         <Button
                             color="inherit"
