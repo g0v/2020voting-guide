@@ -83,7 +83,6 @@ const Bill = ({
                     className={classes.billInfo}
                     onClick={() => {
                         setOpen(!open);
-                        console.log(open);
                     }}
                 >
                     <Typography variant="body2" color="textSecondary">
@@ -127,14 +126,28 @@ const Bill = ({
 
 const IssueBill = ({ issue, bills }: IssueBillProps) => {
     const theme = useTheme();
+    const legislatorBill = bills.filter(
+        bill => bill.proposerType === '立委提案'
+    );
+    const caucusBill = bills.filter(bill => bill.proposerType === '黨團提案');
 
     return (
         <>
             <Box mx={1.5} py={3}>
                 <Typography variant="h2">{issue}</Typography>
-                {bills.map(bill => (
-                    <Bill {...bill} />
+                {legislatorBill.map(bill => (
+                    <Bill {...bill} key={bill.billNo} />
                 ))}
+                {caucusBill.length === 0 ? null : (
+                    <Box borderLeft="3px solid grey" pl={1} mt={2}>
+                        <Typography variant="h4">黨團提案</Typography>
+                        {caucusBill.map(bill => (
+                            <Typography variant="h5" key={bill.billNo}>
+                                {bill.name}
+                            </Typography>
+                        ))}
+                    </Box>
+                )}
             </Box>
             <Box p={1} bgcolor={theme.palette.background.default} />
         </>

@@ -16,7 +16,7 @@ const IssueBillTab = ({ bills = [] }: IssueBillTab) => {
 
     const selectIssue = (issue: string) => {
         const new_selected = selectedIssue.filter(x => x !== issue);
-        if (new_selected.length == selectedIssue.length) {
+        if (new_selected.length === selectedIssue.length) {
             updateSelectedIssue([...selectedIssue, issue]);
         } else {
             updateSelectedIssue(new_selected);
@@ -27,7 +27,6 @@ const IssueBillTab = ({ bills = [] }: IssueBillTab) => {
     const handleComplete = () => {
         updateIssueFilter(selectedIssue);
     };
-    console.log(issueFilter);
     const filteredIssue = issueFilter.length ? issueFilter : issues;
 
     return (

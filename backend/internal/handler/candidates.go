@@ -96,27 +96,26 @@ func GetCandidateByNameHandler(c *gin.Context) {
 		})
 	}
 
-	// var orgBillsDb []db.Bill
-	// caucusFilter := "%" + getCaucusName(candidate.Party) + "%"
-	// db.MySQL.Where("billOrg LIKE ?", caucusFilter).Find(&orgBillsDb)
-	// fmt.Println(caucusFilter)
-	// for _, bill := range orgBillsDb {
-	// 	date := bill.BillNo[0:3] + "-" + bill.BillNo[3:5] + "-" + bill.BillNo[5:7]
-	// 	candidate.Bills = append(candidate.Bills, Bill{
-	// 		bill.Name,
-	// 		bill.BillNo,
-	// 		"黨團提案",
-	// 		"",
-	// 		date,
-	// 		bill.Category,
-	// 		bill.BillOrg,
-	// 		bill.BillProposer,
-	// 		bill.BillCosignatory,
-	// 		bill.BillStatus,
-	// 		bill.PdfURL,
-	// 		bill.CaseOfAction,
-	// 	})
-	// }
+	var orgBillsDb []db.Bill
+	caucusFilter := "%" + getCaucusName(candidate.Party) + "%"
+	db.MySQL.Where("billOrg LIKE ?", caucusFilter).Find(&orgBillsDb)
+	for _, bill := range orgBillsDb {
+		date := bill.BillNo[0:3] + "-" + bill.BillNo[3:5] + "-" + bill.BillNo[5:7]
+		candidate.Bills = append(candidate.Bills, Bill{
+			bill.Name,
+			bill.BillNo,
+			"黨團提案",
+			"",
+			date,
+			bill.Category,
+			bill.BillOrg,
+			bill.BillProposer,
+			bill.BillCosignatory,
+			bill.BillStatus,
+			bill.PdfURL,
+			bill.CaseOfAction,
+		})
+	}
 
 	c.JSON(http.StatusOK, candidate)
 }

@@ -4,7 +4,6 @@ import {
     Dialog,
     IconButton,
     Typography,
-    Slide,
     Button,
     Box
 } from '@material-ui/core';
@@ -13,7 +12,6 @@ import { Fab } from '@material-ui/core';
 import { Theme, createStyles, makeStyles } from '@material-ui/core/styles';
 import FilterListIcon from '@material-ui/icons/FilterList';
 import CloseIcon from '@material-ui/icons/Close';
-import { TransitionProps } from '@material-ui/core/transitions';
 import issues from '../data/issues.json';
 
 const useStyles = makeStyles((theme: Theme) =>
@@ -36,7 +34,6 @@ const useStyles = makeStyles((theme: Theme) =>
         issueButton: {
             width: 120,
             height: 100
-            // margin: theme.spacing(0.5)
         }
     })
 );
