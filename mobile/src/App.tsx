@@ -12,6 +12,7 @@ import Home from './components/Home';
 import Party from './components/Party/Party';
 import CommingSoon from './components/CommingSoon';
 import PartyCandidates from './components/PartyCandidates/PartyCandidates';
+import VernacularPage from './components/VernacularPage';
 
 interface State {
     visible: boolean;
@@ -59,6 +60,7 @@ const App = () => {
                     </Switch>
                 </Box>
             </Container>
+            <Route path="/vernacular/:billNo" component={VernacularPage} />
         </>
     );
 };

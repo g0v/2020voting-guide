@@ -6,9 +6,6 @@ import {
     Typography,
     Box
 } from '@material-ui/core';
-import { diff_match_patch as DiffMatchPatch } from 'diff-match-patch';
-
-import { makeStyles, Theme, createStyles } from '@material-ui/core/styles';
 import { simplifyCaseOfAction } from '../utils';
 import ChangedBill from './Bill/ChangedBill'
 
