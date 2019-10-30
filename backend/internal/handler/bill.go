@@ -21,6 +21,7 @@ type Bill struct {
 	BillStatus      string `json:"billStatus"`
 	PdfURL          string `json:"pdfUrl"`
 	CaseOfAction    string `json:"caseOfAction"`
+	Vernacular      string `json:"vernacular"`
 }
 
 type description struct {
@@ -57,6 +58,7 @@ func GetBillHandler(c *gin.Context) {
 		billDb.BillStatus,
 		billDb.PdfURL,
 		billDb.CaseOfAction,
+		"",
 	}
 
 	var descriptionsDb []db.BillDescription

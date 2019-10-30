@@ -3,8 +3,10 @@ package db
 import (
 	"fmt"
 	"log"
+	"net/http"
 
 	"github.com/g0v/2020voting-guide/backend/internal/config"
+	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/mysql" // standard usage
 )
@@ -16,7 +18,7 @@ var MySQL *gorm.DB
 func Setup() {
 	var err error
 
-	c := fmt.Sprintf("%s:%s@tcp(%s:3306)/%s",
+	c := fmt.Sprintf("%s:%s@tcp(%s:3306)/%s?parseTime=true",
 		config.MySQL.User,
 		config.MySQL.Password,
 		config.MySQL.Host,
@@ -24,7 +26,7 @@ func Setup() {
 	)
 	MySQL, err = gorm.Open("mysql", c)
 	MySQL.SingularTable(true)
-	// MySQL.LogMode(true)
+	MySQL.LogMode(true)
 
 	if err != nil {
 		m := fmt.Sprintf("%s@tcp(%s:3306)/%s",
@@ -35,6 +37,11 @@ func Setup() {
 		log.Print(m)
 		log.Fatalf("Connect DB error: %v", err)
 	}
+}
+
+func MigrateDB(c *gin.Context) {
+	MySQL.AutoMigrate(&Vernacular{})
+	c.JSON(http.StatusOK, "finished")
 }
 
 // Bill is the ORM of bill2 table for gorm usage
@@ -87,4 +94,11 @@ type Candidate struct {
 	DateOfBirth         string
 	WikidataDateOfBirth string
 	Age                 int16
+}
+
+// Vernacular is the ORM of vernacular table for gorm usage
+type Vernacular struct {
+	gorm.Model
+	BillNo     string
+	Vernacular string
 }

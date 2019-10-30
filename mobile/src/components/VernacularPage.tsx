@@ -14,6 +14,7 @@ interface VernacularPage {
     match: {
         params: {
             billNo: string;
+            hash: string;
         };
     };
 }
@@ -26,22 +27,35 @@ const defaultBillInfo = {
         billOrg: '',
         billProposer: '',
         billCosignatory: '',
-        caseOfAction: ''
+        caseOfAction: '',
+        vernacular: ''
     },
     descriptions: []
 };
 
 const VernacularPage = ({ match }: VernacularPage) => {
-    const { billNo } = match.params;
-
+    const { billNo, hash } = match.params;
     const [billInfo, setInfo] = React.useState(defaultBillInfo);
     React.useEffect(() => {
-        fetch(`/api/bill/${billNo}`)
+        fetch(`/api/vernacular/${billNo}`)
             .then(res => res.json())
-            .then(setInfo);
+            .then(res => {
+                setInfo(res);
+                setVernacular(res.bill.vernacular);
+            });
     }, [billNo]);
 
     const { bill, descriptions } = billInfo;
+    const [vernacular, setVernacular] = React.useState(bill.vernacular);
+    const postVernacular = () => {
+        const form = new FormData();
+        form.append('secret', hash);
+        form.append('msg', vernacular);
+        fetch(`/api/vernacular/${billNo}`, {
+            method: 'POST',
+            body: form
+        }).then(()=>alert('已儲存'));
+    };
 
     return (
         <Container maxWidth="lg">
@@ -81,7 +95,10 @@ const VernacularPage = ({ match }: VernacularPage) => {
                                         index={i + 1}
                                         {...description}
                                     />
-                                    <Typography variant="h5" color="textSecondary">
+                                    <Typography
+                                        variant="h5"
+                                        color="textSecondary"
+                                    >
                                         修正說明：{description.description}
                                     </Typography>
                                 </>
@@ -94,13 +111,20 @@ const VernacularPage = ({ match }: VernacularPage) => {
                         id="outlined-multiline-static"
                         label="白話文"
                         rows="10"
-                        defaultValue="我是白話文內容"
+                        value={vernacular}
+                        onChange={event => {
+                            setVernacular(event.target.value);
+                        }}
                         margin="normal"
                         variant="outlined"
                         multiline
                         fullWidth
                     />
-                    <Button variant="contained" color="primary">
+                    <Button
+                        variant="contained"
+                        color="primary"
+                        onClick={postVernacular}
+                    >
                         儲存
                     </Button>
                 </Grid>

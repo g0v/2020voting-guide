@@ -15,7 +15,8 @@ type mySQLConfig struct {
 
 var (
 	// MySQL is the config of MySQL DB
-	MySQL mySQLConfig
+	MySQL         mySQLConfig
+	VernacularKey string
 )
 
 func init() {
@@ -25,4 +26,5 @@ func init() {
 	MySQL.User = os.Getenv("MYSQL_USER")
 	MySQL.Password = os.Getenv("MYSQL_PASSWORD")
 	MySQL.DB = os.Getenv("MYSQL_DB")
+	VernacularKey = os.Getenv("VERNACULAR_KEY")
 }

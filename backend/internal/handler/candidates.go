@@ -93,6 +93,7 @@ func GetCandidateByNameHandler(c *gin.Context) {
 			bill.BillStatus,
 			bill.PdfURL,
 			bill.CaseOfAction,
+			"",
 		})
 	}
 
@@ -114,6 +115,7 @@ func GetCandidateByNameHandler(c *gin.Context) {
 			bill.BillStatus,
 			bill.PdfURL,
 			bill.CaseOfAction,
+			"",
 		})
 	}
 

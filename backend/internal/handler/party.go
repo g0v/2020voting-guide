@@ -54,6 +54,7 @@ func GetPartyByNameHandler(c *gin.Context) {
 			bill.BillStatus,
 			bill.PdfURL,
 			bill.CaseOfAction,
+			"",
 		})
 	}
 

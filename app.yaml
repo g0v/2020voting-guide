@@ -24,3 +24,6 @@ handlers:
   - url: .*
     static_files: mobile/build/index.html
     upload: mobile/build/index.html
+
+basic_scaling:
+  max_instances: 5

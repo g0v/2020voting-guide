@@ -60,7 +60,7 @@ const App = () => {
                     </Switch>
                 </Box>
             </Container>
-            <Route path="/vernacular/:billNo" component={VernacularPage} />
+            <Route path="/vernacular/:billNo/:hash" component={VernacularPage} />
         </>
     );
 };
