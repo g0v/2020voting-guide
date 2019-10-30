@@ -26,6 +26,7 @@ func SetupRouter() *gin.Engine {
 	api.GET("/candidate/:name/record", handler.GetCandidateRecordByIDHandler)
 	api.GET("/party/:name", handler.GetPartyByNameHandler)
 	api.GET("/bill/:id", handler.GetBillHandler)
+	api.GET("/statistic/:name", handler.GetStatisticByNameHandler)
 
 	api.GET("/vernacular/:id", handler.GetVernacular)
 	api.POST("/vernacular/:id", handler.PostVernacular)
