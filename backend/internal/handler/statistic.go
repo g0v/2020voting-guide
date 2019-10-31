@@ -36,14 +36,9 @@ func GetStatisticByNameHandler(c *gin.Context) {
 	term := c.DefaultQuery("term", "9")
 	fmt.Print(name, term)
 	var statistic StatisticResp
-
-	var statisticDb db.Statistic
-	db.MySQL.Where("name = ?", name).First(&statisticDb)
-
 	var personalStatisticDb []db.Statistic
-	statistic.Name = statisticDb.Name
-	nameFilter := "%" + name + "%"
-	db.MySQL.Where("name LIKE ? AND term = ?", nameFilter, term).Find(&personalStatisticDb)
+	statistic.Name = name
+	db.MySQL.Where("name = ? AND term = ?", name, term).Find(&personalStatisticDb)
 	statistic.Statistics = []StatisticObj{}
 	for _, statisticObj := range personalStatisticDb {
 		fmt.Println(statisticObj)
