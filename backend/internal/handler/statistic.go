@@ -10,18 +10,17 @@ import (
 )
 
 type StatisticResp struct {
-	Name string
-	Statistics       []StatisticObj `json:"statistics"`
+	Name       string
+	Statistics []StatisticObj `json:"statistics"`
 }
 
 type StatisticObj struct {
-	Term int16
+	Term          int16
 	StatisticType string
-	DataType string
-	Key string
-	Value int16
+	DataType      string
+	Key           string
+	Value         int16
 }
-
 
 // GetStatisticByNameHandler return statistic info
 // @Summary get the statistic info by name, and can filter by term
@@ -48,7 +47,6 @@ func GetStatisticByNameHandler(c *gin.Context) {
 			statisticObj.DataType,
 			statisticObj.Key,
 			statisticObj.Value,
-
 		})
 	}
 	c.JSON(http.StatusOK, statistic)

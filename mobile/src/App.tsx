@@ -12,7 +12,8 @@ import Home from './components/Home';
 import Party from './components/Party/Party';
 import CommingSoon from './components/CommingSoon';
 import PartyCandidates from './components/PartyCandidates/PartyCandidates';
-import VernacularPage from './components/VernacularPage';
+import VernacularPage from './components/Vernacular/VernacularPage';
+import VernacularListPage from './components/Vernacular/VernacularListPage';
 
 interface State {
     visible: boolean;
@@ -60,7 +61,10 @@ const App = () => {
                     </Switch>
                 </Box>
             </Container>
-            <Route path="/vernacular/:billNo/:hash" component={VernacularPage} />
+            <Switch>
+                <Route path="/vernacularlist/:page" component={VernacularListPage} />
+                <Route path="/vernacular/:billNo" component={VernacularPage} />
+            </Switch>
         </>
     );
 };

@@ -105,11 +105,11 @@ type Vernacular struct {
 
 // Statistic is the ORM of statistic table for gorm usage
 type Statistic struct {
-	Id int16
-	Name string
-	Term int16
+	Id            int16
+	Name          string
+	Term          int16
 	StatisticType string `gorm:"column:statisticType"`
-	DataType string `gorm:"column:dataType"`
-	Key string
-	Value int16
+	DataType      string `gorm:"column:dataType"`
+	Key           string
+	Value         int16
 }

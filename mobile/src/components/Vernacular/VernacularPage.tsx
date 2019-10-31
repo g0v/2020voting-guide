@@ -7,14 +7,13 @@ import {
     TextField,
     Box
 } from '@material-ui/core';
-import ChangedBill from './Bill/ChangedBill';
-import { simplifyCaseOfAction } from '../utils';
+import ChangedBill from '../Bill/ChangedBill';
+import { simplifyCaseOfAction } from '../../utils';
 
 interface VernacularPage {
     match: {
         params: {
             billNo: string;
-            hash: string;
         };
     };
 }
@@ -34,7 +33,8 @@ const defaultBillInfo = {
 };
 
 const VernacularPage = ({ match }: VernacularPage) => {
-    const { billNo, hash } = match.params;
+    const { billNo } = match.params;
+    const hash = 'g0v2020'
     const [billInfo, setInfo] = React.useState(defaultBillInfo);
     React.useEffect(() => {
         fetch(`/api/vernacular/${billNo}`)
