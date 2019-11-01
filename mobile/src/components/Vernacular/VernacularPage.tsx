@@ -58,7 +58,7 @@ const VernacularPage = ({ match }: VernacularPage) => {
     };
 
     return (
-        <Container maxWidth="lg">
+        <Container maxWidth="md">
             <Grid container spacing={3}>
                 <Grid item lg={12} />
                 <Grid item lg={12}>
@@ -69,7 +69,7 @@ const VernacularPage = ({ match }: VernacularPage) => {
                         <Typography variant="h3">案由</Typography>
                     </Box>
                     <Box my={2}>
-                        <Typography variant="h5" color="textSecondary">
+                        <Typography variant="h6" color="textSecondary">
                             {simplifyCaseOfAction(bill.caseOfAction)}
                         </Typography>
                     </Box>
@@ -96,7 +96,7 @@ const VernacularPage = ({ match }: VernacularPage) => {
                                         {...description}
                                     />
                                     <Typography
-                                        variant="h5"
+                                        variant="h6"
                                         color="textSecondary"
                                     >
                                         修正說明：{description.description}
