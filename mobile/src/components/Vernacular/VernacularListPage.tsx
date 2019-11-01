@@ -54,6 +54,7 @@ const VernacularListPage = ({
                                 variant="text"
                                 href={`/vernacular/${bill.billNo}`}
                                 color="primary"
+                                target="_blank"
                             >
                                 連結
                             </Button>
