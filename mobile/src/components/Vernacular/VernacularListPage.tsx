@@ -7,6 +7,7 @@ import {
     TableBody,
     Button
 } from '@material-ui/core';
+import { billNoToDate } from '../../utils';
 
 interface Bill {
     name: string;
@@ -43,11 +44,11 @@ const VernacularListPage = ({
                 </TableRow>
             </TableHead>
             <TableBody>
-                {bills.map(bill => (
-                    <TableRow key={bill.name}>
+                {bills.map((bill, i) => (
+                    <TableRow key={bill.billNo + '-' + i}>
                         <TableCell>{bill.category}</TableCell>
                         <TableCell>{bill.name}</TableCell>
-                        <TableCell>{bill.billNo.substring(0, 7)}</TableCell>
+                        <TableCell>{billNoToDate(bill.billNo)}</TableCell>
                         <TableCell>{bill.vernacular}</TableCell>
                         <TableCell>
                             <Button

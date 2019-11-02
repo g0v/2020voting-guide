@@ -7,6 +7,7 @@ import {
     TextField,
     Box
 } from '@material-ui/core';
+import { useTheme } from '@material-ui/core/styles';
 import ChangedBill from '../Bill/ChangedBill';
 import { simplifyCaseOfAction } from '../../utils';
 
@@ -34,7 +35,8 @@ const defaultBillInfo = {
 
 const VernacularPage = ({ match }: VernacularPage) => {
     const { billNo } = match.params;
-    const hash = 'g0v2020'
+    const theme = useTheme();
+    const hash = 'g0v2020';
     const [billInfo, setInfo] = React.useState(defaultBillInfo);
     React.useEffect(() => {
         fetch(`/api/vernacular/${billNo}`)
@@ -54,7 +56,7 @@ const VernacularPage = ({ match }: VernacularPage) => {
         fetch(`/api/vernacular/${billNo}`, {
             method: 'POST',
             body: form
-        }).then(()=>alert('已儲存'));
+        }).then(() => alert('已儲存'));
     };
 
     return (
@@ -62,7 +64,7 @@ const VernacularPage = ({ match }: VernacularPage) => {
             <Grid container spacing={3}>
                 <Grid item lg={12} />
                 <Grid item lg={12}>
-                    <Typography variant="h3">{bill.name}</Typography>
+                    <Typography variant="h2">{bill.name}</Typography>
                 </Grid>
                 <Grid item lg={12}>
                     <Box my={2}>
@@ -95,12 +97,23 @@ const VernacularPage = ({ match }: VernacularPage) => {
                                         index={i + 1}
                                         {...description}
                                     />
-                                    <Typography
-                                        variant="h6"
-                                        color="textSecondary"
+                                    <Box
+                                        p={1}
+                                        mt={1}
+                                        mb={3}
+                                        bgcolor={
+                                            theme.palette.background.default
+                                        }
+                                        borderLeft={`3px solid ${theme.palette.primary.main}`}
                                     >
-                                        修正說明：{description.description}
-                                    </Typography>
+                                        <Typography
+                                            variant="h6"
+                                            color="textSecondary"
+                                        >
+                                            修正說明<br />
+                                            {description.description}
+                                        </Typography>
+                                    </Box>
                                 </>
                             )
                         )}
@@ -110,7 +123,7 @@ const VernacularPage = ({ match }: VernacularPage) => {
                     <TextField
                         id="outlined-multiline-static"
                         label="白話文"
-                        rows="10"
+                        rows="20"
                         value={vernacular}
                         onChange={event => {
                             setVernacular(event.target.value);
