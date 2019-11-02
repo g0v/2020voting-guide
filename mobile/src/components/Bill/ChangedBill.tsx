@@ -45,7 +45,7 @@ const ChangedBill = ({
         }
     });
     return (
-        <Typography variant="h5">
+        <Typography variant="h6">
             {index}. {diff_html}
         </Typography>
     );
