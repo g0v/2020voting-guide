@@ -66,14 +66,28 @@ const theme = createMuiTheme({
     }
 });
 
-ReactDOM.render(
-    <BrowserRouter>
-        <ThemeProvider theme={theme}>
-            <App />
-        </ThemeProvider>
-    </BrowserRouter>,
-    document.getElementById('root') as HTMLElement
-);
+const render = (Component: any) => {
+    ReactDOM.render(
+        <BrowserRouter>
+            <ThemeProvider theme={theme}>
+                <Component />
+            </ThemeProvider>
+        </BrowserRouter>,
+        document.getElementById('root') as HTMLElement
+    );
+};
+render(App);
+
+/* eslint-disable */
+if (process.env.NODE_ENV === 'development') {
+    if (module.hot) {
+        module.hot.accept('./App', () => {
+            const NextApp: JSX.Element = require('./App').default;
+            render(NextApp);
+        });
+    }
+}
+/* eslint-enable */
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
