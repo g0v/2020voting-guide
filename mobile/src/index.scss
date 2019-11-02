@@ -1,0 +1,17 @@
+@import './css/variable';
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.color-primary{
+  color: $color-primary;
+}
+.color-red{
+  color: #EC502B;
+}
+.underline{
+  text-decoration: underline;
+}

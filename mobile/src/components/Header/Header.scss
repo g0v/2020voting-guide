@@ -1,0 +1,23 @@
+@import '../../css/variable';
+
+.header{
+  position: relative;
+  background-color:white !important;
+  border-bottom: 2px solid $color-primary;
+  &__inner{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    background-image:url('/img/header-logo.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  // svg
+  &__menu-icon{
+    z-index: 2;
+    fill: $color-primary !important;
+  }
+}
