@@ -10,8 +10,79 @@ body {
   color: $color-primary;
 }
 .color-red{
-  color: #EC502B;
+  color: $color-red;
+}
+.color-white{
+  color: white;
+}
+.highlight{
+  border-bottom: 3px solid $color-red;
+}
+.cursor-pointer{
+  cursor: pointer;
 }
 .underline{
   text-decoration: underline;
+}
+
+.hover-underline{
+  display:inline-block;
+  position:relative;
+  color: $color-primary;
+  &:after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 1px;
+    bottom: -2px;
+    left: 0;
+    background-color: $color-primary;
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+  }
+  &:hover::after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+  }
+}
+
+// copy from bootstrap
+// https://getbootstrap.com/docs/4.3/utilities/embed/
+.embed-responsive {
+  position: relative;
+  display: block;
+  width: 100%;
+  padding: 0;
+  overflow: hidden;
+  &.embed-responsive-16by9 {
+    &::before {
+      content: '';
+      display: block;
+      padding-top: 56.25%;
+    }
+  }
+  .embed-responsive-item{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+}
+
+.font-thumb{
+  font-size: 14px;
+}
+
+.d-block{
+  display: block;
+}
+
+.divider{
+  width: 100%;
+  height: 1px;
+  background-color:$color-primary;
 }

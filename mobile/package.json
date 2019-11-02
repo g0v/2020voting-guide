@@ -13,6 +13,7 @@
         "@types/react-responsive": "^3.0.3",
         "@types/react-router-dom": "^4.3.5",
         "@types/recharts": "^1.1.21",
+        "dayjs": "^1.8.16",
         "diff-match-patch": "^1.0.4",
         "node-sass": "^4.13.0",
         "query-string": "^6.8.3",
