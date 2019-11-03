@@ -9,31 +9,6 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-// Candidate api for candidate
-type Candidate struct {
-	Name                   string `json:"name"`
-	Photo                  string `json:"photo"`
-	County                 string `json:"county"`
-	Constituency           string `json:"constituency"`
-	Party                  string `json:"party"`
-	Age                    int16  `json:"age"`
-	LastTerm               string `json:"lastTerm"`
-	LastTermYear           string `json:"lastTermYear"`
-	Educations             string `json:"educations"`
-	Experiences            string `json:"experiences"`
-	Politics               string `json:"politics"`
-	SittingRate            string `json:"sittingRate"`
-	InterpellationRate     string `json:"interpellationRate"`
-	InterpellationNum      string `json:"interpellationNum"`
-	MaxInterpellationNum   string `json:"maxInterpellationNum"`
-	InterpellationCategory string `json:"interpellationCategory"`
-	BillNum                string `json:"billNum"`
-	BillNumCategory        string `json:"billNumCategory"`
-	PoliticalContribution  string `json:"politicalContribution"`
-	OtherCandidate         string `json:"otherCandidate"`
-	Bills                  []Bill `json:"bills"`
-}
-
 // ListCandidatesByConstituencyHandler provide constituency list
 // @Summary List candidates by constituency
 // @Description list candidates by constituency
@@ -62,7 +37,7 @@ func ListCandidatesByConstituencyHandler(c *gin.Context) {
 func GetCandidateByNameHandler(c *gin.Context) {
 	name := c.Param("name")
 
-	var candidate Candidate
+	var candidate models.Candidate
 
 	candidate.Name = name
 
@@ -77,23 +52,22 @@ func GetCandidateByNameHandler(c *gin.Context) {
 	var personalBillsDb []db.Bill
 	nameFilter := "%" + name + "%"
 	db.MySQL.Where("billProposer LIKE ?", nameFilter).Find(&personalBillsDb)
-	candidate.Bills = []Bill{}
 	for _, bill := range personalBillsDb {
 		date := bill.BillNo[0:3] + "-" + bill.BillNo[3:5] + "-" + bill.BillNo[5:7]
-		candidate.Bills = append(candidate.Bills, Bill{
-			bill.Name,
-			bill.BillNo,
-			"立委提案",
-			"",
-			date,
-			bill.Category,
-			bill.BillOrg,
-			bill.BillProposer,
-			bill.BillCosignatory,
-			bill.BillStatus,
-			bill.PdfURL,
-			bill.CaseOfAction,
-			"",
+		candidate.Bills = append(candidate.Bills, models.Bill{
+			Name:            bill.Name,
+			BillNo:          bill.BillNo,
+			ProposerType:    "立委提案",
+			Description:     "",
+			Date:            date,
+			Category:        bill.Category,
+			BillOrg:         bill.BillOrg,
+			BillProposer:    bill.BillProposer,
+			BillCosignatory: bill.BillCosignatory,
+			BillStatus:      bill.BillStatus,
+			PdfURL:          bill.PdfURL,
+			CaseOfAction:    bill.CaseOfAction,
+			Vernacular:      "",
 		})
 	}
 
@@ -102,20 +76,20 @@ func GetCandidateByNameHandler(c *gin.Context) {
 	db.MySQL.Where("billOrg LIKE ?", caucusFilter).Find(&orgBillsDb)
 	for _, bill := range orgBillsDb {
 		date := bill.BillNo[0:3] + "-" + bill.BillNo[3:5] + "-" + bill.BillNo[5:7]
-		candidate.Bills = append(candidate.Bills, Bill{
-			bill.Name,
-			bill.BillNo,
-			"黨團提案",
-			"",
-			date,
-			bill.Category,
-			bill.BillOrg,
-			bill.BillProposer,
-			bill.BillCosignatory,
-			bill.BillStatus,
-			bill.PdfURL,
-			bill.CaseOfAction,
-			"",
+		candidate.Bills = append(candidate.Bills, models.Bill{
+			Name:            bill.Name,
+			BillNo:          bill.BillNo,
+			ProposerType:    "黨團提案",
+			Description:     "",
+			Date:            date,
+			Category:        bill.Category,
+			BillOrg:         bill.BillOrg,
+			BillProposer:    bill.BillProposer,
+			BillCosignatory: bill.BillCosignatory,
+			BillStatus:      bill.BillStatus,
+			PdfURL:          bill.PdfURL,
+			CaseOfAction:    bill.CaseOfAction,
+			Vernacular:      "",
 		})
 	}
 

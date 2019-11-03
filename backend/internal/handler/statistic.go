@@ -5,21 +5,10 @@ import (
 	"net/http"
 
 	"github.com/g0v/2020voting-guide/backend/internal/db"
+	"github.com/g0v/2020voting-guide/backend/internal/models"
 
 	"github.com/gin-gonic/gin"
 )
-
-type StatisticResp struct {
-	Name                   string     `json:"name"`
-	BillProposalCategory   []Category `json:"billProposal"`
-	InterpellationCategory []Category `json:"interpellation"`
-}
-
-type Category struct {
-	Name  string `json:"name"`
-	Term  int16  `json:"term"`
-	Count int16  `json:"count"`
-}
 
 // GetStatisticByNameHandler return statistic info
 // @Summary get the statistic info by name, and can filter by term
@@ -35,7 +24,7 @@ func GetStatisticByNameHandler(c *gin.Context) {
 
 	fmt.Println(name, term)
 
-	var statisticResp StatisticResp
+	var statisticResp models.StatisticResp
 	var personalStatisticDb []db.Statistic
 
 	statisticResp.Name = name
@@ -43,13 +32,17 @@ func GetStatisticByNameHandler(c *gin.Context) {
 	db.MySQL.Where("name = ? AND term = ? AND dataType = ?", name, term, "categories").Find(&personalStatisticDb)
 	for _, statisticObj := range personalStatisticDb {
 		if statisticObj.StatisticType == "interpellation" {
-			statisticResp.BillProposalCategory = append(statisticResp.BillProposalCategory, Category{
-				statisticObj.Key, statisticObj.Term, statisticObj.Value,
+			statisticResp.BillProposalCategory = append(statisticResp.BillProposalCategory, models.StatisticCategory{
+				Name:  statisticObj.Key,
+				Term:  statisticObj.Term,
+				Count: statisticObj.Value,
 			})
 		}
 		if statisticObj.StatisticType == "legal_proposal" {
-			statisticResp.InterpellationCategory = append(statisticResp.InterpellationCategory, Category{
-				statisticObj.Key, statisticObj.Term, statisticObj.Value,
+			statisticResp.InterpellationCategory = append(statisticResp.InterpellationCategory, models.StatisticCategory{
+				Name:  statisticObj.Key,
+				Term:  statisticObj.Term,
+				Count: statisticObj.Value,
 			})
 		}
 	}
