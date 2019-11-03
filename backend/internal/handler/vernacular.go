@@ -27,7 +27,7 @@ func ListVernacular(c *gin.Context) {
 		BillNo     string `gorm:"column:billNo" json:"billNo"`
 		Vernacular string `json:"vernacular"`
 	}
-	db.MySQL.Raw("SELECT bill.category, bill.name, bill.billNo, vernacular.vernacular FROM `bill` left join (SELECT max(id) id, bill_no from vernacular group by bill_no) t1 on t1.bill_no = bill.billNo left join vernacular on vernacular.id = t1.id WHERE category is not null LIMIT 3500 OFFSET ?", offset).Scan(&api)
+	db.MySQL.Raw("SELECT bill.category, bill.name, bill.billNo, vernacular.vernacular FROM `bill` left join (SELECT max(id) id, bill_no from vernacular group by bill_no) t1 on t1.bill_no = bill.billNo left join vernacular on vernacular.id = t1.id WHERE category is not null and term = '09' LIMIT 3500 OFFSET ?", offset).Scan(&api)
 
 	c.JSON(http.StatusOK, api)
 }

@@ -25,3 +25,11 @@ export const scrollBody = (dom: string, duration = 0.5, gap = 10) => {
         ease: Power2.easeOut
     });
 };
+
+export const billNoToDate = (billNo: string) => {
+    const year = parseInt(billNo.substr(0, 3)) + 1911
+    const month = billNo.substr(3, 2)
+    const day = billNo.substr(5, 2)
+    
+    return `${year}-${month}-${day}`
+}
