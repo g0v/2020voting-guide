@@ -23,8 +23,12 @@ const BigNum = ({ num, unit, text1, text2 }: BigNum) => {
                     {unit}
                 </Box>
             </Box>
-            <Typography variant="h5">{text1}</Typography>
-            <Typography variant="h5">{text2}</Typography>
+            <Typography variant="h5" color="textSecondary">
+                {text1}
+            </Typography>
+            <Typography variant="h5" color="textSecondary">
+                {text2}
+            </Typography>
         </Box>
     );
 };
