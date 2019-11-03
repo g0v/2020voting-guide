@@ -10,16 +10,15 @@ import (
 )
 
 type StatisticResp struct {
-	Name       string
-	Statistics []StatisticObj `json:"statistics"`
+	Name                   string     `json:"name"`
+	BillProposalCategory   []Category `json:"billProposal"`
+	InterpellationCategory []Category `json:"interpellation"`
 }
 
-type StatisticObj struct {
-	Term          int16
-	StatisticType string
-	DataType      string
-	Key           string
-	Value         int16
+type Category struct {
+	Name  string `json:"name"`
+	Term  int16  `json:"term"`
+	Count int16  `json:"count"`
 }
 
 // GetStatisticByNameHandler return statistic info
@@ -33,21 +32,26 @@ type StatisticObj struct {
 func GetStatisticByNameHandler(c *gin.Context) {
 	name := c.Param("name")
 	term := c.DefaultQuery("term", "9")
-	fmt.Print(name, term)
-	var statistic StatisticResp
+
+	fmt.Println(name, term)
+
+	var statisticResp StatisticResp
 	var personalStatisticDb []db.Statistic
-	statistic.Name = name
-	db.MySQL.Where("name = ? AND term = ?", name, term).Find(&personalStatisticDb)
-	statistic.Statistics = []StatisticObj{}
+
+	statisticResp.Name = name
+
+	db.MySQL.Where("name = ? AND term = ? AND dataType = ?", name, term, "categories").Find(&personalStatisticDb)
 	for _, statisticObj := range personalStatisticDb {
-		fmt.Println(statisticObj)
-		statistic.Statistics = append(statistic.Statistics, StatisticObj{
-			statisticObj.Term,
-			statisticObj.StatisticType,
-			statisticObj.DataType,
-			statisticObj.Key,
-			statisticObj.Value,
-		})
+		if statisticObj.StatisticType == "interpellation" {
+			statisticResp.BillProposalCategory = append(statisticResp.BillProposalCategory, Category{
+				statisticObj.Key, statisticObj.Term, statisticObj.Value,
+			})
+		}
+		if statisticObj.StatisticType == "legal_proposal" {
+			statisticResp.InterpellationCategory = append(statisticResp.InterpellationCategory, Category{
+				statisticObj.Key, statisticObj.Term, statisticObj.Value,
+			})
+		}
 	}
-	c.JSON(http.StatusOK, statistic)
+	c.JSON(http.StatusOK, statisticResp)
 }
