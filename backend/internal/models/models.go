@@ -27,7 +27,7 @@ type Candidate struct {
 	County                 string `json:"county"`
 	Constituency           string `json:"constituency"`
 	Party                  string `json:"party"`
-	Age                    int16  `json:"age"`
+	Age                    int    `json:"age"`
 	LastTerm               string `json:"lastTerm"`
 	LastTermYear           string `json:"lastTermYear"`
 	Educations             string `json:"educations"`
@@ -82,12 +82,15 @@ type BillAPI struct {
 
 type StatisticResp struct {
 	Name                   string              `json:"name"`
+	SittingRate            float32             `json:"sittingRate"`
+	InterpellationRate     int                 `json:"interpellationRate"`
+	InterpellationNum      int                 `json:"interpellationNum"`
 	BillProposalCategory   []StatisticCategory `json:"billProposal"`
 	InterpellationCategory []StatisticCategory `json:"interpellation"`
 }
 
 type StatisticCategory struct {
 	Name  string `json:"name"`
-	Term  int16  `json:"term"`
-	Count int16  `json:"count"`
+	Term  int    `json:"term"`
+	Count int    `json:"count"`
 }

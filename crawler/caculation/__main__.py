@@ -1,6 +1,9 @@
-from db import Candidate, Legislator
-from peewee import fn
 import re
+
+from peewee import fn
+
+from db import Candidate, Legislator, Sitting
+from util import roc_to_common_era
 
 
 def tag_current_candidate():
@@ -35,8 +38,48 @@ def update_photo():
         ).execute()
 
 
+def update_sitting_rate():
+    def is_participatable_meeting(meeting_date: str, onboard_date: str, leave_date: str) -> bool:
+        if leave_date:
+            return leave_date >= meeting_date >= onboard_date
+        else:
+            return meeting_date >= onboard_date
+
+    legislators = Legislator.select(Legislator.name, Legislator.onboardDate, Legislator.leaveDate).where(
+        Legislator.term == "09"
+    )
+    valid_meeting_unit = ["全院委員會", "議事處會務科", "院會"]
+    valid_meetings = Sitting.select().where(
+        Sitting.meetingUnit.in_(valid_meeting_unit), Sitting.attendLegislator.is_null(False), Sitting.term == "09"
+    )
+    total_valid_meeting = len(valid_meeting_unit)
+    print("total_valid_meeting: ", total_valid_meeting)
+
+    for legislator in legislators:
+        name = legislator.name
+        participatable_meetings = [
+            meeting
+            for meeting in valid_meetings
+            if is_participatable_meeting(
+                roc_to_common_era(meeting.meetingDateDesc[:9]), legislator.onboardDate, legislator.leaveDate
+            )
+        ]
+
+        participat_meetings = [meeting for meeting in participatable_meetings if name in meeting.attendLegislator]
+        print(
+            name,
+            len(participat_meetings),
+            len(participatable_meetings),
+            len(participat_meetings) / len(participatable_meetings),
+        )
+        Legislator.update(sittingNum=len(participat_meetings), maxSittingNum=len(participatable_meetings)).where(
+            Legislator.name == name, Legislator.term == "09"
+        ).execute()
+
+
 if __name__ == "__main__":
     tag_current_candidate()
     tag_history_candidate()
     update_last_term()
     update_photo()
+    update_sitting_rate()

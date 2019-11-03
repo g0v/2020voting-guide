@@ -20,7 +20,7 @@ import (
 // @Router /api/statistic/{name} [get]
 func GetStatisticByNameHandler(c *gin.Context) {
 	name := c.Param("name")
-	term := c.DefaultQuery("term", "9")
+	term := 9
 
 	fmt.Println(name, term)
 
@@ -46,5 +46,15 @@ func GetStatisticByNameHandler(c *gin.Context) {
 			})
 		}
 	}
+
+	var legislatorDb db.Legislator
+	db.MySQL.Where("name = ? AND term = ?", name, "09").First(&legislatorDb)
+
+	fmt.Println(legislatorDb.SittingNum)
+	fmt.Println(legislatorDb.MaxSittingNum)
+	fmt.Println(float32(legislatorDb.SittingNum) / float32(legislatorDb.MaxSittingNum))
+	fmt.Println(legislatorDb.SittingNum / legislatorDb.MaxSittingNum)
+	statisticResp.SittingRate = float32(legislatorDb.SittingNum) / float32(legislatorDb.MaxSittingNum)
+
 	c.JSON(http.StatusOK, statisticResp)
 }
