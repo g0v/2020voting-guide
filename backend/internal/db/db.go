@@ -93,7 +93,13 @@ type Candidate struct {
 	LastTerm            string
 	DateOfBirth         string
 	WikidataDateOfBirth string
-	Age                 int16
+	Age                 int
+}
+
+type Legislator struct {
+	Name          string
+	SittingNum    int `gorm:"column:sittingNum"`
+	MaxSittingNum int `gorm:"column:maxSittingNum"`
 }
 
 // Vernacular is the ORM of vernacular table for gorm usage
@@ -105,11 +111,11 @@ type Vernacular struct {
 
 // Statistic is the ORM of statistic table for gorm usage
 type Statistic struct {
-	Id            int16
+	Id            int
 	Name          string
-	Term          int16
+	Term          int
 	StatisticType string `gorm:"column:statisticType"`
 	DataType      string `gorm:"column:dataType"`
 	Key           string
-	Value         int16
+	Value         int
 }

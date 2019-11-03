@@ -8,17 +8,17 @@ flake8 = "*"
 pep8 = "*"
 mypy = "*"
 pytest = "*"
-pydocstyle = "*"
 autopep8 = "*"
 black = "==19.3b0"
 
 [packages]
 requests = "*"
-scrapy = "*"
+Scrapy = "*"
 peewee = "*"
-pymysql = "*"
-sparqlwrapper = "*"
+PyMySQL = "*"
+SPARQLWrapper = "*"
 pandas = "*"
+loguru = "*"
 
 [requires]
 python_version = "3.7"
