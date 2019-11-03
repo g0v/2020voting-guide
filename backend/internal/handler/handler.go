@@ -1,7 +1,6 @@
 package handler
 
 import (
-	"fmt"
 	"net/http"
 
 	"github.com/gin-gonic/gin"
@@ -14,20 +13,4 @@ import (
 // @Router /api/version [get]
 func VersionHandler(c *gin.Context) {
 	c.String(http.StatusOK, "0.0.1")
-}
-
-// GetCandidateRecordByIDHandler is unused
-// @Summary get records of candidate by name
-// @Description get records of candidate by name
-// @Accept json
-// @Product string
-// @Param name path string ture "Name"
-// @Success 200 {string} string "record"
-// @Router /api/candidate/{name}/record [get]
-func GetCandidateRecordByIDHandler(c *gin.Context) {
-
-	name := c.Param("name")
-	fmt.Println(name)
-
-	c.String(http.StatusOK, "record")
 }

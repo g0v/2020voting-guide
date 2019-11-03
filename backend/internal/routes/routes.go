@@ -2,7 +2,6 @@ package routes
 
 import (
 	_ "github.com/g0v/2020voting-guide/backend/docs" // swagger standard usage
-	"github.com/g0v/2020voting-guide/backend/internal/db"
 	"github.com/g0v/2020voting-guide/backend/internal/handler"
 
 	"github.com/gin-gonic/gin"
@@ -20,10 +19,8 @@ func SetupRouter() *gin.Engine {
 
 	api.GET("/swagger/*any", ginSwagger.WrapHandler(swaggerFiles.Handler))
 	api.GET("/version", handler.VersionHandler)
-	api.GET("/migrate", db.MigrateDB)
 	api.GET("/constituency/:constituency", handler.ListCandidatesByConstituencyHandler)
 	api.GET("/candidate/:name", handler.GetCandidateByNameHandler)
-	api.GET("/candidate/:name/record", handler.GetCandidateRecordByIDHandler)
 	api.GET("/party/:name", handler.GetPartyByNameHandler)
 	api.GET("/bill/:id", handler.GetBillHandler)
 	api.GET("/statistic/:name", handler.GetStatisticByNameHandler)

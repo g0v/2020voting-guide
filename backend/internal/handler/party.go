@@ -4,15 +4,10 @@ import (
 	"net/http"
 
 	"github.com/g0v/2020voting-guide/backend/internal/db"
+	"github.com/g0v/2020voting-guide/backend/internal/models"
 
 	"github.com/gin-gonic/gin"
 )
-
-// Party api for party
-type Party struct {
-	Name  string `json:"name"`
-	Bills []Bill `json:"bills"`
-}
 
 func getCaucusName(party string) string {
 	caucuses := map[string]string{
@@ -32,7 +27,7 @@ func getCaucusName(party string) string {
 func GetPartyByNameHandler(c *gin.Context) {
 	name := c.Param("name")
 
-	var party Party
+	var party models.Party
 
 	party.Name = name
 
@@ -41,20 +36,20 @@ func GetPartyByNameHandler(c *gin.Context) {
 	db.MySQL.Where("billOrg LIKE ?", caucusFilter).Find(&orgBillsDb)
 	for _, bill := range orgBillsDb {
 		date := bill.BillNo[0:3] + "-" + bill.BillNo[3:5] + "-" + bill.BillNo[5:7]
-		party.Bills = append(party.Bills, Bill{
-			bill.Name,
-			bill.BillNo,
-			"黨團提案",
-			"",
-			date,
-			bill.Category,
-			bill.BillOrg,
-			bill.BillProposer,
-			bill.BillCosignatory,
-			bill.BillStatus,
-			bill.PdfURL,
-			bill.CaseOfAction,
-			"",
+		party.Bills = append(party.Bills, models.Bill{
+			Name:            bill.Name,
+			BillNo:          bill.BillNo,
+			ProposerType:    "黨團提案",
+			Description:     "",
+			Date:            date,
+			Category:        bill.Category,
+			BillOrg:         bill.BillOrg,
+			BillProposer:    bill.BillProposer,
+			BillCosignatory: bill.BillCosignatory,
+			BillStatus:      bill.BillStatus,
+			PdfURL:          bill.PdfURL,
+			CaseOfAction:    bill.CaseOfAction,
+			Vernacular:      "",
 		})
 	}
 

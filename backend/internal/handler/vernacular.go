@@ -7,6 +7,7 @@ import (
 
 	"github.com/g0v/2020voting-guide/backend/internal/config"
 	"github.com/g0v/2020voting-guide/backend/internal/db"
+	"github.com/g0v/2020voting-guide/backend/internal/models"
 	"github.com/gin-gonic/gin"
 )
 
@@ -59,31 +60,31 @@ func GetVernacular(c *gin.Context) {
 	var vernacularDb db.Vernacular
 	db.MySQL.Where("bill_no = ?", id).Last(&vernacularDb)
 
-	api := billAPI{Bill{}, []description{}}
-	api.Bill = Bill{
-		billDb.Name,
-		billDb.BillNo,
-		"",
-		"",
-		"",
-		billDb.Category,
-		billDb.BillOrg,
-		billDb.BillProposer,
-		billDb.BillCosignatory,
-		billDb.BillStatus,
-		billDb.PdfURL,
-		billDb.CaseOfAction,
-		vernacularDb.Vernacular,
+	var api models.BillAPI
+	api.Bill = models.Bill{
+		Name:            billDb.Name,
+		BillNo:          billDb.BillNo,
+		ProposerType:    "",
+		Description:     "",
+		Date:            "",
+		Category:        billDb.Category,
+		BillOrg:         billDb.BillOrg,
+		BillProposer:    billDb.BillProposer,
+		BillCosignatory: billDb.BillCosignatory,
+		BillStatus:      billDb.BillStatus,
+		PdfURL:          billDb.PdfURL,
+		CaseOfAction:    billDb.CaseOfAction,
+		Vernacular:      vernacularDb.Vernacular,
 	}
 
 	var descriptionsDb []db.BillDescription
 	db.MySQL.Where("billNo = ?", id).Find(&descriptionsDb)
 	for _, descriptionDb := range descriptionsDb {
-		api.Descriptions = append(api.Descriptions, description{
-			descriptionDb.Bill,
-			descriptionDb.Description,
-			descriptionDb.ActiveLaw,
-			descriptionDb.ReviseLaw,
+		api.Descriptions = append(api.Descriptions, models.Description{
+			Bill:        descriptionDb.Bill,
+			Description: descriptionDb.Description,
+			ActiveLaw:   descriptionDb.ActiveLaw,
+			ReviseLaw:   descriptionDb.ReviseLaw,
 		})
 	}
 
