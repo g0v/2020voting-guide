@@ -8,7 +8,7 @@ import ConstituencyCandidates from './components/ConstituencyCandidates/Constitu
 import County from './components/ConstituencyCounty/County';
 import ConstituencyPage from './components/ConstituencyDistrict/ConstituencyPage';
 import Nav from './components/Header';
-import Home from './components/Home';
+import Home from './components/Home/';
 import Party from './components/Party/Party';
 import CommingSoon from './components/CommingSoon';
 import PartyCandidates from './components/PartyCandidates/PartyCandidates';
@@ -62,7 +62,10 @@ const App = () => {
                 </Box>
             </Container>
             <Switch>
-                <Route path="/vernacularlist/:page" component={VernacularListPage} />
+                <Route
+                    path="/vernacularlist/:page"
+                    component={VernacularListPage}
+                />
                 <Route path="/vernacular/:billNo" component={VernacularPage} />
             </Switch>
         </>
