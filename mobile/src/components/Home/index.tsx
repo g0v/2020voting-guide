@@ -2,6 +2,7 @@ import { Box, Button, Typography } from '@material-ui/core';
 // import { makeStyles } from '@material-ui/core/styles';
 import dayjs from 'dayjs';
 import React, { ReactNode, MouseEvent, useMemo } from 'react';
+import Countdown from './Countdown';
 import './Home.scss';
 import { scrollBody } from '../../utils';
 interface VideoCard {
@@ -52,7 +53,9 @@ const Home = () => {
         <div className="page-home">
             <Box textAlign="center" mt="40px">
                 <img
-                    src="/img/home/kv.png"
+                    width="250"
+                    height="250"
+                    src="/img/home/kv-calendar.svg"
                     alt="2020/1/11,台灣總選大選投票日"
                 />
             </Box>
@@ -62,7 +65,7 @@ const Home = () => {
                     align="center"
                     className="color-primary"
                 >
-                    距離立委投票剩下 {diffDay} 天
+                    距離立委投票剩下 <Countdown /> 天
                     <br />
                     你準備好了嗎？
                 </Typography>
