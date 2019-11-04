@@ -30,25 +30,6 @@ interface PositionTab {
     billNumCategory?: { name: string; percent: number }[];
 }
 
-const interpellationCategoryData = [
-    {
-        name: '教育',
-        value: 36
-    },
-    {
-        name: '文化觀光',
-        value: 12
-    },
-    {
-        name: '經濟貿易',
-        value: 11
-    },
-    {
-        name: '交通建設',
-        value: 11
-    }
-];
-
 const useStyle = makeStyles({
     expandButton: {
         borderRadius: '50%',
@@ -70,6 +51,13 @@ const PositionTab = ({
     const [showMoreInterpellation, setMoreInterpellation] = React.useState(
         false
     );
+    const [interpellationData, setinterpellationData] = React.useState([]);
+
+    React.useEffect(() => {
+        fetch(`/api/statistic/${name}`)
+            .then(res => res.json())
+            .then(setinterpellationData);
+    }, [name]);
 
     return (
         <>
@@ -77,7 +65,7 @@ const PositionTab = ({
                 primary={`${name} 曾擔任 ${lastTerm}`}
                 secondary={lastTermYear}
             />
-            <BasePaper
+            {/* <BasePaper
                 title="立法院出席率"
                 subtitle="立委應於指定開會時間出席立法院開會、質詢、審議法案"
             >
@@ -87,13 +75,13 @@ const PositionTab = ({
                     text1="立委平均數 91%"
                     text2="中位數 89%"
                 />
-            </BasePaper>
+            </BasePaper> */}
             <Box p={1} bgcolor={theme.palette.background.default} />
             <BasePaper
                 title="質詢"
                 subtitle="立法委員要針對行政院的施政進行監督詢答"
             >
-                <Box my={4}>
+                {/* <Box my={4}>
                     <Typography variant="h3">質詢率</Typography>
                     <BigNum
                         num={interpellationRate}
@@ -101,13 +89,13 @@ const PositionTab = ({
                         text1="180 次 / 210 次質詢機會"
                         text2="立委平均 91%"
                     />
-                </Box>
+                </Box> */}
                 <Typography variant="h3">質詢類別</Typography>
                 <Typography variant="h5" color="textSecondary">
                     立法委員要針對行政院的施政進行監督詢答
                 </Typography>
                 <AppBarChart
-                    data={interpellationCategoryData}
+                    data={interpellationData}
                     showMore={showMoreInterpellation}
                 />
                 <Box display="flex" justifyContent="center">
@@ -131,7 +119,7 @@ const PositionTab = ({
                 {/* <Typography variant="h5">立法院： 吳思姚質詢影音</Typography> */}
             </BasePaper>
             <Box p={1} bgcolor={theme.palette.background.default} />
-            <BasePaper
+            {/* <BasePaper
                 title="修法"
                 subtitle="立委需要研究法案雨各式社會發展，提案修正國家法律"
             >
@@ -149,9 +137,9 @@ const PositionTab = ({
                 <Typography variant="h5">
                     立法院： 吳思姚法案主題案影音
                 </Typography>
-            </BasePaper>
+            </BasePaper> */}
             <Box p={1} bgcolor={theme.palette.background.default} />
-            <BasePaper title="政治現金紀錄" subtitle="每年收到的捐款和使用方式">
+            {/* <BasePaper title="政治現金紀錄" subtitle="每年收到的捐款和使用方式">
                 <Typography variant="h3">吳思姚 收入</Typography>
                 <Box width="100%" height={230} mx="auto">
                     <ResponsiveContainer>
@@ -191,7 +179,7 @@ const PositionTab = ({
                 <Typography variant="h5">
                     立法院： 吳思姚法案主題案影音
                 </Typography>
-            </BasePaper>
+            </BasePaper> */}
             <Box p={1} bgcolor={theme.palette.background.default} />
         </>
     );

@@ -142,8 +142,6 @@ const AppBarChart = ({ data, showMore }: AppBarChart) => {
     const divRef = React.createRef<HTMLDivElement>();
 
     const renderCustomizedLabel = (props: any) => {
-        console.log(props);
-
         const { x, y, width, height, value } = props;
 
         return (
