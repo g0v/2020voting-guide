@@ -1,5 +1,6 @@
 @import '../../css/variable';
 
+$spanHeight : 36px;
 .page-home{
   h2{
     line-height: 160%;
@@ -66,6 +67,42 @@
       .embed-responsive{
         order: -1;
         margin-bottom: 16px;
+      }
+    }
+  }
+  @keyframes countdown-animation {
+    0%{
+      transform: translateY(0);
+    }
+    100%{
+      transform: translateY(calc(-100% + #{$spanHeight}));
+    }
+  }
+  .countdown{
+    .countdown__content{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .countdown__numbers{
+      position: relative;
+      overflow: hidden;
+      display: inline-block;
+      color:transparent;
+      margin: 0 2px;
+      &-inner{
+        position: absolute;
+        top: 0;
+        left:0;
+        animation: countdown-animation 3s ease-in-out;
+        animation-fill-mode: both;
+        animation-delay: 1.5s;
+        span{
+          color: $color-primary;
+          display: block;
+          height: $spanHeight;
+          line-height: $spanHeight;
+        }
       }
     }
   }

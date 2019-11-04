@@ -60,7 +60,8 @@ const Home = () => {
                 />
             </Box>
             <Box my="10px" mb="32px">
-                <Typography
+                <Countdown />
+                {/* <Typography
                     variant="h2"
                     align="center"
                     className="color-primary"
@@ -68,7 +69,7 @@ const Home = () => {
                     距離立委投票剩下 <Countdown /> 天
                     <br />
                     你準備好了嗎？
-                </Typography>
+                </Typography> */}
             </Box>
             <Box className="page-home__primary-btn-wrap">
                 <div className="page-home__primary-btn-wrap-inner">
