@@ -78,6 +78,7 @@ func GetVernacular(c *gin.Context) {
 	}
 
 	var descriptionsDb []db.BillDescription
+	api.Descriptions = []models.Description{}
 	db.MySQL.Where("billNo = ?", id).Find(&descriptionsDb)
 	for _, descriptionDb := range descriptionsDb {
 		api.Descriptions = append(api.Descriptions, models.Description{

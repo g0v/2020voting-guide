@@ -35,6 +35,8 @@ func GetBillHandler(c *gin.Context) {
 
 	var descriptionsDb []db.BillDescription
 	db.MySQL.Where("billNo = ?", id).Find(&descriptionsDb)
+	api.Descriptions = []models.Description{}
+
 	for _, descriptionDb := range descriptionsDb {
 		api.Descriptions = append(api.Descriptions, models.Description{
 			Bill:        descriptionDb.Bill,

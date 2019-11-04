@@ -2,10 +2,11 @@ runtime: go112
 main: ./backend
 
 env_variables:
-  MYSQL_HOST:
-  MYSQL_USER:
-  MYSQL_PASSWORD:
-  MYSQL_DB:
+  MYSQL_HOST: 35.241.81.102
+  MYSQL_USER: vote2020
+  MYSQL_PASSWORD: vote2020
+  MYSQL_DB: vote2020
+  VERNACULAR_KEY: g0v2020
 
 handlers:
   - url: /api/.*
@@ -25,5 +26,5 @@ handlers:
     static_files: mobile/build/index.html
     upload: mobile/build/index.html
 
-basic_scaling:
+automatic_scaling:
   max_instances: 5
