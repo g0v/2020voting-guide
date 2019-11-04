@@ -11,9 +11,10 @@
     right: 0;
     bottom: 0;
     margin: auto;
-    background-image:url('/img/header-logo.png');
+    color:black;
     background-repeat: no-repeat;
     background-position: center center;
+    background-image:url('/img/header/kv.svg');
   }
   // svg
   &__menu-icon{
