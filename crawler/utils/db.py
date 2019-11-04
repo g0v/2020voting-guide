@@ -51,6 +51,36 @@ class Legislator(BaseModel):
     maxSittingNum = SmallIntegerField(null=True)
 
 
+class Contribution(BaseModel):
+    constituency = CharField(null=True)
+    name = CharField()
+    constituencyRank = SmallIntegerField()
+    voteNum = IntegerField()
+    party = CharField()
+    voteRate = CharField()
+    elected = BooleanField(null=True)
+    currentLegislator = BooleanField()
+    committee = CharField(null=True)
+    sex = CharField()
+    yearOfBirth = IntegerField()
+    contributeCompanyNum = IntegerField()
+    totalIncome = IntegerField()
+    personalContributeion = IntegerField()
+    personalContributeionRate = CharField()
+    profitableContributeion = IntegerField()
+    profitableContributeionRate = CharField()
+    partyContributeion = IntegerField()
+    partyContributeionRate = CharField()
+    civilOrganizationsContributeion = IntegerField()
+    civilOrganizationsContributeionRate = CharField()
+    anonymousContributeion = IntegerField()
+    anonymousContributeionRate = CharField()
+    otherContributeion = IntegerField()
+    otherContributeionRate = CharField()
+    overThrityThousandContribute = IntegerField()
+    totalExpense = IntegerField()
+
+
 class Sitting(BaseModel):
     sessionTimes = CharField()
     jointCommittee = CharField(null=True)
