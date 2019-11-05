@@ -22,8 +22,6 @@ func GetStatisticByNameHandler(c *gin.Context) {
 	name := c.Param("name")
 	term := 9
 
-	fmt.Println(name, term)
-
 	var statisticResp models.StatisticResp
 	var personalStatisticDb []db.Statistic
 
@@ -49,12 +47,20 @@ func GetStatisticByNameHandler(c *gin.Context) {
 
 	var legislatorDb db.Legislator
 	db.MySQL.Where("name = ? AND term = ?", name, "09").First(&legislatorDb)
-
-	fmt.Println(legislatorDb.SittingNum)
-	fmt.Println(legislatorDb.MaxSittingNum)
-	fmt.Println(float32(legislatorDb.SittingNum) / float32(legislatorDb.MaxSittingNum))
-	fmt.Println(legislatorDb.SittingNum / legislatorDb.MaxSittingNum)
 	statisticResp.SittingRate = float32(legislatorDb.SittingNum) / float32(legislatorDb.MaxSittingNum)
+
+	var contributeDb db.Contribution
+	db.MySQL.Where("name = ?", name).First(&contributeDb)
+	fmt.Println(contributeDb)
+	statisticResp.Contribution.TotalIncome = contributeDb.TotalIncome
+	statisticResp.Contribution.PersonalContributeion = contributeDb.PersonalContributeion
+	statisticResp.Contribution.ProfitableContributeion = contributeDb.ProfitableContributeion
+	statisticResp.Contribution.PartyContributeion = contributeDb.PartyContributeion
+	statisticResp.Contribution.CivilOrganizationsContributeion = contributeDb.CivilOrganizationsContributeion
+	statisticResp.Contribution.AnonymousContributeion = contributeDb.AnonymousContributeion
+	statisticResp.Contribution.OtherContributeion = contributeDb.OtherContributeion
+	statisticResp.Contribution.OverThrityThousandContribute = contributeDb.OverThrityThousandContribute
+	statisticResp.Contribution.TotalExpense = contributeDb.TotalExpense
 
 	c.JSON(http.StatusOK, statisticResp)
 }

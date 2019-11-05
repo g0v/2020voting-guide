@@ -87,6 +87,17 @@ type StatisticResp struct {
 	InterpellationNum      int                 `json:"interpellationNum"`
 	BillProposalCategory   []StatisticCategory `json:"billProposal"`
 	InterpellationCategory []StatisticCategory `json:"interpellation"`
+	Contribution           struct {
+		TotalIncome                     int `json:"totalIncome"`
+		PersonalContributeion           int `json:"personalContributeion"`
+		ProfitableContributeion         int `json:"profitableContributeion"`
+		PartyContributeion              int `json:"partyContributeion"`
+		CivilOrganizationsContributeion int `json:"civilOrganizationsContributeion"`
+		AnonymousContributeion          int `json:"anonymousContributeion"`
+		OtherContributeion              int `json:"otherContributeion"`
+		OverThrityThousandContribute    int `json:"overThrityThousandContribute"`
+		TotalExpense                    int `json:"totalExpense"`
+	}
 }
 
 type StatisticCategory struct {
