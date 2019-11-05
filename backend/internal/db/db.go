@@ -119,3 +119,16 @@ type Statistic struct {
 	Key           string
 	Value         int
 }
+
+type Contribution struct {
+	Name                            string `gorm:"column:name"`
+	TotalIncome                     int    `gorm:"column:totalIncome"`
+	PersonalContributeion           int    `gorm:"column:personalContributeion"`
+	ProfitableContributeion         int    `gorm:"column:profitableContributeion"`
+	PartyContributeion              int    `gorm:"column:partyContributeion"`
+	CivilOrganizationsContributeion int    `gorm:"column:civilOrganizationsContributeion"`
+	AnonymousContributeion          int    `gorm:"column:anonymousContributeion"`
+	OtherContributeion              int    `gorm:"column:otherContributeion"`
+	OverThrityThousandContribute    int    `gorm:"column:overThrityThousandContribute"`
+	TotalExpense                    int    `gorm:"column:totalExpense"`
+}
