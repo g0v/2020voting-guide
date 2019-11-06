@@ -97,7 +97,14 @@ type StatisticResp struct {
 		OtherContributeion              int `json:"otherContributeion"`
 		OverThrityThousandContribute    int `json:"overThrityThousandContribute"`
 		TotalExpense                    int `json:"totalExpense"`
-	}
+	} `json:"contribution"`
+	OtherConstituencyCandidate []StatisticOtherCandidate `json:"otherConstituencyCandidate"`
+}
+
+type StatisticOtherCandidate struct {
+	Name         string `json:"name"`
+	TotalIncome  int    `json:"totalIncome"`
+	TotalExpense int    `json:"totalExpense"`
 }
 
 type StatisticCategory struct {
