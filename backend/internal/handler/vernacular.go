@@ -15,12 +15,12 @@ import (
 func ListVernacular(c *gin.Context) {
 	page := c.Param("page")
 
-	page_int, err := strconv.Atoi(page)
+	pageInt, err := strconv.Atoi(page)
 	if err == nil {
-		fmt.Println(page_int)
+		fmt.Println(pageInt)
 	}
 
-	offset := (page_int - 1) * 150
+	offset := (pageInt - 1) * 150
 
 	var api []struct {
 		Category   string `json:"category"`
