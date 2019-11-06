@@ -14,7 +14,9 @@ const BasePaper = ({ children, title, subtitle }: BasePaper) => {
                 <Typography variant="h2">{title}</Typography>
             </Box>
             <Box pb={1.5}>
-                <Typography variant="h5">{subtitle}</Typography>
+                <Typography variant="h5" color="textSecondary">
+                    {subtitle}
+                </Typography>
             </Box>
             {children}
         </Box>

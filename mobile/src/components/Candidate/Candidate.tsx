@@ -4,7 +4,7 @@ import React from 'react';
 import Nav from './Nav';
 import IssueBillTab from './IssueBillTab';
 // import BasicInfoTab from './BasicInfoTab';
-// import PassPerformance from './PassPerformanceTab';
+import PassPerformanceTab from './PassPerformanceTab';
 import CommingSoon from '../CommingSoon';
 import { Bill } from '../IssueBill';
 
@@ -20,13 +20,13 @@ interface Candidate {
     educations: string;
     experiences: string;
     politics: string;
-    sittingrate: string;
-    interpellationrate: string;
+    sittingRate: number;
+    interpellationRate: number;
     interpellationnum: string;
     maxinterpellationnum: string;
-    interpellationcategory: string;
+    interpellationcategory: { name: string; value: number }[];
     billnum: string;
-    billnumcategory: string;
+    billnumcategory: { name: string; percent: number }[];
     politicalcontribution: string;
     othercandidate: string;
     bills: Bill[];
@@ -67,13 +67,14 @@ const CandidatePage = ({ match }: CandidatePage) => {
                 <Tab label="過去表現" />
                 <Tab label="經歷政見" />
             </Tabs>
+
             {tab === 0 ? (
                 <IssueBillTab {...candidate} />
             ) : tab === 1 ? (
-                // <PassPerformance {...api} />
-                <CommingSoon />
+                <PassPerformanceTab {...candidate} />
             ) : (
-                // <BasicInfoTab {...api} />
+                // <CommingSoon />
+                // <BasicInfoTab {...candidate} />
                 <CommingSoon />
             )}
         </>
