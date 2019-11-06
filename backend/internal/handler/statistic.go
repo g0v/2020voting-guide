@@ -67,9 +67,9 @@ func GetStatisticByNameHandler(c *gin.Context) {
 		"constituency = (?)",
 		db.MySQL.Table("contribution").Select("constituency").Where("name = ?", name).QueryExpr(),
 	).Find(&otherCandidateDb)
-	statisticResp.OtherConstituencyCandidate = []models.OtherCandidate{}
+	statisticResp.OtherConstituencyCandidate = []models.StatisticOtherCandidate{}
 	for _, candidate := range otherCandidateDb {
-		statisticResp.OtherConstituencyCandidate = append(statisticResp.OtherConstituencyCandidate, models.OtherCandidate{
+		statisticResp.OtherConstituencyCandidate = append(statisticResp.OtherConstituencyCandidate, models.StatisticOtherCandidate{
 			Name:         candidate.Name,
 			TotalIncome:  candidate.TotalIncome,
 			TotalExpense: candidate.TotalExpense,
