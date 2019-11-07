@@ -1,9 +1,7 @@
 package handler
 
 import (
-	"fmt"
 	"net/http"
-	"strconv"
 
 	"github.com/g0v/2020voting-guide/backend/internal/config"
 	"github.com/g0v/2020voting-guide/backend/internal/db"
@@ -13,14 +11,7 @@ import (
 
 // ListVernacular write newest record
 func ListVernacular(c *gin.Context) {
-	page := c.Param("page")
-
-	pageInt, err := strconv.Atoi(page)
-	if err == nil {
-		fmt.Println(pageInt)
-	}
-
-	offset := (pageInt - 1) * 150
+	filter := c.Param("filter")
 
 	var api []struct {
 		Category   string `json:"category"`
@@ -28,7 +19,11 @@ func ListVernacular(c *gin.Context) {
 		BillNo     string `gorm:"column:billNo" json:"billNo"`
 		Vernacular string `json:"vernacular"`
 	}
-	db.MySQL.Raw("SELECT bill.category, bill.name, bill.billNo, vernacular.vernacular FROM `bill` left join (SELECT max(id) id, bill_no from vernacular group by bill_no) t1 on t1.bill_no = bill.billNo left join vernacular on vernacular.id = t1.id WHERE category is not null and term = '09' LIMIT 3500 OFFSET ?", offset).Scan(&api)
+	if filter == "All" {
+		db.MySQL.Raw("SELECT bill.category, bill.name, bill.billNo, vernacular.vernacular FROM `bill` left join (SELECT max(id) id, bill_no from vernacular group by bill_no) t1 on t1.bill_no = bill.billNo left join vernacular on vernacular.id = t1.id WHERE category is not null and term = '09'").Scan(&api)
+	} else if filter == "三讀" {
+		db.MySQL.Raw("SELECT bill.category, bill.name, bill.billNo, vernacular.vernacular FROM `bill` left join (SELECT max(id) id, bill_no from vernacular group by bill_no) t1 on t1.bill_no = bill.billNo left join vernacular on vernacular.id = t1.id WHERE category is not null and term = '09' and billStatus = '三讀'").Scan(&api)
+	}
 
 	c.JSON(http.StatusOK, api)
 }

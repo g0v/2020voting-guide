@@ -1,12 +1,5 @@
+import { Button, Table, TableBody, TableCell, TableHead, TableRow } from '@material-ui/core';
 import React from 'react';
-import {
-    Table,
-    TableHead,
-    TableRow,
-    TableCell,
-    TableBody,
-    Button
-} from '@material-ui/core';
 import { billNoToDate } from '../../utils';
 
 interface Bill {
@@ -20,17 +13,17 @@ interface Bill {
 const VernacularListPage = ({
     match
 }: {
-    match: { params: { page: string } };
+    match: { params: { filter: string } };
 }) => {
-    const { page } = match.params;
+    const { filter } = match.params;
     const [bills, setBills] = React.useState([] as Bill[]);
     React.useEffect(() => {
-        fetch(`/api/vernacularlist/${page}`)
+        fetch(`/api/vernacularlist/${filter}`)
             .then(res => res.json())
             .then(res => {
                 setBills(res);
             });
-    }, [page]);
+    }, [filter]);
 
     return (
         <Table>
