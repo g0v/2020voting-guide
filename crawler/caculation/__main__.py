@@ -1,8 +1,9 @@
+import csv
 import re
 
 from peewee import fn
 
-from db import Candidate, Legislator, Sitting
+from db import Bill, Candidate, Legislator, ProposerCosignatory, Sitting
 from util import roc_to_common_era
 
 
@@ -77,9 +78,28 @@ def update_sitting_rate():
         ).execute()
 
 
+def store_bill_proposer_cosignatory():
+    data = []
+
+    bills = Bill.select(Bill.billNo, Bill.billProposer, Bill.billCosignatory).where(Bill.term == "09")
+    with open("./caculation/proposer_cosignatory_map.csv") as csvfile:
+        name_search_pairs = list(csv.DictReader(csvfile))
+        for bill in bills:
+            print(bill.billNo)
+            for pair in name_search_pairs:
+                if bill.billProposer and pair["search_string"] in bill.billProposer:
+                    data.append({"billNo": bill.billNo, "role": "proposer", "name": pair["name"]})
+                if bill.billCosignatory and pair["search_string"] in bill.billCosignatory:
+                    data.append({"billNo": bill.billNo, "role": "cosignatory", "name": pair["name"]})
+    ProposerCosignatory.drop_table()
+    ProposerCosignatory.create_table()
+    ProposerCosignatory.insert_many(data).execute()
+
+
 if __name__ == "__main__":
     tag_current_candidate()
     tag_history_candidate()
     update_last_term()
     update_photo()
     update_sitting_rate()
+    store_bill_proposer_cosignatory()
