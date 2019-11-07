@@ -1,8 +1,9 @@
 import json
-from os import environ, path
 import re
+from os import environ, path
+
 from db import Bill
-from legislative_yuan_open_data import scrap_info_pages, store_pages_info, read_pages_info
+from legislative_yuan_open_data import read_pages_info, scrap_info_pages, store_pages_info
 
 ID = "bill_info"
 FILE_DIR = path.dirname(path.abspath(__file__))

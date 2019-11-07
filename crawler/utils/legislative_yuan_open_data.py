@@ -1,8 +1,10 @@
+from glob import glob
 from sys import exit
 from typing import Any, Dict, List
-from util import store_json
-from glob import glob
+
 import requests
+
+from util import store_json
 
 URL = "http://data.ly.gov.tw/odw/openDatasetJson.action"
 
@@ -19,7 +21,7 @@ def _send_request(payload: Dict[str, Any], timeout: int) -> str:
 
 
 def scrap_info_pages(
-    id: str, payload_base: Dict[str, Any], page_count: int, start_page=1, timeout: int = 10
+    id: str, payload_base: Dict[str, Any], page_count: int, start_page=1, timeout: int = 30
 ) -> List[str]:
     def scrap_page(page_num: int) -> str:
         print(f'[INFO] Start scraping "{id}" page{page_num} ')

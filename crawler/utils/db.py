@@ -153,3 +153,9 @@ class BillDescription(BaseModel):
     reviseLaw = TextField(null=True)
     docUrl = TextField()
     meetingTimes = CharField()
+
+
+class ProposerCosignatory(BaseModel):
+    billNo = CharField(index=True)
+    role = CharField()
+    name = CharField()
