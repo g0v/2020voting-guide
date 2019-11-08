@@ -91,8 +91,8 @@ type BillAPI struct {
 type StatisticResp struct {
 	Name                   string              `json:"name"`
 	SittingRate            float32             `json:"sittingRate"`
-	InterpellationRate     int                 `json:"interpellationRate"`
 	InterpellationNum      int                 `json:"interpellationNum"`
+	BillProposalNum        int                 `json:"billProposalNum"`
 	BillProposalCategory   []StatisticCategory `json:"billProposal"`
 	InterpellationCategory []StatisticCategory `json:"interpellation"`
 	Contribution           struct {
