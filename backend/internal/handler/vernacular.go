@@ -62,19 +62,19 @@ func GetVernacular(c *gin.Context) {
 
 	var api models.BillAPI
 	api.Bill = models.Bill{
-		Name:            billDb.Name,
-		BillNo:          billDb.BillNo,
-		ProposerType:    "",
-		Description:     "",
-		Date:            "",
-		Category:        billDb.Category,
-		BillOrg:         billDb.BillOrg,
-		BillProposer:    billDb.BillProposer,
-		BillCosignatory: billDb.BillCosignatory,
-		BillStatus:      billDb.BillStatus,
-		PdfURL:          billDb.PdfURL,
-		CaseOfAction:    billDb.CaseOfAction,
-		Vernacular:      vernacularDb.Vernacular,
+		Name:                  billDb.Name,
+		BillNo:                billDb.BillNo,
+		ProposerType:          "",
+		Description:           "",
+		Date:                  "",
+		Category:              billDb.Category,
+		BillOrg:               billDb.BillOrg,
+		BillProposerString:    billDb.BillProposer,
+		BillCosignatoryString: billDb.BillCosignatory,
+		BillStatus:            billDb.BillStatus,
+		PdfURL:                billDb.PdfURL,
+		CaseOfAction:          billDb.CaseOfAction,
+		Vernacular:            vernacularDb.Vernacular,
 	}
 
 	var descriptionsDb []db.BillDescription

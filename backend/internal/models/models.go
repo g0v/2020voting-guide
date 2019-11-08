@@ -53,19 +53,27 @@ type Party struct {
 
 // Bill api in candidate
 type Bill struct {
-	Name            string `json:"name"`
-	BillNo          string `json:"billNo"`
-	ProposerType    string `json:"proposerType"`
-	Description     string `json:"description"`
-	Date            string `json:"date"`
-	Category        string `json:"category"`
-	BillOrg         string `json:"billOrg"`
-	BillProposer    string `json:"billProposer"`
-	BillCosignatory string `json:"billCosignatory"`
-	BillStatus      string `json:"billStatus"`
-	PdfURL          string `json:"pdfUrl"`
-	CaseOfAction    string `json:"caseOfAction"`
-	Vernacular      string `json:"vernacular"`
+	Name                  string      `json:"name"`
+	BillNo                string      `json:"billNo"`
+	ProposerType          string      `json:"proposerType"`
+	Description           string      `json:"description"`
+	Date                  string      `json:"date"`
+	Category              string      `json:"category"`
+	BillOrg               string      `json:"billOrg"`
+	BillProposer          []NameParty `json:"billProposer"`
+	BillProposerString    string      `json:"billProposerString"`
+	BillCosignatory       []NameParty `json:"billCosignatory"`
+	BillCosignatoryString string      `json:"billCosignatoryString"`
+	BillStatus            string      `json:"billStatus"`
+	PdfURL                string      `json:"pdfUrl"`
+	CaseOfAction          string      `json:"caseOfAction"`
+	Vernacular            string      `json:"vernacular"`
+}
+
+type NameParty struct {
+	Name  string `json:"name"`
+	Role  string `json:"role"`
+	Party string `json:"party"`
 }
 
 type Description struct {
