@@ -35,6 +35,7 @@ func GetStatisticByNameHandler(c *gin.Context) {
 				Term:  statisticObj.Term,
 				Count: statisticObj.Value,
 			})
+			statisticResp.BillProposalNum = statisticResp.BillProposalNum + statisticObj.Value
 		}
 		if statisticObj.StatisticType == "legal_proposal" {
 			statisticResp.InterpellationCategory = append(statisticResp.InterpellationCategory, models.StatisticCategory{
@@ -42,6 +43,7 @@ func GetStatisticByNameHandler(c *gin.Context) {
 				Term:  statisticObj.Term,
 				Count: statisticObj.Value,
 			})
+			statisticResp.InterpellationNum = statisticResp.InterpellationNum + statisticObj.Value
 		}
 	}
 
