@@ -37,19 +37,19 @@ func GetPartyByNameHandler(c *gin.Context) {
 	for _, bill := range orgBillsDb {
 		date := bill.BillNo[0:3] + "-" + bill.BillNo[3:5] + "-" + bill.BillNo[5:7]
 		party.Bills = append(party.Bills, models.Bill{
-			Name:            bill.Name,
-			BillNo:          bill.BillNo,
-			ProposerType:    "黨團提案",
-			Description:     "",
-			Date:            date,
-			Category:        bill.Category,
-			BillOrg:         bill.BillOrg,
-			BillProposer:    bill.BillProposer,
-			BillCosignatory: bill.BillCosignatory,
-			BillStatus:      bill.BillStatus,
-			PdfURL:          bill.PdfURL,
-			CaseOfAction:    bill.CaseOfAction,
-			Vernacular:      "",
+			Name:                  bill.Name,
+			BillNo:                bill.BillNo,
+			ProposerType:          "黨團提案",
+			Description:           "",
+			Date:                  date,
+			Category:              bill.Category,
+			BillOrg:               bill.BillOrg,
+			BillProposerString:    bill.BillProposer,
+			BillCosignatoryString: bill.BillCosignatory,
+			BillStatus:            bill.BillStatus,
+			PdfURL:                bill.PdfURL,
+			CaseOfAction:          bill.CaseOfAction,
+			Vernacular:            "",
 		})
 	}
 

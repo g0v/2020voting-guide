@@ -1,8 +1,9 @@
-import { Box, Typography, Button } from '@material-ui/core';
-import { useTheme, makeStyles } from '@material-ui/core/styles';
+import { Box, Button, Typography } from '@material-ui/core';
+import { makeStyles, useTheme } from '@material-ui/core/styles';
 import React from 'react';
-import BillDialog from './BillDialog';
 import { simplifyCaseOfAction } from '../utils';
+import BillDialog from './BillDialog';
+
 export interface Bill {
     name: string;
     description: string;
@@ -15,6 +16,8 @@ export interface Bill {
     billOrg: string;
     billProposer: string;
     billCosignatory: string;
+    billProposerString: string;
+    billCosignatoryString: string;
     pdfUrl: string;
 }
 
@@ -55,15 +58,15 @@ const Bill = ({
     billNo,
     description,
     caseOfAction,
-    billProposer,
-    billCosignatory
+    billProposerString,
+    billCosignatoryString
 }: {
     name: string;
     billNo: string;
     description: string;
     caseOfAction: string;
-    billProposer: string;
-    billCosignatory: string;
+    billProposerString: string;
+    billCosignatoryString: string;
 }) => {
     const [open, setOpen] = React.useState(false);
     const [openDetail, setOpenDetail] = React.useState(false);
@@ -93,8 +96,8 @@ const Bill = ({
                 </div>
                 {open ? (
                     <RelatePerson
-                        proposer={billProposer}
-                        cosignatory={billCosignatory}
+                        proposer={billProposerString}
+                        cosignatory={billCosignatoryString}
                     />
                 ) : null}
                 {open ? (

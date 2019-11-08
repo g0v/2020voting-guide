@@ -132,3 +132,9 @@ type Contribution struct {
 	OverThrityThousandContribute    int    `gorm:"column:overThrityThousandContribute"`
 	TotalExpense                    int    `gorm:"column:totalExpense"`
 }
+
+type ProposerCategory struct {
+	BillNo string `json:"billNo"`
+	Role   string `json:"role"`
+	Name   string `json:"name"`
+}
