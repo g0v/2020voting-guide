@@ -1,5 +1,7 @@
-import { AppBar, Box, IconButton, Link, Toolbar } from '@material-ui/core';
+import { AppBar, Box, Button, IconButton, Link, Toolbar } from '@material-ui/core';
+import { Route, Switch } from 'react-router-dom';
 import MenuIcon from '@material-ui/icons/Menu';
+import ReportIcon from '@material-ui/icons/Report';
 import clsx from 'clsx';
 import React from 'react';
 import './Header.scss';
@@ -25,6 +27,17 @@ const Header = ({ open, handleDrawerOpen }: HeaderProps) => {
                     <Link href="/" color="inherit">
                         <Box className="header__inner"></Box>
                     </Link>
+                    <Box className="header__right">
+                        <Switch>
+                            <Route path="/vernacularlist">
+                                <Link target="_blank" href="https://forms.gle/jCUopFeZg4jeaMjw9" >
+                                    <Button size="small" variant="outlined" startIcon={<ReportIcon color="error" />} >
+                                        回報問題
+                                    </Button>
+	                            </Link>
+                            </Route>
+                        </Switch>
+                    </Box>
                 </Toolbar>
             </AppBar>
             <Toolbar />

@@ -21,4 +21,8 @@
     z-index: 2;
     fill: $color-primary !important;
   }
+
+  &__right{
+	margin-left: auto;
+  }
 }
