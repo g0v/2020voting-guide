@@ -35,13 +35,14 @@ func ListVernacular(c *gin.Context) {
 			FROM billclicks
 			LEFT JOIN (
 				SELECT bill.category, bill.name, bill.billNo, bill.sessionPeriod, bill.sessionTimes
-				from bill 
-				where bill.term = '09' and bill.category is not null
+				FROM bill 
+				WHERE bill.term = '09' AND bill.category is not null
 				group by bill.category, bill.name, bill.billNo, bill.sessionPeriod, bill.sessionTimes
-			) t2 on billclicks.name = t2.name and billclicks.sessionPeriod = t2.sessionPeriod and billclicks.sessionTimes = t2.sessionTimes
+			) t2 on billclicks.name = t2.name AND billclicks.sessionPeriod = t2.sessionPeriod AND billclicks.sessionTimes = t2.sessionTimes
 			LEFT JOIN (SELECT max(id) id, bill_no from vernacular group by bill_no) t1 on t1.bill_no = t2.billNo 
 			LEFT JOIN vernacular on vernacular.id = t1.id 
-			where t2.billNo is not null`).Scan(&api)
+			WHERE t2.billNo is not null
+			ORDER BY clicks DESC`).Scan(&api)
 	}
 
 	c.JSON(http.StatusOK, api)
