@@ -16,7 +16,7 @@ body {
   color: white;
 }
 .highlight{
-  border-bottom: 3px solid $color-red;
+  background:linear-gradient(transparent 50%, rgba(236,80,43,0.2) 50%);
 }
 .cursor-pointer{
   cursor: pointer;
