@@ -1,6 +1,6 @@
 import json
 import re
-from os import environ, path
+from os import environ, makedirs, path
 
 from db import Bill
 from legislative_yuan_open_data import read_pages_info, scrap_info_pages, store_pages_info
@@ -35,5 +35,6 @@ def transform_load():
 
 
 if __name__ == "__main__":
+    makedirs(OUTPUT_RAW_DIR, exist_ok=True)
     extract()
     transform_load()

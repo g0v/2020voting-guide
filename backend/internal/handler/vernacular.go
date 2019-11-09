@@ -18,11 +18,30 @@ func ListVernacular(c *gin.Context) {
 		Name       string `json:"name"`
 		BillNo     string `gorm:"column:billNo" json:"billNo"`
 		Vernacular string `json:"vernacular"`
+		Clicks     int    `json:"clicks"`
 	}
 	if filter == "All" {
 		db.MySQL.Raw("SELECT bill.category, bill.name, bill.billNo, vernacular.vernacular FROM `bill` left join (SELECT max(id) id, bill_no from vernacular group by bill_no) t1 on t1.bill_no = bill.billNo left join vernacular on vernacular.id = t1.id WHERE category is not null and term = '09'").Scan(&api)
 	} else if filter == "三讀" {
 		db.MySQL.Raw("SELECT bill.category, bill.name, bill.billNo, vernacular.vernacular FROM `bill` left join (SELECT max(id) id, bill_no from vernacular group by bill_no) t1 on t1.bill_no = bill.billNo left join vernacular on vernacular.id = t1.id WHERE category is not null and term = '09' and billStatus = '三讀'").Scan(&api)
+	} else if filter == "clicks" {
+		db.MySQL.Raw(
+			`SELECT 
+			billclicks.name, 
+			t2.category, 
+			t2.billNo, 
+			vernacular.vernacular,
+			billclicks.clicks
+			FROM billclicks
+			LEFT JOIN (
+				SELECT bill.category, bill.name, bill.billNo, bill.sessionPeriod, bill.sessionTimes
+				from bill 
+				where bill.term = '09' and bill.category is not null
+				group by bill.category, bill.name, bill.billNo, bill.sessionPeriod, bill.sessionTimes
+			) t2 on billclicks.name = t2.name and billclicks.sessionPeriod = t2.sessionPeriod and billclicks.sessionTimes = t2.sessionTimes
+			LEFT JOIN (SELECT max(id) id, bill_no from vernacular group by bill_no) t1 on t1.bill_no = t2.billNo 
+			LEFT JOIN vernacular on vernacular.id = t1.id 
+			where t2.billNo is not null`).Scan(&api)
 	}
 
 	c.JSON(http.StatusOK, api)

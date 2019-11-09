@@ -109,7 +109,7 @@ class Party(BaseModel):
 
 
 class Bill(BaseModel):
-    name = CharField()
+    name = CharField(index=True)
     category = CharField(null=True)
     selectTerm = CharField()
     term = CharField()
@@ -159,3 +159,11 @@ class ProposerCosignatory(BaseModel):
     billNo = CharField(index=True)
     role = CharField()
     name = CharField()
+
+
+class BillClicks(BaseModel):
+    term = CharField()
+    sessionPeriod = CharField()
+    sessionTimes = CharField()
+    name = CharField()
+    clicks = IntegerField()
