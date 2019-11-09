@@ -80,7 +80,7 @@ const AppDrawer = ({ open, handleDrawerClose }: AppDrawer) => {
             <Drawer
                 className={classes.drawer}
                 variant="persistent"
-                anchor="left"
+                anchor="right"
                 open={open}
                 classes={{
                     paper: classes.drawerPaper

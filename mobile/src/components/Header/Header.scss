@@ -4,25 +4,22 @@
   position: relative;
   background-color:white !important;
   border-bottom: 2px solid $color-primary;
-  &__inner{
+  &__toolbar{
+    justify-content: center;
+  }
+  &__kv{
+    width: 190px;
+    height: 48px;
     position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    margin: auto;
-    color:black;
-    background-repeat: no-repeat;
-    background-position: center center;
     background-image:url('/img/header/kv.svg');
+  }
+  
+  &__right{
+    margin-left: auto;
   }
   // svg
   &__menu-icon{
     z-index: 2;
     fill: $color-primary !important;
-  }
-
-  &__right{
-    margin-left: auto;
   }
 }

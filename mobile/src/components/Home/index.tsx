@@ -9,18 +9,11 @@ interface VideoCard {
     title: string;
     subtitle: string;
     src: string;
-    className: string;
     children: ReactNode;
 }
 
-const VideoCard = ({
-    title,
-    subtitle,
-    src,
-    children,
-    className
-}: VideoCard) => (
-    <Box my={4} className={'page-index__video-card ' + className}>
+const VideoCard = ({ title, subtitle, src, children }: VideoCard) => (
+    <Box my={4} className="page-index__video-card">
         <Box mx={1} mb={3} className="page-index__video-card-title">
             <Typography variant="h2">{title}</Typography>
         </Box>
@@ -45,10 +38,6 @@ const Home = () => {
         const targetDOM = (e.target as HTMLElement).getAttribute('data-target');
         scrollBody('.' + targetDOM);
     };
-    const diffDay: number = useMemo(
-        () => dayjs('2020/1/11').diff(dayjs(), 'day'),
-        []
-    );
     return (
         <div className="page-home">
             <Box textAlign="center" mt="40px">
@@ -119,6 +108,8 @@ const Home = () => {
                         選前大補帖收錄了
                         <br />
                         這些地方的開放資料
+                        <br />
+                        協助人民選前抱佛腳
                     </Typography>
                 </Box>
                 <div className="page-home__inclusion-box">
@@ -139,7 +130,6 @@ const Home = () => {
             </Box>
             <Box ml={2} mr={2}>
                 <VideoCard
-                    className="page-home-quick-0"
                     title="大補帖一、立委的工作是什麼？"
                     subtitle="立法委員究竟該做什麼？"
                     src="https://www.youtube.com/embed/lOCqaZ5Pb_w"
@@ -161,7 +151,6 @@ const Home = () => {
                 </VideoCard>
                 <div className="divider"></div>
                 <VideoCard
-                    className="page-home-quick-1"
                     title="大補帖二、為什麼有兩票？"
                     subtitle="單一選區兩票制"
                     src="https://www.youtube.com/embed/zPkX6cn4oMg"
