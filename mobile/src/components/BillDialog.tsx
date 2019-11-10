@@ -2,6 +2,7 @@ import { Box, Button, Dialog, DialogContent, Typography } from '@material-ui/cor
 import React from 'react';
 import { simplifyCaseOfAction } from '../utils';
 import ChangedBill from './Bill/ChangedBill';
+import { CircleIcon } from './PartyIcon';
 
 const defaultInfo = {
     bill: {
@@ -42,9 +43,10 @@ const BillDialog = ({
             <Box display="flex" flexDirection="row" flexWrap="wrap" py={1}>
                 {bill.billProposer.map(({name, party}) => (
                     <Box flexShrink={0} pr={1} key={name}>
-                        <Typography variant="h5" color="textSecondary">
-                            {name}
+                        <Typography variant="h5" color="textSecondary" display="inline">
+                        {name}
                         </Typography>
+                        <CircleIcon party={party} />
                     </Box>
                 ))}
             </Box>
@@ -52,9 +54,10 @@ const BillDialog = ({
             <Box display="flex" flexDirection="row" flexWrap="wrap" py={1}>
                 {bill.billCosignatory.map(({name, party}) => (
                     <Box flexShrink={0} pr={1} key={name}>
-                        <Typography variant="h5" color="textSecondary">
+                        <Typography variant="h5" color="textSecondary" display="inline">
                             {name}
                         </Typography>
+                        <CircleIcon party={party} />
                     </Box>
                 ))}
             </Box>
