@@ -12,20 +12,53 @@ import AppPieChart from './AppPieChart';
 import AppBarChart from './AppBarChart';
 
 const data01 = [
-    { name: 'Group A', value: 400 },
-    { name: 'Group B', value: 300 },
-    { name: 'Group C', value: 300 },
-    { name: 'Group D', value: 200 },
-    { name: 'Group E', value: 278 },
-    { name: 'Group F', value: 189 }
+    { name: '個人捐贈', precent: 57.1 },
+    { name: '營利事業捐贈', percent: 39.3 },
+    { name: '人民團體捐贈', percent: 3 }
 ];
 
+const contributionMappings: { [key: string]: string } = {
+    personalContributeion: '個人捐贈',
+    profitableContributeion: '營利事業捐贈',
+    partyContributeion: '政黨捐贈',
+    civilOrganizationsContributeion: '人民團體捐贈',
+    anonymousContributeion: '匿名捐贈',
+    otherContributeion: '其他'
+}
+
+// const contributionIncome = [
+//     { name: 'personalContributeion', value: 10327100 },
+//     { name: 'profitableContributeion', value: 7097200 },
+//     { name: 'partyContributeion', value: 0 },
+//     { name: 'Group D', value: 200 },
+//     { name: 'Group E', value: 278 },
+//     { name: 'Group F', value: 189 }
+// ];
+
+
+const Statistic = {
+    sittingRate: 0,
+    interpellationRate: 0,
+    interpellationNum: 0,
+    billProposalNum: 0,
+    interpellation: [],
+    billProposal: [],
+    contribution: {
+        totalIncome: 0,
+        personalContributeion: 0,
+        profitableContributeion: 0,
+        partyContributeion: 0,
+        civilOrganizationsContributeion: 0,
+        anonymousContributeion: 0,
+        otherContributeion: 0,
+        overThrityThousandContribute: 0,
+        totalExpense: 0
+    }
+};
 interface PositionTab {
     name?: string;
     lastTerm?: string;
     lastTermYear?: string;
-    sittingRate?: number;
-    interpellationRate?: number;
     interpellationCategory?: { name: string; value: number }[];
     billNumCategory?: { name: string; percent: number }[];
 }
@@ -37,26 +70,38 @@ const useStyle = makeStyles({
     }
 });
 
+const getTenThousand = (num: number) => {
+    return Math.floor(num / 10000)
+}
+
 const PositionTab = ({
-    name,
+    name = '',
     lastTerm,
     lastTermYear,
-    sittingRate = 0,
-    interpellationRate = 0,
-    interpellationCategory = [],
-    billNumCategory = []
+    interpellationCategory = []
 }: PositionTab) => {
     const theme = useTheme();
     const classes = useStyle();
     const [showMoreInterpellation, setMoreInterpellation] = React.useState(
         false
     );
-    const [interpellationData, setinterpellationData] = React.useState([]);
+    const [showMoreBillProposal, setMoreBillProposal] = React.useState(false);
+    const [statistic, setStatistic] = React.useState(Statistic);
+
+    console.log(statistic);
+
+    const contributionIncome: {name: string; percent: any} = Object.keys(contributionMappings).map((key: string) => {
+        return {
+            name: contributionMappings[key] || '',
+            percent: (statistic.contribution[key] / statistic.contribution.totalIncome) || 0
+        }
+    })
 
     React.useEffect(() => {
+        if (!name) return;
         fetch(`/api/statistic/${name}`)
             .then(res => res.json())
-            .then(setinterpellationData);
+            .then(res => setStatistic(res));
     }, [name]);
 
     return (
@@ -65,37 +110,80 @@ const PositionTab = ({
                 primary={`${name} 曾擔任 ${lastTerm}`}
                 secondary={lastTermYear}
             />
-            {/* <BasePaper
+            <BasePaper
                 title="立法院出席率"
                 subtitle="立委應於指定開會時間出席立法院開會、質詢、審議法案"
             >
                 <BigNum
-                    num={sittingRate}
+                    num={statistic.sittingRate * 100}
                     unit="%"
-                    text1="立委平均數 91%"
-                    text2="中位數 89%"
+                    text1=""
+                    text2=""
                 />
-            </BasePaper> */}
+            </BasePaper>
             <Box p={1} bgcolor={theme.palette.background.default} />
+
+            <BasePaper
+                title="法律草案"
+                subtitle="立委需要研究法案與各式社會發展，提案修正國家法律"
+            >
+                <Box my={4}>
+                    <Typography variant="h3">主提案修法數量</Typography>
+                    <BigNum
+                        num={statistic.billProposalNum}
+                        unit="件"
+                        text1=""
+                        text2=""
+                    />
+                </Box>
+                <Typography variant="h3">最多主提案修法類別</Typography>
+                <AppBarChart
+                    data={statistic.billProposal}
+                    showMore={showMoreBillProposal}
+                />
+                <Box display="flex" justifyContent="center">
+                    <IconButton
+                        aria-label="expand"
+                        onClick={() =>
+                            setMoreBillProposal(!showMoreBillProposal)
+                        }
+                    >
+                        {showMoreBillProposal ? (
+                            <ExpandLessRoundedIcon
+                                className={classes.expandButton}
+                            />
+                        ) : (
+                            <ExpandMoreRoundedIcon
+                                className={classes.expandButton}
+                            />
+                        )}
+                    </IconButton>
+                </Box>
+                {/* <Typography variant="h5">
+                    立法院： 吳思姚法案主題案影音
+                </Typography> */}
+            </BasePaper>
+            <Box p={1} bgcolor={theme.palette.background.default} />
+
             <BasePaper
                 title="質詢"
                 subtitle="立法委員要針對行政院的施政進行監督詢答"
             >
-                {/* <Box my={4}>
-                    <Typography variant="h3">質詢率</Typography>
+                <Box my={4}>
+                    <Typography variant="h3">質詢次數</Typography>
                     <BigNum
-                        num={interpellationRate}
-                        unit="%"
-                        text1="180 次 / 210 次質詢機會"
-                        text2="立委平均 91%"
+                        num={statistic.interpellationNum}
+                        unit="次"
+                        text1=""
+                        text2=""
                     />
-                </Box> */}
+                </Box>
                 <Typography variant="h3">質詢類別</Typography>
                 <Typography variant="h5" color="textSecondary">
                     立法委員要針對行政院的施政進行監督詢答
                 </Typography>
                 <AppBarChart
-                    data={interpellationData}
+                    data={statistic.interpellation}
                     showMore={showMoreInterpellation}
                 />
                 <Box display="flex" justifyContent="center">
@@ -119,67 +207,16 @@ const PositionTab = ({
                 {/* <Typography variant="h5">立法院： 吳思姚質詢影音</Typography> */}
             </BasePaper>
             <Box p={1} bgcolor={theme.palette.background.default} />
-            {/* <BasePaper
-                title="修法"
-                subtitle="立委需要研究法案雨各式社會發展，提案修正國家法律"
-            >
-                <Box my={4}>
-                    <Typography variant="h3">主題案修法數量</Typography>
-                    <BigNum
-                        num={83}
-                        unit="件"
-                        text1="立委平均數 92%"
-                        text2="中位數 88%"
-                    />
-                </Box>
-                <Typography variant="h3">最多主提案修法類別</Typography>
-                <AppPieChart data={billNumCategory} />
-                <Typography variant="h5">
+
+            <BasePaper title="政治獻金紀錄" subtitle="每年收到的捐款和使用方式">
+                <Typography variant="h3">{name} 收入</Typography>
+                <AppPieChart data={contributionIncome} text={getTenThousand(statistic.contribution.totalIncome) + "萬元"} />
+                <Typography variant="h3">{name} 支出</Typography>
+                <AppPieChart data={data01} text={getTenThousand(statistic.contribution.totalExpense) + "萬元"} />
+                {/* <Typography variant="h5">
                     立法院： 吳思姚法案主題案影音
-                </Typography>
-            </BasePaper> */}
-            <Box p={1} bgcolor={theme.palette.background.default} />
-            {/* <BasePaper title="政治現金紀錄" subtitle="每年收到的捐款和使用方式">
-                <Typography variant="h3">吳思姚 收入</Typography>
-                <Box width="100%" height={230} mx="auto">
-                    <ResponsiveContainer>
-                        <PieChart>
-                            <Pie
-                                dataKey="value"
-                                isAnimationActive={false}
-                                data={data01}
-                                fill={theme.palette.primary.main}
-                                startAngle={180}
-                                endAngle={0}
-                                cy="70%"
-                                label
-                            />
-                            <Tooltip />
-                        </PieChart>
-                    </ResponsiveContainer>
-                </Box>
-                <Typography variant="h3">吳思姚 支出</Typography>
-                <Box width="100%" height={230} mx="auto">
-                    <ResponsiveContainer>
-                        <PieChart>
-                            <Pie
-                                dataKey="value"
-                                isAnimationActive={false}
-                                data={data01}
-                                fill={theme.palette.primary.main}
-                                startAngle={180}
-                                endAngle={0}
-                                cy="70%"
-                                label
-                            />
-                            <Tooltip />
-                        </PieChart>
-                    </ResponsiveContainer>
-                </Box>
-                <Typography variant="h5">
-                    立法院： 吳思姚法案主題案影音
-                </Typography>
-            </BasePaper> */}
+                </Typography> */}
+            </BasePaper>
             <Box p={1} bgcolor={theme.palette.background.default} />
         </>
     );
