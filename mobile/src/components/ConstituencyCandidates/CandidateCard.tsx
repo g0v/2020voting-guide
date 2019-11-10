@@ -1,14 +1,7 @@
-import {
-    Avatar,
-    Box,
-    Divider,
-    Grid,
-    ListItem,
-    ListItemText,
-    Typography
-} from '@material-ui/core';
+import { Avatar, Box, Divider, Grid, ListItem, ListItemText, Typography } from '@material-ui/core';
 import { makeStyles } from '@material-ui/styles';
 import React from 'react';
+import { RectangleIcon } from '../PartyIcon';
 
 const useStyles = makeStyles({
     photo: {
@@ -18,26 +11,20 @@ const useStyles = makeStyles({
     }
 });
 
-interface Party {
-    id: string;
-    name: string;
-    emblem: string;
-}
-
 export interface CandidateProps {
     id: string;
     name: string;
     picUrl: string;
-    party: Party;
+    party: string;
     experience: string;
 }
 
-export const CandidateCard: React.FunctionComponent<CandidateProps> = ({
+export const CandidateCard = ({
     name,
     party,
     picUrl,
     experience
-}) => {
+}: CandidateProps) => {
     const classes = useStyles();
     return (
         <>
@@ -59,16 +46,14 @@ export const CandidateCard: React.FunctionComponent<CandidateProps> = ({
                             </Grid>
                             <Grid item>
                                 <Box m={1}>
-                                    <Grid container alignItems="center">
+                                    <Grid container alignItems="center" spacing={1}>
                                         <Grid item>
                                             <Typography variant="h6">
                                                 {name}
                                             </Typography>
                                         </Grid>
                                         <Grid item>
-                                            <Typography variant="button">
-                                                {party}
-                                            </Typography>
+                                            <RectangleIcon party={party} />
                                         </Grid>
                                     </Grid>
                                     <Grid container>
