@@ -10,10 +10,12 @@ interface PartyColor {
 const colors: {
     [key: string]: PartyColor;
 } = {
-    民主進步黨: { main: '#1B9431' },
     中國國民黨: { main: '#000099' },
+    民主進步黨: { main: '#1B9431' },
+    台灣民眾黨: { main: '#0CB5B5' },
     時代力量: { main: '#FBBE01' },
     國會政黨聯盟: { main: '#E60012', secondary: '#FFF100' },
+    新黨: { main: '#1C298B', secondary: '#FFDA00' },
     台灣基進: { main: '#A73F24' },
     綠黨: { main: '#73BE00', secondary: '#FFFF00' },
     親民黨: { main: '#FF6310' },
@@ -23,7 +25,7 @@ const colors: {
     台灣團結聯盟: { main: '#C69E6A' },
     安定力量: { main: '#5E3190' },
     一邊一國行動黨: { main: '#5BBDE0' },
-    喜樂島: { main: '#009E96' },
+    喜樂島聯盟: { main: '#009E96' },
     宗教聯盟: { main: '#EAD9A5' },
     無黨籍: { main: '#212121' },
     其他: { main: '#AEAEAE' }
