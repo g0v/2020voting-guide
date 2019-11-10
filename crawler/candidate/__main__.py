@@ -1,11 +1,14 @@
+"""
+Document should be check after scraping form wiki
+"""
 import json
 from os import remove
 
 from scrapy.crawler import CrawlerProcess
 
+from db import Candidate
 from spider import VotingAreaMappingSpider
 from transform import transform
-from db import Candidate
 
 OUTPUT_RAW = "../data/raw/legislator_candidate.json"
 OUTPUT_TRANSFORMED = "../data/organized/legislator_candidate.json"
@@ -67,4 +70,4 @@ if __name__ == "__main__":
     remove_output()
     scrapy_crawl()
     transform(OUTPUT_RAW, OUTPUT_TRANSFORMED)
-    write_result_to_db(OUTPUT_TRANSFORMED)
+    # write_result_to_db(OUTPUT_TRANSFORMED)

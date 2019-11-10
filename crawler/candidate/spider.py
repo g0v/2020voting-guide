@@ -11,12 +11,12 @@ output:
 },...]
 """
 import json
+import re
 from typing import List
-import scrapy
 from urllib.parse import unquote
 
+import scrapy
 from scrapy.selector import Selector
-import re
 
 
 class VotingAreaMappingSpider(scrapy.Spider):
@@ -40,7 +40,8 @@ class VotingAreaMappingSpider(scrapy.Spider):
             return [
                 unquote(link)
                 for link in links
-                if link not in ["/wiki/File:Yes_check.svg", "/wiki/File:Blue_check.svg", "/wiki/File:Black_check.svg"] and not link.endswith(".png")
+                if link not in ["/wiki/File:Yes_check.svg", "/wiki/File:Blue_check.svg", "/wiki/File:Black_check.svg"]
+                and not link.endswith(".png")
                 and not link.endswith("redlink=1")
             ]
 
