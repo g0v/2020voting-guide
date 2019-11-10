@@ -128,17 +128,6 @@ class Bill(BaseModel):
     caseOfAction = TextField()
 
 
-class Bill2(BaseModel):
-    name = CharField()
-    date = CharField()
-    term = CharField()
-    sessionPeriod = CharField()
-    proposer = TextField()
-    cosignatory = TextField()
-    status = CharField()
-    category = CharField(null=True)
-
-
 class BillDescription(BaseModel):
     billNo = CharField(index=True)
     bill = CharField()
