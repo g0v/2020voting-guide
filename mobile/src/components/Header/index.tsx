@@ -30,8 +30,9 @@ const Header = ({ open, handleDrawerOpen }: HeaderProps) => {
                     <Box className="header__right">
                         <Switch>
                             <Route path="/vernacularlist">
-                                <Link target="_blank" href="https://forms.gle/jCUopFeZg4jeaMjw9" >
-                                    <Button size="small" variant="outlined" startIcon={<ReportIcon color="error" />} >
+                                <Link target="_blank" href="https://forms.gle/jCUopFeZg4jeaMjw9">
+                                    <Button size="small" variant="outlined">
+                                        <ReportIcon className="button-icon" color="error" fontSize="small" />
                                         回報問題
                                     </Button>
                                 </Link>
