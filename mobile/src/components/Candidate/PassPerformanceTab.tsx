@@ -12,7 +12,7 @@ import AppPieChart from './AppPieChart';
 import AppBarChart from './AppBarChart';
 
 const data01 = [
-    { name: '個人捐贈', precent: 57.1 },
+    { name: '個人捐贈', percent: 57.1 },
     { name: '營利事業捐贈', percent: 39.3 },
     { name: '人民團體捐贈', percent: 3 }
 ];
@@ -26,17 +26,17 @@ const contributionMappings: { [key: string]: string } = {
     otherContributeion: '其他'
 }
 
-// const contributionIncome = [
-//     { name: 'personalContributeion', value: 10327100 },
-//     { name: 'profitableContributeion', value: 7097200 },
-//     { name: 'partyContributeion', value: 0 },
-//     { name: 'Group D', value: 200 },
-//     { name: 'Group E', value: 278 },
-//     { name: 'Group F', value: 189 }
-// ];
-
-
-const Statistic = {
+const Statistic: {
+    sittingRate: number;
+    interpellationRate: number;
+    interpellationNum: number;
+    billProposalNum: number;
+    interpellation: [];
+    billProposal: [];
+    contribution: {
+        [key: string]: number;
+    }
+} = {
     sittingRate: 0,
     interpellationRate: 0,
     interpellationNum: 0,
@@ -88,12 +88,10 @@ const PositionTab = ({
     const [showMoreBillProposal, setMoreBillProposal] = React.useState(false);
     const [statistic, setStatistic] = React.useState(Statistic);
 
-    console.log(statistic);
-
-    const contributionIncome: {name: string; percent: any} = Object.keys(contributionMappings).map((key: string) => {
+    const contributionIncome: {name: string; percent: number}[] = Object.keys(contributionMappings).map((key: string) => {
         return {
             name: contributionMappings[key] || '',
-            percent: (statistic.contribution[key] / statistic.contribution.totalIncome) || 0
+            percent: Number(((statistic.contribution[key] / statistic.contribution.totalIncome) * 100).toFixed(2)) || 0
         }
     })
 
