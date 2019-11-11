@@ -1,12 +1,11 @@
 import Tab from '@material-ui/core/Tab';
 import Tabs from '@material-ui/core/Tabs';
 import React from 'react';
-import Nav from './Nav';
-import IssueBillTab from './IssueBillTab';
-// import BasicInfoTab from './BasicInfoTab';
-import PassPerformanceTab from './PassPerformanceTab';
-import CommingSoon from '../CommingSoon';
 import { Bill } from '../IssueBill';
+import BasicInfoTab from './BasicInfoTab';
+import IssueBillTab from './IssueBillTab';
+import Nav from './Nav';
+import PassPerformanceTab from './PassPerformanceTab';
 
 interface Candidate {
     name: string;
@@ -73,9 +72,7 @@ const CandidatePage = ({ match }: CandidatePage) => {
             ) : tab === 1 ? (
                 <PassPerformanceTab {...candidate} />
             ) : (
-                // <CommingSoon />
-                // <BasicInfoTab {...candidate} />
-                <CommingSoon />
+                <BasicInfoTab name={name} />
             )}
         </>
     );

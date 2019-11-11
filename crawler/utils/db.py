@@ -156,3 +156,27 @@ class BillClicks(BaseModel):
     sessionTimes = CharField()
     name = CharField()
     clicks = IntegerField()
+
+
+class FB(BaseModel):
+    constituency = CharField()
+    name = CharField()
+    fbPage = CharField()
+    fbId = CharField()
+    like = CharField(null=True)
+    blueCheck = CharField(null=True)
+    createdDate = CharField(null=True)
+    managerCountry = CharField(null=True)
+    nameChangeNum = CharField(null=True)
+
+
+class CandidateExcel(BaseModel):
+    constituency = CharField()
+    name = CharField()
+    fbPage = CharField()
+    fbId = CharField()
+    like = CharField(null=True)
+    blueCheck = CharField(null=True)
+    createdDate = CharField(null=True)
+    managerCountry = CharField(null=True)
+    nameChangeNum = CharField(null=True)
