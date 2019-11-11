@@ -95,3 +95,12 @@ func GetCandidateByNameHandler(c *gin.Context) {
 
 	c.JSON(http.StatusOK, candidate)
 }
+
+func GetCandidateFB(c *gin.Context) {
+
+	name := c.Param("name")
+
+	var fbPage db.FB
+	db.MySQL.Where("name = ?", name).Find(&fbPage)
+	c.JSON(http.StatusOK, fbPage)
+}
