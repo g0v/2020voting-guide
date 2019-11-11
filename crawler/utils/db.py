@@ -180,3 +180,8 @@ class CandidateExcel(BaseModel):
     createdDate = CharField(null=True)
     managerCountry = CharField(null=True)
     nameChangeNum = CharField(null=True)
+
+
+class Politics(BaseModel):
+    name = CharField()
+    politics = TextField()
