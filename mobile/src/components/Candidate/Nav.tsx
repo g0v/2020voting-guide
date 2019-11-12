@@ -4,7 +4,8 @@ import Typography from '@material-ui/core/Typography';
 import KeyboardArrowLeft from '@material-ui/icons/KeyboardArrowLeft';
 import { makeStyles } from '@material-ui/styles';
 import React from 'react';
-import county_constituency from '../../data/county_constituency.json'
+import county_constituency from '../../data/county_constituency.json';
+import { RectangleIcon } from '../PartyIcon';
 
 const useStyles = makeStyles({
     photo: {
@@ -32,8 +33,10 @@ const Nav = ({
 }: Nav) => {
     const classes = useStyles();
     const ageDisplay = age === 0 ? '未知年齡' : `${age} 歲`;
-    const county_list = county_constituency.filter(county => county.area.includes(constituency))
-    const county = county_list.length ? county_list[0].name : ""
+    const county_list = county_constituency.filter(county =>
+        county.area.includes(constituency)
+    );
+    const county = county_list.length ? county_list[0].name : '';
     return (
         <>
             <Box m={1}>
@@ -42,10 +45,18 @@ const Nav = ({
                         <KeyboardArrowLeft fontSize="large" />
                     </Link>
                     <Box>
-                        <Typography variant="h3" display="inline" color="textPrimary">
+                        <Typography
+                            variant="h3"
+                            display="inline"
+                            color="textPrimary"
+                        >
                             {`${name} `}
                         </Typography>
-                        <Typography variant="h5" display="inline" color="textSecondary">
+                        <Typography
+                            variant="h5"
+                            display="inline"
+                            color="textSecondary"
+                        >
                             {constituency}
                         </Typography>
                     </Box>
@@ -64,13 +75,14 @@ const Nav = ({
                         <Grid item>
                             <Grid container direction="column">
                                 <Grid item>
-                                    <Typography variant="h5" color="textSecondary">
-                                        {party}
-                                    </Typography>
+                                    <RectangleIcon party={party} />
                                 </Grid>
                                 <Box height={8} />
                                 <Grid item>
-                                    <Typography variant="h5" color="textSecondary">
+                                    <Typography
+                                        variant="h5"
+                                        color="textSecondary"
+                                    >
                                         {ageDisplay}
                                     </Typography>
                                 </Grid>
