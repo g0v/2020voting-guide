@@ -143,3 +143,10 @@ type FB struct {
 	Name   string `gorm:"column:name" json:"name"`
 	FBPage string `gorm:"column:fbPage" json:"fbPage"`
 }
+
+
+type Politics struct {
+	Id       int
+	Name     string
+	Politics string
+}

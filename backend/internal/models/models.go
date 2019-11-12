@@ -120,3 +120,8 @@ type StatisticCategory struct {
 	Term  int    `json:"term"`
 	Count int    `json:"count"`
 }
+
+type PoliticsResp struct {
+	Name     string `json:"name"`
+	Politics string `json:"politics"`
+}
