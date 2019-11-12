@@ -1,17 +1,8 @@
-import {
-    AppBar,
-    Toolbar,
-    Dialog,
-    IconButton,
-    Typography,
-    Button,
-    Box
-} from '@material-ui/core';
-import React from 'react';
-import { Fab } from '@material-ui/core';
-import { Theme, createStyles, makeStyles } from '@material-ui/core/styles';
-import FilterListIcon from '@material-ui/icons/FilterList';
+import { AppBar, Box, Button, Dialog, Fab, IconButton, Toolbar, Typography } from '@material-ui/core';
+import { createStyles, makeStyles, Theme } from '@material-ui/core/styles';
 import CloseIcon from '@material-ui/icons/Close';
+import FilterListIcon from '@material-ui/icons/FilterList';
+import React from 'react';
 import issues from '../data/issues.json';
 
 const useStyles = makeStyles((theme: Theme) =>
@@ -25,7 +16,7 @@ const useStyles = makeStyles((theme: Theme) =>
             marginRight: theme.spacing(1)
         },
         appBar: {
-            position: 'relative'
+            zIndex: 2000
         },
         title: {
             marginLeft: theme.spacing(2),
@@ -74,7 +65,7 @@ const IssueFilter = ({
                 />
                 篩選議題
             </Fab>
-            <Dialog fullScreen open={open} onClose={handleClose}>
+            {open ? (
                 <AppBar className={classes.appBar}>
                     <Toolbar>
                         <IconButton
@@ -99,6 +90,8 @@ const IssueFilter = ({
                         </Button>
                     </Toolbar>
                 </AppBar>
+            ) : null}
+            <Dialog fullScreen open={open} onClose={handleClose}>
                 {Object.entries(issues).map(([category, issues]) => {
                     return (
                         <Box mt={4} mb={4} key={category}>
