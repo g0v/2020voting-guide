@@ -48,6 +48,7 @@ func GetCandidateByNameHandler(c *gin.Context) {
 	candidate.Photo = candidateDb.PicURL
 	candidate.Constituency = candidateDb.Constituency
 	candidate.LastTerm = candidateDb.LastTerm
+	candidate.Bills = []models.Bill{}
 
 	var personalBillsDb []db.Bill
 	nameFilter := "%" + name + "%"

@@ -49,8 +49,9 @@ func GetStatisticByNameHandler(c *gin.Context) {
 
 	var legislatorDb db.Legislator
 	db.MySQL.Where("name = ? AND term = ?", name, "09").First(&legislatorDb)
-	statisticResp.SittingRate = float32(legislatorDb.SittingNum) / float32(legislatorDb.MaxSittingNum)
-
+	if legislatorDb.MaxSittingNum != 0 {
+		statisticResp.SittingRate = float32(legislatorDb.SittingNum) / float32(legislatorDb.MaxSittingNum)
+	}
 	var contributeDb db.Contribution
 	db.MySQL.Where("name = ?", name).First(&contributeDb)
 	fmt.Println(contributeDb)
@@ -69,6 +70,7 @@ func GetStatisticByNameHandler(c *gin.Context) {
 		"constituency = (?)",
 		db.MySQL.Table("contribution").Select("constituency").Where("name = ?", name).QueryExpr(),
 	).Find(&otherCandidateDb)
+	fmt.Println(otherCandidateDb)
 	statisticResp.OtherConstituencyCandidate = []models.StatisticOtherCandidate{}
 	for _, candidate := range otherCandidateDb {
 		statisticResp.OtherConstituencyCandidate = append(statisticResp.OtherConstituencyCandidate, models.StatisticOtherCandidate{
@@ -78,5 +80,6 @@ func GetStatisticByNameHandler(c *gin.Context) {
 		})
 
 	}
+	fmt.Println(statisticResp)
 	c.JSON(http.StatusOK, statisticResp)
 }
