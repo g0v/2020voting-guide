@@ -1,10 +1,18 @@
 import { List, ListItem, ListItemText } from '@material-ui/core';
-import Divider from '@material-ui/core/Divider';
+import { makeStyles } from '@material-ui/core/styles';
 import React from 'react';
 import countyConstituency from '../../data/county_constituency.json';
 import Navigation from '../Navigation';
+
+const useStyles = makeStyles({
+    listItem: {
+        padding: "20px",
+    }
+});
+
 const counties = countyConstituency.map(county => county.name);
 const Constituency = () => {
+    const classes = useStyles()
     return (
         <>
             <Navigation title="區域立委候選人" description="選擇縣市" />
@@ -15,10 +23,11 @@ const Constituency = () => {
                             button
                             component="a"
                             href={`/regional/${county}`}
+                            divider={true}
+                            className={classes.listItem}
                         >
                             <ListItemText primary={county}></ListItemText>
                         </ListItem>
-                        <Divider />
                     </>
                 ))}
             </List>
