@@ -10,6 +10,8 @@ import Bulletin from '../Bulletin';
 import BigNum from '../Numbers/BigNum';
 import AppPieChart from './AppPieChart';
 import AppBarChart from './AppBarChart';
+import CompareBarChart from './CompareBarChart';
+
 
 const data01 = [
     { name: '個人捐贈', percent: 57.1 },
@@ -35,7 +37,12 @@ const Statistic: {
     billProposal: [];
     contribution: {
         [key: string]: number;
-    }
+    },
+    otherConstituencyCandidate: {
+        name: string;
+        totalIncome: number;
+        totalExpense: number
+    }[]
 } = {
     sittingRate: 0,
     interpellationRate: 0,
@@ -53,7 +60,8 @@ const Statistic: {
         otherContributeion: 0,
         overThrityThousandContribute: 0,
         totalExpense: 0
-    }
+    },
+    otherConstituencyCandidate: []
 };
 interface PositionTab {
     name?: string;
@@ -88,12 +96,33 @@ const PositionTab = ({
     const [showMoreBillProposal, setMoreBillProposal] = React.useState(false);
     const [statistic, setStatistic] = React.useState(Statistic);
 
-    const contributionIncome: {name: string; percent: number}[] = Object.keys(contributionMappings).map((key: string) => {
+    let contributionIncome =
+
+    Object.keys(contributionMappings).map((key: string) => {
         return {
             name: contributionMappings[key] || '',
             percent: Number(((statistic.contribution[key] / statistic.contribution.totalIncome) * 100).toFixed(2)) || 0
         }
     })
+    .sort((a, b) => {
+        return a.percent - b.percent
+    })
+
+    const hash = {
+        'index': 0,
+        'value': 0
+    }
+
+    contributionIncome.forEach((element, index, array) => {
+        if (element.percent + hash.value < 10) {
+            hash.value += element.percent;
+            hash.index = index
+        }
+    });
+    contributionIncome = [
+        ...contributionIncome.slice(hash.index, contributionIncome.length),
+        { name: '其他', percent: hash.value }
+    ]
 
     React.useEffect(() => {
         if (!name) return;
@@ -113,7 +142,7 @@ const PositionTab = ({
                 subtitle="立委應於指定開會時間出席立法院開會、質詢、審議法案"
             >
                 <BigNum
-                    num={statistic.sittingRate * 100}
+                    num={Number((statistic.sittingRate * 100).toFixed(2))}
                     unit="%"
                     text1=""
                     text2=""
@@ -210,12 +239,17 @@ const PositionTab = ({
                 <Typography variant="h3">{name} 收入</Typography>
                 <AppPieChart data={contributionIncome} text={getTenThousand(statistic.contribution.totalIncome) + "萬元"} />
                 <Typography variant="h3">{name} 支出</Typography>
-                <AppPieChart data={data01} text={getTenThousand(statistic.contribution.totalExpense) + "萬元"} />
+                {/* <AppPieChart data={data01} text={getTenThousand(statistic.contribution.totalExpense) + "萬元"} /> */}
+                {/* <Typography variant="h5">{getTenThousand(statistic.contribution.totalExpense) + "萬元"}</Typography> */}
                 {/* <Typography variant="h5">
                     立法院： 吳思姚法案主題案影音
                 </Typography> */}
             </BasePaper>
             <Box p={1} bgcolor={theme.palette.background.default} />
+
+            <BasePaper title="同選區其他候選人收支" subtitle="2016 區域立委選舉 台北市 第 1 選區">
+                <CompareBarChart name={name} data={statistic.otherConstituencyCandidate} />
+            </BasePaper>
         </>
     );
 };
