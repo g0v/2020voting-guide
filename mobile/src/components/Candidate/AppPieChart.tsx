@@ -50,7 +50,10 @@ const AppPieChart = ({ data, text }: AppPieChart) => {
     return (
         <>
             <ResponsiveContainer width="100%" height={250}>
-                <PieChart>
+                <PieChart
+                	margin={{
+						top: 20, right: 20, bottom: 20, left: 30,
+					}}>
                     <Pie
                         dataKey="percent"
                         isAnimationActive={false}
