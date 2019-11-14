@@ -33,6 +33,7 @@ type Candidate struct {
 	Educations             string `json:"educations"`
 	Experiences            string `json:"experiences"`
 	Politics               string `json:"politics"`
+	CurrentLegislator      bool   `json:"currentLegislator"`
 	SittingRate            string `json:"sittingRate"`
 	InterpellationRate     string `json:"interpellationRate"`
 	InterpellationNum      string `json:"interpellationNum"`
