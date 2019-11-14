@@ -30,6 +30,25 @@ class Candidate(BaseModel):
     age = SmallIntegerField(null=True)
 
 
+class ManualCandidate(BaseModel):
+    name = CharField(index=True)
+    constituency = CharField()
+    party = CharField()
+    currentLegislator = CharField()
+    beenLegislator = CharField()
+    dayOfBirth = CharField(null=True)
+    age = CharField(null=True)
+    photo = TextField(null=True)
+    wiki = CharField(null=True)
+    fbPage = CharField(null=True)
+    education = CharField(null=True)
+    educationConn = CharField(null=True)
+    experience = TextField(null=True)
+    experienceConn = CharField(null=True)
+    politics = TextField(null=True)
+    politicsConn = CharField(null=True)
+
+
 class Legislator(BaseModel):
     name = CharField()
     ename = CharField()
