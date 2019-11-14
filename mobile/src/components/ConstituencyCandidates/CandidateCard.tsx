@@ -14,7 +14,7 @@ const useStyles = makeStyles({
 export interface CandidateProps {
     id: string;
     name: string;
-    picUrl: string;
+    photo: string;
     party: string;
     experience: string;
 }
@@ -22,7 +22,7 @@ export interface CandidateProps {
 export const CandidateCard = ({
     name,
     party,
-    picUrl,
+    photo,
     experience
 }: CandidateProps) => {
     const classes = useStyles();
@@ -31,24 +31,28 @@ export const CandidateCard = ({
             <ListItem button component="a" href={`/candidate/${name}`}>
                 <ListItemText
                     primary={
-                        <Grid container>
-                            <Grid item>
-                                {picUrl ? (
-                                    <Avatar
-                                        src={picUrl}
-                                        className={classes.photo}
-                                    />
-                                ) : (
-                                    <Avatar className={classes.photo}>
-                                        {name.charAt(0)}
-                                    </Avatar>
-                                )}
-                            </Grid>
-                            <Grid item>
-                                <Box m={1}>
-                                    <Grid container alignItems="center" spacing={1}>
+                        <Box m={1}>
+                            <Grid container spacing={2} alignItems="center">
+                                <Grid item>
+                                    {photo ? (
+                                        <Avatar
+                                            src={photo}
+                                            className={classes.photo}
+                                        />
+                                    ) : (
+                                        <Avatar className={classes.photo}>
+                                            {name.charAt(0)}
+                                        </Avatar>
+                                    )}
+                                </Grid>
+                                <Grid item spacing={2}>
+                                    <Grid
+                                        container
+                                        alignItems="center"
+                                        spacing={1}
+                                    >
                                         <Grid item>
-                                            <Typography variant="h6">
+                                            <Typography variant="h3">
                                                 {name}
                                             </Typography>
                                         </Grid>
@@ -57,13 +61,19 @@ export const CandidateCard = ({
                                         </Grid>
                                     </Grid>
                                     <Grid container>
-                                        <Typography variant="button">
-                                            第九屆立法委員
-                                        </Typography>
+                                        <Box py={1}>
+                                            <Typography
+                                                variant="h4"
+                                                color="textSecondary"
+                                                noWrap
+                                            >
+                                                {experience.split(/;|\n| /)[0]}
+                                            </Typography>
+                                        </Box>
                                     </Grid>
-                                </Box>
+                                </Grid>
                             </Grid>
-                        </Grid>
+                        </Box>
                     }
                 ></ListItemText>
             </ListItem>

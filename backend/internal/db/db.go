@@ -96,6 +96,17 @@ type Candidate struct {
 	Age                 int
 }
 
+type ManualCandidate struct {
+	Name       string `json:"name"`
+	Photo      string `json:"photo"`
+	Party      string `json:"party"`
+	Experience string `json:"experience"`
+}
+
+func (ManualCandidate) TableName() string {
+	return "manualcandidate"
+}
+
 type Legislator struct {
 	Name          string
 	SittingNum    int `gorm:"column:sittingNum"`

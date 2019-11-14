@@ -21,8 +21,8 @@ func ListCandidatesByConstituencyHandler(c *gin.Context) {
 
 	constituency := c.Param("constituency")
 
-	var candidates models.CandidateCards
-	db.MySQL.Table("candidate").Where("constituency = ?", constituency).Find(&candidates)
+	var candidates []db.ManualCandidate
+	db.MySQL.Where("constituency = ?", constituency).Find(&candidates)
 	c.JSON(http.StatusOK, candidates)
 }
 
@@ -41,11 +41,14 @@ func GetCandidateByNameHandler(c *gin.Context) {
 
 	candidate.Name = name
 
+	var manualCandidateDb db.ManualCandidate
+	db.MySQL.Where("name = ?", name).First(&manualCandidateDb)
+	candidate.Photo = manualCandidateDb.Photo
+
 	var candidateDb db.Candidate
 	db.MySQL.Where("name = ?", name).First(&candidateDb)
 	candidate.Age = candidateDb.Age
 	candidate.Party = candidateDb.Party
-	candidate.Photo = candidateDb.PicURL
 	candidate.Constituency = candidateDb.Constituency
 	candidate.LastTerm = candidateDb.LastTerm
 	candidate.CurrentLegislator = candidateDb.CurrentLegislator
