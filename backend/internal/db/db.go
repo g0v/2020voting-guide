@@ -88,11 +88,11 @@ type Candidate struct {
 	Wiki                string
 	PicURL              string `gorm:"column:picUrl"`
 	WikidataPicURL      string `gorm:"column:wikidataPicUrl"`
-	CurrentLegislator   string
-	HistoryLegislator   string
-	LastTerm            string
-	DateOfBirth         string
-	WikidataDateOfBirth string
+	CurrentLegislator   bool   `gorm:"column:currentLegislator"`
+	HistoryLegislator   string `gorm:"column:historyLegislator"`
+	LastTerm            string `gorm:"column:lastTerm"`
+	DateOfBirth         string `gorm:"column:dateOfBirth"`
+	WikidataDateOfBirth string `gorm:"column:wikidataDateOfBirth"`
 	Age                 int
 }
 
@@ -143,7 +143,6 @@ type FB struct {
 	Name   string `gorm:"column:name" json:"name"`
 	FBPage string `gorm:"column:fbPage" json:"fbPage"`
 }
-
 
 type Politics struct {
 	Id       int
