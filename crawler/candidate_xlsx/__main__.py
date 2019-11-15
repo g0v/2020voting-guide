@@ -23,6 +23,14 @@ df.columns = [
     "politicsConn",  # 政見連結
 ]
 data = df.replace({np.nan: None}).to_dict(orient="records")
+data = [
+    {
+        **d,
+        "currentLegislator": True if d["currentLegislator"] == "Y" else False,
+        "beenLegislator": True if d["beenLegislator"] == "Y" else False,
+    }
+    for d in data
+]
 ManualCandidate.drop_table()
 ManualCandidate.create_table()
 ManualCandidate.insert_many(data).execute()
