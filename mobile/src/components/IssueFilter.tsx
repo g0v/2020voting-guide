@@ -4,6 +4,7 @@ import CloseIcon from '@material-ui/icons/Close';
 import FilterListIcon from '@material-ui/icons/FilterList';
 import React from 'react';
 import issues from '../data/issues.json';
+import { Bill } from './IssueBill';
 
 const useStyles = makeStyles((theme: Theme) =>
     createStyles({
@@ -32,11 +33,13 @@ const useStyles = makeStyles((theme: Theme) =>
 const IssueFilter = ({
     selected,
     selectIssue,
-    complete
+    complete,
+    bills
 }: {
     selected: string[];
     selectIssue: (issue: string) => void;
     complete: () => void;
+    bills: Bill[];
 }) => {
     const classes = useStyles();
 
@@ -92,43 +95,51 @@ const IssueFilter = ({
                 </AppBar>
             ) : null}
             <Dialog fullScreen open={open} onClose={handleClose}>
-                {Object.entries(issues).map(([category, issues]) => {
-                    return (
-                        <Box mt={4} mb={4} key={category}>
-                            <Box mx={1}>
-                                <Typography variant="h4" color="primary">
-                                    {category}
-                                </Typography>
+                <Box py={5}>
+                    {Object.entries(issues).map(([category, issues]) => {
+                        return (
+                            <Box mt={4} mb={4} key={category}>
+                                <Box mx={1}>
+                                    <Typography variant="h4" color="primary">
+                                        {category}
+                                    </Typography>
+                                </Box>
+                                <Box
+                                    mt={2}
+                                    mx={1}
+                                    display="flex"
+                                    justifyContent="row-start"
+                                    flexWrap="wrap"
+                                >
+                                    {issues.map(issue => (
+                                        <Box m={0.5}>
+                                            <Button
+                                                color="primary"
+                                                variant={
+                                                    selected.includes(issue)
+                                                        ? 'contained'
+                                                        : 'outlined'
+                                                }
+                                                onClick={() => {
+                                                    selectIssue(issue);
+                                                }}
+                                                className={classes.issueButton}
+                                            >
+                                                {issue}<br />
+                                                {
+                                                    bills.filter(
+                                                        ({ category }) =>
+                                                            category == issue
+                                                    ).length
+                                                } 提案
+                                            </Button>
+                                        </Box>
+                                    ))}
+                                </Box>
                             </Box>
-                            <Box
-                                mt={2}
-                                mx={1}
-                                display="flex"
-                                justifyContent="row-start"
-                                flexWrap="wrap"
-                            >
-                                {issues.map(issue => (
-                                    <Box m={0.5}>
-                                        <Button
-                                            color="primary"
-                                            variant={
-                                                selected.includes(issue)
-                                                    ? 'contained'
-                                                    : 'outlined'
-                                            }
-                                            onClick={() => {
-                                                selectIssue(issue);
-                                            }}
-                                            className={classes.issueButton}
-                                        >
-                                            {issue}
-                                        </Button>
-                                    </Box>
-                                ))}
-                            </Box>
-                        </Box>
-                    );
-                })}
+                        );
+                    })}
+                </Box>
             </Dialog>
         </>
     );

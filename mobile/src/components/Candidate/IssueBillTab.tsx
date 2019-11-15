@@ -53,6 +53,7 @@ const IssueBillTab = ({ bills = [] }: IssueBillTab) => {
                 selected={selectedIssue}
                 selectIssue={selectIssue}
                 complete={handleComplete}
+                bills={bills}
             />
         </>
     );
