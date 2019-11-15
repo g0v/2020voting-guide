@@ -17,13 +17,15 @@ export interface CandidateProps {
     photo: string;
     party: string;
     experience: string;
+    currentLegislator: boolean;
 }
 
 export const CandidateCard = ({
     name,
     party,
     photo,
-    experience
+    experience,
+    currentLegislator
 }: CandidateProps) => {
     const classes = useStyles();
     return (
@@ -58,6 +60,23 @@ export const CandidateCard = ({
                                         </Grid>
                                         <Grid item>
                                             <RectangleIcon party={party} />
+                                        </Grid>
+                                        <Grid item>
+                                            {currentLegislator ? (
+                                                <>
+                                                    <Box
+                                                        height={15}
+                                                        width={15}
+                                                        ml={1}
+                                                        borderRadius="50%"
+                                                        bgcolor="green"
+                                                        display="inline-block"
+                                                    />{' '}
+                                                    <Typography variant="h4" color="textSecondary" display="inline">
+                                                    現任
+                                                    </Typography>
+                                                </>
+                                            ) : null}
                                         </Grid>
                                     </Grid>
                                     <Grid container>

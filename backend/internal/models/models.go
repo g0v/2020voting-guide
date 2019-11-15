@@ -7,18 +7,14 @@ type PartyCard struct {
 	Emblem string `json:"emblem"`
 }
 
-// CandidateCard is the simple version of candidate information
-type CandidateCard struct {
-	ID           string `json:"id"`
-	Name         string `json:"name"`
-	PicURL       string `gorm:"column:picUrl" json:"picUrl"`
-	Party        string `json:"party"`
-	Experience   string `json:"experience"`
-	Constituency string `json:"constituency"`
+// CandidateOverview is the simple version of candidate information
+type CandidateOverview struct {
+	Name              string `json:"name"`
+	Photo             string `json:"photo"`
+	Party             string `json:"party"`
+	Experience        string `json:"experience"`
+	CurrentLegislator bool   `json:"currentLegislator"`
 }
-
-// CandidateCards is array of CandidateCard
-type CandidateCards []CandidateCard
 
 // Candidate api for candidate
 type Candidate struct {

@@ -31,6 +31,7 @@ const CountyCandidates = ({ match }: Route) => {
                         photo={candidate.photo}
                         party={candidate.party}
                         experience={candidate.experience}
+                        currentLegislator={candidate.currentLegislator}
                     />
                 ))}
             </List>
