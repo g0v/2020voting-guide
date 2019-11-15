@@ -137,18 +137,6 @@ const PositionTab = ({
                 primary={`${name} 曾擔任 ${lastTerm}`}
                 secondary={lastTermYear}
             />
-            <BasePaper
-                title="立法院出席率"
-                subtitle="立委應於指定開會時間出席立法院開會、質詢、審議法案"
-            >
-                <BigNum
-                    num={Number((statistic.sittingRate * 100).toFixed(2))}
-                    unit="%"
-                    text1=""
-                    text2=""
-                />
-            </BasePaper>
-            <Box p={1} bgcolor={theme.palette.background.default} />
 
             <BasePaper
                 title="法律草案"
@@ -235,12 +223,30 @@ const PositionTab = ({
             </BasePaper>
             <Box p={1} bgcolor={theme.palette.background.default} />
 
+            <BasePaper
+                title="立法院出席率"
+                subtitle="立委應於指定開會時間出席立法院開會、質詢、審議法案"
+            >
+                <BigNum
+                    num={Number((statistic.sittingRate * 100).toFixed(2))}
+                    unit="%"
+                    text1=""
+                    text2=""
+                />
+            </BasePaper>
+            <Box p={1} bgcolor={theme.palette.background.default} />
+
             <BasePaper title="政治獻金紀錄" subtitle="每年收到的捐款和使用方式">
+                <Box marginBottom="20px">
+                    <Typography variant="h4">2016 立委選舉</Typography>
+                </Box>
                 <Typography variant="h3">{name} 收入</Typography>
                 <AppPieChart data={contributionIncome} text={getTenThousand(statistic.contribution.totalIncome) + "萬元"} />
                 <Typography variant="h3">{name} 支出</Typography>
                 {/* <AppPieChart data={data01} text={getTenThousand(statistic.contribution.totalExpense) + "萬元"} /> */}
-                {/* <Typography variant="h5">{getTenThousand(statistic.contribution.totalExpense) + "萬元"}</Typography> */}
+                <Box display="flex" justifyContent="center">
+                    <Typography variant="h3" color="primary">{getTenThousand(statistic.contribution.totalExpense) + "萬元"}</Typography>
+                </Box>
                 {/* <Typography variant="h5">
                     立法院： 吳思姚法案主題案影音
                 </Typography> */}
