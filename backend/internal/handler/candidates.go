@@ -21,8 +21,8 @@ func ListCandidatesByConstituencyHandler(c *gin.Context) {
 
 	constituency := c.Param("constituency")
 
-	var candidates models.CandidateCards
-	db.MySQL.Table("candidate").Where("constituency = ?", constituency).Find(&candidates)
+	var candidates []db.ManualCandidate
+	db.MySQL.Where("constituency = ?", constituency).Find(&candidates)
 	c.JSON(http.StatusOK, candidates)
 }
 
@@ -41,57 +41,71 @@ func GetCandidateByNameHandler(c *gin.Context) {
 
 	candidate.Name = name
 
+	var manualCandidateDb db.ManualCandidate
+	db.MySQL.Where("name = ?", name).First(&manualCandidateDb)
+	candidate.Photo = manualCandidateDb.Photo
+
 	var candidateDb db.Candidate
 	db.MySQL.Where("name = ?", name).First(&candidateDb)
 	candidate.Age = candidateDb.Age
 	candidate.Party = candidateDb.Party
-	candidate.Photo = candidateDb.PicURL
 	candidate.Constituency = candidateDb.Constituency
 	candidate.LastTerm = candidateDb.LastTerm
+	candidate.CurrentLegislator = candidateDb.CurrentLegislator
+	candidate.Bills = []models.Bill{}
 
 	var personalBillsDb []db.Bill
 	nameFilter := "%" + name + "%"
-	db.MySQL.Where("billProposer LIKE ?", nameFilter).Find(&personalBillsDb)
+	db.MySQL.Where("billProposer LIKE ? AND term = ?", nameFilter, "09").Find(&personalBillsDb)
 	for _, bill := range personalBillsDb {
 		date := bill.BillNo[0:3] + "-" + bill.BillNo[3:5] + "-" + bill.BillNo[5:7]
 		candidate.Bills = append(candidate.Bills, models.Bill{
-			Name:            bill.Name,
-			BillNo:          bill.BillNo,
-			ProposerType:    "立委提案",
-			Description:     "",
-			Date:            date,
-			Category:        bill.Category,
-			BillOrg:         bill.BillOrg,
-			BillProposer:    bill.BillProposer,
-			BillCosignatory: bill.BillCosignatory,
-			BillStatus:      bill.BillStatus,
-			PdfURL:          bill.PdfURL,
-			CaseOfAction:    bill.CaseOfAction,
-			Vernacular:      "",
+			Name:                  bill.Name,
+			BillNo:                bill.BillNo,
+			ProposerType:          "立委提案",
+			Description:           "",
+			Date:                  date,
+			Category:              bill.Category,
+			BillOrg:               bill.BillOrg,
+			BillProposerString:    bill.BillProposer,
+			BillCosignatoryString: bill.BillCosignatory,
+			BillStatus:            bill.BillStatus,
+			PdfURL:                bill.PdfURL,
+			CaseOfAction:          bill.CaseOfAction,
+			Vernacular:            "",
 		})
 	}
 
 	var orgBillsDb []db.Bill
 	caucusFilter := "%" + getCaucusName(candidate.Party) + "%"
-	db.MySQL.Where("billOrg LIKE ?", caucusFilter).Find(&orgBillsDb)
+	db.MySQL.Where("billOrg LIKE ? AND term = ?", caucusFilter, "09").Find(&orgBillsDb)
 	for _, bill := range orgBillsDb {
 		date := bill.BillNo[0:3] + "-" + bill.BillNo[3:5] + "-" + bill.BillNo[5:7]
 		candidate.Bills = append(candidate.Bills, models.Bill{
-			Name:            bill.Name,
-			BillNo:          bill.BillNo,
-			ProposerType:    "黨團提案",
-			Description:     "",
-			Date:            date,
-			Category:        bill.Category,
-			BillOrg:         bill.BillOrg,
-			BillProposer:    bill.BillProposer,
-			BillCosignatory: bill.BillCosignatory,
-			BillStatus:      bill.BillStatus,
-			PdfURL:          bill.PdfURL,
-			CaseOfAction:    bill.CaseOfAction,
-			Vernacular:      "",
+			Name:                  bill.Name,
+			BillNo:                bill.BillNo,
+			ProposerType:          "黨團提案",
+			Description:           "",
+			Date:                  date,
+			Category:              bill.Category,
+			BillOrg:               bill.BillOrg,
+			BillProposerString:    bill.BillProposer,
+			BillCosignatoryString: bill.BillCosignatory,
+			BillStatus:            bill.BillStatus,
+			PdfURL:                bill.PdfURL,
+			CaseOfAction:          bill.CaseOfAction,
+			Vernacular:            "",
 		})
 	}
 
 	c.JSON(http.StatusOK, candidate)
+}
+
+func GetCandidateFB(c *gin.Context) {
+
+	name := c.Param("name")
+
+	var fbPage db.FB
+	db.MySQL.Where("name = ?", name).Find(&fbPage)
+	c.JSON(http.StatusOK, fbPage)
 }

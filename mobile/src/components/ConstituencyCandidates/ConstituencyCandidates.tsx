@@ -28,7 +28,7 @@ const CountyCandidates = ({ match }: Route) => {
                     <CandidateCard
                         id={candidate.id}
                         name={candidate.name}
-                        picUrl={candidate.picUrl}
+                        photo={candidate.photo}
                         party={candidate.party}
                         experience={candidate.experience}
                     />

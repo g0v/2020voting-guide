@@ -30,6 +30,25 @@ class Candidate(BaseModel):
     age = SmallIntegerField(null=True)
 
 
+class ManualCandidate(BaseModel):
+    name = CharField(index=True)
+    constituency = CharField()
+    party = CharField()
+    currentLegislator = CharField()
+    beenLegislator = CharField()
+    dayOfBirth = CharField(null=True)
+    age = CharField(null=True)
+    photo = TextField(null=True)
+    wiki = CharField(null=True)
+    fbPage = CharField(null=True)
+    education = CharField(null=True)
+    educationConn = CharField(null=True)
+    experience = TextField(null=True)
+    experienceConn = CharField(null=True)
+    politics = TextField(null=True)
+    politicsConn = CharField(null=True)
+
+
 class Legislator(BaseModel):
     name = CharField()
     ename = CharField()
@@ -109,7 +128,7 @@ class Party(BaseModel):
 
 
 class Bill(BaseModel):
-    name = CharField()
+    name = CharField(index=True)
     category = CharField(null=True)
     selectTerm = CharField()
     term = CharField()
@@ -126,17 +145,6 @@ class Bill(BaseModel):
     meetingTimes = CharField(null=True)
     billName = CharField()
     caseOfAction = TextField()
-
-
-class Bill2(BaseModel):
-    name = CharField()
-    date = CharField()
-    term = CharField()
-    sessionPeriod = CharField()
-    proposer = TextField()
-    cosignatory = TextField()
-    status = CharField()
-    category = CharField(null=True)
 
 
 class BillDescription(BaseModel):
@@ -159,3 +167,40 @@ class ProposerCosignatory(BaseModel):
     billNo = CharField(index=True)
     role = CharField()
     name = CharField()
+
+
+class BillClicks(BaseModel):
+    term = CharField()
+    sessionPeriod = CharField()
+    sessionTimes = CharField()
+    name = CharField()
+    clicks = IntegerField()
+
+
+class FB(BaseModel):
+    constituency = CharField()
+    name = CharField()
+    fbPage = CharField()
+    fbId = CharField()
+    like = CharField(null=True)
+    blueCheck = CharField(null=True)
+    createdDate = CharField(null=True)
+    managerCountry = CharField(null=True)
+    nameChangeNum = CharField(null=True)
+
+
+class CandidateExcel(BaseModel):
+    constituency = CharField()
+    name = CharField()
+    fbPage = CharField()
+    fbId = CharField()
+    like = CharField(null=True)
+    blueCheck = CharField(null=True)
+    createdDate = CharField(null=True)
+    managerCountry = CharField(null=True)
+    nameChangeNum = CharField(null=True)
+
+
+class Politics(BaseModel):
+    name = CharField()
+    politics = TextField()

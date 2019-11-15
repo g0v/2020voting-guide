@@ -1,36 +1,37 @@
 import Tab from '@material-ui/core/Tab';
 import Tabs from '@material-ui/core/Tabs';
 import React from 'react';
-import Nav from './Nav';
+import BasicInfoTab from './BasicInfoTab';
 import IssueBillTab from './IssueBillTab';
-// import BasicInfoTab from './BasicInfoTab';
+import Nav from './Nav';
+import NoInfoTab from './NoInfoTab';
 import PassPerformanceTab from './PassPerformanceTab';
-import CommingSoon from '../CommingSoon';
-import { Bill } from '../IssueBill';
 
-interface Candidate {
-    name: string;
-    photo: string;
-    county: string;
-    constituency: string;
-    party: string;
-    age: number;
-    lastterm: string;
-    lasttermyear: string;
-    educations: string;
-    experiences: string;
-    politics: string;
-    sittingRate: number;
-    interpellationRate: number;
-    interpellationnum: string;
-    maxinterpellationnum: string;
-    interpellationcategory: { name: string; value: number }[];
-    billnum: string;
-    billnumcategory: { name: string; percent: number }[];
-    politicalcontribution: string;
-    othercandidate: string;
-    bills: Bill[];
-}
+const CandidateDefault = {
+    name: '',
+    photo: '',
+    county: '',
+    constituency: '',
+    party: '',
+    age: 0,
+    lastterm: '',
+    lasttermyear: '',
+    educations: '',
+    experiences: '',
+    politics: '',
+    sittingRate: 0,
+    interpellationRate: 0,
+    interpellationnum: '',
+    currentLegislator: false,
+    maxinterpellationnum: '',
+    interpellationcategory: [],
+    billnum: '',
+    billnumcategory: [],
+    politicalcontribution: '',
+    othercandidate: '',
+    bills: []
+};
+
 interface CandidatePage {
     match: {
         params: {
@@ -39,6 +40,8 @@ interface CandidatePage {
     };
 }
 
+const caucusParty = ['民主進步黨', '中國國民黨', '親民黨', '時代力量']
+
 const CandidatePage = ({ match }: CandidatePage) => {
     const { name } = match.params;
     const [tab, setTab] = React.useState(0);
@@ -46,7 +49,7 @@ const CandidatePage = ({ match }: CandidatePage) => {
         setTab(newValue);
     };
 
-    const [candidate, setCandidate] = React.useState<Candidate>();
+    const [candidate, setCandidate] = React.useState(CandidateDefault);
     React.useEffect(() => {
         fetch(`/api/candidate/${name}`)
             .then(res => res.json())
@@ -69,13 +72,15 @@ const CandidatePage = ({ match }: CandidatePage) => {
             </Tabs>
 
             {tab === 0 ? (
-                <IssueBillTab {...candidate} />
+                candidate.currentLegislator || caucusParty.includes(candidate.party)  ? (
+                    <IssueBillTab {...candidate} />
+                ) : (
+                    <NoInfoTab name={candidate.name} />
+                )
             ) : tab === 1 ? (
                 <PassPerformanceTab {...candidate} />
             ) : (
-                // <CommingSoon />
-                // <BasicInfoTab {...candidate} />
-                <CommingSoon />
+                <BasicInfoTab name={name} />
             )}
         </>
     );

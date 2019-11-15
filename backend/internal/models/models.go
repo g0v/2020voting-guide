@@ -33,6 +33,7 @@ type Candidate struct {
 	Educations             string `json:"educations"`
 	Experiences            string `json:"experiences"`
 	Politics               string `json:"politics"`
+	CurrentLegislator      bool   `json:"currentLegislator"`
 	SittingRate            string `json:"sittingRate"`
 	InterpellationRate     string `json:"interpellationRate"`
 	InterpellationNum      string `json:"interpellationNum"`
@@ -53,19 +54,27 @@ type Party struct {
 
 // Bill api in candidate
 type Bill struct {
-	Name            string `json:"name"`
-	BillNo          string `json:"billNo"`
-	ProposerType    string `json:"proposerType"`
-	Description     string `json:"description"`
-	Date            string `json:"date"`
-	Category        string `json:"category"`
-	BillOrg         string `json:"billOrg"`
-	BillProposer    string `json:"billProposer"`
-	BillCosignatory string `json:"billCosignatory"`
-	BillStatus      string `json:"billStatus"`
-	PdfURL          string `json:"pdfUrl"`
-	CaseOfAction    string `json:"caseOfAction"`
-	Vernacular      string `json:"vernacular"`
+	Name                  string      `json:"name"`
+	BillNo                string      `json:"billNo"`
+	ProposerType          string      `json:"proposerType"`
+	Description           string      `json:"description"`
+	Date                  string      `json:"date"`
+	Category              string      `json:"category"`
+	BillOrg               string      `json:"billOrg"`
+	BillProposer          []NameParty `json:"billProposer"`
+	BillProposerString    string      `json:"billProposerString"`
+	BillCosignatory       []NameParty `json:"billCosignatory"`
+	BillCosignatoryString string      `json:"billCosignatoryString"`
+	BillStatus            string      `json:"billStatus"`
+	PdfURL                string      `json:"pdfUrl"`
+	CaseOfAction          string      `json:"caseOfAction"`
+	Vernacular            string      `json:"vernacular"`
+}
+
+type NameParty struct {
+	Name  string `json:"name"`
+	Role  string `json:"role"`
+	Party string `json:"party"`
 }
 
 type Description struct {
@@ -83,8 +92,8 @@ type BillAPI struct {
 type StatisticResp struct {
 	Name                   string              `json:"name"`
 	SittingRate            float32             `json:"sittingRate"`
-	InterpellationRate     int                 `json:"interpellationRate"`
 	InterpellationNum      int                 `json:"interpellationNum"`
+	BillProposalNum        int                 `json:"billProposalNum"`
 	BillProposalCategory   []StatisticCategory `json:"billProposal"`
 	InterpellationCategory []StatisticCategory `json:"interpellation"`
 	Contribution           struct {
@@ -111,4 +120,9 @@ type StatisticCategory struct {
 	Name  string `json:"name"`
 	Term  int    `json:"term"`
 	Count int    `json:"count"`
+}
+
+type PoliticsResp struct {
+	Name     string `json:"name"`
+	Politics string `json:"politics"`
 }

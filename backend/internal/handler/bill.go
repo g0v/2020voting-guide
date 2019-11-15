@@ -1,6 +1,7 @@
 package handler
 
 import (
+	"fmt"
 	"net/http"
 
 	"github.com/g0v/2020voting-guide/backend/internal/db"
@@ -25,8 +26,8 @@ func GetBillHandler(c *gin.Context) {
 		Date:            "",
 		Category:        billDb.Category,
 		BillOrg:         billDb.BillOrg,
-		BillProposer:    billDb.BillProposer,
-		BillCosignatory: billDb.BillCosignatory,
+		BillProposer:    []models.NameParty{},
+		BillCosignatory: []models.NameParty{},
 		BillStatus:      billDb.BillStatus,
 		PdfURL:          billDb.PdfURL,
 		CaseOfAction:    billDb.CaseOfAction,
@@ -36,7 +37,6 @@ func GetBillHandler(c *gin.Context) {
 	var descriptionsDb []db.BillDescription
 	db.MySQL.Where("billNo = ?", id).Find(&descriptionsDb)
 	api.Descriptions = []models.Description{}
-
 	for _, descriptionDb := range descriptionsDb {
 		api.Descriptions = append(api.Descriptions, models.Description{
 			Bill:        descriptionDb.Bill,
@@ -44,6 +44,22 @@ func GetBillHandler(c *gin.Context) {
 			ActiveLaw:   descriptionDb.ActiveLaw,
 			ReviseLaw:   descriptionDb.ReviseLaw,
 		})
+	}
+
+	var nameParty []models.NameParty
+	db.MySQL.Table("proposercosignatory").
+		Select("proposercosignatory.name, proposercosignatory.role, legislator.party").
+		Joins("left join legislator on legislator.name = proposercosignatory.name").
+		Where("proposercosignatory.billNo = ? and legislator.term = '09'", id).
+		Scan(&nameParty)
+	fmt.Println(nameParty)
+	for _, person := range nameParty {
+		if person.Role == "cosignatory" {
+			api.Bill.BillCosignatory = append(api.Bill.BillCosignatory, person)
+		}
+		if person.Role == "proposer" {
+			api.Bill.BillProposer = append(api.Bill.BillProposer, person)
+		}
 	}
 
 	c.JSON(http.StatusOK, api)

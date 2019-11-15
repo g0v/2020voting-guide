@@ -1,9 +1,7 @@
 package handler
 
 import (
-	"fmt"
 	"net/http"
-	"strconv"
 
 	"github.com/g0v/2020voting-guide/backend/internal/config"
 	"github.com/g0v/2020voting-guide/backend/internal/db"
@@ -13,22 +11,39 @@ import (
 
 // ListVernacular write newest record
 func ListVernacular(c *gin.Context) {
-	page := c.Param("page")
-
-	pageInt, err := strconv.Atoi(page)
-	if err == nil {
-		fmt.Println(pageInt)
-	}
-
-	offset := (pageInt - 1) * 150
+	filter := c.Param("filter")
 
 	var api []struct {
 		Category   string `json:"category"`
 		Name       string `json:"name"`
 		BillNo     string `gorm:"column:billNo" json:"billNo"`
 		Vernacular string `json:"vernacular"`
+		Clicks     int    `json:"clicks"`
 	}
-	db.MySQL.Raw("SELECT bill.category, bill.name, bill.billNo, vernacular.vernacular FROM `bill` left join (SELECT max(id) id, bill_no from vernacular group by bill_no) t1 on t1.bill_no = bill.billNo left join vernacular on vernacular.id = t1.id WHERE category is not null and term = '09' LIMIT 3500 OFFSET ?", offset).Scan(&api)
+	if filter == "All" {
+		db.MySQL.Raw("SELECT bill.category, bill.name, bill.billNo, vernacular.vernacular FROM `bill` left join (SELECT max(id) id, bill_no from vernacular group by bill_no) t1 on t1.bill_no = bill.billNo left join vernacular on vernacular.id = t1.id WHERE category is not null and term = '09'").Scan(&api)
+	} else if filter == "三讀" {
+		db.MySQL.Raw("SELECT bill.category, bill.name, bill.billNo, vernacular.vernacular FROM `bill` left join (SELECT max(id) id, bill_no from vernacular group by bill_no) t1 on t1.bill_no = bill.billNo left join vernacular on vernacular.id = t1.id WHERE category is not null and term = '09' and billStatus = '三讀'").Scan(&api)
+	} else if filter == "clicks" {
+		db.MySQL.Raw(
+			`SELECT 
+			billclicks.name, 
+			t2.category, 
+			t2.billNo, 
+			vernacular.vernacular,
+			billclicks.clicks
+			FROM billclicks
+			LEFT JOIN (
+				SELECT bill.category, bill.name, bill.billNo, bill.sessionPeriod, bill.sessionTimes
+				FROM bill 
+				WHERE bill.term = '09' AND bill.category is not null
+				group by bill.category, bill.name, bill.billNo, bill.sessionPeriod, bill.sessionTimes
+			) t2 on billclicks.name = t2.name AND billclicks.sessionPeriod = t2.sessionPeriod AND billclicks.sessionTimes = t2.sessionTimes
+			LEFT JOIN (SELECT max(id) id, bill_no from vernacular group by bill_no) t1 on t1.bill_no = t2.billNo 
+			LEFT JOIN vernacular on vernacular.id = t1.id 
+			WHERE t2.billNo is not null
+			ORDER BY clicks DESC`).Scan(&api)
+	}
 
 	c.JSON(http.StatusOK, api)
 }
@@ -62,19 +77,19 @@ func GetVernacular(c *gin.Context) {
 
 	var api models.BillAPI
 	api.Bill = models.Bill{
-		Name:            billDb.Name,
-		BillNo:          billDb.BillNo,
-		ProposerType:    "",
-		Description:     "",
-		Date:            "",
-		Category:        billDb.Category,
-		BillOrg:         billDb.BillOrg,
-		BillProposer:    billDb.BillProposer,
-		BillCosignatory: billDb.BillCosignatory,
-		BillStatus:      billDb.BillStatus,
-		PdfURL:          billDb.PdfURL,
-		CaseOfAction:    billDb.CaseOfAction,
-		Vernacular:      vernacularDb.Vernacular,
+		Name:                  billDb.Name,
+		BillNo:                billDb.BillNo,
+		ProposerType:          "",
+		Description:           "",
+		Date:                  "",
+		Category:              billDb.Category,
+		BillOrg:               billDb.BillOrg,
+		BillProposerString:    billDb.BillProposer,
+		BillCosignatoryString: billDb.BillCosignatory,
+		BillStatus:            billDb.BillStatus,
+		PdfURL:                billDb.PdfURL,
+		CaseOfAction:          billDb.CaseOfAction,
+		Vernacular:            vernacularDb.Vernacular,
 	}
 
 	var descriptionsDb []db.BillDescription

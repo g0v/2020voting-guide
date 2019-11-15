@@ -1,14 +1,7 @@
-import {
-    Avatar,
-    Box,
-    Divider,
-    Grid,
-    ListItem,
-    ListItemText,
-    Typography
-} from '@material-ui/core';
+import { Avatar, Box, Divider, Grid, ListItem, ListItemText, Typography } from '@material-ui/core';
 import { makeStyles } from '@material-ui/styles';
 import React from 'react';
+import { RectangleIcon } from '../PartyIcon';
 
 const useStyles = makeStyles({
     photo: {
@@ -18,67 +11,69 @@ const useStyles = makeStyles({
     }
 });
 
-interface Party {
-    id: string;
-    name: string;
-    emblem: string;
-}
-
 export interface CandidateProps {
     id: string;
     name: string;
-    picUrl: string;
-    party: Party;
+    photo: string;
+    party: string;
     experience: string;
 }
 
-export const CandidateCard: React.FunctionComponent<CandidateProps> = ({
+export const CandidateCard = ({
     name,
     party,
-    picUrl,
+    photo,
     experience
-}) => {
+}: CandidateProps) => {
     const classes = useStyles();
     return (
         <>
             <ListItem button component="a" href={`/candidate/${name}`}>
                 <ListItemText
                     primary={
-                        <Grid container>
-                            <Grid item>
-                                {picUrl ? (
-                                    <Avatar
-                                        src={picUrl}
-                                        className={classes.photo}
-                                    />
-                                ) : (
-                                    <Avatar className={classes.photo}>
-                                        {name.charAt(0)}
-                                    </Avatar>
-                                )}
-                            </Grid>
-                            <Grid item>
-                                <Box m={1}>
-                                    <Grid container alignItems="center">
+                        <Box m={1}>
+                            <Grid container spacing={2} alignItems="center">
+                                <Grid item>
+                                    {photo ? (
+                                        <Avatar
+                                            src={photo}
+                                            className={classes.photo}
+                                        />
+                                    ) : (
+                                        <Avatar className={classes.photo}>
+                                            {name.charAt(0)}
+                                        </Avatar>
+                                    )}
+                                </Grid>
+                                <Grid item spacing={2}>
+                                    <Grid
+                                        container
+                                        alignItems="center"
+                                        spacing={1}
+                                    >
                                         <Grid item>
-                                            <Typography variant="h6">
+                                            <Typography variant="h3">
                                                 {name}
                                             </Typography>
                                         </Grid>
                                         <Grid item>
-                                            <Typography variant="button">
-                                                {party}
-                                            </Typography>
+                                            <RectangleIcon party={party} />
                                         </Grid>
                                     </Grid>
                                     <Grid container>
-                                        <Typography variant="button">
-                                            第九屆立法委員
-                                        </Typography>
+                                        <Box py={1}>
+                                            <Typography
+                                                variant="h4"
+                                                color="textSecondary"
+                                                noWrap
+                                            >
+                                                {experience.split(/;|\n| /)[0]}
+                                            </Typography>
+                                        </Box>
                                     </Grid>
-                                </Box>
+                                </Grid>
                             </Grid>
-                        </Grid>
+                        </Box>
                     }
                 ></ListItemText>
             </ListItem>

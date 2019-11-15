@@ -88,12 +88,23 @@ type Candidate struct {
 	Wiki                string
 	PicURL              string `gorm:"column:picUrl"`
 	WikidataPicURL      string `gorm:"column:wikidataPicUrl"`
-	CurrentLegislator   string
-	HistoryLegislator   string
-	LastTerm            string
-	DateOfBirth         string
-	WikidataDateOfBirth string
+	CurrentLegislator   bool   `gorm:"column:currentLegislator"`
+	HistoryLegislator   string `gorm:"column:historyLegislator"`
+	LastTerm            string `gorm:"column:lastTerm"`
+	DateOfBirth         string `gorm:"column:dateOfBirth"`
+	WikidataDateOfBirth string `gorm:"column:wikidataDateOfBirth"`
 	Age                 int
+}
+
+type ManualCandidate struct {
+	Name       string `json:"name"`
+	Photo      string `json:"photo"`
+	Party      string `json:"party"`
+	Experience string `json:"experience"`
+}
+
+func (ManualCandidate) TableName() string {
+	return "manualcandidate"
 }
 
 type Legislator struct {
@@ -131,4 +142,21 @@ type Contribution struct {
 	OtherContributeion              int    `gorm:"column:otherContributeion"`
 	OverThrityThousandContribute    int    `gorm:"column:overThrityThousandContribute"`
 	TotalExpense                    int    `gorm:"column:totalExpense"`
+}
+
+type ProposerCategory struct {
+	BillNo string `json:"billNo"`
+	Role   string `json:"role"`
+	Name   string `json:"name"`
+}
+
+type FB struct {
+	Name   string `gorm:"column:name" json:"name"`
+	FBPage string `gorm:"column:fbPage" json:"fbPage"`
+}
+
+type Politics struct {
+	Id       int
+	Name     string
+	Politics string
 }

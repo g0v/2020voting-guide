@@ -1,13 +1,8 @@
+import { Box, Button, Dialog, DialogContent, Typography } from '@material-ui/core';
 import React from 'react';
-import {
-    Dialog,
-    DialogContent,
-    Button,
-    Typography,
-    Box
-} from '@material-ui/core';
 import { simplifyCaseOfAction } from '../utils';
-import ChangedBill from './Bill/ChangedBill'
+import ChangedBill from './Bill/ChangedBill';
+import { CircleIcon } from './PartyIcon';
 
 const defaultInfo = {
     bill: {
@@ -15,8 +10,8 @@ const defaultInfo = {
         billNo: '',
         pdfUrl: '',
         billOrg: '',
-        billProposer: '',
-        billCosignatory: '',
+        billProposer: [],
+        billCosignatory: [],
         caseOfAction: ''
     },
     descriptions: []
@@ -46,21 +41,23 @@ const BillDialog = ({
         <>
             <Typography variant="h5">提案</Typography>
             <Box display="flex" flexDirection="row" flexWrap="wrap" py={1}>
-                {bill.billProposer.split('；').map(name => (
+                {bill.billProposer.map(({name, party}) => (
                     <Box flexShrink={0} pr={1} key={name}>
-                        <Typography variant="h5" color="textSecondary">
-                            {name}
+                        <Typography variant="h5" color="textSecondary" display="inline">
+                        {name}
                         </Typography>
+                        <CircleIcon party={party} />
                     </Box>
                 ))}
             </Box>
             <Typography variant="h5">連署</Typography>
             <Box display="flex" flexDirection="row" flexWrap="wrap" py={1}>
-                {bill.billCosignatory.split('；').map(name => (
+                {bill.billCosignatory.map(({name, party}) => (
                     <Box flexShrink={0} pr={1} key={name}>
-                        <Typography variant="h5" color="textSecondary">
+                        <Typography variant="h5" color="textSecondary" display="inline">
                             {name}
                         </Typography>
+                        <CircleIcon party={party} />
                     </Box>
                 ))}
             </Box>

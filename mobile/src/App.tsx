@@ -4,16 +4,16 @@ import React from 'react';
 import { Route, Switch } from 'react-router-dom';
 import AppDrawer from './components/AppDrawer';
 import Candidate from './components/Candidate/Candidate';
+import CommingSoon from './components/CommingSoon';
 import ConstituencyCandidates from './components/ConstituencyCandidates/ConstituencyCandidates';
 import County from './components/ConstituencyCounty/County';
 import ConstituencyPage from './components/ConstituencyDistrict/ConstituencyPage';
 import Nav from './components/Header';
 import Home from './components/Home/';
 import Party from './components/Party/Party';
-import CommingSoon from './components/CommingSoon';
 import PartyCandidates from './components/PartyCandidates/PartyCandidates';
-import VernacularPage from './components/Vernacular/VernacularPage';
 import VernacularListPage from './components/Vernacular/VernacularListPage';
+import VernacularPage from './components/Vernacular/VernacularPage';
 
 interface State {
     visible: boolean;
@@ -63,7 +63,7 @@ const App = () => {
             </Container>
             <Switch>
                 <Route
-                    path="/vernacularlist/:page"
+                    path="/vernacularlist/:filter"
                     component={VernacularListPage}
                 />
                 <Route path="/vernacular/:billNo" component={VernacularPage} />

@@ -16,7 +16,7 @@ body {
   color: white;
 }
 .highlight{
-  border-bottom: 3px solid $color-red;
+  background:linear-gradient(transparent 50%, rgba(236,80,43,0.2) 50%);
 }
 .cursor-pointer{
   cursor: pointer;
@@ -85,4 +85,10 @@ body {
   width: 100%;
   height: 1px;
   background-color:$color-primary;
+}
+
+.button-icon{
+  margin-left: -2px;
+  margin-right: 8px;
+  font-size: 0.8125rem;
 }

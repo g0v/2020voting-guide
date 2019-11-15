@@ -1,52 +1,36 @@
-import { Box, Typography } from '@material-ui/core';
-import { useTheme } from '@material-ui/core/styles';
+import { Box } from '@material-ui/core';
 import React from 'react';
-import BasePaper from '../BasePaper';
 
-interface BasicInfoTab {
-    educations: string[];
-    experiences: string[];
-    politics: string[];
-}
+const candidateFBDefault = {
+    name: '',
+    fbPage: ''
+};
 
-const BasicInfoTab = ({ educations, experiences, politics }: BasicInfoTab) => {
-    const theme = useTheme();
+const BasicInfoTab = ({ name }: { name: string }) => {
+    const width = window.screen.width > 425 ? 425 : window.screen.width;
+    const [candidateFB, setCandidateFB] = React.useState(candidateFBDefault);
+    React.useEffect(() => {
+        fetch(`/api/fb/${name}`)
+            .then(res => res.json())
+            .then(setCandidateFB);
+    }, [name]);
+    console.log(candidateFB);
+
     return (
-        <>
-            <Box p={1} bgcolor={theme.palette.background.default} />
-            <BasePaper title="學歷">
-                <Typography variant="body1" color="textSecondary">
-                    {educations.map(education => (
-                        <Box key={education}>
-                            {education}
-                            <br />
-                        </Box>
-                    ))}
-                </Typography>
-            </BasePaper>
-            <Box p={1} bgcolor={theme.palette.background.default} />
-            <BasePaper title="經歷">
-                <Typography variant="body1" color="textSecondary">
-                    {experiences.map(experience => (
-                        <Box key={experience}>
-                            {experience}
-                            <br />
-                        </Box>
-                    ))}
-                </Typography>
-            </BasePaper>
-            <Box p={1} bgcolor={theme.palette.background.default} />
-            <BasePaper title="政見">
-                <Typography variant="body1" color="textSecondary">
-                    {politics.map((politic, i) => (
-                        <Box key={politic}>
-                            {i + 1}. {politic}
-                            <br />
-                        </Box>
-                    ))}
-                </Typography>
-            </BasePaper>
-        </>
+        <Box textAlign="center">
+            <iframe
+                src={
+                    'https://www.facebook.com/plugins/page.php?' +
+                    `href=${candidateFB.fbPage}` +
+                    `&width=${width}&adapt_container_width=true` +
+                    '&show_facepile=false&hide_cta=true'
+                }
+                width={width}
+                scrolling="no"
+                frameBorder="0"
+                allow="encrypted-media"
+            ></iframe>
+        </Box>
     );
 };
 
