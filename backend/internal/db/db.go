@@ -97,10 +97,11 @@ type Candidate struct {
 }
 
 type ManualCandidate struct {
-	Name       string `json:"name"`
-	Photo      string `json:"photo"`
-	Party      string `json:"party"`
-	Experience string `json:"experience"`
+	Name              string
+	Photo             string
+	Party             string
+	Experience        string
+	CurrentLegislator bool `gorm:"column:currentLegislator"`
 }
 
 func (ManualCandidate) TableName() string {

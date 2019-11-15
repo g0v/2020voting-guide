@@ -21,8 +21,20 @@ func ListCandidatesByConstituencyHandler(c *gin.Context) {
 
 	constituency := c.Param("constituency")
 
-	var candidates []db.ManualCandidate
-	db.MySQL.Where("constituency = ?", constituency).Find(&candidates)
+	var candidatesDB []db.ManualCandidate
+	db.MySQL.Where("constituency = ?", constituency).Find(&candidatesDB)
+
+	var candidates []models.CandidateOverview
+	for _, candidate := range candidatesDB {
+		candidates = append(candidates, models.CandidateOverview{
+			Name:              candidate.Name,
+			Photo:             candidate.Photo,
+			Party:             candidate.Party,
+			Experience:        candidate.Experience,
+			CurrentLegislator: candidate.CurrentLegislator,
+		})
+	}
+
 	c.JSON(http.StatusOK, candidates)
 }
 
