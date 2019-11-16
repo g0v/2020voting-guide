@@ -1,5 +1,9 @@
 $color-primary : #3199BA;
 $color-red : #EC502B;
+$color-light-gray: #C4C4C4;
+$color-dark-gray: #222222;
+$color-trans-dark: rgba(0, 0, 0, 0.54);
+$color-trans-light: rgba(0, 0, 0, 0.33);
 
 $media-query-md : 769px;
 $media-query-lg : 993px;
@@ -13,4 +17,3 @@ $media-query-lg : 993px;
     @content;
   }
 }
-

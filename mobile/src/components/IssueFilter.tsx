@@ -129,7 +129,7 @@ const IssueFilter = ({
                                                 {
                                                     bills.filter(
                                                         ({ category }) =>
-                                                            category == issue
+                                                            category === issue
                                                     ).length
                                                 } 提案
                                             </Button>
