@@ -92,3 +92,11 @@ body {
   margin-right: 8px;
   font-size: 0.8125rem;
 }
+
+.alert-frame{
+  position: relative;
+  border: 1px solid $color-light-gray;
+  border-radius: 10px;
+  font-size: 14px;
+  line-height: 160%;
+}
