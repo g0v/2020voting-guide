@@ -1,29 +1,37 @@
 import { Box, Button, Typography } from '@material-ui/core';
-// import { makeStyles } from '@material-ui/core/styles';
-import dayjs from 'dayjs';
-import React, { ReactNode, MouseEvent, useMemo } from 'react';
+import React, { ReactNode, MouseEvent } from 'react';
 import Countdown from './Countdown';
-import './Home.scss';
 import { scrollBody } from '../../utils';
+import './Home.scss';
+
 interface VideoCard {
     title: string;
     subtitle: string;
     src: string;
     children: ReactNode;
+    className: string;
 }
 
-const VideoCard = ({ title, subtitle, src, children }: VideoCard) => (
-    <Box my={4} className="page-index__video-card">
-        <Box mx={1} mb={3} className="page-index__video-card-title">
-            <Typography variant="h2">{title}</Typography>
-        </Box>
-        <Box mx={1} mb={3}>
-            <Typography variant="h3">{subtitle}</Typography>
-        </Box>
-        <Box mx={1} mb={2}>
-            <Typography>{children}</Typography>
-        </Box>
-        <div className="embed-responsive embed-responsive-16by9">
+const VideoCard = ({
+    title,
+    subtitle,
+    src,
+    children,
+    className
+}: VideoCard) => (
+    <Box my={4} className={'page-index__video-card ' + className}>
+        <div className="page-index__video-card-text-wrap">
+            <Box mx={1} mb={3} className="page-index__video-card-title">
+                <Typography variant="h2">{title}</Typography>
+            </Box>
+            <Box mx={1} mb={3}>
+                <Typography variant="h3">{subtitle}</Typography>
+            </Box>
+            <Box mx={1} mb={2}>
+                <Typography>{children}</Typography>
+            </Box>
+        </div>
+        <div className="page-index__video-card-yb embed-responsive embed-responsive-16by9">
             <iframe
                 className="embed-responsive-item"
                 title={title}
@@ -59,7 +67,7 @@ const Home = () => {
                         href="/county"
                         className="page-home__primary-btn"
                     >
-                        <Typography variant="h3">區域立委</Typography>
+                        <Typography variant="h3">看看區域立委</Typography>
                     </Button>
                 </div>
                 <div className="page-home__primary-btn-wrap-inner">
@@ -69,7 +77,7 @@ const Home = () => {
                         href="/parties"
                         className="page-home__primary-btn"
                     >
-                        <Typography variant="h3">不分區立委</Typography>
+                        <Typography variant="h3">瞧瞧不分區立委</Typography>
                     </Button>
                 </div>
             </Box>
@@ -103,7 +111,7 @@ const Home = () => {
                 </Box>
             </Box>
             <Box className="page-home__inclusion" py="50px" px="70px" mb={5}>
-                <Box mb="28px">
+                <Box mb="28px" className="page-home__inclusion-text">
                     <Typography variant="h2" align="center">
                         選前大補帖收錄了
                         <br />
@@ -112,30 +120,31 @@ const Home = () => {
                         協助人民選前抱佛腳
                     </Typography>
                 </Box>
-                <div className="page-home__inclusion-box">
-                    <Typography variant="h3">立法院</Typography>
-                </div>
-                <div className="page-home__inclusion-box">
-                    <Typography variant="h3">中央選舉委員會</Typography>
-                </div>
-                <div className="page-home__inclusion-box">
-                    <Typography variant="h3">監察院 陽光法令</Typography>
-                </div>
-                <div className="page-home__inclusion-box">
-                    <Typography variant="h3">維基百科</Typography>
-                </div>
-                <div className="page-home__inclusion-box">
-                    <Typography variant="h3">公民監督國會聯盟</Typography>
+                <div className="page-home__inclusion-box-wrap">
+                    <div className="page-home__inclusion-box">
+                        <Typography variant="h3">立法院</Typography>
+                    </div>
+                    <div className="page-home__inclusion-box">
+                        <Typography variant="h3">中央選舉委員會</Typography>
+                    </div>
+                    <div className="page-home__inclusion-box">
+                        <Typography variant="h3">監察院 陽光法令</Typography>
+                    </div>
+                    <div className="page-home__inclusion-box">
+                        <Typography variant="h3">維基百科</Typography>
+                    </div>
+                    <div className="page-home__inclusion-box">
+                        <Typography variant="h3">公民監督國會聯盟</Typography>
+                    </div>
                 </div>
             </Box>
             <Box ml={2} mr={2}>
                 <VideoCard
+                    className="page-home-quick-0"
                     title="大補帖一、立委的工作是什麼？"
                     subtitle="立法委員究竟該做什麼？"
                     src="https://www.youtube.com/embed/lOCqaZ5Pb_w"
                 >
-                    立法委員的究竟該做什麼？
-                    <br />
                     憲法第63條則載明「立法院有
                     <span className="highlight">
                         議決法律案、預算案、戒嚴案、大赦案、宣戰案、媾和案、條約案及國家其他重要事項之權
@@ -151,6 +160,7 @@ const Home = () => {
                 </VideoCard>
                 <div className="divider"></div>
                 <VideoCard
+                    className="page-home-quick-1"
                     title="大補帖二、為什麼有兩票？"
                     subtitle="單一選區兩票制"
                     src="https://www.youtube.com/embed/zPkX6cn4oMg"

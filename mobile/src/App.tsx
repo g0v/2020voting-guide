@@ -39,7 +39,7 @@ const App = () => {
 
     return (
         <>
-            <Container maxWidth="sm" className={classes.container}>
+            <Container maxWidth="lg" className={classes.container}>
                 <Nav open={open} handleDrawerOpen={handleDrawerOpen} />
                 <AppDrawer handleDrawerClose={handleDrawerClose} open={open} />
                 <Box>
