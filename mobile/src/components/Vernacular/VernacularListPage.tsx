@@ -7,7 +7,7 @@ interface Bill {
     category: string;
     billNo: string;
     vernacular: string;
-    link: string;
+    clicks: number;
 }
 
 const VernacularListPage = ({
@@ -32,6 +32,7 @@ const VernacularListPage = ({
                     <TableCell>類別</TableCell>
                     <TableCell>法案名稱</TableCell>
                     <TableCell>提案日期</TableCell>
+                    <TableCell>點擊數</TableCell>
                     <TableCell>白話文內容</TableCell>
                     <TableCell>連結</TableCell>
                 </TableRow>
@@ -42,6 +43,7 @@ const VernacularListPage = ({
                         <TableCell>{bill.category}</TableCell>
                         <TableCell>{bill.name}</TableCell>
                         <TableCell>{billNoToDate(bill.billNo)}</TableCell>
+                        <TableCell>{bill.clicks}</TableCell>
                         <TableCell>{bill.vernacular}</TableCell>
                         <TableCell>
                             <Button
