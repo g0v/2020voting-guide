@@ -2,17 +2,28 @@
 
 $spanHeight : 36px;
 .page-home{
+  // overflow-x: hidden;
   h2{
     line-height: 160%;
   }
   &__primary-btn-wrap{
     display: flex;
     flex-direction: column;
+    @include mediaMedium{
+      flex-direction: row;
+      justify-content: center;
+    }
     .page-home__primary-btn-wrap-inner{
       text-align: center;
       position: relative;
+      @include mediaMedium{
+        margin: 0 30px;
+      }
       & + .page-home__primary-btn-wrap-inner{
         margin-top: 22px;
+        @include mediaMedium{
+          margin-top: 0;
+        }
       }
     }
   }
@@ -21,6 +32,7 @@ $spanHeight : 36px;
     padding: 15px 12px;
     border-width: 2px !important;
     width: 180px;
+    border: 2px solid $color-primary;
     &:hover:after{
       right: -25px;
     }
@@ -37,15 +49,36 @@ $spanHeight : 36px;
   .page-home__quick-btn + .page-home__quick-btn{
     margin-top: 10px;
   }
+  // 選前大補帖收錄了這些地方的開放資料協助人民選前抱佛腳
   .page-home__inclusion{
     color: white;
     background-color: $color-primary;
+    @include mediaMedium {
+      display: flex;
+      > div {
+        flex: 0 0 50%
+      }
+    }
+    .page-home__inclusion-text{
+      @include mediaMedium{
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        h2{
+          font-size: 36px;
+          padding-right: 30px;
+        }
+      }
+    }
     .page-home__inclusion-box{
       display: flex;
       align-items: center;
       padding: 16px 20px;
       background-color:#20708A;
       border-radius: 10px;
+      @include mediaMedium {
+        width: 70%;
+      }
       &:before{
         content: url('/img/home/check.png');
         display: block;
@@ -55,13 +88,32 @@ $spanHeight : 36px;
         margin-top: 8px;
       }
     }
-    
   }
+  // Youtube 影片區
   .page-index__video-card {
     display: flex;
     flex-direction: column;
-    .page-index__video-card-title {
-      order: -1;
+    position: relative;
+    @include mediaMedium{
+      flex-direction: row;
+      padding-top: 70px;
+      .page-index__video-card-text-wrap{
+        order: 2;
+        padding-left: 15px;
+        width: 50%;
+      }
+      .page-index__video-card-yb{
+        padding-right: 15px;
+        width: 50%;
+      }
+      .page-index__video-card-title{
+        position: absolute;
+        top: 0;
+        left: 0;
+        h2{
+          font-size: 36px;
+        }
+      }
     }
   }
   @keyframes countdown-animation {
@@ -73,6 +125,14 @@ $spanHeight : 36px;
     }
   }
   .countdown{
+    @include mediaMedium{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      > * {
+        margin-top: 0;
+      }
+    }
     .countdown__content{
       display: flex;
       justify-content: center;
@@ -84,6 +144,9 @@ $spanHeight : 36px;
       display: inline-block;
       color:transparent;
       margin: 0 2px;
+      @include mediaMedium{
+        margin: 0 10px;
+      }
       &-inner{
         position: absolute;
         top: 0;

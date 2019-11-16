@@ -1,2 +1,16 @@
 $color-primary : #3199BA;
 $color-red : #EC502B;
+
+$media-query-md : 769px;
+$media-query-lg : 993px;
+@mixin mediaMedium() {
+  @media all and (min-width: $media-query-md) {
+    @content;
+  }
+}
+@mixin mediaLarge() {
+  @media all and (min-width: $media-query-lg) {
+    @content;
+  }
+}
+
