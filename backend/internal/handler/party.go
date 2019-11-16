@@ -32,7 +32,7 @@ func GetPartyByNameHandler(c *gin.Context) {
 	party.Name = name
 
 	var orgBillsDb []db.Bill
-	caucusFilter := "%" + getCaucusName(name) + "%"
+	caucusFilter := "本院" + getCaucusName(name)
 	db.MySQL.Where("billOrg LIKE ?", caucusFilter).Find(&orgBillsDb)
 	for _, bill := range orgBillsDb {
 		date := bill.BillNo[0:3] + "-" + bill.BillNo[3:5] + "-" + bill.BillNo[5:7]

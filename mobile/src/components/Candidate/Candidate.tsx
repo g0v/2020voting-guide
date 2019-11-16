@@ -73,7 +73,7 @@ const CandidatePage = ({ match }: CandidatePage) => {
 
             {tab === 0 ? (
                 candidate.currentLegislator || caucusParty.includes(candidate.party)  ? (
-                    <IssueBillTab {...candidate} />
+                    <IssueBillTab name={candidate.name} />
                 ) : (
                     <NoInfoTab name={candidate.name} />
                 )
