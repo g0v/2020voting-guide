@@ -39,7 +39,6 @@ type Candidate struct {
 	BillNumCategory        string `json:"billNumCategory"`
 	PoliticalContribution  string `json:"politicalContribution"`
 	OtherCandidate         string `json:"otherCandidate"`
-	Bills                  []Bill `json:"bills"`
 }
 
 // Party api for party

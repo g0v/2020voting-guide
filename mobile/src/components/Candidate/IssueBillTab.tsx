@@ -3,11 +3,16 @@ import Bulletin from '../Bulletin';
 import IssueBill, { Bill } from '../IssueBill';
 import IssueFilter from '../IssueFilter';
 
-interface IssueBillTab {
-    bills?: Bill[];
-}
 
-const IssueBillTab = ({ bills = [] }: IssueBillTab) => {
+const IssueBillTab = ({ name }: {name: string}) => {
+
+    const [bills, setBills] = React.useState<Bill[]>([]);
+    React.useEffect(() => {
+        fetch(`/api/bills/${name}`)
+            .then(res => res.json())
+            .then(setBills);
+    }, [name]);
+
     const issues = [
         ...new Set(bills.filter(b => b.category).map(b => b.category))
     ];
