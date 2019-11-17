@@ -1,8 +1,9 @@
 import React from 'react';
-import {Typography} from '@material-ui/core'
-import {makeStyles, Theme, createStyles} from '@material-ui/core/styles'
+import { Typography } from '@material-ui/core';
+import clsx from 'clsx';
+import { makeStyles, Theme, createStyles } from '@material-ui/core/styles';
 import { diff_match_patch as DiffMatchPatch } from 'diff-match-patch';
-
+import './ChangedBill.scss';
 const useStyle = makeStyles((theme: Theme) =>
     createStyles({
         deleteInner: {
@@ -10,8 +11,7 @@ const useStyle = makeStyles((theme: Theme) =>
         },
         deleteOuter: {
             padding: 2,
-            color: theme.palette.primary.main,
-            textDecoration: 'line-through'
+            color: theme.palette.primary.main
         },
         add: {
             color: theme.palette.primary.main
@@ -31,10 +31,15 @@ const ChangedBill = ({
     const classes = useStyle();
     const dmp = new DiffMatchPatch();
     const diff = dmp.diff_main(activeLaw, reviseLaw);
-    const diff_html = diff.map(d => {
+    const diffHTML = diff.map(d => {
         if (d[0] === -1) {
             return (
-                <span className={classes.deleteOuter}>
+                <span
+                    className={clsx(
+                        'changedbill__delete-outer',
+                        classes.deleteOuter
+                    )}
+                >
                     <span className={classes.deleteInner}>{d[1]}</span>
                 </span>
             );
@@ -46,7 +51,7 @@ const ChangedBill = ({
     });
     return (
         <Typography variant="h6">
-            {index}. {diff_html}
+            {index}. {diffHTML}
         </Typography>
     );
 };
