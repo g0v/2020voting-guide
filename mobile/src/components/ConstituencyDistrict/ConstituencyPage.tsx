@@ -1,13 +1,8 @@
-import {
-    Divider,
-    List,
-    ListItem,
-    ListItemText,
-    Typography
-} from '@material-ui/core';
+import { Divider, List, ListItem, Box, Typography } from '@material-ui/core';
 import React from 'react';
 import constituencyArea from '../../data/constituencies_area.json';
 import Navigation from '../Navigation';
+import './ConstituencyPage.scss';
 
 interface County {
     match: {
@@ -25,35 +20,72 @@ interface ConstituencyArea {
     [key: string]: { [key: string]: string | string[] };
 }
 
+const PATTERN = /第(一|二|三|四|五|六|七|八|九|十|十一|十二)選舉區/;
+const TW_NUMBERS: string[] = [
+    '一',
+    '二',
+    '三',
+    '四',
+    '五',
+    '六',
+    '七',
+    '八',
+    '九',
+    '十',
+    '十一',
+    '十二'
+];
+
 const ConstituencyCard: React.FunctionComponent<Constituency> = ({
     name,
     county
-}) => {
+}: Constituency) => {
+    const shortName: string = name.replace(county, '');
+    let num = '';
+
+    if (PATTERN.test(shortName)) {
+        num = shortName.replace(PATTERN, (match, p1) => {
+            return TW_NUMBERS.indexOf(p1) + 1 + '';
+        });
+    }
+
+    const areaName: string = Object.keys(
+        (constituencyArea as ConstituencyArea)[name]
+    )
+        .join('、')
+        .toString();
     return (
         <>
-            <ListItem button component="a" href={`/regional/${county}/${name}`}>
-                <ListItemText
-                    primary={<Typography variant="h3">{name}</Typography>}
-                    secondary={
-                        <Typography variant="h5">
-                            {Object.keys(
-                                (constituencyArea as ConstituencyArea)[name]
-                            ).join('、')}
-                        </Typography>
-                    }
-                ></ListItemText>
+            <ListItem
+                className="constituency-card-item"
+                button
+                component="a"
+                href={`/regional/${county}/${name}`}
+            >
+                <Box py={3} px={3} display="flex">
+                    <Typography
+                        variant="h3"
+                        className="constituency-card-item__area"
+                    >
+                        選區
+                        <span>{num}</span>
+                    </Typography>
+                    <Typography variant="h3">{areaName}</Typography>
+                </Box>
             </ListItem>
             <Divider />
         </>
     );
 };
 
-const ConstituencyPage: React.FunctionComponent<County> = ({ match }) => {
+const ConstituencyPage: React.FunctionComponent<County> = ({
+    match
+}: County) => {
     const { county } = match.params;
-    const constituencyNames = Object.keys(constituencyArea).filter(
+    const constituencyNames: string[] = Object.keys(constituencyArea).filter(
         constituency => constituency.includes(county)
     );
-    console.log(constituencyNames)
+    console.log(constituencyNames);
     return (
         <>
             <Navigation
@@ -61,7 +93,7 @@ const ConstituencyPage: React.FunctionComponent<County> = ({ match }) => {
                 description={`${county} / 選擇選區`}
             />
             <List>
-                {constituencyNames.map(name => (
+                {constituencyNames.map((name: string) => (
                     <ConstituencyCard name={name} county={county} key={name} />
                 ))}
             </List>
