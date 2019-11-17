@@ -2,7 +2,7 @@ import { Box, Typography } from '@material-ui/core';
 import { useTheme } from '@material-ui/core/styles';
 import React from 'react';
 
-const NoInfoTab = ({ name }: { name: string }) => {
+const NoInfoTab = ({ name, from }: { name: string; from: string }) => {
     const theme = useTheme();
     return (
         <Box
@@ -23,13 +23,21 @@ const NoInfoTab = ({ name }: { name: string }) => {
                 </Typography>
             </Box>
             <Typography variant="h5" color="textSecondary">
-                <Box lineHeight={2}>
-                    這個候選人沒有法案紀錄
+            {from === 'issueBill' ?
+                (<Box lineHeight={2}>
+                這個候選人沒有法案紀錄
                     <br />
                     加入的政黨也沒有法案紀錄
                     <br />
                     透過其他方法認識他
-                </Box>
+                </Box>)
+            : from === 'passPerformance' ?
+            (<Box lineHeight={2}>
+                這個候選人沒有立委紀錄
+                    <br />
+                    透過其他方法認識他
+                </Box>) : ''
+            }
             </Typography>
         </Box>
     );
