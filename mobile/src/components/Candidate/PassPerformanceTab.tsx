@@ -1,23 +1,26 @@
-import { Box, Typography } from '@material-ui/core';
+import { Box, Typography, Link } from '@material-ui/core';
 import { useTheme, makeStyles } from '@material-ui/core/styles';
 import IconButton from '@material-ui/core/IconButton';
 import ExpandMoreRoundedIcon from '@material-ui/icons/ExpandMoreRounded';
 import ExpandLessRoundedIcon from '@material-ui/icons/ExpandLessRounded';
 import React from 'react';
-import { Pie, PieChart, ResponsiveContainer, Tooltip } from 'recharts';
+import { Bar, BarChart, XAxis, YAxis, LabelList, Tooltip, Cell, ResponsiveContainer } from 'recharts';
 import BasePaper from '../BasePaper';
-import Bulletin from '../Bulletin';
+import Alert from '../Alert';
 import BigNum from '../Numbers/BigNum';
 import AppPieChart from './AppPieChart';
 import AppBarChart from './AppBarChart';
 import CompareBarChart from './CompareBarChart';
 
+import overallStatistic from '../../data/overall_statistic.json';
+import proposeTimes from '../../data/propose_times.json';
 
-const data01 = [
-    { name: '個人捐贈', percent: 57.1 },
-    { name: '營利事業捐贈', percent: 39.3 },
-    { name: '人民團體捐贈', percent: 3 }
-];
+const proposeData = proposeTimes.map(item => {
+    return {
+        count: item.count,
+        percent: (Number(item.count) * 100) / Number(proposeTimes[0].count)
+    }
+}).reverse()
 
 const contributionMappings: { [key: string]: string } = {
     personalContributeion: '個人捐贈',
@@ -82,11 +85,12 @@ const getTenThousand = (num: number) => {
     return Math.floor(num / 10000)
 }
 
+const getPercentage = (num: number) => {
+    return (num * 100).toFixed(2)
+}
+
 const PositionTab = ({
-    name = '',
-    lastTerm,
-    lastTermYear,
-    interpellationCategory = []
+    name = ''
 }: PositionTab) => {
     const theme = useTheme();
     const classes = useStyle();
@@ -132,11 +136,19 @@ const PositionTab = ({
     }, [name]);
 
     return (
-        <>
-            <Bulletin
-                primary={`${name} 曾擔任 ${lastTerm}`}
-                secondary={lastTermYear}
-            />
+        <Box bgcolor="#F7F7F7" py={1}>
+            <Box mb={2}>
+                <Alert >
+                <span>{`以下是2012-2016 年${name}擔任立法委員的紀錄。`}</span>
+                <br />
+                <span>
+                    {`資料來源: `}
+                    <Link href="https://npl.ly.gov.tw/do/www/homePage">
+                    立法院國會圖書館
+                    </Link>
+                </span>
+                </Alert>
+            </Box>
 
             <BasePaper
                 title="法律草案"
@@ -151,12 +163,34 @@ const PositionTab = ({
                         text2=""
                     />
                 </Box>
-                <Typography variant="h3">最多主提案修法類別</Typography>
-                <AppBarChart
+                <Box marginTop={-10}>
+                <ResponsiveContainer width="100%" height={150}>
+                    <BarChart
+                        data={proposeData}
+                        margin={{
+                            top: 0, right: 0, bottom: 20, left: 0,
+                        }}
+                        reverseStackOrder={true}>
+                        <Tooltip />
+                        <XAxis dataKey="count" interval="preserveStartEnd"/>
+                        <Bar dataKey="percent">
+                        {
+                            proposeData.map((entry, index) => (
+                                <Cell key={`cell-${index}`} fill={ Number(entry.count) === statistic.billProposalNum ? '#3199BA' : '#E5E5E5'} />
+                            ))
+                        }
+                        </Bar>
+                    </BarChart>
+                </ResponsiveContainer>
+                </Box>
+                {/* <Typography variant="h3">最多主提案修法類別</Typography> */}
+                {/* <AppBarChart
                     data={statistic.billProposal}
                     showMore={showMoreBillProposal}
-                />
-                <Box display="flex" justifyContent="center">
+                /> */}
+
+
+                {/* <Box display="flex" justifyContent="center">
                     <IconButton
                         aria-label="expand"
                         onClick={() =>
@@ -173,10 +207,7 @@ const PositionTab = ({
                             />
                         )}
                     </IconButton>
-                </Box>
-                {/* <Typography variant="h5">
-                    立法院： 吳思姚法案主題案影音
-                </Typography> */}
+                </Box> */}
             </BasePaper>
             <Box p={1} bgcolor={theme.palette.background.default} />
 
@@ -219,7 +250,6 @@ const PositionTab = ({
                         )}
                     </IconButton>
                 </Box>
-                {/* <Typography variant="h5">立法院： 吳思姚質詢影音</Typography> */}
             </BasePaper>
             <Box p={1} bgcolor={theme.palette.background.default} />
 
@@ -228,10 +258,10 @@ const PositionTab = ({
                 subtitle="立委應於指定開會時間出席立法院開會、質詢、審議法案"
             >
                 <BigNum
-                    num={Number((statistic.sittingRate * 100).toFixed(2))}
+                    num={Number(getPercentage(statistic.sittingRate))}
                     unit="%"
-                    text1=""
-                    text2=""
+                    text1={`立委平均 ${getPercentage(overallStatistic.overallSittingRate)}%`}
+                    text2={`中位數 ${getPercentage(overallStatistic.mediumSittingRate)}%`}
                 />
             </BasePaper>
             <Box p={1} bgcolor={theme.palette.background.default} />
@@ -247,16 +277,19 @@ const PositionTab = ({
                 <Box display="flex" justifyContent="center">
                     <Typography variant="h3" color="primary">{getTenThousand(statistic.contribution.totalExpense) + "萬元"}</Typography>
                 </Box>
-                {/* <Typography variant="h5">
-                    立法院： 吳思姚法案主題案影音
-                </Typography> */}
             </BasePaper>
             <Box p={1} bgcolor={theme.palette.background.default} />
 
             <BasePaper title="同選區其他候選人收支" subtitle="2016 區域立委選舉 台北市 第 1 選區">
                 <CompareBarChart name={name} data={statistic.otherConstituencyCandidate} />
+                <span>
+                    {`資料來源: `}
+                    <Link href="https://sunshine.cy.gov.tw/">
+                    監察院 陽光法令主題網
+                    </Link>
+                </span>
             </BasePaper>
-        </>
+        </Box>
     );
 };
 
