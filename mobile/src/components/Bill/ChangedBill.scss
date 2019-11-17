@@ -1,0 +1,15 @@
+@import '../../css//variable';
+
+.changedbill__delete-outer{
+  position: relative;
+  &::after {
+    content: '';
+    height: 4px;
+    background-color: $color-primary;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 50%;
+    margin-top: -2px;
+  }
+}
