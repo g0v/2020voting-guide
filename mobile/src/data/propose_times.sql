@@ -1,6 +1,6 @@
 SELECT
     name,
-    sum(value)
+    sum(value) count
 FROM
     `statistic`
 where
@@ -9,3 +9,5 @@ where
     AND dataType = 'categories'
 GROUP BY
     name
+ORDER BY
+    count DESC
