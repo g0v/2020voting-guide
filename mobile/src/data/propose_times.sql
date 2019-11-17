@@ -1,11 +1,11 @@
 SELECT
     name,
-    count(*) total
+    sum(value)
 FROM
-    `proposercosignatory`
-WHERE
-    role = 'proposer'
+    `statistic`
+where
+    term = 9
+    AND statisticType = 'legal_proposal'
+    AND dataType = 'categories'
 GROUP BY
     name
-ORDER BY
-    total desc

@@ -37,4 +37,4 @@ def transform_load():
 if __name__ == "__main__":
     makedirs(OUTPUT_RAW_DIR, exist_ok=True)
     extract()
-    transform_load()
+    # transform_load()

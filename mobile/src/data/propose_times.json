@@ -1,490 +1,506 @@
 [
     {
-        "name": "莊瑞雄",
-        "count": "312"
-    },
-    {
-        "name": "蘇震清",
-        "count": "271"
-    },
-    {
-        "name": "蔡易餘",
-        "count": "201"
-    },
-    {
-        "name": "邱志偉",
-        "count": "189"
-    },
-    {
-        "name": "呂孫綾",
-        "count": "188"
-    },
-    {
-        "name": "林俊憲",
-        "count": "184"
-    },
-    {
-        "name": "賴瑞隆",
-        "count": "174"
-    },
-    {
-        "name": "蔣乃辛",
-        "count": "163"
-    },
-    {
-        "name": "陳亭妃",
-        "count": "156"
-    },
-    {
-        "name": "顏寬恒",
-        "count": "150"
-    },
-    {
-        "name": "鄭寶清",
-        "count": "149"
-    },
-    {
-        "name": "黃國書",
-        "count": "145"
-    },
-    {
-        "name": "蔡適應",
-        "count": "144"
-    },
-    {
-        "name": "劉建國",
-        "count": "143"
-    },
-    {
-        "name": "吳琪銘",
-        "count": "143"
-    },
-    {
-        "name": "江永昌",
-        "count": "139"
-    },
-    {
-        "name": "陳曼麗",
-        "count": "132"
-    },
-    {
-        "name": "吳思瑤",
-        "count": "129"
-    },
-    {
-        "name": "李彥秀",
-        "count": "123"
-    },
-    {
-        "name": "王育敏",
-        "count": "122"
-    },
-    {
-        "name": "羅致政",
-        "count": "121"
-    },
-    {
-        "name": "張廖萬堅",
-        "count": "116"
-    },
-    {
-        "name": "許智傑",
-        "count": "116"
-    },
-    {
-        "name": "許毓仁",
-        "count": "113"
-    },
-    {
-        "name": "尤美女",
-        "count": "113"
+        "name": "何志偉",
+        "sum(value)": "44"
     },
     {
         "name": "何欣純",
-        "count": "108"
+        "sum(value)": "117"
     },
     {
-        "name": "黃昭順",
-        "count": "108"
-    },
-    {
-        "name": "蘇治芬",
-        "count": "108"
-    },
-    {
-        "name": "劉世芳",
-        "count": "107"
-    },
-    {
-        "name": "李昆澤",
-        "count": "105"
-    },
-    {
-        "name": "陳學聖",
-        "count": "102"
-    },
-    {
-        "name": "賴士葆",
-        "count": "100"
-    },
-    {
-        "name": "曾銘宗",
-        "count": "99"
-    },
-    {
-        "name": "呂玉玲",
-        "count": "96"
-    },
-    {
-        "name": "王定宇",
-        "count": "95"
-    },
-    {
-        "name": "葉宜津",
-        "count": "90"
-    },
-    {
-        "name": "洪宗熠",
-        "count": "90"
-    },
-    {
-        "name": "陳賴素美",
-        "count": "87"
-    },
-    {
-        "name": "張宏陸",
-        "count": "86"
-    },
-    {
-        "name": "盧秀燕",
-        "count": "85"
-    },
-    {
-        "name": "吳志揚",
-        "count": "84"
-    },
-    {
-        "name": "林麗蟬",
-        "count": "84"
-    },
-    {
-        "name": "施義芳",
-        "count": "83"
-    },
-    {
-        "name": "李俊俋",
-        "count": "82"
+        "name": "余天",
+        "sum(value)": "5"
     },
     {
         "name": "余宛如",
-        "count": "81"
+        "sum(value)": "82"
     },
     {
-        "name": "陳其邁",
-        "count": "80"
+        "name": "劉世芳",
+        "sum(value)": "105"
     },
     {
-        "name": "王惠美",
-        "count": "80"
-    },
-    {
-        "name": "許淑華",
-        "count": "78"
-    },
-    {
-        "name": "邱泰源",
-        "count": "77"
-    },
-    {
-        "name": "鄭運鵬",
-        "count": "77"
-    },
-    {
-        "name": "段宜康",
-        "count": "77"
-    },
-    {
-        "name": "鍾佳濱",
-        "count": "76"
-    },
-    {
-        "name": "陳怡潔",
-        "count": "76"
-    },
-    {
-        "name": "黃偉哲",
-        "count": "76"
-    },
-    {
-        "name": "蘇巧慧",
-        "count": "76"
-    },
-    {
-        "name": "鍾孔炤",
-        "count": "75"
-    },
-    {
-        "name": "陳歐珀",
-        "count": "71"
-    },
-    {
-        "name": "徐榛蔚",
-        "count": "71"
-    },
-    {
-        "name": "趙正宇",
-        "count": "71"
-    },
-    {
-        "name": "周春米",
-        "count": "71"
-    },
-    {
-        "name": "黃秀芳",
-        "count": "70"
-    },
-    {
-        "name": "林昶佐",
-        "count": "69"
-    },
-    {
-        "name": "吳焜裕",
-        "count": "69"
-    },
-    {
-        "name": "蔣萬安",
-        "count": "68"
-    },
-    {
-        "name": "柯志恩",
-        "count": "67"
-    },
-    {
-        "name": "吳玉琴",
-        "count": "67"
-    },
-    {
-        "name": "陳宜民",
-        "count": "65"
-    },
-    {
-        "name": "江啟臣",
-        "count": "64"
-    },
-    {
-        "name": "林為洲",
-        "count": "63"
-    },
-    {
-        "name": "費鴻泰",
-        "count": "61"
-    },
-    {
-        "name": "蔡培慧",
-        "count": "60"
-    },
-    {
-        "name": "谷辣斯．尤達卡Kolas Yotaka",
-        "count": "60"
-    },
-    {
-        "name": "林德福",
-        "count": "58"
-    },
-    {
-        "name": "趙天麟",
-        "count": "58"
-    },
-    {
-        "name": "孔文吉",
-        "count": "57"
-    },
-    {
-        "name": "邱議瑩",
-        "count": "56"
-    },
-    {
-        "name": "徐國勇",
-        "count": "56"
-    },
-    {
-        "name": "陳超明",
-        "count": "55"
-    },
-    {
-        "name": "廖國棟Sufin．Siluko",
-        "count": "55"
-    },
-    {
-        "name": "蕭美琴",
-        "count": "54"
-    },
-    {
-        "name": "陳素月",
-        "count": "53"
-    },
-    {
-        "name": "吳秉叡",
-        "count": "51"
-    },
-    {
-        "name": "陳雪生",
-        "count": "50"
-    },
-    {
-        "name": "陳明文",
-        "count": "47"
-    },
-    {
-        "name": "郭正亮",
-        "count": "47"
-    },
-    {
-        "name": "林岱樺",
-        "count": "45"
-    },
-    {
-        "name": "楊鎮浯",
-        "count": "44"
-    },
-    {
-        "name": "徐志榮",
-        "count": "43"
-    },
-    {
-        "name": "鄭天財Sra．Kacaw",
-        "count": "42"
-    },
-    {
-        "name": "徐永明",
-        "count": "41"
-    },
-    {
-        "name": "馬文君",
-        "count": "40"
-    },
-    {
-        "name": "姚文智",
-        "count": "40"
-    },
-    {
-        "name": "林靜儀",
-        "count": "39"
+        "name": "劉建國",
+        "sum(value)": "170"
     },
     {
         "name": "劉櫂豪",
-        "count": "39"
+        "sum(value)": "39"
     },
     {
-        "name": "張麗善",
-        "count": "38"
+        "name": "吳志揚",
+        "sum(value)": "94"
     },
     {
-        "name": "李麗芬",
-        "count": "37"
+        "name": "吳思瑤",
+        "sum(value)": "140"
     },
     {
-        "name": "何志偉",
-        "count": "36"
+        "name": "吳焜裕",
+        "sum(value)": "72"
     },
     {
-        "name": "洪慈庸",
-        "count": "36"
+        "name": "吳玉琴",
+        "sum(value)": "67"
     },
     {
-        "name": "管碧玲",
-        "count": "35"
+        "name": "吳琪銘",
+        "sum(value)": "140"
     },
     {
-        "name": "簡東明Uliw．Qaljupayare",
-        "count": "35"
+        "name": "吳秉叡",
+        "sum(value)": "77"
     },
     {
-        "name": "蔣絜安",
-        "count": "33"
+        "name": "呂孫綾",
+        "sum(value)": "196"
     },
     {
-        "name": "顧立雄",
-        "count": "32"
+        "name": "呂玉玲",
+        "sum(value)": "107"
     },
     {
-        "name": "王榮璋",
-        "count": "30"
-    },
-    {
-        "name": "羅明才",
-        "count": "30"
-    },
-    {
-        "name": "高志鵬",
-        "count": "29"
-    },
-    {
-        "name": "林淑芬",
-        "count": "26"
-    },
-    {
-        "name": "沈智慧",
-        "count": "24"
-    },
-    {
-        "name": "鄭麗君",
-        "count": "22"
+        "name": "周春米",
+        "sum(value)": "92"
     },
     {
         "name": "周陳秀霞",
-        "count": "21"
+        "sum(value)": "41"
     },
     {
-        "name": "陳靜敏",
-        "count": "19"
+        "name": "姚文智",
+        "sum(value)": "43"
     },
     {
-        "name": "高潞．以用．巴魕剌Kawlo．Iyun．Pacidal",
-        "count": "17"
+        "name": "孔文吉",
+        "sum(value)": "61"
     },
     {
-        "name": "黃國昌",
-        "count": "14"
+        "name": "尤美女",
+        "sum(value)": "124"
     },
     {
-        "name": "李鴻鈞",
-        "count": "13"
+        "name": "廖國棟",
+        "sum(value)": "61"
     },
     {
-        "name": "高金素梅",
-        "count": "13"
+        "name": "張宏陸",
+        "sum(value)": "107"
     },
     {
-        "name": "林奕華",
-        "count": "10"
+        "name": "張廖萬堅",
+        "sum(value)": "125"
+    },
+    {
+        "name": "張麗善",
+        "sum(value)": "44"
+    },
+    {
+        "name": "徐國勇",
+        "sum(value)": "47"
+    },
+    {
+        "name": "徐志榮",
+        "sum(value)": "41"
+    },
+    {
+        "name": "徐榛蔚",
+        "sum(value)": "73"
+    },
+    {
+        "name": "徐永明",
+        "sum(value)": "189"
+    },
+    {
+        "name": "施義芳",
+        "sum(value)": "102"
+    },
+    {
+        "name": "曾銘宗",
+        "sum(value)": "102"
+    },
+    {
+        "name": "李俊俋",
+        "sum(value)": "101"
+    },
+    {
+        "name": "李彥秀",
+        "sum(value)": "132"
     },
     {
         "name": "李應元",
-        "count": "10"
+        "sum(value)": "11"
     },
     {
-        "name": "郭國文",
-        "count": "9"
+        "name": "李昆澤",
+        "sum(value)": "103"
     },
     {
-        "name": "童惠珍",
-        "count": "8"
+        "name": "李鴻鈞",
+        "sum(value)": "138"
     },
     {
-        "name": "陳玉珍",
-        "count": "6"
+        "name": "李麗芬",
+        "sum(value)": "42"
     },
     {
-        "name": "柯建銘",
-        "count": "6"
+        "name": "林俊憲",
+        "sum(value)": "225"
     },
     {
-        "name": "王金平",
-        "count": "4"
+        "name": "林奕華",
+        "sum(value)": "10"
+    },
+    {
+        "name": "林岱樺",
+        "sum(value)": "45"
+    },
+    {
+        "name": "林德福",
+        "sum(value)": "93"
+    },
+    {
+        "name": "林昶佐",
+        "sum(value)": "183"
+    },
+    {
+        "name": "林淑芬",
+        "sum(value)": "29"
+    },
+    {
+        "name": "林為洲",
+        "sum(value)": "69"
+    },
+    {
+        "name": "林靜儀",
+        "sum(value)": "36"
+    },
+    {
+        "name": "林麗蟬",
+        "sum(value)": "86"
     },
     {
         "name": "柯呈枋",
-        "count": "3"
+        "sum(value)": "4"
+    },
+    {
+        "name": "柯建銘",
+        "sum(value)": "41"
+    },
+    {
+        "name": "柯志恩",
+        "sum(value)": "87"
+    },
+    {
+        "name": "楊曜",
+        "sum(value)": "91"
+    },
+    {
+        "name": "楊鎮浯",
+        "sum(value)": "58"
+    },
+    {
+        "name": "段宜康",
+        "sum(value)": "60"
+    },
+    {
+        "name": "江啟臣",
+        "sum(value)": "61"
+    },
+    {
+        "name": "江永昌",
+        "sum(value)": "154"
+    },
+    {
+        "name": "沈智慧",
+        "sum(value)": "25"
+    },
+    {
+        "name": "洪宗熠",
+        "sum(value)": "103"
+    },
+    {
+        "name": "洪慈庸",
+        "sum(value)": "145"
+    },
+    {
+        "name": "王定宇",
+        "sum(value)": "97"
+    },
+    {
+        "name": "王惠美",
+        "sum(value)": "88"
+    },
+    {
+        "name": "王榮璋",
+        "sum(value)": "42"
+    },
+    {
+        "name": "王育敏",
+        "sum(value)": "119"
+    },
+    {
+        "name": "王金平",
+        "sum(value)": "5"
+    },
+    {
+        "name": "盧秀燕",
+        "sum(value)": "90"
+    },
+    {
+        "name": "童惠珍",
+        "sum(value)": "8"
+    },
+    {
+        "name": "管碧玲",
+        "sum(value)": "36"
+    },
+    {
+        "name": "簡東明",
+        "sum(value)": "35"
+    },
+    {
+        "name": "羅明才",
+        "sum(value)": "34"
+    },
+    {
+        "name": "羅致政",
+        "sum(value)": "120"
+    },
+    {
+        "name": "莊瑞雄",
+        "sum(value)": "353"
+    },
+    {
+        "name": "葉宜津",
+        "sum(value)": "93"
+    },
+    {
+        "name": "蔡培慧",
+        "sum(value)": "60"
+    },
+    {
+        "name": "蔡易餘",
+        "sum(value)": "199"
+    },
+    {
+        "name": "蔡適應",
+        "sum(value)": "144"
+    },
+    {
+        "name": "蔣乃辛",
+        "sum(value)": "174"
+    },
+    {
+        "name": "蔣絜安",
+        "sum(value)": "34"
+    },
+    {
+        "name": "蔣萬安",
+        "sum(value)": "86"
+    },
+    {
+        "name": "蕭美琴",
+        "sum(value)": "59"
+    },
+    {
+        "name": "蘇巧慧",
+        "sum(value)": "74"
+    },
+    {
+        "name": "蘇治芬",
+        "sum(value)": "124"
+    },
+    {
+        "name": "蘇震清",
+        "sum(value)": "299"
+    },
+    {
+        "name": "許智傑",
+        "sum(value)": "131"
+    },
+    {
+        "name": "許毓仁",
+        "sum(value)": "105"
+    },
+    {
+        "name": "許淑華",
+        "sum(value)": "79"
+    },
+    {
+        "name": "谷辣斯．尤達卡",
+        "sum(value)": "58"
+    },
+    {
+        "name": "費鴻泰",
+        "sum(value)": "73"
+    },
+    {
+        "name": "賴士葆",
+        "sum(value)": "115"
+    },
+    {
+        "name": "賴瑞隆",
+        "sum(value)": "187"
+    },
+    {
+        "name": "趙天麟",
+        "sum(value)": "70"
+    },
+    {
+        "name": "趙正宇",
+        "sum(value)": "76"
+    },
+    {
+        "name": "邱志偉",
+        "sum(value)": "208"
+    },
+    {
+        "name": "邱泰源",
+        "sum(value)": "97"
+    },
+    {
+        "name": "邱議瑩",
+        "sum(value)": "57"
+    },
+    {
+        "name": "郭國文",
+        "sum(value)": "12"
+    },
+    {
+        "name": "郭正亮",
+        "sum(value)": "47"
+    },
+    {
+        "name": "鄭天財",
+        "sum(value)": "111"
+    },
+    {
+        "name": "鄭寶清",
+        "sum(value)": "191"
+    },
+    {
+        "name": "鄭秀玲",
+        "sum(value)": "10"
+    },
+    {
+        "name": "鄭運鵬",
+        "sum(value)": "82"
+    },
+    {
+        "name": "鄭麗君",
+        "sum(value)": "22"
+    },
+    {
+        "name": "鍾佳濱",
+        "sum(value)": "78"
+    },
+    {
+        "name": "鍾孔炤",
+        "sum(value)": "71"
+    },
+    {
+        "name": "陳亭妃",
+        "sum(value)": "179"
+    },
+    {
+        "name": "陳其邁",
+        "sum(value)": "92"
+    },
+    {
+        "name": "陳學聖",
+        "sum(value)": "107"
+    },
+    {
+        "name": "陳宜民",
+        "sum(value)": "80"
+    },
+    {
+        "name": "陳怡潔",
+        "sum(value)": "102"
+    },
+    {
+        "name": "陳明文",
+        "sum(value)": "58"
+    },
+    {
+        "name": "陳曼麗",
+        "sum(value)": "150"
+    },
+    {
+        "name": "陳歐珀",
+        "sum(value)": "84"
+    },
+    {
+        "name": "陳玉珍",
+        "sum(value)": "6"
+    },
+    {
+        "name": "陳瑩",
+        "sum(value)": "54"
+    },
+    {
+        "name": "陳素月",
+        "sum(value)": "52"
+    },
+    {
+        "name": "陳賴素美",
+        "sum(value)": "90"
+    },
+    {
+        "name": "陳超明",
+        "sum(value)": "62"
+    },
+    {
+        "name": "陳雪生",
+        "sum(value)": "59"
+    },
+    {
+        "name": "陳靜敏",
+        "sum(value)": "19"
+    },
+    {
+        "name": "顏寬恒",
+        "sum(value)": "169"
+    },
+    {
+        "name": "顧立雄",
+        "sum(value)": "33"
+    },
+    {
+        "name": "馬文君",
+        "sum(value)": "44"
+    },
+    {
+        "name": "高志鵬",
+        "sum(value)": "30"
+    },
+    {
+        "name": "高潞．以用．巴魕剌",
+        "sum(value)": "146"
+    },
+    {
+        "name": "高金素梅",
+        "sum(value)": "21"
+    },
+    {
+        "name": "黃偉哲",
+        "sum(value)": "90"
+    },
+    {
+        "name": "黃國昌",
+        "sum(value)": "177"
+    },
+    {
+        "name": "黃國書",
+        "sum(value)": "161"
+    },
+    {
+        "name": "黃昭順",
+        "sum(value)": "117"
+    },
+    {
+        "name": "黃秀芳",
+        "sum(value)": "89"
     }
 ]
