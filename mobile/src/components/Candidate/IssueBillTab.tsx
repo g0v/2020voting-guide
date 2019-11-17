@@ -1,5 +1,6 @@
 import React from 'react';
-import Bulletin from '../Bulletin';
+import { Box, Link } from '@material-ui/core';
+import Alert from '../Alert';
 import IssueBill, { Bill } from '../IssueBill';
 import IssueFilter from '../IssueFilter';
 
@@ -35,11 +36,17 @@ const IssueBillTab = ({ name }: {name: string}) => {
     const filteredIssue = issueFilter.length ? issueFilter : issues;
 
     return (
-        <>
-            <Bulletin
-                primary="對於民眾關注的熱門議題，候選人在立法院實際提案和連署的法案。"
-                secondary="這些議題怎麽產生的？"
-            />
+        <Box bgcolor="#F7F7F7" py={1}>
+            <Alert>
+              <span>{`以下是2012-2016 年${name}候選人在立法院實際提出的法案。`}</span>
+              <br />
+              <span>
+                {`資料來源: `}
+                <Link href="https://lis.ly.gov.tw/billtpc/billtp">
+                  立法動態資訊網法案追蹤平台
+                </Link>
+              </span>
+            </Alert>
             <div>
                 {filteredIssue
                     .map(issue => ({
@@ -60,7 +67,7 @@ const IssueBillTab = ({ name }: {name: string}) => {
                 complete={handleComplete}
                 bills={bills}
             />
-        </>
+        </Box>
     );
 };
 
