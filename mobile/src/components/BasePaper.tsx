@@ -9,7 +9,7 @@ interface BasePaper {
 
 const BasePaper = ({ children, title, subtitle }: BasePaper) => {
     return (
-        <Box mx={2.5} py={3} mb={3}>
+        <Box px={2.5} py={3} mb={1} bgcolor="#FFFFFF">
             <Box pb={1}>
                 <Typography variant="h2">{title}</Typography>
             </Box>
