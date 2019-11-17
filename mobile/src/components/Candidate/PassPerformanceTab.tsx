@@ -17,6 +17,7 @@ import proposeTimes from '../../data/propose_times.json';
 
 const proposeData = proposeTimes.map(item => {
     return {
+        name: item.name,
         count: item.count,
         percent: (Number(item.count) * 100) / Number(proposeTimes[0].count)
     }
@@ -168,18 +169,18 @@ const PositionTab = ({
                     <BarChart
                         data={proposeData}
                         margin={{
-                            top: 0, right: 0, bottom: 20, left: 0,
+                            top: 0, right: 10, bottom: 20, left: 10,
                         }}
                         reverseStackOrder={true}>
-                        <Tooltip />
-                        <XAxis dataKey="count" interval="preserveStartEnd"/>
                         <Bar dataKey="percent">
                         {
                             proposeData.map((entry, index) => (
-                                <Cell key={`cell-${index}`} fill={ Number(entry.count) === statistic.billProposalNum ? '#3199BA' : '#E5E5E5'} />
+                                <Cell key={`cell-${index}`} fill={ entry.name === name ? '#3199BA' : '#E5E5E5'} />
                             ))
                         }
                         </Bar>
+                        <Tooltip />
+                        <XAxis dataKey="count" minTickGap={10} interval={10}/>
                     </BarChart>
                 </ResponsiveContainer>
                 </Box>
