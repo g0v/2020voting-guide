@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from '@material-ui/core';
+import { Box, Link } from '@material-ui/core';
 import Alert from '../Alert';
 import IssueBill, { Bill } from '../IssueBill';
 import IssueFilter from '../IssueFilter';
@@ -36,7 +36,7 @@ const IssueBillTab = ({ name }: {name: string}) => {
     const filteredIssue = issueFilter.length ? issueFilter : issues;
 
     return (
-        <>
+        <Box bgcolor="#F7F7F7" py={1}>
             <Alert>
               <span>{`以下是2012-2016 年${name}候選人在立法院實際提出的法案。`}</span>
               <br />
@@ -67,7 +67,7 @@ const IssueBillTab = ({ name }: {name: string}) => {
                 complete={handleComplete}
                 bills={bills}
             />
-        </>
+        </Box>
     );
 };
 
