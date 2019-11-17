@@ -204,3 +204,13 @@ class CandidateExcel(BaseModel):
 class Politics(BaseModel):
     name = CharField()
     politics = TextField()
+
+
+class AD(BaseModel):
+    constituency = CharField()
+    name = CharField()
+    adId = CharField()
+    politicalAD = CharField()
+    startDate = CharField()
+    endDate = CharField()
+    content = CharField()

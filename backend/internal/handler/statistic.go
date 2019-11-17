@@ -29,7 +29,7 @@ func GetStatisticByNameHandler(c *gin.Context) {
 
 	db.MySQL.Where("name = ? AND term = ? AND dataType = ?", name, term, "categories").Find(&personalStatisticDb)
 	for _, statisticObj := range personalStatisticDb {
-		if statisticObj.StatisticType == "interpellation" {
+		if statisticObj.StatisticType == "legal_proposal" {
 			statisticResp.BillProposalCategory = append(statisticResp.BillProposalCategory, models.StatisticCategory{
 				Name:  statisticObj.Key,
 				Term:  statisticObj.Term,
@@ -37,7 +37,7 @@ func GetStatisticByNameHandler(c *gin.Context) {
 			})
 			statisticResp.BillProposalNum = statisticResp.BillProposalNum + statisticObj.Value
 		}
-		if statisticObj.StatisticType == "legal_proposal" {
+		if statisticObj.StatisticType == "interpellation" {
 			statisticResp.InterpellationCategory = append(statisticResp.InterpellationCategory, models.StatisticCategory{
 				Name:  statisticObj.Key,
 				Term:  statisticObj.Term,

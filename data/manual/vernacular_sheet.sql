@@ -1,48 +1,22 @@
 SELECT
-    bill_info.name,
-    bill_info.category,
-    bill_info.billOrg,
-    bill_info.billProposer,
-    bill_info.billCosignatory,
-    bill_info.billStatus,
-    bill_info.billNo,
+    bill.name,
+    bill.category,
+    bill.billOrg,
+    bill.billProposer,
+    bill.billCosignatory,
+    bill.billStatus,
+    bill.billNo,
     billclicks.clicks,
     vernacular.vernacular,
     CONCAT(
         "https://voting-guide.appspot.com/vernacular",
-        bill_info.billNo
+        bill.billNo
     ) link
 FROM
-    billclicks
-    LEFT JOIN (
-        SELECT
-            bill.name,
-            bill.category,
-            bill.billOrg,
-            bill.billProposer,
-            bill.billCosignatory,
-            bill.billStatus,
-            bill.billNo,
-            bill.sessionTimes,
-            bill.sessionPeriod
-        FROM
-            bill
-        WHERE
-            bill.term = '09'
-            AND bill.category IS NOT NULL
-        group by
-            bill.name,
-            bill.category,
-            bill.billOrg,
-            bill.billProposer,
-            bill.billCosignatory,
-            bill.billStatus,
-            bill.billNo,
-            bill.sessionTimes,
-            bill.sessionPeriod
-    ) bill_info on billclicks.name = bill_info.name
-    AND billclicks.sessionPeriod = bill_info.sessionPeriod
-    AND billclicks.sessionTimes = bill_info.sessionTimes
+    bill
+    LEFT JOIN billclicks on billclicks.name = bill.name
+    AND billclicks.sessionPeriod = bill.sessionPeriod
+    AND billclicks.sessionTimes = bill.sessionTimes
     LEFT JOIN (
         SELECT
             max(id) id,
@@ -51,9 +25,28 @@ FROM
             vernacular
         GROUP BY
             bill_no
-    ) t1 on t1.bill_no = bill_info.billNo
+    ) t1 on t1.bill_no = bill.billNo
     LEFT JOIN vernacular ON vernacular.id = t1.id
 WHERE
-    bill_info.billNo IS NOT NULL
+    bill.term = '09'
+    AND bill.category IS NOT NULL
+    AND bill.billOrg != '行政院'
+    AND NOT (
+        bill.billOrg NOT LIKE '%黨團'
+        AND bill.billProposer IS NULL
+    )
+GROUP BY
+    bill.name,
+    bill.category,
+    bill.billOrg,
+    bill.billProposer,
+    bill.billCosignatory,
+    bill.billStatus,
+    bill.billNo,
+    bill.sessionTimes,
+    bill.sessionPeriod,
+    billclicks.clicks,
+    vernacular.vernacular,
+    link
 ORDER BY
     clicks DESC
