@@ -3,6 +3,7 @@ import { makeStyles, useTheme } from '@material-ui/core/styles';
 import React from 'react';
 import { simplifyCaseOfAction } from '../utils';
 import BillDialog from './BillDialog';
+import Card from './Card';
 
 export interface Bill {
     name: string;
@@ -59,7 +60,8 @@ const Bill = ({
     description,
     caseOfAction,
     billProposerString,
-    billCosignatoryString
+    billCosignatoryString,
+    proposerType,
 }: {
     name: string;
     billNo: string;
@@ -67,12 +69,14 @@ const Bill = ({
     caseOfAction: string;
     billProposerString: string;
     billCosignatoryString: string;
+    proposerType: string;
 }) => {
     const [open, setOpen] = React.useState(false);
     const [openDetail, setOpenDetail] = React.useState(false);
     const classes = useStyles(open);
     return (
-        <Box mt={3} key={name}>
+        <Card key={name} >
+            <ProposerType type={proposerType} />
             <Typography
                 variant="h3"
                 onClick={() => {
@@ -123,12 +127,20 @@ const Bill = ({
                     }}
                 />
             ) : null}
-        </Box>
+        </Card>
     );
 };
 
+const ProposerType = ({ type }: { type: string }) => <Box color="text.hint" mb={1.5}>{type}</Box>
+
+const Issue = ({ name }: { name: string }) =>
+    <Box display="flex">
+        <Box width="8px" height="24px" mr={1} borderRadius="4px" bgcolor="primary.main" />
+        <Typography variant="h2">{name}</Typography>
+    </Box>
+
+
 const IssueBill = ({ issue, bills }: IssueBillProps) => {
-    const theme = useTheme();
     const legislatorBill = bills.filter(
         bill => bill.proposerType === '立委提案'
     );
@@ -137,22 +149,21 @@ const IssueBill = ({ issue, bills }: IssueBillProps) => {
     return (
         <>
             <Box mx={1.5} py={3}>
-                <Typography variant="h2">{issue}</Typography>
+                <Issue name={issue} />
                 {legislatorBill.map(bill => (
                     <Bill {...bill} key={bill.billNo} />
                 ))}
                 {caucusBill.length === 0 ? null : (
-                    <Box borderLeft="3px solid grey" pl={1} mt={2}>
-                        <Typography variant="h4">黨團提案</Typography>
+                    <Card>
+                        <ProposerType type={"黨團提案"} />
                         {caucusBill.map(bill => (
                             <Typography variant="h5" key={bill.billNo}>
                                 {bill.name}
                             </Typography>
                         ))}
-                    </Box>
+                    </Card>
                 )}
             </Box>
-            <Box p={1} bgcolor={theme.palette.background.default} />
         </>
     );
 };

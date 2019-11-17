@@ -6,7 +6,7 @@ const Alert: FunctionComponent = ({ children }) => {
   const theme = useTheme()
   return (<Box
     mx={1.5}
-    my={2}
+    my={1}
     px={2}
     py={2}
     color={theme.palette.text.secondary}
