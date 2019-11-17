@@ -24,18 +24,14 @@ const renderColorfulLegendText = (value: string, entry: any) => {
 	</span>;
 }
 
-interface BasePaper {
+interface BaseTooltip {
 	active?: boolean;
 	label?: string;
 	payload?: { value: string; totalIncome: number; totalExpense: number }[];
 }
 
-const CustomTooltip = ({active, label, payload}: BasePaper) => {
+const CustomTooltip = ({active, label, payload}: BaseTooltip) => {
   if (active) {
-
-		// const income = payload ? (Number(payload[0].value) * 10000000).toLocaleString() : 0;
-		// const expense = payload ? (Number(payload[1].value) * 10000000).toLocaleString() : 0;
-
 		const income = payload ? (Number(payload[0].value).toFixed(2) + '百萬') : 0;
 		const expense = payload ? (Number(payload[1].value).toFixed(2) + '百萬') : 0;
     return (
@@ -50,6 +46,23 @@ const CustomTooltip = ({active, label, payload}: BasePaper) => {
   return null;
 };
 
+const CustomizedAxisTick = ({x, y, stroke, payload, name}:
+	{x?: number; y?: number; stroke?: string; name: string; payload?: { value: string; }}) => {
+	const isCurrent = payload && payload.value === name
+
+	return (
+		<g transform={`translate(${x},${y})`}>
+			<text x={0} y={0} dy={16} textAnchor="middle" fill={isCurrent ? '#3199BA' : '#666'}>
+			{payload && payload.value}
+			</text>
+			{isCurrent ? (
+				<text x={0} y={20} dy={16} textAnchor="middle" fill='#666'>
+				（當選）
+				</text>
+			) : ''}
+		</g>
+	)
+}
 
 const CompareBarChart = ({ data, name }: CompareBarChart) => {
 
@@ -70,7 +83,7 @@ const CompareBarChart = ({ data, name }: CompareBarChart) => {
 					}}>
 
 					<CartesianGrid strokeDasharray="3 3" />
-					<XAxis dataKey="name" />
+					<XAxis dataKey="name" height={60} tick={<CustomizedAxisTick name={name} />} />
 					<YAxis label={{ value: '百萬', angle: 0, position: 'top', offset: 20, fontSize: 14, fill: 'rgba(0, 0, 0, 0.54)' }}/>
 					<Tooltip content={<CustomTooltip/>}/>
         	<Legend formatter={renderColorfulLegendText} />
