@@ -1,15 +1,8 @@
-import React from 'react';
-import {
-    Typography,
-    Grid,
-    Button,
-    Container,
-    TextField,
-    Box
-} from '@material-ui/core';
+import { Box, Button, Container, Grid, TextField, Typography } from '@material-ui/core';
 import { useTheme } from '@material-ui/core/styles';
-import ChangedBill from '../Bill/ChangedBill';
+import React from 'react';
 import { simplifyCaseOfAction } from '../../utils';
+import ChangedBill from '../Bill/ChangedBill';
 
 interface VernacularPage {
     match: {
@@ -81,42 +74,55 @@ const VernacularPage = ({ match }: VernacularPage) => {
                         <Typography variant="h3">修正條文</Typography>
                     </Box>
                     <Box my={2}>
-                        {descriptions.map(
-                            (
-                                description: {
-                                    index: number;
-                                    activeLaw: string;
-                                    reviseLaw: string;
-                                    description: string;
-                                },
-                                i
-                            ) => (
-                                <>
-                                    <ChangedBill
-                                        key={i}
-                                        index={i + 1}
-                                        {...description}
-                                    />
-                                    <Box
-                                        p={1}
-                                        mt={1}
-                                        mb={3}
-                                        bgcolor={
-                                            theme.palette.background.default
-                                        }
-                                        borderLeft={`3px solid ${theme.palette.primary.main}`}
-                                    >
-                                        <Typography
-                                            variant="h6"
-                                            color="textSecondary"
+                        {descriptions.length ? (
+                            descriptions.map(
+                                (
+                                    description: {
+                                        index: number;
+                                        activeLaw: string;
+                                        reviseLaw: string;
+                                        description: string;
+                                    },
+                                    i
+                                ) => (
+                                    <>
+                                        <ChangedBill
+                                            key={i}
+                                            index={i + 1}
+                                            {...description}
+                                        />
+                                        <Box
+                                            p={1}
+                                            mt={1}
+                                            mb={3}
+                                            bgcolor={
+                                                theme.palette.background.default
+                                            }
+                                            borderLeft={`3px solid ${theme.palette.primary.main}`}
                                         >
-                                            修正說明<br />
-                                            {description.description}
-                                        </Typography>
-                                    </Box>
-                                </>
+                                            <Typography
+                                                variant="h6"
+                                                color="textSecondary"
+                                            >
+                                                修正說明
+                                                <br />
+                                                {description.description}
+                                            </Typography>
+                                        </Box>
+                                    </>
+                                )
                             )
+                        ) : (
+                            <>
+                                <Typography variant="h6" color="textSecondary">
+                                    你發現了一個新條文，所以沒有修正條文對照，請直接參考案由或是看原文
+                                    PDF！
+                                </Typography>
+                            </>
                         )}
+                    </Box>
+                    <Box my={2}>
+                        <Button href={bill.pdfUrl} variant="contained" color="primary" target="_blank">原文PDF</Button>
                     </Box>
                 </Grid>
                 <Grid item lg={3}>
