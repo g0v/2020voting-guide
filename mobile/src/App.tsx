@@ -12,6 +12,7 @@ import Nav from './components/Header';
 import Home from './components/Home/';
 import Party from './components/Party/Party';
 import PartyCandidates from './components/PartyCandidates/PartyCandidates';
+import Progressing from './components/Progressing';
 import VernacularListPage from './components/Vernacular/VernacularListPage';
 import VernacularPage from './components/Vernacular/VernacularPage';
 
@@ -58,6 +59,7 @@ const App = () => {
                             path="/regional/:county"
                             component={ConstituencyPage}
                         />
+                        <Route path="/progressing" component={Progressing} />
                     </Switch>
                 </Box>
             </Container>

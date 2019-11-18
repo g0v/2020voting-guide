@@ -1,12 +1,4 @@
-import {
-    Avatar,
-    Box,
-    Divider,
-    Grid,
-    ListItem,
-    ListItemText,
-    Typography
-} from '@material-ui/core';
+import { Avatar, Box, Divider, Grid, ListItem, ListItemText, Typography } from '@material-ui/core';
 import { makeStyles } from '@material-ui/styles';
 import React from 'react';
 
@@ -40,7 +32,7 @@ const PartyCard = ({
     const classes = useStyles();
     return (
         <>
-            <ListItem button component="a" href={`/party/${name}`}>
+            <ListItem button component="a" href={`/progressing`}>
                 <ListItemText
                     primary={
                         <Grid container>

@@ -36,7 +36,7 @@ const NoInfoTab = ({ name, from }: { name: string; from: string }) => {
                 這個候選人沒有立委紀錄
                     <br />
                     透過其他方法認識他
-                </Box>) : ''
+                </Box>) : null
             }
             </Typography>
         </Box>
