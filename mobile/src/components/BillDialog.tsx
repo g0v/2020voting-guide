@@ -41,10 +41,10 @@ const BillDialog = ({
         <>
             <Typography variant="h5">提案</Typography>
             <Box display="flex" flexDirection="row" flexWrap="wrap" py={1}>
-                {bill.billProposer.map(({name, party}) => (
-                    <Box flexShrink={0} pr={1} key={name}>
+                {bill.billProposer.map(({ name, party }) => (
+                    <Box flexShrink={0} pr={2.5} key={name}>
                         <Typography variant="h5" color="textSecondary" display="inline">
-                        {name}
+                            {name}
                         </Typography>
                         <CircleIcon party={party} />
                     </Box>
@@ -52,8 +52,8 @@ const BillDialog = ({
             </Box>
             <Typography variant="h5">連署</Typography>
             <Box display="flex" flexDirection="row" flexWrap="wrap" py={1}>
-                {bill.billCosignatory.map(({name, party}) => (
-                    <Box flexShrink={0} pr={1} key={name}>
+                {bill.billCosignatory.map(({ name, party }) => (
+                    <Box flexShrink={0} pr={2.5} key={name}>
                         <Typography variant="h5" color="textSecondary" display="inline">
                             {name}
                         </Typography>
@@ -88,12 +88,12 @@ const BillDialog = ({
                         >
                             {bill.billNo
                                 ? bill.billNo.substring(0, 3) +
-                                  '/' +
-                                  bill.billNo.substring(3, 5) +
-                                  '/' +
-                                  bill.billNo.substring(5, 7) +
-                                  ' ' +
-                                  '提案'
+                                '/' +
+                                bill.billNo.substring(3, 5) +
+                                '/' +
+                                bill.billNo.substring(5, 7) +
+                                ' ' +
+                                '提案'
                                 : ''}
                         </Typography>
                     </Box>

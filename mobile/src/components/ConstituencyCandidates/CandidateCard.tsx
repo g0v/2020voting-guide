@@ -80,7 +80,7 @@ export const CandidateCard = ({
                                         </Grid>
                                     </Grid>
                                     <Grid container>
-                                        <Box py={1}>
+                                        <Box py={1} maxWidth="90vw">
                                             <Typography
                                                 variant="h4"
                                                 color="textSecondary"
