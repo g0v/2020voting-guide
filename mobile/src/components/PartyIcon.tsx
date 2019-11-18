@@ -74,10 +74,11 @@ export const CircleIcon = ({ party }: { party: string }) => {
     if ('secondary' in partyColor) {
         return (
             <Box
-                height={15}
+                height={13}
                 display="inline-box"
-                width={15}
-                borderRadius="50%"
+                width={13}
+                ml={0.5}
+                borderRadius="2px"
                 border={`7px solid ${partyColor.main}`}
                 bgcolor={partyColor.secondary}
             />
@@ -86,9 +87,10 @@ export const CircleIcon = ({ party }: { party: string }) => {
     return (
         <Box
             display="inline-box"
-            height={15}
-            width={15}
-            borderRadius="50%"
+            height={13}
+            width={13}
+            ml={0.5}
+            borderRadius="2px"
             bgcolor={partyColor.main}
         />
     );
