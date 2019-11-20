@@ -12,10 +12,35 @@ import (
 func ListRelateBills(c *gin.Context) {
 
 	name := c.Param("name")
-	var candidate db.ManualCandidate
-	db.MySQL.Where("name = ?", name).Last(&candidate)
+	constituency := c.Param("constituency")
 
 	var bills []models.Bill
+
+	if constituency == "臺北市第七選舉區" && name == "許淑華" {
+		var orgBillsDb []db.Bill
+		caucusFilter := "本院民進黨黨團"
+		db.MySQL.Where("billOrg LIKE ? AND term = ?", caucusFilter, "09").Find(&orgBillsDb)
+		for _, bill := range orgBillsDb {
+			date := bill.BillNo[0:3] + "-" + bill.BillNo[3:5] + "-" + bill.BillNo[5:7]
+			bills = append(bills, models.Bill{
+				Name:                  bill.Name,
+				BillNo:                bill.BillNo,
+				ProposerType:          "黨團提案",
+				Description:           "",
+				Date:                  date,
+				Category:              bill.Category,
+				BillOrg:               bill.BillOrg,
+				BillProposerString:    bill.BillProposer,
+				BillCosignatoryString: bill.BillCosignatory,
+				BillStatus:            bill.BillStatus,
+				PdfURL:                bill.PdfURL,
+				CaseOfAction:          bill.CaseOfAction,
+				Vernacular:            "",
+			})
+		}
+		c.JSON(http.StatusOK, bills)
+		return
+	}
 
 	var personalBillsDb []db.Bill
 	db.MySQL.Where("billNo IN (?) AND term = 09", db.MySQL.Table("proposercosignatory").Select("billNo").Where("name = ? AND role = 'proposer'", name).QueryExpr()).Find(&personalBillsDb)
@@ -38,8 +63,10 @@ func ListRelateBills(c *gin.Context) {
 		})
 	}
 
+	var candidate db.ManualCandidate
+	db.MySQL.Where("name = ?", name).Last(&candidate)
+
 	var orgBillsDb []db.Bill
-	fmt.Println(candidate.Party)
 	caucusFilter := "本院" + getCaucusName(candidate.Party)
 	db.MySQL.Where("billOrg LIKE ? AND term = ?", caucusFilter, "09").Find(&orgBillsDb)
 	for _, bill := range orgBillsDb {

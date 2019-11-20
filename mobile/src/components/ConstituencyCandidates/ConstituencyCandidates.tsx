@@ -1,6 +1,6 @@
 import List from '@material-ui/core/List';
-import React, { useEffect, useState } from 'react';
 import clsx from 'clsx';
+import React, { useEffect, useState } from 'react';
 import Navigation from '../Navigation';
 import { CandidateCard, CandidateProps } from './CandidateCard';
 
@@ -38,6 +38,7 @@ const CountyCandidates = ({ match }: Route) => {
                         name={candidate.name}
                         photo={candidate.photo}
                         party={candidate.party}
+                        constituency={constituency}
                         experience={candidate.experience}
                         currentLegislator={candidate.currentLegislator}
                     />

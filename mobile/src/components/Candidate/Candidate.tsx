@@ -35,6 +35,7 @@ const CandidateDefault = {
 interface CandidatePage {
     match: {
         params: {
+            constituency: string;
             name: string;
         };
     };
@@ -43,7 +44,7 @@ interface CandidatePage {
 const caucusParty = ['民主進步黨', '中國國民黨', '親民黨', '時代力量']
 
 const CandidatePage = ({ match }: CandidatePage) => {
-    const { name } = match.params;
+    const { name, constituency } = match.params;
     const [tab, setTab] = React.useState(0);
     const switchTab = (_: any, newValue: number) => {
         setTab(newValue);
@@ -51,7 +52,7 @@ const CandidatePage = ({ match }: CandidatePage) => {
 
     const [candidate, setCandidate] = React.useState(CandidateDefault);
     React.useEffect(() => {
-        fetch(`/api/candidate/${name}`)
+        fetch(`/api/candidate/${constituency}/${name}`)
             .then(res => res.json())
             .then(setCandidate);
     }, [name]);
@@ -73,7 +74,7 @@ const CandidatePage = ({ match }: CandidatePage) => {
 
             {tab === 0 ? (
                 candidate.currentLegislator || caucusParty.includes(candidate.party)  ? (
-                    <IssueBillTab name={candidate.name} />
+                    <IssueBillTab name={candidate.name} constituency={constituency}/>
                 ) : (
                     <NoInfoTab name={candidate.name} from="issueBill" />
                 )
