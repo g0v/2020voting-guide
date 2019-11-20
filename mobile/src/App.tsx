@@ -50,7 +50,7 @@ const App = () => {
                         <Route path="/parties" component={PartyCandidates} />
                         <Route path="/party/:party" component={Party} />
                         <Route path="/comming_soon" component={CommingSoon} />
-                        <Route path="/candidate/:name" component={Candidate} />
+                        <Route path="/candidate/:constituency/:name" component={Candidate} />
                         <Route
                             path="/regional/:county/:constituency"
                             component={ConstituencyCandidates}

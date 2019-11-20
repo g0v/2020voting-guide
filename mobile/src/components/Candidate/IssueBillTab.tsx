@@ -1,15 +1,15 @@
-import React from 'react';
 import { Box, Link } from '@material-ui/core';
+import React from 'react';
 import Alert from '../Alert';
 import IssueBill, { Bill } from '../IssueBill';
 import IssueFilter from '../IssueFilter';
 
 
-const IssueBillTab = ({ name }: {name: string}) => {
+const IssueBillTab = ({ name,constituency }: {name: string; constituency: string;}) => {
 
     const [bills, setBills] = React.useState<Bill[]>([]);
     React.useEffect(() => {
-        fetch(`/api/bills/${name}`)
+        fetch(`/api/bills/${constituency}/${name}`)
             .then(res => res.json())
             .then(setBills);
     }, [name]);

@@ -17,6 +17,7 @@ export interface CandidateProps {
     photo: string;
     party: string;
     experience: string;
+    constituency: string;
     currentLegislator: boolean;
 }
 
@@ -25,12 +26,13 @@ export const CandidateCard = ({
     party,
     photo,
     experience,
+    constituency,
     currentLegislator
 }: CandidateProps) => {
     const classes = useStyles();
     return (
         <>
-            <ListItem button component="a" href={`/candidate/${name}`}>
+            <ListItem button component="a" href={`/candidate/${constituency}/${name}`}>
                 <ListItemText
                     primary={
                         <Box m={1}>
