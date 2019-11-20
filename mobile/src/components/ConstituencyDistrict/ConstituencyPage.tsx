@@ -1,4 +1,4 @@
-import { Divider, List, ListItem, Box, Typography } from '@material-ui/core';
+import { Box, Divider, List, ListItem, Typography } from '@material-ui/core';
 import React from 'react';
 import constituencyArea from '../../data/constituencies_area.json';
 import Navigation from '../Navigation';
@@ -85,7 +85,6 @@ const ConstituencyPage: React.FunctionComponent<County> = ({
     const constituencyNames: string[] = Object.keys(constituencyArea).filter(
         constituency => constituency.includes(county)
     );
-    console.log(constituencyNames);
     return (
         <>
             <Navigation
