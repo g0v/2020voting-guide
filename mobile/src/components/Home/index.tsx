@@ -74,7 +74,7 @@ const Home = () => {
                     <Button
                         variant="outlined"
                         color="primary"
-                        href="/parties"
+                        href="/progressing"
                         className="page-home__primary-btn"
                     >
                         <Typography variant="h3">瞧瞧不分區立委</Typography>
