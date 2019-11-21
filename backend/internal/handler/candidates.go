@@ -72,8 +72,9 @@ func GetCandidateByNameHandler(c *gin.Context) {
 func GetCandidateFB(c *gin.Context) {
 
 	name := c.Param("name")
+	constituency := c.Param("constituency")
 
 	var fbPage db.FB
-	db.MySQL.Where("name = ?", name).Find(&fbPage)
+	db.MySQL.Where("name = ? AND constituency = ?", name, constituency).Find(&fbPage)
 	c.JSON(http.StatusOK, fbPage)
 }

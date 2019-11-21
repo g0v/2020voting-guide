@@ -6,11 +6,11 @@ const candidateFBDefault = {
     fbPage: ''
 };
 
-const BasicInfoTab = ({ name }: { name: string }) => {
+const BasicInfoTab = ({ name, constituency }: { name: string; constituency: string; }) => {
     const width = window.screen.width > 425 ? 425 : window.screen.width;
     const [candidateFB, setCandidateFB] = React.useState(candidateFBDefault);
     React.useEffect(() => {
-        fetch(`/api/fb/${name}`)
+        fetch(`/api/fb/${constituency}/${name}`)
             .then(res => res.json())
             .then(setCandidateFB);
     }, [name]);
