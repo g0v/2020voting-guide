@@ -1,4 +1,5 @@
-import List from '@material-ui/core/List';
+import { Breadcrumbs, Link, List, Typography } from '@material-ui/core';
+import NavigateNextIcon from '@material-ui/icons/NavigateNext';
 import clsx from 'clsx';
 import React, { useEffect, useState } from 'react';
 import Navigation from '../Navigation';
@@ -14,7 +15,7 @@ interface Route {
 }
 
 const CountyCandidates = ({ match }: Route) => {
-    const { constituency } = match.params;
+    const { county, constituency } = match.params;
     const [isLoading, setLoading] = useState<boolean>(false);
     const [candidates, setCandidates] = useState<CandidateProps[]>([]);
     useEffect(() => {
@@ -29,7 +30,19 @@ const CountyCandidates = ({ match }: Route) => {
     const rootClazz: string = clsx('loading', { 'is-show': isLoading });
     return (
         <div className={rootClazz}>
-            <Navigation title="區域立委候選人" description={constituency} />
+            <Navigation title="區域立委候選人">
+                <Breadcrumbs separator={<NavigateNextIcon fontSize="small" />}>
+                    <Link href="/regional">
+                        <Typography variant="h4"><u>所有縣市</u></Typography>
+                    </Link>
+                    <Link href={`/regional/${county}`}>
+                        <Typography variant="h4"><u>{county}</u></Typography>
+                    </Link>
+                    <Typography variant="h4" color="textSecondary">
+                        {constituency}
+                    </Typography>
+                </Breadcrumbs>
+            </Navigation>
             <List>
                 {candidates.map((candidate: CandidateProps) => (
                     <CandidateCard

@@ -7,10 +7,7 @@ import PartyCard from './PartyCard';
 const PartyCandidates = () => {
     return (
         <>
-            <Navigation
-                title="不分區參選政黨"
-                description="由得票超過5%的政黨依得票比例來分配34席"
-            />
+            <Navigation title="不分區參選政黨">hi</Navigation>
             <List>
                 {parties.map(party => (
                     <PartyCard {...party} />

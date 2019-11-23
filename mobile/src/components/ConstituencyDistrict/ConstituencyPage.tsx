@@ -1,4 +1,5 @@
-import { Box, Divider, List, ListItem, Typography } from '@material-ui/core';
+import { Box, Breadcrumbs, Divider, Link, List, ListItem, Typography } from '@material-ui/core';
+import NavigateNextIcon from '@material-ui/icons/NavigateNext';
 import React from 'react';
 import constituencyArea from '../../data/constituencies_area.json';
 import Navigation from '../Navigation';
@@ -87,10 +88,16 @@ const ConstituencyPage: React.FunctionComponent<County> = ({
     );
     return (
         <>
-            <Navigation
-                title="區域立委候選人"
-                description={`${county} / 選擇選區`}
-            />
+            <Navigation title="區域立委候選人">
+                <Breadcrumbs separator={<NavigateNextIcon fontSize="small" />}>
+                    <Link href="/regional">
+                        <Typography variant="h4"><u>所有縣市</u></Typography>
+                    </Link>
+                    <Typography variant="h4" color="textSecondary">
+                        {county}
+                    </Typography>
+                </Breadcrumbs>
+            </Navigation>
             <List>
                 {constituencyNames.map((name: string) => (
                     <ConstituencyCard name={name} county={county} key={name} />

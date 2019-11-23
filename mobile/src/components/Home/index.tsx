@@ -64,7 +64,7 @@ const Home = () => {
                     <Button
                         variant="outlined"
                         color="primary"
-                        href="/county"
+                        href="/regional"
                         className="page-home__primary-btn"
                     >
                         <Typography variant="h3">看看區域立委</Typography>
