@@ -41,7 +41,7 @@ interface CandidatePage {
     };
 }
 
-const caucusParty = ['民主進步黨', '中國國民黨', '親民黨', '時代力量']
+const caucusParty = ['民主進步黨', '中國國民黨', '親民黨', '時代力量'];
 
 const CandidatePage = ({ match }: CandidatePage) => {
     const { name, constituency } = match.params;
@@ -73,19 +73,24 @@ const CandidatePage = ({ match }: CandidatePage) => {
             </Tabs>
 
             {tab === 0 ? (
-                candidate.currentLegislator || caucusParty.includes(candidate.party)  ? (
-                    <IssueBillTab name={candidate.name} constituency={constituency}/>
+                candidate.currentLegislator ||
+                caucusParty.includes(candidate.party) ? (
+                    <IssueBillTab
+                        name={candidate.name}
+                        constituency={constituency}
+                        currentLegislator={candidate.currentLegislator}
+                    />
                 ) : (
                     <NoInfoTab name={candidate.name} from="issueBill" />
                 )
             ) : tab === 1 ? (
                 candidate.currentLegislator ? (
-                    <PassPerformanceTab {...candidate}  />
+                    <PassPerformanceTab {...candidate} />
                 ) : (
-                    <NoInfoTab name={candidate.name} from="passPerformance"/>
+                    <NoInfoTab name={candidate.name} from="passPerformance" />
                 )
             ) : (
-                <BasicInfoTab name={name} constituency={constituency}/>
+                <BasicInfoTab name={name} constituency={constituency} />
             )}
         </>
     );
