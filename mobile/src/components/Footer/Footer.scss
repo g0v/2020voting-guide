@@ -1,0 +1,87 @@
+@import '../../css/variable';
+
+.footer{
+  background: #333333;
+  color: white;
+  text-align: center;
+  padding: 40px 20px;
+  a{
+    color:white;
+  }
+  .footer__floowus{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    > * {
+      margin: 0 8px;
+    }
+    .footer__ic-fb{
+      display: inline-block;
+      width: 31px;
+      height: 31px;
+      background-image:url('/img/footer/ic-fb.svg');
+    }
+  }
+  @include mediaMedium{
+    padding: 64px;
+  }
+  &__content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    @include mediaMedium{
+      flex-direction: row;
+    }
+  }
+  &__kv{
+    display: inline-block;
+    width: 180px;
+    height: 37px;
+    background-image:url('/img/header/kv.svg');
+  }
+  &__block{
+    width: 100%;
+    padding: 30px 0px;
+    position: relative;
+    text-align: center;
+    box-sizing: border-box;
+    @include mediaMedium{
+      width: 50%;
+      padding: 10px 20px;
+    }
+    &--1{
+      border-bottom: 1px solid rgba(255, 255, 255, 0.6);
+      @include mediaMedium{
+        border-bottom: none;
+        border-right: 1px solid rgba(255, 255, 255, 0.6);
+
+      }
+    }
+    &--2{
+      text-align: left;
+      position: relative;
+      padding-left: 18%;
+      // left: 30%;
+      // transform: translateX(-50%);
+      @include mediaMedium{
+        padding: 10px 0;
+        padding-left: 120px;
+      }
+    }
+    .footer__block-about{
+      display: flex;
+      justify-content: space-evenly;
+      
+    }
+  }
+  .footer__powered{
+    margin-top: 24px;
+    color:  rgba(255, 255, 255, 0.6);
+
+    @include mediaMedium{
+      margin-top: 40px;
+    }
+  }
+}
+

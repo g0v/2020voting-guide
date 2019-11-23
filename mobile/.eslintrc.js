@@ -12,6 +12,7 @@ module.exports = {
         'plugin:prettier/recommended'
     ],
     rules: {
+        'react/jsx-no-target-blank': 0,
         '@typescript-eslint/explicit-member-accessibility': 0,
         '@typescript-eslint/explicit-function-return-type': 0
     },

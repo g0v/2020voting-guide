@@ -1,4 +1,11 @@
-import { Breadcrumbs, List, ListItem, ListItemText, Typography } from '@material-ui/core';
+import {
+    Breadcrumbs,
+    List,
+    ListItem,
+    ListItemText,
+    Typography,
+    Container
+} from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
 import useMediaQuery from '@material-ui/core/useMediaQuery';
 import NavigateNextIcon from '@material-ui/icons/NavigateNext';
@@ -66,7 +73,7 @@ const Constituency = () => {
     const useStyles = isDesktop ? desktopStyle : mobileStyle;
     const classes = useStyles();
     return (
-        <>
+        <Container>
             <Navigation title="區域立委候選人">
                 <Breadcrumbs separator={<NavigateNextIcon fontSize="small" />}>
                     <Typography variant="h4" color="textSecondary">
@@ -89,7 +96,7 @@ const Constituency = () => {
                     </ListItem>
                 ))}
             </List>
-        </>
+        </Container>
     );
 };
 

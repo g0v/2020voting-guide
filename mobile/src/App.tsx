@@ -15,6 +15,7 @@ import PartyCandidates from './components/PartyCandidates/PartyCandidates';
 import Progressing from './components/Progressing';
 import VernacularListPage from './components/Vernacular/VernacularListPage';
 import VernacularPage from './components/Vernacular/VernacularPage';
+import Footer from './components/Footer';
 
 interface State {
     visible: boolean;
@@ -40,7 +41,7 @@ const App = () => {
 
     return (
         <>
-            <Container maxWidth="lg" className={classes.container}>
+            <Container maxWidth={false} className={classes.container}>
                 <Nav open={open} handleDrawerOpen={handleDrawerOpen} />
                 <AppDrawer handleDrawerClose={handleDrawerClose} open={open} />
                 <Box>
@@ -49,7 +50,10 @@ const App = () => {
                         <Route path="/parties" component={PartyCandidates} />
                         <Route path="/party/:party" component={Party} />
                         <Route path="/comming_soon" component={CommingSoon} />
-                        <Route path="/candidate/:constituency/:name" component={Candidate} />
+                        <Route
+                            path="/candidate/:constituency/:name"
+                            component={Candidate}
+                        />
                         <Route
                             path="/regional/:county/:constituency"
                             component={ConstituencyCandidates}
@@ -62,6 +66,7 @@ const App = () => {
                         <Route path="/progressing" component={Progressing} />
                     </Switch>
                 </Box>
+                <Footer />
             </Container>
             <Switch>
                 <Route
