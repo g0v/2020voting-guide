@@ -1,5 +1,6 @@
-import { List, ListItem, ListItemText } from '@material-ui/core';
+import { Breadcrumbs, List, ListItem, ListItemText, Typography } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
+import NavigateNextIcon from '@material-ui/icons/NavigateNext';
 import React from 'react';
 import countyConstituency from '../../data/county_constituency.json';
 import Navigation from '../Navigation';
@@ -15,7 +16,13 @@ const Constituency = () => {
     const classes = useStyles();
     return (
         <>
-            <Navigation title="區域立委候選人" description="選擇縣市" />
+            <Navigation title="區域立委候選人">
+                <Breadcrumbs separator={<NavigateNextIcon fontSize="small" />}>
+                    <Typography variant="h4" color="textSecondary">
+                        所有縣市
+                    </Typography>
+                </Breadcrumbs>
+            </Navigation>
             <List>
                 {counties.map(county => (
                     <ListItem

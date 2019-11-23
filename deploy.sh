@@ -12,7 +12,7 @@ npm run build
 
 cd ../
 if [ "${env}" == "stage" ]; then
-    gcloud app deploy --no-promote
+    gcloud app deploy --no-promote --quiet
 else
-    gcloud app deploy --quiet
+    gcloud app deploy
 fi

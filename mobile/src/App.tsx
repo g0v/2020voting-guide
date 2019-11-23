@@ -46,7 +46,6 @@ const App = () => {
                 <Box>
                     <Switch>
                         <Route exact path="/" component={Home} />
-                        <Route path="/county" component={County} />
                         <Route path="/parties" component={PartyCandidates} />
                         <Route path="/party/:party" component={Party} />
                         <Route path="/comming_soon" component={CommingSoon} />
@@ -59,6 +58,7 @@ const App = () => {
                             path="/regional/:county"
                             component={ConstituencyPage}
                         />
+                        <Route path="/regional" component={County} />
                         <Route path="/progressing" component={Progressing} />
                     </Switch>
                 </Box>

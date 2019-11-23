@@ -105,7 +105,7 @@ const AppDrawer = ({ open, handleDrawerClose }: AppDrawer) => {
                         button
                         key="區域立委候選人"
                         component="a"
-                        href="/county"
+                        href="/regional"
                     >
                         <ListItemText primary="區域立委候選人" />
                     </ListItem>
