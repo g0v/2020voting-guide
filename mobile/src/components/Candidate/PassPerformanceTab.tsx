@@ -1,14 +1,15 @@
-import { Box, Typography, Link } from '@material-ui/core';
-import { useTheme, makeStyles } from '@material-ui/core/styles';
+import { Box, Link, Typography } from '@material-ui/core';
 import IconButton from '@material-ui/core/IconButton';
-import ExpandMoreRoundedIcon from '@material-ui/icons/ExpandMoreRounded';
+import { makeStyles, useTheme } from '@material-ui/core/styles';
 import ExpandLessRoundedIcon from '@material-ui/icons/ExpandLessRounded';
+import ExpandMoreRoundedIcon from '@material-ui/icons/ExpandMoreRounded';
 import React from 'react';
-import { Bar, BarChart, XAxis, YAxis, LabelList, Tooltip, Cell, ResponsiveContainer } from 'recharts';
-import BasePaper from '../BasePaper';
+import { Bar, BarChart, Cell, ResponsiveContainer, Tooltip, XAxis } from 'recharts';
+import overallStatistic from '../../data/overall_statistic.json';
+import proposeTimes from '../../data/propose_times.json';
 import Alert from '../Alert';
+import BasePaper from '../BasePaper';
 import BigNum from '../Numbers/BigNum';
-import AppPieChart from './AppPieChart';
 import AppBarChart from './AppBarChart';
 import CompareBarChart from './CompareBarChart';
 
@@ -267,18 +268,18 @@ const PositionTab = ({
             </BasePaper>
             <Box p={1} bgcolor={theme.palette.background.default} />
 
-            <BasePaper title="政治獻金紀錄" subtitle="每年收到的捐款和使用方式">
+            {/* <BasePaper title="政治獻金紀錄" subtitle="每年收到的捐款和使用方式">
                 <Box marginBottom="20px">
                     <Typography variant="h4">2016 立委選舉</Typography>
                 </Box>
                 <Typography variant="h3">{name} 收入</Typography>
                 <AppPieChart data={contributionIncome} text={getTenThousand(statistic.contribution.totalIncome) + "萬元"} />
                 <Typography variant="h3">{name} 支出</Typography>
-                {/* <AppPieChart data={data01} text={getTenThousand(statistic.contribution.totalExpense) + "萬元"} /> */}
+                // <AppPieChart data={data01} text={getTenThousand(statistic.contribution.totalExpense) + "萬元"} />
                 <Box display="flex" justifyContent="center">
                     <Typography variant="h3" color="primary">{getTenThousand(statistic.contribution.totalExpense) + "萬元"}</Typography>
                 </Box>
-            </BasePaper>
+            </BasePaper> */}
             <Box p={1} bgcolor={theme.palette.background.default} />
 
             <BasePaper title="同選區其他候選人收支" subtitle="2016 區域立委選舉 台北市 第 1 選區">

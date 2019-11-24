@@ -1,0 +1,14 @@
+.constituency-card-item{
+  .constituency-card-item__area{
+    flex: 0 0 auto;
+    margin-right: 15px;
+    display: flex;
+    align-items: center;
+    span{
+      margin: 0 5px;
+      font-weight: bold;
+      font-size: 24px;
+      color :#EC502B;
+    }
+  }
+}

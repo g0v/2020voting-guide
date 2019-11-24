@@ -48,22 +48,23 @@ func ListCandidatesByConstituencyHandler(c *gin.Context) {
 // @Router /api/candidate/{name} [get]
 func GetCandidateByNameHandler(c *gin.Context) {
 	name := c.Param("name")
+	constituency := c.Param("constituency")
 
 	var candidate models.Candidate
 
 	candidate.Name = name
 
 	var manualCandidateDb db.ManualCandidate
-	db.MySQL.Where("name = ?", name).First(&manualCandidateDb)
+	db.MySQL.Where("name = ? AND constituency = ?", name, constituency).First(&manualCandidateDb)
 	candidate.Photo = manualCandidateDb.Photo
+	candidate.CurrentLegislator = manualCandidateDb.CurrentLegislator
 
 	var candidateDb db.Candidate
-	db.MySQL.Where("name = ?", name).First(&candidateDb)
+	db.MySQL.Where("name = ? AND constituency = ?", name, constituency).First(&candidateDb)
 	candidate.Age = candidateDb.Age
 	candidate.Party = candidateDb.Party
 	candidate.Constituency = candidateDb.Constituency
 	candidate.LastTerm = candidateDb.LastTerm
-	candidate.CurrentLegislator = candidateDb.CurrentLegislator
 
 	c.JSON(http.StatusOK, candidate)
 }
@@ -71,8 +72,9 @@ func GetCandidateByNameHandler(c *gin.Context) {
 func GetCandidateFB(c *gin.Context) {
 
 	name := c.Param("name")
+	constituency := c.Param("constituency")
 
 	var fbPage db.FB
-	db.MySQL.Where("name = ?", name).Find(&fbPage)
+	db.MySQL.Where("name = ? AND constituency = ?", name, constituency).Find(&fbPage)
 	c.JSON(http.StatusOK, fbPage)
 }

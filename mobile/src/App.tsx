@@ -12,6 +12,7 @@ import Nav from './components/Header';
 import Home from './components/Home/';
 import Party from './components/Party/Party';
 import PartyCandidates from './components/PartyCandidates/PartyCandidates';
+import Progressing from './components/Progressing';
 import VernacularListPage from './components/Vernacular/VernacularListPage';
 import VernacularPage from './components/Vernacular/VernacularPage';
 
@@ -45,11 +46,10 @@ const App = () => {
                 <Box>
                     <Switch>
                         <Route exact path="/" component={Home} />
-                        <Route path="/county" component={County} />
                         <Route path="/parties" component={PartyCandidates} />
                         <Route path="/party/:party" component={Party} />
                         <Route path="/comming_soon" component={CommingSoon} />
-                        <Route path="/candidate/:name" component={Candidate} />
+                        <Route path="/candidate/:constituency/:name" component={Candidate} />
                         <Route
                             path="/regional/:county/:constituency"
                             component={ConstituencyCandidates}
@@ -58,6 +58,8 @@ const App = () => {
                             path="/regional/:county"
                             component={ConstituencyPage}
                         />
+                        <Route path="/regional" component={County} />
+                        <Route path="/progressing" component={Progressing} />
                     </Switch>
                 </Box>
             </Container>

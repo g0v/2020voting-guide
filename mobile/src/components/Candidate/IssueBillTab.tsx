@@ -1,15 +1,21 @@
-import React from 'react';
 import { Box, Link } from '@material-ui/core';
+import React from 'react';
 import Alert from '../Alert';
 import IssueBill, { Bill } from '../IssueBill';
 import IssueFilter from '../IssueFilter';
 
-
-const IssueBillTab = ({ name }: {name: string}) => {
-
+const IssueBillTab = ({
+    name,
+    constituency,
+    currentLegislator
+}: {
+    name: string;
+    constituency: string;
+    currentLegislator: boolean;
+}) => {
     const [bills, setBills] = React.useState<Bill[]>([]);
     React.useEffect(() => {
-        fetch(`/api/bills/${name}`)
+        fetch(`/api/bills/${constituency}/${name}`)
             .then(res => res.json())
             .then(setBills);
     }, [name]);
@@ -38,14 +44,18 @@ const IssueBillTab = ({ name }: {name: string}) => {
     return (
         <Box bgcolor="#F7F7F7" py={1}>
             <Alert>
-              <span>{`以下是2012-2016 年${name}候選人在立法院實際提出的法案。`}</span>
-              <br />
-              <span>
-                {`資料來源: `}
-                <Link href="https://lis.ly.gov.tw/billtpc/billtp">
-                  立法動態資訊網法案追蹤平台
-                </Link>
-              </span>
+                <span>
+                    {currentLegislator
+                        ? `以下是 2012-2016 年${name}候選人在立法院實際提出的法案。`
+                        : `${name}候選人不是上屆立委，以下是他所屬政黨的黨團 2012-2016 年在立法院實際提出的法案`}
+                </span>
+                <br />
+                <span>
+                    {`資料來源: `}
+                    <Link href="https://lis.ly.gov.tw/billtpc/billtp">
+                        立法動態資訊網法案追蹤平台
+                    </Link>
+                </span>
             </Alert>
             <div>
                 {filteredIssue
