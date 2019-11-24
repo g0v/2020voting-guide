@@ -21,34 +21,28 @@ interface ConstituencyArea {
     [key: string]: { [key: string]: string | string[] };
 }
 
-const PATTERN = /第(一|二|三|四|五|六|七|八|九|十|十一|十二)選舉區/;
-const TW_NUMBERS: string[] = [
-    '一',
-    '二',
-    '三',
-    '四',
-    '五',
-    '六',
-    '七',
-    '八',
-    '九',
-    '十',
-    '十一',
-    '十二'
-];
+const SUBTITLE_MAP: { [key: string]: string } = {
+    一: '1',
+    二: '2',
+    三: '3',
+    四: '4',
+    五: '5',
+    六: '6',
+    七: '7',
+    八: '8',
+    九: '9',
+    十: '10',
+    十一: '11',
+    十二: '12',
+    山地: '山地',
+    平地: '平地'
+};
 
-const ConstituencyCard: React.FunctionComponent<Constituency> = ({
+const ConstituencyCard = ({
     name,
     county
 }: Constituency) => {
-    const shortName: string = name.replace(county, '');
-    let num = '';
-
-    if (PATTERN.test(shortName)) {
-        num = shortName.replace(PATTERN, (match, p1) => {
-            return TW_NUMBERS.indexOf(p1) + 1 + '';
-        });
-    }
+    const subtitle: string = name.replace(county, '').replace('第', '').replace('選舉區', '');
 
     const areaName: string = Object.keys(
         (constituencyArea as ConstituencyArea)[name]
@@ -69,7 +63,7 @@ const ConstituencyCard: React.FunctionComponent<Constituency> = ({
                         className="constituency-card-item__area"
                     >
                         選區
-                        <span>{num}</span>
+                        <span>{SUBTITLE_MAP[subtitle]}</span>
                     </Typography>
                     <Typography variant="h3">{areaName}</Typography>
                 </Box>
@@ -91,7 +85,9 @@ const ConstituencyPage: React.FunctionComponent<County> = ({
             <Navigation title="區域立委候選人">
                 <Breadcrumbs separator={<NavigateNextIcon fontSize="small" />}>
                     <Link href="/regional">
-                        <Typography variant="h4"><u>所有縣市</u></Typography>
+                        <Typography variant="h4">
+                            <u>所有縣市</u>
+                        </Typography>
                     </Link>
                     <Typography variant="h4" color="textSecondary">
                         {county}
