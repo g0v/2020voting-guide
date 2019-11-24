@@ -1,5 +1,5 @@
 import './Footer.scss';
-import { Box, Container, Typography, Link } from '@material-ui/core';
+import { Box, Container, Typography, Link, Tooltip } from '@material-ui/core';
 import React from 'react';
 
 const Footer = () => {
@@ -26,40 +26,57 @@ const Footer = () => {
                             </Typography>
                         </Box>
                         <Box my={5} className="footer__block-about">
-                            <Link>
-                                <Typography variant="h3">關於我們</Typography>
-                            </Link>
-                            <Link>
+                            {/* TODO：待頁面上線後，拿掉 Tooltip */}
+                            <Tooltip title="COMING SOON" placement="left">
+                                <Link>
+                                    <Typography variant="h3">
+                                        關於我們
+                                    </Typography>
+                                </Link>
+                            </Tooltip>
+                            <Link
+                                target="_blank"
+                                href="https://docs.google.com/forms/d/e/1FAIpQLSfc_MGy-ImXbukLWk-YsA3a96ZDf9etHF0TmSLPHPniTxaMxw/viewform"
+                            >
                                 <Typography variant="h3">問題回報</Typography>
                             </Link>
                         </Box>
                     </div>
                     <div className="footer__block footer__block--2">
                         <Box my={3}>
-                            <Link>
-                                <Typography variant="h4">
-                                    立委工作內容 ＆ 投票規則
-                                </Typography>
-                            </Link>
+                            {/* TODO：待頁面上線後，拿掉 Tooltip */}
+                            <Tooltip title="COMING SOON" placement="left">
+                                <Link>
+                                    <Typography variant="h4">
+                                        立委工作內容 ＆ 投票規則
+                                    </Typography>
+                                </Link>
+                            </Tooltip>
                         </Box>
                         <Box my={3}>
-                            <Link>
+                            <Link href="/regional">
                                 <Typography variant="h4">
                                     區域立委候選人
                                 </Typography>
                             </Link>
                         </Box>
                         <Box my={3}>
-                            <Link>
+                            <Link href="/progressing">
                                 <Typography variant="h4">
                                     不分區立委參選政黨
                                 </Typography>
                             </Link>
                         </Box>
+
                         <Box my={3}>
-                            <Link>
-                                <Typography variant="h4">熱門議題</Typography>
-                            </Link>
+                            {/* TODO：待頁面上線後，拿掉 Tooltip */}
+                            <Tooltip title="COMING SOON" placement="left">
+                                <Link>
+                                    <Typography variant="h4">
+                                        熱門議題
+                                    </Typography>
+                                </Link>
+                            </Tooltip>
                         </Box>
                     </div>
                 </div>
