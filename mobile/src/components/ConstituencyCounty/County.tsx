@@ -73,7 +73,7 @@ const Constituency = () => {
     const useStyles = isDesktop ? desktopStyle : mobileStyle;
     const classes = useStyles();
     return (
-        <Container>
+        <Container className="p-0">
             <Navigation title="區域立委候選人">
                 <Breadcrumbs separator={<NavigateNextIcon fontSize="small" />}>
                     <Typography variant="h4" color="textSecondary">

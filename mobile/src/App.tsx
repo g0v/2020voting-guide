@@ -21,14 +21,7 @@ interface State {
     visible: boolean;
 }
 
-const useStyles = makeStyles({
-    container: {
-        padding: 0
-    }
-});
-
 const App = () => {
-    const classes = useStyles();
     const [open, setOpen] = React.useState(false);
 
     const handleDrawerOpen = () => {
@@ -41,10 +34,10 @@ const App = () => {
 
     return (
         <>
-            <Container maxWidth={false} className={classes.container}>
+            <Container maxWidth={false} className="main-container p-0">
                 <Nav open={open} handleDrawerOpen={handleDrawerOpen} />
                 <AppDrawer handleDrawerClose={handleDrawerClose} open={open} />
-                <Box>
+                <Box className="main-container__content">
                     <Switch>
                         <Route exact path="/" component={Home} />
                         <Route path="/parties" component={PartyCandidates} />

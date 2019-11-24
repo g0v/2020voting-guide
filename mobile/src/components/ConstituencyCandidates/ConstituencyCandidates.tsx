@@ -33,7 +33,7 @@ const CountyCandidates = ({ match }: Route) => {
                 setLoading(false);
             });
     }, [constituency]);
-    const rootClazz: string = clsx('loading', { 'is-show': isLoading });
+    const rootClazz: string = clsx('loading p-0', { 'is-show': isLoading });
     return (
         <Container className={rootClazz}>
             <Navigation title="區域立委候選人">
