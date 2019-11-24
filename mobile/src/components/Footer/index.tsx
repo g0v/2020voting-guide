@@ -44,14 +44,11 @@ const Footer = () => {
                     </div>
                     <div className="footer__block footer__block--2">
                         <Box my={3}>
-                            {/* TODO：待頁面上線後，拿掉 Tooltip */}
-                            <Tooltip title="COMING SOON" placement="left">
-                                <Link>
-                                    <Typography variant="h4">
-                                        立委工作內容 ＆ 投票規則
-                                    </Typography>
-                                </Link>
-                            </Tooltip>
+                            <Link href="/#rule">
+                                <Typography variant="h4">
+                                    立委工作內容 ＆ 投票規則
+                                </Typography>
+                            </Link>
                         </Box>
                         <Box my={3}>
                             <Link href="/regional">

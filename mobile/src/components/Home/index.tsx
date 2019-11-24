@@ -1,5 +1,6 @@
 import { Box, Button, Typography, Container } from '@material-ui/core';
 import React, { MouseEvent, ReactNode } from 'react';
+import { RouteComponentProps } from 'react-router-dom';
 import { scrollBody } from '../../utils';
 import Countdown from './Countdown';
 import './Home.scss';
@@ -41,11 +42,26 @@ const VideoCard = ({
     </Box>
 );
 
-const Home = () => {
+// eslint-disable-next-line
+interface Props extends RouteComponentProps {}
+
+const Home = (props: Props) => {
     const quickButonClick = (e: MouseEvent<HTMLElement>) => {
         const targetDOM = (e.target as HTMLElement).getAttribute('data-target');
         scrollBody('.' + targetDOM);
     };
+    React.useLayoutEffect(() => {
+        const historyChageHandler = (location: Record<string, any>) => {
+            const { hash } = location;
+            if (hash.indexOf('#rule') !== -1) {
+                scrollBody('.page-home-quick-0');
+            }
+        };
+
+        const listenCB = props.history.listen(historyChageHandler);
+        historyChageHandler(props.location);
+        return () => listenCB();
+    }, []);
     return (
         <div className="page-home">
             <Box textAlign="center" mt="40px">

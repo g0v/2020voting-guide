@@ -90,7 +90,7 @@ const ConstituencyPage: React.FunctionComponent<County> = ({
         constituency => constituency.includes(county)
     );
     return (
-        <Container>
+        <Container className="p-0">
             <Navigation title="區域立委候選人">
                 <Breadcrumbs separator={<NavigateNextIcon fontSize="small" />}>
                     <Link href="/regional">
