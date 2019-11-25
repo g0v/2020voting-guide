@@ -68,6 +68,7 @@ const Statistic: {
 interface PositionTab {
     name?: string;
     lastTerm?: string;
+    constituency?: string;
     lastTermYear?: string;
     interpellationCategory?: { name: string; value: number }[];
     billNumCategory?: { name: string; percent: number }[];
@@ -89,7 +90,8 @@ const getPercentage = (num: number) => {
 }
 
 const PositionTab = ({
-    name = ''
+    name = '',
+    constituency = ''
 }: PositionTab) => {
     const theme = useTheme();
     const classes = useStyle();
@@ -279,7 +281,7 @@ const PositionTab = ({
             </BasePaper> */}
             <Box p={1} bgcolor={theme.palette.background.default} />
 
-            <BasePaper title="同選區其他候選人收支" subtitle="2016 區域立委選舉 台北市 第 1 選區">
+            <BasePaper title="同選區其他候選人收支" subtitle={`2016 區域立委選舉 ` + constituency}>
                 <CompareBarChart name={name} data={statistic.otherConstituencyCandidate} />
                 <span>
                     {`資料來源: `}
