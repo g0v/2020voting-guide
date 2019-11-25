@@ -3,7 +3,7 @@ import pandas as pd
 
 from db import ManualCandidate
 
-df = pd.read_csv("../data/manual/2020candidate.csv")
+df = pd.read_csv("../data/manual/2020candidate_regional.csv")
 df.columns = [
     "name",  # 姓名
     "constituency",  # 選區
