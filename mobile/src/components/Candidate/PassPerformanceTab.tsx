@@ -13,9 +13,6 @@ import BigNum from '../Numbers/BigNum';
 import AppBarChart from './AppBarChart';
 import CompareBarChart from './CompareBarChart';
 
-import overallStatistic from '../../data/overall_statistic.json';
-import proposeTimes from '../../data/propose_times.json';
-
 const proposeData = proposeTimes.map(item => {
     return {
         name: item.name,
