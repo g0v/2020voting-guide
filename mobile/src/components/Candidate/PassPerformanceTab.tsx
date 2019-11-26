@@ -139,7 +139,7 @@ const PositionTab = ({
         <Box bgcolor="#F7F7F7" py={1}>
             <Box mb={2}>
                 <Alert >
-                <span>{`以下是2012-2016 年${name}擔任立法委員的紀錄。`}</span>
+                <span>{`以下是 2016-2019 年${name}擔任立法委員的紀錄。`}</span>
                 <br />
                 <span>
                     {`資料來源: `}
