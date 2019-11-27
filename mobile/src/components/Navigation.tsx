@@ -15,13 +15,11 @@ const Navigation = ({ title, children }: Navigation) => {
         <>
             <Box
                 pt={3.5}
-                pb={3}
+                pb={1}
                 px={2}
-                height={76}
                 bgcolor={theme.palette.background.default}
             >
-                <Typography variant="h2">{title}</Typography>
-                <Box height={22} />
+                <Typography variant="h2" gutterBottom={true}>{title}</Typography>
                 {children}
             </Box>
         </>

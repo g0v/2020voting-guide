@@ -60,7 +60,6 @@ const PartyCard = ({
                     }
                 ></ListItemText>
             </ListItem>
-            <Divider />
         </>
     );
 };
