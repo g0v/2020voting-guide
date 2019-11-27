@@ -1,10 +1,10 @@
 import { Breadcrumbs, List, ListItem, ListItemText, Typography } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
+import useMediaQuery from '@material-ui/core/useMediaQuery';
 import NavigateNextIcon from '@material-ui/icons/NavigateNext';
 import React from 'react';
 import countyConstituency from '../../data/county_constituency.json';
 import Navigation from '../Navigation';
-import useMediaQuery from '@material-ui/core/useMediaQuery';
 
 const desktopStyle = makeStyles({
     listItemWrapper: {
@@ -85,7 +85,7 @@ const Constituency = () => {
                         className={classes.listItem}
                     >
                         <ListItemText className={classes.cityName} primary={county}></ListItemText>
-                        {isDesktop && <ListItemText className={classes.cityInfo} primary={'2300萬人'}></ListItemText>}
+                        {/* {isDesktop && <ListItemText className={classes.cityInfo} primary={'2300萬人'}></ListItemText>} */}
                     </ListItem>
                 ))}
             </List>
