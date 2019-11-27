@@ -1,8 +1,8 @@
 import { Box, Button, Dialog, DialogContent, Typography } from '@material-ui/core';
 import React from 'react';
-import { simplifyCaseOfAction } from '../utils';
-import ChangedBill from './Bill/ChangedBill';
-import { CircleIcon } from './PartyIcon';
+import { simplifyCaseOfAction } from '../../utils';
+import ChangedBill from '../Bill/ChangedBill';
+import { CircleIcon } from '../PartyIcon';
 
 const defaultInfo = {
     bill: {
@@ -12,7 +12,8 @@ const defaultInfo = {
         billOrg: '',
         billProposer: [],
         billCosignatory: [],
-        caseOfAction: ''
+        caseOfAction: '',
+        proposerType: ''
     },
     descriptions: []
 };
@@ -33,7 +34,6 @@ const BillDialog = ({
             .then(setInfo);
     }, [id]);
 
-    const proposerType = '立委提案';
     const bill = info.bill;
     const descriptions = info.descriptions;
 
@@ -73,6 +73,7 @@ const BillDialog = ({
         </>
     );
 
+    
     return (
         <>
             <Dialog open={open} onClose={handleClose}>
@@ -100,7 +101,7 @@ const BillDialog = ({
                     <Box my={2}>
                         <Typography variant="h3">提案 / 連署人</Typography>
                     </Box>
-                    {proposerType === '立委提案'
+                    {bill.proposerType === '立委提案'
                         ? personalPropose
                         : cosignatoryPropose}
 

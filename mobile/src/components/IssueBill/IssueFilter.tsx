@@ -3,8 +3,8 @@ import { createStyles, makeStyles, Theme } from '@material-ui/core/styles';
 import CloseIcon from '@material-ui/icons/Close';
 import FilterListIcon from '@material-ui/icons/FilterList';
 import React from 'react';
-import issues from '../data/issues.json';
-import { Bill } from './IssueBill';
+import issues from '../../data/issues.json';
+import { Bill } from './index';
 
 const useStyles = makeStyles((theme: Theme) =>
     createStyles({

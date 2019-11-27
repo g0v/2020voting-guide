@@ -2,7 +2,7 @@ import { Box, Link } from '@material-ui/core';
 import React from 'react';
 import Alert from '../Alert';
 import IssueBill, { Bill } from '../IssueBill';
-import IssueFilter from '../IssueFilter';
+import IssueFilter from '../IssueBill/IssueFilter';
 
 const IssueBillTab = ({
     name,
