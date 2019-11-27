@@ -85,7 +85,7 @@ const Constituency = () => {
                         className={classes.listItem}
                     >
                         <ListItemText className={classes.cityName} primary={county}></ListItemText>
-                        <ListItemText className={classes.cityInfo} primary={'2300萬人'}></ListItemText>
+                        {isDesktop && <ListItemText className={classes.cityInfo} primary={'2300萬人'}></ListItemText>}
                     </ListItem>
                 ))}
             </List>
