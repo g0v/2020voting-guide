@@ -1,4 +1,4 @@
-import { Box, Breadcrumbs, Divider, Link, List, ListItem, Typography } from '@material-ui/core';
+import { Box, Breadcrumbs, Link, List, ListItem, Typography } from '@material-ui/core';
 import NavigateNextIcon from '@material-ui/icons/NavigateNext';
 import React from 'react';
 import constituencyArea from '../../data/constituencies_area.json';
@@ -56,6 +56,7 @@ const ConstituencyCard = ({
                 button
                 component="a"
                 href={`/regional/${county}/${name}`}
+                divider
             >
                 <Box py={3} px={3} display="flex">
                     <Typography
@@ -68,7 +69,6 @@ const ConstituencyCard = ({
                     <Typography variant="h3">{areaName}</Typography>
                 </Box>
             </ListItem>
-            <Divider />
         </>
     );
 };
