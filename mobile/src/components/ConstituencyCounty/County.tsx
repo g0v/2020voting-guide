@@ -4,8 +4,9 @@ import NavigateNextIcon from '@material-ui/icons/NavigateNext';
 import React from 'react';
 import countyConstituency from '../../data/county_constituency.json';
 import Navigation from '../Navigation';
+import useMediaQuery from '@material-ui/core/useMediaQuery';
 
-const useStyles = makeStyles({
+const desktopStyle = makeStyles({
     listItemWrapper: {
         'text-align': 'center',
     },
@@ -45,11 +46,24 @@ const useStyles = makeStyles({
         'font-weight': 'normal',
         'font-size': '18px',
         color: '#EC502B',
-    },    
+    }, 
+});
+const mobileStyle = makeStyles({
+    listItemWrapper: {
+    },
+    listItem: {
+        padding: '20px',
+    },
+    cityName: {     
+    },
+    cityInfo: {
+    },     
 });
 
 const counties = countyConstituency.map(county => county.name);
 const Constituency = () => {
+    const isDesktop = useMediaQuery('(min-width:769px)');
+    const useStyles = isDesktop ? desktopStyle : mobileStyle;
     const classes = useStyles();
     return (
         <>
