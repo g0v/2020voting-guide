@@ -21,6 +21,7 @@ df.columns = [
     "experienceConn",  # 經歷連結
     "politics",  # 政見
     "politicsConn",  # 政見連結
+    "other",
 ]
 data = df.replace({np.nan: None}).to_dict(orient="records")
 data = [

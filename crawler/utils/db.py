@@ -47,6 +47,7 @@ class ManualCandidate(BaseModel):
     experienceConn = CharField(null=True)
     politics = TextField(null=True)
     politicsConn = CharField(null=True)
+    other = TextField(null=True)
 
 
 class Legislator(BaseModel):
