@@ -5,9 +5,10 @@ import React from 'react';
 
 const useStyles = makeStyles({
     photo: {
-        width: 76,
-        height: 76,
-        fontSize: 40,
+        width: "75%",
+        height: "75%",
+        marginLeft: "10px",
+        marginRight: "20px",
     },
     dot: {
         color: "#42B72A",
@@ -58,7 +59,7 @@ const PartyCard = ({
             <ListItemAvatar>
                 <Avatar src={logo} className={classes.photo} />
             </ListItemAvatar>
-            <Box ml={1.5}>
+            <Box>
                 <ListItemText >
                     <Box mb={1} display="flex" alignItems="center">
                         <Name name={name} />
