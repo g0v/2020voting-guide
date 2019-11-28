@@ -1,12 +1,16 @@
-import { Avatar, Box, Divider, Grid, ListItem, ListItemText, Typography } from '@material-ui/core';
+import { Box, ListItemAvatar, Avatar, ListItemText, ListItem, Typography } from '@material-ui/core';
+import FiberManualRecordIcon from '@material-ui/icons/FiberManualRecord';
 import { makeStyles } from '@material-ui/styles';
 import React from 'react';
 
 const useStyles = makeStyles({
     photo: {
-        width: 76,
-        height: 76,
-        fontSize: 40
+        width: "75%",
+        height: "75%",
+        marginRight: "20px",
+    },
+    dot: {
+        color: "#42B72A",
     }
 });
 
@@ -20,6 +24,25 @@ interface PartyCard {
     electedPerson: string[];
 }
 
+const Name = ({ name }: { name: string }) => <Typography variant="h4"> {name} </Typography>
+
+const Seats = ({ num }: { num: number }) => {
+    const classes = useStyles();
+    return (
+        <Box ml={1.5} display="flex" alignItems="center">
+            <FiberManualRecordIcon className={classes.dot} fontSize="small" />
+            <Typography variant="body2" color="textSecondary">
+                不分區{num} 席
+            </Typography>
+        </Box>
+    )
+}
+
+const VoteRate = ({ rate }: { rate: string }) =>
+    <Typography variant="body2" color="textSecondary">
+        上屆得票率 {rate}
+    </Typography>
+
 const PartyCard = ({
     name,
     chairman,
@@ -31,37 +54,20 @@ const PartyCard = ({
 }: PartyCard) => {
     const classes = useStyles();
     return (
-        <>
-            <ListItem button component="a" href={`/progressing`}>
-                <ListItemText
-                    primary={
-                        <Grid container>
-                            <Grid item>
-                                <Avatar src={logo} className={classes.photo} />
-                            </Grid>
-                            <Grid item>
-                                <Box m={1}>
-                                    <Grid container alignItems="center">
-                                        <Grid item>
-                                            <Typography variant="h4">
-                                                {name}
-                                            </Typography>
-                                        </Grid>
-                                    </Grid>
-                                    <Grid container>
-                                        <Typography variant="button">
-                                            上屆得票率 {voteRate} 不分區{' '}
-                                            {electedPersonNum} 席
-                                        </Typography>
-                                    </Grid>
-                                </Box>
-                            </Grid>
-                        </Grid>
-                    }
-                ></ListItemText>
-            </ListItem>
-            <Divider />
-        </>
+        <ListItem divider button component="a" href={`/progressing`}>
+            <ListItemAvatar>
+                <Avatar src={logo} className={classes.photo} />
+            </ListItemAvatar>
+            <Box>
+                <ListItemText >
+                    <Box mb={1} display="flex" alignItems="center">
+                        <Name name={name} />
+                        {electedPersonNum > 0 && <Seats num={electedPersonNum} />}
+                    </Box>
+                    <VoteRate rate={voteRate} />
+                </ListItemText>
+            </Box>
+        </ListItem >
     );
 };
 export default PartyCard;
