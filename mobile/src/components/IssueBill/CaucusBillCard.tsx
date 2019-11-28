@@ -16,7 +16,7 @@ const CaucusBill = ({ billNo, name }: Bill) => {
                     setOpen(true);
                 }}
             >
-                <Typography variant="h5">{name}</Typography>
+                <Typography variant="h4">{name}</Typography>
             </ListItem>
             {open ? (
                 <BillDialog
