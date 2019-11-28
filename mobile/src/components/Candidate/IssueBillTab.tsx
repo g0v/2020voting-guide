@@ -18,7 +18,7 @@ const IssueBillTab = ({
         fetch(`/api/bills/${constituency}/${name}`)
             .then(res => res.json())
             .then(setBills);
-    }, [name]);
+    }, [name, constituency]);
 
     const issues = [
         ...new Set(bills.filter(b => b.category).map(b => b.category))

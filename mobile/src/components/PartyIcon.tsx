@@ -33,7 +33,7 @@ const colors: {
 
 export const RectangleIcon = ({ party }: { party: string }) => {
     let partyColor
-    if (party.length == 0) {
+    if (party.length === 0) {
         partyColor = colors['無黨籍'];
         party = '無黨籍'
     } else {

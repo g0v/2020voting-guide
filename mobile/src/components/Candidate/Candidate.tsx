@@ -55,7 +55,7 @@ const CandidatePage = ({ match }: CandidatePage) => {
         fetch(`/api/candidate/${constituency}/${name}`)
             .then(res => res.json())
             .then(setCandidate);
-    }, [name]);
+    }, [name, constituency]);
 
     return (
         <>

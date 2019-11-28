@@ -13,12 +13,12 @@ const BasicInfoTab = ({ name, constituency }: { name: string; constituency: stri
         fetch(`/api/fb/${constituency}/${name}`)
             .then(res => res.json())
             .then(setCandidateFB);
-    }, [name]);
-    console.log(candidateFB);
+    }, [name, constituency]);
 
     return (
         <Box textAlign="center">
             <iframe
+                title={`${constituency}${name}`}
                 src={
                     'https://www.facebook.com/plugins/page.php?' +
                     `href=${candidateFB.fbPage}` +

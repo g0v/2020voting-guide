@@ -1,9 +1,9 @@
 import { Box, Typography } from '@material-ui/core';
-import { useTheme } from '@material-ui/core/styles';
+// import { useTheme } from '@material-ui/core/styles';
 import React from 'react';
 
 const NoInfoTab = ({ name, from }: { name: string; from: string }) => {
-    const theme = useTheme();
+    // const theme = useTheme();
     return (
         <Box
             // bgcolor={theme.palette.background.default}
