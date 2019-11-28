@@ -7,7 +7,6 @@ const useStyles = makeStyles({
     photo: {
         width: "75%",
         height: "75%",
-        marginLeft: "10px",
         marginRight: "20px",
     },
     dot: {
@@ -55,7 +54,7 @@ const PartyCard = ({
 }: PartyCard) => {
     const classes = useStyles();
     return (
-        <ListItem button component="a" href={`/progressing`}>
+        <ListItem divider button component="a" href={`/progressing`}>
             <ListItemAvatar>
                 <Avatar src={logo} className={classes.photo} />
             </ListItemAvatar>
