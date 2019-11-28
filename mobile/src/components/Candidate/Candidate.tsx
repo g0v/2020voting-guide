@@ -89,8 +89,12 @@ const CandidatePage = ({ match }: CandidatePage) => {
                 ) : (
                     <NoInfoTab name={candidate.name} from="passPerformance" />
                 )
-            ) : (
+            ) : candidate.educations &&
+              candidate.experiences &&
+              candidate.politics ? (
                 <BasicInfoTab name={name} constituency={constituency} />
+            ) : (
+                <NoInfoTab name={candidate.name} from="basicInfo" />
             )}
         </>
     );
