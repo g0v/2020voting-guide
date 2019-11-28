@@ -100,7 +100,9 @@ type ManualCandidate struct {
 	Name              string
 	Photo             string
 	Party             string
+	Education         string
 	Experience        string
+	Politics          string
 	CurrentLegislator bool `gorm:"column:currentLegislator"`
 }
 

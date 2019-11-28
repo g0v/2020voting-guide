@@ -57,6 +57,9 @@ func GetCandidateByNameHandler(c *gin.Context) {
 	var manualCandidateDb db.ManualCandidate
 	db.MySQL.Where("name = ? AND constituency = ?", name, constituency).First(&manualCandidateDb)
 	candidate.Photo = manualCandidateDb.Photo
+	candidate.Educations = manualCandidateDb.Education
+	candidate.Experiences = manualCandidateDb.Experience
+	candidate.Politics = manualCandidateDb.Politics
 	candidate.CurrentLegislator = manualCandidateDb.CurrentLegislator
 
 	var candidateDb db.Candidate
