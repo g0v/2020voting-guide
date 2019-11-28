@@ -39,22 +39,22 @@ const BillDialog = ({
 
     const personalPropose = (
         <>
-            <Typography variant="h5">提案</Typography>
+            <Typography variant="h4">提案</Typography>
             <Box display="flex" flexDirection="row" flexWrap="wrap" py={1}>
                 {bill.billProposer.map(({ name, party }) => (
                     <Box flexShrink={0} pr={2.5} key={name}>
-                        <Typography variant="h5" color="textSecondary" display="inline">
+                        <Typography variant="h4" color="textSecondary" display="inline">
                             {name}
                         </Typography>
                         <CircleIcon party={party} />
                     </Box>
                 ))}
             </Box>
-            <Typography variant="h5">連署</Typography>
+            <Typography variant="h4">連署</Typography>
             <Box display="flex" flexDirection="row" flexWrap="wrap" py={1}>
                 {bill.billCosignatory.map(({ name, party }) => (
                     <Box flexShrink={0} pr={2.5} key={name}>
-                        <Typography variant="h5" color="textSecondary" display="inline">
+                        <Typography variant="h4" color="textSecondary" display="inline">
                             {name}
                         </Typography>
                         <CircleIcon party={party} />
@@ -83,7 +83,7 @@ const BillDialog = ({
                     </Typography>
                     <Box my={2}>
                         <Typography
-                            variant="h5"
+                            variant="h4"
                             color="textSecondary"
                             gutterBottom
                         >
@@ -98,6 +98,16 @@ const BillDialog = ({
                                 : ''}
                         </Typography>
                     </Box>
+
+                    <Box my={2}>
+                        <Typography variant="h3">案由</Typography>
+                    </Box>
+                    <Box my={2}>
+                        <Typography variant="h4" color="textSecondary">
+                            {simplifyCaseOfAction(bill.caseOfAction)}
+                        </Typography>
+                    </Box>
+
                     <Box my={2}>
                         <Typography variant="h3">提案 / 連署人</Typography>
                     </Box>
@@ -105,14 +115,6 @@ const BillDialog = ({
                         ? personalPropose
                         : cosignatoryPropose}
 
-                    <Box my={2}>
-                        <Typography variant="h3">案由</Typography>
-                    </Box>
-                    <Box my={2}>
-                        <Typography variant="h5" color="textSecondary">
-                            {simplifyCaseOfAction(bill.caseOfAction)}
-                        </Typography>
-                    </Box>
                     <Box my={2}>
                         <Typography variant="h3">修正條文</Typography>
                     </Box>
@@ -124,11 +126,12 @@ const BillDialog = ({
                     </Box>
                     {descriptions.map(
                         (description: { description: string }, i) => (
-                            <Typography variant="h5">
+                            <Typography variant="h4">
                                 {i + 1}. {description.description}
                             </Typography>
                         )
                     )}
+                    
                     <Box display="flex" justifyContent="flex-end" mb={1} mx={1}>
                         <Button
                             variant="outlined"

@@ -52,7 +52,8 @@ const theme = createMuiTheme({
             fontSize: 20
         },
         h4: {
-            fontSize: 18
+            fontSize: 16,
+            lineHeight: "160%"
         },
         h5: {
             fontSize: 14

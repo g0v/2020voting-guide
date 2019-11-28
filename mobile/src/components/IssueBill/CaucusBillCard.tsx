@@ -33,7 +33,9 @@ const CaucusBill = ({ billNo, name }: Bill) => {
 
 const CaucusBillCard = ({ bills }: { bills: Bill[] }) => (
     <Card>
-        <Typography variant="h5" color="textSecondary">黨團提案</Typography>
+        <Typography variant="h5" color="textSecondary">
+            {bills[0].billOrg.replace('本院', '').replace('黨團', '')} 黨團提案
+        </Typography>
         <List>
             {bills.map(bill => (
                 <CaucusBill {...bill} />
