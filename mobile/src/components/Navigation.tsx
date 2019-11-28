@@ -13,7 +13,9 @@ const Navigation = ({ title, children }: Navigation) => {
 
     return (
         <Box py={3} px={2} bgcolor={theme.palette.background.default}>
-            <Typography variant="h2" gutterBottom={true}>{title}</Typography>
+            <Box mb="15px">
+                <Typography variant="h2" >{title}</Typography>
+            </Box>
             {children}
         </Box>
     );
