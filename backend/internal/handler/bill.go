@@ -65,7 +65,7 @@ func ListRelateBills(c *gin.Context) {
 	}
 
 	var candidate db.ManualCandidate
-	db.MySQL.Where("name = ?", name).Last(&candidate)
+	db.MySQL.Where("name = ? AND constituency = ?", name, constituency).Last(&candidate)
 
 	var orgBillsDb []db.Bill
 	caucusFilter := "本院" + getCaucusName(candidate.Party)
@@ -118,7 +118,6 @@ func GetBillHandler(c *gin.Context) {
 		api.Bill.ProposerType = "黨團提案"
 	} else {
 		api.Bill.ProposerType = "立委提案"
-
 	}
 
 	var descriptionsDb []db.BillDescription
