@@ -1,5 +1,4 @@
 import { Box, Container } from '@material-ui/core';
-import { makeStyles } from '@material-ui/styles';
 import React from 'react';
 import { Route, Switch } from 'react-router-dom';
 import AppDrawer from './components/AppDrawer';
