@@ -21,9 +21,22 @@ func ListVernacular(c *gin.Context) {
 		Clicks     int    `json:"clicks"`
 	}
 	if filter == "All" {
-		db.MySQL.Raw("SELECT bill.category, bill.name, bill.billNo, vernacular.vernacular FROM `bill` left join (SELECT max(id) id, bill_no from vernacular group by bill_no) t1 on t1.bill_no = bill.billNo left join vernacular on vernacular.id = t1.id WHERE category is not null and term = '09'").Scan(&api)
+		db.MySQL.Raw("SELECT bill.category, bill.name, bill.billNo, vernacular.vernacular FROM `bill` LEFT JOIN (SELECT max(id) id, bill_no from vernacular group by bill_no) t1 on t1.bill_no = bill.billNo left join vernacular on vernacular.id = t1.id WHERE category is not null and term = '09'").Scan(&api)
 	} else if filter == "三讀" {
-		db.MySQL.Raw("SELECT bill.category, bill.name, bill.billNo, vernacular.vernacular FROM `bill` left join (SELECT max(id) id, bill_no from vernacular group by bill_no) t1 on t1.bill_no = bill.billNo left join vernacular on vernacular.id = t1.id WHERE category is not null and term = '09' and billStatus = '三讀'").Scan(&api)
+		db.MySQL.Raw(
+			`SELECT
+			bill.category,
+			bill.name,
+			bill.billNo,
+			vernacular.vernacular
+			FROM bill
+			LEFT JOIN (
+				SELECT max(id) id, bill_no 
+				FROM vernacular
+				GROUP BY bill_no
+			) t1 ON t1.bill_no = bill.billNo 
+			LEFT JOIN vernacular ON vernacular.id = t1.id 
+			WHERE category is not null AND term = '09' AND billStatus = '三讀'`).Scan(&api)
 	} else if filter == "clicks" {
 		db.MySQL.Raw(
 			`SELECT 
@@ -88,6 +101,7 @@ func GetVernacular(c *gin.Context) {
 		BillCosignatoryString: billDb.BillCosignatory,
 		BillStatus:            billDb.BillStatus,
 		PdfURL:                billDb.PdfURL,
+		DocURL:                billDb.DocURL,
 		CaseOfAction:          billDb.CaseOfAction,
 		Vernacular:            vernacularDb.Vernacular,
 	}

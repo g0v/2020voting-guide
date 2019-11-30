@@ -14,5 +14,5 @@ cd ../
 if [ "${env}" == "stage" ]; then
     gcloud app deploy --no-promote --quiet
 else
-    gcloud app deploy
+    gcloud app deploy --quiet
 fi
