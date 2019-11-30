@@ -1,9 +1,16 @@
-import { Box, Button, Typography } from '@material-ui/core';
+import { Box, Typography } from '@material-ui/core';
+import { makeStyles } from '@material-ui/core/styles';
 import React from 'react';
 import { simplifyCaseOfAction } from '../../utils';
 import Card from '../Card';
 import BillDialog from './BillDialog';
-import { RelatePerson, useStyles } from './index';
+
+const useStyles = makeStyles({
+    billInfo: {
+        maxHeight: '5em',
+        overflow: 'hidden'
+    }
+});
 
 const PersonalBillCard = ({
     name,
@@ -23,64 +30,40 @@ const PersonalBillCard = ({
     proposerType: string;
 }) => {
     const [open, setOpen] = React.useState(false);
-    const [openDetail, setOpenDetail] = React.useState(false);
     const classes = useStyles(open);
     return (
         <Card key={name}>
-            <Typography variant="h5" color="textSecondary">
-                立委提案
-            </Typography>
-            <Box height={12} />
-            <Typography
-                variant="h3"
+            <Box
                 onClick={() => {
                     setOpen(!open);
                 }}
             >
-                {name}
-            </Typography>
-            <Box my={1}>
-                <div
-                    className={classes.billInfo}
-                    onClick={() => {
-                        setOpen(!open);
-                    }}
-                >
-                    <Typography variant="h4" color="textSecondary">
-                        {description
-                            ? description
-                            : simplifyCaseOfAction(caseOfAction)}
-                    </Typography>
-                </div>
+                <Typography variant="h5" color="textSecondary">
+                    立委提案
+                </Typography>
+                <Box height={12} />
+                <Typography variant="h3">{name}</Typography>
+                <Box my={1}>
+                    <div
+                        className={classes.billInfo}
+                    >
+                        <Typography variant="h4" color="textSecondary">
+                            {description
+                                ? description
+                                : simplifyCaseOfAction(caseOfAction)}
+                        </Typography>
+                    </div>
+                </Box>
                 {open ? (
-                    <RelatePerson
-                        proposer={billProposerString}
-                        cosignatory={billCosignatoryString}
+                    <BillDialog
+                        id={billNo}
+                        open={open}
+                        handleClose={() => {
+                            setOpen(false);
+                        }}
                     />
                 ) : null}
-                {open ? (
-                    <Box my={1}>
-                        <Button
-                            variant="outlined"
-                            color="primary"
-                            onClick={() => {
-                                setOpenDetail(!openDetail);
-                            }}
-                        >
-                            詳細法案
-                        </Button>
-                    </Box>
-                ) : null}
             </Box>
-            {openDetail ? (
-                <BillDialog
-                    id={billNo}
-                    open={openDetail}
-                    handleClose={() => {
-                        setOpenDetail(false);
-                    }}
-                />
-            ) : null}
         </Card>
     );
 };

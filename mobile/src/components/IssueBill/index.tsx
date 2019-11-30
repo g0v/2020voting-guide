@@ -1,5 +1,5 @@
 import { Box, Typography } from '@material-ui/core';
-import { makeStyles, useTheme } from '@material-ui/core/styles';
+import { useTheme } from '@material-ui/core/styles';
 import React from 'react';
 import CaucusBill from './CaucusBillCard';
 import './IssueBill.scss';
@@ -26,13 +26,6 @@ interface IssueBillProps {
     issue: string;
     bills: Bill[];
 }
-
-export const useStyles = makeStyles({
-    billInfo: (open: boolean) => ({
-        maxHeight: open ? 'none' : '5em',
-        overflow: 'hidden'
-    })
-});
 
 export const RelatePerson = ({
     proposer,
