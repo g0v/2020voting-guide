@@ -1,10 +1,27 @@
 @import './css/variable';
 @import './css/loading';
 
-body {
+html, body {
+  height: 100%;
+  padding: 0;
   margin: 0;
+}
+body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  min-height: 1300px;
+  #root{
+    height: 100%;
+    .main-container{
+      display: flex;
+      flex-direction: column;
+      min-height: inherit;
+      height: 100%;
+      &__content{
+        flex: 1 1 auto;
+      }
+    }
+  }
 }
 
 .typography{
@@ -115,15 +132,6 @@ body {
   border-radius: 10px;
   font-size: 14px;
   line-height: 160%;
-}
-
-.main-container{
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-  &__content{
-    flex: 1 1;
-  }
 }
 
 .p-0{
