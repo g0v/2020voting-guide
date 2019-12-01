@@ -14,10 +14,8 @@ const PartyCandidates = () => {
             </Navigation>
             <Box px={2}>
                 <List>
-                    {parties.map((party, i) => (
-                        <>
-                            <PartyCard {...party} key={party.name} />
-                        </>
+                    {parties.map(party => (
+                        <PartyCard {...party} key={party.name} />
                     ))}
                 </List>
             </Box>
