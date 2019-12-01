@@ -9,11 +9,13 @@ const defaultInfo = {
         name: '',
         billNo: '',
         pdfUrl: '',
+        docUrl: '',
         billOrg: '',
         billProposer: [],
         billCosignatory: [],
         caseOfAction: '',
-        proposerType: ''
+        proposerType: '',
+        vernacular: ''
     },
     descriptions: []
 };
@@ -43,7 +45,11 @@ const BillDialog = ({
             <Box display="flex" flexDirection="row" flexWrap="wrap" py={1}>
                 {bill.billProposer.map(({ name, party }) => (
                     <Box flexShrink={0} pr={2.5} key={name}>
-                        <Typography variant="h4" color="textSecondary" display="inline">
+                        <Typography
+                            variant="h4"
+                            color="textSecondary"
+                            display="inline"
+                        >
                             {name}
                         </Typography>
                         <CircleIcon party={party} />
@@ -54,7 +60,11 @@ const BillDialog = ({
             <Box display="flex" flexDirection="row" flexWrap="wrap" py={1}>
                 {bill.billCosignatory.map(({ name, party }) => (
                     <Box flexShrink={0} pr={2.5} key={name}>
-                        <Typography variant="h4" color="textSecondary" display="inline">
+                        <Typography
+                            variant="h4"
+                            color="textSecondary"
+                            display="inline"
+                        >
                             {name}
                         </Typography>
                         <CircleIcon party={party} />
@@ -73,13 +83,48 @@ const BillDialog = ({
         </>
     );
 
-    
+    const modifyBill = (
+        <>
+            {descriptions.map((description, i) => (
+                <ChangedBill key={i} index={i + 1} {...description} />
+            ))}
+            <Box my={2}>
+                <Typography variant="h3">修正說明</Typography>
+            </Box>
+            {descriptions.map((description: { description: string }, i) => (
+                <Typography variant="h4">
+                    {i + 1}. {description.description}
+                </Typography>
+            ))}
+        </>
+    );
+    const newBill = (
+        <>
+            <Typography variant="h4" color="textSecondary" gutterBottom>
+                你發現了一個新條文，所以沒有修正條文對照，請直接看原文 PDF 的完整法條！
+            </Typography>
+            <Box my={2}>
+                <Button
+                    href={bill.pdfUrl || bill.docUrl}
+                    variant="contained"
+                    color="primary"
+                    target="_blank"
+                >
+                    原文PDF
+                </Button>
+            </Box>
+        </>
+    );
+
     return (
         <>
             <Dialog open={open} onClose={handleClose}>
                 <DialogContent>
                     <Typography variant="h3" gutterBottom>
                         {bill.name}
+                    </Typography>
+                    <Typography variant="h5" color="textSecondary" gutterBottom>
+                        {bill.vernacular}
                     </Typography>
                     <Box my={2}>
                         <Typography
@@ -89,12 +134,12 @@ const BillDialog = ({
                         >
                             {bill.billNo
                                 ? bill.billNo.substring(0, 3) +
-                                '/' +
-                                bill.billNo.substring(3, 5) +
-                                '/' +
-                                bill.billNo.substring(5, 7) +
-                                ' ' +
-                                '提案'
+                                  '/' +
+                                  bill.billNo.substring(3, 5) +
+                                  '/' +
+                                  bill.billNo.substring(5, 7) +
+                                  ' ' +
+                                  '提案'
                                 : ''}
                         </Typography>
                     </Box>
@@ -118,20 +163,8 @@ const BillDialog = ({
                     <Box my={2}>
                         <Typography variant="h3">修正條文</Typography>
                     </Box>
-                    {descriptions.map((description, i) => (
-                        <ChangedBill key={i} index={i + 1} {...description} />
-                    ))}
-                    <Box my={2}>
-                        <Typography variant="h3">修正說明</Typography>
-                    </Box>
-                    {descriptions.map(
-                        (description: { description: string }, i) => (
-                            <Typography variant="h4">
-                                {i + 1}. {description.description}
-                            </Typography>
-                        )
-                    )}
-                    
+                    {descriptions.length ? modifyBill : newBill}
+
                     <Box display="flex" justifyContent="flex-end" mb={1} mx={1}>
                         <Button
                             variant="outlined"
