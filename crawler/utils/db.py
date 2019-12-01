@@ -146,6 +146,7 @@ class Bill(BaseModel):
     meetingTimes = CharField(null=True)
     billName = CharField()
     caseOfAction = TextField()
+    vernacular = CharField()
 
 
 class BillDescription(BaseModel):
@@ -215,3 +216,8 @@ class AD(BaseModel):
     startDate = CharField()
     endDate = CharField()
     content = CharField()
+
+
+class Vernacular(BaseModel):
+    bill_no = CharField()
+    vernacular = CharField()

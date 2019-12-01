@@ -15,15 +15,15 @@ const useStyles = makeStyles({
 const PersonalBillCard = ({
     name,
     billNo,
-    description,
     caseOfAction,
+    vernacular,
     billProposerString,
     billCosignatoryString,
     proposerType
 }: {
     name: string;
     billNo: string;
-    description: string;
+    vernacular: string;
     caseOfAction: string;
     billProposerString: string;
     billCosignatoryString: string;
@@ -48,8 +48,8 @@ const PersonalBillCard = ({
                         className={classes.billInfo}
                     >
                         <Typography variant="h4" color="textSecondary">
-                            {description
-                                ? description
+                            {vernacular
+                                ? vernacular
                                 : simplifyCaseOfAction(caseOfAction)}
                         </Typography>
                     </div>

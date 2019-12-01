@@ -57,6 +57,7 @@ type Bill struct {
 	DocURL          string `gorm:"column:docUrl"`
 	PdfURL          string `gorm:"column:pdfUrl"`
 	CaseOfAction    string `gorm:"column:caseOfAction"`
+	Vernacular      string
 }
 
 // BillDescription is some description for bill

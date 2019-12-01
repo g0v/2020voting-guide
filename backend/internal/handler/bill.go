@@ -36,7 +36,7 @@ func ListRelateBills(c *gin.Context) {
 				BillStatus:            bill.BillStatus,
 				PdfURL:                bill.PdfURL,
 				CaseOfAction:          bill.CaseOfAction,
-				Vernacular:            "",
+				Vernacular:            bill.Vernacular,
 			})
 		}
 		c.JSON(http.StatusOK, bills)
@@ -60,7 +60,7 @@ func ListRelateBills(c *gin.Context) {
 			BillStatus:            bill.BillStatus,
 			PdfURL:                bill.PdfURL,
 			CaseOfAction:          bill.CaseOfAction,
-			Vernacular:            "",
+			Vernacular:            bill.Vernacular,
 		})
 	}
 
@@ -112,7 +112,7 @@ func GetBillHandler(c *gin.Context) {
 		BillStatus:      billDb.BillStatus,
 		PdfURL:          billDb.PdfURL,
 		CaseOfAction:    billDb.CaseOfAction,
-		Vernacular:      "",
+		Vernacular:      billDb.Vernacular,
 	}
 	if strings.HasSuffix(billDb.BillOrg, "黨團") {
 		api.Bill.ProposerType = "黨團提案"

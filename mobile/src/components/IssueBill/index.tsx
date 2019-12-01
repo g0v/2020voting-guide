@@ -20,6 +20,7 @@ export interface Bill {
     billProposerString: string;
     billCosignatoryString: string;
     pdfUrl: string;
+    vernacular: string;
 }
 
 interface IssueBillProps {
