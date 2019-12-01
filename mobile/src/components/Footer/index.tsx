@@ -27,14 +27,11 @@ const Footer = () => {
                             </Typography>
                         </Box>
                         <Box my={5} className="footer__block-about">
-                            {/* TODO：待頁面上線後，拿掉 Tooltip */}
-                            <Tooltip title="COMING SOON" placement="left">
-                                <Link>
+                                <Link href="/about">
                                     <Typography variant="h3">
                                         關於我們
                                     </Typography>
                                 </Link>
-                            </Tooltip>
                             <Link
                                 target="_blank"
                                 href="https://docs.google.com/forms/d/e/1FAIpQLSfc_MGy-ImXbukLWk-YsA3a96ZDf9etHF0TmSLPHPniTxaMxw/viewform"

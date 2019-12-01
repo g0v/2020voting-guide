@@ -45,7 +45,8 @@ const theme = createMuiTheme({
         },
         h2: {
             fontWeight: 'bold',
-            fontSize: 24
+            fontSize: 24,
+            lineHeight: '160%'
         },
         h3: {
             fontWeight: 500,
@@ -53,14 +54,14 @@ const theme = createMuiTheme({
         },
         h4: {
             fontSize: 16,
-            lineHeight: "160%"
+            lineHeight: '160%'
         },
         h5: {
             fontSize: 14
         },
         h6: {
             fontSize: 18,
-            lineHeight: "160%"
+            lineHeight: '160%'
         },
         body1: {
             fontSize: 18,
