@@ -1,13 +1,4 @@
-import {
-    Box,
-    Breadcrumbs,
-    Divider,
-    Link,
-    List,
-    ListItem,
-    Typography,
-    Container
-} from '@material-ui/core';
+import { Box, Breadcrumbs, Container, Link, List, ListItem, Typography } from '@material-ui/core';
 import NavigateNextIcon from '@material-ui/icons/NavigateNext';
 import React from 'react';
 import constituencyArea from '../../data/constituencies_area.json';
