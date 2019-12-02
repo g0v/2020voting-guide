@@ -1,6 +1,6 @@
 import { Box, ListItemAvatar, Avatar, ListItemText, ListItem, Typography } from '@material-ui/core';
-import FiberManualRecordIcon from '@material-ui/icons/FiberManualRecord';
 import { makeStyles } from '@material-ui/styles';
+import Seats from '../Party/Seats';
 import React from 'react';
 
 const useStyles = makeStyles({
@@ -25,18 +25,6 @@ interface PartyCard {
 }
 
 const Name = ({ name }: { name: string }) => <Typography variant="h4"> {name} </Typography>
-
-const Seats = ({ num }: { num: number }) => {
-    const classes = useStyles();
-    return (
-        <Box ml={1.5} display="flex" alignItems="center">
-            <FiberManualRecordIcon className={classes.dot} fontSize="small" />
-            <Typography variant="body2" color="textSecondary">
-                不分區{num} 席
-            </Typography>
-        </Box>
-    )
-}
 
 const VoteRate = ({ rate }: { rate: string }) =>
     <Typography variant="body2" color="textSecondary">

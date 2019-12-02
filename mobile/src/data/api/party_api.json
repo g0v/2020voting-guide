@@ -3,6 +3,7 @@
     "logo": "/img/party/kmt.svg",
     "regionalSittingNum": 11,
     "nonRegionalSittingNum": 23,
+	"voteRate": "87%",
     "issueBills": [
         {
             "issue": "年金改革",
