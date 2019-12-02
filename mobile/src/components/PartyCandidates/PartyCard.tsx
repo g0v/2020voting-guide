@@ -54,7 +54,7 @@ const PartyCard = ({
 }: PartyCard) => {
     const classes = useStyles();
     return (
-        <ListItem divider button component="a" href={`/progressing`}>
+        <ListItem divider button component="a" href={`party/${name}`}>
             <ListItemAvatar>
                 <Avatar src={logo} className={classes.photo} />
             </ListItemAvatar>
