@@ -18,7 +18,7 @@ const Party = ({ match }: RouteComponentProps<{ party: string }>) => {
         fetch(`/api/party/${match.params.party}`)
             .then(res => res.json())
             .then(party => setBills(party.bills));
-    });
+    }, []);
 
     return (
         <Box color="background">
