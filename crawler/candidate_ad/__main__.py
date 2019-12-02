@@ -1,19 +1,15 @@
-import numpy as np
-import pandas as pd
+import json
+from os import makedirs
 
-from db import AD
+RAW = "../data/manual/fb-ad.jsonl"
+STATIC_DATA_FOLDER = "../data/static/ad"
 
-df = pd.read_csv("../data/manual/ad.csv")
-df.columns = [
-    "constituency",  # 選區
-    "name",  # 參選人
-    "adId",  # AD_ID
-    "politicalAD",  # 登錄為政治廣告
-    "startDate",  # 開始日期
-    "endDate",  # 結束日期
-    "content",  # 廣告內容
-]
-data = df.replace({np.nan: None}).to_dict(orient="records")
-AD.drop_table()
-AD.create_table()
-AD.insert_many(data).execute()
+with open(RAW) as fp:
+    ads = [json.loads(ad) for ad in fp.readlines()]
+
+for constituency, person in set((ad["選區"], ad["參選人"]) for ad in ads):
+    print(constituency, person)
+    person_ads = [ad for ad in ads if ad["選區"] == constituency and ad["參選人"] == person]
+    makedirs(f"{STATIC_DATA_FOLDER}/{constituency}", exist_ok=True)
+    with open(f"{STATIC_DATA_FOLDER}/{constituency}/{person}", "w") as fp:
+        json.dump(person_ads, fp, ensure_ascii=False, indent=2)
