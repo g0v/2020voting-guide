@@ -9,7 +9,7 @@ import ConstituencyPage from './components/ConstituencyDistrict/ConstituencyPage
 import Footer from './components/Footer';
 import Nav from './components/Header';
 import Home from './components/Home/';
-import Party from './components/Party/Party';
+import Party from './components/Party';
 import PartyCandidates from './components/PartyCandidates/PartyCandidates';
 import Progressing from './components/Progressing';
 import VernacularListPage from './components/Vernacular/VernacularListPage';

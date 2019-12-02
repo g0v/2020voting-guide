@@ -22,6 +22,7 @@ const Party = ({ match }: RouteComponentProps<{ party: string }>) => {
 
     return (
         <Box color="background">
+			{/* TODO: use backend API*/}
             <Nav {...api} />
             <Tabs
                 value={tab}
