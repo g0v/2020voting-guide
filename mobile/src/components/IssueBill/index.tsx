@@ -49,7 +49,7 @@ export const RelatePerson = ({
 };
 
 const Issue = ({ name }: { name: string }) => (
-    <Box display="flex">
+    <Box display="flex" alignItems="center">
         <Box
             width="8px"
             height="24px"
