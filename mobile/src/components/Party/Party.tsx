@@ -1,55 +1,42 @@
+import React, { useEffect } from 'react';
+import { RouteComponentProps } from 'react-router';
 import { Box } from '@material-ui/core';
 import Tab from '@material-ui/core/Tab';
 import Tabs from '@material-ui/core/Tabs';
-import React from 'react';
 import api from '../../data/api/party_api.json';
 import BasicInfoTab from './BasicInfoTab';
-import IssueBillTab from './IssueBillTab';
+import { Bill } from '../IssueBill';
+import IssueBillTab from '../IssueBillTab';
 import Nav from './Nav';
 import PassPerformance from './PassPerformanceTab';
 
-interface Party {
-    match: {
-        params: {
-            name: string;
-        };
-    };
-    location: {
-        search: string;
-    };
-}
-interface CandidatePage {
-    match: {
-        params: {
-            name: string;
-        };
-    };
-}
+const Party = ({ match }: RouteComponentProps<{ party: string }>) => {
+    const [tab, setTab] = React.useState(0);
+    const [bills, setBills] = React.useState<Bill[]>([]);
 
-const Party = ({ match, location }: Party) => {
-    const [value, setValue] = React.useState(0);
-
-    const handleChange = (event: React.ChangeEvent<{}>, newValue: number) => {
-        setValue(newValue);
-    };
+    useEffect(() => {
+        fetch(`/api/party/${match.params.party}`)
+            .then(res => res.json())
+            .then(party => setBills(party.bills));
+    });
 
     return (
         <Box color="background">
             <Nav {...api} />
             <Tabs
-                value={value}
+                value={tab}
                 indicatorColor="primary"
                 textColor="primary"
                 variant="fullWidth"
-                onChange={handleChange}
+                onChange={(_e, num) => setTab(num)}
             >
                 <Tab label="議題法案" />
                 <Tab label="過去表現" />
                 <Tab label="經歷政見" />
             </Tabs>
-            {value === 0 ? (
-                <IssueBillTab />
-            ) : value === 1 ? (
+            {tab === 0 ? (
+                <IssueBillTab bills={bills} />
+            ) : tab === 1 ? (
                 <PassPerformance />
             ) : (
                 <BasicInfoTab />
