@@ -7,8 +7,12 @@ import BillDialog from './BillDialog';
 
 const useStyles = makeStyles({
     billInfo: {
-        maxHeight: '5em',
-        overflow: 'hidden'
+        'line-height': '40px',
+        display: '-webkit-box',
+        overflow: 'hidden',
+        'text-overflow': 'ellipsis',
+        '-webkit-line-clamp': 4,
+        '-webkit-box-orient': 'vertical'
     }
 });
 
@@ -44,9 +48,7 @@ const PersonalBillCard = ({
                 <Box height={12} />
                 <Typography variant="h3">{name}</Typography>
                 <Box my={1}>
-                    <div
-                        className={classes.billInfo}
-                    >
+                    <div className={classes.billInfo}>
                         <Typography variant="h4" color="textSecondary">
                             {vernacular
                                 ? vernacular
