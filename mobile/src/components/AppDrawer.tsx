@@ -4,10 +4,12 @@ import IconButton from '@material-ui/core/IconButton';
 import List from '@material-ui/core/List';
 import ListItem from '@material-ui/core/ListItem';
 import ListItemText from '@material-ui/core/ListItemText';
+import { Box, Container, Link, Tooltip, Typography } from '@material-ui/core';
 import { createStyles, makeStyles, Theme } from '@material-ui/core/styles';
-import ChevronLeftIcon from '@material-ui/icons/ChevronLeft';
+import ChevronRightIcon from '@material-ui/icons/ChevronRight';
 import countyConstituency from '../data/county_constituency.json';
 import React from 'react';
+import { url } from 'inspector';
 
 const drawerWidth = 315;
 const useStyles = makeStyles((theme: Theme) =>
@@ -69,8 +71,27 @@ const useStyles = makeStyles((theme: Theme) =>
             boxSizing: 'border-box',
             width: '30%',
             padding: '5px 15px 5px 15px',
+            display: 'inline-block',
+            color: '#3199BA'
+        },
+        listItemLink: {
+            color: '#EC502B'
+        },
+        fbBlock: {
+            display: 'flex',
+            alignItems: 'center',
+            color: '#666'
+        },
+        fbIcon: {
+            display: 'inline-block',
+            width: '31px',
+            height: '31px',
+            marginLeft: '8px',
+            backgroundImage: 'url("/img/header/ic-fb.svg")'
+        },
+        aboutListItem: {
+            color: '#666',
             display: 'inline-block'
-
         }
     })
 );
@@ -98,7 +119,7 @@ const AppDrawer = ({ open, handleDrawerClose }: AppDrawer) => {
             >
                 <div className={classes.drawerHeader}>
                     <IconButton onClick={handleDrawerClose}>
-                        <ChevronLeftIcon />
+                        <ChevronRightIcon />
                     </IconButton>
                 </div>
                 <Divider />
@@ -108,6 +129,7 @@ const AppDrawer = ({ open, handleDrawerClose }: AppDrawer) => {
                         key="區域立委候選人"
                         component="a"
                         href="/regional"
+                        className={classes.listItemLink}
                     >
                         <ListItemText primary="區域立委候選人" />
                     </ListItem>
@@ -120,7 +142,6 @@ const AppDrawer = ({ open, handleDrawerClose }: AppDrawer) => {
                         className={classes.countyListItem}
                     >
                         <ListItemText primary={county}></ListItemText>
-                        {/* {isDesktop && <ListItemText className={classes.cityInfo} primary={'2300萬人'}></ListItemText>} */}
                     </ListItem>
                 ))}
                 </List>
@@ -130,15 +151,47 @@ const AppDrawer = ({ open, handleDrawerClose }: AppDrawer) => {
                         key="立委工作內容 ＆ 投票規則"
                         component="a"
                         href="/"
+                        className={classes.listItemLink}
                     >
                         <ListItemText primary="立委工作內容 ＆ 投票規則" />
                     </ListItem>
                     
-                    <ListItem button key="不分區立委參選政黨">
+                    {/*<ListItem button key="不分區立委參選政黨">
                         <ListItemText primary="不分區立委參選政黨" />
                     </ListItem>
                     <ListItem button key="熱門議題">
                         <ListItemText primary="熱門議題" />
+                    </ListItem>*/}
+                </List>
+                <List>
+                    <ListItem className={classes.fbBlock}>
+                        <span>FOLLOW US →</span>
+                        <a
+                            href="https://www.facebook.com/voting.guide.tw/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            <span className={classes.fbIcon}></span>
+                        </a>
+                    </ListItem>
+                </List>
+                <List>
+                    <ListItem
+                    button
+                    component="a"
+                    href="/about"
+                    className={classes.aboutListItem}
+                    >
+                        <ListItemText primary="關於我們" />
+                    </ListItem>
+                    <ListItem
+                    button
+                    component="a"
+                    target="_blank"
+                    href="https://docs.google.com/forms/d/e/1FAIpQLSfc_MGy-ImXbukLWk-YsA3a96ZDf9etHF0TmSLPHPniTxaMxw/viewform"
+                    className={classes.aboutListItem}
+                    >
+                        <ListItemText primary="問題回報" />
                     </ListItem>
                 </List>
             </Drawer>
