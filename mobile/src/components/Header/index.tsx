@@ -1,4 +1,5 @@
-import { AppBar, Box, Button, Link, Toolbar } from '@material-ui/core';
+import { AppBar, Box, Button, Link, Toolbar, IconButton } from '@material-ui/core';
+import MenuIcon from '@material-ui/icons/Menu';
 import ReportIcon from '@material-ui/icons/Report';
 import clsx from 'clsx';
 import React from 'react';
@@ -36,7 +37,7 @@ const Header = ({ open, handleDrawerOpen }: HeaderProps) => {
                                 </Link>
                             </Route>
                         </Switch>
-                        {/* <IconButton
+                        <IconButton
                             className="header__icon-btn"
                             color="inherit"
                             aria-label="open drawer"
@@ -44,7 +45,7 @@ const Header = ({ open, handleDrawerOpen }: HeaderProps) => {
                             onClick={handleDrawerOpen}
                         >
                             <MenuIcon className="header__menu-icon" />
-                        </IconButton> */}
+                        </IconButton>
                     </Box>
                 </Toolbar>
             </AppBar>
