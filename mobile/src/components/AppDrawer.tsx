@@ -6,9 +6,10 @@ import ListItem from '@material-ui/core/ListItem';
 import ListItemText from '@material-ui/core/ListItemText';
 import { createStyles, makeStyles, Theme } from '@material-ui/core/styles';
 import ChevronLeftIcon from '@material-ui/icons/ChevronLeft';
+import countyConstituency from '../data/county_constituency.json';
 import React from 'react';
 
-const drawerWidth = 240;
+const drawerWidth = 315;
 const useStyles = makeStyles((theme: Theme) =>
     createStyles({
         root: {
@@ -63,6 +64,13 @@ const useStyles = makeStyles((theme: Theme) =>
                 duration: theme.transitions.duration.enteringScreen
             }),
             marginRight: 0
+        },
+        countyListItem: {
+            boxSizing: 'border-box',
+            width: '30%',
+            padding: '5px 15px 5px 15px',
+            display: 'inline-block'
+
         }
     })
 );
@@ -71,6 +79,8 @@ interface AppDrawer {
     open: boolean;
     handleDrawerClose(): void;
 }
+
+const counties = countyConstituency.map(county => county.name);
 
 const AppDrawer = ({ open, handleDrawerClose }: AppDrawer) => {
     const classes = useStyles();
@@ -93,6 +103,28 @@ const AppDrawer = ({ open, handleDrawerClose }: AppDrawer) => {
                 </div>
                 <Divider />
                 <List>
+                <ListItem
+                        button
+                        key="區域立委候選人"
+                        component="a"
+                        href="/regional"
+                    >
+                        <ListItemText primary="區域立委候選人" />
+                    </ListItem>
+                {counties.map(county => (
+                    <ListItem
+                        key={county}
+                        button
+                        component="a"
+                        href={`/regional/${county}`}
+                        className={classes.countyListItem}
+                    >
+                        <ListItemText primary={county}></ListItemText>
+                        {/* {isDesktop && <ListItemText className={classes.cityInfo} primary={'2300萬人'}></ListItemText>} */}
+                    </ListItem>
+                ))}
+                </List>
+                <List>
                     <ListItem
                         button
                         key="立委工作內容 ＆ 投票規則"
@@ -101,14 +133,7 @@ const AppDrawer = ({ open, handleDrawerClose }: AppDrawer) => {
                     >
                         <ListItemText primary="立委工作內容 ＆ 投票規則" />
                     </ListItem>
-                    <ListItem
-                        button
-                        key="區域立委候選人"
-                        component="a"
-                        href="/regional"
-                    >
-                        <ListItemText primary="區域立委候選人" />
-                    </ListItem>
+                    
                     <ListItem button key="不分區立委參選政黨">
                         <ListItemText primary="不分區立委參選政黨" />
                     </ListItem>
