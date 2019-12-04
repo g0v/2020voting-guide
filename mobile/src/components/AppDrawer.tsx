@@ -4,7 +4,7 @@ import IconButton from '@material-ui/core/IconButton';
 import List from '@material-ui/core/List';
 import ListItem from '@material-ui/core/ListItem';
 import ListItemText from '@material-ui/core/ListItemText';
-import { Box, Container, Link, Tooltip, Typography } from '@material-ui/core';
+import Typography from '@material-ui/core/Typography';
 import { createStyles, makeStyles, Theme } from '@material-ui/core/styles';
 import ChevronRightIcon from '@material-ui/icons/ChevronRight';
 import countyConstituency from '../data/county_constituency.json';
@@ -69,13 +69,14 @@ const useStyles = makeStyles((theme: Theme) =>
         },
         countyListItem: {
             boxSizing: 'border-box',
-            width: '30%',
+            width: '33%',
             padding: '5px 15px 5px 15px',
             display: 'inline-block',
             color: '#3199BA'
         },
         listItemLink: {
-            color: '#EC502B'
+            color: '#2584A3',
+            marginBottom: '3px'
         },
         fbBlock: {
             display: 'flex',
@@ -131,7 +132,7 @@ const AppDrawer = ({ open, handleDrawerClose }: AppDrawer) => {
                         href="/regional"
                         className={classes.listItemLink}
                     >
-                        <ListItemText primary="區域立委候選人" />
+                        <Typography variant="h3">區域立委候選人</Typography>
                     </ListItem>
                 {counties.map(county => (
                     <ListItem
@@ -153,7 +154,7 @@ const AppDrawer = ({ open, handleDrawerClose }: AppDrawer) => {
                         href="/"
                         className={classes.listItemLink}
                     >
-                        <ListItemText primary="立委工作內容 ＆ 投票規則" />
+                        <Typography variant="h3">立委工作內容 ＆ 投票規則</Typography>
                     </ListItem>
                     
                     {/*<ListItem button key="不分區立委參選政黨">
