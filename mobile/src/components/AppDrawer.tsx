@@ -4,12 +4,11 @@ import IconButton from '@material-ui/core/IconButton';
 import List from '@material-ui/core/List';
 import ListItem from '@material-ui/core/ListItem';
 import ListItemText from '@material-ui/core/ListItemText';
-import Typography from '@material-ui/core/Typography';
 import { createStyles, makeStyles, Theme } from '@material-ui/core/styles';
+import Typography from '@material-ui/core/Typography';
 import ChevronRightIcon from '@material-ui/icons/ChevronRight';
-import countyConstituency from '../data/county_constituency.json';
 import React from 'react';
-import { url } from 'inspector';
+import countyConstituency from '../data/county_constituency.json';
 
 const drawerWidth = 315;
 const useStyles = makeStyles((theme: Theme) =>
@@ -149,24 +148,28 @@ const AppDrawer = ({ open, handleDrawerClose }: AppDrawer) => {
                 <List>
                     <ListItem
                         button
-                        key="立委工作內容 ＆ 投票規則"
+                        key="立委在做什麼？"
                         component="a"
-                        href="/"
+                        href="/#立委的工作是什麼"
                         className={classes.listItemLink}
+                        onClick={()=> handleDrawerClose}
+                        >
+                        <Typography variant="h3">立委在做什麼？</Typography>
+                    </ListItem>
+                    <ListItem
+                        button
+                        key="為什麼有兩張票？"
+                        component="a"
+                        href="/#為什麼有兩張票"
+                        className={classes.listItemLink}
+                        onClick={()=> handleDrawerClose}
                     >
-                        <Typography variant="h3">立委工作內容 ＆ 投票規則</Typography>
+                        <Typography variant="h3">為什麼有兩張票？</Typography>
                     </ListItem>
-                    
-                    {/*<ListItem button key="不分區立委參選政黨">
-                        <ListItemText primary="不分區立委參選政黨" />
-                    </ListItem>
-                    <ListItem button key="熱門議題">
-                        <ListItemText primary="熱門議題" />
-                    </ListItem>*/}
                 </List>
                 <List>
                     <ListItem className={classes.fbBlock}>
-                        <span>FOLLOW US →</span>
+                        <Typography variant="h4">FOLLOW US →</Typography>
                         <a
                             href="https://www.facebook.com/voting.guide.tw/"
                             target="_blank"

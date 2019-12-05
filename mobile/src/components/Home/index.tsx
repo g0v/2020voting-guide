@@ -1,4 +1,4 @@
-import { Box, Button, Typography, Container } from '@material-ui/core';
+import { Box, Button, Container, Typography } from '@material-ui/core';
 import React, { MouseEvent, ReactNode } from 'react';
 import { RouteComponentProps } from 'react-router-dom';
 import { scrollBody } from '../../utils';
@@ -155,6 +155,7 @@ const Home = (props: Props) => {
                 </div>
             </Box>
             <Container>
+                <div id="立委的工作是什麼" />
                 <VideoCard
                     className="page-home-quick-0"
                     title="大補帖一、立委的工作是什麼？"
@@ -180,6 +181,7 @@ const Home = (props: Props) => {
                     </a>
                 </VideoCard>
                 <div className="divider"></div>
+                <div id="為什麼有兩張票" />
                 <VideoCard
                     className="page-home-quick-1"
                     title="大補帖二、為什麼有兩票？"
