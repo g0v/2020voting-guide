@@ -37,10 +37,8 @@ const StrengthTab = ({
             .then(setAds);
     }, [name]);
 
-
-
     return (
-        <Box bgcolor="#F7F7F7" p={1}>
+        <Box bgcolor="#F7F7F7">
             <Box textAlign="center">
                 <iframe
                     src={
@@ -55,9 +53,11 @@ const StrengthTab = ({
                     allow="encrypted-media"
                 />
             </Box>
-            {ads.map((ad: AD) => (
-                <AdCard {...ad} />
-            ))}
+            <Box p={1}>
+                {ads.map((ad: AD) => (
+                    <AdCard {...ad} />
+                ))}
+            </Box>
         </Box>
     );
 };

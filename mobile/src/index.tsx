@@ -50,6 +50,7 @@ const theme = createMuiTheme({
         },
         h3: {
             fontWeight: 500,
+            lineHeight: '150%',
             fontSize: 20
         },
         h4: {

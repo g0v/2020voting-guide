@@ -1,7 +1,6 @@
-import React, { ReactNode } from 'react';
 import { Box } from '@material-ui/core';
 import { makeStyles } from '@material-ui/styles';
-import { FunctionComponent } from 'react';
+import React, { FunctionComponent, ReactNode } from 'react';
 
 const useStyles = makeStyles({
     root: {
@@ -36,12 +35,12 @@ const useStyles = makeStyles({
     }
 });
 
-const Dialog: FunctionComponent<{ top: ReactNode }> = ({ children, top }) => {
+const Dialog: FunctionComponent<{ top?: ReactNode }> = ({ children, top }) => {
     const classes = useStyles();
     return (
         <Box className={classes.root}>
             <Box mb={2} className={classes.content}>
-                <Box className={classes.top}>{top}</Box>
+                {top ? <Box className={classes.top}>{top}</Box> : null}
                 {children}
             </Box>
         </Box>
