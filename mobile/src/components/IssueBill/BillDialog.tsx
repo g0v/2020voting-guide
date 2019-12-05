@@ -1,4 +1,5 @@
 import { Box, Button, DialogContent, Typography } from '@material-ui/core';
+import CloseIcon from '@material-ui/icons/Close';
 import { makeStyles } from '@material-ui/styles';
 import React from 'react';
 import { simplifyCaseOfAction } from '../../utils';
@@ -26,6 +27,9 @@ const useStyle = makeStyles({
     bottomPanel: {
         boxSizing: 'border-box',
         backgroundColor: 'rgba(255, 255, 255, 0.8)'
+    },
+    button: {
+        color: 'rgba(0, 0, 0, 0.54)'
     }
 });
 
@@ -172,7 +176,9 @@ const BillDialog = ({
                 <Box my={2}>
                     <Typography variant="h3">修正條文</Typography>
                 </Box>
-                {descriptions.length ? modifyBill : newBill}
+                <Box mb="72px">
+                    {descriptions.length ? modifyBill : newBill}
+                </Box>
             </DialogContent>
             <Box
                 position="absolute"
@@ -186,9 +192,10 @@ const BillDialog = ({
             >
                 <Button
                     variant="outlined"
-                    color="primary"
                     onClick={handleClose}
+                    className={classes.button}
                 >
+                    <CloseIcon />
                     關閉
                 </Button>
             </Box>
