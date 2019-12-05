@@ -23,6 +23,10 @@ const useStyles = makeStyles({
         'text-overflow': 'ellipsis',
         '-webkit-line-clamp': 2,
         '-webkit-box-orient': 'vertical'
+    },
+    cardImg: {
+        width: '65px',
+        height: '65px'
     }
 });
 
@@ -51,7 +55,7 @@ const StrengthTab = ({
     }, [name]);
 
     const generateCardTextHtml = (fullText: string) => {
-        const adLines = fullText.split(' ');
+        const adLines = fullText.split(/ (?![a-zA-Z])/);
         return (
             <>
                 {adLines.slice(0, 1).map(title => (
@@ -90,8 +94,18 @@ const StrengthTab = ({
             {ads.map((ad: AD) => (
                 <Card>
                     <Box display="flex" justifyContent="flex-start">
-                        <Box>{generateCardTextHtml(ad['廣告內容'])}</Box>
-                        <img src={ad['圖片']} width="65px" />
+                        <Box flexGrow={1}>
+                            {generateCardTextHtml(ad['廣告內容'])}
+                        </Box>
+                        <Box>
+                            <div
+                                className={classes.cardImg}
+                                style={{
+                                    backgroundImage: `url(${ad['圖片']})`,
+                                    backgroundPosition: "center"
+                                }}
+                            />
+                        </Box>
                     </Box>
                     <Box mt={1} display="flex" flexDirection="row-reverse">
                         <Typography variant="h5" color="textSecondary">
