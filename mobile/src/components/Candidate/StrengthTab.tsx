@@ -1,5 +1,6 @@
-import { Box, Typography } from '@material-ui/core';
+import { Box, Link, Typography } from '@material-ui/core';
 import React from 'react';
+import Alert from '../Alert';
 import AdCard from './AdCard';
 
 const candidateFBDefault = {
@@ -38,7 +39,18 @@ const StrengthTab = ({
     }, [name]);
 
     return (
-        <Box bgcolor="#F9F9F9">
+        <Box bgcolor="#F9F9F9" py={1}>
+            <Alert>
+                <Typography variant="h5" color="textSecondary">
+                    以下是此候選人在競選期間的收支狀況與宣傳手法。
+                </Typography>
+                <Typography variant="h5" color="textSecondary">
+                    {"資料來源: "}
+                    <Link href="https://www.facebook.com/ads/library">
+                        <u>Facebook Ad Library</u>
+                    </Link>
+                </Typography>
+            </Alert>
             <Box display="flex" alignItems="center" mx={1.5} pt={3}>
                 <Box
                     width="8px"
@@ -47,13 +59,11 @@ const StrengthTab = ({
                     borderRadius="4px"
                     bgcolor="primary.main"
                 />
-                <Typography variant="h2">
-                    FB 粉專廣告投放
-                </Typography>
+                <Typography variant="h2">FB 粉專廣告投放</Typography>
             </Box>
             <Box display="flex" mb={3} mt={1}>
                 <Box ml={3.5} />
-                <Typography variant="h5"  color="textSecondary">
+                <Typography variant="h5" color="textSecondary">
                     候選人在臉書粉絲團上的花費及廣告內容
                 </Typography>
             </Box>
