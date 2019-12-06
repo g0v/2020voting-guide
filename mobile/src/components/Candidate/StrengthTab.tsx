@@ -1,4 +1,4 @@
-import { Box } from '@material-ui/core';
+import { Box, Typography } from '@material-ui/core';
 import React from 'react';
 import AdCard from './AdCard';
 
@@ -38,8 +38,26 @@ const StrengthTab = ({
     }, [name]);
 
     return (
-        <Box bgcolor="#F7F7F7">
-            <Box textAlign="center">
+        <Box bgcolor="#F9F9F9">
+            <Box display="flex" alignItems="center" mx={1.5} pt={3}>
+                <Box
+                    width="8px"
+                    height="24px"
+                    mr={1}
+                    borderRadius="4px"
+                    bgcolor="primary.main"
+                />
+                <Typography variant="h2">
+                    FB 粉專廣告投放
+                </Typography>
+            </Box>
+            <Box display="flex" mb={3} mt={1}>
+                <Box ml={3.5} />
+                <Typography variant="h5"  color="textSecondary">
+                    候選人在臉書粉絲團上的花費及廣告內容
+                </Typography>
+            </Box>
+            <Box textAlign="center" maxHeight={130}>
                 <iframe
                     src={
                         'https://www.facebook.com/plugins/page.php?' +
@@ -53,7 +71,7 @@ const StrengthTab = ({
                     allow="encrypted-media"
                 />
             </Box>
-            <Box p={1}>
+            <Box px={1} pb={1}>
                 {ads.map((ad: AD) => (
                     <AdCard {...ad} />
                 ))}
