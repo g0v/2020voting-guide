@@ -56,5 +56,5 @@
         "prettier": "^1.18.2",
         "tslint": "^5.20.0"
     },
-    "proxy": "http://localhost:8080"
+    "proxy": "https://vote.ly.g0v.tw"
 }
