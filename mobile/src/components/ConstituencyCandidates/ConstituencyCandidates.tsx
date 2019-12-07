@@ -10,6 +10,17 @@ import clsx from 'clsx';
 import React, { useEffect, useState } from 'react';
 import Navigation from '../Navigation';
 import { CandidateCard, CandidateProps } from './CandidateCard';
+import { makeStyles } from '@material-ui/core/styles';
+
+const useStyles = makeStyles({
+    flexContainer: {
+        display: 'flex',
+        flexWrap: 'wrap',
+        justifyContent: 'flex-start',
+        width: '88%',
+        margin: '0 auto'
+    }
+});
 
 interface Route {
     match: {
@@ -34,6 +45,7 @@ const CountyCandidates = ({ match }: Route) => {
             });
     }, [constituency]);
     const rootClazz: string = clsx('loading p-0', { 'is-show': isLoading });
+    const classes = useStyles();
     return (
         <Container className={rootClazz}>
             <Navigation title="區域立委候選人">
@@ -53,7 +65,7 @@ const CountyCandidates = ({ match }: Route) => {
                     </Typography>
                 </Breadcrumbs>
             </Navigation>
-            <List>
+            <List className={clsx(!(/Mobi|Android/i.test(navigator.userAgent)) && classes.flexContainer)}>
                 {candidates.map((candidate: CandidateProps) => (
                     <CandidateCard
                         key={candidate.id}
