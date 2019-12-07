@@ -4,15 +4,22 @@ import { Box } from '@material-ui/core';
 import Tab from '@material-ui/core/Tab';
 import Tabs from '@material-ui/core/Tabs';
 import api from '../../data/api/party_api.json';
+import partyCandidates from '../../data/party_candidates.json';
 import BasicInfoTab from './BasicInfoTab';
 import { Bill } from '../IssueBill';
 import IssueBillTab from '../IssueBillTab';
 import Progressing from '../Progressing';
+import CandidateList from './CandidateList';
+import { Candidate } from './types';
 import Nav from './Nav';
 
 const Party = ({ match }: RouteComponentProps<{ party: string }>) => {
     const [tab, setTab] = React.useState(0);
     const [bills, setBills] = React.useState<Bill[]>([]);
+    const { party } = match.params;
+    const candidates: Candidate[] = (partyCandidates as {
+        [party: string]: Candidate[];
+    })[party];
 
     useEffect(() => {
         fetch(`/api/party/${match.params.party}`)
@@ -36,7 +43,7 @@ const Party = ({ match }: RouteComponentProps<{ party: string }>) => {
                 <Tab label="過去表現" />
                 <Tab label="經歷政見" />
             </Tabs>
-            {tab === 0 && null}
+            {tab === 0 && <CandidateList candidates={candidates} />}
             {tab === 1 && <IssueBillTab bills={bills} />}
             {tab === 2 && <Progressing />}
             {tab === 3 && <BasicInfoTab />}
