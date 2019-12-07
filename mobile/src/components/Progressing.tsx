@@ -1,9 +1,7 @@
 import { Box, Typography } from '@material-ui/core';
-// import { useTheme } from '@material-ui/core/styles';
 import React from 'react';
 
-const NoInfoTab = ({ name, from }: { name: string; from: string }) => {
-    // const theme = useTheme();
+const Progressing = () => {
     return (
         <Box
             // bgcolor={theme.palette.background.default}
@@ -11,21 +9,15 @@ const NoInfoTab = ({ name, from }: { name: string; from: string }) => {
             textAlign="center"
             py={5}
         >
-            <img
-                width="375"
-                src="/img/progressing.svg"
-                alt="施工中"
-            />
+            <img width="375" src="/img/progressing.svg" alt="施工中" />
             <Box pt={4} pb={2} color="#EC502B">
-                <Typography variant="h2">
-                    本頁施工中...
-                </Typography>
+                <Typography variant="h2">本頁施工中...</Typography>
             </Box>
             <Typography variant="h5" color="primary">
-            我們正在趕工製作這一頁，先去其他頁面逛逛↓
+                我們正在趕工製作這一頁，先去其他頁面逛逛↓
             </Typography>
         </Box>
     );
 };
 
-export default NoInfoTab;
+export default Progressing;
