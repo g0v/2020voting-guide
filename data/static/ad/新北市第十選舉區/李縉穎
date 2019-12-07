@@ -157,124 +157,124 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.033846",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.04325",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000934",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.00037",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.00025",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.0001",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000829",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.123087",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.217067",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.023043",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.140391",
+          "percentage": "0.13607",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.148317",
-          "age": "25-34",
-          "gender": "female"
+          "percentage": "0.043824",
+          "age": "55-64",
+          "gender": "male"
         },
         {
-          "percentage": "0.085081",
+          "percentage": "0.000106",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000928",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000349",
           "age": "18-24",
-          "gender": "female"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.063866",
+          "percentage": "0.000827",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000172",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.063387",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.070553",
-          "age": "35-44",
+          "percentage": "0.019709",
+          "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.028966",
+          "percentage": "0.022741",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.036076",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.031665",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.019882",
-          "age": "65+",
+          "percentage": "0.147359",
+          "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.00017",
-          "age": "65+",
+          "percentage": "0.073102",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.214057",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.084807",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.124569",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000252",
+          "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "辰梁",
       "impressions": {
-        "lower_bound": "350000",
-        "upper_bound": "399999"
+        "lower_bound": "450000",
+        "upper_bound": "499999"
       },
       "page_id": "123607365704240",
       "page_name": "李縉穎",
       "region_distribution": [
         {
-          "percentage": "0.530216",
+          "percentage": "0.528816",
           "region": "Taipei"
         },
         {
-          "percentage": "0.220176",
+          "percentage": "0.220241",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.233703",
+          "percentage": "0.234371",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.015905",
+          "percentage": "0.016572",
           "region": "Keelung City"
         }
       ],
       "spend": {
-        "lower_bound": "10000",
-        "upper_bound": "14999"
+        "lower_bound": "15000",
+        "upper_bound": "19999"
       }
     }
   }

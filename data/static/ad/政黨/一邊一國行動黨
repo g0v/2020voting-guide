@@ -15,9 +15,9 @@
     "AD_ID": "965530837143067",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-11",
-    "結束日期": "2019-12-01",
+    "結束日期": "2019-12-06",
     "廣告內容": "本粉絲頁為一邊一國行動黨官方粉絲頁，由黨部直接經營與回應。",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/77891030_965530953809722_5127609472981663744_n.jpg?_nc_cat=103&_nc_ohc=wwrpHIL2r0MAQkF9i2kjeN0QZkdDoIXB9puDHPm9ncNWuvhQELbYFmKig&_nc_ht=scontent-hkg3-1.xx&oh=56c055ab65a58561d86b92e886b5c985&oe=5E491D54",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/77891030_965530953809722_5127609472981663744_n.jpg?_nc_cat=103&_nc_ohc=LlG1EcPX3wIAQl7BBLe0O2AOuODomP_Zs52n3RWaGP1Fu_AVK0ueVFMlQ&_nc_ht=scontent-hkg3-1.xx&oh=5ad0a8c04cde8ef6b04e85d64a4a5f54&oe=5E70AA54",
     "廣告詳情": {
       "ad_creative_body": "本粉絲頁為一邊一國行動黨官方粉絲頁，由黨部直接經營與回應。",
       "ad_creation_time": "2019-11-11T13:58:08+0000",
@@ -28,83 +28,176 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.45595",
+          "percentage": "3.1E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.454822",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.241214",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.019901",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.089436",
+          "percentage": "0.088573",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.182743",
+          "percentage": "0.240723",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.185507",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.008529",
+          "percentage": "0.019645",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.008485",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.001678",
+          "percentage": "0.00166",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000514",
+          "percentage": "0.000553",
           "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "3.4E-5",
-          "age": "55-64",
           "gender": "unknown"
         }
       ],
       "funding_entity": "一邊一國行動黨",
       "impressions": {
-        "lower_bound": "70000",
-        "upper_bound": "79999"
+        "lower_bound": "90000",
+        "upper_bound": "99999"
       },
       "page_id": "101909061180405",
       "page_name": "一邊一國行動黨",
       "region_distribution": [
         {
-          "percentage": "0.39231",
+          "percentage": "0.393113",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.353213",
+          "percentage": "0.354624",
           "region": "Tainan"
         },
         {
-          "percentage": "0.010185",
+          "percentage": "0.010436",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.111415",
+          "percentage": "0.109788",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.132878",
+          "percentage": "0.13204",
           "region": "Yunlin"
         }
       ],
       "spend": {
-        "lower_bound": "1500",
-        "upper_bound": "1999"
+        "lower_bound": "2000",
+        "upper_bound": "2499"
+      }
+    }
+  },
+  {
+    "選區": "政黨",
+    "參選人": "一邊一國行動黨",
+    "AD_ID": "504467010161854",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-04",
+    "結束日期": "2019-12-06",
+    "廣告內容": "支持阿扁，請將政黨票投給一邊一國行動黨",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79155629_504467023495186_6303971908362698752_n.jpg?_nc_cat=109&_nc_ohc=YovoD-EP40oAQmcLTuRDoQ2hZHLz0KfRNSTGaWs4YgtLvUlCh6i9psRuA&_nc_ht=scontent-hkg3-1.xx&oh=63e30e1431c779ccc11e1208307c6037&oe=5E88B4EE",
+    "廣告詳情": {
+      "ad_creative_body": "支持阿扁，請將政黨票投給一邊一國行動黨",
+      "ad_creation_time": "2019-12-04T10:21:22+0000",
+      "ad_creative_link_caption": "tapa.tw",
+      "ad_creative_link_title": "一邊一國行動黨",
+      "ad_delivery_start_time": "2019-12-04T10:21:22+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.242739",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.447651",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.086052",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.192542",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002151",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.020796",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.007888",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000179",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "一邊一國行動黨",
+      "impressions": {
+        "lower_bound": "6000",
+        "upper_bound": "6999"
+      },
+      "page_id": "101909061180405",
+      "page_name": "一邊一國行動黨",
+      "region_distribution": [
+        {
+          "percentage": "0.389892",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.349819",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.01444",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.10343",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.142419",
+          "region": "Yunlin"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "199"
       }
     }
   }

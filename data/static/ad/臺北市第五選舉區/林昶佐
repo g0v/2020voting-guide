@@ -55,9 +55,9 @@
     "AD_ID": "518058422115994",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-29",
-    "結束日期": "2019-12-01",
+    "結束日期": "2019-12-03",
     "廣告內容": "【當我的最強後盾 作你的關鍵一席】",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79295762_441830290081156_4186563734493200384_n.jpg?_nc_cat=100&_nc_ohc=yBCg7enpLngAQmpYl9gvcGU8-wze6oWQ4_crc6QcgPPtf4UhC-pkP3PWg&_nc_ht=scontent-hkg3-1.xx&oh=f7be55c86fdbdbf52b936ee4180c4b75&oe=5E782BBF",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79295762_441830290081156_4186563734493200384_n.jpg?_nc_cat=100&_nc_ohc=QpTVdKDDcQgAQmzW9UkupmWnCxuZwhhrDMOVjQcVQZgiHNG1t59dKGnUQ&_nc_ht=scontent-hkg3-1.xx&oh=818fd39dce3b12f2359a91d85591dd3a&oe=5E782BBF",
     "廣告詳情": {
       "ad_creative_body": "【當我的最強後盾 作你的關鍵一席】",
       "ad_creation_time": "2019-11-29T11:31:44+0000",
@@ -67,62 +67,512 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.002235",
-          "age": "35-44",
-          "gender": "unknown"
+          "percentage": "0.105709",
+          "age": "45-54",
+          "gender": "female"
         },
         {
-          "percentage": "0.094569",
+          "percentage": "0.045814",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.248324",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.092959",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.141395",
+          "percentage": "0.131287",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.047042",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.098931",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.063952",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.254544",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.075531",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.218892",
+          "percentage": "0.220955",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.000646",
+          "percentage": "0.060171",
           "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.089668",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002204",
+          "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001831",
+          "percentage": "0.001883",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000431",
+          "percentage": "0.000398",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000628",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "林昶佐 Freddy Lim",
+      "impressions": {
+        "lower_bound": "300000",
+        "upper_bound": "349999"
+      },
+      "page_id": "365320250345879",
+      "page_name": "林昶佐 Freddy Lim",
+      "region_distribution": [
+        {
+          "percentage": "0.854513",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.145487",
+          "region": "New Taipei City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "30000",
+        "upper_bound": "34999"
+      }
+    }
+  },
+  {
+    "選區": "臺北市第五選舉區",
+    "參選人": "林昶佐",
+    "AD_ID": "440640803515093",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-01",
+    "結束日期": "2019-12-06",
+    "廣告內容": "【用台語講古，佮囡仔耍做伙！】 　 週末受邀去幫小朋友講繪本，滿場的阿弟阿妹差點把我淹沒了。 　 台灣是美麗的多元國家，擁有豐富的語言文化，很感謝像 牽囡仔ê手 行台語ê路 這些團體們，一直努力打造母語的環境，讓家長跟孩子們能夠在生活中體驗母語的生動與趣味。我跟許多家長跟孩子們都玩得不亦樂乎，幸福感爆棚啊！ 我也跟在場家長們分享了一個跟小孩講台語的好處，就是如果孩子在公共場合鬧脾氣、但孩子若是喊著童音童語的台語，例如像米魯在公車上突然大鬧喊「阿爸啊～啊～阿母～烏～烏」，旁邊的民眾常常都大笑出來，似乎對兒童哭鬧的忍耐度都提高了呢！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78341747_1209777135900182_8366440690237833216_n.jpg?_nc_cat=102&_nc_ohc=cUJBNaUKFPwAQkdpxJZfo1bKnX-QLdhw8LACIWX_FTH7veTp-z1LuLDGw&_nc_ht=scontent-hkg3-1.xx&oh=df85da4f7aa9fafb5c1d8817aee9039f&oe=5E801ACA",
+    "廣告詳情": {
+      "ad_creative_body": "【用台語講古，佮囡仔耍做伙！】\n　\n週末受邀去幫小朋友講繪本，滿場的阿弟阿妹差點把我淹沒了。\n　\n台灣是美麗的多元國家，擁有豐富的語言文化，很感謝像 牽囡仔ê手 行台語ê路 這些團體們，一直努力打造母語的環境，讓家長跟孩子們能夠在生活中體驗母語的生動與趣味。我跟許多家長跟孩子們都玩得不亦樂乎，幸福感爆棚啊！\n\n我也跟在場家長們分享了一個跟小孩講台語的好處，就是如果孩子在公共場合鬧脾氣、但孩子若是喊著童音童語的台語，例如像米魯在公車上突然大鬧喊「阿爸啊～啊～阿母～烏～烏」，旁邊的民眾常常都大笑出來，似乎對兒童哭鬧的忍耐度都提高了呢！",
+      "ad_creation_time": "2019-12-02T07:37:31+0000",
+      "ad_delivery_start_time": "2019-12-02T07:37:33+0000",
+      "ad_delivery_stop_time": "2019-12-06T07:37:31+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.32149",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.245756",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.255007",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.177747",
+          "age": "65+",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "林昶佐 Freddy Lim",
+      "impressions": {
+        "lower_bound": "30000",
+        "upper_bound": "34999"
+      },
+      "page_id": "365320250345879",
+      "page_name": "林昶佐 Freddy Lim",
+      "region_distribution": [
+        {
+          "percentage": "0.828111",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.171889",
+          "region": "New Taipei City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "4500",
+        "upper_bound": "4999"
+      }
+    }
+  },
+  {
+    "選區": "臺北市第五選舉區",
+    "參選人": "林昶佐",
+    "AD_ID": "524467288139496",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-30",
+    "結束日期": "2019-12-03",
+    "廣告內容": "【林郁方竟有五年立法提案數掛0！】 林郁方，在選區到處亂掛布條，說關心都更，結果一查立法院資料，發現他將近20年任期，總共27次都更法案審議與報告，他竟然出席質詢0次。最近他又開始掛布條說關心托育，結果一查資料，一樣，他將近20年任期，為托育政策發聲質詢的次數也是0次。林郁方跟韓國瑜一樣，出一張嘴，卻不做事。 甚至，他任期中有五年的立法提案數居然是掛0，請問，立法委員，不立法提案，是在領乾薪嗎？林郁方跟韓國瑜一樣，能撈就撈能混就混。 四年來，林昶佐在立法院不斷為托育、教育、青年就業、上班族權益、就醫、長照...等民眾生活週遭的議題發聲，公開質詢、提案立法，並在選區親力親為解決民眾需求。 全力支持為民眾打拚的好立委，林昶佐。",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/77220831_1207009822843580_679718827025498112_n.jpg?_nc_cat=104&_nc_ohc=dYKjC8Sysc0AQlxTxefRrky8Bulh9R-BZqjWI7x3oP3ula6FnvyoyY-lA&_nc_ht=scontent-hkg3-1.xx&oh=3bb21d5d32fc3eba54b489e9358af357&oe=5E72303F",
+    "廣告詳情": {
+      "ad_creative_body": "【林郁方竟有五年立法提案數掛0！】\n\n林郁方，在選區到處亂掛布條，說關心都更，結果一查立法院資料，發現他將近20年任期，總共27次都更法案審議與報告，他竟然出席質詢0次。最近他又開始掛布條說關心托育，結果一查資料，一樣，他將近20年任期，為托育政策發聲質詢的次數也是0次。林郁方跟韓國瑜一樣，出一張嘴，卻不做事。\n\n甚至，他任期中有五年的立法提案數居然是掛0，請問，立法委員，不立法提案，是在領乾薪嗎？林郁方跟韓國瑜一樣，能撈就撈能混就混。\n\n四年來，林昶佐在立法院不斷為托育、教育、青年就業、上班族權益、就醫、長照...等民眾生活週遭的議題發聲，公開質詢、提案立法，並在選區親力親為解決民眾需求。\n\n全力支持為民眾打拚的好立委，林昶佐。",
+      "ad_creation_time": "2019-11-30T13:35:24+0000",
+      "ad_delivery_start_time": "2019-11-30T13:35:25+0000",
+      "ad_delivery_stop_time": "2019-12-03T13:35:24+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.131991",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.09396",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.155854",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.058911",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.258762",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.235645",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.035794",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.0261",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000746",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000746",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001491",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "林昶佐 Freddy Lim",
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "1999"
+      },
+      "page_id": "365320250345879",
+      "page_name": "林昶佐 Freddy Lim",
+      "region_distribution": [
+        {
+          "percentage": "0.032617",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.013343",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.015567",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.031875",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.006672",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.025945",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.005189",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.024463",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.008154",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.18977",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.004448",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.054855",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.131208",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.133432",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.098592",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.102298",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.100815",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.020756",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "199"
+      }
+    }
+  },
+  {
+    "選區": "臺北市第五選舉區",
+    "參選人": "林昶佐",
+    "AD_ID": "3100856243262821",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-03",
+    "結束日期": "2019-12-06",
+    "廣告內容": "【林郁方竟有五年立法提案數掛0！】 林郁方，在選區到處亂掛布條，說關心都更，結果一查立法院資料，發現他將近20年任期，總共27次都更法案審議與報告，他竟然出席質詢0次。最近他又開始掛布條說關心托育，結果一查資料，一樣，他將近20年任期，為托育政策發聲質詢的次數也是0次。林郁方跟韓國瑜一樣，出一張嘴，卻不做事。 甚至，他任期中有五年的立法提案數居然是掛0，請問，立法委員，不立法提案，是在領乾薪嗎？林郁方跟韓國瑜一樣，能撈就撈能混就混。 四年來，林昶佐在立法院不斷為托育、教育、青年就業、上班族權益、就醫、長照...等民眾生活週遭的議題發聲，公開質詢、提案立法，並在選區親力親為解決民眾需求。 全力支持為民眾打拚的好立委，林昶佐。",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/77220831_1207009822843580_679718827025498112_n.jpg?_nc_cat=104&_nc_ohc=YKPL0DrL8uEAQnsIb87IPtl3hd3PGjuimuDoz1nXe7blrW_prEvD1pTlQ&_nc_ht=scontent-hkg3-1.xx&oh=dda974c88aae850aaff782807ff3f064&oe=5E72303F",
+    "廣告詳情": {
+      "ad_creative_body": "【林郁方竟有五年立法提案數掛0！】\n\n林郁方，在選區到處亂掛布條，說關心都更，結果一查立法院資料，發現他將近20年任期，總共27次都更法案審議與報告，他竟然出席質詢0次。最近他又開始掛布條說關心托育，結果一查資料，一樣，他將近20年任期，為托育政策發聲質詢的次數也是0次。林郁方跟韓國瑜一樣，出一張嘴，卻不做事。\n\n甚至，他任期中有五年的立法提案數居然是掛0，請問，立法委員，不立法提案，是在領乾薪嗎？林郁方跟韓國瑜一樣，能撈就撈能混就混。\n\n四年來，林昶佐在立法院不斷為托育、教育、青年就業、上班族權益、就醫、長照...等民眾生活週遭的議題發聲，公開質詢、提案立法，並在選區親力親為解決民眾需求。\n\n全力支持為民眾打拚的好立委，林昶佐。",
+      "ad_creation_time": "2019-12-04T05:01:43+0000",
+      "ad_delivery_start_time": "2019-12-04T05:01:45+0000",
+      "ad_delivery_stop_time": "2019-12-07T05:01:43+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.117405",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.315904",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.167998",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.096103",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.079823",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.049564",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.048717",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.05719",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.039155",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.021484",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00351",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001089",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000545",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000666",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000847",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "林昶佐 Freddy Lim",
+      "impressions": {
+        "lower_bound": "20000",
+        "upper_bound": "24999"
+      },
+      "page_id": "365320250345879",
+      "page_name": "林昶佐 Freddy Lim",
+      "region_distribution": [
+        {
+          "percentage": "0.912321",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.087679",
+          "region": "New Taipei City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      }
+    }
+  },
+  {
+    "選區": "臺北市第五選舉區",
+    "參選人": "林昶佐",
+    "AD_ID": "1004440599936016",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-02",
+    "結束日期": "2019-12-06",
+    "廣告內容": "《 在地政績 RAP版》 主唱：林昶佐 是說，我那天明明還講了一堆，為什麼因為我超時就把我剪掉阿？還有，沒去現場的網友會不會以為現場真的有配樂啊....，我的團隊真的太鬧....",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79830590_1004440639936012_3467672297467281408_n.jpg?_nc_cat=103&_nc_ohc=a0DuSbH-f98AQn3VU81rR2SkCiXMv249wLHof_zx03vc-wt1m9gk4b_ZQ&_nc_ht=scontent-hkg3-1.xx&oh=fccd3e50c58c6c930bf4687673f059c7&oe=5E4234F5",
+    "廣告詳情": {
+      "ad_creative_body": "《 在地政績 RAP版》 主唱：林昶佐\n\n是說，我那天明明還講了一堆，為什麼因為我超時就把我剪掉阿？還有，沒去現場的網友會不會以為現場真的有配樂啊....，我的團隊真的太鬧....",
+      "ad_creation_time": "2019-12-03T00:26:15+0000",
+      "ad_creative_link_title": "《 在地政績 RAP版》 主唱：林昶佐",
+      "ad_delivery_start_time": "2019-12-03T00:26:17+0000",
+      "ad_delivery_stop_time": "2019-12-07T00:26:15+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000298",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.262316",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.099438",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.2489",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.141569",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.047925",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.047018",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.032126",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.030569",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.040601",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.044581",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001638",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000812",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001909",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000298",
           "age": "55-64",
           "gender": "unknown"
         }
@@ -136,17 +586,127 @@
       "page_name": "林昶佐 Freddy Lim",
       "region_distribution": [
         {
-          "percentage": "0.860539",
+          "percentage": "0.900814",
           "region": "Taipei"
         },
         {
-          "percentage": "0.139461",
+          "percentage": "0.099186",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "10000",
-        "upper_bound": "14999"
+        "lower_bound": "9000",
+        "upper_bound": "9999"
+      }
+    }
+  },
+  {
+    "選區": "臺北市第五選舉區",
+    "參選人": "林昶佐",
+    "AD_ID": "1018071315213378",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-04",
+    "結束日期": "2019-12-06",
+    "廣告內容": "【拒投林郁方，下架吳斯懷！】 吳斯懷身為將軍，竟然跑去北京聽共產黨訓話、教解放軍打仗，現在還獲國民黨肯定而列上不分區立委第四名。 多年來，這些媚共的高官將領們被民眾唾棄，而林郁方過去這些國民黨軍系立委長年窩在國防委員會卻假裝都沒看到，根本是在包庇吳斯懷們、縱容吳斯懷們，跟吳斯懷們合作踐踏國家尊嚴與安全。 林昶佐，用行動守護台灣安全，在立法院參與推動國安法與兩岸條例的修法，嚴懲媚共將領。 現在，這些退將如果跑去參加中國黨政軍的慶典、損毀國家尊嚴，最重將剝奪他們的退休俸！ 中正萬華，唯一支持林昶佐！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78194173_1212600568951172_1436788026482098176_n.jpg?_nc_cat=106&_nc_ohc=U6HJvKsyAoIAQk1kfaeh3PVYcpr4NsvME_3136IGdEffsudkhVjud2mdA&_nc_ht=scontent-hkg3-1.xx&oh=ce5c928a5e9ee483b1e6c7108e223d6e&oe=5E845375",
+    "廣告詳情": {
+      "ad_creative_body": "【拒投林郁方，下架吳斯懷！】\n\n吳斯懷身為將軍，竟然跑去北京聽共產黨訓話、教解放軍打仗，現在還獲國民黨肯定而列上不分區立委第四名。\n\n多年來，這些媚共的高官將領們被民眾唾棄，而林郁方過去這些國民黨軍系立委長年窩在國防委員會卻假裝都沒看到，根本是在包庇吳斯懷們、縱容吳斯懷們，跟吳斯懷們合作踐踏國家尊嚴與安全。\n\n林昶佐，用行動守護台灣安全，在立法院參與推動國安法與兩岸條例的修法，嚴懲媚共將領。\n\n現在，這些退將如果跑去參加中國黨政軍的慶典、損毀國家尊嚴，最重將剝奪他們的退休俸！\n\n中正萬華，唯一支持林昶佐！",
+      "ad_creation_time": "2019-12-05T03:57:39+0000",
+      "ad_delivery_start_time": "2019-12-05T03:57:46+0000",
+      "ad_delivery_stop_time": "2019-12-10T03:57:39+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.013958",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.043744",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.046859",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.194791",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.056206",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.081256",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.081007",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.060319",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.133101",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.282901",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.003739",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001246",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000623",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000249",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "林昶佐 Freddy Lim",
+      "impressions": {
+        "lower_bound": "9000",
+        "upper_bound": "9999"
+      },
+      "page_id": "365320250345879",
+      "page_name": "林昶佐 Freddy Lim",
+      "region_distribution": [
+        {
+          "percentage": "0.92919",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.07081",
+          "region": "New Taipei City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2000",
+        "upper_bound": "2499"
       }
     }
   }

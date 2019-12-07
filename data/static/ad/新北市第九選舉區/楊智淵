@@ -2568,61 +2568,61 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.061394",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.217742",
+          "percentage": "0.211319",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.082986",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.373569",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.193548",
+          "percentage": "0.190876",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.041363",
+          "percentage": "0.365397",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.066064",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.046266",
           "age": "13-17",
           "gender": "male"
         },
         {
-          "percentage": "0.029396",
+          "percentage": "0.086507",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.03357",
           "age": "25-34",
           "gender": "male"
         }
       ],
       "funding_entity": "智淵楊",
       "impressions": {
-        "lower_bound": "4000",
-        "upper_bound": "4999"
+        "lower_bound": "5000",
+        "upper_bound": "5999"
       },
       "page_id": "101414597957372",
       "page_name": "楊智淵 反共最前線",
       "region_distribution": [
         {
-          "percentage": "0.646209",
+          "percentage": "0.636132",
           "region": "Taipei"
         },
         {
-          "percentage": "0.353791",
+          "percentage": "0.363868",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "300",
-        "upper_bound": "399"
+        "lower_bound": "400",
+        "upper_bound": "499"
       }
     }
   },
@@ -2732,9 +2732,9 @@
     "AD_ID": "275060883409146",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-17",
-    "結束日期": "2019-11-30",
+    "結束日期": "2019-12-06",
     "廣告內容": "抗議「光復台澎」 一邊一國行動黨候選人怒罵警方︰民進黨養的狗 今天10月25日是台灣光復74週年，一邊一國行動黨、台灣民族黨、台澎黨等多個獨派團體今日至台北中山堂訴求「光復台澎、建國獨立」，因事先準備的水球遭警方扣留，雙方爆發嚴重口角衝突，一邊一國立委候選人、台灣民族黨副主席楊智淵怒罵警方「是民進黨養的狗」，當場被八名警方施暴壓制扣上束帶逮捕。 中正一分局警方今日準備多具攔截網，防堵「抗日戰爭勝利暨台灣光復紀念碑」遭民眾水洗，並當場突擊將水球沒收，警方強調「是依法執行扣留，活動結束會將物品歸還」；但抗議民眾不滿警方逕自沒收水球，怒譙警方「違法濫權」、「是民進黨養的狗」，並與警方爆發推擠衝突，楊智淵被多名警力壓制帶走。 楊智淵強力譴責警方執法程序，首先沒收百姓的東西，傲慢的向群眾嗆聲，他想到最近民進黨的部長才回嗆，過程沒有動手，但警方卻對他施暴，楊智淵表示不排除提告。",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/73504897_106466874118811_4482462985205317632_n.jpg?_nc_cat=108&_nc_ohc=GJQ4u-kE0uQAQnQhs69wI5Rc_vEM4jyTp5Lq8F01ayOnLuirZjxQgNJqA&_nc_ht=scontent-hkg3-1.xx&oh=aa375180143119665f266b7c71a54dce&oe=5E475BB7",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/73504897_106466874118811_4482462985205317632_n.jpg?_nc_cat=108&_nc_ohc=y-DJOhnTwZMAQkzUxjt4IOvQpkEfvqwQjHl0G_GZQIastvtrBriHd8qRA&_nc_ht=scontent-hkg3-1.xx&oh=159298210623878c49f22d3073085f86&oe=5E6EE8B7",
     "廣告詳情": {
       "ad_creative_body": "抗議「光復台澎」 一邊一國行動黨候選人怒罵警方︰民進黨養的狗\n\n今天10月25日是台灣光復74週年，一邊一國行動黨、台灣民族黨、台澎黨等多個獨派團體今日至台北中山堂訴求「光復台澎、建國獨立」，因事先準備的水球遭警方扣留，雙方爆發嚴重口角衝突，一邊一國立委候選人、台灣民族黨副主席楊智淵怒罵警方「是民進黨養的狗」，當場被八名警方施暴壓制扣上束帶逮捕。\n\n中正一分局警方今日準備多具攔截網，防堵「抗日戰爭勝利暨台灣光復紀念碑」遭民眾水洗，並當場突擊將水球沒收，警方強調「是依法執行扣留，活動結束會將物品歸還」；但抗議民眾不滿警方逕自沒收水球，怒譙警方「違法濫權」、「是民進黨養的狗」，並與警方爆發推擠衝突，楊智淵被多名警力壓制帶走。\n\n楊智淵強力譴責警方執法程序，首先沒收百姓的東西，傲慢的向群眾嗆聲，他想到最近民進黨的部長才回嗆，過程沒有動手，但警方卻對他施暴，楊智淵表示不排除提告。",
       "ad_creation_time": "2019-11-17T16:00:50+0000",
@@ -2758,11 +2758,6 @@
           "gender": "male"
         },
         {
-          "percentage": "0.357143",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
           "percentage": "0.214286",
           "age": "35-44",
           "gender": "male"
@@ -2771,6 +2766,11 @@
           "percentage": "0.071429",
           "age": "55-64",
           "gender": "female"
+        },
+        {
+          "percentage": "0.357143",
+          "age": "25-34",
+          "gender": "male"
         }
       ],
       "funding_entity": "智淵楊",
@@ -2809,109 +2809,109 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000548",
+          "percentage": "0.000513",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.034539",
+          "percentage": "0.102669",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.01694",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.01848",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.014374",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.034394",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.018092",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.015351",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.003838",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.001096",
-          "age": "13-17",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.101974",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.123904",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.091557",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.020833",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.037281",
+          "percentage": "0.036961",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.000548",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.036732",
+          "percentage": "0.037988",
           "age": "13-17",
           "gender": "female"
         },
         {
-          "percentage": "0.017544",
+          "percentage": "0.126797",
           "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.021047",
+          "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.122807",
+          "percentage": "0.092402",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000513",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.126797",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.128289",
-          "age": "35-44",
+          "percentage": "0.121663",
+          "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.089912",
-          "age": "13-17",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.149671",
+          "percentage": "0.150924",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.002193",
-          "age": "18-24",
+          "percentage": "0.002053",
+          "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001096",
+          "percentage": "0.003593",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001027",
+          "age": "13-17",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001027",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.002193",
-          "age": "45-54",
+          "percentage": "0.002053",
+          "age": "18-24",
           "gender": "unknown"
+        },
+        {
+          "percentage": "0.087782",
+          "age": "13-17",
+          "gender": "male"
         }
       ],
       "funding_entity": "智淵楊",
@@ -3055,105 +3055,105 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000161",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.039916",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000161",
+          "percentage": "0.000158",
           "age": "13-17",
           "gender": "unknown"
         },
         {
-          "percentage": "0.003219",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000644",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.005311",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.010462",
+          "percentage": "0.010267",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.0169",
+          "percentage": "0.017533",
           "age": "13-17",
           "gender": "male"
         },
         {
-          "percentage": "0.004507",
-          "age": "13-17",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.085305",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.190246",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000644",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.068244",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.018671",
+          "percentage": "0.01848",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.041526",
+          "percentage": "0.067288",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.004739",
+          "age": "13-17",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.041542",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.131498",
+          "percentage": "0.084505",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.039646",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.130785",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.079672",
+          "percentage": "0.000632",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.080082",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.302591",
+          "percentage": "0.302638",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.000322",
+          "percentage": "0.192071",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000158",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.003159",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000316",
           "age": "55-64",
           "gender": "unknown"
+        },
+        {
+          "percentage": "0.000632",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00537",
+          "age": "35-44",
+          "gender": "female"
         }
       ],
       "funding_entity": "智淵楊",
       "impressions": {
-        "lower_bound": "8000",
-        "upper_bound": "8999"
+        "lower_bound": "9000",
+        "upper_bound": "9999"
       },
       "page_id": "101414597957372",
       "page_name": "楊智淵 反共最前線",
@@ -3186,98 +3186,98 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.001076",
-          "age": "35-44",
+          "percentage": "0.001027",
+          "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.032293",
-          "age": "13-17",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.020452",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.071582",
+          "percentage": "0.070365",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.017223",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.018299",
+          "percentage": "0.072419",
           "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.04982",
+          "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.097417",
+          "percentage": "0.027735",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.095018",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.073197",
+          "percentage": "0.019004",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.168978",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.072933",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.17169",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.184069",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.001076",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.099569",
+          "percentage": "0.097072",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.071044",
-          "age": "18-24",
+          "percentage": "0.001027",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.064201",
+          "age": "13-17",
           "gender": "male"
         },
         {
-          "percentage": "0.049516",
-          "age": "65+",
+          "percentage": "0.186441",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.019517",
+          "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.059742",
-          "age": "13-17",
-          "gender": "male"
+          "percentage": "0.016436",
+          "age": "25-34",
+          "gender": "female"
         },
         {
-          "percentage": "0.001076",
+          "percentage": "0.001027",
           "age": "13-17",
           "gender": "unknown"
         },
         {
-          "percentage": "0.002153",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.001615",
+          "percentage": "0.001541",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.026911",
-          "age": "45-54",
+          "percentage": "0.002054",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.033385",
+          "age": "13-17",
           "gender": "female"
         }
       ],
@@ -3295,8 +3295,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
+        "lower_bound": "300",
+        "upper_bound": "399"
       }
     }
   },
@@ -3317,97 +3317,97 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000249",
+          "percentage": "0.000239",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.025673",
+          "percentage": "0.025316",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.010967",
+          "percentage": "0.010748",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.005234",
+          "percentage": "0.005016",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.001246",
+          "percentage": "0.001194",
           "age": "13-17",
           "gender": "unknown"
         },
         {
-          "percentage": "0.004985",
+          "percentage": "0.004777",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.003739",
+          "percentage": "0.00406",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.00349",
+          "percentage": "0.003821",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.02343",
+          "percentage": "0.023645",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.024676",
+          "percentage": "0.025555",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.001246",
+          "percentage": "0.001194",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.074526",
+          "percentage": "0.078338",
           "age": "13-17",
           "gender": "female"
         },
         {
-          "percentage": "0.092971",
+          "percentage": "0.090279",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.043619",
+          "percentage": "0.04299",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.207378",
+          "percentage": "0.210891",
           "age": "13-17",
           "gender": "male"
         },
         {
-          "percentage": "0.189182",
+          "percentage": "0.18653",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.285394",
+          "percentage": "0.283497",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.000997",
+          "percentage": "0.000955",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000997",
+          "percentage": "0.000955",
           "age": "35-44",
           "gender": "unknown"
         }
@@ -3426,8 +3426,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
+        "lower_bound": "300",
+        "upper_bound": "399"
       }
     }
   },
@@ -3451,87 +3451,87 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000294",
-          "age": "55-64",
+          "percentage": "0.000279",
+          "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00382",
+          "percentage": "0.004472",
           "age": "13-17",
           "gender": "male"
         },
         {
-          "percentage": "0.014987",
+          "percentage": "0.015651",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.004114",
+          "percentage": "0.004472",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.002939",
+          "percentage": "0.002795",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.081105",
+          "percentage": "0.079374",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.131942",
+          "percentage": "0.133874",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.01146",
+          "percentage": "0.012297",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.332942",
+          "percentage": "0.330911",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.000588",
+          "percentage": "0.000279",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.061207",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.120179",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.194522",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.02739",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000838",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.056715",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.123421",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.196297",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.02821",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.009991",
+          "percentage": "0.010341",
           "age": "13-17",
           "gender": "female"
         },
         {
-          "percentage": "0.000294",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000882",
+          "percentage": "0.001118",
           "age": "25-34",
           "gender": "female"
         }
@@ -3884,9 +3884,9 @@
     "AD_ID": "2194001244234106",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-18",
-    "結束日期": "2019-11-30",
+    "結束日期": "2019-12-06",
     "廣告內容": "",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/73364294_113397150092450_3546374055588265984_n.jpg?_nc_cat=103&_nc_ohc=jVKspHUYu_MAQlbG9BA3qqQ8cXQqPyvA9db-ESQuE7kd2JsRV6V7i0GiQ&_nc_ht=scontent-hkg3-1.xx&oh=5e060996e50c7c3a72f79186abce4dc6&oe=5E4106EE",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/73364294_113397150092450_3546374055588265984_n.jpg?_nc_cat=103&_nc_ohc=zwqYBNFtb-kAQmKQF-ArkYjuikSfcEKNoe3U-G75grMLKJP93qT-jKTYg&_nc_ht=scontent-hkg3-1.xx&oh=67ae570f385bc1729085a10b802ca358&oe=5E4106EE",
     "廣告詳情": {
       "ad_creation_time": "2019-11-19T02:00:49+0000",
       "ad_delivery_start_time": "2019-11-19T02:00:49+0000",
@@ -3894,37 +3894,37 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.130234",
+          "percentage": "0.131443",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.164012",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.083612",
+          "percentage": "0.08431",
           "age": "13-17",
           "gender": "male"
         },
         {
-          "percentage": "0.116106",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.118289",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.182635",
+          "percentage": "0.182231",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.205112",
+          "percentage": "0.163705",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.114934",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.118463",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.204915",
           "age": "55-64",
           "gender": "male"
         }
@@ -3938,11 +3938,11 @@
       "page_name": "楊智淵 反共最前線",
       "region_distribution": [
         {
-          "percentage": "0.589591",
+          "percentage": "0.587961",
           "region": "Taipei"
         },
         {
-          "percentage": "0.410409",
+          "percentage": "0.412039",
           "region": "New Taipei City"
         }
       ],
@@ -3958,9 +3958,9 @@
     "AD_ID": "2275826952708564",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-18",
-    "結束日期": "2019-11-30",
+    "結束日期": "2019-12-06",
     "廣告內容": "媽祖託夢給郭台銘沒什麼了不起。 吼哩幾雷勾卡嗚咧！ 昨天人類救星、世界偉人、自由燈塔、民族長城，蔣公託夢給我要我2020年跟台灣人一起消滅國民黨。 他說，娘西皮，國民黨不分區通通拖去槍斃！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/74607783_126204982145000_1986233318529564672_n.jpg?_nc_cat=110&_nc_ohc=lsOxNHJKfKQAQmKZWbiNaTJ35mJX_8Pp8XR70wbDNqVZ1K7ixgOU0-vJg&_nc_ht=scontent-hkg3-1.xx&oh=27b77a9a5694667f14b63240989e9a28&oe=5E7E6485",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/74607783_126204982145000_1986233318529564672_n.jpg?_nc_cat=110&_nc_ohc=3zl7uw04DbkAQkFcuwRH46Uf71sj8U4R8gYVxP4GGhDw2fFn4poiXeFMg&_nc_ht=scontent-hkg3-1.xx&oh=e4e302bf501b5ae8dd8d5079e814c44b&oe=5E7E6485",
     "廣告詳情": {
       "ad_creative_body": "媽祖託夢給郭台銘沒什麼了不起。\n吼哩幾雷勾卡嗚咧！\n昨天人類救星、世界偉人、自由燈塔、民族長城，蔣公託夢給我要我2020年跟台灣人一起消滅國民黨。\n他說，娘西皮，國民黨不分區通通拖去槍斃！",
       "ad_creation_time": "2019-11-18T13:22:36+0000",
@@ -3969,79 +3969,79 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.184005",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.069152",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.20926",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.126278",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.121467",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.024654",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.051112",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.014432",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.117258",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.028863",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.019242",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.001203",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.001203",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
           "percentage": "0.000601",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.031269",
+          "percentage": "0.126202",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.03125",
           "age": "65+",
           "gender": "male"
+        },
+        {
+          "percentage": "0.121394",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.183894",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.024639",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.117188",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.028846",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.051082",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.069111",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.019231",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001202",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001202",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.014423",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.209736",
+          "age": "18-24",
+          "gender": "female"
         }
       ],
       "funding_entity": "智淵楊",
@@ -4069,9 +4069,9 @@
     "AD_ID": "518464725401686",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-18",
-    "結束日期": "2019-11-30",
+    "結束日期": "2019-12-06",
     "廣告內容": "中國反共異議人士張文，14日前往專勤隊報到後晚間失蹤，被專勤隊強制收容，前往陸委會、移民署關切。",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/75388133_126083845490447_4238182360853512192_n.jpg?_nc_cat=109&_nc_ohc=oLalDLAm7SsAQm6MXg2IK5XsyhwAdSY3IQm-wLWGQpSmwxr3KPL33SjcA&_nc_ht=scontent-hkg3-1.xx&oh=113f0b872cf96e0bded7fed8dca76cae&oe=5E4A3A39",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/75388133_126083845490447_4238182360853512192_n.jpg?_nc_cat=109&_nc_ohc=Mb1L2AYKD48AQlxc-E13HhseKE2FKxTYTvmsw81MV8hTd8JSN3HDzbgtA&_nc_ht=scontent-hkg3-1.xx&oh=44979e8c87059a217dabf90f83bbff2b&oe=5E71C739",
     "廣告詳情": {
       "ad_creative_body": "中國反共異議人士張文，14日前往專勤隊報到後晚間失蹤，被專勤隊強制收容，前往陸委會、移民署關切。",
       "ad_creation_time": "2019-11-18T08:49:25+0000",
@@ -4165,9 +4165,9 @@
     "AD_ID": "745719625901230",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-17",
-    "結束日期": "2019-11-30",
+    "結束日期": "2019-12-06",
     "廣告內容": "可悲！可悲！真可悲！！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/75266228_125937155505116_4291433551527673856_n.jpg?_nc_cat=108&_nc_ohc=RlAGPYMKBJAAQmkJm6ckuLh2Gx_IAelG27CjJEbfARnMUdG3HDY0gAGrA&_nc_ht=scontent-hkg3-1.xx&oh=d6f4fc7e4f51d686dc928086ebe2f8af&oe=5E73F631",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/75266228_125937155505116_4291433551527673856_n.jpg?_nc_cat=108&_nc_ohc=ChQz3MAMAFoAQnQPs5to-AcjgXcT9yB15OjL8IoLbY0SCQI29GiywaTng&_nc_ht=scontent-hkg3-1.xx&oh=618ae6115b8289a31377e10706a44350&oe=5E73F631",
     "廣告詳情": {
       "ad_creative_body": "可悲！可悲！真可悲！！",
       "ad_creation_time": "2019-11-18T00:20:28+0000",
@@ -4276,9 +4276,9 @@
     "AD_ID": "2172333056200709",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-17",
-    "結束日期": "2019-11-30",
+    "結束日期": "2019-12-06",
     "廣告內容": "就戰鬥位置。",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/77333712_125924912173007_2646226254117732352_n.jpg?_nc_cat=101&_nc_ohc=vcUqq2sOnwMAQmEG-dAbYlixDvQKCFP-btUibS7nYB3L4icCY2jPxR2Nw&_nc_ht=scontent-hkg3-1.xx&oh=52915e608c9df8f23aa04a5a947185e8&oe=5E75C2D5",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/77333712_125924912173007_2646226254117732352_n.jpg?_nc_cat=101&_nc_ohc=RA9jas3ZG1YAQnJe6LqDa-XJ52wEcjFQE79HZeZRbY_LRDGvWPSItBR-Q&_nc_ht=scontent-hkg3-1.xx&oh=7cbb28c67453843608f60e2a37f8073d&oe=5E75C2D5",
     "廣告詳情": {
       "ad_creative_body": "就戰鬥位置。",
       "ad_creation_time": "2019-11-17T23:24:41+0000",
@@ -4287,13 +4287,18 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.75",
+          "percentage": "0.2",
           "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.2",
+          "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.25",
-          "age": "25-34",
+          "percentage": "0.6",
+          "age": "18-24",
           "gender": "male"
         }
       ],
@@ -4322,9 +4327,9 @@
     "AD_ID": "544292832803079",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-17",
-    "結束日期": "2019-11-30",
+    "結束日期": "2019-12-06",
     "廣告內容": "每天一直行動的黨 一邊一國行動黨",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76204846_107720413993457_3817277245177724928_n.jpg?_nc_cat=106&_nc_ohc=quxMg2JsOjkAQnRCUOSzmCJFqLpmGJf2katg65s2kTI0Uyuu1GcDpDH5g&_nc_ht=scontent-hkg3-1.xx&oh=85265f3021e44dedb7db98cf7be3821a&oe=5E4448CD",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76204846_107720413993457_3817277245177724928_n.jpg?_nc_cat=106&_nc_ohc=U9X21Ehii_cAQnWwU-x8TN1k7p9wNcPvnhKvx9XGwI8jMRmziC4WokrqA&_nc_ht=scontent-hkg3-1.xx&oh=0c886c1ee8ff617efc642d67fdc86653&oe=5E6BD5CD",
     "廣告詳情": {
       "ad_creative_body": "每天一直行動的黨\n一邊一國行動黨",
       "ad_creation_time": "2019-11-17T16:00:18+0000",
@@ -4696,9 +4701,9 @@
     "AD_ID": "439115536798618",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-19",
-    "結束日期": "2019-11-30",
+    "結束日期": "2019-12-06",
     "廣告內容": "我是新北永和區立委候選人 楊智淵    永和是世界第三大密集的城市，卻密集到在鋼鐵叢林中難得看見天空，永和人的呼吸很壓抑，空間與快樂，是我們迫切需要改變的。",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78340726_430068141014000_4423892400225648640_n.jpg?_nc_cat=111&_nc_ohc=EeZhD80oX5oAQlHw6pgQF6C6jY6kOIzlmEYjyFy1Oq7gbnwMJvWupaXeA&_nc_ht=scontent-hkg3-1.xx&oh=f2629ca8ab676bbb4d0ad26c7b0b8502&oe=5E8758DD",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78340726_430068141014000_4423892400225648640_n.jpg?_nc_cat=111&_nc_ohc=p5gZ_XwdF4UAQmW42B0amVrL-PRjrbKxkTLDvKRG99MmBFYx10vU9aafg&_nc_ht=scontent-hkg3-1.xx&oh=fbec4427d4bc88026e423832d49b1dc7&oe=5E8758DD",
     "廣告詳情": {
       "ad_creative_body": "我是新北永和區立委候選人 楊智淵    永和是世界第三大密集的城市，卻密集到在鋼鐵叢林中難得看見天空，永和人的呼吸很壓抑，空間與快樂，是我們迫切需要改變的。",
       "ad_creation_time": "2019-11-19T16:51:18+0000",
@@ -4707,38 +4712,38 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.15017",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.151871",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.182993",
+          "percentage": "0.183013",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.189456",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.09949",
+          "percentage": "0.098921",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.053571",
-          "age": "13-17",
+          "percentage": "0.189417",
+          "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.172449",
+          "percentage": "0.150826",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.172396",
           "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.151331",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.054095",
+          "age": "13-17",
           "gender": "male"
         }
       ],
@@ -4751,11 +4756,11 @@
       "page_name": "楊智淵 反共最前線",
       "region_distribution": [
         {
-          "percentage": "0.564446",
+          "percentage": "0.564915",
           "region": "Taipei"
         },
         {
-          "percentage": "0.435554",
+          "percentage": "0.435085",
           "region": "New Taipei City"
         }
       ],
@@ -4771,9 +4776,9 @@
     "AD_ID": "1439418722863504",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-19",
-    "結束日期": "2019-11-30",
+    "結束日期": "2019-12-01",
     "廣告內容": "統促黨這個主持人真是演好了統促黨邪惡又猥褻的反派角色。",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/77913098_1439418756196834_8503866999326113792_n.jpg?_nc_cat=102&_nc_ohc=gr1C6GpFEzsAQkHp0ikfHhNNece3rYHNkyyhhw9pJydOKyB3OVnv62-dQ&_nc_ht=scontent-hkg3-1.xx&oh=49ea2db60e8a6dfce98b5d8e0e2d86ce&oe=5E814B0A",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/77913098_1439418756196834_8503866999326113792_n.jpg?_nc_cat=102&_nc_ohc=jaXAOtJCQoEAQnrb9tyhvIBSL6ch4zvBDpXdearklHYn6HeMAAfF9YBZw&_nc_ht=scontent-hkg3-1.xx&oh=22efd210b9e2555ac6d40686e931e6b2&oe=5E814B0A",
     "廣告詳情": {
       "ad_creative_body": "統促黨這個主持人真是演好了統促黨邪惡又猥褻的反派角色。",
       "ad_creation_time": "2019-11-19T16:46:07+0000",
@@ -4842,9 +4847,9 @@
     "AD_ID": "1306170479562255",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-18",
-    "結束日期": "2019-11-30",
+    "結束日期": "2019-12-06",
     "廣告內容": "向香港學生及香港人民至上最高敬意，你們正在幫渾渾噩噩的台灣人們擋著第一波的衝擊，然而，也許台灣人還不清楚明白事情的嚴重性。 【理大留守學生致全港市民書】 退此一步，即無死所。 黑警攻理大第8天，我們被圍困校內，外界手足為我們萬分焦急，然而我等心境平靜坦然。 我們用血淚守護校園免受魔警侵犯，何罪之有？而本應保護學生的校長﹑校董，卻引狼入室，親手報警要借公權力拘捕自己的學生。 我們學生將留守到最後一刻，睜眼見證校方身為師長，如何把學子推進深淵。不自由毋寧死，同學不怕被捕與死亡，因為歷史將判我們無罪。 ２０１９／１１／１８ 理大留守學生絕筆",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/77401989_126162215482610_9121088000585891840_n.jpg?_nc_cat=105&_nc_ohc=wm0AEsR4EjsAQmj3igCPegzYBaIFE6Oz22IHhRDwLEIG5OPe0plZ-06EQ&_nc_ht=scontent-hkg3-1.xx&oh=5cbbf7f42f1316ceb8618c07d22accbd&oe=5E49843E",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/77401989_126162215482610_9121088000585891840_n.jpg?_nc_cat=105&_nc_ohc=gnztt0pDFTkAQnNxbLQmpg8k7QuoEI0PBTarioaq9sqaSu7PhyuJ3zX_g&_nc_ht=scontent-hkg3-1.xx&oh=fc2aa2939ed16139cd457917e95ee1c7&oe=5E71113E",
     "廣告詳情": {
       "ad_creative_body": "向香港學生及香港人民至上最高敬意，你們正在幫渾渾噩噩的台灣人們擋著第一波的衝擊，然而，也許台灣人還不清楚明白事情的嚴重性。\n\n【理大留守學生致全港市民書】\n退此一步，即無死所。\n黑警攻理大第8天，我們被圍困校內，外界手足為我們萬分焦急，然而我等心境平靜坦然。\n\n我們用血淚守護校園免受魔警侵犯，何罪之有？而本應保護學生的校長﹑校董，卻引狼入室，親手報警要借公權力拘捕自己的學生。\n\n我們學生將留守到最後一刻，睜眼見證校方身為師長，如何把學子推進深淵。不自由毋寧死，同學不怕被捕與死亡，因為歷史將判我們無罪。\n\n２０１９／１１／１８\n理大留守學生絕筆",
       "ad_creation_time": "2019-11-18T11:49:49+0000",
@@ -4940,7 +4945,7 @@
     "開始日期": "2019-11-22",
     "結束日期": "2019-11-27",
     "廣告內容": "一邊一國行動黨永和區立委提名人楊智淵今天也到台北地檢署告發前新聞局祕書郭冠英違反國安法，他並從統促黨、國民黨、新黨罵到民進黨，他表示，民進黨上屆就說「完全執政、完全負責」，這屆還是這樣說，「有什麼小路用呢」？他呼籲政黨票投小黨守護台灣。 楊智淵指出，讓小黨進入國會，不要讓民進黨繼續傲慢下去，小黨絕對可以監督政府，不是像賴清德說的這樣。",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/73419913_789023101559150_5487063811493986304_n.jpg?_nc_cat=102&_nc_ohc=PFuDVCOa0XoAQkRJxiCvVXyleE_ZmXneM9HcA1yMAIZQhTrjYTpstg4Dg&_nc_ht=scontent-hkg3-1.xx&oh=c046c83e24fd54b8c6845d008184ff99&oe=5E788D88",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/73419913_789023101559150_5487063811493986304_n.jpg?_nc_cat=102&_nc_ohc=a1gu755gqnMAQnI1IaCHs4A-X3SBFHZjWw--snMlfmhKyjHYJYihZVOpQ&_nc_ht=scontent-hkg3-1.xx&oh=1104a69078f4e356ddd33eded1bf800f&oe=5E788D88",
     "廣告詳情": {
       "ad_creative_body": "一邊一國行動黨永和區立委提名人楊智淵今天也到台北地檢署告發前新聞局祕書郭冠英違反國安法，他並從統促黨、國民黨、新黨罵到民進黨，他表示，民進黨上屆就說「完全執政、完全負責」，這屆還是這樣說，「有什麼小路用呢」？他呼籲政黨票投小黨守護台灣。\n楊智淵指出，讓小黨進入國會，不要讓民進黨繼續傲慢下去，小黨絕對可以監督政府，不是像賴清德說的這樣。",
       "ad_creation_time": "2019-11-22T15:30:05+0000",
@@ -5016,9 +5021,9 @@
     "AD_ID": "449154589119842",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-21",
-    "結束日期": "2019-11-30",
+    "結束日期": "2019-12-06",
     "廣告內容": "一邊一國行動黨永和區立委候選人楊智淵認為，郭冠英自稱代表中共監督台灣，明顯為中共工作，卻領中華民國的退休俸，顯然是叛國行為，涉及外患罪；呼籲台灣人民不要讓紅統利用台灣民主機制滲透台灣，2020年選舉票絕對不能投給傾中政黨。 楊說，郭冠英直接說自己代表中共，公開承認是共諜，警方應該馬上將他拘捕，賣台者通通該被抓起來；民進黨上屆、這屆都說「完全執政，完全負責」，但是五星共產黨卻越加猖狂，景氣很差，完全執政有什麼「小路用」（指「有什麼用」）？呼籲大家投給小黨，讓小黨守護民主價值，進入國會絕對可以監督政府、打倒傾中政黨。",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78356623_449154629119838_2381615238861553664_n.jpg?_nc_cat=105&_nc_ohc=E-GWJlABOX0AQkIryNa2bVnRHGv0dGgstU5Ri1aCXU0EuqnSoz-lYd5SA&_nc_ht=scontent-hkg3-1.xx&oh=cf94dd60856832b4fbf1df07365d954d&oe=5E829ACE",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78356623_449154629119838_2381615238861553664_n.jpg?_nc_cat=105&_nc_ohc=tDF94oCFZIAAQnO6KuxW-3DViasDGZayXCRtr7f0FgSwibHs3iuQ3zhUA&_nc_ht=scontent-hkg3-1.xx&oh=55888d2a4e348612741f256b707d4629&oe=5E829ACE",
     "廣告詳情": {
       "ad_creative_body": "一邊一國行動黨永和區立委候選人楊智淵認為，郭冠英自稱代表中共監督台灣，明顯為中共工作，卻領中華民國的退休俸，顯然是叛國行為，涉及外患罪；呼籲台灣人民不要讓紅統利用台灣民主機制滲透台灣，2020年選舉票絕對不能投給傾中政黨。\n\n楊說，郭冠英直接說自己代表中共，公開承認是共諜，警方應該馬上將他拘捕，賣台者通通該被抓起來；民進黨上屆、這屆都說「完全執政，完全負責」，但是五星共產黨卻越加猖狂，景氣很差，完全執政有什麼「小路用」（指「有什麼用」）？呼籲大家投給小黨，讓小黨守護民主價值，進入國會絕對可以監督政府、打倒傾中政黨。",
       "ad_creation_time": "2019-11-22T03:42:49+0000",
@@ -5030,83 +5035,83 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000322",
+          "percentage": "0.000301",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.534344",
-          "age": "13-17",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.113834",
-          "age": "13-17",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.113834",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.024508",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.026766",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.011932",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.032893",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.035795",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.012899",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.011932",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.001612",
+          "percentage": "0.001504",
           "age": "13-17",
           "gender": "unknown"
         },
         {
-          "percentage": "0.005805",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.055144",
+          "percentage": "0.056241",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.014834",
+          "percentage": "0.524511",
+          "age": "13-17",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.035789",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.006015",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.115188",
+          "age": "13-17",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.030075",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.013233",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.114286",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.023759",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.034286",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.014737",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.003547",
+          "percentage": "0.012632",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.004211",
           "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.013233",
+          "age": "25-34",
           "gender": "female"
         }
       ],
@@ -5135,9 +5140,9 @@
     "AD_ID": "2575526499189586",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-21",
-    "結束日期": "2019-11-30",
+    "結束日期": "2019-12-06",
     "廣告內容": "記者蔡文鈴／台北報導 新黨不分區立委候選人邱毅21日赴中選會登記參選，未料，自稱「高級外省人」、前新聞局駐外官員郭冠英也現身中選會，甚至還說「我是代表中國共產黨，來這邊監督台灣省的選舉。」對此，綠黨、一邊一國行動黨，不約而同於22日早上赴台北地檢署告發郭冠英外患罪、共諜罪；一邊一國行動黨永和區立法委員候選人楊智淵更揚言「要丟他鞋」。 邱毅與其他新黨不分區立委候選人前往中選會登記時，郭冠英被發現人坐在中選會大廳，面對媒體詢問「怎麼會跟他們一起來？」郭冠英表示，「我是代表中國共產黨，來這邊監督台灣省的選舉。」媒體繼續追問「你跟新黨一起來？｣郭冠英趕緊說「沒有、沒有，我是共產黨，代表共產黨。你們問我代表什麼黨？」 綠黨指出，郭冠英的發言清楚表明自己為中國共產黨工作。此舉涉公然違反《國家安全法》，將委請本黨不分區立委參選人李菁琪律師、張竹芩博士，前往北檢具狀告發。 綠黨表示，依照《國家安全法》規定，為大陸地區發展共諜組織者，刑度最重可判7年以上有期徒刑，得併科5000萬至1億元罰金。退休軍公教人員若被判定為共諜，剝奪其全部終身月退俸，已領者從違法之日起追繳之。 綠黨強調，郭冠英自稱為中共工作，顯然已經違反《國家安全法》為中共發展組織相關規定，綠黨將主動檢舉，並要求相關單位進行調查，未來若查證屬實，郭冠英將被剝奪終身俸、並追繳已領總額。 一邊一國行動黨永和區立法委員候選人楊智淵表示，郭冠英自稱代表中共監督台灣，明顯為中共工作，卻領中華民國的退休俸，顯然是叛國行為，涉及外患罪。 楊智淵嚴重譴責國民黨、新黨、統促黨明裡暗裡的通敵賣國，呼籲台灣人民不要讓紅統利用台灣民主機制滲透台灣，票絕對不能投給賣台傾中政黨。",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78267030_2575526602522909_373189463536304128_n.jpg?_nc_cat=108&_nc_ohc=Q-xP-TmnrL4AQkno9E6s1DLnrou4O8-oql_4NJKfxR3GzkW5QJEMI4Mew&_nc_ht=scontent-hkg3-1.xx&oh=6ba096bcd0f5bdcc28dcdbd0bca0147e&oe=5E8A8196",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78267030_2575526602522909_373189463536304128_n.jpg?_nc_cat=108&_nc_ohc=CHnQcQo1xbwAQl3zeABwIvK08_37Ca87TMt-2FPDMBYL8LSB88Tozs4ig&_nc_ht=scontent-hkg3-1.xx&oh=e11603cbcb2f00546ac5fc30283ee080&oe=5E8A8196",
     "廣告詳情": {
       "ad_creative_body": "記者蔡文鈴／台北報導\n\n新黨不分區立委候選人邱毅21日赴中選會登記參選，未料，自稱「高級外省人」、前新聞局駐外官員郭冠英也現身中選會，甚至還說「我是代表中國共產黨，來這邊監督台灣省的選舉。」對此，綠黨、一邊一國行動黨，不約而同於22日早上赴台北地檢署告發郭冠英外患罪、共諜罪；一邊一國行動黨永和區立法委員候選人楊智淵更揚言「要丟他鞋」。\n\n邱毅與其他新黨不分區立委候選人前往中選會登記時，郭冠英被發現人坐在中選會大廳，面對媒體詢問「怎麼會跟他們一起來？」郭冠英表示，「我是代表中國共產黨，來這邊監督台灣省的選舉。」媒體繼續追問「你跟新黨一起來？｣郭冠英趕緊說「沒有、沒有，我是共產黨，代表共產黨。你們問我代表什麼黨？」\n\n綠黨指出，郭冠英的發言清楚表明自己為中國共產黨工作。此舉涉公然違反《國家安全法》，將委請本黨不分區立委參選人李菁琪律師、張竹芩博士，前往北檢具狀告發。\n\n綠黨表示，依照《國家安全法》規定，為大陸地區發展共諜組織者，刑度最重可判7年以上有期徒刑，得併科5000萬至1億元罰金。退休軍公教人員若被判定為共諜，剝奪其全部終身月退俸，已領者從違法之日起追繳之。\n\n綠黨強調，郭冠英自稱為中共工作，顯然已經違反《國家安全法》為中共發展組織相關規定，綠黨將主動檢舉，並要求相關單位進行調查，未來若查證屬實，郭冠英將被剝奪終身俸、並追繳已領總額。\n\n一邊一國行動黨永和區立法委員候選人楊智淵表示，郭冠英自稱代表中共監督台灣，明顯為中共工作，卻領中華民國的退休俸，顯然是叛國行為，涉及外患罪。\n\n楊智淵嚴重譴責國民黨、新黨、統促黨明裡暗裡的通敵賣國，呼籲台灣人民不要讓紅統利用台灣民主機制滲透台灣，票絕對不能投給賣台傾中政黨。",
       "ad_creation_time": "2019-11-22T02:13:38+0000",
@@ -5149,38 +5154,38 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.115986",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.193197",
+          "percentage": "0.19745",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.105442",
-          "age": "13-17",
+          "percentage": "0.118012",
+          "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.159864",
-          "age": "35-44",
+          "percentage": "0.159529",
+          "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.121088",
+          "percentage": "0.118012",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.141156",
+          "percentage": "0.14155",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.163265",
-          "age": "45-54",
+          "percentage": "0.154953",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.110494",
+          "age": "13-17",
           "gender": "male"
         }
       ],
@@ -5193,17 +5198,17 @@
       "page_name": "楊智淵 反共最前線",
       "region_distribution": [
         {
-          "percentage": "0.672994",
+          "percentage": "0.667201",
           "region": "Taipei"
         },
         {
-          "percentage": "0.327006",
+          "percentage": "0.332799",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "300",
-        "upper_bound": "399"
+        "lower_bound": "400",
+        "upper_bound": "499"
       }
     }
   },
@@ -5215,7 +5220,7 @@
     "開始日期": "2019-11-21",
     "結束日期": "2019-11-24",
     "廣告內容": "公告： 徵求法律專才的意見，我能否代表台灣人民對其提告，另外有沒有人能掌握他的行蹤？我要丟他鞋。",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78279353_546838942782180_6351379585577254912_n.jpg?_nc_cat=101&_nc_ohc=sDaEn9iaB6YAQlhPgjGrVFVVvTNMXKWOmjFVBC5Cujric4VGjjqEno3_A&_nc_ht=scontent-hkg3-1.xx&oh=687ad20aa17a733601ad36ea66dec072&oe=5E479D21",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78279353_546838942782180_6351379585577254912_n.jpg?_nc_cat=101&_nc_ohc=GFXah5WbGMgAQnOjcOZuDJHt-fQtO1FtnWFmb2db7NpHz5Pz6HcMpFd5w&_nc_ht=scontent-hkg3-1.xx&oh=cf5eb7a3068954ecf95182d9e940d5ae&oe=5E6F2A21",
     "廣告詳情": {
       "ad_creative_body": "公告：\n徵求法律專才的意見，我能否代表台灣人民對其提告，另外有沒有人能掌握他的行蹤？我要丟他鞋。",
       "ad_creation_time": "2019-11-21T11:21:23+0000",
@@ -5354,7 +5359,7 @@
     "開始日期": "2019-11-21",
     "結束日期": "2019-11-27",
     "廣告內容": "公開賣台了！！公然中共代理人！！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78505894_2375425329234867_5292668669644505088_n.jpg?_nc_cat=105&_nc_ohc=ZI-QAOOVlHYAQluaJIOl16oUyBNqh4BLHtat-lKW73AgkBnPwcbrRSMuA&_nc_ht=scontent-hkg3-1.xx&oh=c1b8e24617471e7f8cd8194fbf74422e&oe=5E82FE7B",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78505894_2375425329234867_5292668669644505088_n.jpg?_nc_cat=105&_nc_ohc=5uzdHCBx6H4AQnrgEONnIwGagrGMO2rVlU0Pm_nwRGootePufwGpf4y7A&_nc_ht=scontent-hkg3-1.xx&oh=bd85649df8b01c659ab17295ac32c18a&oe=5E82FE7B",
     "廣告詳情": {
       "ad_creative_body": "公開賣台了！！公然中共代理人！！",
       "ad_creation_time": "2019-11-21T10:16:11+0000",
@@ -5432,7 +5437,7 @@
     "開始日期": "2019-11-20",
     "結束日期": "2019-11-30",
     "廣告內容": "心不在人民，只為奪得權利欲望政客，謊言遊戲欺騙人民，如此台灣能走上光明大道之路嗎？ 政客似乎輕忽人民智慧，以一貫欺騙手法愚弄，既然官方證實境外匯回資金是0，豈不是假新聞嗎？",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/70163263_127392585359573_8599347077253693440_n.jpg?_nc_cat=111&_nc_ohc=3aaBUAfJcZkAQmcJuk-JSM603xnjNWe8_e4hzBQgEUSyFxbT59pqgrToQ&_nc_ht=scontent-hkg3-1.xx&oh=450b17879b4b921d5b2f5595b3217ce7&oe=5E48990A",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/70163263_127392585359573_8599347077253693440_n.jpg?_nc_cat=111&_nc_ohc=5WDUIUfNAwUAQl8396-5AAhvadf5hhTN_fzIGD3bNA8gByyIn-WfJjwiA&_nc_ht=scontent-hkg3-1.xx&oh=21c05458332abf024330d56119ac16b7&oe=5E70260A",
     "廣告詳情": {
       "ad_creative_body": "心不在人民，只為奪得權利欲望政客，謊言遊戲欺騙人民，如此台灣能走上光明大道之路嗎？\n政客似乎輕忽人民智慧，以一貫欺騙手法愚弄，既然官方證實境外匯回資金是0，豈不是假新聞嗎？",
       "ad_creation_time": "2019-11-21T01:56:37+0000",
@@ -5548,7 +5553,7 @@
     "開始日期": "2019-11-23",
     "結束日期": "2019-11-29",
     "廣告內容": "我想要發動一次記者會來為小黨們爭取政黨票，參選爆炸不一定是壞事，因為時勢就是要讓小黨出來。台灣的總統我們已經無人可選，一個是賣台投共、中共介選、只會發大財的候選人。一個是私煙走私可以硬凹是超買、七千億匯回結果國外匯回趨近於沒有的政黨候選人。另外一個是跟玩世足運彩四年就一次的候選人，民進黨號稱完全執政完全負責，卻在議會絕對多數的情況下連國家基本安全的中共代理人法都無法通過，是以無論是哪一位明年我們都沒有值得期待也看不到希望，唯一還可以彌補的，就是選民手上寶貴的政黨票，呼籲人民票投有理念的小黨，讓小黨進入國會，監督未來必然混亂黑暗的台灣政府。",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78558064_128534255245406_1662053666678374400_n.jpg?_nc_cat=100&_nc_ohc=gwpLmTY-O0gAQnRCpKbUn8Zqcpp5uDC-Uva38yXF6uOj6Jy3hAs3-Dcdw&_nc_ht=scontent-hkg3-1.xx&oh=659ed332eda9788fcfbbe92440891caf&oe=5E739C87",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78558064_128534255245406_1662053666678374400_n.jpg?_nc_cat=100&_nc_ohc=FHZaZKJVYL4AQnFHAEHgSvFDtu4ixbvOQybF8Ctdk1q0PvrcPKUE9fzNQ&_nc_ht=scontent-hkg3-1.xx&oh=9e3e0cf21f118338dd9ac68e8cb6e280&oe=5E739C87",
     "廣告詳情": {
       "ad_creative_body": "我想要發動一次記者會來為小黨們爭取政黨票，參選爆炸不一定是壞事，因為時勢就是要讓小黨出來。台灣的總統我們已經無人可選，一個是賣台投共、中共介選、只會發大財的候選人。一個是私煙走私可以硬凹是超買、七千億匯回結果國外匯回趨近於沒有的政黨候選人。另外一個是跟玩世足運彩四年就一次的候選人，民進黨號稱完全執政完全負責，卻在議會絕對多數的情況下連國家基本安全的中共代理人法都無法通過，是以無論是哪一位明年我們都沒有值得期待也看不到希望，唯一還可以彌補的，就是選民手上寶貴的政黨票，呼籲人民票投有理念的小黨，讓小黨進入國會，監督未來必然混亂黑暗的台灣政府。",
       "ad_creation_time": "2019-11-23T12:09:27+0000",
@@ -5673,94 +5678,94 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000602",
-          "age": "35-44",
+          "percentage": "0.001157",
+          "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.008722",
+          "percentage": "0.017356",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.009257",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.000602",
+          "percentage": "0.120336",
           "age": "13-17",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.004511",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.004211",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.004211",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.001203",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.024361",
-          "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.015038",
+          "percentage": "0.015331",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.246316",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.070376",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.122406",
-          "age": "13-17",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.021353",
+          "percentage": "0.021406",
           "age": "13-17",
           "gender": "female"
         },
         {
-          "percentage": "0.048722",
+          "percentage": "0.047729",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.135338",
+          "percentage": "0.070003",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.137113",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.275188",
+          "percentage": "0.000579",
+          "age": "13-17",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.242696",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.279144",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.016241",
-          "age": "18-24",
+          "percentage": "0.000579",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.004339",
+          "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.000602",
-          "age": "25-34",
+          "percentage": "0.000579",
+          "age": "35-44",
           "gender": "unknown"
+        },
+        {
+          "percentage": "0.00405",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00405",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.024299",
+          "age": "65+",
+          "gender": "male"
         }
       ],
       "funding_entity": "智淵楊",
@@ -5777,8 +5782,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
+        "lower_bound": "300",
+        "upper_bound": "399"
       }
     }
   },
@@ -5788,9 +5793,9 @@
     "AD_ID": "1292068447663879",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-23",
-    "結束日期": "2019-11-30",
+    "結束日期": "2019-12-06",
     "廣告內容": "根據「中國新聞社」2002年3月28日報導，高嘉瑜在擔任台灣大學學生會會長時，就跟其他11位台灣大學生到深圳，應邀參加以「一國兩制」理論與實踐為主題的兩岸關係論壇。在2天會議裡，他們仔仔細細了解了一番「一國兩制」。 台灣大學學生會會長高嘉瑜頗有同感表示： 「一國兩制」，不失為兩岸和平統一的好選擇。",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78498769_128816671883831_4695875851399462912_n.jpg?_nc_cat=110&_nc_ohc=9w-wN_3PVxgAQlyXGakJ40ENCJdmS3luf48ImleS2uY2dPWB6mMLDaraQ&_nc_ht=scontent-hkg3-1.xx&oh=6028cf837fa593669e6072b2c5c1d3d6&oe=5E75B783",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78498769_128816671883831_4695875851399462912_n.jpg?_nc_cat=110&_nc_ohc=pTOL3p5BU3EAQmbRVZAXWbv2dN6PT7j-xmkwfZlDqjm9NhWika2wlGsSQ&_nc_ht=scontent-hkg3-1.xx&oh=479b8f3d244cd121d009d39b4c3cb8c6&oe=5E75B783",
     "廣告詳情": {
       "ad_creative_body": "根據「中國新聞社」2002年3月28日報導，高嘉瑜在擔任台灣大學學生會會長時，就跟其他11位台灣大學生到深圳，應邀參加以「一國兩制」理論與實踐為主題的兩岸關係論壇。在2天會議裡，他們仔仔細細了解了一番「一國兩制」。\n\n台灣大學學生會會長高嘉瑜頗有同感表示：\n\n「一國兩制」，不失為兩岸和平統一的好選擇。",
       "ad_creation_time": "2019-11-24T01:01:03+0000",
@@ -5894,9 +5899,9 @@
     "AD_ID": "437601636902689",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-24",
-    "結束日期": "2019-11-30",
+    "結束日期": "2019-12-06",
     "廣告內容": "身為年輕人，我們最理解現在的社會情況，體會長輩無法理解的虛無絕望。",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78855673_437602006902652_8305591835561033728_n.jpg?_nc_cat=108&_nc_ohc=kfEhnPhq1GcAQlB4UYQyq2MJ5_D4O82G3n-M1-JDqGGMr6m--W6NFyuYQ&_nc_ht=scontent-hkg3-1.xx&oh=58278b077e9129b1bb0dab7103dd1ab9&oe=5E7FBC8A",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78855673_437602006902652_8305591835561033728_n.jpg?_nc_cat=108&_nc_ohc=zP_YoewYviMAQls4_BTwoG7lkG2LoDTfzlXlP83XkuKivVpt3rhVLU3cw&_nc_ht=scontent-hkg3-1.xx&oh=77ebb2863a526c7cb293bf054d160ebc&oe=5E7FBC8A",
     "廣告詳情": {
       "ad_creative_body": "身為年輕人，我們最理解現在的社會情況，體會長輩無法理解的虛無絕望。",
       "ad_creation_time": "2019-11-25T03:06:33+0000",
@@ -5908,94 +5913,94 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.037874",
+          "percentage": "0.001315",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.037694",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.034679",
-          "age": "25-34",
+          "percentage": "0.040544",
+          "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.000684",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.010267",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.021218",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.035592",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.024413",
+          "percentage": "0.024326",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.001141",
-          "age": "13-17",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.041524",
-          "age": "35-44",
+          "percentage": "0.034626",
+          "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.078029",
+          "percentage": "0.076046",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.033082",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.090121",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.001369",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.096737",
+          "percentage": "0.093798",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.029432",
-          "age": "25-34",
+          "percentage": "0.02082",
+          "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.078941",
+          "percentage": "0.081744",
           "age": "13-17",
           "gender": "male"
         },
         {
-          "percentage": "0.384668",
+          "percentage": "0.001096",
+          "age": "13-17",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.030682",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.09314",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.384396",
           "age": "13-17",
           "gender": "female"
         },
         {
-          "percentage": "0.000228",
+          "percentage": "0.034188",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.034626",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000219",
           "age": "25-34",
           "gender": "unknown"
+        },
+        {
+          "percentage": "0.000657",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.010081",
+          "age": "65+",
+          "gender": "male"
         }
       ],
       "funding_entity": "智淵楊",
@@ -6023,9 +6028,9 @@
     "AD_ID": "2606609206088021",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-24",
-    "結束日期": "2019-11-30",
+    "結束日期": "2019-12-01",
     "廣告內容": "時代革命，光復香港 勇敢的人們！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79000986_129325415166290_6026120879027519488_n.jpg?_nc_cat=100&_nc_ohc=myovMnaY1ZcAQkz7ko70zCGgv2SDIiNwZil1p6uygLFcGyzZ81FlDEvGw&_nc_ht=scontent-hkg3-1.xx&oh=46152929eb59a25bc6d7786cfbd79b84&oe=5E73BA2E",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79000986_129325415166290_6026120879027519488_n.jpg?_nc_cat=100&_nc_ohc=vNhkZBjf1xwAQk7RlFvCbhwZ4oWnH8rg209wsTSALNkYOTcSzbs9vcUCQ&_nc_ht=scontent-hkg3-1.xx&oh=0cf3b73a79f23348b5238e5dfadcb67b&oe=5E73BA2E",
     "廣告詳情": {
       "ad_creative_body": "時代革命，光復香港\n勇敢的人們！",
       "ad_creation_time": "2019-11-25T02:19:50+0000",
@@ -6093,9 +6098,9 @@
     "AD_ID": "507930709842214",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-27",
-    "結束日期": "2019-11-30",
+    "結束日期": "2019-12-06",
     "廣告內容": "一直行動的黨，一邊一國行動黨！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/77382965_130355101729988_5291472645806620672_n.jpg?_nc_cat=103&_nc_ohc=wiBI5Dj7yQkAQnL7DIjSsw7AKfC1_IosjMu5QqUmEkBZnXyKcuQZn5TSA&_nc_ht=scontent-hkg3-1.xx&oh=f710917ef291bb441dbfb0db91dec144&oe=5E49D8E8",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/77382965_130355101729988_5291472645806620672_n.jpg?_nc_cat=103&_nc_ohc=gS8Ngg8GukYAQm31LagRtKH0_1ln7dF1AWCN_nNuBlM6b67w8oV0Osu0Q&_nc_ht=scontent-hkg3-1.xx&oh=e522d5fb7d26ed77a1adf9a0f0b7fb99&oe=5E7165E8",
     "廣告詳情": {
       "ad_creative_body": "一直行動的黨，一邊一國行動黨！",
       "ad_creation_time": "2019-11-27T11:31:36+0000",
@@ -6184,9 +6189,9 @@
     "AD_ID": "2686156948097047",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-26",
-    "結束日期": "2019-11-30",
+    "結束日期": "2019-12-06",
     "廣告內容": "庶民不是跟韓國瑜一樣晚上喝威士忌喝白蘭地，一早的氣力，掃街宣傳去啦！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/77018478_130203398411825_1091117036886556672_n.jpg?_nc_cat=102&_nc_ohc=T6tLXAkotJ8AQl9c75MyIOJvUO0IEVVaVTvOfAzUmNLisr05kDbrol1sg&_nc_ht=scontent-hkg3-1.xx&oh=f9f3ab996f4719bf123ac06e63f27ac6&oe=5E8530FF",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/77018478_130203398411825_1091117036886556672_n.jpg?_nc_cat=102&_nc_ohc=YQflGiiwOlsAQlFoZ2XtimdvuyzvYNDEJt61Rkpm1V2OMCo3gsGT8W_HQ&_nc_ht=scontent-hkg3-1.xx&oh=ed0af528612d4b671ca9d752c35221d6&oe=5E8530FF",
     "廣告詳情": {
       "ad_creative_body": "庶民不是跟韓國瑜一樣晚上喝威士忌喝白蘭地，一早的氣力，掃街宣傳去啦！",
       "ad_creation_time": "2019-11-27T02:37:14+0000",
@@ -6195,64 +6200,64 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.014599",
+          "percentage": "0.014085",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.094891",
+          "percentage": "0.091549",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.094891",
+          "percentage": "0.091549",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.072993",
+          "percentage": "0.070423",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.029197",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.058394",
+          "percentage": "0.056338",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.248175",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.029197",
+          "percentage": "0.028169",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.175182",
+          "percentage": "0.169014",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.036496",
+          "percentage": "0.035211",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.072993",
+          "percentage": "0.070423",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.072993",
+          "percentage": "0.260563",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.077465",
           "age": "25-34",
           "gender": "male"
+        },
+        {
+          "percentage": "0.035211",
+          "age": "25-34",
+          "gender": "female"
         }
       ],
       "funding_entity": "智淵楊",
@@ -6280,9 +6285,9 @@
     "AD_ID": "1429396580543955",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-26",
-    "結束日期": "2019-11-30",
+    "結束日期": "2019-12-06",
     "廣告內容": "天下第一浪",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78594898_1429448343872112_8611949636581588992_n.jpg?_nc_cat=105&_nc_ohc=YDbB-nBi9A8AQkVibc4dQ0o6fDbh_epEYJhP4a4_pRURv3Xz5jRCnBqnA&_nc_ht=scontent-hkg3-1.xx&oh=8cc07474010f947203540a65675f686c&oe=5E72FC16",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78594898_1429448343872112_8611949636581588992_n.jpg?_nc_cat=105&_nc_ohc=8qE8XrBRMTUAQkGX1v_JCN09Nu51dE9V9MizImmBN9DkBb3freUxJl1gA&_nc_ht=scontent-hkg3-1.xx&oh=18bba02d850cb3c40106079224dc628b&oe=5E72FC16",
     "廣告詳情": {
       "ad_creative_body": "天下第一浪",
       "ad_creation_time": "2019-11-26T16:53:50+0000",
@@ -6294,78 +6299,83 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.001319",
+          "percentage": "0.001198",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.009235",
+          "percentage": "0.008383",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.019789",
+          "percentage": "0.007186",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.094611",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.180838",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.068263",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.148503",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.064671",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001198",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.057485",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.016766",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.164072",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.046707",
+          "age": "13-17",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.019162",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.175462",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.079156",
+          "percentage": "0.102994",
           "age": "13-17",
           "gender": "female"
         },
         {
-          "percentage": "0.060686",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.065963",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.039578",
-          "age": "13-17",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.015831",
+          "percentage": "0.017964",
           "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.015831",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.068602",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.094987",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.159631",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.186016",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.007916",
-          "age": "35-44",
           "gender": "female"
         }
       ],
@@ -6394,9 +6404,9 @@
     "AD_ID": "3085812581489057",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-26",
-    "結束日期": "2019-11-30",
+    "結束日期": "2019-12-06",
     "廣告內容": "一邊一國立委候選人楊智淵提醒​​各位鄉親好朋友們，我們的房價，物價連年增長，M極社會貧富懸殊，貧困人口比例不斷擴大，家庭放棄生育全球倒數第一，年輕人自立艱難，我們已經忘記了夢想，只剩最小的最小確性的滿足，渾渾糟糟無法自拔，這都是因為我們政府長期的腐敗無能！與國，民兩黨及各種政治利益集團綁架，極度落後及非常不合理的法律法規與政策制度！嚴重壓制了台灣民眾對改變命運的夢與想像，最終台灣經濟自我封閉，一潭死水！，經濟長期持續倒退變為必然，最黑暗時刻已經到來！ 長期靠欺騙謊言言治國的現象必須改變，要改變台灣唯一的希望就要靠我們大家手上一張珍貴的選票，唯有把政黨票投給值得大家信任的小黨，讓小黨來充分監督腐敗無能的執政黨，希望大家把政黨投票給一邊一國行動黨，也請大家支持一邊一國楊智淵，感謝大家！多寫！多謝！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78546831_130050578427107_1136872607686066176_n.jpg?_nc_cat=102&_nc_ohc=8Mba1syW-JIAQmf9Owe_-nAmGfQy6qZkQicE4xBh5XFtoXvdSIL63PSjA&_nc_ht=scontent-hkg3-1.xx&oh=0c977ab671c3e32ad8a656da04e7a9f9&oe=5E7FDF9A",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78546831_130050578427107_1136872607686066176_n.jpg?_nc_cat=102&_nc_ohc=N1pb9bjJY4cAQm40YI-aBRPI3iDcOpWi8Kxt6_Ai3WUYOnYAmwIw0a1Gw&_nc_ht=scontent-hkg3-1.xx&oh=ce0ed0d6f9de205f21e7dca4de321539&oe=5E7FDF9A",
     "廣告詳情": {
       "ad_creative_body": "一邊一國立委候選人楊智淵提醒​​各位鄉親好朋友們，我們的房價，物價連年增長，M極社會貧富懸殊，貧困人口比例不斷擴大，家庭放棄生育全球倒數第一，年輕人自立艱難，我們已經忘記了夢想，只剩最小的最小確性的滿足，渾渾糟糟無法自拔，這都是因為我們政府長期的腐敗無能！與國，民兩黨及各種政治利益集團綁架，極度落後及非常不合理的法律法規與政策制度！嚴重壓制了台灣民眾對改變命運的夢與想像，最終台灣經濟自我封閉，一潭死水！，經濟長期持續倒退變為必然，最黑暗時刻已經到來！\n長期靠欺騙謊言言治國的現象必須改變，要改變台灣唯一的希望就要靠我們大家手上一張珍貴的選票，唯有把政黨票投給值得大家信任的小黨，讓小黨來充分監督腐敗無能的執政黨，希望大家把政黨投票給一邊一國行動黨，也請大家支持一邊一國楊智淵，感謝大家！多寫！多謝！",
       "ad_creation_time": "2019-11-26T16:17:00+0000",
@@ -6490,9 +6500,9 @@
     "AD_ID": "1197290163800618",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-26",
-    "結束日期": "2019-11-30",
+    "結束日期": "2019-12-06",
     "廣告內容": "翻轉吧永和！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78625188_1197290203800614_5539912396228788224_n.jpg?_nc_cat=105&_nc_ohc=rEaNibPuytoAQmU-bN-oJKR-OPCTcs4Q3OdY60PoGNUp2we53YEj6-Wuw&_nc_ht=scontent-hkg3-1.xx&oh=8e4fa9e488f3fade3e9f04c0809a0e59&oe=5E817FD1",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78625188_1197290203800614_5539912396228788224_n.jpg?_nc_cat=105&_nc_ohc=bm58lubUEWYAQnG22Z4-jSbzx2cXEEVGDuj77NSZx-7t341iXgnEHwQjw&_nc_ht=scontent-hkg3-1.xx&oh=45e3d2af1c040b66a1937819438c1bdd&oe=5E817FD1",
     "廣告詳情": {
       "ad_creative_body": "翻轉吧永和！",
       "ad_creation_time": "2019-11-26T09:31:09+0000",
@@ -6504,115 +6514,115 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000145",
+          "percentage": "0.000133",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.025857",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000436",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000291",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000436",
+          "percentage": "0.0498",
           "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000399",
+          "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000581",
-          "age": "13-17",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.001017",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.018013",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.017577",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.015543",
+          "percentage": "0.000399",
           "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.027164",
+          "age": "13-17",
           "gender": "female"
         },
         {
-          "percentage": "0.051424",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.127106",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.03835",
+          "percentage": "0.037284",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.011912",
+          "percentage": "0.017177",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.011451",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.133207",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.019611",
-          "age": "13-17",
+          "percentage": "0.017443",
+          "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.203951",
+          "percentage": "0.016644",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.10213",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000932",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.197603",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.183614",
-          "age": "45-54",
+          "percentage": "0.126365",
+          "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.053603",
+          "percentage": "0.060453",
           "age": "13-17",
           "gender": "male"
         },
         {
-          "percentage": "0.097182",
-          "age": "18-24",
+          "percentage": "0.0253",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.17976",
+          "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.000145",
-          "age": "18-24",
+          "percentage": "0.128096",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000399",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000533",
+          "age": "13-17",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000533",
+          "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "智淵楊",
       "impressions": {
-        "lower_bound": "8000",
-        "upper_bound": "8999"
+        "lower_bound": "9000",
+        "upper_bound": "9999"
       },
       "page_id": "101414597957372",
       "page_name": "楊智淵 反共最前線",
@@ -6623,8 +6633,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "600",
-        "upper_bound": "699"
+        "lower_bound": "700",
+        "upper_bound": "799"
       }
     }
   },
@@ -6634,9 +6644,9 @@
     "AD_ID": "2705779229483772",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-28",
-    "結束日期": "2019-11-30",
+    "結束日期": "2019-12-06",
     "廣告內容": "自稱曾經參與香港返送中示威的中國籍男子張文，8月份以觀光名義入台後脫團滯留，目前被移民署安置在宜蘭收容所。張文友人溫起鋒向記者表示，27日前往宜蘭收容所探望張文，但沒有見到本人。他憂心張文如果被遣送回中國，恐怕因為曾經參加香港反送中示威，遭中共當局清算，因此呼籲各界關注。 同樣停留在台灣的中國籍人士溫起鋒，27日與友人成水炎、一邊一國行動黨楊智淵，前往宜蘭收容所，打算看望被拘留的張文，不過眾人並沒有成功探望，目前已向收容所登記12月4日再次前往探視。",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78875839_2705781946150167_7537481868619284480_n.jpg?_nc_cat=105&_nc_ohc=qtJL7e3rJUgAQmgUwLRskkHXRkIwJychPF4v20DbWd4I4Qv59PDILmHqA&_nc_ht=scontent-hkg3-1.xx&oh=4dc576e761862ea0435ab2a4d993bcee&oe=5E757261",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78875839_2705781946150167_7537481868619284480_n.jpg?_nc_cat=105&_nc_ohc=ioqVWI_aI_gAQllJ_5aj0ashEbzuWeKVtJz7y-4i0SV40un_YljvLx80Q&_nc_ht=scontent-hkg3-1.xx&oh=143063fdfe6c812f9c6c80922c8c4912&oe=5E757261",
     "廣告詳情": {
       "ad_creative_body": "自稱曾經參與香港返送中示威的中國籍男子張文，8月份以觀光名義入台後脫團滯留，目前被移民署安置在宜蘭收容所。張文友人溫起鋒向記者表示，27日前往宜蘭收容所探望張文，但沒有見到本人。他憂心張文如果被遣送回中國，恐怕因為曾經參加香港反送中示威，遭中共當局清算，因此呼籲各界關注。\n\n同樣停留在台灣的中國籍人士溫起鋒，27日與友人成水炎、一邊一國行動黨楊智淵，前往宜蘭收容所，打算看望被拘留的張文，不過眾人並沒有成功探望，目前已向收容所登記12月4日再次前往探視。",
       "ad_creation_time": "2019-11-28T12:52:37+0000",
@@ -6743,9 +6753,9 @@
     "AD_ID": "2521424568070940",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-28",
-    "結束日期": "2019-11-30",
+    "結束日期": "2019-12-06",
     "廣告內容": "",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76963270_130634795035352_9202822426524647424_n.jpg?_nc_cat=111&_nc_ohc=0Fme2gvQTT0AQnayu8k2efN6OGxedsHHPD1C8uoU_fUBqj1vXaHPN_wRg&_nc_ht=scontent-hkg3-1.xx&oh=d3bf9e9ed934631cb3e331dafa8a206a&oe=5E89B71D",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76963270_130634795035352_9202822426524647424_n.jpg?_nc_cat=111&_nc_ohc=8BvctFTndyQAQkYCbKsvcdLJB5Z8HShTno6EygwdyARDOYBch2bJCexXw&_nc_ht=scontent-hkg3-1.xx&oh=dd00eb4c28b3a60d8886e11cfea25985&oe=5E89B71D",
     "廣告詳情": {
       "ad_creation_time": "2019-11-28T08:19:02+0000",
       "ad_delivery_start_time": "2019-11-28T08:19:06+0000",
@@ -6753,57 +6763,57 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.006711",
+          "percentage": "0.006667",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.073826",
+          "percentage": "0.073333",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.295302",
+          "percentage": "0.293333",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.302013",
+          "percentage": "0.3",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.053691",
+          "percentage": "0.06",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.107383",
+          "percentage": "0.106667",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.026846",
+          "percentage": "0.026667",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.073826",
+          "percentage": "0.073333",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.020134",
+          "percentage": "0.02",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.033557",
+          "percentage": "0.033333",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.006711",
+          "percentage": "0.006667",
           "age": "45-54",
           "gender": "female"
         }
@@ -6833,9 +6843,9 @@
     "AD_ID": "413775482901461",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-21",
-    "結束日期": "2019-11-30",
+    "結束日期": "2019-12-06",
     "廣告內容": "一邊一國黨痛斥 民進黨沒什麼小路用 一邊一國黨永和立委提名人楊智淵22日表示，民進黨上屆說「完全執政、完全負責」，這屆還是這樣說，「有什麼小路用呢」？他呼籲政黨票投小黨守護台灣。 完全執政完全負責？景氣見底，五星紅旗高高掛，票投小黨，監督政府！ 　楊智淵指出，民進黨上屆說「完全執政、完全負責」，這屆也是說「完全執政、完全負責」，「有什麼小路用呢」？他呼籲將政黨票投給小黨，這些人來守護台灣的價值，讓小黨進入國會，不要讓民進黨繼續傲慢下去，小黨絕對可以監督政府，不是像賴清德說的這樣。",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78525879_792404401200977_7860205011161055232_n.jpg?_nc_cat=111&_nc_ohc=qyST34m4FmgAQlTMcOaYhjoWIqitF7MphSi8wPHwqH9egdgc9u7rzVzrA&_nc_ht=scontent-hkg3-1.xx&oh=90f3e1247ee583cad56a517396bde8f5&oe=5E437052",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78525879_792404401200977_7860205011161055232_n.jpg?_nc_cat=111&_nc_ohc=NP2YKCK5YOoAQlIiqKdyl7gUxGQiCooCz1kjm69H4i4ZgVAAQaIVUKX4g&_nc_ht=scontent-hkg3-1.xx&oh=c4e986f64c17cd6cef888a41454b1d72&oe=5E6AFD52",
     "廣告詳情": {
       "ad_creative_body": "一邊一國黨痛斥 民進黨沒什麼小路用\n\n一邊一國黨永和立委提名人楊智淵22日表示，民進黨上屆說「完全執政、完全負責」，這屆還是這樣說，「有什麼小路用呢」？他呼籲政黨票投小黨守護台灣。\n\n完全執政完全負責？景氣見底，五星紅旗高高掛，票投小黨，監督政府！\n\n　楊智淵指出，民進黨上屆說「完全執政、完全負責」，這屆也是說「完全執政、完全負責」，「有什麼小路用呢」？他呼籲將政黨票投給小黨，這些人來守護台灣的價值，讓小黨進入國會，不要讓民進黨繼續傲慢下去，小黨絕對可以監督政府，不是像賴清德說的這樣。",
       "ad_creation_time": "2019-11-22T05:00:05+0000",
@@ -6849,6 +6859,195 @@
         {
           "percentage": "1",
           "age": "55-64",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "智淵楊",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "101414597957372",
+      "page_name": "楊智淵 反共最前線",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "New Taipei City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      }
+    }
+  },
+  {
+    "選區": "新北市第九選舉區",
+    "參選人": "楊智淵",
+    "AD_ID": "1401407793316631",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-30",
+    "結束日期": "2019-12-06",
+    "廣告內容": "我是新北永和區立委候選人 楊智淵 您好！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78838926_1401407836649960_559393368312905728_n.jpg?_nc_cat=111&_nc_ohc=aIqiqRg1b70AQmeavhfYXAxe9sWo-Nc14YIUu_xfdSX83VKkW4Jq9mVBg&_nc_ht=scontent-hkg3-1.xx&oh=1afb8e47dd49357306ca35df4ff4cc1a&oe=5E7571EB",
+    "廣告詳情": {
+      "ad_creative_body": "我是新北永和區立委候選人 楊智淵 您好！",
+      "ad_creation_time": "2019-11-30T15:07:22+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "我是新北永和區立委候選人 楊智淵 您好！",
+      "ad_creative_link_title": "楊智淵 反共最前線",
+      "ad_delivery_start_time": "2019-11-30T15:07:52+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:07:52+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.1984",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.0864",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.272",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.1376",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.1472",
+          "age": "13-17",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.1152",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.0432",
+          "age": "65+",
+          "gender": "male"
+        }
+      ],
+      "funding_entity": "智淵楊",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "101414597957372",
+      "page_name": "楊智淵 反共最前線",
+      "region_distribution": [
+        {
+          "percentage": "0.556604",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.443396",
+          "region": "New Taipei City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "199"
+      }
+    }
+  },
+  {
+    "選區": "新北市第九選舉區",
+    "參選人": "楊智淵",
+    "AD_ID": "481004602517152",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-29",
+    "結束日期": "2019-12-04",
+    "廣告內容": "一邊一國永和區立委候選人楊智淵 針對1130抗議民進黨高嘉瑜活動聲名 請問高嘉瑜：妳的主要敵人到底是韓國瑜還是陳水扁？ 妳只想靠外貌、靠跟選民討飯吃、靠唱歌走音，這樣水平的候選人還宣稱要選市長總統，惡質的政客，相信台灣人民不會雙眼永遠被外貌蒙蔽。 根據過去的經驗來看，你不但一點都不支持民進黨，你只是一國兩制也可以、違背黨意蹭柯文哲、搞紅衫軍、到民進黨中央抗議，一路走來，足見軌跡可怖。 大家看看！高嘉瑜電視上說話酸溜溜刻薄的嘴臉，看看她電視上的嘴臉，人美心不美，還出書騙宅男美、善、相信自己？終究只是醜、惡、不相信自己！ 說對宅男男友不離不棄，卻要去借精子生小孩？您不是港湖女神，是港湖嘔吐物。 要阿扁去求韓國魚，你認為韓國魚會贏囉？那你現在是掛什麼旗在選？ 大家都會記得你跟檳榔柯眉來眼去的日子。  大家也會記得你跑到民進黨部抗議的兇惡嘴臉。 大家也會記得妳當年跟陳水扁求官不成現在落井下石的惡毒。  違背黨意去蹭柯，現在柯人氣下跌，又變成風向錶，身為綠營，不要老幫傾中份子說話。過去你搞紅衫軍，還到中國宣稱一國兩制是好的方案，你心中沒有台灣，只有權力，過去阿扁沒給你官做，妳可以記恨十年，以後共產黨給你官做，妳就可以達成夢想當＂台灣特首＂了。 人不可能靠外貌騙一輩子，政治不是上酒店。請不要靠外貌而得的高人氣，做一些沒有中心思想的事情。  ＂中國新聞社＂2002年3月28日有報導過， 台大學生會會長「高嘉瑜」，和其他11位台灣大學生到深圳參加「一國兩制」的兩岸論壇。 高嘉瑜會長還頗有同感的表示：「一國兩制」不失為兩岸和平統一的好選擇。 如果高雄市長韓國瑜進到香港中聯辦見證「一國兩制」下的香港，被罵到臭頭。 那麼， 台大學生會會長「高嘉瑜」到深圳參加「一國兩制」的兩岸論壇，為「一國兩制」背書，是不是更要「即刻下架」才合乎天理正義！？ 「高嘉瑜」正是在2006年11月初，趁火打劫式的聯合多位學生，在台灣大學發動阿扁下台的連署活動。在這份至今都還貼在各大網站的連署書說：「陳水扁總統已經失卻其治理的正當性，實應知所進退、我們不應接受一個『罪犯』的領導」。 然而後來高嘉瑜竟然挾持紅衫軍的餘威，又在隔年2007年民進黨要提名台北市大安選區立委候選人之前。要求當時兼任民進黨主席的阿扁總統，希望讓她參選立委？ 請大家一定要多看看高嘉瑜在電視上的嘴臉，呼籲大家看一看，妳會發現人美！心不美！ 少賣萌裝哭，很噁心。",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/77396089_131219774976854_8161544744191655936_n.jpg?_nc_cat=102&_nc_ohc=en8t3bYqjNAAQlxFjvHBqoLRCIENPK0_qzDQ_lhG2FL-DLzVVSbn_cIhQ&_nc_ht=scontent-hkg3-1.xx&oh=673faa0356132e7b57c4efd887876163&oe=5E7784B3",
+    "廣告詳情": {
+      "ad_creative_body": "一邊一國永和區立委候選人楊智淵\n針對1130抗議民進黨高嘉瑜活動聲名\n\n請問高嘉瑜：妳的主要敵人到底是韓國瑜還是陳水扁？\n妳只想靠外貌、靠跟選民討飯吃、靠唱歌走音，這樣水平的候選人還宣稱要選市長總統，惡質的政客，相信台灣人民不會雙眼永遠被外貌蒙蔽。\n根據過去的經驗來看，你不但一點都不支持民進黨，你只是一國兩制也可以、違背黨意蹭柯文哲、搞紅衫軍、到民進黨中央抗議，一路走來，足見軌跡可怖。\n大家看看！高嘉瑜電視上說話酸溜溜刻薄的嘴臉，看看她電視上的嘴臉，人美心不美，還出書騙宅男美、善、相信自己？終究只是醜、惡、不相信自己！\n說對宅男男友不離不棄，卻要去借精子生小孩？您不是港湖女神，是港湖嘔吐物。\n要阿扁去求韓國魚，你認為韓國魚會贏囉？那你現在是掛什麼旗在選？\n大家都會記得你跟檳榔柯眉來眼去的日子。 \n大家也會記得你跑到民進黨部抗議的兇惡嘴臉。\n大家也會記得妳當年跟陳水扁求官不成現在落井下石的惡毒。 \n違背黨意去蹭柯，現在柯人氣下跌，又變成風向錶，身為綠營，不要老幫傾中份子說話。過去你搞紅衫軍，還到中國宣稱一國兩制是好的方案，你心中沒有台灣，只有權力，過去阿扁沒給你官做，妳可以記恨十年，以後共產黨給你官做，妳就可以達成夢想當＂台灣特首＂了。\n人不可能靠外貌騙一輩子，政治不是上酒店。請不要靠外貌而得的高人氣，做一些沒有中心思想的事情。 \n＂中國新聞社＂2002年3月28日有報導過， 台大學生會會長「高嘉瑜」，和其他11位台灣大學生到深圳參加「一國兩制」的兩岸論壇。 高嘉瑜會長還頗有同感的表示：「一國兩制」不失為兩岸和平統一的好選擇。\n如果高雄市長韓國瑜進到香港中聯辦見證「一國兩制」下的香港，被罵到臭頭。 那麼， 台大學生會會長「高嘉瑜」到深圳參加「一國兩制」的兩岸論壇，為「一國兩制」背書，是不是更要「即刻下架」才合乎天理正義！？\n「高嘉瑜」正是在2006年11月初，趁火打劫式的聯合多位學生，在台灣大學發動阿扁下台的連署活動。在這份至今都還貼在各大網站的連署書說：「陳水扁總統已經失卻其治理的正當性，實應知所進退、我們不應接受一個『罪犯』的領導」。\n然而後來高嘉瑜竟然挾持紅衫軍的餘威，又在隔年2007年民進黨要提名台北市大安選區立委候選人之前。要求當時兼任民進黨主席的阿扁總統，希望讓她參選立委？\n請大家一定要多看看高嘉瑜在電視上的嘴臉，呼籲大家看一看，妳會發現人美！心不美！\n少賣萌裝哭，很噁心。",
+      "ad_creation_time": "2019-11-29T13:12:59+0000",
+      "ad_delivery_start_time": "2019-11-29T13:13:01+0000",
+      "ad_delivery_stop_time": "2019-12-04T13:12:59+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.306691",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.018587",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.053903",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.007435",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.124535",
+          "age": "13-17",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.20632",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.081784",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.113383",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.020446",
+          "age": "13-17",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.003717",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.022305",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.022305",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.005576",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.007435",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.005576",
+          "age": "35-44",
           "gender": "female"
         }
       ],

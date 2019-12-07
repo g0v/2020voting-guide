@@ -19,6 +19,9 @@ hhandlers:
   - url: /api/ad
     static_dir: data/static/ad
 
+  - url: /api/data
+    static_dir: data/static
+
   - url: /api/.*
     script: auto
 

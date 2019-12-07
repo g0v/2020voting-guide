@@ -7,7 +7,137 @@
     "開始日期": "2019-11-19",
     "結束日期": "2019-11-27",
     "廣告內容": "",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78346616_469296007024317_1245909638214320128_n.jpg?_nc_cat=107&_nc_ohc=PdOH5pFlpQ4AQkFty3nIjO-wS7vUmP90AAvWUOlADre2kxPBG5M5eKF1A&_nc_ht=scontent-hkg3-1.xx&oh=daf95fe3866dd79b0e2746e8c20f727b&oe=5E4B476F"
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78346616_469296007024317_1245909638214320128_n.jpg?_nc_cat=107&_nc_ohc=PdOH5pFlpQ4AQkFty3nIjO-wS7vUmP90AAvWUOlADre2kxPBG5M5eKF1A&_nc_ht=scontent-hkg3-1.xx&oh=daf95fe3866dd79b0e2746e8c20f727b&oe=5E4B476F",
+    "廣告詳情": {
+      "ad_creation_time": "2019-11-19T17:57:44+0000",
+      "ad_delivery_start_time": "2019-11-19T17:57:44+0000",
+      "ad_delivery_stop_time": "2019-12-17T17:57:32+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "9.7E-5",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.007981",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000584",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.004915",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.003942",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.020973",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.044477",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.026131",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.036788",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000341",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.116204",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.126569",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.044672",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.27635",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.289294",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000195",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000243",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000243",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "45000",
+        "upper_bound": "49999"
+      },
+      "page_id": "120741162662437",
+      "page_name": "雲林輪椅立委張永津",
+      "region_distribution": [
+        {
+          "percentage": "0.299455",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.089685",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.095454",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.159593",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.355812",
+          "region": "Yunlin"
+        }
+      ],
+      "spend": {
+        "lower_bound": "3000",
+        "upper_bound": "3499"
+      }
+    }
   },
   {
     "選區": "雲林縣第二選舉區",
@@ -15,9 +145,142 @@
     "AD_ID": "548465459052218",
     "登錄為政治廣告": "否",
     "開始日期": "2019-11-27",
-    "結束日期": "2019-12-01",
+    "結束日期": "2019-12-02",
     "廣告內容": "",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79017838_548465469052217_1926899363242573824_n.jpg?_nc_cat=100&_nc_ohc=nw4zeq_IC9cAQmEGKeUxzu27K-g_MX8JTusMwXSykkX7PZ1qv0lcl6d1A&_nc_ht=scontent-hkg3-1.xx&oh=5dfadd642539f675ec73bcf0c22932ce&oe=5E726D8C"
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79017838_548465469052217_1926899363242573824_n.jpg?_nc_cat=100&_nc_ohc=u5t9jKa7k7AAQkI_m-fuYqwr7hhCV-3XkekYRlIIaGaTIJmSVOO4kO8_w&_nc_ht=scontent-hkg3-1.xx&oh=f648b44edb5070df93ccaa737da4261c&oe=5E726D8C",
+    "廣告詳情": {
+      "ad_creation_time": "2019-11-28T01:52:55+0000",
+      "ad_delivery_start_time": "2019-11-28T01:52:56+0000",
+      "ad_delivery_stop_time": "2020-01-10T01:52:55+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000339",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.102373",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000565",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.004294",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.006215",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.048927",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.010508",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.020226",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.02678",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000452",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.061695",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.146328",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.075028",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.252316",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.24339",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000113",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000452",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "120741162662437",
+      "page_name": "雲林輪椅立委張永津",
+      "region_distribution": [
+        {
+          "percentage": "0.253395",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.013579",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.005366",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.09297",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.095488",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.140166",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.399036",
+          "region": "Yunlin"
+        }
+      ],
+      "spend": {
+        "lower_bound": "900",
+        "upper_bound": "999"
+      }
+    }
   },
   {
     "選區": "雲林縣第二選舉區",
@@ -25,9 +288,123 @@
     "AD_ID": "740643596417921",
     "登錄為政治廣告": "否",
     "開始日期": "2019-11-30",
-    "結束日期": "2019-12-01",
+    "結束日期": "2019-12-04",
     "廣告內容": "❤️自己福利❤️自己救❤️ 喜樂島聯盟 FORMOSA ALLIANCEhttps://forms.gle/fg8AdyrH9gqiDutT9 加LINE好友：https://line.me/ti/p/Z__dNhXbcd \"張永津\" 競選總部\"徵求志工隊長+志工隊員❤️ 張永津宣誓財務公開，立委薪水全做公益服務。 雲林縣斗六市西平路185號. 85度C 正隔壁 台灣大 09-09-39-39-49",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79038663_163975605005659_3017764577606631424_n.jpg?_nc_cat=103&_nc_ohc=Jmk3h4Py20gAQmTA8O1f0cUpIM5uNEzQNea7rHnN-uCwjdKIbVjPDEJGQ&_nc_ht=scontent-hkg3-1.xx&oh=f7e5b6cfc9bdee8da3286a939fdc8191&oe=5E44D207"
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79038663_163975605005659_3017764577606631424_n.jpg?_nc_cat=103&_nc_ohc=Nqc62Ub5M1QAQnt8dCNV03qf8JV5scoRcPlZpT1oSCjssT63eAZnuOUgg&_nc_ht=scontent-hkg3-1.xx&oh=5c88e3936d04bd89abdcc15af5ab7842&oe=5E44D207",
+    "廣告詳情": {
+      "ad_creative_body": "❤️自己福利❤️自己救❤️ 喜樂島聯盟 FORMOSA ALLIANCE\nhttps://forms.gle/fg8AdyrH9gqiDutT9\n加LINE好友：https://line.me/ti/p/Z__dNhXbcd\n\"張永津\" 競選總部\"徵求志工隊長+志工隊員❤️\n張永津宣誓財務公開，立委薪水全做公益服務。\n雲林縣斗六市西平路185號. 85度C 正隔壁\n台灣大 09-09-39-39-49",
+      "ad_creation_time": "2019-11-30T08:19:19+0000",
+      "ad_delivery_start_time": "2019-11-30T08:19:25+0000",
+      "ad_delivery_stop_time": "2019-12-10T08:19:19+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.175917",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.195673",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.014111",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.189087",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.06397",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.145814",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.0254",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.021637",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.110066",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.011289",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.034807",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.011289",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000941",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "1999"
+      },
+      "page_id": "120741162662437",
+      "page_name": "雲林輪椅立委張永津",
+      "region_distribution": [
+        {
+          "percentage": "0.134597",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.003791",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.021801",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.369668",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.062559",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.07109",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.336493",
+          "region": "Yunlin"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "199"
+      }
+    }
   },
   {
     "選區": "雲林縣第二選舉區",
@@ -35,8 +412,266 @@
     "AD_ID": "1726860364115106",
     "登錄為政治廣告": "否",
     "開始日期": "2019-11-30",
-    "結束日期": "2019-12-01",
+    "結束日期": "2019-12-04",
     "廣告內容": "❤️自己福利❤️自己救❤️ 喜樂島聯盟 FORMOSA ALLIANCEhttps://forms.gle/fg8AdyrH9gqiDutT9 加LINE好友：https://line.me/ti/p/Z__dNhXbcd \"張永津\" 競選總部\"徵求志工隊長+志工隊員❤️ 張永津宣誓財務公開，立委薪水全做公益服務。 雲林縣斗六市西平路185號. 85度C 正隔壁 台灣大 09-09-39-39-49",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78875948_163971448339408_7025549959101415424_n.jpg?_nc_cat=101&_nc_ohc=ozJEZqg8v2kAQkcwsP-3p6TMgKOeuXSZIuBPJdoGvznCHk_NA9TkA7BrQ&_nc_ht=scontent-hkg3-1.xx&oh=afc81d94f3deee38c42ca5f9a57b52c8&oe=5E87A08A"
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78875948_163971448339408_7025549959101415424_n.jpg?_nc_cat=101&_nc_ohc=b6XaVasurN8AQnI5xee1-2P5IM75eILAil9r6n6dQT2g70-7k-UUs9-8g&_nc_ht=scontent-hkg3-1.xx&oh=20750a14d5496a76cb397e060ac2b398&oe=5E87A08A",
+    "廣告詳情": {
+      "ad_creative_body": "❤️自己福利❤️自己救❤️ 喜樂島聯盟 FORMOSA ALLIANCE\nhttps://forms.gle/fg8AdyrH9gqiDutT9\n加LINE好友：https://line.me/ti/p/Z__dNhXbcd\n\"張永津\" 競選總部\"徵求志工隊長+志工隊員❤️\n張永津宣誓財務公開，立委薪水全做公益服務。\n雲林縣斗六市西平路185號. 85度C 正隔壁\n台灣大 09-09-39-39-49",
+      "ad_creation_time": "2019-11-30T08:13:44+0000",
+      "ad_delivery_start_time": "2019-11-30T08:13:50+0000",
+      "ad_delivery_stop_time": "2019-12-10T08:13:44+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.226917",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.231612",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.138498",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.092332",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.017214",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.047731",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.084507",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00939",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.034429",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.041471",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.071205",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.003912",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000782",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "1999"
+      },
+      "page_id": "120741162662437",
+      "page_name": "雲林輪椅立委張永津",
+      "region_distribution": [
+        {
+          "percentage": "0.264916",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.004773",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.047733",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.058075",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.124901",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.499602",
+          "region": "Yunlin"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "199"
+      }
+    }
+  },
+  {
+    "選區": "雲林縣第二選舉區",
+    "參選人": "張永津",
+    "AD_ID": "1209412249247516",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-12-02",
+    "結束日期": "2019-12-04",
+    "廣告內容": "",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79275263_1209412259247515_2568254021961777152_n.jpg?_nc_cat=101&_nc_ohc=l_FVEdJX-j0AQmaKSGUmFikN3uCIJXXPBQ5eTuS3LTL_zuQmGMufk9FpA&_nc_ht=scontent-hkg3-1.xx&oh=0704ad39bd08f493d5150ac8fb1daac6&oe=5E824838",
+    "廣告詳情": {
+      "ad_creation_time": "2019-12-03T01:46:58+0000",
+      "ad_delivery_start_time": "2019-12-03T01:47:00+0000",
+      "ad_delivery_stop_time": "2019-12-13T01:46:58+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.008632",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.004905",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000262",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000392",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000981",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000196",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000719",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.016545",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.003989",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.097764",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.060555",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.023019",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.037863",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.161588",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.26079",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.27655",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.04486",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000392",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "120741162662437",
+      "page_name": "雲林輪椅立委張永津",
+      "region_distribution": [
+        {
+          "percentage": "0.064089",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.002011",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.425402",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.337117",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.028412",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.052932",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.090036",
+          "region": "Yunlin"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      }
+    }
   }
 ]

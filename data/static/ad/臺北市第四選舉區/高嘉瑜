@@ -794,9 +794,9 @@
     "AD_ID": "277124229862358",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-21",
-    "結束日期": "2019-12-01",
+    "結束日期": "2019-12-04",
     "廣告內容": "又濕又冷的天氣 還是米粉湯最對味 尤其是滿滿的生辣椒😱 保證吃完全身都熱起來￼😋 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ ❤️小額募資進行中：http://bit.ly/37iHUkI 💛現在也開放超商繳費囉：http://bit.ly/344bVCM",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76720902_10157721060882720_7742323930005766144_n.jpg?_nc_cat=110&_nc_ohc=jubNOmPy4RwAQmFoFvAAliPHKPlL4ZLGnhIk2ySvQ-uDaz4_QGBZ83O-w&_nc_ht=scontent-hkg3-1.xx&oh=d0b98018d2302c896779f85f7f2accc7&oe=5E7A0D0D",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76720902_10157721060882720_7742323930005766144_n.jpg?_nc_cat=110&_nc_ohc=azMA_yupM_wAQmYvlEzg9G_Wy6N329TxZJMLk5PRwK0g4UBVUIokA0f2g&_nc_ht=scontent-hkg3-1.xx&oh=22f954fdc205c28889f2c0f96438cbfa&oe=5E7A0D0D",
     "廣告詳情": {
       "ad_creative_body": "又濕又冷的天氣\n還是米粉湯最對味\n尤其是滿滿的生辣椒😱\n保證吃完全身都熱起來￼😋\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿\n❤️小額募資進行中：http://bit.ly/37iHUkI\n💛現在也開放超商繳費囉：http://bit.ly/344bVCM",
       "ad_creation_time": "2019-11-22T02:07:33+0000",
@@ -1212,28 +1212,28 @@
       "currency": "USD",
       "demographic_distribution": [
         {
-          "percentage": "0.045419",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.135211",
+          "percentage": "0.139085",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.350412",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.448765",
+          "percentage": "0.449584",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.020193",
+          "percentage": "0.344467",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.021427",
           "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.045437",
+          "age": "18-24",
           "gender": "male"
         }
       ],
@@ -1246,88 +1246,88 @@
       "page_name": "高嘉瑜",
       "region_distribution": [
         {
-          "percentage": "0.000844",
-          "region": "Chiayi"
-        },
-        {
-          "percentage": "0.007665",
-          "region": "Hsinchu"
-        },
-        {
-          "percentage": "0.008185",
-          "region": "Keelung City"
-        },
-        {
-          "percentage": "0.009939",
-          "region": "Yunlin"
-        },
-        {
-          "percentage": "0.003053",
-          "region": "Taitung"
-        },
-        {
-          "percentage": "0.00877",
-          "region": "Pingtung"
-        },
-        {
-          "percentage": "0.001234",
-          "region": "Penghu"
-        },
-        {
-          "percentage": "0.005132",
-          "region": "Nantou"
-        },
-        {
-          "percentage": "0.005652",
-          "region": "Miaoli"
-        },
-        {
-          "percentage": "0.006626",
-          "region": "Hualien"
-        },
-        {
-          "percentage": "0.014096",
-          "region": "Changhua"
-        },
-        {
-          "percentage": "0.001169",
-          "region": "Kinmen"
-        },
-        {
-          "percentage": "0.104586",
-          "region": "New Taipei City"
-        },
-        {
-          "percentage": "0.088736",
-          "region": "Taichung"
-        },
-        {
-          "percentage": "0.076199",
-          "region": "Taoyuan City"
-        },
-        {
-          "percentage": "0.070352",
-          "region": "Tainan"
-        },
-        {
-          "percentage": "0.432896",
-          "region": "Taipei"
-        },
-        {
-          "percentage": "0.100234",
-          "region": "Kaohsiung"
-        },
-        {
-          "percentage": "0.009094",
+          "percentage": "0.009213",
           "region": "Unknown"
         },
         {
-          "percentage": "6.5E-5",
-          "region": "Lienchiang"
+          "percentage": "0.001183",
+          "region": "Kinmen"
         },
         {
-          "percentage": "0.045472",
+          "percentage": "0.045503",
           "region": "Hsinchu City"
+        },
+        {
+          "percentage": "0.008279",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.009897",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.003112",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.008964",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.001307",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.005104",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.005602",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.006723",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.101027",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.007968",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.000934",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.01413",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.104388",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.088515",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.076004",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.06953",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.432493",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.000124",
+          "region": "Lienchiang"
         }
       ],
       "spend": {
@@ -1508,7 +1508,7 @@
     "AD_ID": "1546688598811537",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-26",
-    "結束日期": "2019-12-01",
+    "結束日期": "2019-12-02",
     "廣告內容": "📢集資計畫正式上線：http://bit.ly/2KltDtE 沒有派系背景，更沒有財團撐腰 我最大的力量，來自你們的支持 我會用每一份心意來完成你們對我的期許 讓我們一起為更美好的未來，加倍努力💪",
     "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78205749_2501905450047319_3606615816637775872_n.jpg?_nc_cat=108&_nc_ohc=LxaPyHLlCdUAQmlCqkhppjTU5IPVVGP3OdhYp29BQM3Rnh8nW84L5HqTw&_nc_ht=scontent-hkg3-1.xx&oh=ae44600931521872dbbdfa20591202ad&oe=5E886EAD",
     "廣告詳情": {
@@ -1520,121 +1520,319 @@
       "currency": "USD",
       "demographic_distribution": [
         {
-          "percentage": "0.099394",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.077766",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.221725",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.241975",
+          "percentage": "0.240313",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.35914",
+          "percentage": "0.358218",
           "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.219694",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.099656",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.082119",
+          "age": "18-24",
           "gender": "male"
         }
       ],
       "funding_entity": "嘉瑜 高",
       "impressions": {
-        "lower_bound": "20000",
-        "upper_bound": "24999"
+        "lower_bound": "25000",
+        "upper_bound": "29999"
       },
       "page_id": "202188887719",
       "page_name": "高嘉瑜",
       "region_distribution": [
         {
-          "percentage": "0.018795",
+          "percentage": "0.019461",
           "region": "Unknown"
         },
         {
-          "percentage": "0.001771",
+          "percentage": "0.001999",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.010078",
+          "percentage": "0.011112",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.022949",
+          "percentage": "0.022989",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.00395",
+          "percentage": "0.004175",
           "region": "Taitung"
         },
         {
-          "percentage": "0.023085",
+          "percentage": "0.023518",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.003201",
+          "percentage": "0.003234",
           "region": "Penghu"
         },
         {
-          "percentage": "0.008648",
+          "percentage": "0.008878",
           "region": "Nantou"
         },
         {
-          "percentage": "0.010215",
+          "percentage": "0.009995",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.000136",
+          "percentage": "0.000176",
           "region": "Lienchiang"
         },
         {
-          "percentage": "0.006469",
+          "percentage": "0.006644",
           "region": "Hualien"
         },
         {
-          "percentage": "0.133606",
+          "percentage": "0.130586",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.003405",
+          "percentage": "0.00341",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.001839",
+          "percentage": "0.00194",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.027852",
+          "percentage": "0.027634",
           "region": "Changhua"
         },
         {
-          "percentage": "0.124889",
+          "percentage": "0.124706",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.103984",
+          "percentage": "0.107773",
           "region": "Taichung"
         },
         {
-          "percentage": "0.089683",
+          "percentage": "0.089252",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.108819",
+          "percentage": "0.108008",
           "region": "Tainan"
         },
         {
-          "percentage": "0.262036",
+          "percentage": "0.259643",
           "region": "Taipei"
         },
         {
-          "percentage": "0.034593",
+          "percentage": "0.034866",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      }
+    }
+  },
+  {
+    "選區": "臺北市第四選舉區",
+    "參選人": "高嘉瑜",
+    "AD_ID": "432545917418731",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-02",
+    "結束日期": "2019-12-04",
+    "廣告內容": "📢集資計畫正式上線：http://bit.ly/2KltDtE 沒有派系背景，更沒有財團撐腰 我最大的力量，來自你們的支持 我會用每一份心意來完成你們對我的期許 讓我們一起為更美好的未來，加倍努力💪",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78205749_2501905450047319_3606615816637775872_n.jpg?_nc_cat=108&_nc_ohc=0Ky9bn8rT8gAQlYOON69IRZIBA8vY9J2cqtvgH9EMIILAoKMfLsdMnBfg&_nc_ht=scontent-hkg3-1.xx&oh=e53f28828ab2cec860a583955b4f123a&oe=5E886EAD",
+    "廣告詳情": {
+      "ad_creative_body": "📢集資計畫正式上線：http://bit.ly/2KltDtE\n沒有派系背景，更沒有財團撐腰\n我最大的力量，來自你們的支持\n我會用每一份心意來完成你們對我的期許\n讓我們一起為更美好的未來，加倍努力💪",
+      "ad_creation_time": "2019-12-02T08:13:35+0000",
+      "ad_creative_link_title": "我靠加倍努力！",
+      "ad_delivery_start_time": "2019-12-02T08:13:35+0000",
+      "ad_delivery_stop_time": "2019-12-13T15:59:00+0000",
+      "currency": "USD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000457",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000914",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001371",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.005484",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.005484",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.005484",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.018739",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.022395",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.069013",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.43053",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.02925",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.006399",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.031993",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.125686",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.050274",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.195612",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000914",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "嘉瑜 高",
+      "impressions": {
+        "lower_bound": "2000",
+        "upper_bound": "2999"
+      },
+      "page_id": "202188887719",
+      "page_name": "高嘉瑜",
+      "region_distribution": [
+        {
+          "percentage": "0.010648",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.001389",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.006481",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.006019",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.002778",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.006944",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.001389",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.001852",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.005093",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.006944",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.080093",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.00787",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001389",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.010185",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.063889",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.091667",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.084259",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.057407",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.492593",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.061111",
           "region": "Hsinchu City"
         }
       ],
