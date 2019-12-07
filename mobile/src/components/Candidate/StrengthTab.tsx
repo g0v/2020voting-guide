@@ -33,7 +33,7 @@ const StrengthTab = ({
 
     const [ads, setAds] = React.useState([]);
     React.useEffect(() => {
-        fetch(`/api/ad/${constituency}/${name}`)
+        fetch(`/api/data/ad/${constituency}/${name}.json`)
             .then(res => res.json())
             .then(setAds);
     }, [name]);

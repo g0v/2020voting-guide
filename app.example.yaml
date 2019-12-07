@@ -16,9 +16,6 @@ hhandlers:
     static_files: mobile/build/sitemap.xml
     upload: mobile/build/sitemap.xml
 
-  - url: /api/ad
-    static_dir: data/static/ad
-
   - url: /api/data
     static_dir: data/static
 
