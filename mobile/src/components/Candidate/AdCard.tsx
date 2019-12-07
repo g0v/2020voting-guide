@@ -24,12 +24,30 @@ const AdCard = (ad: {
     廣告內容: string;
     開始日期: string;
     結束日期: string;
+    廣告詳情?: {
+        ad_creative_body: string;
+        ad_creation_time: string;
+        ad_creative_link_caption: string;
+        ad_creative_link_description: string;
+        ad_creative_link_title: string;
+        ad_delivery_start_time: string;
+        ad_delivery_stop_time: string;
+        currency: string;
+        demographic_distribution: string;
+    };
 }) => {
     const classes = useStyles();
     const [open, setOpen] = React.useState(false);
 
+    const content = ad['廣告詳情']
+        ? ad['廣告詳情'].ad_creative_body
+        : ad['廣告內容'];
     const generateCardTextHtml = (fullText: string) => {
-        const adLines = fullText.split(/ (?![a-zA-Z])/);
+        const adLines =
+            fullText.search('\n') == -1
+                ? fullText.split(/ (?![a-zA-Z])/)
+                : fullText.split('\n');
+
         return (
             <>
                 {adLines.slice(0, 1).map(title => (
@@ -60,9 +78,7 @@ const AdCard = (ad: {
                     }}
                 >
                     <Box display="flex" justifyContent="flex-start">
-                        <Box flexGrow={1}>
-                            {generateCardTextHtml(ad['廣告內容'])}
-                        </Box>
+                        <Box flexGrow={1}>{generateCardTextHtml(content)}</Box>
                         <Box>
                             <div
                                 className={classes.cardImg}
@@ -90,7 +106,7 @@ const AdCard = (ad: {
                     {open ? (
                         <AdDialog
                             pic={ad['圖片']}
-                            content={ad['廣告內容']}
+                            content={content}
                             startDate={ad['開始日期']}
                             endDate={ad['結束日期']}
                             open={open}
