@@ -1,0 +1,129 @@
+[
+  {
+    "選區": "高雄市第七選舉區",
+    "參選人": "陳惠敏",
+    "AD_ID": "2482158598561210",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-29",
+    "結束日期": "2019-12-01",
+    "廣告內容": "〔幸福〕〔主權〕〔公義〕 時代力量   ▎鳳山   ▎陳惠敏 ＃鳳山向前行 ＃惠敏一定行 ＃讓高雄驕傲 ＃讓台灣幸福 參選聲明全文：https://reurl.cc/Va7b0R ➖➖➖➖ 陳惠敏 學歷： 東海大學社會學博士 清華大學人類學研究所 台灣大學土木系 現職： 時代力量立法院黨團主任 時代力量高雄黨部主委 經歷： 時代力量秘書長 島國前進基金會執行長 台灣大學社會系專案助理教授 自立晚報南部新聞中心記者 　 — 我的IG：https://www.instagram.com/huimin_npp/ 我的Line@：http://nav.cx/cRAWPrn",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78844327_2482158635227873_8173052421866520576_n.jpg?_nc_cat=103&_nc_ohc=R-sB5zt-iN0AQmvUVxl-oic0D4g4Q7hEN6Qswb6aPSDmG45xd-P6YHijQ&_nc_ht=scontent-hkg3-1.xx&oh=faf1db85ef9cd7bd39fc6a5b9f008cfb&oe=5E83D3F7",
+    "廣告詳情": {
+      "ad_creative_body": "〔幸福〕〔主權〕〔公義〕\n\n時代力量   ▎鳳山   ▎陳惠敏\n\n＃鳳山向前行\n＃惠敏一定行\n\n＃讓高雄驕傲\n＃讓台灣幸福\n\n參選聲明全文：https://reurl.cc/Va7b0R\n➖➖➖➖\n陳惠敏\n\n學歷：\n東海大學社會學博士\n清華大學人類學研究所\n台灣大學土木系\n\n現職：\n時代力量立法院黨團主任\n時代力量高雄黨部主委\n\n經歷：\n時代力量秘書長\n島國前進基金會執行長\n台灣大學社會系專案助理教授\n自立晚報南部新聞中心記者\n　\n—\n我的IG：https://www.instagram.com/huimin_npp/\n我的Line@：http://nav.cx/cRAWPrn",
+      "ad_creation_time": "2019-11-30T05:34:58+0000",
+      "ad_creative_link_title": "鳳山前進 —— 時代力量立法委員候選人  陳惠敏",
+      "ad_delivery_start_time": "2019-11-30T05:34:58+0000",
+      "ad_delivery_stop_time": "2019-12-02T13:59:42+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000405",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.026098",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000405",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001214",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000405",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000607",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.027514",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.016791",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.018005",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.093263",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.04208",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.206757",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.14384",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.080113",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.197856",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.081732",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.062715",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000202",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "Huimin Chen",
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "page_id": "942934662567694",
+      "page_name": "陳惠敏  高雄鳳山立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Kaohsiung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "300",
+        "upper_bound": "399"
+      }
+    }
+  }
+]

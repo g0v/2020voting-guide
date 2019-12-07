@@ -1,0 +1,140 @@
+[
+  {
+    "選區": "臺南市第五選舉區",
+    "參選人": "陳致曉",
+    "AD_ID": "689528784890734",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-15",
+    "結束日期": "2019-11-07",
+    "廣告內容": "【促進階級流動！追求世代正義！】 我是一個大學教師，投入社運八年。 眼見青年低薪長工時逼賣肝，產業停滯浪費長才、重擔壓迫不敢生活、不敢生育、不敢夢想。為了終止奴役惡政。我投入南市立委選舉，進行庶民對抗權貴的革命。",
+    "圖片": "https://scontent-nrt1-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74216849_524609438325950_4213382996348108800_n.jpg?_nc_cat=104&_nc_oc=AQld1Z1EnASa_gqwhoM1zXG-a5rFGVoCaqlLEhOF4ULS-RNriqATWnub2lM93rAweQg&_nc_ht=scontent-nrt1-1.xx&oh=eb7b7b42d9e711f0599301664b413991&oe=5E611A9D",
+    "廣告詳情": {
+      "ad_creative_body": "【促進階級流動！追求世代正義！】\n\n我是一個大學教師，投入社運八年。\n\n眼見青年低薪長工時逼賣肝，產業停滯浪費長才、重擔壓迫不敢生活、不敢生育、不敢夢想。為了終止奴役惡政。我投入南市立委選舉，進行庶民對抗權貴的革命。",
+      "ad_creation_time": "2019-10-16T06:42:53+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "願同弱少鬥強權！重振黨外精神！實現庶民正義！\n台南市第五選區（東／中西／南／安平）立委參選人",
+      "ad_creative_link_title": "陳致曉 願同弱少鬥強權 台南市立委參選人",
+      "ad_delivery_start_time": "2019-10-16T06:42:53+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.255814",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.305479",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.152148",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.18447",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.102089",
+          "age": "65+",
+          "gender": "male"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "4000",
+        "upper_bound": "4999"
+      },
+      "page_id": "102790324425631",
+      "page_name": "陳致曉 願同弱少鬥強權 台南市立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "0.030871",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.017976",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.002345",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.033216",
+          "region": "Hsinchu City"
+        },
+        {
+          "percentage": "0.010551",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.037905",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.008206",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.025791",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.004689",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.018757",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.106292",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.003517",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.012896",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.034779",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.094568",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.114498",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.094177",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.144979",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.20125",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.002735",
+          "region": "Chiayi"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      }
+    }
+  }
+]

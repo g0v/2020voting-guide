@@ -1,0 +1,745 @@
+[
+  {
+    "選區": "臺東縣選舉區",
+    "參選人": "劉櫂豪",
+    "AD_ID": "300801753919125",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-02-07",
+    "結束日期": "2019-11-24",
+    "廣告內容": "此粉絲頁由櫂豪同意授權經營，在這可以立即得知櫂豪的問政及服務訊息，櫂豪個人臉書好友已達上限(拍謝^^) 歡迎來點讚，可立即得知櫂豪訊息動態。",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/55104998_300801773919123_8035503882303963136_n.jpg?_nc_cat=106&_nc_ohc=P5ztQsJ0CNMAQnOCPc5MTPpaPvacdy7q9GWUm_pFt12CBdiX53lLGWIVg&_nc_ht=scontent-hkg3-1.xx&oh=e7cfc4c95b30d0f7bff04fbdd9d133d2&oe=5E83E320"
+  },
+  {
+    "選區": "臺東縣選舉區",
+    "參選人": "劉櫂豪",
+    "AD_ID": "479666319567391",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-21",
+    "結束日期": "2019-11-26",
+    "廣告內容": "早安！ 櫂豪前陣子來到好朋友魏紋書池上萬安的稻田一起割稻，挺台東青農！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78309419_479666349567388_7275859360327139328_n.jpg?_nc_cat=111&_nc_ohc=a8CQ1_c-m7QAQm98b4op43R-Ao9EmgcBJT3rjTyYDHTYgLTlHa7QTzRhQ&_nc_ht=scontent-hkg3-1.xx&oh=516bbd4cc32cb29dced608100e81e82e&oe=5E82EA10",
+    "廣告詳情": {
+      "ad_creative_body": "早安！\n櫂豪前陣子來到好朋友魏紋書池上萬安的稻田一起割稻，挺台東青農！",
+      "ad_creation_time": "2019-11-22T02:41:59+0000",
+      "ad_creative_link_caption": "www.youtube.com",
+      "ad_creative_link_title": "劉櫂豪挺台東青農",
+      "ad_delivery_start_time": "2019-11-22T02:41:59+0000",
+      "ad_delivery_stop_time": "2019-11-27T02:41:35+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000106",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.272785",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.336563",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.104344",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.018633",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.027364",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.109561",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.037266",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.060903",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.024702",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.002768",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.004046",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000958",
+          "age": "25-34",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "劉櫂豪",
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "213939351983587",
+      "page_name": "劉櫂豪",
+      "region_distribution": [
+        {
+          "percentage": "0.000729",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.006669",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.518445",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.101605",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.245102",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.127449",
+          "region": "Taitung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      }
+    }
+  },
+  {
+    "選區": "臺東縣選舉區",
+    "參選人": "劉櫂豪",
+    "AD_ID": "719407861877795",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-22",
+    "結束日期": "2019-11-27",
+    "廣告內容": "劉櫂豪挺台東青年 X 台東製造《台東孩紙》 歡迎收看！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78838175_719407881877793_1301232562198282240_n.jpg?_nc_cat=105&_nc_ohc=yu0ob3R0PmMAQnn2F2fvw2QtQ-tbMdnvvgHG_537eNqLWeYGM92XFASdA&_nc_ht=scontent-hkg3-1.xx&oh=d8a3e7304a4901b5f8e1be9fe613ffdc&oe=5E825630",
+    "廣告詳情": {
+      "ad_creative_body": "劉櫂豪挺台東青年 X 台東製造《台東孩紙》\n歡迎收看！",
+      "ad_creation_time": "2019-11-23T02:58:23+0000",
+      "ad_creative_link_caption": "www.youtube.com",
+      "ad_creative_link_title": "劉櫂豪挺台東青年 X 台東製造《台東孩紙》",
+      "ad_delivery_start_time": "2019-11-23T02:58:23+0000",
+      "ad_delivery_stop_time": "2019-11-28T02:57:59+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.051772",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.119414",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.085208",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.309553",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.034052",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.211402",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.140216",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.004314",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.0151",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000154",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.012943",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.010324",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.005085",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000462",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "劉櫂豪",
+      "impressions": {
+        "lower_bound": "8000",
+        "upper_bound": "8999"
+      },
+      "page_id": "213939351983587",
+      "page_name": "劉櫂豪",
+      "region_distribution": [
+        {
+          "percentage": "0.559644",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.091383",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.006286",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.238577",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.103343",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.000767",
+          "region": "Chiayi"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      }
+    }
+  },
+  {
+    "選區": "臺東縣選舉區",
+    "參選人": "劉櫂豪",
+    "AD_ID": "2353506154913608",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-24",
+    "結束日期": "2019-12-01",
+    "廣告內容": "此粉絲頁由櫂豪同意授權經營，在這可以立即得知櫂豪的問政及服務訊息，櫂豪個人臉書好友已達上限(拍謝^^) 歡迎來點讚，可立即得知櫂豪訊息動態。",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78554231_2353509511579939_6084647032570511360_n.jpg?_nc_cat=110&_nc_ohc=oLU67meMbdUAQkf-bgQZ99jOeqyoKL_clKcJb6-oC_ZiNQiKCNCko8DoA&_nc_ht=scontent-hkg3-1.xx&oh=635f27c9d20b2f8ac40b2bc9093fea45&oe=5E792DAE",
+    "廣告詳情": {
+      "ad_creative_body": "此粉絲頁由櫂豪同意授權經營，在這可以立即得知櫂豪的問政及服務訊息，櫂豪個人臉書好友已達上限(拍謝^^) 歡迎來點讚，可立即得知櫂豪訊息動態。",
+      "ad_creation_time": "2019-11-24T11:47:16+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "此粉絲頁由櫂豪同意授權經營，在這可以立即得知櫂豪的問政及服務訊息，櫂豪個人臉書好友已達上限(拍謝^^) 歡迎來點讚，可立即得知櫂豪訊息動態。",
+      "ad_creative_link_title": "劉櫂豪",
+      "ad_delivery_start_time": "2019-11-24T11:47:16+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000375",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.088947",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000375",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.026834",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.042222",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.047476",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.049353",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.059861",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.01201",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000188",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.026647",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.07431",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.19741",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.163445",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.209795",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000188",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000563",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "劉櫂豪",
+      "impressions": {
+        "lower_bound": "7000",
+        "upper_bound": "7999"
+      },
+      "page_id": "213939351983587",
+      "page_name": "劉櫂豪",
+      "region_distribution": [
+        {
+          "percentage": "0.021814",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.006406",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.012639",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.026662",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.008483",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.043629",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.021295",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.013677",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.019564",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.144737",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.010215",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.060249",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.104224",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.125346",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.091759",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.087431",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.185942",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.015928",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      }
+    }
+  },
+  {
+    "選區": "臺東縣選舉區",
+    "參選人": "劉櫂豪",
+    "AD_ID": "776506982760416",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-29",
+    "結束日期": "2019-12-01",
+    "廣告內容": "新住民短片出來囉❤ #挺台東新住民 #挺會做事 #台東子弟劉櫂豪",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78828031_445275506182084_8619930020825006080_n.jpg?_nc_cat=106&_nc_ohc=rcTJEZdnee0AQlruUnq7uPdmaBApyx3yQPgmv0bvt7128SDX1Zzk-kP8Q&_nc_ht=scontent-hkg3-1.xx&oh=24c38e1d4d5269071d5972511fef1b19&oe=5E8ADDB5",
+    "廣告詳情": {
+      "ad_creative_body": "新住民短片出來囉❤\n\n#挺台東新住民\n#挺會做事\n#台東子弟劉櫂豪",
+      "ad_creation_time": "2019-11-29T10:49:31+0000",
+      "ad_delivery_start_time": "2019-11-29T10:49:31+0000",
+      "ad_delivery_stop_time": "2019-12-04T10:49:02+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.418878",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.203305",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.179269",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.033801",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.028292",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.056084",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.018027",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.041813",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00025",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.011768",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002504",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002754",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.003255",
+          "age": "35-44",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "劉櫂豪",
+      "impressions": {
+        "lower_bound": "4000",
+        "upper_bound": "4999"
+      },
+      "page_id": "213939351983587",
+      "page_name": "劉櫂豪",
+      "region_distribution": [
+        {
+          "percentage": "0.032282",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.024087",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.012913",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.061584",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.03402",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.064813",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.027316",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.029302",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.013658",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.152967",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.021604",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.102309",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.065557",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.110752",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.055625",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.095853",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.08592",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.009436",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "199"
+      }
+    }
+  },
+  {
+    "選區": "臺東縣選舉區",
+    "參選人": "劉櫂豪",
+    "AD_ID": "307734006776733",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-29",
+    "結束日期": "2019-12-01",
+    "廣告內容": "劉櫂豪爭取每日3列次台東實名制優先訂票 12月17日上線 劉櫂豪立委10月份審查交通部109年度預算時提案爭取台鐵每日3列次台東實名制，以協助台東鄉親能優先購票，經台鐵局研議規劃後，確定於12月17日開始上線，台東的鄉親可優先3日線上訂位12月31日的408、431、405車次，其他旅客需於12月20日後才能開放訂位！ 劉櫂豪立委於今年10月3日審查交通部109年度預算時，特向林佳龍部長爭取台東鄉親往返北部的部分車次能規劃台東實名制，讓台東鄉親優先購票，以改善鄉親平日買無車票之苦，尤其平日鄉親往返北部最主要是要前往花蓮或台北就醫，因此特與台鐵局研議台北-台東408車次、台東-台北431及405車次能規劃台東實名制，於開放訂位後前3日台東鄉親優先購票，第4日起方開放一般旅客訂位；劉櫂豪強調，在花東鐵路全線雙軌化計畫未完成前，台東鐵路運能受限，供不應求，因此才研議台東優先的措施方案來處理，政府應設法規劃短中長期的鐵路運輸解決計畫，才能讓民眾真正有感政府在照顧東部的居民。 劉櫂豪說明，台東實名制比照目前的花東實名制，針對身份證開頭V、設籍台東以及其一等親等納入優先購票的名單，在一般訂位系統，2週前開放訂位時，前3日優先台東實名制訂位；但於春節期間，台鐵局會調整3週前開放訂位，屆時上述3車次仍優先10日台東實名制訂位，至開車前11日方開放一般旅客訂位，由於台東實名制上線後離春節期間較近，劉櫂豪特提醒台東的鄉親留意相關的訊息。",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/77379009_2757455284298635_2285776011473715200_n.jpg?_nc_cat=111&_nc_ohc=RZXkciW0hYcAQkdPKoKQjjChEuJQQh05zSbmSxPCnMduHDmUenKah5vFQ&_nc_ht=scontent-hkg3-1.xx&oh=9dad5e48244eabdbd6230a05cb9d8a71&oe=5E866841",
+    "廣告詳情": {
+      "ad_creative_body": "劉櫂豪爭取每日3列次台東實名制優先訂票 12月17日上線\n\n劉櫂豪立委10月份審查交通部109年度預算時提案爭取台鐵每日3列次台東實名制，以協助台東鄉親能優先購票，經台鐵局研議規劃後，確定於12月17日開始上線，台東的鄉親可優先3日線上訂位12月31日的408、431、405車次，其他旅客需於12月20日後才能開放訂位！\n\n劉櫂豪立委於今年10月3日審查交通部109年度預算時，特向林佳龍部長爭取台東鄉親往返北部的部分車次能規劃台東實名制，讓台東鄉親優先購票，以改善鄉親平日買無車票之苦，尤其平日鄉親往返北部最主要是要前往花蓮或台北就醫，因此特與台鐵局研議台北-台東408車次、台東-台北431及405車次能規劃台東實名制，於開放訂位後前3日台東鄉親優先購票，第4日起方開放一般旅客訂位；劉櫂豪強調，在花東鐵路全線雙軌化計畫未完成前，台東鐵路運能受限，供不應求，因此才研議台東優先的措施方案來處理，政府應設法規劃短中長期的鐵路運輸解決計畫，才能讓民眾真正有感政府在照顧東部的居民。\n\n劉櫂豪說明，台東實名制比照目前的花東實名制，針對身份證開頭V、設籍台東以及其一等親等納入優先購票的名單，在一般訂位系統，2週前開放訂位時，前3日優先台東實名制訂位；但於春節期間，台鐵局會調整3週前開放訂位，屆時上述3車次仍優先10日台東實名制訂位，至開車前11日方開放一般旅客訂位，由於台東實名制上線後離春節期間較近，劉櫂豪特提醒台東的鄉親留意相關的訊息。",
+      "ad_creation_time": "2019-11-29T10:32:39+0000",
+      "ad_delivery_start_time": "2019-11-29T10:32:39+0000",
+      "ad_delivery_stop_time": "2019-12-04T05:25:16+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.035724",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.190626",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.037153",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.159188",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.217205",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.100029",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.092312",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.079165",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.047728",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.007716",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.013147",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.018863",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000572",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000572",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "劉櫂豪",
+      "impressions": {
+        "lower_bound": "4000",
+        "upper_bound": "4999"
+      },
+      "page_id": "213939351983587",
+      "page_name": "劉櫂豪",
+      "region_distribution": [
+        {
+          "percentage": "0.571143",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.062857",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.002",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.171429",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.192571",
+          "region": "Taitung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "200",
+        "upper_bound": "299"
+      }
+    }
+  }
+]

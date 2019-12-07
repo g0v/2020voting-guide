@@ -1,0 +1,132 @@
+[
+  {
+    "選區": "臺中市第六選舉區",
+    "參選人": "洪偉富",
+    "AD_ID": "472855880247856",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-08",
+    "結束日期": "2019-11-14",
+    "廣告內容": "偉富有宗教專業背景，畢業於輔仁大學宗教學系學士班與宗教研究所，目前擔任宗教研究中心研究員，並致力宗教正信教育多年，宗教專業獲得各大宗教領袖肯定及推薦，將以【公平、正義、道德、良知】為從政的基本原則，繼續努力爭取選民支持，我相信我們是會成功的，如能順利當選我將以【公平、正義】原則監督政府與審查法案，以【道德、良知】原則擔任全民立委，民意優先絕不涉入權力鬥爭，對箝制人民的惡法也將反抗到底。",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/73482735_1158305757703322_4158230432241942528_n.jpg?_nc_cat=107&_nc_ohc=GDy-NmoYi4MAQmVlniMdcthWi2p8t7r55bahlWN-GK92BvsiqYayps8Qg&_nc_ht=scontent-hkg3-1.xx&oh=4095ba91ee5bab1f03d728a5e52258ae&oe=5E8543BF",
+    "廣告詳情": {
+      "ad_creative_body": "偉富有宗教專業背景，畢業於輔仁大學宗教學系學士班與宗教研究所，目前擔任宗教研究中心研究員，並致力宗教正信教育多年，宗教專業獲得各大宗教領袖肯定及推薦，將以【公平、正義、道德、良知】為從政的基本原則，繼續努力爭取選民支持，我相信我們是會成功的，如能順利當選我將以【公平、正義】原則監督政府與審查法案，以【道德、良知】原則擔任全民立委，民意優先絕不涉入權力鬥爭，對箝制人民的惡法也將反抗到底。",
+      "ad_creation_time": "2019-11-09T03:06:54+0000",
+      "ad_delivery_start_time": "2019-11-09T03:06:58+0000",
+      "ad_delivery_stop_time": "2019-11-15T03:06:54+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.066837",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.126684",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.151577",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.205456",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.122592",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.061893",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.16283",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.031714",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.037681",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000682",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.029838",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000682",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000853",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000512",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000171",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "8000",
+        "upper_bound": "8999"
+      },
+      "page_id": "957194977814402",
+      "page_name": "洪偉富",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2000",
+        "upper_bound": "2499"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第六選舉區",
+    "參選人": "洪偉富",
+    "AD_ID": "553347988784831",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-16",
+    "結束日期": "2019-11-21",
+    "廣告內容": "",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/75398236_1144949442372287_3630241276386869248_n.jpg?_nc_cat=103&_nc_ohc=gXLZJG67Z_wAQmQkj0uqIhquC0x4YGZry1oL2KwqwNpIjDBy_8Zblmodg&_nc_ht=scontent-hkg3-1.xx&oh=9056b50ecd227f96e9d1eab895aba70b&oe=5E565B86"
+  },
+  {
+    "選區": "臺中市第六選舉區",
+    "參選人": "洪偉富",
+    "AD_ID": "2417379331867598",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-18",
+    "結束日期": "2019-11-23",
+    "廣告內容": "",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76618997_1167510726782825_8287262671783329792_n.png?_nc_cat=104&_nc_ohc=TGtEwLLlpWUAQn58GmOliporn6-PYskmUavOykxHdJSNT6H69ABmbN5bw&_nc_ht=scontent-hkg3-1.xx&oh=bffb4891511556a4a7314b023ee64f7c&oe=5E51AB05"
+  }
+]

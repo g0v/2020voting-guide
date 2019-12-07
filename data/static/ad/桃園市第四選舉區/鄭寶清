@@ -1,0 +1,257 @@
+[
+  {
+    "選區": "桃園市第四選舉區",
+    "參選人": "鄭寶清",
+    "AD_ID": "468865163733629",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-02",
+    "結束日期": "2019-11-08",
+    "廣告內容": "總統選小英，立委選寶清！ 11月9日下午3點，我們與您相約市三簡易公園(桃園區中州街)～",
+    "圖片": "https://scontent-nrt1-1.xx.fbcdn.net/v/t39.16868-6/76615595_468865177066961_8602616853036007424_n.jpg?_nc_cat=110&_nc_oc=AQnimC1zuJUEQN0646HzaepPVDdSz_6wXNYBZA3lRkfUjUCA9tTSiF8k8uZD3yREZIM&_nc_ht=scontent-nrt1-1.xx&oh=70dc8fcf99013648c2800e3becf7b6a7&oe=5E4B43D7"
+  },
+  {
+    "選區": "桃園市第四選舉區",
+    "參選人": "鄭寶清",
+    "AD_ID": "439640303291864",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-14",
+    "結束日期": "2019-11-19",
+    "廣告內容": "總統選小英，立委選寶清！ 大團結演講會這次來到市三簡易公園(桃園區中州街或宏昌三街)～ 現場將邀請到 鄭文燦市長、台語歌手蔡佳麟～ 11月9日星期六，18:30正式開始，準備和您一起high翻市三簡易公園～ #鄭文燦市長 #蔡佳麟 #寶哥超人 #2020台灣要贏_桃園也要贏 #立法委員鄭寶清敬邀🙏",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/77395551_439642029958358_2362228959078252544_n.jpg?_nc_cat=110&_nc_ohc=Qq42Oc_uE0EAQlTpeaaOgQkBQnkjrYuxWF7J4gILshmJzyJ4Kkk3Lpv4A&_nc_ht=scontent-hkg3-1.xx&oh=248fc7489d78d4e0b19f5be09a165b3b&oe=5E801092",
+    "廣告詳情": {
+      "ad_creative_body": "總統選小英，立委選寶清！\n\n大團結演講會這次來到市三簡易公園(桃園區中州街或宏昌三街)～\n現場將邀請到 鄭文燦市長、台語歌手蔡佳麟～\n\n11月9日星期六，18:30正式開始，準備和您一起high翻市三簡易公園～\n\n#鄭文燦市長 #蔡佳麟 #寶哥超人\n#2020台灣要贏_桃園也要贏\n#立法委員鄭寶清敬邀🙏",
+      "ad_creation_time": "2019-11-14T09:34:38+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_delivery_start_time": "2019-11-14T09:34:40+0000",
+      "ad_delivery_stop_time": "2019-11-19T09:34:38+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.118485",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.096061",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.17596",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.230202",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.013939",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.111111",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.126869",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.042121",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.044949",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.006869",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.006768",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.025051",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000404",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000303",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000707",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000202",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "鄭寶清",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "1572448819666020",
+      "page_name": "鄭寶清",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taoyuan City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      }
+    }
+  },
+  {
+    "選區": "桃園市第四選舉區",
+    "參選人": "鄭寶清",
+    "AD_ID": "2455350494513453",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-19",
+    "結束日期": "2019-11-30",
+    "廣告內容": "紙風車劇團到桃園囉～ 11月30日(星期六)晚上７點，我們在桃園區大興西路三段與正光路交叉口，與您不見不散！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/77034565_494550021477765_7604106187293851648_n.jpg?_nc_cat=107&_nc_ohc=o9eKJXlkNVUAQk3weoyLiC-igL0oBA_s2IVHiVlEMX5Kede0cC1pdnYLA&_nc_ht=scontent-hkg3-1.xx&oh=1d2a4555deb2fbfdee97bd6d45da2aa6&oe=5E88B65E",
+    "廣告詳情": {
+      "ad_creative_body": "紙風車劇團到桃園囉～\n11月30日(星期六)晚上７點，我們在桃園區大興西路三段與正光路交叉口，與您不見不散！",
+      "ad_creation_time": "2019-11-19T09:03:33+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_title": "紙風車劇團來啦～",
+      "ad_delivery_start_time": "2019-11-19T09:03:41+0000",
+      "ad_delivery_stop_time": "2019-11-30T09:03:33+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "8.1E-5",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.072182",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000243",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000487",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.016383",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.024006",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.030657",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.060341",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000243",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "8.1E-5",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.137145",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.08824",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.049311",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.196107",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.106407",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.067883",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.150041",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000162",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "鄭寶清",
+      "impressions": {
+        "lower_bound": "20000",
+        "upper_bound": "24999"
+      },
+      "page_id": "1572448819666020",
+      "page_name": "鄭寶清",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taoyuan City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "3000",
+        "upper_bound": "3499"
+      }
+    }
+  }
+]

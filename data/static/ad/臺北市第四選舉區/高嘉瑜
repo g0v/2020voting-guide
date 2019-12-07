@@ -1,0 +1,1647 @@
+[
+  {
+    "選區": "臺北市第四選舉區",
+    "參選人": "高嘉瑜",
+    "AD_ID": "2472493376360321",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-01",
+    "結束日期": "2019-11-11",
+    "廣告內容": "📣請大家填問卷助嘉瑜一臂之力📣 讓我知道你們在想什麼吧❤️ 也請大家分享給你～所有～的朋友 身為「2020 台北市內湖、南港區區域立委候選人」 我沒有派系、沒有世家背景、沒有財團撐腰，我唯一的資本來自於大家支持，而這一次，我們想藉由「群眾集資」打贏這場生存之戰！ 如果你願意了解，請繼續以下問卷，凡完成填答者還有機會和我「同台對唱🎤」或擁有近距離「咖啡約會☕」！",
+    "圖片": "https://scontent-nrt1-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74602257_2560800210670282_9030231171484614656_n.jpg?_nc_cat=107&_nc_oc=AQlKST9VhTH4ARQqImde6W91tXxxDiYMAKIzdLn7SoR2kAEujfWmXx5E9P37f92s7lg&_nc_ht=scontent-nrt1-1.xx&oh=71d51eae074188116d7e289d8b4b38da&oe=5E4CE30B",
+    "廣告詳情": {
+      "ad_creative_body": "📣請大家填問卷助嘉瑜一臂之力📣\n讓我知道你們在想什麼吧❤️\n也請大家分享給你～所有～的朋友\n\n身為「2020 台北市內湖、南港區區域立委候選人」\n我沒有派系、沒有世家背景、沒有財團撐腰，我唯一的資本來自於大家支持，而這一次，我們想藉由「群眾集資」打贏這場生存之戰！\n\n如果你願意了解，請繼續以下問卷，凡完成填答者還有機會和我「同台對唱🎤」或擁有近距離「咖啡約會☕」！",
+      "ad_creation_time": "2019-11-01T08:44:39+0000",
+      "ad_creative_link_caption": "crowd-funding.typeform.com",
+      "ad_creative_link_description": "高嘉瑜：「我靠加倍努力！」 2020 台北市內湖、南港區域立委候選人 群眾集資計畫將於 11/10 正式啟動！",
+      "ad_creative_link_title": "高嘉瑜｜我靠加倍努力",
+      "ad_delivery_start_time": "2019-11-01T08:44:39+0000",
+      "ad_delivery_stop_time": "2019-11-11T15:59:00+0000",
+      "currency": "USD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.237009",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.018493",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000116",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000398",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001509",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000249",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000663",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.03216",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.022921",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.027001",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.137645",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.028925",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.058066",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.010399",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.005904",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.277976",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.14053",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "3.3E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "80000",
+        "upper_bound": "89999"
+      },
+      "page_id": "202188887719",
+      "page_name": "高嘉瑜",
+      "region_distribution": [
+        {
+          "percentage": "0.000114",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.008088",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.014873",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.024735",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.004752",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.021171",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.002799",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.011228",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.010821",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.001888",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.00332",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.018665",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.001269",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.037558",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.104374",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.122567",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.096775",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.093195",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.27397",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.114528",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.033311",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "200",
+        "upper_bound": "299"
+      }
+    }
+  },
+  {
+    "選區": "臺北市第四選舉區",
+    "參選人": "高嘉瑜",
+    "AD_ID": "1995154367297324",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-05",
+    "結束日期": "2019-11-11",
+    "廣告內容": "📣請大家填問卷助嘉瑜一臂之力📣 讓我知道你們在想什麼吧❤️ 也請大家分享給你～所有～的朋友 身為「2020 台北市內湖、南港區區域立委候選人」 我沒有派系、沒有世家背景、沒有財團撐腰，我唯一的資本來自於大家支持，而這一次，我們想藉由「群眾集資」打贏這場生存之戰！ 如果你願意了解，請繼續以下問卷，凡完成填答者還有機會和我「同台對唱🎤」或擁有近距離「咖啡約會☕」！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74602257_2560800210670282_9030231171484614656_n.jpg?_nc_cat=107&_nc_ohc=icvKu1muKCgAQkVH_g6ILCKlXOwTFCRUXfDc5oEO4m2ftM73s92Qm4dcA&_nc_ht=scontent-hkg3-1.xx&oh=c68d080e10750390ca66ef2673584c2f&oe=5E4CE30B",
+    "廣告詳情": {
+      "ad_creative_body": "📣請大家填問卷助嘉瑜一臂之力📣\n讓我知道你們在想什麼吧❤️\n也請大家分享給你～所有～的朋友\n\n身為「2020 台北市內湖、南港區區域立委候選人」\n我沒有派系、沒有世家背景、沒有財團撐腰，我唯一的資本來自於大家支持，而這一次，我們想藉由「群眾集資」打贏這場生存之戰！\n\n如果你願意了解，請繼續以下問卷，凡完成填答者還有機會和我「同台對唱🎤」或擁有近距離「咖啡約會☕」！",
+      "ad_creation_time": "2019-11-06T02:54:29+0000",
+      "ad_creative_link_caption": "crowd-funding.typeform.com",
+      "ad_creative_link_description": "高嘉瑜：「我靠加倍努力！」 2020 台北市內湖、南港區域立委候選人 群眾集資計畫將於 11/10 正式啟動！",
+      "ad_creative_link_title": "高嘉瑜｜我靠加倍努力",
+      "ad_delivery_start_time": "2019-11-06T02:54:29+0000",
+      "ad_delivery_stop_time": "2019-11-11T15:59:00+0000",
+      "currency": "USD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.317391",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.15528",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.243478",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.178882",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.063354",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.041615",
+          "age": "65+",
+          "gender": "male"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "1999"
+      },
+      "page_id": "202188887719",
+      "page_name": "高嘉瑜",
+      "region_distribution": [
+        {
+          "percentage": "0.018308",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.001263",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.013258",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.016414",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.005051",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.019571",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.003157",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.006313",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.011364",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.008207",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.144571",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.004419",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.003157",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.018308",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.111742",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.11553",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.099116",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.087121",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.267677",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.045455",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      }
+    }
+  },
+  {
+    "選區": "臺北市第四選舉區",
+    "參選人": "高嘉瑜",
+    "AD_ID": "454862665429719",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-06",
+    "結束日期": "2019-11-11",
+    "廣告內容": "我靠加倍努力💪 💡集資計畫倒數五天💡 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿ 還沒填寫問卷的朋友這邊請：https://lihi1.cc/nFLjO",
+    "圖片": "https://scontent-nrt1-1.xx.fbcdn.net/v/t1.6435-0/s600x600/73304572_10157683363622720_3542412231725547520_n.jpg?_nc_cat=104&_nc_oc=AQn8aIsMJOzdYOdiD0m7GOviZ4UX2m8GCFf4jJVm7zbeWrLWV_4MHGIPS42GoAWYuiA&_nc_ht=scontent-nrt1-1.xx&oh=e413bfe898e8949e1b49402ef5c9cad3&oe=5E612FCC"
+  },
+  {
+    "選區": "臺北市第四選舉區",
+    "參選人": "高嘉瑜",
+    "AD_ID": "437318396932539",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-13",
+    "結束日期": "2019-11-14",
+    "廣告內容": "📢集資計畫正式上線：http://bit.ly/2Q73v9D 沒有派系背景，更沒有財團撐腰 我最大的力量，來自你們的支持 我會用每一份心意來完成你們對我的期許 讓我們一起為更美好的未來，加倍努力💪",
+    "圖片": "https://scontent-nrt1-1.xx.fbcdn.net/v/t39.16868-6/77080275_723536244792960_6758975521020706816_n.jpg?_nc_cat=102&_nc_oc=AQkcf34bRTVXT3ao5frOUReEM7z7Nc0EnAkFm-WaHhnr-KGmcLovHbU-qBb87ETcJN0&_nc_ht=scontent-nrt1-1.xx&oh=dda65686ed4df8ab7af3308825bd2f7f&oe=5E5BE7F3"
+  },
+  {
+    "選區": "臺北市第四選舉區",
+    "參選人": "高嘉瑜",
+    "AD_ID": "428868768005124",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-18",
+    "結束日期": "2019-11-20",
+    "廣告內容": "📢集資計畫正式上線：http://bit.ly/2KltDtE 沒有派系背景，更沒有財團撐腰 我最大的力量，來自你們的支持 我會用每一份心意來完成你們對我的期許 讓我們一起為更美好的未來，加倍努力💪",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78205749_2501905450047319_3606615816637775872_n.jpg?_nc_cat=108&_nc_oc=AQl3t_mVUv0HihOr5OOW31e3YzKx3Ugk8uSXWPpo0dyip3f9Q84m-rl5vcAQIlaJl8E&_nc_ht=scontent-hkg3-1.xx&oh=9c40077604ef9a5e2e1abec020628170&oe=5E886EAD",
+    "廣告詳情": {
+      "ad_creative_body": "📢集資計畫正式上線：http://bit.ly/2KltDtE\n沒有派系背景，更沒有財團撐腰\n我最大的力量，來自你們的支持\n我會用每一份心意來完成你們對我的期許\n讓我們一起為更美好的未來，加倍努力💪",
+      "ad_creation_time": "2019-11-19T06:31:20+0000",
+      "ad_creative_link_title": "我靠加倍努力！",
+      "ad_delivery_start_time": "2019-11-19T06:31:20+0000",
+      "ad_delivery_stop_time": "2019-12-13T15:59:00+0000",
+      "currency": "USD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.394135",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.339349",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.140187",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.103126",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.023203",
+          "age": "55-64",
+          "gender": "male"
+        }
+      ],
+      "funding_entity": "嘉瑜 高",
+      "impressions": {
+        "lower_bound": "3000",
+        "upper_bound": "3999"
+      },
+      "page_id": "202188887719",
+      "page_name": "高嘉瑜",
+      "region_distribution": [
+        {
+          "percentage": "0.001263",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.001579",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.011051",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.015472",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.004105",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.01263",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.005684",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.004736",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.006947",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.090938",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.001895",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.123145",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.097253",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.068835",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.35712",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.100095",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.012946",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.006315",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.014209",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.063783",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      }
+    }
+  },
+  {
+    "選區": "臺北市第四選舉區",
+    "參選人": "高嘉瑜",
+    "AD_ID": "584863685593667",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-18",
+    "結束日期": "2019-11-22",
+    "廣告內容": "📢集資計畫正式上線：http://bit.ly/2KltDtE 沒有派系背景，更沒有財團撐腰 我最大的力量，來自你們的支持 我會用每一份心意來完成你們對我的期許 讓我們一起為更美好的未來，加倍努力💪",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78205749_2501905450047319_3606615816637775872_n.jpg?_nc_cat=108&_nc_oc=AQmSg-h6win1FOtTw3p9DUX453jMTML_7xIm0m9IUuAS2drZY5CsW2I-6wsjfVQO5Z4&_nc_ht=scontent-hkg3-1.xx&oh=7fc0346f4f7e831d5c80bb4a9d4c92cd&oe=5E886EAD",
+    "廣告詳情": {
+      "ad_creative_body": "📢集資計畫正式上線：http://bit.ly/2KltDtE\n沒有派系背景，更沒有財團撐腰\n我最大的力量，來自你們的支持\n我會用每一份心意來完成你們對我的期許\n讓我們一起為更美好的未來，加倍努力💪",
+      "ad_creation_time": "2019-11-19T06:31:23+0000",
+      "ad_creative_link_title": "我靠加倍努力！",
+      "ad_delivery_start_time": "2019-11-19T06:31:23+0000",
+      "ad_delivery_stop_time": "2019-12-13T15:59:00+0000",
+      "currency": "USD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.420428",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.092637",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.335808",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.131829",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.019299",
+          "age": "55-64",
+          "gender": "male"
+        }
+      ],
+      "funding_entity": "嘉瑜 高",
+      "impressions": {
+        "lower_bound": "3000",
+        "upper_bound": "3999"
+      },
+      "page_id": "202188887719",
+      "page_name": "高嘉瑜",
+      "region_distribution": [
+        {
+          "percentage": "0.001484",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.09911",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.007715",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.014837",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.003561",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.009792",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.007715",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.021662",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.091098",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.136202",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.076855",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.006528",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.338279",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.1",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.01365",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.000297",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.002967",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.008012",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.001484",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.010386",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.048368",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      }
+    }
+  },
+  {
+    "選區": "臺北市第四選舉區",
+    "參選人": "高嘉瑜",
+    "AD_ID": "397896617756956",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-21",
+    "結束日期": "2019-11-22",
+    "廣告內容": "又濕又冷的天氣 還是米粉湯最對味 尤其是滿滿的生辣椒😱 保證吃完全身都熱起來￼😋 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ ❤️小額募資進行中：http://bit.ly/37iHUkI 💛現在也開放超商繳費囉：http://bit.ly/344bVCM",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76720902_10157721060882720_7742323930005766144_n.jpg?_nc_cat=110&_nc_oc=AQmjWwslPjPCltO1xBDOrZPsDLxCTIepXG2mAQyVmaPVd95CQRlKkAM-M6oQwdGzy4Y&_nc_ht=scontent-hkg3-1.xx&oh=10f54f2fbca40c572619c4c96ec4f8d2&oe=5E52800D",
+    "廣告詳情": {
+      "ad_creative_body": "又濕又冷的天氣\n還是米粉湯最對味\n尤其是滿滿的生辣椒😱\n保證吃完全身都熱起來￼😋\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿\n❤️小額募資進行中：http://bit.ly/37iHUkI\n💛現在也開放超商繳費囉：http://bit.ly/344bVCM",
+      "ad_creation_time": "2019-11-22T02:07:33+0000",
+      "ad_delivery_start_time": "2019-11-22T02:07:33+0000",
+      "ad_delivery_stop_time": "2019-12-13T15:59:00+0000",
+      "currency": "USD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.397959",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.363636",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.1141",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.017625",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.106679",
+          "age": "45-54",
+          "gender": "male"
+        }
+      ],
+      "funding_entity": "嘉瑜 高",
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "1999"
+      },
+      "page_id": "202188887719",
+      "page_name": "高嘉瑜",
+      "region_distribution": [
+        {
+          "percentage": "0.01476",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.001845",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.005535",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.011993",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.002768",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.020295",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.004613",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.00738",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.009225",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.01107",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.093173",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.005535",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.000923",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.019373",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.145756",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.071033",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.095941",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.061808",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.389299",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.027675",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      }
+    }
+  },
+  {
+    "選區": "臺北市第四選舉區",
+    "參選人": "高嘉瑜",
+    "AD_ID": "277124229862358",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-21",
+    "結束日期": "2019-12-01",
+    "廣告內容": "又濕又冷的天氣 還是米粉湯最對味 尤其是滿滿的生辣椒😱 保證吃完全身都熱起來￼😋 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ ❤️小額募資進行中：http://bit.ly/37iHUkI 💛現在也開放超商繳費囉：http://bit.ly/344bVCM",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76720902_10157721060882720_7742323930005766144_n.jpg?_nc_cat=110&_nc_ohc=jubNOmPy4RwAQmFoFvAAliPHKPlL4ZLGnhIk2ySvQ-uDaz4_QGBZ83O-w&_nc_ht=scontent-hkg3-1.xx&oh=d0b98018d2302c896779f85f7f2accc7&oe=5E7A0D0D",
+    "廣告詳情": {
+      "ad_creative_body": "又濕又冷的天氣\n還是米粉湯最對味\n尤其是滿滿的生辣椒😱\n保證吃完全身都熱起來￼😋\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿\n❤️小額募資進行中：http://bit.ly/37iHUkI\n💛現在也開放超商繳費囉：http://bit.ly/344bVCM",
+      "ad_creation_time": "2019-11-22T02:07:33+0000",
+      "ad_delivery_start_time": "2019-11-22T02:07:33+0000",
+      "ad_delivery_stop_time": "2019-12-13T15:59:00+0000",
+      "currency": "USD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.22658",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.378903",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.297411",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.021325",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.075781",
+          "age": "45-54",
+          "gender": "male"
+        }
+      ],
+      "funding_entity": "嘉瑜 高",
+      "impressions": {
+        "lower_bound": "2000",
+        "upper_bound": "2999"
+      },
+      "page_id": "202188887719",
+      "page_name": "高嘉瑜",
+      "region_distribution": [
+        {
+          "percentage": "0.01419",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.002987",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.012323",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.022778",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.005228",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.018297",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.003734",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.012323",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.010456",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.010082",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.116878",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.002614",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001494",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.035101",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.114264",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.150112",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.101568",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.076923",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.244212",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.044436",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      }
+    }
+  },
+  {
+    "選區": "臺北市第四選舉區",
+    "參選人": "高嘉瑜",
+    "AD_ID": "689375114885429",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-21",
+    "結束日期": "2019-11-24",
+    "廣告內容": "📢集資計畫正式上線：http://bit.ly/2KltDtE 沒有派系背景，更沒有財團撐腰 我最大的力量，來自你們的支持 我會用每一份心意來完成你們對我的期許 讓我們一起為更美好的未來，加倍努力💪",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78205749_2501905450047319_3606615816637775872_n.jpg?_nc_cat=108&_nc_ohc=npYQ67oO9okAQmlFjo7utkYA9Rg4gdoMMRne5g8Qnm4yq1aofUWMsLAQw&_nc_ht=scontent-hkg3-1.xx&oh=5d91fbd58b1acc9c66f3c5c52560766c&oe=5E886EAD",
+    "廣告詳情": {
+      "ad_creative_body": "📢集資計畫正式上線：http://bit.ly/2KltDtE\n沒有派系背景，更沒有財團撐腰\n我最大的力量，來自你們的支持\n我會用每一份心意來完成你們對我的期許\n讓我們一起為更美好的未來，加倍努力💪",
+      "ad_creation_time": "2019-11-22T02:06:14+0000",
+      "ad_creative_link_title": "我靠加倍努力！",
+      "ad_delivery_start_time": "2019-11-22T02:06:14+0000",
+      "ad_delivery_stop_time": "2019-12-13T15:59:00+0000",
+      "currency": "USD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.428571",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.038961",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.038961",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.064935",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.025974",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.025974",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.012987",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.051948",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.116883",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.194805",
+          "age": "25-34",
+          "gender": "male"
+        }
+      ],
+      "funding_entity": "嘉瑜 高",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "202188887719",
+      "page_name": "高嘉瑜",
+      "region_distribution": [
+        {
+          "percentage": "0.064103",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.461538",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.038462",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.128205",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.141026",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.012821",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.012821",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.012821",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.012821",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.012821",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.012821",
+          "region": "Hsinchu City"
+        },
+        {
+          "percentage": "0.089744",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      }
+    }
+  },
+  {
+    "選區": "臺北市第四選舉區",
+    "參選人": "高嘉瑜",
+    "AD_ID": "277801426469694",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-23",
+    "結束日期": "2019-11-26",
+    "廣告內容": "📢集資計畫正式上線：http://bit.ly/2KltDtE 沒有派系背景，更沒有財團撐腰 我最大的力量，來自你們的支持 我會用每一份心意來完成你們對我的期許 讓我們一起為更美好的未來，加倍努力💪",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78205749_2501905450047319_3606615816637775872_n.jpg?_nc_cat=108&_nc_ohc=npYQ67oO9okAQmlFjo7utkYA9Rg4gdoMMRne5g8Qnm4yq1aofUWMsLAQw&_nc_ht=scontent-hkg3-1.xx&oh=5d91fbd58b1acc9c66f3c5c52560766c&oe=5E886EAD",
+    "廣告詳情": {
+      "ad_creative_body": "📢集資計畫正式上線：http://bit.ly/2KltDtE\n沒有派系背景，更沒有財團撐腰\n我最大的力量，來自你們的支持\n我會用每一份心意來完成你們對我的期許\n讓我們一起為更美好的未來，加倍努力💪",
+      "ad_creation_time": "2019-11-24T06:28:17+0000",
+      "ad_creative_link_title": "我靠加倍努力！",
+      "ad_delivery_start_time": "2019-11-24T06:28:17+0000",
+      "ad_delivery_stop_time": "2019-12-13T15:59:00+0000",
+      "currency": "USD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.074208",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.377197",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.18597",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.109659",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.252967",
+          "age": "45-54",
+          "gender": "male"
+        }
+      ],
+      "funding_entity": "嘉瑜 高",
+      "impressions": {
+        "lower_bound": "7000",
+        "upper_bound": "7999"
+      },
+      "page_id": "202188887719",
+      "page_name": "高嘉瑜",
+      "region_distribution": [
+        {
+          "percentage": "0.021654",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.002256",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.011729",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.021955",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.005113",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.026165",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.002556",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.010226",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.013083",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.007068",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.136842",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.003158",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001805",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.029925",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.127669",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.09985",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.085564",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.112782",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.24406",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.036541",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      }
+    }
+  },
+  {
+    "選區": "臺北市第四選舉區",
+    "參選人": "高嘉瑜",
+    "AD_ID": "461029004547457",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-18",
+    "結束日期": "2019-11-26",
+    "廣告內容": "📢集資計畫正式上線：http://bit.ly/2KltDtE 沒有派系背景，更沒有財團撐腰 我最大的力量，來自你們的支持 我會用每一份心意來完成你們對我的期許 讓我們一起為更美好的未來，加倍努力💪",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78205749_2501905450047319_3606615816637775872_n.jpg?_nc_cat=108&_nc_ohc=npYQ67oO9okAQmlFjo7utkYA9Rg4gdoMMRne5g8Qnm4yq1aofUWMsLAQw&_nc_ht=scontent-hkg3-1.xx&oh=5d91fbd58b1acc9c66f3c5c52560766c&oe=5E886EAD",
+    "廣告詳情": {
+      "ad_creative_body": "📢集資計畫正式上線：http://bit.ly/2KltDtE\n沒有派系背景，更沒有財團撐腰\n我最大的力量，來自你們的支持\n我會用每一份心意來完成你們對我的期許\n讓我們一起為更美好的未來，加倍努力💪",
+      "ad_creation_time": "2019-11-19T06:24:04+0000",
+      "ad_creative_link_title": "我靠加倍努力！",
+      "ad_delivery_start_time": "2019-11-19T06:24:04+0000",
+      "ad_delivery_stop_time": "2019-12-13T15:59:00+0000",
+      "currency": "USD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.045419",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.135211",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.350412",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.448765",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.020193",
+          "age": "55-64",
+          "gender": "male"
+        }
+      ],
+      "funding_entity": "嘉瑜 高",
+      "impressions": {
+        "lower_bound": "25000",
+        "upper_bound": "29999"
+      },
+      "page_id": "202188887719",
+      "page_name": "高嘉瑜",
+      "region_distribution": [
+        {
+          "percentage": "0.000844",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.007665",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.008185",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.009939",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.003053",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.00877",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.001234",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.005132",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.005652",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.006626",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.014096",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.001169",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.104586",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.088736",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.076199",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.070352",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.432896",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.100234",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.009094",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "6.5E-5",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.045472",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "199"
+      }
+    }
+  },
+  {
+    "選區": "臺北市第四選舉區",
+    "參選人": "高嘉瑜",
+    "AD_ID": "2820731397939208",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-30",
+    "結束日期": "2019-11-11",
+    "廣告內容": "📣請大家填問卷助嘉瑜一臂之力📣 讓我知道你們在想什麼吧❤️ 也請大家分享給你～所有～的朋友 身為「2020 台北市內湖、南港區區域立委候選人」 我沒有派系、沒有世家背景、沒有財團撐腰，我唯一的資本來自於大家支持，而這一次，我們想藉由「群眾集資」打贏這場生存之戰！ 如果你願意了解，請繼續以下問卷，凡完成填答者還有機會和我「同台對唱🎤」或擁有近距離「咖啡約會☕」！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74602257_2560800210670282_9030231171484614656_n.jpg?_nc_cat=107&_nc_ohc=icvKu1muKCgAQkVH_g6ILCKlXOwTFCRUXfDc5oEO4m2ftM73s92Qm4dcA&_nc_ht=scontent-hkg3-1.xx&oh=c68d080e10750390ca66ef2673584c2f&oe=5E4CE30B",
+    "廣告詳情": {
+      "ad_creative_body": "📣請大家填問卷助嘉瑜一臂之力📣\n讓我知道你們在想什麼吧❤️\n也請大家分享給你～所有～的朋友\n\n身為「2020 台北市內湖、南港區區域立委候選人」\n我沒有派系、沒有世家背景、沒有財團撐腰，我唯一的資本來自於大家支持，而這一次，我們想藉由「群眾集資」打贏這場生存之戰！\n\n如果你願意了解，請繼續以下問卷，凡完成填答者還有機會和我「同台對唱🎤」或擁有近距離「咖啡約會☕」！",
+      "ad_creation_time": "2019-10-31T06:50:58+0000",
+      "ad_creative_link_caption": "crowd-funding.typeform.com",
+      "ad_creative_link_description": "高嘉瑜：「我靠加倍努力！」 2020 台北市內湖、南港區域立委候選人 群眾集資計畫將於 11/10 正式啟動！",
+      "ad_creative_link_title": "高嘉瑜｜我靠加倍努力",
+      "ad_delivery_start_time": "2019-10-31T06:50:58+0000",
+      "ad_delivery_stop_time": "2019-11-11T15:59:00+0000",
+      "currency": "USD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.163972",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.159353",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.182448",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.258661",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.009238",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.110855",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.073903",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.016166",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.009238",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.004619",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.009238",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002309",
+          "age": "45-54",
+          "gender": "female"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "202188887719",
+      "page_name": "高嘉瑜",
+      "region_distribution": [
+        {
+          "percentage": "0.023095",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.002309",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.027714",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.027714",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.025404",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.004619",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.009238",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.006928",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.013857",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.103926",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.004619",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.034642",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.115473",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.122402",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.078522",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.064665",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.288684",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.046189",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      }
+    }
+  },
+  {
+    "選區": "臺北市第四選舉區",
+    "參選人": "高嘉瑜",
+    "AD_ID": "1546688598811537",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-26",
+    "結束日期": "2019-12-01",
+    "廣告內容": "📢集資計畫正式上線：http://bit.ly/2KltDtE 沒有派系背景，更沒有財團撐腰 我最大的力量，來自你們的支持 我會用每一份心意來完成你們對我的期許 讓我們一起為更美好的未來，加倍努力💪",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78205749_2501905450047319_3606615816637775872_n.jpg?_nc_cat=108&_nc_ohc=LxaPyHLlCdUAQmlCqkhppjTU5IPVVGP3OdhYp29BQM3Rnh8nW84L5HqTw&_nc_ht=scontent-hkg3-1.xx&oh=ae44600931521872dbbdfa20591202ad&oe=5E886EAD",
+    "廣告詳情": {
+      "ad_creative_body": "📢集資計畫正式上線：http://bit.ly/2KltDtE\n沒有派系背景，更沒有財團撐腰\n我最大的力量，來自你們的支持\n我會用每一份心意來完成你們對我的期許\n讓我們一起為更美好的未來，加倍努力💪",
+      "ad_creation_time": "2019-11-26T10:58:56+0000",
+      "ad_creative_link_title": "我靠加倍努力！",
+      "ad_delivery_start_time": "2019-11-26T10:58:56+0000",
+      "ad_delivery_stop_time": "2019-12-13T15:59:00+0000",
+      "currency": "USD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.099394",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.077766",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.221725",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.241975",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.35914",
+          "age": "35-44",
+          "gender": "male"
+        }
+      ],
+      "funding_entity": "嘉瑜 高",
+      "impressions": {
+        "lower_bound": "20000",
+        "upper_bound": "24999"
+      },
+      "page_id": "202188887719",
+      "page_name": "高嘉瑜",
+      "region_distribution": [
+        {
+          "percentage": "0.018795",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.001771",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.010078",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.022949",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.00395",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.023085",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.003201",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.008648",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.010215",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.000136",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.006469",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.133606",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.003405",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001839",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.027852",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.124889",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.103984",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.089683",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.108819",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.262036",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.034593",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      }
+    }
+  }
+]

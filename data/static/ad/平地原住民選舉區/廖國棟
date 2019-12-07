@@ -1,0 +1,1552 @@
+[
+  {
+    "選區": "平地原住民選舉區",
+    "參選人": "廖國棟",
+    "AD_ID": "2330362887072241",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-30",
+    "結束日期": "2019-11-19",
+    "廣告內容": "希望原鄉 ‧ 都會再造；幸福看的見 ‧ 未來會更好！ │平地原住民立法委員│廖國棟│粉絲團，歡迎您立即加入、按讚！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/76917398_2330362907072239_4619113142163603456_n.jpg?_nc_cat=111&_nc_ohc=-JuBHoolufAAQnWbq2xZDh3kIbj1xlTR42dBZNCXNZJNnsw5XjIVIpQvg&_nc_ht=scontent-hkg3-1.xx&oh=014f93505debb5079be056d57c178fae&oe=5E7A6EBB",
+    "廣告詳情": {
+      "ad_creative_body": "希望原鄉 ‧ 都會再造；幸福看的見 ‧ 未來會更好！\n│平地原住民立法委員│廖國棟│粉絲團，歡迎您立即加入、按讚！",
+      "ad_creation_time": "2019-10-31T05:34:05+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "希望原鄉 ‧ 都會再造；幸福看的見 ‧ 未來會更好！\n│平地原住民立法委員│廖國棟│粉絲團，歡迎您立即加入、按讚！",
+      "ad_creative_link_title": "捍衛勇士-廖國棟Sufin.Siluko",
+      "ad_delivery_start_time": "2019-10-31T05:34:33+0000",
+      "ad_delivery_stop_time": "2019-11-20T05:34:33+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000152",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.213592",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000607",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.02503",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.009557",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.051881",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.094812",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.088744",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.089958",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000152",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.064169",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.03034",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.020631",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.143356",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.166262",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000455",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000303",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "418243609026382",
+      "page_name": "捍衛勇士-廖國棟Sufin.Siluko",
+      "region_distribution": [
+        {
+          "percentage": "0.000298",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.02503",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.015644",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.031287",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.02056",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.03829",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.004172",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.015048",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.021752",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.00447",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.00447",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.026222",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.002235",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.041567",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.116508",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.118296",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.132598",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.084625",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.115912",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.153903",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.027116",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2000",
+        "upper_bound": "2499"
+      }
+    }
+  },
+  {
+    "選區": "平地原住民選舉區",
+    "參選人": "廖國棟",
+    "AD_ID": "489713208543215",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-29",
+    "結束日期": "2019-11-03",
+    "廣告內容": "與時俱進的 #都會原住民政策！ 原民鄉親來到都會謀生，已佔原住民總人口47%，如加上未設籍而實際居住於都會區之人口將超過半數以上。在都會區的族人們更需要政府輔導工作，以適應都市生活；同時在健康、安居、融資、就學、就養、就業、就醫、原住民族語言與文化復振及社會適應等給予協助，以保障都會原民的權益，達到【都會再造】的目標。 日前參加高雄市原住民族聯合豐年祭與族人們相見歡，大家都期盼由國棟 #領先推動 的「#都會原住民保障條例」能盡快通過立法，讓住在都會的原民朋友都能發光發熱，活出自信與光彩。 #希望原鄉 #都會再造 #都會原住民權益的領航者  #平地原住民立法委員唯一支持廖國棟 #捍衛勇士廖國棟│官網https://www.sufin-siluko.com/",
+    "圖片": "https://scontent-nrt1-1.xx.fbcdn.net/v/t1.6435-0/s600x600/71773068_493349698182439_6964110421867364352_n.jpg?_nc_cat=105&_nc_oc=AQmBV7U_2LjTSSHPzROCzpfOARDzkLUc62xPZXIZJXdG47zhOoKqfd3MVc6lE5fk5f8&_nc_ht=scontent-nrt1-1.xx&oh=bf631b58631af19601bc74d4f36b67de&oe=5E1DB8B5"
+  },
+  {
+    "選區": "平地原住民選舉區",
+    "參選人": "廖國棟",
+    "AD_ID": "523951008446922",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-03",
+    "結束日期": "2019-11-23",
+    "廣告內容": "與時俱進的 #都會原住民政策！ 原民鄉親來到都會謀生，已佔原住民總人口47%，如加上未設籍而實際居住於都會區之人口將超過半數以上。在都會區的族人們更需要政府輔導工作，以適應都市生活；同時在健康、安居、融資、就學、就養、就業、就醫、原住民族語言與文化復振及社會適應等給予協助，以保障都會原民的權益，達到【都會再造】的目標。 日前參加高雄市原住民族聯合豐年祭與族人們相見歡，大家都期盼由國棟 #領先推動 的「#都會原住民保障條例」能盡快通過立法，讓住在都會的原民朋友都能發光發熱，活出自信與光彩。 #希望原鄉 #都會再造 #都會原住民權益的領航者  #平地原住民立法委員唯一支持廖國棟 #捍衛勇士廖國棟│官網https://www.sufin-siluko.com/",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/71773068_493349698182439_6964110421867364352_n.jpg?_nc_cat=105&_nc_ohc=nGJDlHRhFKwAQnqCV1DLts2rVAXjw5iA4Sq5P5jOFnTPdHDs2DZmhdWQQ&_nc_ht=scontent-hkg3-1.xx&oh=622b21df17c31f5ef173cf219b7a6332&oe=5E4545B5",
+    "廣告詳情": {
+      "ad_creative_body": "與時俱進的 #都會原住民政策！\n\n原民鄉親來到都會謀生，已佔原住民總人口47%，如加上未設籍而實際居住於都會區之人口將超過半數以上。在都會區的族人們更需要政府輔導工作，以適應都市生活；同時在健康、安居、融資、就學、就養、就業、就醫、原住民族語言與文化復振及社會適應等給予協助，以保障都會原民的權益，達到【都會再造】的目標。\n\n日前參加高雄市原住民族聯合豐年祭與族人們相見歡，大家都期盼由國棟 #領先推動 的「#都會原住民保障條例」能盡快通過立法，讓住在都會的原民朋友都能發光發熱，活出自信與光彩。\n\n#希望原鄉 #都會再造\n#都會原住民權益的領航者 \n#平地原住民立法委員唯一支持廖國棟\n\n#捍衛勇士廖國棟│官網\nhttps://www.sufin-siluko.com/",
+      "ad_creation_time": "2019-11-03T12:02:48+0000",
+      "ad_delivery_start_time": "2019-11-03T12:02:49+0000",
+      "ad_delivery_stop_time": "2019-11-23T12:02:49+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000105",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000105",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.110178",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.042222",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.13486",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.042433",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.176662",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.143682",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.28936",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.006302",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.009978",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.012814",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.010713",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.020586",
+          "age": "25-34",
+          "gender": "male"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "418243609026382",
+      "page_name": "捍衛勇士-廖國棟Sufin.Siluko",
+      "region_distribution": [
+        {
+          "percentage": "0.000105",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.004615",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.027478",
+          "region": "Hsinchu City"
+        },
+        {
+          "percentage": "0.018563",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.036602",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.024541",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.047614",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.005454",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.023388",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.027268",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.023702",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.025695",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.003671",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.05097",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.139067",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.098794",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.126377",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.080021",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.114316",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.119874",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.001888",
+          "region": "Chiayi"
+        }
+      ],
+      "spend": {
+        "lower_bound": "800",
+        "upper_bound": "899"
+      }
+    }
+  },
+  {
+    "選區": "平地原住民選舉區",
+    "參選人": "廖國棟",
+    "AD_ID": "2487878964866614",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-13",
+    "結束日期": "2019-11-28",
+    "廣告內容": "#不忘初心，#勇往直前！ 每一次與鄉親族人的擁抱， 喜悅之外，更是一份承擔。 每一次握著鄉親族人的手， 溫暖之外，更是一份託付。 #平地原住民立法委員懇請支持廖國棟 #捍衛勇士廖國棟│官網https://www.sufin-siluko.com/",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/75569727_522920965225312_8983099218285559808_n.jpg?_nc_cat=101&_nc_ohc=Ehx7ohxg5o4AQkfBqIdhBHrO8B1dBiCXx22h0rUGRPvVK04iQWioUkBdw&_nc_ht=scontent-hkg3-1.xx&oh=748beb3b2333143fce56c662466e4bbd&oe=5E8B4389",
+    "廣告詳情": {
+      "ad_creative_body": "#不忘初心，#勇往直前！\n\n每一次與鄉親族人的擁抱，\n喜悅之外，更是一份承擔。\n每一次握著鄉親族人的手，\n溫暖之外，更是一份託付。\n\n#平地原住民立法委員懇請支持廖國棟\n\n#捍衛勇士廖國棟│官網\nhttps://www.sufin-siluko.com/",
+      "ad_creation_time": "2019-11-13T08:13:35+0000",
+      "ad_delivery_start_time": "2019-11-13T08:13:37+0000",
+      "ad_delivery_stop_time": "2019-11-28T13:49:08+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "8.9E-5",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.152263",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.051464",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.167702",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.143035",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.277817",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.113931",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.006477",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.040728",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.009139",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.009139",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.015439",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.0126",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "8.9E-5",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "8.9E-5",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "418243609026382",
+      "page_name": "捍衛勇士-廖國棟Sufin.Siluko",
+      "region_distribution": [
+        {
+          "percentage": "0.021209",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.022177",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.001936",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.025257",
+          "region": "Hsinchu City"
+        },
+        {
+          "percentage": "0.018041",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.030802",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.019801",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.036258",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.004136",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.017689",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.003168",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.159729",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.019097",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.003872",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.041186",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.137112",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.115814",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.138872",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.06662",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.117047",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.000176",
+          "region": "Lienchiang"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      }
+    }
+  },
+  {
+    "選區": "平地原住民選舉區",
+    "參選人": "廖國棟",
+    "AD_ID": "561747171246272",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-15",
+    "結束日期": "2019-12-01",
+    "廣告內容": "與時俱進的 #都會原住民政策！ 原民鄉親來到都會謀生，已佔原住民總人口47%，如加上未設籍而實際居住於都會區之人口將超過半數以上。在都會區的族人們更需要政府輔導工作，以適應都市生活；同時在健康、安居、融資、就學、就養、就業、就醫、原住民族語言與文化復振及社會適應等給予協助，以保障都會原民的權益，達到【都會再造】的目標。 日前參加高雄市原住民族聯合豐年祭與族人們相見歡，大家都期盼由國棟 #領先推動 的「#都會原住民保障條例」能盡快通過立法，讓住在都會的原民朋友都能發光發熱，活出自信與光彩。 #希望原鄉 #都會再造 #都會原住民權益的領航者  #平地原住民立法委員唯一支持廖國棟 #捍衛勇士廖國棟│官網https://www.sufin-siluko.com/",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/71773068_493349698182439_6964110421867364352_n.jpg?_nc_cat=105&_nc_ohc=nGJDlHRhFKwAQnqCV1DLts2rVAXjw5iA4Sq5P5jOFnTPdHDs2DZmhdWQQ&_nc_ht=scontent-hkg3-1.xx&oh=622b21df17c31f5ef173cf219b7a6332&oe=5E4545B5",
+    "廣告詳情": {
+      "ad_creative_body": "與時俱進的 #都會原住民政策！\n\n原民鄉親來到都會謀生，已佔原住民總人口47%，如加上未設籍而實際居住於都會區之人口將超過半數以上。在都會區的族人們更需要政府輔導工作，以適應都市生活；同時在健康、安居、融資、就學、就養、就業、就醫、原住民族語言與文化復振及社會適應等給予協助，以保障都會原民的權益，達到【都會再造】的目標。\n\n日前參加高雄市原住民族聯合豐年祭與族人們相見歡，大家都期盼由國棟 #領先推動 的「#都會原住民保障條例」能盡快通過立法，讓住在都會的原民朋友都能發光發熱，活出自信與光彩。\n\n#希望原鄉 #都會再造\n#都會原住民權益的領航者 \n#平地原住民立法委員唯一支持廖國棟\n\n#捍衛勇士廖國棟│官網\nhttps://www.sufin-siluko.com/",
+      "ad_creation_time": "2019-11-15T17:08:03+0000",
+      "ad_delivery_start_time": "2019-11-15T17:08:10+0000",
+      "ad_delivery_stop_time": "2019-12-05T23:38:39+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000197",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.020251",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.010717",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.011112",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.038661",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.007627",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.126175",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.042409",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.144585",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000132",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.275626",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.168913",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.141364",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000197",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000263",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "6.6E-5",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.011704",
+          "age": "18-24",
+          "gender": "male"
+        }
+      ],
+      "funding_entity": "瓊心魏",
+      "impressions": {
+        "lower_bound": "25000",
+        "upper_bound": "29999"
+      },
+      "page_id": "418243609026382",
+      "page_name": "捍衛勇士-廖國棟Sufin.Siluko",
+      "region_distribution": [
+        {
+          "percentage": "0.027036",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.004441",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.028603",
+          "region": "Hsinchu City"
+        },
+        {
+          "percentage": "0.018808",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.035199",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.020114",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.042448",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.004832",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.019134",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.026122",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.023248",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.146412",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.004375",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.002155",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.047215",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.145497",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.107817",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.108274",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.071377",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.116568",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.000327",
+          "region": "Lienchiang"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1500",
+        "upper_bound": "1999"
+      }
+    }
+  },
+  {
+    "選區": "平地原住民選舉區",
+    "參選人": "廖國棟",
+    "AD_ID": "747949452340588",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-15",
+    "結束日期": "2019-11-18",
+    "廣告內容": "希望原鄉 ‧ 都會再造；幸福看的見 ‧ 未來會更好！ │平地原住民立法委員│廖國棟│粉絲團，歡迎您立即加入、按讚！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/77703542_438666976790182_3153569012554661888_n.jpg?_nc_cat=100&_nc_ohc=KpH4kfcu1gwAQlylWo6umFQxKxBB56yv92O3dIFk77rp4YLulWjVEU78Q&_nc_ht=scontent-hkg3-1.xx&oh=97495f5f7f56de9de3c848d08c34f218&oe=5E474F62",
+    "廣告詳情": {
+      "ad_creative_body": "希望原鄉 ‧ 都會再造；幸福看的見 ‧ 未來會更好！\n│平地原住民立法委員│廖國棟│粉絲團，歡迎您立即加入、按讚！",
+      "ad_creation_time": "2019-11-15T17:06:55+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "希望原鄉 ‧ 都會再造；幸福看的見 ‧ 未來會更好！\n│平地原住民立法委員│廖國棟│粉絲團，歡迎您立即加入、按讚！",
+      "ad_creative_link_title": "捍衛勇士-廖國棟Sufin.Siluko",
+      "ad_delivery_start_time": "2019-11-15T17:06:55+0000",
+      "ad_delivery_stop_time": "2019-11-19T03:39:19+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000236",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000236",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.140769",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.045744",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.109644",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.227305",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.094317",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.180618",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.057534",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.022636",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.075454",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.022165",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.016506",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.006838",
+          "age": "18-24",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "瓊心魏",
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "page_id": "418243609026382",
+      "page_name": "捍衛勇士-廖國棟Sufin.Siluko",
+      "region_distribution": [
+        {
+          "percentage": "0.001883",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.005178",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.016004",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.03389",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.023064",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.039539",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.01365",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.027065",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.02377",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.004236",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.004001",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.038597",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.121676",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.12144",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.129442",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.087785",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.102612",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.163803",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.024006",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.018357",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "700",
+        "upper_bound": "799"
+      }
+    }
+  },
+  {
+    "選區": "平地原住民選舉區",
+    "參選人": "廖國棟",
+    "AD_ID": "2497127833884128",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-18",
+    "結束日期": "2019-12-01",
+    "廣告內容": "#不忘初心，#勇往直前！ 每一次與鄉親族人的擁抱， 喜悅之外，更是一份承擔。 每一次握著鄉親族人的手， 溫暖之外，更是一份託付。 #平地原住民立法委員懇請支持廖國棟 #捍衛勇士廖國棟│官網https://www.sufin-siluko.com/",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/75569727_522920965225312_8983099218285559808_n.jpg?_nc_cat=101&_nc_ohc=Ehx7ohxg5o4AQkfBqIdhBHrO8B1dBiCXx22h0rUGRPvVK04iQWioUkBdw&_nc_ht=scontent-hkg3-1.xx&oh=748beb3b2333143fce56c662466e4bbd&oe=5E8B4389",
+    "廣告詳情": {
+      "ad_creative_body": "#不忘初心，#勇往直前！\n\n每一次與鄉親族人的擁抱，\n喜悅之外，更是一份承擔。\n每一次握著鄉親族人的手，\n溫暖之外，更是一份託付。\n\n#平地原住民立法委員懇請支持廖國棟\n\n#捍衛勇士廖國棟│官網\nhttps://www.sufin-siluko.com/",
+      "ad_creation_time": "2019-11-18T15:51:45+0000",
+      "ad_delivery_start_time": "2019-11-18T15:51:47+0000",
+      "ad_delivery_stop_time": "2019-12-08T02:17:57+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "6.4E-5",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.053326",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.269517",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.154531",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.143123",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.040956",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.016344",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.17235",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.110755",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.012883",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.008845",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.010576",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.006089",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000192",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00032",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000128",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "瓊心魏",
+      "impressions": {
+        "lower_bound": "20000",
+        "upper_bound": "24999"
+      },
+      "page_id": "418243609026382",
+      "page_name": "捍衛勇士-廖國棟Sufin.Siluko",
+      "region_distribution": [
+        {
+          "percentage": "0.023866",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.003182",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.019602",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.02482",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.016801",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.038758",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.004391",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.017565",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.022529",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.000318",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.016801",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.151976",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.004137",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001591",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.040731",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.142303",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.119137",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.126201",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.069242",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.128429",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.02762",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      }
+    }
+  },
+  {
+    "選區": "平地原住民選舉區",
+    "參選人": "廖國棟",
+    "AD_ID": "418138825520829",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-18",
+    "結束日期": "2019-12-01",
+    "廣告內容": "希望原鄉 ‧ 都會再造；幸福看的見 ‧ 未來會更好！ │平地原住民立法委員│廖國棟│粉絲團，歡迎您立即加入、按讚！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/62121416_418248865692523_2482269219077488640_n.jpg?_nc_cat=105&_nc_ohc=zanYIqojMWoAQlaVS0PHNWXRs0YfB7Wg54FrYqrdbNMmCr4wMC7TIb8UA&_nc_ht=scontent-hkg3-1.xx&oh=732f30d6b69a4a634bd96313262f7f11&oe=5E7FA191",
+    "廣告詳情": {
+      "ad_creative_body": "希望原鄉 ‧ 都會再造；幸福看的見 ‧ 未來會更好！\n│平地原住民立法委員│廖國棟│粉絲團，歡迎您立即加入、按讚！",
+      "ad_creation_time": "2019-11-19T06:36:07+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "希望原鄉 ‧ 都會再造；幸福看的見 ‧ 未來會更好！\n│平地原住民立法委員│廖國棟│粉絲團，歡迎您立即加入、按讚！",
+      "ad_creative_link_title": "捍衛勇士-廖國棟Sufin.Siluko",
+      "ad_delivery_start_time": "2019-11-19T06:36:37+0000",
+      "ad_delivery_stop_time": "2019-12-04T06:36:37+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.203333",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.113333",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.056667",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.096667",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.15",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.136667",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.07",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.033333",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.03",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.083333",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.013333",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.013333",
+          "age": "18-24",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "瓊心魏",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "418243609026382",
+      "page_name": "捍衛勇士-廖國棟Sufin.Siluko",
+      "region_distribution": [
+        {
+          "percentage": "0.023333",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.02",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.013333",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.033333",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.023333",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.033333",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.01",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.016667",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.003333",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.003333",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.156667",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.003333",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.03",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.163333",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.1",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.14",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.1",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.11",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.016667",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      }
+    }
+  },
+  {
+    "選區": "平地原住民選舉區",
+    "參選人": "廖國棟",
+    "AD_ID": "708048506349307",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-19",
+    "結束日期": "2019-12-01",
+    "廣告內容": "卓越問政 ‧ 拚勁十足。希望原鄉 ‧ 都會再造！ │第十屆平地原住民立法委員參選人│廖國棟│粉絲團，歡迎您立即加入、按讚！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/76776119_708048583015966_14904554424369152_n.jpg?_nc_cat=110&_nc_ohc=Zs-ysh8W86AAQllddhbTg8siTxrgvkr2qjcSSlYCWu-_ByVJXUguUEtSg&_nc_ht=scontent-hkg3-1.xx&oh=814c788d2d58c21e16f491f08c080a90&oe=5E7FC1AE",
+    "廣告詳情": {
+      "ad_creative_body": "卓越問政 ‧ 拚勁十足。希望原鄉 ‧ 都會再造！\n│第十屆平地原住民立法委員參選人│廖國棟│粉絲團，歡迎您立即加入、按讚！",
+      "ad_creation_time": "2019-11-20T04:00:52+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "希望原鄉 ‧ 都會再造；幸福看的見 ‧ 未來會更好！\n│平地原住民立法委員│廖國棟│粉絲團，歡迎您立即加入、按讚！",
+      "ad_creative_link_title": "捍衛勇士-廖國棟Sufin.Siluko",
+      "ad_delivery_start_time": "2019-11-20T04:01:22+0000",
+      "ad_delivery_stop_time": "2019-12-05T04:01:22+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000337",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.031268",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000225",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00045",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.010685",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.086492",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.056462",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.093128",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.071758",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000112",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.022832",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.159375",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.031942",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.147565",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.103475",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.183444",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000225",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000225",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "瓊心魏",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "418243609026382",
+      "page_name": "捍衛勇士-廖國棟Sufin.Siluko",
+      "region_distribution": [
+        {
+          "percentage": "0.00022",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.020984",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.014283",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.030543",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.016809",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.03285",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.003845",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.01659",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.024061",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.002417",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.004285",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.025819",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.002966",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.045485",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.13129",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.12316",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.116238",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.084487",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.120633",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.158317",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.02472",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2000",
+        "upper_bound": "2499"
+      }
+    }
+  }
+]

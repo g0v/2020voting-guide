@@ -1,0 +1,461 @@
+[
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "謝文卿",
+    "AD_ID": "2439765886073224",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-12",
+    "結束日期": "2019-11-14",
+    "廣告內容": "最好玩的👉 #氣墊樂園嘉年華 就在陳平市集 免費提供小朋友最愛的的爆米花和棉花糖 現場還有豐富的市集活動，一定要來喔‼ 日期:11月15日 星期五 時間:16:00-21:30 地點:紫微宮廣場 #改變北北屯區 #文卿新選擇 #郭柯強力推薦",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/75610872_122703229164993_8139791877298716672_n.jpg?_nc_cat=100&_nc_ohc=po15Zg9r4rkAQlGls1x0x6JDesIiMMgVTtCCIurzbkz6RLPHMp5ndwR-A&_nc_ht=scontent-hkg3-1.xx&oh=c55c1c82f7fef9d4c41fbc83f97f23ef&oe=5E758FC5",
+    "廣告詳情": {
+      "ad_creative_body": "最好玩的👉 #氣墊樂園嘉年華 就在陳平市集\n免費提供小朋友最愛的的爆米花和棉花糖\n現場還有豐富的市集活動，一定要來喔‼\n\n日期:11月15日 星期五\n時間:16:00-21:30\n地點:紫微宮廣場\n\n#改變北北屯區\n#文卿新選擇\n#郭柯強力推薦",
+      "ad_creation_time": "2019-11-13T03:12:21+0000",
+      "ad_delivery_start_time": "2019-11-13T03:12:21+0000",
+      "ad_delivery_stop_time": "2019-11-15T03:12:01+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.093887",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.030398",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000337",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000337",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000224",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00101",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000449",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.082557",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.043746",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.061469",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.075603",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.117106",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.134829",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.103309",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.047336",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.153001",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.054291",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000112",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "102091854559464",
+      "page_name": "民眾黨謝文卿",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "謝文卿",
+    "AD_ID": "414256339451387",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-29",
+    "結束日期": "2019-12-01",
+    "廣告內容": "台灣有郭台銘，台北有柯文哲，台中有謝文卿。 國會需要第三勢力，共同監督藍綠，終結政治惡鬥。 謝文卿將傾聽民意，卿力親為，一起讓台灣更好。",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78883062_414256369451384_7688849375262408704_n.jpg?_nc_cat=109&_nc_ohc=J2UGJRd0cEAAQnaMMHwD1nC7x8am48bh_WbxfADh502yRTrhZI9i-EKPg&_nc_ht=scontent-hkg3-1.xx&oh=ce5901ba1f62000c416e7b5eda971e19&oe=5E7E1B08",
+    "廣告詳情": {
+      "ad_creative_body": "台灣有郭台銘，台北有柯文哲，台中有謝文卿。\n國會需要第三勢力，共同監督藍綠，終結政治惡鬥。\n謝文卿將傾聽民意，卿力親為，一起讓台灣更好。",
+      "ad_creation_time": "2019-11-29T14:25:15+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "台中北北屯區第一戰將！說到做到，從卿開始！",
+      "ad_creative_link_title": "民眾黨謝文卿",
+      "ad_delivery_start_time": "2019-11-29T16:08:08+0000",
+      "ad_delivery_stop_time": "2019-12-04T14:08:08+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.049138",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.289635",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.233451",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.317819",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.046171",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.015947",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.04135",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000927",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001669",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.003523",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000371",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "怡惠黃",
+      "impressions": {
+        "lower_bound": "7000",
+        "upper_bound": "7999"
+      },
+      "page_id": "102091854559464",
+      "page_name": "民眾黨謝文卿",
+      "region_distribution": [
+        {
+          "percentage": "0.026286",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.003542",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.015101",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.029083",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.006711",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.021439",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.003542",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.010067",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.011559",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.010813",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.111298",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.004101",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.002051",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.042692",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.12528",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.142245",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.097502",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.084452",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.214392",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.037845",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2000",
+        "upper_bound": "2499"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "謝文卿",
+    "AD_ID": "2563855800508979",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-28",
+    "結束日期": "2019-11-29",
+    "廣告內容": "我們相信集眾人之力，可成眾人之事。 給願意做事的人一個改變台灣的機會！ 請幫助文卿從台中出發。台灣，值得更好。",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78800678_2563855830508976_7295843624112095232_n.jpg?_nc_cat=110&_nc_ohc=eV02CE8slKwAQkU2lejktP5aEJsCSzjsu8XH6FYazM-B7qD5K1jkjheDg&_nc_ht=scontent-hkg3-1.xx&oh=38785951d8c177dacfb1a0483071c511&oe=5E48655E",
+    "廣告詳情": {
+      "ad_creative_body": "我們相信集眾人之力，可成眾人之事。\n給願意做事的人一個改變台灣的機會！\n請幫助文卿從台中出發。台灣，值得更好。",
+      "ad_creation_time": "2019-11-28T10:21:25+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "台中北北屯區第一戰將！說到做到，從卿開始！",
+      "ad_creative_link_title": "Dell",
+      "ad_delivery_start_time": "2019-11-28T10:21:25+0000",
+      "ad_delivery_stop_time": "2019-11-29T16:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.040006",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.360613",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.305842",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.072789",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001032",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.15566",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.060565",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002302",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001191",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "怡惠黃",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "102091854559464",
+      "page_name": "民眾黨謝文卿",
+      "region_distribution": [
+        {
+          "percentage": "0.030916",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.005461",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.014615",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.030997",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.006344",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.022806",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.002811",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.012768",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.013732",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.000321",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.009636",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.108649",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.004176",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001365",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.041034",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.097326",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.165422",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.097246",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.084237",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.211756",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.038384",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "4500",
+        "upper_bound": "4999"
+      }
+    }
+  }
+]

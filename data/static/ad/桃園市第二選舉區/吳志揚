@@ -1,0 +1,414 @@
+[
+  {
+    "選區": "桃園市第二選舉區",
+    "參選人": "吳志揚",
+    "AD_ID": "2463257803962403",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-07",
+    "結束日期": "2019-11-11",
+    "廣告內容": "⚠國土計畫管制，不可影響宗教寺廟、休閒農業區⚠ 2020年年將上路的國土計畫，對土地使用管制將讓宗教寺廟土地、休閒農業區等，被迫受評為不合法，而被拆除或停止營業💢 💢 國家施政，不可強頒規定陷民於不法，必須以輔導為重！保障宗教文化及觀光產業！ 內政部於志揚質詢中承諾，新的國土計劃必不影響現有宗教寺廟建地，並會與農委會加強合作，不讓現有休閒農業區受影響📣📣 #國土計畫要合理✅ #監督施政戰力強👍",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/76603259_2463257887295728_8867287976359493632_n.jpg?_nc_cat=103&_nc_ohc=6Jj3p8eS4OUAQntSWAcbOWn03xjkDS8x586ithGR0xNvwuQK1PQMUj2DQ&_nc_ht=scontent-hkg3-1.xx&oh=63ae9b2b28f35562b472ef9ccf2bd95c&oe=5E8898E1",
+    "廣告詳情": {
+      "ad_creative_body": "⚠國土計畫管制，不可影響宗教寺廟、休閒農業區⚠\n\n2020年年將上路的國土計畫，對土地使用管制將讓宗教寺廟土地、休閒農業區等，被迫受評為不合法，而被拆除或停止營業💢 💢\n\n國家施政，不可強頒規定陷民於不法，必須以輔導為重！保障宗教文化及觀光產業！\n\n內政部於志揚質詢中承諾，新的國土計劃必不影響現有宗教寺廟建地，並會與農委會加強合作，不讓現有休閒農業區受影響📣📣\n\n#國土計畫要合理✅\n#監督施政戰力強👍",
+      "ad_creation_time": "2019-11-07T10:12:19+0000",
+      "ad_creative_link_title": "⚠國土計畫管制，不可影響宗教寺廟、休閒農業區⚠",
+      "ad_delivery_start_time": "2019-11-07T10:12:19+0000",
+      "ad_delivery_stop_time": "2019-11-11T15:59:22+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000102",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.014473",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000205",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "5.1E-5",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000153",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000409",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001841",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001074",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.15158",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.027974",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000511",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.008745",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.040043",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.38698",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.03094",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.247469",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.087399",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "5.1E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "20000",
+        "upper_bound": "24999"
+      },
+      "page_id": "796338173770408",
+      "page_name": "吳志揚",
+      "region_distribution": [
+        {
+          "percentage": "0.290064",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.219542",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.140643",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.16828",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.051562",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.059437",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.024728",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.045744",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      }
+    }
+  },
+  {
+    "選區": "桃園市第二選舉區",
+    "參選人": "吳志揚",
+    "AD_ID": "428256647859649",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-27",
+    "結束日期": "2019-12-01",
+    "廣告內容": "中華隊休兵日，志揚一日桃園快閃💨 抓緊時間🕛奔回立院及選區👍 #亞洲一日生活圈✈ #國際機場在桃園✅ #選戰倒數58天✅ #週四晚上9點直播需要暫停一次",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79097719_428256664526314_3645877233676976128_n.jpg?_nc_cat=107&_nc_ohc=AzDwBtyXtMYAQnRE7GGdlhw0-wFZPD2nt1bZprZawPH-JDjOMzwhCpWuw&_nc_ht=scontent-hkg3-1.xx&oh=3b70e8852d7b2ac306ecc34a773931ec&oe=5E481F88",
+    "廣告詳情": {
+      "ad_creative_body": "中華隊休兵日，志揚一日桃園快閃💨\n抓緊時間🕛奔回立院及選區👍\n#亞洲一日生活圈✈\n#國際機場在桃園✅\n#選戰倒數58天✅\n#週四晚上9點直播需要暫停一次",
+      "ad_creation_time": "2019-11-27T10:41:41+0000",
+      "ad_creative_link_title": "立法委員吳志揚-中華隊休兵日，一日桃園快閃💨",
+      "ad_delivery_start_time": "2019-11-27T10:41:41+0000",
+      "ad_delivery_stop_time": "2019-12-01T15:59:43+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "6.2E-5",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.167352",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.396324",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.046791",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.073396",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.088474",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.207103",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.010966",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00729",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000748",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000561",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000374",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000187",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000374",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "韻竹陳",
+      "impressions": {
+        "lower_bound": "20000",
+        "upper_bound": "24999"
+      },
+      "page_id": "796338173770408",
+      "page_name": "吳志揚",
+      "region_distribution": [
+        {
+          "percentage": "0.00018",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.384569",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.252871",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.225329",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.067292",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.035661",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.034097",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      }
+    }
+  },
+  {
+    "選區": "桃園市第二選舉區",
+    "參選人": "吳志揚",
+    "AD_ID": "2532521820303360",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-27",
+    "結束日期": "2019-12-01",
+    "廣告內容": "感謝張善政副總統候選人陪同志揚登記💪 感謝今天所有到場的夥伴👍 團結一起拚 ！就對了💪 #登記參選✅ #好日子一起奮鬥💪 #楊梅新屋觀音大園✅",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78697997_2532521870303355_4085189277808328704_n.jpg?_nc_cat=102&_nc_ohc=5QNq9EMbDOQAQl-hNPa66odIPf9J_MB2PhkCuj4z2exRqZYBfL7HMFAfg&_nc_ht=scontent-hkg3-1.xx&oh=0502035612ee8aa7aa5d370cbd1545a6&oe=5E880AEB",
+    "廣告詳情": {
+      "ad_creative_body": "感謝張善政副總統候選人陪同志揚登記💪\n感謝今天所有到場的夥伴👍\n團結一起拚 ！就對了💪\n#登記參選✅\n#好日子一起奮鬥💪\n#楊梅新屋觀音大園✅",
+      "ad_creation_time": "2019-11-27T10:41:13+0000",
+      "ad_creative_link_caption": "www.instagram.com",
+      "ad_creative_link_title": "立法委員吳志揚-登記參選桃園第二選區立委",
+      "ad_delivery_start_time": "2019-11-27T10:41:13+0000",
+      "ad_delivery_stop_time": "2019-12-01T15:59:43+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000239",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000298",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000358",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000119",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.405957",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.072345",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.082552",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.194592",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.190235",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00579",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.009789",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.036829",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000895",
+          "age": "35-44",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "韻竹陳",
+      "impressions": {
+        "lower_bound": "20000",
+        "upper_bound": "24999"
+      },
+      "page_id": "796338173770408",
+      "page_name": "吳志揚",
+      "region_distribution": [
+        {
+          "percentage": "0.391116",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.257283",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.230805",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.056648",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.000346",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.0349",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.028901",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      }
+    }
+  }
+]
