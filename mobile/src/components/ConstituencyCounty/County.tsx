@@ -1,15 +1,32 @@
 import { Breadcrumbs, List, ListItem, ListItemText, Typography } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
 import NavigateNextIcon from '@material-ui/icons/NavigateNext';
-import React from 'react';
+import React, { createRef, useEffect } from 'react';
 import countyConstituency from '../../data/county_constituency.json';
 import Navigation from '../Navigation';
 import useMediaQuery from '@material-ui/core/useMediaQuery';
+import useWindowSize from './useWindowSize';
 
 const desktopStyle = makeStyles({
     listItemWrapper: {
-        'text-align': 'center',
     },    
+    listItemContainer: {
+        width: '100%',
+        'text-align': 'left',
+        position: 'absolute',
+        left: 0,
+        right: 0,
+        marginLeft: 'auto',
+        marginRight: 'auto',
+    },
+    listItemContainerMeasureWrapper: {
+        position: 'absolute',
+        'z-index': -1,
+        visibility: 'hidden',
+    },
+    listItemContainerMeasure: {
+        display: 'inline',
+    },
     listItem: {
         boxSizing: 'border-box',
         position: 'relative',
@@ -68,6 +85,12 @@ const mobileStyle = makeStyles({
         padding: '20px',
     },
     regionName: {     
+    },
+    listItemContainer: {
+    },
+    listItemContainerMeasureWrapper: {
+    },
+    listItemContainerMeasure: {
     },
 });
 
@@ -134,8 +157,8 @@ const RegionInfo = (props?: any) => {
         const rowStyle = (i !== 0) ? {} : { marginBottom: '4px' };
 
         rows.push(
-            <div style={rowStyle} className={classes.regionInfoCellRow}>
-                <RegionInfoRow rowData={rowData} columnNum={columnNum} rowIndex={i} classes={classes} key={`${i}-row`}></RegionInfoRow>
+            <div style={rowStyle} className={classes.regionInfoCellRow} key={`row-${i}`}>
+                <RegionInfoRow rowData={rowData} columnNum={columnNum} rowIndex={i} classes={classes}></RegionInfoRow>
             </div>
         );
     }
@@ -149,10 +172,32 @@ const RegionInfo = (props?: any) => {
 }
 
 const counties = countyConstituency.map(county => county.name);
+
+let refListItemContainer = React.createRef();
+
+
 const Constituency = () => {
     const isDesktop = useMediaQuery('(min-width:769px)');
     const useStyles = isDesktop ? desktopStyle : mobileStyle;
     const classes = useStyles();
+    // document.getElementsByClassName('makeStyles-listItemContainer-198')[0]
+    // .offsetWidth
+
+    const refListItemContainer = createRef<HTMLDivElement>();
+    const refListItemContainerMeasure = createRef<HTMLDivElement>();
+
+    const wSize = useWindowSize();
+
+    useEffect(() => {
+        // update trigger by resize event listener from useWindowSize()
+        if (refListItemContainer.current && refListItemContainerMeasure.current) {
+            const mostFitWidthNum = refListItemContainerMeasure.current.offsetWidth;
+            refListItemContainer.current.style.width = `${mostFitWidthNum}px`;
+        }        
+    });
+
+    const maxNumInOneRow = 3;
+
     return (
         <>
             <Navigation title="區域立委候選人">
@@ -163,19 +208,46 @@ const Constituency = () => {
                 </Breadcrumbs>
             </Navigation>
             <List className={classes.listItemWrapper}>
-                {counties.map(county => (
-                    <ListItem
-                        key={county}
-                        button
-                        component="a"
-                        href={`/regional/${county}`}
-                        divider={true}
-                        className={classes.listItem}
-                    >
-                        <ListItemText className={classes.regionName} primary={county}></ListItemText>
-                        {isDesktop && <RegionInfo classes={classes} infoData={regionInfoData} />}
-                    </ListItem>
-                ))}
+                {isDesktop && <div className={classes.listItemContainerMeasureWrapper}>
+                    <div ref={refListItemContainerMeasure} className={classes.listItemContainerMeasure}>
+                        {(() => {
+                            const fakeBlocks: any = [];
+                            for(let i = 0; i < maxNumInOneRow; i++) {
+                                fakeBlocks.push(
+                                    <ListItem
+                                        key={`fakeBlocks-${i}`}
+                                        button
+                                        component="a"
+                                        divider={true}
+                                        className={classes.listItem}
+                                    >
+                                    </ListItem>
+                                );
+                            }
+
+                            return (
+                                <>
+                                    {fakeBlocks}
+                                </>
+                            )
+                        })()}
+                    </div>
+                </div>}
+                <div ref={refListItemContainer} className={classes.listItemContainer}>
+                    {counties.map(county => (
+                        <ListItem
+                            key={county}
+                            button
+                            component="a"
+                            href={`/regional/${county}`}
+                            divider={true}
+                            className={classes.listItem}
+                        >
+                            <ListItemText className={classes.regionName} primary={county}></ListItemText>
+                            {isDesktop && <RegionInfo classes={classes} infoData={regionInfoData} />}
+                        </ListItem>
+                    ))}
+                </div>
             </List>
         </>
     );
