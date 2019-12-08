@@ -17,7 +17,7 @@ const useStyles = makeStyles({
 export interface Props {
     name: string;
     logo: string;
-    regionalLegislatorsNum: number;
+    regionalSittingNum: number;
     nonRegionalSittingNum: number;
     voteRate: string;
 }
@@ -25,7 +25,7 @@ export interface Props {
 const Nav: FunctionComponent<Props> = ({
     name,
     logo,
-    regionalLegislatorsNum,
+    regionalSittingNum,
     nonRegionalSittingNum,
     voteRate
 }) => {
@@ -41,7 +41,7 @@ const Nav: FunctionComponent<Props> = ({
                         {`${name} `}
                     </Typography>
                 </Box>
-                <Seats num={regionalLegislatorsNum} />
+                <Seats num={regionalSittingNum} />
             </Box>
             <Box px={1} py={1}>
                 <Grid container alignItems="center" spacing={2}>
@@ -57,7 +57,8 @@ const Nav: FunctionComponent<Props> = ({
                             </Grid>
                             <Grid item>
                                 <Typography variant="h4" color="textSecondary">
-                                    現任不分區 {regionalLegislatorsNum} 席 區域立委 {nonRegionalSittingNum} 席
+                                    現任不分區 {regionalSittingNum} 席 區域立委{' '}
+                                    {nonRegionalSittingNum} 席
                                 </Typography>
                             </Grid>
                         </Grid>
