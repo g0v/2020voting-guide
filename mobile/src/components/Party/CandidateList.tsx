@@ -67,16 +67,18 @@ const Description: FunctionComponent<{ description: string }> = ({
 const ListAlert: FunctionComponent<{
     name: string;
 }> = ({ name }) => (
-    <Alert>
-        <span>
-            {`${name}不分區立委提名名單，按照政黨得票率依序當選立法委員。`}
-        </span>
-        <br />
-        <span>
-            {`資料來源: `}
-            <Link href="https://www.cec.gov.tw/">中央選舉委員會</Link>
-        </span>
-    </Alert>
+    <Box p={1} bgcolor="#F7F7F7">
+        <Alert>
+            <span>
+                {`${name}不分區立委提名名單，按照政黨得票率依序當選立法委員。`}
+            </span>
+            <br />
+            <span>
+                {`資料來源: `}
+                <Link href="https://www.cec.gov.tw/">中央選舉委員會</Link>
+            </span>
+        </Alert>
+    </Box>
 );
 
 const Item: FunctionComponent<{ candidate: Candidate }> = ({ candidate }) => {
