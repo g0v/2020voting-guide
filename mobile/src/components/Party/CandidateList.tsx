@@ -67,7 +67,7 @@ const Description: FunctionComponent<{ description: string }> = ({
 const ListAlert: FunctionComponent<{
     name: string;
 }> = ({ name }) => (
-    <Box p={1} bgcolor="#F7F7F7">
+    <Box py={1} bgcolor="#F7F7F7">
         <Alert>
             <span>
                 {`${name}不分區立委提名名單，按照政黨得票率依序當選立法委員。`}
@@ -114,7 +114,7 @@ const CandidateList: FunctionComponent<{ candidates: Candidate[] }> = ({
         <Box>
             <ListAlert name={candidates[0].party} />
             <Box p={2}>
-                <List>
+                <List disablePadding>
                     {candidates.map(c => (
                         <Item candidate={c} />
                     ))}
