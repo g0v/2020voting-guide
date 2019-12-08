@@ -10,7 +10,7 @@ const NewParty = ({ name }: { name: string }) => {
             py={5}
         >
             <img width="275" src="/img/new.svg" />
-            <Typography variant="h2">{`${name}上屆沒有立委唷！`}</Typography>
+            <Typography variant="h4">{`${name}上屆沒有立委唷！`}</Typography>
             <Typography variant="h4" color="textSecondary">
                 這個政黨沒有法案紀錄
             </Typography>
