@@ -90,7 +90,7 @@ const Home = (props: Props) => {
                     <Button
                         variant="outlined"
                         color="primary"
-                        href="/progressing"
+                        href="/parties"
                         className="page-home__primary-btn"
                     >
                         <Typography variant="h3">瞧瞧不分區立委</Typography>
