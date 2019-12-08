@@ -4,11 +4,11 @@ import IssueBill, { Bill } from './IssueBill';
 import NewParty from './Party/NewParty';
 import IssueFilter from './IssueBill/IssueFilter';
 
-const IssueBillTab: FunctionComponent<{ bills: Bill[]; isParty?: boolean }> = ({
-    isParty = false,
-    bills = [],
-    children
-}) => {
+const IssueBillTab: FunctionComponent<{
+    bills: Bill[];
+    isParty?: boolean;
+    party?: string;
+}> = ({ isParty = false, party = '', bills = [], children }) => {
     const [selectedIssue, updateSelectedIssue] = React.useState([] as string[]);
 
     const selectIssue = (issue: string) => {
@@ -24,7 +24,7 @@ const IssueBillTab: FunctionComponent<{ bills: Bill[]; isParty?: boolean }> = ({
     const handleComplete = () => {
         updateIssueFilter(selectedIssue);
     };
-    if (isParty && !bills) return <NewParty />;
+    if (isParty && !bills) return <NewParty name={party} />;
     const issues = bills.filter(b => b.category).map(b => b.category);
     const filteredIssue = issueFilter.length ? issueFilter : issues;
 
