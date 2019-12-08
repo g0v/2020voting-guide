@@ -7,6 +7,7 @@ import Tabs from '@material-ui/core/Tabs';
 import partyInfos from '../../data/party.json';
 import partyCandidates from '../../data/party_candidates.json';
 import partyPositions from '../../data/party_positions.json';
+import partyPolitics from '../../data/party_politics.json';
 import BasicInfoTab from './BasicInfoTab';
 import { Bill } from '../IssueBill';
 import IssueBillTab from '../IssueBillTab';
@@ -48,6 +49,8 @@ const Party = ({ match }: RouteComponentProps<{ party: string }>) => {
         p => p.party === party
     );
 
+    const politics = partyPolitics.find(p => p.name === party);
+
     return (
         <Box color="background" pt="60px">
             {/* TODO: use backend API*/}
@@ -88,19 +91,18 @@ const Party = ({ match }: RouteComponentProps<{ party: string }>) => {
                 >
                     <Tab label="不分區名單" />
                     <Tab label="議題法案" />
-                    <Tab label="過去表現" />
-                    <Tab label="經歷政見" />
+                    {/* <Tab label="過去表現" /> */}
+                    <Tab label="基本資料" />
                 </Tabs>
             </Box>
             {tab === 0 && (
                 <CandidateList party={party} candidates={candidates} />
             )}
             {tab === 1 && <IssueBillTab bills={bills} />}
-            {tab === 2 && <Progressing />}
-            {tab === 3 && (
+            {/* {tab === 2 && <Progressing />} */}
+            {tab === 2 && (
                 <BasicInfoTab
-                    currentPolitics=""
-                    lastPolitics=""
+                    lastPolitics={politics ? politics.politics : ''}
                     positions={positions}
                 />
             )}
