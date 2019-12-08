@@ -1,9 +1,11 @@
 import { Box } from '@material-ui/core';
 import React, { FunctionComponent } from 'react';
 import IssueBill, { Bill } from './IssueBill';
+import NewParty from './Party/NewParty';
 import IssueFilter from './IssueBill/IssueFilter';
 
-const IssueBillTab: FunctionComponent<{ bills: Bill[] }> = ({
+const IssueBillTab: FunctionComponent<{ bills: Bill[]; isParty?: boolean }> = ({
+    isParty = false,
     bills = [],
     children
 }) => {
@@ -22,7 +24,7 @@ const IssueBillTab: FunctionComponent<{ bills: Bill[] }> = ({
     const handleComplete = () => {
         updateIssueFilter(selectedIssue);
     };
-    if (!bills) return null;
+    if (isParty && !bills) return <NewParty />;
     const issues = bills.filter(b => b.category).map(b => b.category);
     const filteredIssue = issueFilter.length ? issueFilter : issues;
 

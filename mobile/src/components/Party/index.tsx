@@ -31,7 +31,7 @@ const Party = ({ match }: RouteComponentProps<{ party: string }>) => {
     const { party } = match.params;
     const candidates: Candidate[] = (partyCandidates as {
         [party: string]: Candidate[];
-    })[party];
+    })[party] || [];
 
     useEffect(() => {
         fetch(`/api/party/${match.params.party}`)
@@ -102,7 +102,7 @@ const Party = ({ match }: RouteComponentProps<{ party: string }>) => {
                     candidates={candidates}
                 />
             )}
-            {tab === 1 && <IssueBillTab bills={bills} />}
+            {tab === 1 && <IssueBillTab isParty bills={bills} />}
             {/* {tab === 2 && <Progressing />} */}
             {tab === 2 && (
                 <BasicInfoTab
