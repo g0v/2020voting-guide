@@ -7,3 +7,9 @@ export interface Candidate {
     isCurrent: boolean;
     experience: string;
 }
+
+export interface Position {
+    party: string;
+    name: string;
+    position: string;
+}

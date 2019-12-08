@@ -107,12 +107,13 @@ const Item: FunctionComponent<{ candidate: Candidate }> = ({ candidate }) => {
     );
 };
 
-const CandidateList: FunctionComponent<{ candidates: Candidate[] }> = ({
-    candidates
-}) => {
+const CandidateList: FunctionComponent<{
+    party: string;
+    candidates: Candidate[];
+}> = ({ party, candidates }) => {
     return (
         <Box>
-            <ListAlert name={candidates[0].party} />
+            <ListAlert name={party} />
             <Box p={2}>
                 <List disablePadding>
                     {candidates.map(c => (
