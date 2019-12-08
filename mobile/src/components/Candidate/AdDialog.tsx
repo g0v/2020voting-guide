@@ -43,8 +43,8 @@ const AdDialog = ({
     return (
         <Dialog>
             <DialogContent>
-                <Box maxWidth="100%">
-                    <img src={pic} width="100%" />
+                <Box maxWidth="100%" style={{ textAlign:'center' }}>
+                    <img src={pic} width="100%" style={{ maxWidth:'500px'}}/>
                 </Box>
                 {generateCardTextHtml(content)}
             </DialogContent>
