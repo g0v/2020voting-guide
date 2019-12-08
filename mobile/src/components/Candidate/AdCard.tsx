@@ -84,7 +84,9 @@ const AdCard = (ad: {
                                 className={classes.cardImg}
                                 style={{
                                     backgroundImage: `url(${ad['圖片']})`,
-                                    backgroundPosition: 'center'
+                                    backgroundPosition: 'center',
+                                    backgroundSize: "cover",
+                                    borderRadius: "5px"
                                 }}
                             />
                         </Box>
