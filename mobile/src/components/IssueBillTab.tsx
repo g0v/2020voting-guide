@@ -4,11 +4,9 @@ import IssueBill, { Bill } from './IssueBill';
 import IssueFilter from './IssueBill/IssueFilter';
 
 const IssueBillTab: FunctionComponent<{ bills: Bill[] }> = ({
-    bills,
+    bills = [],
     children
 }) => {
-    const issues = bills.filter(b => b.category).map(b => b.category);
-
     const [selectedIssue, updateSelectedIssue] = React.useState([] as string[]);
 
     const selectIssue = (issue: string) => {
@@ -24,6 +22,8 @@ const IssueBillTab: FunctionComponent<{ bills: Bill[] }> = ({
     const handleComplete = () => {
         updateIssueFilter(selectedIssue);
     };
+    if (!bills) return null;
+    const issues = bills.filter(b => b.category).map(b => b.category);
     const filteredIssue = issueFilter.length ? issueFilter : issues;
 
     return (

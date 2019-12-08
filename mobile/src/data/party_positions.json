@@ -1,0 +1,492 @@
+[
+    {
+        "party": "國會政黨聯盟",
+        "position": "主席",
+        "name": "悟覺妙天禪師"
+    },
+    {
+        "party": "國會政黨聯盟",
+        "position": "副主席",
+        "name": "徐欣瑩"
+    },
+    {
+        "party": "國會政黨聯盟",
+        "position": "秘書長",
+        "name": "高國慶"
+    },
+    {
+        "party": "時代力量",
+        "position": "主席",
+        "name": "徐永明"
+    },
+    {
+        "party": "時代力量",
+        "position": "秘書長",
+        "name": "吳佩芸"
+    },
+    {
+        "party": "時代力量",
+        "position": "發言人",
+        "name": "陳志明"
+    },
+    {
+        "party": "時代力量",
+        "position": "發言人",
+        "name": "李兆立"
+    },
+    {
+        "party": "時代力量",
+        "position": "發言人",
+        "name": "簡嘉佑"
+    },
+    {
+        "party": "時代力量",
+        "position": "立法院黨團總召集人",
+        "name": "黃國昌"
+    },
+    {
+        "party": "宗教聯盟",
+        "position": "主席",
+        "name": "朱武獻"
+    },
+    {
+        "party": "台灣基進",
+        "position": "主席",
+        "nam": "陳奕齊"
+    },
+    {
+        "party": "台灣基進",
+        "position": "發言人",
+        "name": "陳柏惟"
+    },
+    {
+        "party": "台灣基進",
+        "position": "發言人",
+        "name": "何澄輝"
+    },
+    {
+        "party": "台灣基進",
+        "position": "發言人",
+        "name": "顏銘緯"
+    },
+    {
+        "party": "台灣基進",
+        "position": "辦公室主任",
+        "name": "李欣翰"
+    },
+    {
+        "party": "民主進步黨",
+        "position": "主席",
+        "name": "卓榮泰"
+    },
+    {
+        "party": "民主進步黨",
+        "position": "中華民國總統",
+        "name": "蔡英文"
+    },
+    {
+        "party": "民主進步黨",
+        "position": "秘書長",
+        "name": "羅文嘉"
+    },
+    {
+        "party": "民主進步黨",
+        "position": "副秘書長",
+        "name": "林飛帆"
+    },
+    {
+        "party": "民主進步黨",
+        "position": "副秘書長",
+        "name": "高幸雪"
+    },
+    {
+        "party": "民主進步黨",
+        "position": "副秘書長",
+        "name": "郭昆文"
+    },
+    {
+        "party": "民主進步黨",
+        "position": "立法院黨團總召",
+        "name": "柯建銘"
+    },
+    {
+        "party": "民主進步黨",
+        "position": "政策委員會執行長",
+        "name": "劉櫂豪"
+    },
+    {
+        "party": "民主進步黨",
+        "position": "發言人",
+        "name": "李晏榕"
+    },
+    {
+        "party": "民主進步黨",
+        "position": "發言人",
+        "name": "李明俐"
+    },
+    {
+        "party": "民主進步黨",
+        "position": "發言人",
+        "name": "吳濬彥"
+    },
+    {
+        "party": "民主進步黨",
+        "position": "發言人",
+        "name": "薛呈懿"
+    },
+    {
+        "party": "民主進步黨",
+        "position": "發言人",
+        "name": "鍾佩玲"
+    },
+    {
+        "party": "民主進步黨",
+        "position": "發言人",
+        "name": "何博文"
+    },
+    {
+        "party": "民主進步黨",
+        "position": "發言人",
+        "name": "戴瑋姍"
+    },
+    {
+        "party": "民主進步黨",
+        "position": "發言人",
+        "name": "劉康彥"
+    },
+    {
+        "party": "民主進步黨",
+        "position": "發言人",
+        "name": "陳建名"
+    },
+    {
+        "party": "勞動黨",
+        "position": "主席",
+        "name": "吳榮元"
+    },
+    {
+        "party": "勞動黨",
+        "position": "副主席",
+        "name": "唐曙"
+    },
+    {
+        "party": "勞動黨",
+        "position": "副主席",
+        "name": "王娟萍"
+    },
+    {
+        "party": "勞動黨",
+        "position": "秘書長",
+        "name": "唐曙"
+    },
+    {
+        "party": "勞動黨",
+        "position": "榮譽主席",
+        "name": "羅美文"
+    },
+    {
+        "party": "中國國民黨",
+        "position": "總裁",
+        "name": "蔣中正"
+    },
+    {
+        "party": "中國國民黨",
+        "position": "主席",
+        "name": "吳敦義"
+    },
+    {
+        "party": "中國國民黨",
+        "position": "副主席",
+        "name": "曾永權"
+    },
+    {
+        "party": "中國國民黨",
+        "position": "副主席",
+        "name": "郝龍斌"
+    },
+    {
+        "party": "中國國民黨",
+        "position": "秘書長",
+        "name": "曾永權（副主席兼任）"
+    },
+    {
+        "party": "中國國民黨",
+        "position": "副秘書長",
+        "name": "杜建德"
+    },
+    {
+        "party": "中國國民黨",
+        "position": "副秘書長",
+        "name": "蔡正元"
+    },
+    {
+        "party": "中國國民黨",
+        "position": "副秘書長",
+        "name": "周繼祥"
+    },
+    {
+        "party": "中國國民黨",
+        "position": "副秘書長",
+        "name": "張顯耀"
+    },
+    {
+        "party": "中國國民黨",
+        "position": "立法院黨團總召集人",
+        "name": "曾銘宗"
+    },
+    {
+        "party": "綠黨",
+        "position": "召集人",
+        "name": "劉崇顯"
+    },
+    {
+        "party": "綠黨",
+        "position": "召集人",
+        "name": "余筱菁"
+    },
+    {
+        "party": "綠黨",
+        "position": "秘書長",
+        "name": "張竹芩"
+    },
+    {
+        "party": "親民黨",
+        "position": "主席",
+        "name": "宋楚瑜"
+    },
+    {
+        "party": "親民黨",
+        "position": "副主席",
+        "name": "張昭雄"
+    },
+    {
+        "party": "親民黨",
+        "position": "秘書長",
+        "name": "李鴻鈞"
+    },
+    {
+        "party": "親民黨",
+        "position": "副秘書長",
+        "name": "馬傑明"
+    },
+    {
+        "party": "親民黨",
+        "position": "立院黨鞭",
+        "name": "李鴻鈞"
+    },
+    {
+        "party": "台灣民眾黨",
+        "position": "主席",
+        "name": "柯文哲"
+    },
+    {
+        "party": "台灣民眾黨",
+        "position": "秘書長",
+        "name": "張哲揚"
+    },
+    {
+        "party": "台灣民眾黨",
+        "position": "發言人",
+        "name": "陳思宇"
+    },
+    {
+        "party": "台灣民眾黨",
+        "position": "發言人",
+        "name": "林珍羽"
+    },
+    {
+        "party": "台灣民眾黨",
+        "position": "發言人",
+        "name": "楊寶楨"
+    },
+    {
+        "party": "台灣民眾黨",
+        "position": "發言人",
+        "name": "陳宥丞"
+    },
+    {
+        "party": "台灣民眾黨",
+        "position": "創始人",
+        "name": "柯文哲"
+    },
+    {
+        "party": "台灣民眾黨",
+        "position": "創始人",
+        "name": "蔡壁如"
+    },
+    {
+        "party": "台灣團結聯盟",
+        "position": "主席",
+        "name": "劉一德"
+    },
+    {
+        "party": "台灣團結聯盟",
+        "position": "秘書長",
+        "name": "待定"
+    },
+    {
+        "party": "台灣團結聯盟",
+        "position": "副秘書長",
+        "name": "王銘源"
+    },
+    {
+        "party": "台灣團結聯盟",
+        "position": "副秘書長",
+        "name": "蔡豐文"
+    },
+    {
+        "party": "台灣維新",
+        "position": "創始人",
+        "name": "蘇煥智"
+    },
+    {
+        "party": "台灣維新",
+        "position": "召集人",
+        "name": "蘇煥智"
+    },
+    {
+        "party": "台灣維新",
+        "position": "秘書長",
+        "name": "林獻山"
+    },
+    {
+        "party": "台灣維新",
+        "position": "辦公室主任",
+        "name": "謝建平"
+    },
+    {
+        "party": "台灣維新",
+        "position": "發言人",
+        "name": "梁雅羿"
+    },
+    {
+        "party": "台灣維新",
+        "position": "發言人",
+        "name": "陳建嘉"
+    },
+    {
+        "party": "台澎黨",
+        "position": "黨主席",
+        "name": "鄭自才"
+    },
+    {
+        "party": "台澎黨",
+        "position": "秘書長",
+        "name": "劉哲嘉"
+    },
+    {
+        "party": "中華統一促進黨",
+        "position": "主席",
+        "name": "張馥堂"
+    },
+    {
+        "party": "中華統一促進黨",
+        "position": "總裁",
+        "name": "張安樂"
+    },
+    {
+        "party": "中華統一促進黨",
+        "position": "副主席",
+        "name": "曾正星"
+    },
+    {
+        "party": "中華統一促進黨",
+        "position": "副主席",
+        "name": "李宗奎"
+    },
+    {
+        "party": "中華統一促進黨",
+        "position": "秘書長",
+        "name": "唐警生"
+    },
+    {
+        "party": "喜樂島聯盟",
+        "position": "主席",
+        "name": "羅仁貴"
+    },
+    {
+        "party": "喜樂島聯盟",
+        "position": "秘書長",
+        "name": "郭倍宏"
+    },
+    {
+        "party": "喜樂島聯盟",
+        "position": "發言人",
+        "name": "施正鋒"
+    },
+    {
+        "party": "喜樂島聯盟",
+        "position": "創始人",
+        "name": "郭倍宏"
+    },
+    {
+        "party": "新黨",
+        "position": "主席",
+        "name": "郁慕明"
+    },
+    {
+        "party": "新黨",
+        "position": "副主席",
+        "name": "李勝峰"
+    },
+    {
+        "party": "新黨",
+        "position": "秘書長",
+        "name": "吳成典"
+    },
+    {
+        "party": "新黨",
+        "position": "副秘書長",
+        "name": "郝永瑞"
+    },
+    {
+        "party": "新黨",
+        "position": "副秘書長",
+        "name": "陳麗玲"
+    },
+    {
+        "party": "新黨",
+        "position": "副秘書長",
+        "name": "蘇恆"
+    },
+    {
+        "party": "新黨",
+        "position": "青年委員會主席",
+        "name": "王炳忠"
+    },
+    {
+        "party": "一邊一國行動黨",
+        "position": "發言人",
+        "name": "陳昭姿"
+    },
+    {
+        "party": "一邊一國行動黨",
+        "position": "精神領袖",
+        "name": "陳水扁"
+    },
+    {
+        "party": "一邊一國行動黨",
+        "position": "召集人",
+        "name": "楊其文"
+    },
+    {
+        "party": "一邊一國行動黨",
+        "position": "最高顧問",
+        "name": "游錫堃"
+    },
+    {
+        "party": "安定力量",
+        "position": "主席",
+        "name": "孫繼正"
+    },
+    {
+        "party": "安定力量",
+        "position": "秘書長",
+        "name": "朱竹元"
+    },
+    {
+        "party": "安定力量",
+        "position": "發言人",
+        "name": "曲獻平"
+    }
+]

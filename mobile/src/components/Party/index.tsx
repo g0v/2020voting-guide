@@ -4,16 +4,16 @@ import { Typography, Box, Link } from '@material-ui/core';
 import Tab from '@material-ui/core/Tab';
 import KeyboardArrowLeft from '@material-ui/icons/KeyboardArrowLeft';
 import Tabs from '@material-ui/core/Tabs';
-// import api from '../../data/api/party_api.json';
 import partyInfos from '../../data/party.json';
 import partyCandidates from '../../data/party_candidates.json';
+import partyPositions from '../../data/party_positions.json';
 import BasicInfoTab from './BasicInfoTab';
 import { Bill } from '../IssueBill';
 import IssueBillTab from '../IssueBillTab';
 import Progressing from '../Progressing';
 import Seats from '../Party/Seats';
 import CandidateList from './CandidateList';
-import { Candidate } from './types';
+import { Position, Candidate } from './types';
 import Nav from './Nav';
 
 interface PartyInfo {
@@ -43,6 +43,10 @@ const Party = ({ match }: RouteComponentProps<{ party: string }>) => {
     );
 
     if (partyInfo === undefined) return null;
+
+    const positions = (partyPositions as Position[]).filter(
+        p => p.party === party
+    );
 
     return (
         <Box color="background" pt="60px">
@@ -88,10 +92,18 @@ const Party = ({ match }: RouteComponentProps<{ party: string }>) => {
                     <Tab label="經歷政見" />
                 </Tabs>
             </Box>
-            {tab === 0 && <CandidateList candidates={candidates} />}
+            {tab === 0 && (
+                <CandidateList party={party} candidates={candidates} />
+            )}
             {tab === 1 && <IssueBillTab bills={bills} />}
             {tab === 2 && <Progressing />}
-            {tab === 3 && <BasicInfoTab />}
+            {tab === 3 && (
+                <BasicInfoTab
+                    currentPolitics=""
+                    lastPolitics=""
+                    positions={positions}
+                />
+            )}
         </Box>
     );
 };
