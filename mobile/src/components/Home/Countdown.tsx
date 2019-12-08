@@ -3,12 +3,12 @@ import dayjs from 'dayjs';
 import { Box, Typography } from '@material-ui/core';
 const Countdown = () => {
     const diffDay: number = React.useMemo(
-        () => dayjs('2020/1/11').diff(dayjs(), 'day'),
+        () => Math.max(0, dayjs('2020/1/11').diff(dayjs(), 'day')),
         []
     );
-    const days: number[] = Array.from(Array(99 - diffDay).keys());
+    const days: number[] = Array.from(Array(50 - diffDay).keys());
     const dayDOM: JSX.Element[] = days.map((idx: number) => {
-        return <span key={idx}>{99 - idx}</span>;
+        return <span key={idx}>{50 - idx}</span>;
     });
     return (
         <Typography

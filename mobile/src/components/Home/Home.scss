@@ -151,9 +151,9 @@ $spanHeight : 36px;
         position: absolute;
         top: 0;
         left:0;
-        animation: countdown-animation 3s ease-in-out;
+        animation: countdown-animation 0.8s ease-in-out;
         animation-fill-mode: both;
-        animation-delay: 1.5s;
+        animation-delay: 1.2s;
         span{
           color: $color-primary;
           display: block;
