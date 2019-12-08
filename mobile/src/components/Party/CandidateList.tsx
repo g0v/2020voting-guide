@@ -28,7 +28,7 @@ function filterExperience(s: string) {
 
 const Rank: FunctionComponent<{ rank: number }> = ({ rank }) => (
     <Box mr={0.5} fontSize="20px" color="#EC502B">
-        {rank}
+        <Typography variant="body1">{rank}</Typography>
     </Box>
 );
 const Name: FunctionComponent<{ name: string }> = ({ name }) => (
@@ -107,18 +107,53 @@ const Item: FunctionComponent<{ candidate: Candidate }> = ({ candidate }) => {
     );
 };
 
+const ElectedLine: FunctionComponent<{ num: number }> = ({ num }) => (
+    <Box display="flex" position="relative">
+        <hr
+            style={{
+                position: 'absolute',
+                top: '-1px',
+                width: '100%',
+                height: '3px',
+                margin: '0',
+                border: '0',
+                borderTop: '3px dashed #2584A3'
+            }}
+        />
+        <Box
+            bgcolor="white"
+            top="-10px"
+            right="10px"
+            color="#2584A3"
+            position="absolute"
+            fontSize="14px"
+        >
+            {`上一屆當選${num}席`}
+        </Box>
+    </Box>
+);
+
 const CandidateList: FunctionComponent<{
+    electedPersonNum: number;
     party: string;
     candidates: Candidate[];
-}> = ({ party, candidates }) => {
+}> = ({ party, candidates, electedPersonNum }) => {
     return (
         <Box>
             <ListAlert name={party} />
             <Box p={2}>
                 <List disablePadding>
-                    {candidates.map(c => (
-                        <Item candidate={c} />
-                    ))}
+                    {candidates.map((c, i) => {
+                        return (
+                            <>
+                                <Item candidate={c} />
+                                {electedPersonNum !== 0 &&
+                                    i + 1 === electedPersonNum && (
+                                        <ElectedLine num={electedPersonNum} />
+                                    )}
+                            </>
+                        );
+                    })}
                 </List>
             </Box>
         </Box>
