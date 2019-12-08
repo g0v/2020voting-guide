@@ -11,7 +11,7 @@ import partyPolitics from '../../data/party_politics.json';
 import BasicInfoTab from './BasicInfoTab';
 import { Bill } from '../IssueBill';
 import IssueBillTab from '../IssueBillTab';
-import Progressing from '../Progressing';
+// import Progressing from '../Progressing';
 import Seats from '../Party/Seats';
 import CandidateList from './CandidateList';
 import { Position, Candidate } from './types';
@@ -96,7 +96,11 @@ const Party = ({ match }: RouteComponentProps<{ party: string }>) => {
                 </Tabs>
             </Box>
             {tab === 0 && (
-                <CandidateList party={party} candidates={candidates} />
+                <CandidateList
+                    electedPersonNum={partyInfo.electedPersonNum}
+                    party={party}
+                    candidates={candidates}
+                />
             )}
             {tab === 1 && <IssueBillTab bills={bills} />}
             {/* {tab === 2 && <Progressing />} */}
