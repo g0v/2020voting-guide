@@ -1,0 +1,671 @@
+{
+  "isCreatedByStatefulCreatePages": false,
+  "candidate": {
+    "id": 2560,
+    "party": "無黨籍及未經政黨推薦",
+    "name": "張瀚天",
+    "is_elected": true,
+    "num_of_vote": "19312",
+    "rate_of_vote": "12.01",
+    "finance_data": null,
+    "tenders": []
+  },
+  "prevPath": "elections/2018-council-election/regions/彰化縣/constituencies/第01選區",
+  "constituency": {
+    "name": "第01選區",
+    "candidates": [
+      {
+        "alternative_id": 2542,
+        "isElected": true,
+        "name": "白玉如",
+        "numOfVote": 10224,
+        "partyName": "中國國民黨",
+        "rateOfVote": 6.36,
+        "detailLink": "/api/v1/councilElection/2018/candidates/2542",
+        "finance": {
+          "income": {
+            "total": 888200,
+            "items": [
+              { "name": "個人捐贈收入", "amount": 379600 },
+              { "name": "營利事業捐贈收入", "amount": 508600 },
+              { "name": "政黨捐贈收入", "amount": 0 },
+              { "name": "人民團體捐贈收入", "amount": 0 },
+              { "name": "匿名捐贈", "amount": 0 },
+              { "name": "其他收入", "amount": 0 }
+            ]
+          },
+          "outcome": {
+            "total": 891892,
+            "items": [
+              { "name": "人事費用支出", "amount": 42450 },
+              { "name": "宣傳支出", "amount": 535179 },
+              { "name": "租用宣傳車輛支出", "amount": 0 },
+              { "name": "租用競選辦事處支", "amount": 0 },
+              { "name": "集會支出", "amount": 68451 },
+              { "name": "交通旅運支出", "amount": 35380 },
+              { "name": "雜支支出", "amount": 0 },
+              { "name": "返還支出", "amount": 163600 },
+              { "name": "繳庫支出", "amount": 0 },
+              { "name": "公共關係費用支出", "amount": 45000 }
+            ]
+          }
+        }
+      },
+      {
+        "alternative_id": 2543,
+        "isElected": false,
+        "name": "許友瀚",
+        "numOfVote": 1281,
+        "partyName": "無黨籍及未經政黨推薦",
+        "rateOfVote": 0.79,
+        "detailLink": "/api/v1/councilElection/2018/candidates/2543",
+        "finance": {
+          "income": {
+            "total": 14600,
+            "items": [
+              { "name": "個人捐贈收入", "amount": 11000 },
+              { "name": "營利事業捐贈收入", "amount": 0 },
+              { "name": "政黨捐贈收入", "amount": 0 },
+              { "name": "人民團體捐贈收入", "amount": 0 },
+              { "name": "匿名捐贈", "amount": 3600 },
+              { "name": "其他收入", "amount": 0 }
+            ]
+          },
+          "outcome": {
+            "total": 70000,
+            "items": [
+              { "name": "人事費用支出", "amount": 0 },
+              { "name": "宣傳支出", "amount": 70000 },
+              { "name": "租用宣傳車輛支出", "amount": 0 },
+              { "name": "租用競選辦事處支", "amount": 0 },
+              { "name": "集會支出", "amount": 0 },
+              { "name": "交通旅運支出", "amount": 0 },
+              { "name": "雜支支出", "amount": 0 },
+              { "name": "返還支出", "amount": 0 },
+              { "name": "繳庫支出", "amount": 0 },
+              { "name": "公共關係費用支出", "amount": 0 }
+            ]
+          }
+        }
+      },
+      {
+        "alternative_id": 2544,
+        "isElected": false,
+        "name": "黄建閎",
+        "numOfVote": 5581,
+        "partyName": "無黨籍及未經政黨推薦",
+        "rateOfVote": 3.47,
+        "detailLink": "/api/v1/councilElection/2018/candidates/2544",
+        "finance": null
+      },
+      {
+        "alternative_id": 2545,
+        "isElected": false,
+        "name": "楊富鈞",
+        "numOfVote": 5413,
+        "partyName": "民主進步黨",
+        "rateOfVote": 3.36,
+        "detailLink": "/api/v1/councilElection/2018/candidates/2545",
+        "finance": {
+          "income": {
+            "total": 497016,
+            "items": [
+              { "name": "個人捐贈收入", "amount": 497000 },
+              { "name": "營利事業捐贈收入", "amount": 0 },
+              { "name": "政黨捐贈收入", "amount": 0 },
+              { "name": "人民團體捐贈收入", "amount": 0 },
+              { "name": "匿名捐贈", "amount": 0 },
+              { "name": "其他收入", "amount": 16 }
+            ]
+          },
+          "outcome": {
+            "total": 710127,
+            "items": [
+              { "name": "人事費用支出", "amount": 230000 },
+              { "name": "宣傳支出", "amount": 272192 },
+              { "name": "租用宣傳車輛支出", "amount": 8000 },
+              { "name": "租用競選辦事處支", "amount": 0 },
+              { "name": "集會支出", "amount": 19200 },
+              { "name": "交通旅運支出", "amount": 0 },
+              { "name": "雜支支出", "amount": 16735 },
+              { "name": "返還支出", "amount": 100000 },
+              { "name": "繳庫支出", "amount": 0 },
+              { "name": "公共關係費用支出", "amount": 0 }
+            ]
+          }
+        }
+      },
+      {
+        "alternative_id": 2546,
+        "isElected": false,
+        "name": "黃明忠",
+        "numOfVote": 495,
+        "partyName": "無黨籍及未經政黨推薦",
+        "rateOfVote": 0.3,
+        "detailLink": "/api/v1/councilElection/2018/candidates/2546",
+        "finance": {
+          "income": {
+            "total": 0,
+            "items": [
+              { "name": "個人捐贈收入", "amount": 0 },
+              { "name": "營利事業捐贈收入", "amount": 0 },
+              { "name": "政黨捐贈收入", "amount": 0 },
+              { "name": "人民團體捐贈收入", "amount": 0 },
+              { "name": "匿名捐贈", "amount": 0 },
+              { "name": "其他收入", "amount": 0 }
+            ]
+          },
+          "outcome": {
+            "total": 0,
+            "items": [
+              { "name": "人事費用支出", "amount": 0 },
+              { "name": "宣傳支出", "amount": 0 },
+              { "name": "租用宣傳車輛支出", "amount": 0 },
+              { "name": "租用競選辦事處支", "amount": 0 },
+              { "name": "集會支出", "amount": 0 },
+              { "name": "交通旅運支出", "amount": 0 },
+              { "name": "雜支支出", "amount": 0 },
+              { "name": "返還支出", "amount": 0 },
+              { "name": "繳庫支出", "amount": 0 },
+              { "name": "公共關係費用支出", "amount": 0 }
+            ]
+          }
+        }
+      },
+      {
+        "alternative_id": 2547,
+        "isElected": true,
+        "name": "許原龍",
+        "numOfVote": 12878,
+        "partyName": "中國國民黨",
+        "rateOfVote": 8.01,
+        "detailLink": "/api/v1/councilElection/2018/candidates/2547",
+        "finance": null
+      },
+      {
+        "alternative_id": 2548,
+        "isElected": false,
+        "name": "劉玲惠",
+        "numOfVote": 4188,
+        "partyName": "民主進步黨",
+        "rateOfVote": 2.6,
+        "detailLink": "/api/v1/councilElection/2018/candidates/2548",
+        "finance": {
+          "income": {
+            "total": 256829,
+            "items": [
+              { "name": "個人捐贈收入", "amount": 200800 },
+              { "name": "營利事業捐贈收入", "amount": 56000 },
+              { "name": "政黨捐贈收入", "amount": 0 },
+              { "name": "人民團體捐贈收入", "amount": 0 },
+              { "name": "匿名捐贈", "amount": 0 },
+              { "name": "其他收入", "amount": 29 }
+            ]
+          },
+          "outcome": {
+            "total": 343432,
+            "items": [
+              { "name": "人事費用支出", "amount": 130820 },
+              { "name": "宣傳支出", "amount": 194654 },
+              { "name": "租用宣傳車輛支出", "amount": 0 },
+              { "name": "租用競選辦事處支", "amount": 0 },
+              { "name": "集會支出", "amount": 7234 },
+              { "name": "交通旅運支出", "amount": 0 },
+              { "name": "雜支支出", "amount": 10724 },
+              { "name": "返還支出", "amount": 0 },
+              { "name": "繳庫支出", "amount": 0 },
+              { "name": "公共關係費用支出", "amount": 0 }
+            ]
+          }
+        }
+      },
+      {
+        "alternative_id": 2549,
+        "isElected": false,
+        "name": "陳清峰",
+        "numOfVote": 330,
+        "partyName": "中華統一促進黨",
+        "rateOfVote": 0.2,
+        "detailLink": "/api/v1/councilElection/2018/candidates/2549",
+        "finance": {
+          "income": {
+            "total": 10000,
+            "items": [
+              { "name": "個人捐贈收入", "amount": 10000 },
+              { "name": "營利事業捐贈收入", "amount": 0 },
+              { "name": "政黨捐贈收入", "amount": 0 },
+              { "name": "人民團體捐贈收入", "amount": 0 },
+              { "name": "匿名捐贈", "amount": 0 },
+              { "name": "其他收入", "amount": 0 }
+            ]
+          },
+          "outcome": {
+            "total": 126919,
+            "items": [
+              { "name": "人事費用支出", "amount": 0 },
+              { "name": "宣傳支出", "amount": 62750 },
+              { "name": "租用宣傳車輛支出", "amount": 0 },
+              { "name": "租用競選辦事處支", "amount": 0 },
+              { "name": "集會支出", "amount": 20000 },
+              { "name": "交通旅運支出", "amount": 0 },
+              { "name": "雜支支出", "amount": 6000 },
+              { "name": "返還支出", "amount": 0 },
+              { "name": "繳庫支出", "amount": 0 },
+              { "name": "公共關係費用支出", "amount": 22800 }
+            ]
+          }
+        }
+      },
+      {
+        "alternative_id": 2550,
+        "isElected": true,
+        "name": "顧黃水花",
+        "numOfVote": 10311,
+        "partyName": "中國國民黨",
+        "rateOfVote": 6.41,
+        "detailLink": "/api/v1/councilElection/2018/candidates/2550",
+        "finance": {
+          "income": {
+            "total": 360000,
+            "items": [
+              { "name": "個人捐贈收入", "amount": 0 },
+              { "name": "營利事業捐贈收入", "amount": 360000 },
+              { "name": "政黨捐贈收入", "amount": 0 },
+              { "name": "人民團體捐贈收入", "amount": 0 },
+              { "name": "匿名捐贈", "amount": 0 },
+              { "name": "其他收入", "amount": 0 }
+            ]
+          },
+          "outcome": {
+            "total": 384172,
+            "items": [
+              { "name": "人事費用支出", "amount": 0 },
+              { "name": "宣傳支出", "amount": 384172 },
+              { "name": "租用宣傳車輛支出", "amount": 0 },
+              { "name": "租用競選辦事處支", "amount": 0 },
+              { "name": "集會支出", "amount": 0 },
+              { "name": "交通旅運支出", "amount": 0 },
+              { "name": "雜支支出", "amount": 0 },
+              { "name": "返還支出", "amount": 0 },
+              { "name": "繳庫支出", "amount": 0 },
+              { "name": "公共關係費用支出", "amount": 0 }
+            ]
+          }
+        }
+      },
+      {
+        "alternative_id": 2551,
+        "isElected": true,
+        "name": "吳韋達",
+        "numOfVote": 8721,
+        "partyName": "時代力量",
+        "rateOfVote": 5.42,
+        "detailLink": "/api/v1/councilElection/2018/candidates/2551",
+        "finance": {
+          "income": {
+            "total": 880503,
+            "items": [
+              { "name": "個人捐贈收入", "amount": 435966 },
+              { "name": "營利事業捐贈收入", "amount": 290000 },
+              { "name": "政黨捐贈收入", "amount": 120000 },
+              { "name": "人民團體捐贈收入", "amount": 0 },
+              { "name": "匿名捐贈", "amount": 34429 },
+              { "name": "其他收入", "amount": 108 }
+            ]
+          },
+          "outcome": {
+            "total": 771626,
+            "items": [
+              { "name": "人事費用支出", "amount": 83138 },
+              { "name": "宣傳支出", "amount": 343419 },
+              { "name": "租用宣傳車輛支出", "amount": 0 },
+              { "name": "租用競選辦事處支", "amount": 0 },
+              { "name": "集會支出", "amount": 2736 },
+              { "name": "交通旅運支出", "amount": 12088 },
+              { "name": "雜支支出", "amount": 78545 },
+              { "name": "返還支出", "amount": 120000 },
+              { "name": "繳庫支出", "amount": 0 },
+              { "name": "公共關係費用支出", "amount": 0 }
+            ]
+          }
+        }
+      },
+      {
+        "alternative_id": 2552,
+        "isElected": true,
+        "name": "黃千宴",
+        "numOfVote": 7605,
+        "partyName": "中國國民黨",
+        "rateOfVote": 4.73,
+        "detailLink": "/api/v1/councilElection/2018/candidates/2552",
+        "finance": null
+      },
+      {
+        "alternative_id": 2553,
+        "isElected": false,
+        "name": "葉繼元",
+        "numOfVote": 2986,
+        "partyName": "無黨籍及未經政黨推薦",
+        "rateOfVote": 1.85,
+        "detailLink": "/api/v1/councilElection/2018/candidates/2553",
+        "finance": {
+          "income": {
+            "total": 103266,
+            "items": [
+              { "name": "個人捐贈收入", "amount": 79266 },
+              { "name": "營利事業捐贈收入", "amount": 20000 },
+              { "name": "政黨捐贈收入", "amount": 0 },
+              { "name": "人民團體捐贈收入", "amount": 0 },
+              { "name": "匿名捐贈", "amount": 4000 },
+              { "name": "其他收入", "amount": 0 }
+            ]
+          },
+          "outcome": {
+            "total": 135774,
+            "items": [
+              { "name": "人事費用支出", "amount": 0 },
+              { "name": "宣傳支出", "amount": 0 },
+              { "name": "租用宣傳車輛支出", "amount": 126600 },
+              { "name": "租用競選辦事處支", "amount": 0 },
+              { "name": "集會支出", "amount": 8400 },
+              { "name": "交通旅運支出", "amount": 0 },
+              { "name": "雜支支出", "amount": 774 },
+              { "name": "返還支出", "amount": 0 },
+              { "name": "繳庫支出", "amount": 0 },
+              { "name": "公共關係費用支出", "amount": 0 }
+            ]
+          }
+        }
+      },
+      {
+        "alternative_id": 2554,
+        "isElected": true,
+        "name": "洪柏葳",
+        "numOfVote": 6518,
+        "partyName": "無黨籍及未經政黨推薦",
+        "rateOfVote": 4.05,
+        "detailLink": "/api/v1/councilElection/2018/candidates/2554",
+        "finance": null
+      },
+      {
+        "alternative_id": 2555,
+        "isElected": true,
+        "name": "莊陞漢",
+        "numOfVote": 6836,
+        "partyName": "民主進步黨",
+        "rateOfVote": 4.25,
+        "detailLink": "/api/v1/councilElection/2018/candidates/2555",
+        "finance": {
+          "income": {
+            "total": 2557138,
+            "items": [
+              { "name": "個人捐贈收入", "amount": 2052000 },
+              { "name": "營利事業捐贈收入", "amount": 505000 },
+              { "name": "政黨捐贈收入", "amount": 0 },
+              { "name": "人民團體捐贈收入", "amount": 0 },
+              { "name": "匿名捐贈", "amount": 0 },
+              { "name": "其他收入", "amount": 138 }
+            ]
+          },
+          "outcome": {
+            "total": 2878517,
+            "items": [
+              { "name": "人事費用支出", "amount": 980000 },
+              { "name": "宣傳支出", "amount": 818166 },
+              { "name": "租用宣傳車輛支出", "amount": 684100 },
+              { "name": "租用競選辦事處支", "amount": 0 },
+              { "name": "集會支出", "amount": 48450 },
+              { "name": "交通旅運支出", "amount": 205 },
+              { "name": "雜支支出", "amount": 241596 },
+              { "name": "返還支出", "amount": 0 },
+              { "name": "繳庫支出", "amount": 0 },
+              { "name": "公共關係費用支出", "amount": 6000 }
+            ]
+          }
+        }
+      },
+      {
+        "alternative_id": 2556,
+        "isElected": false,
+        "name": "林維浩",
+        "numOfVote": 4862,
+        "partyName": "民主進步黨",
+        "rateOfVote": 3.02,
+        "detailLink": "/api/v1/councilElection/2018/candidates/2556",
+        "finance": {
+          "income": {
+            "total": 422000,
+            "items": [
+              { "name": "個人捐贈收入", "amount": 392000 },
+              { "name": "營利事業捐贈收入", "amount": 30000 },
+              { "name": "政黨捐贈收入", "amount": 0 },
+              { "name": "人民團體捐贈收入", "amount": 0 },
+              { "name": "匿名捐贈", "amount": 0 },
+              { "name": "其他收入", "amount": 0 }
+            ]
+          },
+          "outcome": {
+            "total": 446514,
+            "items": [
+              { "name": "人事費用支出", "amount": 322120 },
+              { "name": "宣傳支出", "amount": 22950 },
+              { "name": "租用宣傳車輛支出", "amount": 0 },
+              { "name": "租用競選辦事處支", "amount": 0 },
+              { "name": "集會支出", "amount": 21220 },
+              { "name": "交通旅運支出", "amount": 0 },
+              { "name": "雜支支出", "amount": 80224 },
+              { "name": "返還支出", "amount": 0 },
+              { "name": "繳庫支出", "amount": 0 },
+              { "name": "公共關係費用支出", "amount": 0 }
+            ]
+          }
+        }
+      },
+      {
+        "alternative_id": 2557,
+        "isElected": true,
+        "name": "温芝樺",
+        "numOfVote": 16552,
+        "partyName": "中國國民黨",
+        "rateOfVote": 10.29,
+        "detailLink": "/api/v1/councilElection/2018/candidates/2557",
+        "finance": {
+          "income": {
+            "total": 1209000,
+            "items": [
+              { "name": "個人捐贈收入", "amount": 569000 },
+              { "name": "營利事業捐贈收入", "amount": 640000 },
+              { "name": "政黨捐贈收入", "amount": 0 },
+              { "name": "人民團體捐贈收入", "amount": 0 },
+              { "name": "匿名捐贈", "amount": 0 },
+              { "name": "其他收入", "amount": 0 }
+            ]
+          },
+          "outcome": {
+            "total": 1306640,
+            "items": [
+              { "name": "人事費用支出", "amount": 334710 },
+              { "name": "宣傳支出", "amount": 945230 },
+              { "name": "租用宣傳車輛支出", "amount": 0 },
+              { "name": "租用競選辦事處支", "amount": 0 },
+              { "name": "集會支出", "amount": 0 },
+              { "name": "交通旅運支出", "amount": 0 },
+              { "name": "雜支支出", "amount": 26700 },
+              { "name": "返還支出", "amount": 0 },
+              { "name": "繳庫支出", "amount": 0 },
+              { "name": "公共關係費用支出", "amount": 0 }
+            ]
+          }
+        }
+      },
+      {
+        "alternative_id": 2558,
+        "isElected": true,
+        "name": "林茂明",
+        "numOfVote": 5965,
+        "partyName": "無黨籍及未經政黨推薦",
+        "rateOfVote": 3.71,
+        "detailLink": "/api/v1/councilElection/2018/candidates/2558",
+        "finance": null
+      },
+      {
+        "alternative_id": 2559,
+        "isElected": true,
+        "name": "陳銌銌",
+        "numOfVote": 7467,
+        "partyName": "無黨籍及未經政黨推薦",
+        "rateOfVote": 4.64,
+        "detailLink": "/api/v1/councilElection/2018/candidates/2559",
+        "finance": {
+          "income": {
+            "total": 194747,
+            "items": [
+              { "name": "個人捐贈收入", "amount": 173000 },
+              { "name": "營利事業捐贈收入", "amount": 21600 },
+              { "name": "政黨捐贈收入", "amount": 0 },
+              { "name": "人民團體捐贈收入", "amount": 0 },
+              { "name": "匿名捐贈", "amount": 147 },
+              { "name": "其他收入", "amount": 0 }
+            ]
+          },
+          "outcome": {
+            "total": 1392408,
+            "items": [
+              { "name": "人事費用支出", "amount": 177000 },
+              { "name": "宣傳支出", "amount": 1135101 },
+              { "name": "租用宣傳車輛支出", "amount": 0 },
+              { "name": "租用競選辦事處支", "amount": 0 },
+              { "name": "集會支出", "amount": 57000 },
+              { "name": "交通旅運支出", "amount": 0 },
+              { "name": "雜支支出", "amount": 23307 },
+              { "name": "返還支出", "amount": 0 },
+              { "name": "繳庫支出", "amount": 0 },
+              { "name": "公共關係費用支出", "amount": 0 }
+            ]
+          }
+        }
+      },
+      {
+        "alternative_id": 2560,
+        "isElected": true,
+        "name": "張瀚天",
+        "numOfVote": 19312,
+        "partyName": "無黨籍及未經政黨推薦",
+        "rateOfVote": 12.01,
+        "detailLink": "/api/v1/councilElection/2018/candidates/2560",
+        "finance": null
+      },
+      {
+        "alternative_id": 2561,
+        "isElected": true,
+        "name": "李成濟",
+        "numOfVote": 11162,
+        "partyName": "民主進步黨",
+        "rateOfVote": 6.94,
+        "detailLink": "/api/v1/councilElection/2018/candidates/2561",
+        "finance": {
+          "income": {
+            "total": 2137610,
+            "items": [
+              { "name": "個人捐贈收入", "amount": 1075600 },
+              { "name": "營利事業捐贈收入", "amount": 1056000 },
+              { "name": "政黨捐贈收入", "amount": 0 },
+              { "name": "人民團體捐贈收入", "amount": 0 },
+              { "name": "匿名捐贈", "amount": 6000 },
+              { "name": "其他收入", "amount": 10 }
+            ]
+          },
+          "outcome": {
+            "total": 2307287,
+            "items": [
+              { "name": "人事費用支出", "amount": 247400 },
+              { "name": "宣傳支出", "amount": 1620800 },
+              { "name": "租用宣傳車輛支出", "amount": 0 },
+              { "name": "租用競選辦事處支", "amount": 0 },
+              { "name": "集會支出", "amount": 194045 },
+              { "name": "交通旅運支出", "amount": 26124 },
+              { "name": "雜支支出", "amount": 218918 },
+              { "name": "返還支出", "amount": 0 },
+              { "name": "繳庫支出", "amount": 0 },
+              { "name": "公共關係費用支出", "amount": 0 }
+            ]
+          }
+        }
+      },
+      {
+        "alternative_id": 2562,
+        "isElected": false,
+        "name": "葉孟家",
+        "numOfVote": 4817,
+        "partyName": "民主進步黨",
+        "rateOfVote": 2.99,
+        "detailLink": "/api/v1/councilElection/2018/candidates/2562",
+        "finance": {
+          "income": {
+            "total": 335603,
+            "items": [
+              { "name": "個人捐贈收入", "amount": 229600 },
+              { "name": "營利事業捐贈收入", "amount": 106000 },
+              { "name": "政黨捐贈收入", "amount": 0 },
+              { "name": "人民團體捐贈收入", "amount": 0 },
+              { "name": "匿名捐贈", "amount": 0 },
+              { "name": "其他收入", "amount": 3 }
+            ]
+          },
+          "outcome": {
+            "total": 344366,
+            "items": [
+              { "name": "人事費用支出", "amount": 0 },
+              { "name": "宣傳支出", "amount": 125966 },
+              { "name": "租用宣傳車輛支出", "amount": 0 },
+              { "name": "租用競選辦事處支", "amount": 0 },
+              { "name": "集會支出", "amount": 98400 },
+              { "name": "交通旅運支出", "amount": 0 },
+              { "name": "雜支支出", "amount": 120000 },
+              { "name": "返還支出", "amount": 0 },
+              { "name": "繳庫支出", "amount": 0 },
+              { "name": "公共關係費用支出", "amount": 0 }
+            ]
+          }
+        }
+      },
+      {
+        "alternative_id": 2563,
+        "isElected": true,
+        "name": "李寶銀",
+        "numOfVote": 7208,
+        "partyName": "無黨籍及未經政黨推薦",
+        "rateOfVote": 4.48,
+        "detailLink": "/api/v1/councilElection/2018/candidates/2563",
+        "finance": {
+          "income": {
+            "total": 2641800,
+            "items": [
+              { "name": "個人捐贈收入", "amount": 1639400 },
+              { "name": "營利事業捐贈收入", "amount": 995600 },
+              { "name": "政黨捐贈收入", "amount": 0 },
+              { "name": "人民團體捐贈收入", "amount": 2000 },
+              { "name": "匿名捐贈", "amount": 4800 },
+              { "name": "其他收入", "amount": 0 }
+            ]
+          },
+          "outcome": {
+            "total": 3181148,
+            "items": [
+              { "name": "人事費用支出", "amount": 145600 },
+              { "name": "宣傳支出", "amount": 2396360 },
+              { "name": "租用宣傳車輛支出", "amount": 231560 },
+              { "name": "租用競選辦事處支", "amount": 0 },
+              { "name": "集會支出", "amount": 26800 },
+              { "name": "交通旅運支出", "amount": 13820 },
+              { "name": "雜支支出", "amount": 341258 },
+              { "name": "返還支出", "amount": 20000 },
+              { "name": "繳庫支出", "amount": 0 },
+              { "name": "公共關係費用支出", "amount": 5750 }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}
