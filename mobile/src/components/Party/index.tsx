@@ -48,7 +48,7 @@ const Party = ({ match }: RouteComponentProps<{ party: string }>) => {
             <Nav
                 logo={partyInfo.logo}
                 name={partyInfo.name}
-                regionalLegislatorsNum={partyInfo.regionalLegislatorsNum}
+                regionalSittingNum={partyInfo.regionalLegislatorsNum}
                 nonRegionalSittingNum={partyInfo.electedPersonNum}
                 voteRate={partyInfo.voteRate}
             />
