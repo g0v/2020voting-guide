@@ -9,12 +9,14 @@ const NewParty = ({ name }: { name: string }) => {
             textAlign="center"
             py={5}
         >
-            <img width="275" src="/img/new.svg" />
-            <Typography variant="h4">{`${name}上屆沒有立委唷！`}</Typography>
-            <Typography variant="h4" color="textSecondary">
+            <img width="200" src="/img/new.svg" />
+            <Box mb={1}>
+                <Typography variant="h4">{`${name}上屆沒有立委唷！`}</Typography>
+            </Box>
+            <Typography variant="body2" color="textSecondary">
                 這個政黨沒有法案紀錄
             </Typography>
-            <Typography variant="h4" color="textSecondary">
+            <Typography variant="body2" color="textSecondary">
                 透過其他方法認識他們
             </Typography>
         </Box>
