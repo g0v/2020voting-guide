@@ -32,17 +32,6 @@ const Nav: FunctionComponent<Props> = ({
     const classes = useStyles();
     return (
         <Box m={1}>
-            <Box display="flex" alignItems="center" my={1}>
-                <Link href={`/parties`}>
-                    <KeyboardArrowLeft fontSize="large" />
-                </Link>
-                <Box>
-                    <Typography variant="h3" display="inline">
-                        {`${name} `}
-                    </Typography>
-                </Box>
-                <Seats num={regionalSittingNum} />
-            </Box>
             <Box px={1} py={1}>
                 <Grid container alignItems="center" spacing={2}>
                     <Grid item>
