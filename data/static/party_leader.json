@@ -1,0 +1,436 @@
+{
+  "國會政黨聯盟": [
+    {
+      "position": "主席",
+      "name": "悟覺妙天禪師"
+    },
+    {
+      "position": "副主席",
+      "name": "徐欣瑩"
+    },
+    {
+      "position": "秘書長",
+      "name": "高國慶"
+    }
+  ],
+  "時代力量": [
+    {
+      "position": "主席",
+      "name": "徐永明"
+    },
+    {
+      "position": "秘書長",
+      "name": "吳佩芸"
+    },
+    {
+      "position": "發言人",
+      "name": "陳志明"
+    },
+    {
+      "position": "發言人",
+      "name": "李兆立"
+    },
+    {
+      "position": "發言人",
+      "name": "簡嘉佑"
+    },
+    {
+      "position": "立法院黨團總召集人",
+      "name": "黃國昌"
+    }
+  ],
+  "宗教聯盟": [
+    {
+      "position": "主席",
+      "name": "朱武獻"
+    }
+  ],
+  "台灣基進": [
+    {
+      "position": "主席",
+      "name": "陳奕齊"
+    },
+    {
+      "position": "發言人",
+      "name": "陳柏惟"
+    },
+    {
+      "position": "發言人",
+      "name": "何澄輝"
+    },
+    {
+      "position": "發言人",
+      "name": "顏銘緯"
+    },
+    {
+      "position": "辦公室主任",
+      "name": "李欣翰"
+    }
+  ],
+  "民主進步黨": [
+    {
+      "position": "主席",
+      "name": "卓榮泰"
+    },
+    {
+      "position": "中華民國總統",
+      "name": "蔡英文"
+    },
+    {
+      "position": "秘書長",
+      "name": "羅文嘉"
+    },
+    {
+      "position": "副秘書長",
+      "name": "林飛帆"
+    },
+    {
+      "position": "副秘書長",
+      "name": "高幸雪"
+    },
+    {
+      "position": "副秘書長",
+      "name": "郭昆文"
+    },
+    {
+      "position": "立法院黨團總召",
+      "name": "柯建銘"
+    },
+    {
+      "position": "政策委員會執行長",
+      "name": "劉櫂豪"
+    },
+    {
+      "position": "發言人",
+      "name": "李晏榕"
+    },
+    {
+      "position": "發言人",
+      "name": "李明俐"
+    },
+    {
+      "position": "發言人",
+      "name": "吳濬彥"
+    },
+    {
+      "position": "發言人",
+      "name": "薛呈懿"
+    },
+    {
+      "position": "發言人",
+      "name": "鍾佩玲"
+    },
+    {
+      "position": "發言人",
+      "name": "何博文"
+    },
+    {
+      "position": "發言人",
+      "name": "戴瑋姍"
+    },
+    {
+      "position": "發言人",
+      "name": "劉康彥"
+    },
+    {
+      "position": "發言人",
+      "name": "陳建名"
+    }
+  ],
+  "勞動黨": [
+    {
+      "position": "主席",
+      "name": "吳榮元"
+    },
+    {
+      "position": "副主席",
+      "name": "唐曙"
+    },
+    {
+      "position": "副主席",
+      "name": "王娟萍"
+    },
+    {
+      "position": "秘書長",
+      "name": "唐曙"
+    },
+    {
+      "position": "榮譽主席",
+      "name": "羅美文"
+    }
+  ],
+  "中國國民黨": [
+    {
+      "position": "總裁",
+      "name": "蔣中正"
+    },
+    {
+      "position": "主席",
+      "name": "吳敦義"
+    },
+    {
+      "position": "副主席",
+      "name": "曾永權"
+    },
+    {
+      "position": "副主席",
+      "name": "郝龍斌"
+    },
+    {
+      "position": "秘書長",
+      "name": "曾永權（副主席兼任）"
+    },
+    {
+      "position": "副秘書長",
+      "name": "杜建德"
+    },
+    {
+      "position": "副秘書長",
+      "name": "蔡正元"
+    },
+    {
+      "position": "副秘書長",
+      "name": "周繼祥"
+    },
+    {
+      "position": "副秘書長",
+      "name": "張顯耀"
+    },
+    {
+      "position": "立法院黨團總召集人",
+      "name": "曾銘宗"
+    }
+  ],
+  "綠黨": [
+    {
+      "position": "召集人",
+      "name": "劉崇顯"
+    },
+    {
+      "position": "召集人",
+      "name": "余筱菁"
+    },
+    {
+      "position": "秘書長",
+      "name": "張竹芩"
+    }
+  ],
+  "親民黨": [
+    {
+      "position": "主席",
+      "name": "宋楚瑜"
+    },
+    {
+      "position": "副主席",
+      "name": "張昭雄"
+    },
+    {
+      "position": "秘書長",
+      "name": "李鴻鈞"
+    },
+    {
+      "position": "副秘書長",
+      "name": "馬傑明"
+    },
+    {
+      "position": "立院黨鞭",
+      "name": "李鴻鈞"
+    }
+  ],
+  "台灣民眾黨": [
+    {
+      "position": "主席",
+      "name": "柯文哲"
+    },
+    {
+      "position": "秘書長",
+      "name": "張哲揚"
+    },
+    {
+      "position": "發言人",
+      "name": "陳思宇"
+    },
+    {
+      "position": "發言人",
+      "name": "林珍羽"
+    },
+    {
+      "position": "發言人",
+      "name": "楊寶楨"
+    },
+    {
+      "position": "發言人",
+      "name": "陳宥丞"
+    },
+    {
+      "position": "創始人",
+      "name": "柯文哲"
+    },
+    {
+      "position": "創始人",
+      "name": "蔡壁如"
+    }
+  ],
+  "台灣團結聯盟": [
+    {
+      "position": "主席",
+      "name": "劉一德"
+    },
+    {
+      "position": "秘書長",
+      "name": "待定"
+    },
+    {
+      "position": "副秘書長",
+      "name": "王銘源"
+    },
+    {
+      "position": "副秘書長",
+      "name": "蔡豐文"
+    }
+  ],
+  "台灣維新": [
+    {
+      "position": "創始人",
+      "name": "蘇煥智"
+    },
+    {
+      "position": "召集人",
+      "name": "蘇煥智"
+    },
+    {
+      "position": "秘書長",
+      "name": "林獻山"
+    },
+    {
+      "position": "辦公室主任",
+      "name": "謝建平"
+    },
+    {
+      "position": "發言人",
+      "name": "梁雅羿"
+    },
+    {
+      "position": "發言人",
+      "name": "陳建嘉"
+    }
+  ],
+  "台澎黨": [
+    {
+      "position": "黨主席",
+      "name": "鄭自才"
+    },
+    {
+      "position": "秘書長",
+      "name": "劉哲嘉"
+    }
+  ],
+  "中華統一促進黨": [
+    {
+      "position": "主席",
+      "name": "張馥堂"
+    },
+    {
+      "position": "總裁",
+      "name": "張安樂"
+    },
+    {
+      "position": "副主席",
+      "name": "曾正星"
+    },
+    {
+      "position": "副主席",
+      "name": "李宗奎"
+    },
+    {
+      "position": "秘書長",
+      "name": "唐警生"
+    }
+  ],
+  "喜樂島聯盟": [
+    {
+      "position": "主席",
+      "name": "羅仁貴"
+    },
+    {
+      "position": "秘書長",
+      "name": "郭倍宏"
+    },
+    {
+      "position": "發言人",
+      "name": "施正鋒"
+    },
+    {
+      "position": "創始人",
+      "name": "郭倍宏"
+    }
+  ],
+  "新黨": [
+    {
+      "position": "主席",
+      "name": "郁慕明"
+    },
+    {
+      "position": "副主席",
+      "name": "李勝峰"
+    },
+    {
+      "position": "秘書長",
+      "name": "吳成典"
+    },
+    {
+      "position": "副秘書長",
+      "name": "郝永瑞"
+    },
+    {
+      "position": "副秘書長",
+      "name": "陳麗玲"
+    },
+    {
+      "position": "副秘書長",
+      "name": "蘇恆"
+    },
+    {
+      "position": "青年委員會主席",
+      "name": "王炳忠"
+    }
+  ],
+  "合一行動聯盟": [
+    {
+      "position": null,
+      "name": null
+    }
+  ],
+  "一邊一國行動黨": [
+    {
+      "position": "發言人",
+      "name": "陳昭姿"
+    },
+    {
+      "position": "精神領袖",
+      "name": "陳水扁"
+    },
+    {
+      "position": "召集人",
+      "name": "楊其文"
+    },
+    {
+      "position": "最高顧問",
+      "name": "游錫堃"
+    }
+  ],
+  "安定力量": [
+    {
+      "position": "主席",
+      "name": "孫繼正"
+    },
+    {
+      "position": "秘書長",
+      "name": "朱竹元"
+    },
+    {
+      "position": "發言人",
+      "name": "曲獻平"
+    }
+  ]
+}
