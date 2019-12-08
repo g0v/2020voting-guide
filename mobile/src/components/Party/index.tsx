@@ -3,7 +3,8 @@ import { RouteComponentProps } from 'react-router';
 import { Box } from '@material-ui/core';
 import Tab from '@material-ui/core/Tab';
 import Tabs from '@material-ui/core/Tabs';
-import api from '../../data/api/party_api.json';
+// import api from '../../data/api/party_api.json';
+import partyInfos from '../../data/party.json';
 import partyCandidates from '../../data/party_candidates.json';
 import BasicInfoTab from './BasicInfoTab';
 import { Bill } from '../IssueBill';
@@ -12,6 +13,14 @@ import Progressing from '../Progressing';
 import CandidateList from './CandidateList';
 import { Candidate } from './types';
 import Nav from './Nav';
+
+interface PartyInfo {
+    name: string;
+    logo: string;
+    regionalLegislatorsNum: number;
+    electedPersonNum: number;
+    voteRate: string;
+}
 
 const Party = ({ match }: RouteComponentProps<{ party: string }>) => {
     const [tab, setTab] = React.useState(0);
@@ -27,10 +36,22 @@ const Party = ({ match }: RouteComponentProps<{ party: string }>) => {
             .then(party => setBills(party.bills));
     }, []);
 
+    const partyInfo: PartyInfo | undefined = partyInfos.find(
+        p => p.name === party
+    );
+
+    if (partyInfo === undefined) return null;
+
     return (
         <Box color="background">
             {/* TODO: use backend API*/}
-            <Nav {...api} />
+            <Nav
+                logo={partyInfo.logo}
+                name={partyInfo.name}
+                regionalLegislatorsNum={partyInfo.regionalLegislatorsNum}
+                nonRegionalSittingNum={partyInfo.electedPersonNum}
+                voteRate={partyInfo.voteRate}
+            />
             <Tabs
                 value={tab}
                 indicatorColor="primary"
