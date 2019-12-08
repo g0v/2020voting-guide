@@ -1,12 +1,12 @@
-import React, { FunctionComponent } from 'react';
-import { Typography, Avatar, Box } from '@material-ui/core';
+import React, { useState, FunctionComponent } from 'react';
+import { DialogContent, Typography, Avatar, Box } from '@material-ui/core';
 import { Position } from './types';
 import Card from '../Card';
+import Dialog from '../Dialog';
 
 interface Props {
     positions: Position[];
-	currentPolitics: string,
-	lastPolitics: string,
+    lastPolitics: string;
 }
 
 const Title: FunctionComponent<{ name: string }> = ({ name }) => (
@@ -37,21 +37,18 @@ const PositionCard: FunctionComponent<Position> = ({ name, position }) => (
 );
 
 const FullCard: FunctionComponent = ({ children }) => (
-    <Box
-        py={2}
-        px={1}
-        mb={2}
-        display="flex"
-        flexWrap="wrap"
-        bgcolor="white"
-    >
+    <Box py={2} px={1} mb={2} display="flex" flexWrap="wrap" bgcolor="white">
         {children}
     </Box>
 );
 
 // const Candidate: FunctionComponent<Props> = ({ photo ,title, name }) => <Box>
 
-const BasicInfoTab: FunctionComponent<Props> = ({ positions }) => {
+const BasicInfoTab: FunctionComponent<Props> = ({
+    lastPolitics = '',
+    positions
+}) => {
+    const [open, setOpen] = useState(false);
     return (
         <Box width="100vw" bgcolor="#F7F7F7" py={3}>
             <Title name="政黨主要職位" />
@@ -60,25 +57,39 @@ const BasicInfoTab: FunctionComponent<Props> = ({ positions }) => {
                     <PositionCard {...p} />
                 ))}
             </FullCard>
-            <Title name="政見" />
-            <Box p={1}>
-                <Card>
-                    <Box mb={1}>
-                        <Typography variant="body2" color="textSecondary">
-                            {`第 10 屆 不分區立委選舉`}
-                        </Typography>
+            {lastPolitics && (
+                <>
+                    <Title name="政見" />
+                    <Box p={1} onClick={() => setOpen(true)}>
+                        <Card>
+                            <Box mb={1}>
+                                <Typography
+                                    variant="body2"
+                                    color="textSecondary"
+                                >
+                                    {`第 9 屆 不分區立委選舉`}
+                                </Typography>
+                            </Box>
+                            <Box mb={0.5}>
+                                <Typography> 上次參選政見 </Typography>
+                            </Box>
+                            <Box color="rgba(0, 0, 0, 0.54);" height="120px">
+                                {`${lastPolitics.substring(0, 100)}...`}
+                            </Box>
+                        </Card>
                     </Box>
-                    <Typography> 本次參選政見 </Typography>
-                </Card>
-                <Card>
-                    <Box mb={1}>
-                        <Typography variant="body2" color="textSecondary">
-                            {`第 9 屆 不分區立委選舉`}
-                        </Typography>
-                    </Box>
-                    <Typography> 上次參選政見 </Typography>
-                </Card>
-            </Box>
+                    {open && (
+                        <Dialog
+                            top="上屆參選政見"
+                            handleCloseClick={() => setOpen(false)}
+                        >
+                            <DialogContent>
+                                <Box pb="72px">{lastPolitics}</Box>
+                            </DialogContent>
+                        </Dialog>
+                    )}
+                </>
+            )}
         </Box>
     );
 };

@@ -1,5 +1,6 @@
-import { Box } from '@material-ui/core';
+import { Button, Box } from '@material-ui/core';
 import { makeStyles } from '@material-ui/styles';
+import CloseIcon from '@material-ui/icons/Close';
 import React, { FunctionComponent, ReactNode } from 'react';
 
 const useStyles = makeStyles({
@@ -35,16 +36,45 @@ const useStyles = makeStyles({
         height: '60px',
         alignItems: 'center',
         boxShadow: '0px 1px 0px rgba(0, 0, 0, 0.1)'
+    },
+    bottomPanel: {
+        boxSizing: 'border-box',
+        backgroundColor: 'rgba(255, 255, 255, 0.8)'
+    },
+    button: {
+        color: 'rgba(0, 0, 0, 0.54)'
     }
 });
 
-const Dialog: FunctionComponent<{ top?: ReactNode }> = ({ children, top }) => {
+const Dialog: FunctionComponent<{
+    top?: ReactNode;
+    handleCloseClick?: Function;
+}> = ({ children, top, handleCloseClick = () => {} }) => {
     const classes = useStyles();
     return (
         <Box className={classes.root}>
             <Box mb={2} className={classes.content}>
                 {top ? <Box className={classes.top}>{top}</Box> : null}
                 {children}
+                <Box
+                    position="absolute"
+                    display="flex"
+                    justifyContent="flex-end"
+                    bottom="0"
+                    padding="16px 16px "
+                    height="72px"
+                    width="100%"
+                    className={classes.bottomPanel}
+                >
+                    <Button
+                        variant="outlined"
+                        onClick={() => handleCloseClick()}
+                        className={classes.button}
+                    >
+                        <CloseIcon />
+                        關閉
+                    </Button>
+                </Box>
             </Box>
         </Box>
     );

@@ -1,6 +1,4 @@
 import { Box, Button, DialogContent, Typography } from '@material-ui/core';
-import CloseIcon from '@material-ui/icons/Close';
-import { makeStyles } from '@material-ui/styles';
 import React from 'react';
 import { simplifyCaseOfAction } from '../../utils';
 import ChangedBill from '../Bill/ChangedBill';
@@ -23,16 +21,6 @@ const defaultInfo = {
     descriptions: []
 };
 
-const useStyle = makeStyles({
-    bottomPanel: {
-        boxSizing: 'border-box',
-        backgroundColor: 'rgba(255, 255, 255, 0.8)'
-    },
-    button: {
-        color: 'rgba(0, 0, 0, 0.54)'
-    }
-});
-
 const BillDialog = ({
     id,
     open,
@@ -42,7 +30,6 @@ const BillDialog = ({
     open: boolean;
     handleClose: () => void;
 }) => {
-    const classes = useStyle();
     const [info, setInfo] = React.useState(defaultInfo);
     React.useEffect(() => {
         fetch(`/api/bill/${id}`)
@@ -133,6 +120,7 @@ const BillDialog = ({
 
     return !open ? null : (
         <Dialog
+            handleCloseClick={handleClose}
             top={
                 <Typography variant="h3" gutterBottom>
                     {bill.name}
@@ -180,25 +168,6 @@ const BillDialog = ({
                     {descriptions.length ? modifyBill : newBill}
                 </Box>
             </DialogContent>
-            <Box
-                position="absolute"
-                display="flex"
-                justifyContent="flex-end"
-                bottom="0"
-                padding="16px 16px "
-                height="72px"
-                width="100%"
-                className={classes.bottomPanel}
-            >
-                <Button
-                    variant="outlined"
-                    onClick={handleClose}
-                    className={classes.button}
-                >
-                    <CloseIcon />
-                    關閉
-                </Button>
-            </Box>
         </Dialog>
     );
 };
