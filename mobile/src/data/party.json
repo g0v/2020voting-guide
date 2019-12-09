@@ -99,12 +99,11 @@
         "electedPerson": []
     },
     {
-        "name": "綠黨社會民主黨聯盟",
+        "name": "綠黨",
         "chairman": [
-            "梁益誌",
-            "范雲"
+            "梁益誌"
         ],
-        "logo": "/img/party/gsp.svg",
+        "logo": "/img/party/gp.png",
         "voteNum": 510074,
         "voteRate": "4.1843%",
         "regionalLegislatorsNum": 0,
