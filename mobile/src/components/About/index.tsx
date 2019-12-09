@@ -1,5 +1,5 @@
-import React from 'react';
 import { Box, Typography } from '@material-ui/core';
+import React from 'react';
 
 const About = () => (
     <Box px={2} py={3}>
@@ -7,7 +7,7 @@ const About = () => (
             關於我們
         </Typography>
         <Box textAlign="center" py={3}>
-            <img src="/img/doll/about.svg" />
+            <img src="/img/doll/about.svg" alt="about us" />
         </Box>
         <Typography variant="h3" gutterBottom>
             <Box fontWeight="600">選前抱佛腳，投下有價值的一票</Box>
@@ -21,10 +21,10 @@ const About = () => (
         </Typography>
         <br />
         <Box py={2}>
-            <img src="/img/g0v_width.svg" />
+            <img src="/img/g0v_width.svg" alt="g0v" />
         </Box>
         <Box textAlign="center" py={3}>
-            <img src="/img/doll/vote.svg" />
+            <img src="/img/doll/vote.svg" alt="vote" />
         </Box>
         <Typography variant="h3" gutterBottom>
             <Box fontWeight="600">選前大補帖幕後團隊</Box>

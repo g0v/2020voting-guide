@@ -1,4 +1,4 @@
-import { Typography, Box } from '@material-ui/core';
+import { Box, Typography } from '@material-ui/core';
 import React from 'react';
 
 const NewParty = ({ name }: { name: string }) => {
@@ -9,7 +9,7 @@ const NewParty = ({ name }: { name: string }) => {
             textAlign="center"
             py={5}
         >
-            <img width="200" src="/img/new.svg" />
+            <img width="200" src="/img/new.svg" alt="new party" />
             <Box mb={1}>
                 <Typography variant="h4">{`${name}上屆沒有立委唷！`}</Typography>
             </Box>
