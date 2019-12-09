@@ -46,8 +46,7 @@ const Nav: FunctionComponent<Props> = ({
                             </Grid>
                             <Grid item>
                                 <Typography variant="h4" color="textSecondary">
-                                    現任不分區 {regionalSittingNum} 席 區域立委{' '}
-                                    {nonRegionalSittingNum} 席
+                                    {`現任不分區 ${nonRegionalSittingNum} 席 區域立委 ${regionalSittingNum} 席`}
                                 </Typography>
                             </Grid>
                         </Grid>
