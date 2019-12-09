@@ -1,21 +1,24 @@
+import { Box, Link, Typography } from '@material-ui/core';
+import Tab from '@material-ui/core/Tab';
+import Tabs from '@material-ui/core/Tabs';
+import KeyboardArrowLeft from '@material-ui/icons/KeyboardArrowLeft';
 import React, { useEffect } from 'react';
 import { RouteComponentProps } from 'react-router';
-import { Typography, Box, Link } from '@material-ui/core';
-import Tab from '@material-ui/core/Tab';
-import KeyboardArrowLeft from '@material-ui/icons/KeyboardArrowLeft';
-import Tabs from '@material-ui/core/Tabs';
 import partyInfos from '../../data/party.json';
 import partyCandidates from '../../data/party_candidates.json';
-import partyPositions from '../../data/party_positions.json';
 import partyPolitics from '../../data/party_politics.json';
-import BasicInfoTab from './BasicInfoTab';
+import partyPositions from '../../data/party_positions.json';
 import { Bill } from '../IssueBill';
 import IssueBillTab from '../IssueBillTab';
 // import Progressing from '../Progressing';
 import Seats from '../Party/Seats';
+import BasicInfoTab from './BasicInfoTab';
 import CandidateList from './CandidateList';
-import { Position, Candidate } from './types';
 import Nav from './Nav';
+import NewParty from './NewParty';
+import { Candidate, Position } from './types';
+
+const currentParty = ['民主進步黨', '中國國民黨', '時代力量', '親民黨'];
 
 interface PartyInfo {
     name: string;
@@ -103,7 +106,13 @@ const Party = ({ match }: RouteComponentProps<{ party: string }>) => {
                     candidates={candidates}
                 />
             )}
-            {tab === 1 && <IssueBillTab party={party} isParty bills={bills} />}
+            {tab === 1 ? (
+                currentParty.indexOf(party) == -1 ? (
+                    <NewParty name={party} />
+                ) : (
+                    <IssueBillTab party={party} isParty bills={bills} />
+                )
+            ) : null}
             {/* {tab === 2 && <Progressing />} */}
             {tab === 2 && (
                 <BasicInfoTab
