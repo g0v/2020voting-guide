@@ -12,6 +12,7 @@ import BasePaper from '../BasePaper';
 import BigNum from '../Numbers/BigNum';
 import AppBarChart from './AppBarChart';
 import CompareBarChart from './CompareBarChart';
+import ContributionChart from './ContributionChart';
 
 const proposeData = proposeTimes.map(item => {
     return {
@@ -22,12 +23,12 @@ const proposeData = proposeTimes.map(item => {
 }).reverse()
 
 const contributionMappings: { [key: string]: string } = {
-    personalContributeion: '個人捐贈',
-    profitableContributeion: '營利事業捐贈',
-    partyContributeion: '政黨捐贈',
-    civilOrganizationsContributeion: '人民團體捐贈',
-    anonymousContributeion: '匿名捐贈',
-    otherContributeion: '其他'
+    personalContributeion: '個人捐贈收入',
+    profitableContributeion: '營利事業捐贈收入',
+    partyContributeion: '政黨捐贈收入',
+    civilOrganizationsContributeion: '人民團體捐贈收入',
+    anonymousContributeion: '匿名捐贈收入',
+    otherContributeion: '其他收入'
 }
 
 const Statistic: {
@@ -101,32 +102,24 @@ const PositionTab = ({
     const [showMoreBillProposal, setMoreBillProposal] = React.useState(false);
     const [statistic, setStatistic] = React.useState(Statistic);
 
-    let contributionIncome =
+    const contributionIncome =
 
     Object.keys(contributionMappings).map((key: string) => {
         return {
             name: contributionMappings[key] || '',
+            value: statistic.contribution[key],
             percent: Number(((statistic.contribution[key] / statistic.contribution.totalIncome) * 100).toFixed(2)) || 0
         }
-    })
-    .sort((a, b) => {
-        return a.percent - b.percent
+    }).sort((a, b) => {
+        return b.value - a.value
     })
 
-    const hash = {
-        'index': 0,
-        'value': 0
-    }
-
-    contributionIncome.forEach((element, index, array) => {
-        if (element.percent + hash.value < 10) {
-            hash.value += element.percent;
-            hash.index = index
+    const contributionExpense = [
+            {
+            name: '總支出',
+            value: statistic.contribution.totalExpense,
+            percent: 100
         }
-    });
-    contributionIncome = [
-        ...contributionIncome.slice(hash.index, contributionIncome.length),
-        { name: '其他', percent: hash.value }
     ]
 
     React.useEffect(() => {
@@ -267,18 +260,16 @@ const PositionTab = ({
             </BasePaper>
             <Box p={1} bgcolor={theme.palette.background.default} />
 
-            {/* <BasePaper title="政治獻金紀錄" subtitle="每年收到的捐款和使用方式">
+            <BasePaper title="政治獻金紀錄" subtitle="每年收到的捐款和使用方式">
                 <Box marginBottom="20px">
                     <Typography variant="h4">2016 立委選舉</Typography>
                 </Box>
-                <Typography variant="h3">{name} 收入</Typography>
-                <AppPieChart data={contributionIncome} text={getTenThousand(statistic.contribution.totalIncome) + "萬元"} />
-                <Typography variant="h3">{name} 支出</Typography>
-                // <AppPieChart data={data01} text={getTenThousand(statistic.contribution.totalExpense) + "萬元"} />
-                <Box display="flex" justifyContent="center">
-                    <Typography variant="h3" color="primary">{getTenThousand(statistic.contribution.totalExpense) + "萬元"}</Typography>
-                </Box>
-            </BasePaper> */}
+                <ContributionChart
+                    totalIncome={statistic.contribution.totalIncome}
+                    totalExpense={statistic.contribution.totalExpense}
+                    income={contributionIncome}
+                    expense={contributionExpense}/>
+            </BasePaper>
             <Box p={1} bgcolor={theme.palette.background.default} />
 
             <BasePaper title="同選區其他候選人收支" subtitle={`2016 區域立委選舉 ` + constituency}>
