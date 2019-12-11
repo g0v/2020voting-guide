@@ -1,0 +1,4477 @@
+[
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "556171985133978",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-27",
+    "結束日期": "2019-12-06",
+    "廣告內容": "#競選日記 還記得剛投入選戰的時候，受到 余天 Yu Tian 很大的鼓舞。眾所周知，天哥對後輩的提攜不遺餘力，那一晚，天哥握著我的手，告訴我雖然是最艱困的選區，年輕人就是要不怕苦肯打拼，到頭來一定會有好的結果。至今，我都還常常想起天哥的提點，每一天努力勤走，吃苦當吃補，繼續拼 #逆轉勝。 今天看到新聞， 賴清德 院長前往醫院探視余苑綺，呼籲支持者一起幫為了家庭、選戰兩頭燒的天哥分憂解勞。在這邊，我也要請我的粉絲們一起為綺綺集氣．幫天哥加油。 #2020台灣要贏 #年輕世代有志競程 #前進國會讓專業的來",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/73211324_143474550361180_3130845551772303360_n.jpg?_nc_cat=100&_nc_ohc=tma8kqEm7-0AQnc_FJqJdoMxfvxMAIFksxiuzo8b_quWEmARc1CJAOPxw&_nc_ht=scontent-hkg3-1.xx&oh=e561250f9466681f142febab05a05dd0&oe=5E798CD4",
+    "廣告詳情": {
+      "ad_creative_body": "#競選日記\n\n還記得剛投入選戰的時候，受到 余天 Yu Tian 很大的鼓舞。眾所周知，天哥對後輩的提攜不遺餘力，那一晚，天哥握著我的手，告訴我雖然是最艱困的選區，年輕人就是要不怕苦肯打拼，到頭來一定會有好的結果。至今，我都還常常想起天哥的提點，每一天努力勤走，吃苦當吃補，繼續拼 #逆轉勝。\n\n今天看到新聞， 賴清德 院長前往醫院探視余苑綺，呼籲支持者一起幫為了家庭、選戰兩頭燒的天哥分憂解勞。在這邊，我也要請我的粉絲們一起為綺綺集氣．幫天哥加油。\n\n#2020台灣要贏\n#年輕世代有志競程\n#前進國會讓專業的來",
+      "ad_creation_time": "2019-10-28T05:59:59+0000",
+      "ad_delivery_start_time": "2019-10-28T05:59:59+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000179",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.062858",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.008673",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.017793",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.029104",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.017033",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.04949",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.139753",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.149097",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000268",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.010327",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.112482",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.171629",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.230418",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000224",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "8.9E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000179",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000402",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "25000",
+        "upper_bound": "29999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "0.320844",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.164661",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.166398",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.187124",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.081928",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.000212",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.021107",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.031237",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.02649",
+          "region": "Keelung City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2000",
+        "upper_bound": "2499"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "534883780656499",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-25",
+    "結束日期": "2019-11-03",
+    "廣告內容": "這個身高、這個側臉、這個動作，是不是該組一個海市山盟了！ 對了，聽說3Q 陳柏惟壘球打得不錯，我大學也打壘球，柏惟出來打球，球我可以帶！ #海線陳柏惟 #市區莊競程 #保台抗中淘汰親中 #台中要贏台灣要贏",
+    "圖片": "https://scontent-nrt1-1.xx.fbcdn.net/v/t1.6435-0/s600x600/72485662_140707683971200_8037319403634688000_n.jpg?_nc_cat=105&_nc_oc=AQnA0t1ErNa038MOJKPqDxMB7zyGNaN-IrRFJPxVeQJkMwWcUb1swbODHvNa0GZ8VeU&_nc_ht=scontent-nrt1-1.xx&oh=3fd6d98e0921bf0240600879672eaff9&oe=5E6186B5"
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "759900334451834",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-25",
+    "結束日期": "2019-12-06",
+    "廣告內容": "#競選日記 昨晚在 台中市松竹寺 契子女團員祈福晚會上，神秘嘉賓 洪慈庸 立委特別跨區來幫我助選。 投入政治這條路以來，慈庸一直是我學習的榜樣。2016年，她以素人之姿擊敗挑戰六連霸的楊瓊瓔。前進國會三年多的任期，無論是在中央推動法案、軍中改革，或者是地方的選民服務、為在地爭取建設，慈庸的問政成績都是有目共睹。 感謝慈庸的站台，我也趁機請教幾招關於選舉的小技巧，獲益良多。希望我也能像慈庸一樣，翻轉北北屯這個艱困選區，拼出 #逆轉勝。 慈庸跟我都是年輕世代，這一仗我們挺身就是為了共同守護台灣。如果您也一樣，請一定要行動起來，幫我們拉票催票，力拼綠營國會過半。 #2020台灣要贏 #年輕世代有志競程 #前進國會讓專業的來",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/72615342_140071184034850_4218505470698061824_n.jpg?_nc_cat=101&_nc_ohc=37NeA5F5Z5wAQmriHYJDcJOgvQDeaa8jj-VGkAZCIqT7nr3-eSnGr4-gQ&_nc_ht=scontent-hkg3-1.xx&oh=288724bffc3d33ee50a60659a6339626&oe=5E779C4B",
+    "廣告詳情": {
+      "ad_creative_body": "#競選日記\n\n昨晚在 台中市松竹寺 契子女團員祈福晚會上，神秘嘉賓 洪慈庸 立委特別跨區來幫我助選。\n\n投入政治這條路以來，慈庸一直是我學習的榜樣。2016年，她以素人之姿擊敗挑戰六連霸的楊瓊瓔。前進國會三年多的任期，無論是在中央推動法案、軍中改革，或者是地方的選民服務、為在地爭取建設，慈庸的問政成績都是有目共睹。\n\n感謝慈庸的站台，我也趁機請教幾招關於選舉的小技巧，獲益良多。希望我也能像慈庸一樣，翻轉北北屯這個艱困選區，拼出 #逆轉勝。\n\n慈庸跟我都是年輕世代，這一仗我們挺身就是為了共同守護台灣。如果您也一樣，請一定要行動起來，幫我們拉票催票，力拼綠營國會過半。\n\n#2020台灣要贏\n#年輕世代有志競程\n#前進國會讓專業的來",
+      "ad_creation_time": "2019-10-25T07:26:16+0000",
+      "ad_delivery_start_time": "2019-10-25T07:26:16+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000234",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.023128",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.010863",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.006892",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.05233",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.095316",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.092396",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.178484",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.033524",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000117",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.274033",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.062376",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.161196",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000234",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000234",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000467",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000117",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00806",
+          "age": "25-34",
+          "gender": "female"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "0.000225",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.330751",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.183227",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.141013",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.183002",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.084653",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.020995",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.028741",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.027394",
+          "region": "Keelung City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "413898202833201",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-04",
+    "結束日期": "2019-12-06",
+    "廣告內容": "《世代共贏 台灣派對》活動照片集 #2020台灣要贏 #年輕世代有志競程 #守護台灣守護健康 #前進國會讓專業的來",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/74612992_146811653360803_7987374401475575808_n.jpg?_nc_cat=109&_nc_ohc=6zaueCWDJ2cAQnAG_hdw6cNOH6xYYp0l_MPtNlmxQtRHRMVTfq7hIlzvg&_nc_ht=scontent-hkg3-1.xx&oh=90c27248131cbd00085940f3c8746564&oe=5E406A8E",
+    "廣告詳情": {
+      "ad_creative_body": "《世代共贏 台灣派對》活動照片集\n\n#2020台灣要贏\n#年輕世代有志競程\n#守護台灣守護健康\n#前進國會讓專業的來",
+      "ad_creation_time": "2019-11-04T10:03:50+0000",
+      "ad_delivery_start_time": "2019-11-04T10:03:50+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.109807",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.138307",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.160939",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00922",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.145851",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.077955",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.111484",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.027661",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.072087",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.125733",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.01425",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.005029",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001676",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "1999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "398391094374150",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-08",
+    "結束日期": "2019-12-06",
+    "廣告內容": "#台灣就是我們的家。 守護台灣就是守護我們的家園！ #2020台灣要贏 #守護台灣守護健康 #前進國會讓專業的來",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/74176564_148164049892230_3316733166567292928_n.png?_nc_cat=100&_nc_ohc=LFjiZynca5kAQnK_tJeNTJU1j2SUxIvxx8B3J7jAqC7kaJ_DPzH26bk_A&_nc_ht=scontent-hkg3-1.xx&oh=6902718c25b95a21a5f4ed05526afef1&oe=5E733874",
+    "廣告詳情": {
+      "ad_creative_body": "#台灣就是我們的家。\n守護台灣就是守護我們的家園！\n\n#2020台灣要贏\n#守護台灣守護健康\n#前進國會讓專業的來",
+      "ad_creation_time": "2019-11-08T08:59:33+0000",
+      "ad_delivery_start_time": "2019-11-08T08:59:33+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000148",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.018207",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000296",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00037",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000518",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.010806",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000444",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.015395",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.035453",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.233069",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.102583",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.057139",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.032492",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.154245",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.155281",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.108208",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.07505",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000296",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "20000",
+        "upper_bound": "24999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "0.316255",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.130625",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.267005",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.158436",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.066032",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.013289",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.024454",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.023906",
+          "region": "Keelung City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2000",
+        "upper_bound": "2499"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "489482084992257",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-21",
+    "結束日期": "2019-12-06",
+    "廣告內容": "謝謝 郭子乾 大哥，今天為我站台辛苦了一天。 競總成立大會上的模仿表演，又是一陣滿堂彩。 不僅炒熱場子，更炒熱我的選情。 未來我進入國會，也會學習郭哥的精神。 做什麼要像什麼，用我的專業在立院為人民把關。 距離大選剩下剩下不到二個月，大夥兒繼續拼！ #年輕世代有志競程 #前進國會讓專業的來",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/75603435_152191016156200_2002479384514002944_n.jpg?_nc_cat=101&_nc_ohc=64mx5eJfWCMAQm0jEMaFpEaRL7B-zR1QjQAiIeJW_MQW9GEbbJ_Z5_TXQ&_nc_ht=scontent-hkg3-1.xx&oh=b0c5ac5c60ab3dac8fa93cb9a83c0698&oe=5E7197F8",
+    "廣告詳情": {
+      "ad_creative_body": "謝謝 郭子乾 大哥，今天為我站台辛苦了一天。\n競總成立大會上的模仿表演，又是一陣滿堂彩。\n不僅炒熱場子，更炒熱我的選情。\n\n未來我進入國會，也會學習郭哥的精神。\n做什麼要像什麼，用我的專業在立院為人民把關。\n\n距離大選剩下剩下不到二個月，大夥兒繼續拼！\n\n#年輕世代有志競程\n#前進國會讓專業的來",
+      "ad_creation_time": "2019-11-22T03:19:41+0000",
+      "ad_delivery_start_time": "2019-11-22T03:19:41+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000757",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.06108",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000252",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000505",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000757",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.037607",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.01893",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001262",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.139324",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.075972",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.059313",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.152448",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.031297",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.036345",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.038364",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.140586",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.20419",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00101",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "競程 莊",
+      "impressions": {
+        "lower_bound": "4000",
+        "upper_bound": "4999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "0.35909",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.12103",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.247562",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.150788",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.060765",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.014254",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.025256",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.021255",
+          "region": "Keelung City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "400",
+        "upper_bound": "499"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "436348213743618",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-21",
+    "結束日期": "2019-12-06",
+    "廣告內容": "#競選日記 距離投票日剩下55天 在 賴清德 院長，也是未來的 #副總統 加持之下。 我對選情愈來愈有信心，也感受到更多支持的熱情。 面對中國的進逼，民進黨必須團結面對這場選戰。 粉絲們也不能鬆懈，繼續衝，努力拉票。 目標力拼台中立委揮出 #全壘打。 #2020台灣要贏 #年輕世代有志競程 #守護健康守護台灣",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76693261_152204262821542_7760939675476295680_n.jpg?_nc_cat=102&_nc_ohc=gMSKcXaCbuQAQl3DU3xhAmtWlmOlc2pbPOJTHwvJqDVgg0CBfswJHqprQ&_nc_ht=scontent-hkg3-1.xx&oh=5183312badf9b579f0f0fe5b4cb44399&oe=5E6A6F25",
+    "廣告詳情": {
+      "ad_creative_body": "#競選日記 距離投票日剩下55天\n\n在 賴清德 院長，也是未來的 #副總統 加持之下。\n我對選情愈來愈有信心，也感受到更多支持的熱情。\n\n面對中國的進逼，民進黨必須團結面對這場選戰。\n粉絲們也不能鬆懈，繼續衝，努力拉票。\n目標力拼台中立委揮出 #全壘打。\n\n#2020台灣要贏\n#年輕世代有志競程\n#守護健康守護台灣",
+      "ad_creation_time": "2019-11-22T03:17:26+0000",
+      "ad_delivery_start_time": "2019-11-22T03:17:26+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.00058",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.025511",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00029",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00029",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.0129",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.016234",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.020438",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.085954",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.094072",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000145",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.148282",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.049572",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.04131",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.132628",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.222786",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.148427",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00058",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "競程 莊",
+      "impressions": {
+        "lower_bound": "8000",
+        "upper_bound": "8999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "0.35644",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.13428",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.195444",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.175619",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.0741",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.014764",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.026434",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.022638",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.000281",
+          "region": "Hsinchu"
+        }
+      ],
+      "spend": {
+        "lower_bound": "600",
+        "upper_bound": "699"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "956013394768113",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-25",
+    "結束日期": "2019-12-06",
+    "廣告內容": "#2020台灣要贏 我是 #北北屯競程五 我將用我的專業 #守護台灣守護健康 #ISeeYou看見人民的需求 #年輕世代有志競程 #前進國會讓專業的來懇請支持 北區 北屯區 立法委員參選人 莊競程 有志者是競程",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/72715522_394268924841535_7987259236222500864_n.jpg?_nc_cat=105&_nc_ohc=OJaGLhRN9KIAQnmxP6e8BeTWRopEbX_YN4VhWYiBRpyQ270emrEZCNqoA&_nc_ht=scontent-hkg3-1.xx&oh=ca05380e1c060793afe09657c7e77e53&oe=5E8AB362",
+    "廣告詳情": {
+      "ad_creative_body": "#2020台灣要贏\n我是 #北北屯競程五\n我將用我的專業 #守護台灣守護健康\n\n#ISeeYou看見人民的需求\n#年輕世代有志競程\n#前進國會讓專業的來懇請支持 北區 北屯區 立法委員參選人 莊競程\n有志者是競程",
+      "ad_creation_time": "2019-10-25T07:22:31+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "#有志者是競程\n2020請跟我一起守護台灣，守護健康。\n#前進國會讓專業的來",
+      "ad_creative_link_title": "莊競程 有志者是競程",
+      "ad_delivery_start_time": "2019-10-25T07:22:31+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.115636",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.185018",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.118653",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.039216",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.021116",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.169935",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.127702",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.03268",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.021619",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.033183",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.045752",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002011",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.086476",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001006",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "3000",
+        "upper_bound": "3999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "0.561749",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.274868",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.006247",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.074003",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.083133",
+          "region": "Yunlin"
+        }
+      ],
+      "spend": {
+        "lower_bound": "700",
+        "upper_bound": "799"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "444069482833624",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-26",
+    "結束日期": "2019-12-06",
+    "廣告內容": "#競選日記 距離投票日剩下56天 粉絲們，早安 ～ 記得嗎？ 今天是一個重要的日子。 是我與蔡英文總統的 #聯合競選總部成立大會。 適逢台北總部同時開幕，小英總統無法親自出席。 不過昨天小英總統已經親自向我加油打氣！ 有了總統的加持，今天的活動一定會順利。 台中的鄉親朋友們，我們下午見！ #2020台灣要贏 #年輕世代有志競程 #守護健康守護台灣",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/74214164_151783486196953_6712547392702382080_n.jpg?_nc_cat=103&_nc_ohc=rCmhhP_RPvAAQlmZpd1XwnOfs395ySmo2siOZUdbCJRVBR5kRRzhOxJtw&_nc_ht=scontent-hkg3-1.xx&oh=cc09075194a07e91c8818f987a7d4f0f&oe=5E3E2FD1",
+    "廣告詳情": {
+      "ad_creative_body": "#競選日記 距離投票日剩下56天\n\n粉絲們，早安 ～\n\n記得嗎？ 今天是一個重要的日子。\n是我與蔡英文總統的 #聯合競選總部成立大會。\n適逢台北總部同時開幕，小英總統無法親自出席。\n不過昨天小英總統已經親自向我加油打氣！\n有了總統的加持，今天的活動一定會順利。\n\n台中的鄉親朋友們，我們下午見！\n\n#2020台灣要贏\n#年輕世代有志競程\n#守護健康守護台灣",
+      "ad_creation_time": "2019-11-27T07:30:07+0000",
+      "ad_delivery_start_time": "2019-11-27T07:30:07+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000448",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.149899",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000224",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000224",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.008739",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.014116",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.009187",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.045037",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.020838",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000224",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.091194",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.127493",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.100829",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.240421",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.038539",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.15214",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000448",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "競程 莊",
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "0.342601",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.151708",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.186953",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.174694",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.079028",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.015981",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.027802",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.021235",
+          "region": "Keelung City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "400",
+        "upper_bound": "499"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "544817846373113",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-26",
+    "結束日期": "2019-12-06",
+    "廣告內容": "#選擇台灣代言人 #拒絕中國代理人 聽說，跑去中國鼓吹用武力統一台灣的邱毅，當上新黨的不分區第一名。 聽說，跑去中國聽習近平訓話的退將吳斯懷，在國民黨不分區安全名單。 2020的立法院，會出現很多位中國代理人。 但是，我們年輕世代真的沒在怕的！ 與 壯闊台灣 吳怡農 #2020台灣要贏 #年輕世代有志競程 #守護健康守護台灣",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/73524477_153866879321947_3757194183169802240_n.jpg?_nc_cat=104&_nc_ohc=Cn-mR0pXBEwAQnLEwwwpz2osRPrBH8NA1vDb5PmKp7-tBHbYLxW6XU44w&_nc_ht=scontent-hkg3-1.xx&oh=20ca4eff50d385687d91bfba44d7ee9d&oe=5E723E62",
+    "廣告詳情": {
+      "ad_creative_body": "#選擇台灣代言人\n#拒絕中國代理人\n\n聽說，跑去中國鼓吹用武力統一台灣的邱毅，當上新黨的不分區第一名。\n\n聽說，跑去中國聽習近平訓話的退將吳斯懷，在國民黨不分區安全名單。\n\n2020的立法院，會出現很多位中國代理人。\n但是，我們年輕世代真的沒在怕的！\n\n與 壯闊台灣 吳怡農\n\n#2020台灣要贏\n#年輕世代有志競程\n#守護健康守護台灣",
+      "ad_creation_time": "2019-11-27T07:30:07+0000",
+      "ad_delivery_start_time": "2019-11-27T07:30:07+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.057635",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.031071",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00041",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000546",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000819",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000478",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000273",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.024515",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.018028",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.087818",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.038787",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.044455",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.085905",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.115269",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.155763",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.196872",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.140877",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000478",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "競程 莊",
+      "impressions": {
+        "lower_bound": "25000",
+        "upper_bound": "29999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "0.324591",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.116517",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.286353",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.149216",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.064331",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.0004",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.014281",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.021755",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.022556",
+          "region": "Keelung City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1500",
+        "upper_bound": "1999"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "2498644140184062",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-25",
+    "結束日期": "2019-12-06",
+    "廣告內容": "#2020台灣要贏 我是 #北北屯競程五 我將用我的專業 #守護台灣守護健康 #ISeeYou看見人民的需求 #年輕世代有志競程 #前進國會讓專業的來懇請支持 北區 北屯區 立法委員參選人 莊競程 有志者是競程",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/73293444_2248587208585877_5838469248149618688_n.jpg?_nc_cat=105&_nc_ohc=XLwMT6MCSYgAQlyQSf3JAz9xNqEvV-v0VibAKyEXgSGmMgEYnlm-wf_VA&_nc_ht=scontent-hkg3-1.xx&oh=7b594ab73db46f91f28f4dcb361e01eb&oe=5E811C1E",
+    "廣告詳情": {
+      "ad_creative_body": "#2020台灣要贏\n我是 #北北屯競程五\n我將用我的專業 #守護台灣守護健康\n\n#ISeeYou看見人民的需求\n#年輕世代有志競程\n#前進國會讓專業的來懇請支持 北區 北屯區 立法委員參選人 莊競程\n有志者是競程",
+      "ad_creation_time": "2019-10-25T07:22:03+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "#有志者是競程\n2020請跟我一起守護台灣，守護健康。\n#前進國會讓專業的來",
+      "ad_creative_link_title": "莊競程 有志者是競程",
+      "ad_delivery_start_time": "2019-10-25T07:22:03+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000359",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.048859",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000359",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.018682",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.033052",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.047602",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.051733",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.054787",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.035207",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000719",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.148374",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.084067",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.140291",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.151428",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.183043",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00018",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00018",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001078",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "0.586404",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.261821",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.005889",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.074205",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.071681",
+          "region": "Yunlin"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2000",
+        "upper_bound": "2499"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "1320935278030427",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-14",
+    "結束日期": "2019-12-06",
+    "廣告內容": "#2020台灣要贏 我是 #北北屯競程五 我將用我的專業 #守護台灣守護健康 #ISeeYou看見人民的需求 #年輕世代有志競程 #前進國會讓專業的來",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/73255940_1320935314697090_7352127078877102080_n.jpg?_nc_cat=102&_nc_ohc=ZBcTUg44FCAAQlslrv9hcrmyuOQqIPjOJxAr-DUBxnq_0N6mU65s2sehw&_nc_ht=scontent-hkg3-1.xx&oh=99965d72a96616b6564c85b9dc4a4e0f&oe=5E71B399",
+    "廣告詳情": {
+      "ad_creative_body": "#2020台灣要贏\n我是 #北北屯競程五\n我將用我的專業 #守護台灣守護健康\n\n#ISeeYou看見人民的需求\n#年輕世代有志競程\n#前進國會讓專業的來",
+      "ad_creation_time": "2019-10-15T06:55:28+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "#有志者是競程\n2020請跟我一起守護台灣，守護健康。\n#前進國會讓專業的來",
+      "ad_creative_link_title": "莊競程 有志者是競程",
+      "ad_delivery_start_time": "2019-10-15T06:55:28+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.001924",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.032072",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000641",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.071199",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.044259",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.059654",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.050032",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.060936",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.13855",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000641",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.163566",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.081462",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.038486",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.234124",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.019885",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000641",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000641",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001283",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "1999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "200",
+        "upper_bound": "299"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "391597514843493",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-13",
+    "結束日期": "2019-12-06",
+    "廣告內容": "懇請支持 北區 北屯區 立法委員參選人 莊競程 有志者是競程",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/73407816_391597544843490_5739427212109545472_n.jpg?_nc_cat=101&_nc_ohc=W8QA0b8sqx4AQkCuv1eZxl6KZtvXbdtp0zTqA6bJ45k17szKSkRIOXksA&_nc_ht=scontent-hkg3-1.xx&oh=8beaacd2a1aa7825741fe9c77ae5fc0d&oe=5E7AEA98",
+    "廣告詳情": {
+      "ad_creative_body": "懇請支持 北區 北屯區 立法委員參選人 莊競程\n有志者是競程",
+      "ad_creation_time": "2019-10-14T01:22:32+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "#有志者是競程\n2020請跟我一起守護台灣，守護健康。\n#前進國會讓專業的來",
+      "ad_creative_link_title": "莊競程 有志者是競程",
+      "ad_delivery_start_time": "2019-10-14T01:22:32+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.276353",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.068376",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.159544",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.128205",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.051282",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.051282",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.068376",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.031339",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.014245",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.088319",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.034188",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.022792",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002849",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.002849",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "732323960552000",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-13",
+    "結束日期": "2019-12-06",
+    "廣告內容": "懇請支持 北區 北屯區 立法委員參選人 莊競程 有志者是競程",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/73203555_732323977218665_826883179888508928_n.jpg?_nc_cat=110&_nc_ohc=R--HQEebBc0AQlk3gN0KFuQx8MMqB5eLT6iNfeZSIoLstrIPDf0o4Ggtw&_nc_ht=scontent-hkg3-1.xx&oh=5de65e3780bd0f2c28cc910ef9268c17&oe=5E77CE44",
+    "廣告詳情": {
+      "ad_creative_body": "懇請支持 北區 北屯區 立法委員參選人 莊競程\n有志者是競程",
+      "ad_creation_time": "2019-10-14T01:22:32+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "#有志者是競程\n2020請跟我一起守護台灣，守護健康。\n#前進國會讓專業的來",
+      "ad_creative_link_title": "莊競程 有志者是競程",
+      "ad_delivery_start_time": "2019-10-14T01:22:32+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.027913",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.161408",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.15534",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.036408",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.086165",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.029126",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.230583",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.040049",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.117718",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001214",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.040049",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.043689",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.003641",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.024272",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002427",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "4999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "0.778331",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.216687",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.004981",
+          "region": "Nantou"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "499"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "797949060679137",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-13",
+    "結束日期": "2019-12-06",
+    "廣告內容": "懇請支持 北區 北屯區 立法委員參選人 莊競程 有志者是競程",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/72952374_797949077345802_8801169287004815360_n.jpg?_nc_cat=103&_nc_ohc=0_duSCz6wwoAQmQCWT5TaVhrNs0NdnIk0VKNBunwmzuFkRRu0-LqwVWug&_nc_ht=scontent-hkg3-1.xx&oh=99e27dd83cf86535adc149a8b7bb026b&oe=5E87D969",
+    "廣告詳情": {
+      "ad_creative_body": "懇請支持 北區 北屯區 立法委員參選人 莊競程\n有志者是競程",
+      "ad_creation_time": "2019-10-14T01:22:32+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "#有志者是競程\n2020請跟我一起守護台灣，守護健康。\n#前進國會讓專業的來",
+      "ad_creative_link_title": "莊競程 有志者是競程",
+      "ad_delivery_start_time": "2019-10-14T01:22:32+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.254386",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.166667",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.052632",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.038012",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.184211",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.049708",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.05848",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.084795",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.032164",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.002924",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.002924",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.02924",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.04386",
+          "age": "18-24",
+          "gender": "female"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "477745913072893",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-07",
+    "結束日期": "2019-12-06",
+    "廣告內容": "台中 #北北屯競程五 報到！ I See You！ 我看見人民跟台灣的需求，這次參選的 #競程五政見，分別是 #青年有希望、#勞工有保障、#兒少有人幫、#敬老有夠棒、#醫療有發展 在我當教授的時候，就是專門研究 #老人失智症，我深知老人的健康，是對兒女最好的分擔，所以特別選在重陽節推出首波主打政見，敬老＋醫療： 競程五政見之 #敬老有夠棒 ：推動長照再升級，導入預防醫學，減少健保負擔。 世界各國對失智症盛行率的調查，在65歲以上的老年人口中，約有5-6%的老人患有失智症，而且每增加5歲，盛行率就大約增加一倍，以2017年7月內政部人口統計資料，台灣失智症人口估算已經超過26萬人，佔全國總人口1.13%，預防勝於治療，#我推出55歲以上民眾免費進行失智症篩檢，透過預先的篩檢早期發現，並作事前的預防措施，降低患病的可能性，減輕失智症造成長照與健保的沈重負擔，#我參選的台中北北屯可以做全國示範區。 競程五政見之 #醫療有發展 ：運動+生醫，打造產業新藍海，創造優質就業機會。 除了透過預先篩檢外，今年世界衛生組織公佈最新的《降低失智症風險指南》中也指出，多運動可以減少失智風險，但是台灣大部分的銀髮族卻嚴重缺乏運動習慣，所以 #我要爭取設置老人運動中心，打造老人友善的運動環境，提升老人運動的風氣。另外，去年台灣65歲以上人口已經超過總人口的14%，正式邁入高齡社會，2026年將會超過總人口的20%，進入超高齡社會，這些針對銀髮族設計的運動器材與運動課程，衍生出相關產業與專業人員的需求，#銀髮族運動產業將是下一波的新藍海。 政府強力推動「5+2」創新產業中的生醫產業，在108年編列的預算高達101億元經費，未來更將會逐年提高，預計可以創造高達兆元的產業經濟，台中同時也是國內精密機械的重要基地，生物醫學就是包括將精密機械的技術，應用在生物系統或醫學的領域，未來 #我會爭取生醫產業進駐中部，並和台中智慧機械園區相結合，打造台中成為生醫科技重鎮，#為台中創造更多工作機會。 現任113席立委中，有生醫背景的少之又少，台灣需要一席生醫專業的立法委員來替人民守護健康、守護台灣，前進國會，讓專業的來！ #北北屯要贏 #2020台灣要贏 #年輕世代有志競程",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/71898242_135579487817353_5823230240326942720_n.jpg?_nc_cat=106&_nc_ohc=CsweazmFhDkAQlw3LqblVUPpxmS1pzF0QGhiNVOaxLGsaMB0kj0tjFChQ&_nc_ht=scontent-hkg3-1.xx&oh=45f8881a90dde19a44389e19ec77ee06&oe=5E80EF98",
+    "廣告詳情": {
+      "ad_creative_body": "台中 #北北屯競程五 報到！ I See You！\n\n我看見人民跟台灣的需求，這次參選的 #競程五政見，分別是 #青年有希望、#勞工有保障、#兒少有人幫、#敬老有夠棒、#醫療有發展\n\n在我當教授的時候，就是專門研究 #老人失智症，我深知老人的健康，是對兒女最好的分擔，所以特別選在重陽節推出首波主打政見，敬老＋醫療：\n\n競程五政見之 #敬老有夠棒 ：推動長照再升級，導入預防醫學，減少健保負擔。\n\n世界各國對失智症盛行率的調查，在65歲以上的老年人口中，約有5-6%的老人患有失智症，而且每增加5歲，盛行率就大約增加一倍，以2017年7月內政部人口統計資料，台灣失智症人口估算已經超過26萬人，佔全國總人口1.13%，預防勝於治療，#我推出55歲以上民眾免費進行失智症篩檢，透過預先的篩檢早期發現，並作事前的預防措施，降低患病的可能性，減輕失智症造成長照與健保的沈重負擔，#我參選的台中北北屯可以做全國示範區。\n\n競程五政見之 #醫療有發展 ：運動+生醫，打造產業新藍海，創造優質就業機會。\n\n除了透過預先篩檢外，今年世界衛生組織公佈最新的《降低失智症風險指南》中也指出，多運動可以減少失智風險，但是台灣大部分的銀髮族卻嚴重缺乏運動習慣，所以 #我要爭取設置老人運動中心，打造老人友善的運動環境，提升老人運動的風氣。另外，去年台灣65歲以上人口已經超過總人口的14%，正式邁入高齡社會，2026年將會超過總人口的20%，進入超高齡社會，這些針對銀髮族設計的運動器材與運動課程，衍生出相關產業與專業人員的需求，#銀髮族運動產業將是下一波的新藍海。\n\n政府強力推動「5+2」創新產業中的生醫產業，在108年編列的預算高達101億元經費，未來更將會逐年提高，預計可以創造高達兆元的產業經濟，台中同時也是國內精密機械的重要基地，生物醫學就是包括將精密機械的技術，應用在生物系統或醫學的領域，未來 #我會爭取生醫產業進駐中部，並和台中智慧機械園區相結合，打造台中成為生醫科技重鎮，#為台中創造更多工作機會。\n\n現任113席立委中，有生醫背景的少之又少，台灣需要一席生醫專業的立法委員來替人民守護健康、守護台灣，前進國會，讓專業的來！\n\n#北北屯要贏\n#2020台灣要贏\n#年輕世代有志競程",
+      "ad_creation_time": "2019-10-08T04:29:19+0000",
+      "ad_delivery_start_time": "2019-10-08T04:29:19+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000586",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.061572",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.017592",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.027365",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.165364",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.025215",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.036943",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.0086",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.060594",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000195",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.118647",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.101056",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.137217",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.237295",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000195",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000586",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000391",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000586",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "9999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "4999"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "502040147008630",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-07",
+    "結束日期": "2019-12-06",
+    "廣告內容": "今天一早拜票就遇到民眾對我揮手高喊 #金城武，一方面讓我又是害羞，又覺得士氣大振（握拳）！ 謝謝大家記住 #北北屯競程五 這個稱號，但是更重要的是要記得我的五大政見。 #青年有希望 #勞工有保障 #兒少有人幫 #敬老有夠棒 #醫療有發展 您的未來，我來打拼，前進國會，讓專業的來！ #2020台灣要贏 #年輕世代有志競程",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/72268315_135591934482775_7910283973350129664_n.jpg?_nc_cat=107&_nc_ohc=gfuE5AZhV3AAQmLe9RhT3-awIFQTAE4Wa_0OJHhFjytYrlEtJ3sdM7wbA&_nc_ht=scontent-hkg3-1.xx&oh=65efced206268e14be2d83af5bb7933c&oe=5E6CD772",
+    "廣告詳情": {
+      "ad_creative_body": "今天一早拜票就遇到民眾對我揮手高喊 #金城武，一方面讓我又是害羞，又覺得士氣大振（握拳）！\n\n謝謝大家記住 #北北屯競程五 這個稱號，但是更重要的是要記得我的五大政見。\n\n#青年有希望\n#勞工有保障\n#兒少有人幫\n#敬老有夠棒\n#醫療有發展\n\n您的未來，我來打拼，前進國會，讓專業的來！\n\n#2020台灣要贏\n#年輕世代有志競程",
+      "ad_creation_time": "2019-10-08T04:26:13+0000",
+      "ad_delivery_start_time": "2019-10-08T04:26:13+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000666",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.087531",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000444",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.015088",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.018638",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.007655",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.030952",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.103395",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.045263",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000333",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.067562",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.24584",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.146439",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.056357",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.173064",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000333",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000444",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "49999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "4999"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "732695050529243",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-04",
+    "結束日期": "2019-12-06",
+    "廣告內容": "懇請支持，北區 北屯區 立法委員參選人 莊競程 有志者是競程",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/72555150_732695063862575_7084765424830644224_n.jpg?_nc_cat=106&_nc_ohc=fb0LDagSm2cAQmPVwEJroASdxoAHCK5lFz4yqED4TJSwZwBMc_ORLjCiw&_nc_ht=scontent-hkg3-1.xx&oh=92bdec855c96fd3e11399f67244f539c&oe=5E6A892A",
+    "廣告詳情": {
+      "ad_creative_body": "懇請支持，北區 北屯區 立法委員參選人 莊競程\n有志者是競程",
+      "ad_creation_time": "2019-10-05T02:07:57+0000",
+      "ad_delivery_start_time": "2019-10-05T02:07:57+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000403",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.216156",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.075342",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.153505",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.115431",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.10556",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.064263",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.031829",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.050967",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.020346",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.140008",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.006245",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.019339",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000403",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000201",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "9999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "4999"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "927956310936677",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-04",
+    "結束日期": "2019-12-06",
+    "廣告內容": "懇請支持，北區 北屯區 立法委員參選人 莊競程 有志者是競程",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/72727285_518536285607156_6463596292063887360_n.jpg?_nc_cat=111&_nc_ohc=PUiHB33eVFUAQmmQJcO9EK92WkOXTX3Oa_B9mazfAEWL5LCRMgPRtHidA&_nc_ht=scontent-hkg3-1.xx&oh=b7becca0a951b39963c5f96ec2a456d8&oe=5E79EA9F",
+    "廣告詳情": {
+      "ad_creative_body": "懇請支持，北區 北屯區 立法委員參選人 莊競程\n有志者是競程",
+      "ad_creation_time": "2019-10-05T02:07:57+0000",
+      "ad_delivery_start_time": "2019-10-05T02:07:57+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000529",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000793",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000529",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.167856",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.073751",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.163891",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.266455",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.108908",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.064235",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.034364",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.044145",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.032514",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.020354",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.013746",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.007137",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000793",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "9999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "0.790096",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.203851",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.006052",
+          "region": "Nantou"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "999"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "505196873605512",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-04",
+    "結束日期": "2019-12-06",
+    "廣告內容": "懇請支持，北區 北屯區 立法委員參選人 莊競程 有志者是競程",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/72369995_505196920272174_4251796307670204416_n.jpg?_nc_cat=105&_nc_ohc=loUKgBYLDMUAQnOrJ8HD8cx54hXMxKOh0RH0q9ZNenMVgKvPGzpBtfB_w&_nc_ht=scontent-hkg3-1.xx&oh=288188f4a32fe853d5b1a9a0e191ca9e&oe=5E6F383A",
+    "廣告詳情": {
+      "ad_creative_body": "懇請支持，北區 北屯區 立法委員參選人 莊競程\n有志者是競程",
+      "ad_creation_time": "2019-10-05T02:02:16+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "Political Candidate",
+      "ad_creative_link_title": "莊競程 有志者是競程",
+      "ad_delivery_start_time": "2019-10-05T02:02:16+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000425",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.138183",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00034",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000255",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.029999",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.018526",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.036033",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00136",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00085",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.171412",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.058214",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.080479",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.054814",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.037223",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.060423",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.218577",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.092717",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00017",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "49999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "0.830088",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.168596",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.001316",
+          "region": "Nantou"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "4999"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "514476086016219",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-04",
+    "結束日期": "2019-12-06",
+    "廣告內容": "懇請支持，北區 北屯區 立法委員參選人 莊競程 有志者是競程",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/72574363_514476109349550_5303564769746223104_n.jpg?_nc_cat=111&_nc_ohc=TW6ClOVYS7YAQmYYLh6W7yFn8uzvP-UT70ztft1kKtaXbEAM-OfpNHO5A&_nc_ht=scontent-hkg3-1.xx&oh=528904ed0f27974cbb5e94f02a21c6c6&oe=5E8AC5D5",
+    "廣告詳情": {
+      "ad_creative_body": "懇請支持，北區 北屯區 立法委員參選人 莊競程\n有志者是競程",
+      "ad_creation_time": "2019-10-05T02:02:16+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "Political Candidate",
+      "ad_creative_link_title": "莊競程 有志者是競程",
+      "ad_delivery_start_time": "2019-10-05T02:02:16+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000535",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.014045",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.022606",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000134",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.041199",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002006",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.033173",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.072632",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.056447",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000134",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.091627",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.08427",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.115169",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.190744",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.049893",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.223114",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001338",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000936",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "49999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "4999"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "330307561140887",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-04",
+    "結束日期": "2019-12-06",
+    "廣告內容": "懇請支持，北區 北屯區 立法委員參選人 莊競程 有志者是競程",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/72622769_330307577807552_2224572229289508864_n.jpg?_nc_cat=106&_nc_ohc=PjseUSV496YAQkRmrbzMA4mJpMn-LVBByyrskXeJxfsClSP39ydq-hAwg&_nc_ht=scontent-hkg3-1.xx&oh=bb7411d4f6b14591c72ed689f2d1899b&oe=5E6B051F",
+    "廣告詳情": {
+      "ad_creative_body": "懇請支持，北區 北屯區 立法委員參選人 莊競程\n有志者是競程",
+      "ad_creation_time": "2019-10-05T02:01:33+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "Political Candidate",
+      "ad_creative_link_title": "莊競程 有志者是競程",
+      "ad_delivery_start_time": "2019-10-05T02:01:33+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.176309",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.020661",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001377",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001837",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000459",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.033517",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.009183",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001377",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.02112",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.189624",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.023416",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.03719",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.028007",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.101928",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.096878",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.256657",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000459",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "4999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "0.83649",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.158891",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.004619",
+          "region": "Nantou"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "499"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "2504192566458865",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-04",
+    "結束日期": "2019-12-06",
+    "廣告內容": "懇請支持，北區 北屯區 立法委員參選人 莊競程 有志者是競程",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/72555254_2504192586458863_1204355876870160384_n.jpg?_nc_cat=104&_nc_ohc=uT-wlDWxK4IAQl86fYDsR1aKy34usTGbT9CoMbeiAn3bUSB71hg5CNyaA&_nc_ht=scontent-hkg3-1.xx&oh=0200376bca184ec0a0c1f3f763316792&oe=5E88AB3C",
+    "廣告詳情": {
+      "ad_creative_body": "懇請支持，北區 北屯區 立法委員參選人 莊競程\n有志者是競程",
+      "ad_creation_time": "2019-10-05T02:01:33+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "Political Candidate",
+      "ad_creative_link_title": "莊競程 有志者是競程",
+      "ad_delivery_start_time": "2019-10-05T02:01:33+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000908",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.274296",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.19891",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.153497",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.082652",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.019074",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.137148",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.009083",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.019982",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.024523",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.031789",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.023615",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.023615",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000908",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "4999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "499"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "436748170283164",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-02",
+    "結束日期": "2019-12-06",
+    "廣告內容": "感謝各位好朋友在競程經由黨中央正式提名後， 對競程提出的各種建議與支持， 競程的小額捐款帳戶已開通， 如果您願意，請支持年輕的力量來改革並且深耕我們愛的這片土地，讓北北屯擁抱更好。 #莊競程 #有志者是競程 #北北屯在地大小事 #青年政治 　　 ———————————————— ◾️莊競程競選總部 ☎️ 04-22331997 🏠 台中市北屯區北屯路275-2號 　　 ◾️歡迎加入\"莊競程．有志者是競程\"社群，讓您掌握第一手消息！ IG 👉 legislator2020 Line ID👉 @ejl6317l",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/71299785_132657948109507_2256992643894476800_n.jpg?_nc_cat=107&_nc_ohc=MeCL2Zv6TNcAQn0iSIK2vrbUsZOmlQaWpdmoDHnwo1SJ1-i3BDoEIXY0g&_nc_ht=scontent-hkg3-1.xx&oh=77fc30ee63c8d265cb32824937cffe35&oe=5E3E3C55",
+    "廣告詳情": {
+      "ad_creative_body": "感謝各位好朋友在競程經由黨中央正式提名後，\n對競程提出的各種建議與支持，\n\n競程的小額捐款帳戶已開通，\n如果您願意，請支持年輕的力量來改革並且深耕我們愛的這片土地，讓北北屯擁抱更好。\n\n#莊競程 #有志者是競程\n#北北屯在地大小事\n#青年政治\n　　\n————————————————\n◾️莊競程競選總部\n☎️ 04-22331997\n🏠 台中市北屯區北屯路275-2號\n　　\n◾️歡迎加入\"莊競程．有志者是競程\"社群，讓您掌握第一手消息！\nIG 👉 legislator2020\nLine ID👉 @ejl6317l",
+      "ad_creation_time": "2019-10-03T06:52:24+0000",
+      "ad_delivery_start_time": "2019-10-03T06:52:24+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000545",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000545",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.06485",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.076294",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.185286",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.216894",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.084469",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.081199",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.117711",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.041962",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.047956",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001635",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.048501",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.020163",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.011444",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000545",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "4999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "999"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "519010301999123",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-02",
+    "結束日期": "2019-12-06",
+    "廣告內容": "感謝各位好朋友在競程經由黨中央正式提名後， 對競程提出的各種建議與支持， 競程的小額捐款帳戶已開通， 如果您願意，請支持年輕的力量來改革並且深耕我們愛的這片土地，讓北北屯擁抱更好。 #莊競程 #有志者是競程 #北北屯在地大小事 #青年政治 　　 ———————————————— ◾️莊競程競選總部 ☎️ 04-22331997 🏠 台中市北屯區北屯路275-2號 　　 ◾️歡迎加入\"莊競程．有志者是競程\"社群，讓您掌握第一手消息！ IG 👉 legislator2020 Line ID👉 @ejl6317l",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/71299785_132657948109507_2256992643894476800_n.jpg?_nc_cat=107&_nc_ohc=MeCL2Zv6TNcAQn0iSIK2vrbUsZOmlQaWpdmoDHnwo1SJ1-i3BDoEIXY0g&_nc_ht=scontent-hkg3-1.xx&oh=77fc30ee63c8d265cb32824937cffe35&oe=5E3E3C55",
+    "廣告詳情": {
+      "ad_creative_body": "感謝各位好朋友在競程經由黨中央正式提名後，\n對競程提出的各種建議與支持，\n\n競程的小額捐款帳戶已開通，\n如果您願意，請支持年輕的力量來改革並且深耕我們愛的這片土地，讓北北屯擁抱更好。\n\n#莊競程 #有志者是競程\n#北北屯在地大小事\n#青年政治\n　　\n————————————————\n◾️莊競程競選總部\n☎️ 04-22331997\n🏠 台中市北屯區北屯路275-2號\n　　\n◾️歡迎加入\"莊競程．有志者是競程\"社群，讓您掌握第一手消息！\nIG 👉 legislator2020\nLine ID👉 @ejl6317l",
+      "ad_creation_time": "2019-10-03T06:52:24+0000",
+      "ad_delivery_start_time": "2019-10-03T06:52:24+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000262",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000524",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.101389",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.262772",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.164527",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.161645",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.044276",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.062615",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.048467",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.100865",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.018339",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.011527",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.004716",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.017029",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000786",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000262",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "9999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "4999"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "698003754050580",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-02",
+    "結束日期": "2019-12-06",
+    "廣告內容": "感謝各位好朋友在競程經由黨中央正式提名後， 對競程提出的各種建議與支持， 競程的小額捐款帳戶已開通， 如果您願意，請支持年輕的力量來改革並且深耕我們愛的這片土地，讓北北屯擁抱更好。 #莊競程 #有志者是競程 #北北屯在地大小事 #青年政治 　　 ———————————————— ◾️莊競程競選總部 ☎️ 04-22331997 🏠 台中市北屯區北屯路275-2號 　　 ◾️歡迎加入\"莊競程．有志者是競程\"社群，讓您掌握第一手消息！ IG 👉 legislator2020 Line ID👉 @ejl6317l",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/71299785_132657948109507_2256992643894476800_n.jpg?_nc_cat=107&_nc_ohc=MeCL2Zv6TNcAQn0iSIK2vrbUsZOmlQaWpdmoDHnwo1SJ1-i3BDoEIXY0g&_nc_ht=scontent-hkg3-1.xx&oh=77fc30ee63c8d265cb32824937cffe35&oe=5E3E3C55",
+    "廣告詳情": {
+      "ad_creative_body": "感謝各位好朋友在競程經由黨中央正式提名後，\n對競程提出的各種建議與支持，\n\n競程的小額捐款帳戶已開通，\n如果您願意，請支持年輕的力量來改革並且深耕我們愛的這片土地，讓北北屯擁抱更好。\n\n#莊競程 #有志者是競程\n#北北屯在地大小事\n#青年政治\n　　\n————————————————\n◾️莊競程競選總部\n☎️ 04-22331997\n🏠 台中市北屯區北屯路275-2號\n　　\n◾️歡迎加入\"莊競程．有志者是競程\"社群，讓您掌握第一手消息！\nIG 👉 legislator2020\nLine ID👉 @ejl6317l",
+      "ad_creation_time": "2019-10-03T06:52:24+0000",
+      "ad_delivery_start_time": "2019-10-03T06:52:24+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000384",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.235735",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.029011",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.027474",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.133141",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.054947",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.168684",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.040154",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.133525",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000192",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.066667",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.08415",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000384",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00634",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000576",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000192",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.018444",
+          "age": "25-34",
+          "gender": "female"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "49999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "4999"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "985642211774790",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-02",
+    "結束日期": "2019-12-02",
+    "廣告內容": "感謝各位好朋友在競程經由黨中央正式提名後， 對競程提出的各種建議與支持， 競程的小額捐款帳戶已開通， 如果您願意，請支持年輕的力量來改革並且深耕我們愛的這片土地，讓北北屯擁抱更好。 #莊競程 #有志者是競程 #北北屯在地大小事 #青年政治 　　 ———————————————— ◾️莊競程競選總部 ☎️ 04-22331997 🏠 台中市北屯區北屯路275-2號 　　 ◾️歡迎加入\"莊競程．有志者是競程\"社群，讓您掌握第一手消息！ IG 👉 legislator2020 Line ID👉 @ejl6317l",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/71299785_132657948109507_2256992643894476800_n.jpg?_nc_cat=107&_nc_ohc=Hr6HvLTLlQgAQncAaDBgcp2OqCw2J11yWxooRtRJ_DWNggwrDbrHYzLEA&_nc_ht=scontent-hkg3-1.xx&oh=28ec71d97c24c9624503ac974072079e&oe=5E3E3C55",
+    "廣告詳情": {
+      "ad_creative_body": "感謝各位好朋友在競程經由黨中央正式提名後，\n對競程提出的各種建議與支持，\n\n競程的小額捐款帳戶已開通，\n如果您願意，請支持年輕的力量來改革並且深耕我們愛的這片土地，讓北北屯擁抱更好。\n\n#莊競程 #有志者是競程\n#北北屯在地大小事\n#青年政治\n　　\n————————————————\n◾️莊競程競選總部\n☎️ 04-22331997\n🏠 台中市北屯區北屯路275-2號\n　　\n◾️歡迎加入\"莊競程．有志者是競程\"社群，讓您掌握第一手消息！\nIG 👉 legislator2020\nLine ID👉 @ejl6317l",
+      "ad_creation_time": "2019-10-03T06:52:24+0000",
+      "ad_delivery_start_time": "2019-10-03T06:52:24+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000417",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000417",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.226856",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.1397",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.183903",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.076314",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.045872",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.030859",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.136781",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.02377",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.039616",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.021685",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.065471",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.007506",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000834",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "4999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "999"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "385434435726447",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-09-30",
+    "結束日期": "2019-12-02",
+    "廣告內容": "懇請支持，北區 北屯區 立法委員參選人 莊競程 有志者是競程",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/72283392_2460299874090477_584643760218963968_n.jpg?_nc_cat=104&_nc_ohc=bATmaA5OGhUAQm85jyEFBXGu5oqBZYlOQLCYujUT3NCszoD2qXMKShAqQ&_nc_ht=scontent-hkg3-1.xx&oh=0de3c4c2f26ed4f2d2d845b27e525701&oe=5E4688B3",
+    "廣告詳情": {
+      "ad_creative_body": "懇請支持，北區 北屯區 立法委員參選人 莊競程\n有志者是競程",
+      "ad_creation_time": "2019-10-01T04:26:17+0000",
+      "ad_delivery_start_time": "2019-10-01T04:26:17+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000386",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.165573",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.1621",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.164415",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.112698",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.093014",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.045928",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.069085",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.047086",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.045542",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.039367",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.037823",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.014666",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001158",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001158",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "4999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "999"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "402971747060297",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-09-30",
+    "結束日期": "2019-12-02",
+    "廣告內容": "懇請支持，北區 北屯區 立法委員參選人 莊競程 有志者是競程",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/72328819_748647872262001_4118911694569209856_n.jpg?_nc_cat=111&_nc_ohc=bn1R6w-jzlgAQniSkjpFsJbfHS_p_dlvnwKcWvL9axAetwBaWkybeSswg&_nc_ht=scontent-hkg3-1.xx&oh=61c0a15555ed0dbda41ee221c44ad3e6&oe=5E860A8A",
+    "廣告詳情": {
+      "ad_creative_body": "懇請支持，北區 北屯區 立法委員參選人 莊競程\n有志者是競程",
+      "ad_creation_time": "2019-10-01T04:26:17+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "Political Candidate",
+      "ad_creative_link_title": "莊競程 有志者是競程",
+      "ad_delivery_start_time": "2019-10-01T04:26:17+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.002611",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.04047",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.185379",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.103133",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.177546",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.232376",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.057441",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.075718",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001305",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.037859",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.033943",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.018277",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.013055",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.020888",
+          "age": "45-54",
+          "gender": "female"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "499"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "441212059822880",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-09-30",
+    "結束日期": "2019-12-02",
+    "廣告內容": "懇請支持，北區 北屯區 立法委員參選人 莊競程 有志者是競程",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/72275009_2421613408102348_6380121163124703232_n.jpg?_nc_cat=107&_nc_ohc=tUPYI4T7OkIAQmI0hNTKEdWHehD5CNxCN2YmL0c_Z1TKjyqNCjegTGEWw&_nc_ht=scontent-hkg3-1.xx&oh=3084ee783ca88a50c3f862e0ea942cde&oe=5E86F2CD",
+    "廣告詳情": {
+      "ad_creative_body": "懇請支持，北區 北屯區 立法委員參選人 莊競程\n有志者是競程",
+      "ad_creation_time": "2019-10-01T04:26:17+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "Political Candidate",
+      "ad_creative_link_title": "莊競程 有志者是競程",
+      "ad_delivery_start_time": "2019-10-01T04:26:17+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000407",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.225639",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.014357",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001018",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.055188",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.023826",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.036147",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.035332",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.133795",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000102",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.075756",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.209347",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.038794",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.090011",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000204",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000102",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000815",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.059159",
+          "age": "25-34",
+          "gender": "female"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "49999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "4999"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "1215733022148840",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-09-30",
+    "結束日期": "2019-12-02",
+    "廣告內容": "懇請支持，北區 北屯區 立法委員參選人 莊競程 有志者是競程",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/72275009_2421613408102348_6380121163124703232_n.jpg?_nc_cat=107&_nc_ohc=tUPYI4T7OkIAQmI0hNTKEdWHehD5CNxCN2YmL0c_Z1TKjyqNCjegTGEWw&_nc_ht=scontent-hkg3-1.xx&oh=3084ee783ca88a50c3f862e0ea942cde&oe=5E86F2CD",
+    "廣告詳情": {
+      "ad_creative_body": "懇請支持，北區 北屯區 立法委員參選人 莊競程\n有志者是競程",
+      "ad_creation_time": "2019-10-01T04:26:17+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "Political Candidate",
+      "ad_creative_link_title": "莊競程 有志者是競程",
+      "ad_delivery_start_time": "2019-10-01T04:26:17+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.040033",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.278565",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.146789",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.174312",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.030859",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.083403",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.062552",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.042535",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.065054",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000834",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.038365",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.024187",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.010842",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001668",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "4999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "499"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "478418829443503",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-02",
+    "結束日期": "2019-12-06",
+    "廣告內容": "昨天在電視台遇到二位 #台灣派 的青年戰將。 我們都有一顆堅定愛台灣的心，也都有滿腔的熱血。 雖然我的口才還比不上他們，但我用更強的衝勁彌補不足。 感謝 3Q 陳柏惟 、王浩宇給我的鼓勵打氣，受益匪淺。 #北北屯競程五 每天都在變得更強大，衝啊！！ #年輕世代有志競程 #前進國會讓專業的來",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/77340237_156850345690267_5318382905133629440_n.jpg?_nc_cat=102&_nc_ohc=PLmG8HFek1QAQm_9mr4OcAoGaOoCAZpaHFnbPPtKrvKuV-nkpT1dlvMgg&_nc_ht=scontent-hkg3-1.xx&oh=a1ab074368877dccd82754a5379260c3&oe=5E895F0C",
+    "廣告詳情": {
+      "ad_creative_body": "昨天在電視台遇到二位 #台灣派 的青年戰將。\n我們都有一顆堅定愛台灣的心，也都有滿腔的熱血。\n雖然我的口才還比不上他們，但我用更強的衝勁彌補不足。\n感謝 3Q 陳柏惟 、王浩宇給我的鼓勵打氣，受益匪淺。\n\n#北北屯競程五 每天都在變得更強大，衝啊！！\n\n#年輕世代有志競程\n#前進國會讓專業的來",
+      "ad_creation_time": "2019-12-03T03:00:53+0000",
+      "ad_delivery_start_time": "2019-12-03T03:00:53+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.115866",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.113779",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001044",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001044",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.005219",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.01357",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.002088",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.002088",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.038622",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.053236",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.185804",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.066806",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.100209",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.256785",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.024008",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.018789",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001044",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "競程 莊",
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "1999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "0.368802",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.122934",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.231405",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.152893",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.065083",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.018595",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.016529",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.022727",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.001033",
+          "region": "Hsinchu"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "549853059189725",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-02",
+    "結束日期": "2019-12-06",
+    "廣告內容": "感謝 洪慈庸 在百忙之中，仍來參加 #魔競嘉年華 活動。 因為我們有一個共同的目標，要一起守護老少婦幼。 面對少子化、高齡化的台灣，我們都有很深的體會。 #守護未來 是慈庸的目標，讓下一代生活在更好的台灣。 #守護健康 是我從政初心，讓長輩健康、年輕人更敢拼！ 明年，請用選票給我們機會，進入國會一起守護台灣。 #2020台灣要贏 #年輕世代有志競程 #守護健康守護台灣",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78746803_157504578958177_6835388778832461824_n.jpg?_nc_cat=100&_nc_ohc=9hZ4nOe7SW0AQkdtmPBnwfUc368qXfLvXbvc0bv4muTg-iFuyaE2fZqzQ&_nc_ht=scontent-hkg3-1.xx&oh=b943fd923be56e928fcde1311ffac20b&oe=5E8A0854",
+    "廣告詳情": {
+      "ad_creative_body": "感謝 洪慈庸 在百忙之中，仍來參加 #魔競嘉年華 活動。\n因為我們有一個共同的目標，要一起守護老少婦幼。\n\n面對少子化、高齡化的台灣，我們都有很深的體會。\n#守護未來 是慈庸的目標，讓下一代生活在更好的台灣。\n#守護健康 是我從政初心，讓長輩健康、年輕人更敢拼！\n\n明年，請用選票給我們機會，進入國會一起守護台灣。\n\n#2020台灣要贏\n#年輕世代有志競程\n#守護健康守護台灣",
+      "ad_creation_time": "2019-12-03T03:00:53+0000",
+      "ad_delivery_start_time": "2019-12-03T03:00:53+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.251229",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.176129",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.06169",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.065713",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.042468",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.05409",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.13992",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.081806",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.009835",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.033974",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.056772",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.022798",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001341",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001788",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000447",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "競程 莊",
+      "impressions": {
+        "lower_bound": "3000",
+        "upper_bound": "3999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "0.321885",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.011008",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.347864",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.182299",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.088948",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.019375",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.02598",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.002642",
+          "region": "Keelung City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "200",
+        "upper_bound": "299"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "539948950169640",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-21",
+    "結束日期": "2019-12-06",
+    "廣告內容": "#競選日記 昨晚在 台中市松竹寺 契子女團員祈福晚會上，神秘嘉賓 洪慈庸 立委特別跨區來幫我助選。 投入政治這條路以來，慈庸一直是我學習的榜樣。2016年，她以素人之姿擊敗挑戰六連霸的楊瓊瓔。前進國會三年多的任期，無論是在中央推動法案、軍中改革，或者是地方的選民服務、為在地爭取建設，慈庸的問政成績都是有目共睹。 感謝慈庸的站台，我也趁機請教幾招關於選舉的小技巧，獲益良多。希望我也能像慈庸一樣，翻轉北北屯這個艱困選區，拼出 #逆轉勝。 慈庸跟我都是年輕世代，這一仗我們挺身就是為了共同守護台灣。如果您也一樣，請一定要行動起來，幫我們拉票催票，力拼綠營國會過半。 #2020台灣要贏 #年輕世代有志競程 #前進國會讓專業的來",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/72615342_140071184034850_4218505470698061824_n.jpg?_nc_cat=101&_nc_ohc=37NeA5F5Z5wAQmriHYJDcJOgvQDeaa8jj-VGkAZCIqT7nr3-eSnGr4-gQ&_nc_ht=scontent-hkg3-1.xx&oh=288724bffc3d33ee50a60659a6339626&oe=5E779C4B",
+    "廣告詳情": {
+      "ad_creative_body": "#競選日記\n\n昨晚在 台中市松竹寺 契子女團員祈福晚會上，神秘嘉賓 洪慈庸 立委特別跨區來幫我助選。\n\n投入政治這條路以來，慈庸一直是我學習的榜樣。2016年，她以素人之姿擊敗挑戰六連霸的楊瓊瓔。前進國會三年多的任期，無論是在中央推動法案、軍中改革，或者是地方的選民服務、為在地爭取建設，慈庸的問政成績都是有目共睹。\n\n感謝慈庸的站台，我也趁機請教幾招關於選舉的小技巧，獲益良多。希望我也能像慈庸一樣，翻轉北北屯這個艱困選區，拼出 #逆轉勝。\n\n慈庸跟我都是年輕世代，這一仗我們挺身就是為了共同守護台灣。如果您也一樣，請一定要行動起來，幫我們拉票催票，力拼綠營國會過半。\n\n#2020台灣要贏\n#年輕世代有志競程\n#前進國會讓專業的來",
+      "ad_creation_time": "2019-10-22T05:45:59+0000",
+      "ad_delivery_start_time": "2019-10-22T05:45:59+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000893",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000179",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.124911",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.136169",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.24178",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.197105",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.044853",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.096319",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.040743",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00554",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.056648",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.022695",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.020372",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.010365",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000893",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000536",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "7000",
+        "upper_bound": "7999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "394268904841537",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-14",
+    "結束日期": "2019-12-06",
+    "廣告內容": "#2020台灣要贏 我是 #北北屯競程五 我將用我的專業 #守護台灣守護健康 #ISeeYou看見人民的需求 #年輕世代有志競程 #前進國會讓專業的來懇請支持 北區 北屯區 立法委員參選人 莊競程 有志者是競程",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/72715522_394268924841535_7987259236222500864_n.jpg?_nc_cat=105&_nc_ohc=OJaGLhRN9KIAQnmxP6e8BeTWRopEbX_YN4VhWYiBRpyQ270emrEZCNqoA&_nc_ht=scontent-hkg3-1.xx&oh=ca05380e1c060793afe09657c7e77e53&oe=5E8AB362",
+    "廣告詳情": {
+      "ad_creative_body": "#2020台灣要贏\n我是 #北北屯競程五\n我將用我的專業 #守護台灣守護健康\n\n#ISeeYou看見人民的需求\n#年輕世代有志競程\n#前進國會讓專業的來懇請支持 北區 北屯區 立法委員參選人 莊競程\n有志者是競程",
+      "ad_creation_time": "2019-10-15T06:56:17+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "#有志者是競程\n2020請跟我一起守護台灣，守護健康。\n#前進國會讓專業的來",
+      "ad_creative_link_title": "莊競程 有志者是競程",
+      "ad_delivery_start_time": "2019-10-15T06:56:17+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.00067",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.171414",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.039209",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000503",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000503",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.043566",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.026307",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.042058",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.036863",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000335",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.101039",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.149129",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.146783",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.05429",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.071213",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.114946",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000503",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00067",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "0.000335",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.783621",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.216044",
+          "region": "Changhua"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2000",
+        "upper_bound": "2499"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "莊競程",
+    "AD_ID": "2248587168585881",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-14",
+    "結束日期": "2019-12-06",
+    "廣告內容": "#2020台灣要贏 我是 #北北屯競程五 我將用我的專業 #守護台灣守護健康 #ISeeYou看見人民的需求 #年輕世代有志競程 #前進國會讓專業的來懇請支持 北區 北屯區 立法委員參選人 莊競程 有志者是競程",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/73293444_2248587208585877_5838469248149618688_n.jpg?_nc_cat=105&_nc_ohc=XLwMT6MCSYgAQlyQSf3JAz9xNqEvV-v0VibAKyEXgSGmMgEYnlm-wf_VA&_nc_ht=scontent-hkg3-1.xx&oh=7b594ab73db46f91f28f4dcb361e01eb&oe=5E811C1E",
+    "廣告詳情": {
+      "ad_creative_body": "#2020台灣要贏\n我是 #北北屯競程五\n我將用我的專業 #守護台灣守護健康\n\n#ISeeYou看見人民的需求\n#年輕世代有志競程\n#前進國會讓專業的來懇請支持 北區 北屯區 立法委員參選人 莊競程\n有志者是競程",
+      "ad_creation_time": "2019-10-15T06:55:46+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "#有志者是競程\n2020請跟我一起守護台灣，守護健康。\n#前進國會讓專業的來",
+      "ad_creative_link_title": "莊競程 有志者是競程",
+      "ad_delivery_start_time": "2019-10-15T06:55:46+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000625",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000625",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001251",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.148218",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.159475",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.063164",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.054409",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.060038",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.195747",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.113821",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.045028",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.053784",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.022514",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.051282",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.029393",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000625",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "2000",
+        "upper_bound": "2999"
+      },
+      "page_id": "104448980930404",
+      "page_name": "莊競程 有志者是競程",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "300",
+        "upper_bound": "399"
+      }
+    }
+  }
+]

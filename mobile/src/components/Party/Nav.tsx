@@ -32,17 +32,6 @@ const Nav: FunctionComponent<Props> = ({
     const classes = useStyles();
     return (
         <Box m={1}>
-            <Box display="flex" alignItems="center" my={1}>
-                <Link href={`/parties`}>
-                    <KeyboardArrowLeft fontSize="large" />
-                </Link>
-                <Box>
-                    <Typography variant="h3" display="inline">
-                        {`${name} `}
-                    </Typography>
-                </Box>
-                <Seats num={regionalSittingNum} />
-            </Box>
             <Box px={1} py={1}>
                 <Grid container alignItems="center" spacing={2}>
                     <Grid item>
@@ -57,7 +46,7 @@ const Nav: FunctionComponent<Props> = ({
                             </Grid>
                             <Grid item>
                                 <Typography variant="h4" color="textSecondary">
-                                    現任不分區 {regionalSittingNum} 席 區域立委 {nonRegionalSittingNum} 席
+                                    {`現任不分區 ${nonRegionalSittingNum} 席 區域立委 ${regionalSittingNum} 席`}
                                 </Typography>
                             </Grid>
                         </Grid>

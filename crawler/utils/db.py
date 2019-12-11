@@ -40,13 +40,14 @@ class ManualCandidate(BaseModel):
     age = CharField(null=True)
     photo = TextField(null=True)
     wiki = CharField(null=True)
-    fbPage = CharField(null=True)
+    fbPage = TextField(null=True)
+    fbPersonalPage = TextField(null=True)
     education = CharField(null=True)
     educationConn = CharField(null=True)
     experience = TextField(null=True)
     experienceConn = CharField(null=True)
     politics = TextField(null=True)
-    politicsConn = CharField(null=True)
+    politicsConn = TextField(null=True)
     other = TextField(null=True)
 
 

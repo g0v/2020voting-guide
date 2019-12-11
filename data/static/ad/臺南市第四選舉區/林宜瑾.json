@@ -1,0 +1,118 @@
+[
+  {
+    "選區": "臺南市第四選舉區",
+    "參選人": "林宜瑾",
+    "AD_ID": "1552175534925511",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-07",
+    "結束日期": "2019-11-11",
+    "廣告內容": "賴清德院長肯定宜瑾擔任議員22年的問政表現，也肯定宜瑾用30年青春澆灌台灣，在1990年野百合學運擔任幹部，包含鄭文燦市長、林佳龍部長、鄭麗君部長、翁章梁縣長和我們台南的王定宇委員都是當時戰友，並肩作戰廢除萬年國大、國會全面改選及促成總統直選。 請大家與賴院長同心，全力動員拉票，總統支持蔡英文、立委支持林宜瑾、政黨票投民進黨！拜託大家！ #2020台灣要贏 #新選區新願景 #未來交給林宜瑾 #總統凍蒜 #國會過半 #立委全壘打",
+    "圖片": "https://scontent-nrt1-1.xx.fbcdn.net/v/t39.16868-6/75331500_1552175554925509_3484994325773811712_n.jpg?_nc_cat=110&_nc_oc=AQkR3GD7hx-tqsq6LGh2nO-76VmR6DG5c3QMGLw6fEEja1B_9IWkpkg_5an-P4sGgLQ&_nc_ht=scontent-nrt1-1.xx&oh=664cd875faf0639af23f34632e73d0a0&oe=5E3E6FCE",
+    "廣告詳情": {
+      "ad_creative_body": "賴清德院長肯定宜瑾擔任議員22年的問政表現，也肯定宜瑾用30年青春澆灌台灣，在1990年野百合學運擔任幹部，包含鄭文燦市長、林佳龍部長、鄭麗君部長、翁章梁縣長和我們台南的王定宇委員都是當時戰友，並肩作戰廢除萬年國大、國會全面改選及促成總統直選。\n\n請大家與賴院長同心，全力動員拉票，總統支持蔡英文、立委支持林宜瑾、政黨票投民進黨！拜託大家！\n\n#2020台灣要贏\n#新選區新願景 #未來交給林宜瑾\n#總統凍蒜 #國會過半 #立委全壘打",
+      "ad_creation_time": "2019-11-08T03:18:28+0000",
+      "ad_creative_link_title": "賴清德挺野百合學運林宜瑾",
+      "ad_delivery_start_time": "2019-11-08T03:18:28+0000",
+      "ad_delivery_stop_time": "2019-11-12T03:18:16+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.060165",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.203181",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.217976",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.040439",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.252743",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.081494",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.059056",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.038466",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.003699",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.019973",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.017014",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000493",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.004685",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000123",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00037",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000123",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "147484398657964",
+      "page_name": "林宜瑾",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Tainan"
+        }
+      ],
+      "spend": {
+        "lower_bound": "900",
+        "upper_bound": "999"
+      }
+    }
+  }
+]

@@ -1,0 +1,333 @@
+[
+  {
+    "選區": "苗栗縣第一選舉區",
+    "參選人": "朱哲成",
+    "AD_ID": "1845777552221302",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-29",
+    "結束日期": "2019-12-03",
+    "廣告內容": "台灣民眾黨2020年苗栗縣第一選區立法委員候選人 曾任行政院中辦副執行長秘書，立法委員吳宜臻國會助理 多年在地服務經驗及法案能力 新政治！新苗栗！朱哲成邀請您一起改變苗栗",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78776235_1845777562221301_6780024305334878208_n.jpg?_nc_cat=104&_nc_ohc=f6DI1n4Q1aUAQn0IvNp6AeLOGFPKWRDREn7ccPY2Jt-zX2EZfh0F1Q0KQ&_nc_ht=scontent-hkg3-1.xx&oh=3ddb0c95c02a18dce27b6a92ae947a88&oe=5E70BB37",
+    "廣告詳情": {
+      "ad_creative_body": "台灣民眾黨2020年苗栗縣第一選區立法委員候選人\n\n曾任行政院中辦副執行長秘書，立法委員吳宜臻國會助理\n\n多年在地服務經驗及法案能力\n\n新政治！新苗栗！朱哲成邀請您一起改變苗栗",
+      "ad_creation_time": "2019-11-29T15:17:38+0000",
+      "ad_delivery_start_time": "2019-11-29T15:17:52+0000",
+      "ad_delivery_stop_time": "2019-12-03T15:17:52+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.001179",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.215802",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.240566",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.379717",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.071934",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.051887",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.036557",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002358",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "哲成 朱",
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "1999"
+      },
+      "page_id": "327510054791630",
+      "page_name": "朱哲成",
+      "region_distribution": [
+        {
+          "percentage": "0.200233",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.038417",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.314319",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.447031",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "300",
+        "upper_bound": "399"
+      }
+    }
+  },
+  {
+    "選區": "苗栗縣第一選舉區",
+    "參選人": "朱哲成",
+    "AD_ID": "1176339935885508",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-10",
+    "結束日期": "2019-11-14",
+    "廣告內容": "民眾黨提名，柯文哲推薦！ 苗栗縣第一選區立委候選人朱哲成 新政治！新苗栗！ 需要您我一起努力",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/74150004_1176339949218840_3683458700028149760_n.jpg?_nc_cat=102&_nc_ohc=w3YKW0RIZIwAQmDr_9uVGQ2bQ0okZvec_tZtuv7PmpiSM8ryDzoG22S3g&_nc_ht=scontent-hkg3-1.xx&oh=40b380ed6881de7e6513eed92bca0748&oe=5E76E1E6",
+    "廣告詳情": {
+      "ad_creative_body": "民眾黨提名，柯文哲推薦！\n苗栗縣第一選區立委候選人朱哲成\n新政治！新苗栗！\n需要您我一起努力",
+      "ad_creation_time": "2019-11-11T07:01:58+0000",
+      "ad_delivery_start_time": "2019-11-11T07:02:13+0000",
+      "ad_delivery_stop_time": "2019-11-15T07:02:13+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.203593",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.251497",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.416168",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.05988",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.035928",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.02994",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002994",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "327510054791630",
+      "page_name": "朱哲成",
+      "region_distribution": [
+        {
+          "percentage": "0.181548",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.053571",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.276786",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.488095",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "199"
+      }
+    }
+  },
+  {
+    "選區": "苗栗縣第一選舉區",
+    "參選人": "朱哲成",
+    "AD_ID": "962325827488012",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-05",
+    "結束日期": "2019-12-06",
+    "廣告內容": "選戰倒數41天，選戰愈來愈激烈，不但更多鄉親鼓勵哲成，肯定哲成，還有愈來愈多志工夥伴加入團隊，一起扛起改變苗栗的歷史任務。 這幾天除了老班底之外，志工新血也是火力全開，很快就融入市場和夜市的氣氛中，我們在竹南、苑裡、通霄等地在最基層傾聽鄉親的聲音。 也要特別感謝民眾黨不分區立委提名人 傅郁揚 特地撥空來支援，在夜市賣力地為黨和哲成宣傳，民眾黨的向心力真的非常強。 感謝每一位志工夥伴的相挺，也希望未來的路上有更多好朋友能加入。 #我在選立委 #傅帥要看鏡頭 #志工團隊超棒",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78912573_416447835897851_4590391381595258880_n.jpg?_nc_cat=108&_nc_ohc=6XvgwePOshUAQkanzYLn-pYpzsgJU6WtaIKH0bXQRM8oPADeB1ZkUkBxw&_nc_ht=scontent-hkg3-1.xx&oh=3d62090d1a7a16264ce0b99837899089&oe=5E74428C",
+    "廣告詳情": {
+      "ad_creative_body": "選戰倒數41天，選戰愈來愈激烈，不但更多鄉親鼓勵哲成，肯定哲成，還有愈來愈多志工夥伴加入團隊，一起扛起改變苗栗的歷史任務。\n\n這幾天除了老班底之外，志工新血也是火力全開，很快就融入市場和夜市的氣氛中，我們在竹南、苑裡、通霄等地在最基層傾聽鄉親的聲音。\n\n也要特別感謝民眾黨不分區立委提名人 傅郁揚 特地撥空來支援，在夜市賣力地為黨和哲成宣傳，民眾黨的向心力真的非常強。\n\n感謝每一位志工夥伴的相挺，也希望未來的路上有更多好朋友能加入。\n\n#我在選立委\n#傅帥要看鏡頭\n#志工團隊超棒",
+      "ad_creation_time": "2019-12-05T10:56:07+0000",
+      "ad_delivery_start_time": "2019-12-05T10:56:07+0000",
+      "ad_delivery_stop_time": "2019-12-07T10:55:46+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.079882",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.411243",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.390533",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.017751",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.085799",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.008876",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.002959",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002959",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "哲成 朱",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "327510054791630",
+      "page_name": "朱哲成",
+      "region_distribution": [
+        {
+          "percentage": "0.174041",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.047198",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.353982",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.424779",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      }
+    }
+  },
+  {
+    "選區": "苗栗縣第一選舉區",
+    "參選人": "朱哲成",
+    "AD_ID": "535774723671779",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-05",
+    "結束日期": "2019-12-06",
+    "廣告內容": "剛剛清點了一下文宣存量，這幾天實在消耗得很快。 衛生紙早就發完了，剛剛快速下訂。 這一兩天都是發傳單，人家說傳單沒人拿，我原本也認為不太好發。 但我相信，我發的，是誠意、熱情、與對苗栗的感情，我相信，鄉親拿的，更是對苗栗未來那份期待。 這一兩天，光從我手上發出去，純文宣就有一千多張。 無論分享給選民的文宣小物是什麼，我始終認為，要送到您手上的，應該是我們幫助這塊土地的心意。 謝謝苗栗鄉親的支持鼓勵，我會繼續努力。",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78253994_417373322471969_2315739820749488128_n.jpg?_nc_cat=106&_nc_ohc=nLpZbBGflQYAQnq7DR5Z7MkgW4CUHVkV_Fhept2Z4GPdxH2nZzTozk53g&_nc_ht=scontent-hkg3-1.xx&oh=7dbdeb14790edd74a0626d4f9ee6cc62&oe=5E81815A",
+    "廣告詳情": {
+      "ad_creative_body": "剛剛清點了一下文宣存量，這幾天實在消耗得很快。\n\n衛生紙早就發完了，剛剛快速下訂。\n\n這一兩天都是發傳單，人家說傳單沒人拿，我原本也認為不太好發。\n\n但我相信，我發的，是誠意、熱情、與對苗栗的感情，我相信，鄉親拿的，更是對苗栗未來那份期待。\n\n這一兩天，光從我手上發出去，純文宣就有一千多張。\n\n無論分享給選民的文宣小物是什麼，我始終認為，要送到您手上的，應該是我們幫助這塊土地的心意。\n\n謝謝苗栗鄉親的支持鼓勵，我會繼續努力。",
+      "ad_creation_time": "2019-12-05T10:55:03+0000",
+      "ad_delivery_start_time": "2019-12-05T10:55:03+0000",
+      "ad_delivery_stop_time": "2019-12-07T10:54:47+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.280488",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.47561",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.097561",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.036585",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.109756",
+          "age": "25-34",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "哲成 朱",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "327510054791630",
+      "page_name": "朱哲成",
+      "region_distribution": [
+        {
+          "percentage": "0.234568",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.012346",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.259259",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.493827",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      }
+    }
+  }
+]

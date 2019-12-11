@@ -9,6 +9,7 @@ import IssueBillTab from '../IssueBillTab';
 import Nav from './Nav';
 import NoInfoTab from './NoInfoTab';
 import PassPerformanceTab from './PassPerformanceTab';
+import StrengthTab from './StrengthTab';
 
 const CandidateDefault = {
     name: '',
@@ -98,6 +99,7 @@ const CandidatePage = ({ match }: CandidatePage) => {
                 onChange={switchTab}
             >
                 <Tab label="議題法案" />
+                <Tab label="競選戰力" />
                 <Tab label="過去表現" />
                 <Tab label="經歷政見" />
             </Tabs>
@@ -115,6 +117,8 @@ const CandidatePage = ({ match }: CandidatePage) => {
                     <NoInfoTab name={candidate.name} from="issueBill" />
                 )
             ) : tab === 1 ? (
+                <StrengthTab name={name} constituency={constituency} />
+            ) : tab === 2 ? (
                 candidate.currentLegislator ? (
                     <PassPerformanceTab {...candidate} />
                 ) : (

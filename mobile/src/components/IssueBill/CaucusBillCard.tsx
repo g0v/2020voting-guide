@@ -1,11 +1,23 @@
 import { List, ListItem, Typography } from '@material-ui/core';
+import { makeStyles } from '@material-ui/core/styles';
 import React from 'react';
 import Card from '../Card';
 import BillDialog from './BillDialog';
 import { Bill } from './index';
 
-const CaucusBill = ({ billNo, name }: Bill) => {
+const useStyles = makeStyles({
+    billName: {
+        display: '-webkit-box',
+        overflow: 'hidden',
+        'text-overflow': 'ellipsis',
+        '-webkit-line-clamp': 2,
+        '-webkit-box-orient': 'vertical'
+    }
+});
+
+const CaucusBill = ({ billNo, name, vernacular }: Bill) => {
     const [open, setOpen] = React.useState(false);
+    const classes = useStyles();
 
     return (
         <>
@@ -16,7 +28,9 @@ const CaucusBill = ({ billNo, name }: Bill) => {
                     setOpen(true);
                 }}
             >
-                <Typography variant="h4">{name}</Typography>
+                <Typography variant="h4" className={classes.billName}>
+                    {vernacular ? vernacular : name}
+                </Typography>
             </ListItem>
             {open ? (
                 <BillDialog

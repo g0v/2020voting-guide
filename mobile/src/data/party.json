@@ -1,10 +1,13 @@
 [
     {
         "name": "中國國民黨",
-        "chairman": ["吳敦義"],
+        "chairman": [
+            "吳敦義"
+        ],
         "logo": "/img/party/kmt.svg",
         "voteNum": 3280949,
         "voteRate": "32.1944%",
+        "regionalLegislatorsNum": 24,
         "electedPersonNum": 11,
         "electedPerson": [
             "王金平",
@@ -23,10 +26,13 @@
     },
     {
         "name": "民主進步黨",
-        "chairman": ["卓榮泰"],
+        "chairman": [
+            "卓榮泰"
+        ],
         "logo": "/img/party/dpp.svg",
         "voteNum": 5370953,
         "voteRate": "44.0598%",
+        "regionalLegislatorsNum": 50,
         "electedPersonNum": 18,
         "electedPerson": [
             "吳焜裕",
@@ -51,46 +57,68 @@
     },
     {
         "name": "親民黨",
-        "chairman": ["宋楚瑜"],
+        "chairman": [
+            "宋楚瑜"
+        ],
         "logo": "/img/party/pfp.svg",
         "voteNum": 794838,
         "voteRate": "6.5203%",
+        "regionalLegislatorsNum": 0,
         "electedPersonNum": 3,
-        "electedPerson": ["李鴻鈞", "陳怡潔", "周陳秀霞"]
+        "electedPerson": [
+            "李鴻鈞",
+            "陳怡潔",
+            "周陳秀霞"
+        ]
     },
     {
         "name": "時代力量",
-        "chairman": ["徐永明"],
+        "chairman": [
+            "徐永明"
+        ],
         "logo": "/img/party/npp.svg",
         "voteNum": 744315,
         "voteRate": "6.1059%",
+        "regionalLegislatorsNum": 3,
         "electedPersonNum": 2,
-        "electedPerson": ["高潞·以用·巴魕剌", "徐永明"]
+        "electedPerson": [
+            "高潞·以用·巴魕剌",
+            "徐永明"
+        ]
     },
     {
         "name": "新黨",
-        "chairman": ["郁慕明"],
+        "chairman": [
+            "郁慕明"
+        ],
         "logo": "/img/party/np.svg",
         "voteNum": 510074,
         "voteRate": "4.1843%",
+        "regionalLegislatorsNum": 0,
         "electedPersonNum": 0,
         "electedPerson": []
     },
     {
-        "name": "綠黨社會民主黨聯盟",
-        "chairman": ["梁益誌", "范雲"],
-        "logo": "/img/party/gsp.svg",
+        "name": "綠黨",
+        "chairman": [
+            "梁益誌"
+        ],
+        "logo": "/img/party/gp.png",
         "voteNum": 510074,
         "voteRate": "4.1843%",
+        "regionalLegislatorsNum": 0,
         "electedPersonNum": 0,
         "electedPerson": []
     },
     {
         "name": "台灣團結聯盟",
-        "chairman": ["劉一德"],
+        "chairman": [
+            "劉一德"
+        ],
         "logo": "/img/party/tsu.svg",
         "voteNum": 305675,
         "voteRate": "2.5076%",
+        "regionalLegislatorsNum": 0,
         "electedPersonNum": 0,
         "electedPerson": []
     }

@@ -1,8 +1,9 @@
-import { Box, Button, Dialog, DialogContent, Typography } from '@material-ui/core';
+import { Box, Button, DialogContent, Typography } from '@material-ui/core';
 import React from 'react';
 import { simplifyCaseOfAction } from '../../utils';
 import ChangedBill from '../Bill/ChangedBill';
 import { CircleIcon } from '../PartyIcon';
+import Dialog from '../Dialog';
 
 const defaultInfo = {
     bill: {
@@ -101,7 +102,8 @@ const BillDialog = ({
     const newBill = (
         <>
             <Typography variant="h4" color="textSecondary" gutterBottom>
-                你發現了一個新條文，所以沒有修正條文對照，請直接看原文 PDF 的完整法條！
+                你發現了一個新條文，所以沒有修正條文對照，請直接看原文 PDF
+                的完整法條！
             </Typography>
             <Box my={2}>
                 <Button
@@ -116,67 +118,57 @@ const BillDialog = ({
         </>
     );
 
-    return (
-        <>
-            <Dialog open={open} onClose={handleClose}>
-                <DialogContent>
-                    <Typography variant="h3" gutterBottom>
-                        {bill.name}
+    return !open ? null : (
+        <Dialog
+            handleCloseClick={handleClose}
+            top={
+                <Typography variant="h3" gutterBottom>
+                    {bill.name}
+                </Typography>
+            }
+        >
+            <DialogContent>
+                <Typography variant="h5" color="textSecondary" gutterBottom>
+                    {bill.vernacular}
+                </Typography>
+                <Box my={2}>
+                    <Typography variant="h4" color="textSecondary" gutterBottom>
+                        {bill.billNo
+                            ? bill.billNo.substring(0, 3) +
+                              '/' +
+                              bill.billNo.substring(3, 5) +
+                              '/' +
+                              bill.billNo.substring(5, 7) +
+                              ' ' +
+                              '提案'
+                            : ''}
                     </Typography>
-                    <Typography variant="h5" color="textSecondary" gutterBottom>
-                        {bill.vernacular}
+                </Box>
+
+                <Box my={2}>
+                    <Typography variant="h3">案由</Typography>
+                </Box>
+                <Box my={2}>
+                    <Typography variant="h4" color="textSecondary">
+                        {simplifyCaseOfAction(bill.caseOfAction)}
                     </Typography>
-                    <Box my={2}>
-                        <Typography
-                            variant="h4"
-                            color="textSecondary"
-                            gutterBottom
-                        >
-                            {bill.billNo
-                                ? bill.billNo.substring(0, 3) +
-                                  '/' +
-                                  bill.billNo.substring(3, 5) +
-                                  '/' +
-                                  bill.billNo.substring(5, 7) +
-                                  ' ' +
-                                  '提案'
-                                : ''}
-                        </Typography>
-                    </Box>
+                </Box>
 
-                    <Box my={2}>
-                        <Typography variant="h3">案由</Typography>
-                    </Box>
-                    <Box my={2}>
-                        <Typography variant="h4" color="textSecondary">
-                            {simplifyCaseOfAction(bill.caseOfAction)}
-                        </Typography>
-                    </Box>
+                <Box my={2}>
+                    <Typography variant="h3">提案 / 連署人</Typography>
+                </Box>
+                {bill.proposerType === '立委提案'
+                    ? personalPropose
+                    : cosignatoryPropose}
 
-                    <Box my={2}>
-                        <Typography variant="h3">提案 / 連署人</Typography>
-                    </Box>
-                    {bill.proposerType === '立委提案'
-                        ? personalPropose
-                        : cosignatoryPropose}
-
-                    <Box my={2}>
-                        <Typography variant="h3">修正條文</Typography>
-                    </Box>
+                <Box my={2}>
+                    <Typography variant="h3">修正條文</Typography>
+                </Box>
+                <Box mb="72px">
                     {descriptions.length ? modifyBill : newBill}
-
-                    <Box display="flex" justifyContent="flex-end" mb={1} mx={1}>
-                        <Button
-                            variant="outlined"
-                            color="primary"
-                            onClick={handleClose}
-                        >
-                            關閉
-                        </Button>
-                    </Box>
-                </DialogContent>
-            </Dialog>
-        </>
+                </Box>
+            </DialogContent>
+        </Dialog>
     );
 };
 

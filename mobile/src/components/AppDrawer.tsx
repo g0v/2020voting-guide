@@ -5,10 +5,12 @@ import List from '@material-ui/core/List';
 import ListItem from '@material-ui/core/ListItem';
 import ListItemText from '@material-ui/core/ListItemText';
 import { createStyles, makeStyles, Theme } from '@material-ui/core/styles';
-import ChevronLeftIcon from '@material-ui/icons/ChevronLeft';
+import Typography from '@material-ui/core/Typography';
+import ChevronRightIcon from '@material-ui/icons/ChevronRight';
 import React from 'react';
+import countyConstituency from '../data/county_constituency.json';
 
-const drawerWidth = 240;
+const drawerWidth = 315;
 const useStyles = makeStyles((theme: Theme) =>
     createStyles({
         root: {
@@ -63,6 +65,33 @@ const useStyles = makeStyles((theme: Theme) =>
                 duration: theme.transitions.duration.enteringScreen
             }),
             marginRight: 0
+        },
+        countyListItem: {
+            boxSizing: 'border-box',
+            width: '33%',
+            padding: '5px 15px 5px 15px',
+            display: 'inline-block',
+            color: '#3199BA'
+        },
+        listItemLink: {
+            color: '#2584A3',
+            marginBottom: '3px'
+        },
+        fbBlock: {
+            display: 'flex',
+            alignItems: 'center',
+            color: '#666'
+        },
+        fbIcon: {
+            display: 'inline-block',
+            width: '31px',
+            height: '31px',
+            marginLeft: '8px',
+            backgroundImage: 'url("/img/header/ic-fb.svg")'
+        },
+        aboutListItem: {
+            color: '#666',
+            display: 'inline-block'
         }
     })
 );
@@ -71,6 +100,8 @@ interface AppDrawer {
     open: boolean;
     handleDrawerClose(): void;
 }
+
+const counties = countyConstituency.map(county => county.name);
 
 const AppDrawer = ({ open, handleDrawerClose }: AppDrawer) => {
     const classes = useStyles();
@@ -88,32 +119,83 @@ const AppDrawer = ({ open, handleDrawerClose }: AppDrawer) => {
             >
                 <div className={classes.drawerHeader}>
                     <IconButton onClick={handleDrawerClose}>
-                        <ChevronLeftIcon />
+                        <ChevronRightIcon />
                     </IconButton>
                 </div>
                 <Divider />
                 <List>
-                    <ListItem
-                        button
-                        key="立委工作內容 ＆ 投票規則"
-                        component="a"
-                        href="/"
-                    >
-                        <ListItemText primary="立委工作內容 ＆ 投票規則" />
-                    </ListItem>
-                    <ListItem
+                <ListItem
                         button
                         key="區域立委候選人"
                         component="a"
                         href="/regional"
+                        className={classes.listItemLink}
                     >
-                        <ListItemText primary="區域立委候選人" />
+                        <Typography variant="h3">區域立委候選人</Typography>
                     </ListItem>
-                    <ListItem button key="不分區立委參選政黨">
-                        <ListItemText primary="不分區立委參選政黨" />
+                {counties.map(county => (
+                    <ListItem
+                        key={county}
+                        button
+                        component="a"
+                        href={`/regional/${county}`}
+                        className={classes.countyListItem}
+                    >
+                        <ListItemText primary={county}></ListItemText>
                     </ListItem>
-                    <ListItem button key="熱門議題">
-                        <ListItemText primary="熱門議題" />
+                ))}
+                </List>
+                <List>
+                    <ListItem
+                        button
+                        key="立委在做什麼？"
+                        component="a"
+                        href="/#立委的工作是什麼"
+                        className={classes.listItemLink}
+                        onClick={()=> handleDrawerClose}
+                        >
+                        <Typography variant="h3">立委在做什麼？</Typography>
+                    </ListItem>
+                    <ListItem
+                        button
+                        key="為什麼有兩張票？"
+                        component="a"
+                        href="/#為什麼有兩張票"
+                        className={classes.listItemLink}
+                        onClick={()=> handleDrawerClose}
+                    >
+                        <Typography variant="h3">為什麼有兩張票？</Typography>
+                    </ListItem>
+                </List>
+                <List>
+                    <ListItem className={classes.fbBlock}>
+                        <Typography variant="h4">FOLLOW US →</Typography>
+                        <a
+                            href="https://www.facebook.com/voting.guide.tw/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            <span className={classes.fbIcon}></span>
+                        </a>
+                    </ListItem>
+                </List>
+                <List>
+                    <ListItem
+                    button
+                    component="a"
+                    href="/about"
+                    className={classes.aboutListItem}
+                    >
+                        <ListItemText primary="關於我們" />
+                    </ListItem>
+                    <ListItem
+                    button
+                    component="a"
+                    target="_blank"
+                    href="https://docs.google.com/forms/d/e/1FAIpQLSfc_MGy-ImXbukLWk-YsA3a96ZDf9etHF0TmSLPHPniTxaMxw/viewform"
+                    className={classes.aboutListItem}
+                    >
+                        <ListItemText primary="問題回報" />
                     </ListItem>
                 </List>
             </Drawer>

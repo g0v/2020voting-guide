@@ -7,11 +7,17 @@ import BillDialog from './BillDialog';
 
 const useStyles = makeStyles({
     billInfo: {
-        'line-height': '40px',
         display: '-webkit-box',
         overflow: 'hidden',
         'text-overflow': 'ellipsis',
         '-webkit-line-clamp': 4,
+        '-webkit-box-orient': 'vertical'
+    },
+    cardName: {
+        display: '-webkit-box',
+        overflow: 'hidden',
+        'text-overflow': 'ellipsis',
+        '-webkit-line-clamp': 2,
         '-webkit-box-orient': 'vertical'
     }
 });
@@ -46,15 +52,17 @@ const PersonalBillCard = ({
                     立委提案
                 </Typography>
                 <Box height={12} />
-                <Typography variant="h3">{name}</Typography>
+                <Typography variant="h3" className={classes.cardName}>
+                    {vernacular ? vernacular : name}
+                </Typography>
                 <Box my={1}>
-                    <div className={classes.billInfo}>
-                        <Typography variant="h4" color="textSecondary">
-                            {vernacular
-                                ? vernacular
-                                : simplifyCaseOfAction(caseOfAction)}
-                        </Typography>
-                    </div>
+                    <Typography
+                        variant="h4"
+                        color="textSecondary"
+                        className={classes.billInfo}
+                    >
+                        {vernacular ? name : simplifyCaseOfAction(caseOfAction)}
+                    </Typography>
                 </Box>
                 {open ? (
                     <BillDialog
