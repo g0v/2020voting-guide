@@ -1,34 +1,48 @@
 import React from 'react';
 import { Box, Typography } from '@material-ui/core';
-import { BarChart, Bar, ResponsiveContainer, Tooltip, Label } from 'recharts';
 import { makeStyles } from '@material-ui/styles';
 
-const basebar = {
-	width: '42px',
-	height: '340px',
-	border: '1px solid white'
+const BAR_HEIGHT = 340
+
+const INCOME = 'income'
+const EXPENSE = 'expense'
+
+const getBarHeight = (item:string, totalIncome:number, totalExpense:number) => {
+	if (item === INCOME) {
+		if (totalIncome > totalExpense) {
+			return BAR_HEIGHT
+		} else {
+			return BAR_HEIGHT * totalIncome / totalExpense
+		}
+	} else {
+		if (totalIncome < totalExpense) {
+			return BAR_HEIGHT
+		} else {
+			return BAR_HEIGHT * totalExpense / totalIncome
+		}
+	}
 }
 
 const useStyles = makeStyles({
 	bar: {
 		width: '42px',
-		height: '340px',
-		background: (props:any) => props.item === 'income' ? '#3199BA' : '#D4AF37',
-		opacity: (props:any) => props.active ? 1 : 0.7
+		height: getBarHeight + 'px',
+		color: 'white',
 	},
 	barChild: {
     borderBottom: '1px solid white',
     display: 'flex',
     justifyContent: 'center',
-    alignItems: 'center',
-    color: 'white'
+		alignItems: 'center',
+		background: (props:any) => props.item === INCOME ? '#3199BA' : '#D4AF37',
+		opacity: (props:any) => props.active ? (props.first ? 1 : 0.7) : (props.first ? 0.3 : 0.7 * 0.3)
 	},
 	barText: {
-		color: (props:any) => props.item === 'income' ? '#3199BA' : '#D4AF37',
+		color: (props:any) => props.item === INCOME ? '#3199BA' : '#D4AF37',
 		opacity: (props:any) => props.active ? 1 : 0.7
 	},
 	text: {
-		color: (props:any) => props.item === 'income' ? '#3199BA' : '#D4AF37'
+		color: (props:any) => props.item === INCOME ? '#3199BA' : '#D4AF37'
 	}
 });
 
@@ -39,52 +53,65 @@ interface ContributionChart {
 	totalExpense: number;
 }
 
-const ContributionChart = ({ income, expense, totalIncome, totalExpense }: ContributionChart) => {
+const ContributionChart = ({
+	income,
+	expense,
+	totalIncome,
+	totalExpense }: ContributionChart) => {
 
 	const classes = useStyles;
-	const [activedContribution, setActivedContribution] = React.useState('income');
+	const [activedContribution, setActivedContribution] = React.useState(INCOME);
 
 	return (
 		<>
 			<Box display="flex" justifyContent="center">
-				<Box marginRight="15px" onClick={() => setActivedContribution('income')}>
+				<Box marginRight="15px" alignSelf="flex-end"
+					onClick={() => setActivedContribution(INCOME)}>
 					<div className={classes({
-						item: 'income',
-						active: activedContribution === 'income'
+						item: INCOME,
+						active: activedContribution === INCOME
 						}).bar}>
 						{
 							income.map((incomeItem, index) => (
 							<div
-								className={classes({ item: 'income' }).barChild}
-								style={{ height: (340 * incomeItem.percent * 0.01) + 'px'}}>
+								className={classes({
+									item: INCOME,
+									active: activedContribution === INCOME,
+									first: index === 0
+								 }).barChild}
+								style={{ height: (getBarHeight(INCOME, totalIncome, totalExpense) * incomeItem.percent * 0.01) + 'px'}}>
 									{index === 0 ? Math.round(incomeItem.percent) + '%' : ''}
 								</div>
 							))
 						}
 					</div>
 					<span className={classes({
-						item: 'income',
-						active: activedContribution === 'income'
+						item: INCOME,
+						active: activedContribution === INCOME
 						}).barText}>收入</span>
 				</Box>
-				<Box onClick={() => setActivedContribution('expense')}>
+				<Box alignSelf="flex-end" onClick={() => setActivedContribution(EXPENSE)}>
 					<div className={classes({
-						item: 'expense',
-						active: activedContribution === 'expense'
+						item: EXPENSE,
+						active: activedContribution === EXPENSE
 					}).bar}>
 						{
 							expense.map((incomeItem, index) => (
 							<div
-								className={classes({ item: 'expense' }).barChild}
-								style={{ height: (340 * incomeItem.percent * 0.01) + 'px'}}>
+								className={classes({
+									item: EXPENSE,
+									active: activedContribution === EXPENSE,
+									first: index === 0
+								 }).barChild}
+								style={{ height: (getBarHeight(EXPENSE, totalIncome, totalExpense) * incomeItem.percent * 0.01) + 'px'}}>
 									{index === 0 ? Math.round(incomeItem.percent) + '%' : ''}
 								</div>
 							))
 						}
 					</div>
 					<span className={classes({
-						item: 'expense',
-						active: activedContribution === 'expense'
+						item: EXPENSE,
+						active: activedContribution === EXPENSE
 					}).barText}>支出</span>
 				</Box>
 
@@ -94,12 +121,12 @@ const ContributionChart = ({ income, expense, totalIncome, totalExpense }: Contr
 						item: activedContribution
 					}).text}>
 						{
-							(activedContribution === 'income' ? income : expense).length ? (
-								(activedContribution === 'income' ? income : expense)
+							(activedContribution === INCOME ? income : expense).length ? (
+								(activedContribution === INCOME ? income : expense)
 								.map((incomeItem:any, index:number) => index === 0 ? (
 								<Box display="flex" justifyContent="space-between">
 									<Typography variant="h4">{incomeItem.name}</Typography>
-									<Typography variant="h4">{(incomeItem.value)}</Typography>
+									<Typography variant="h4">{(incomeItem.value.toLocaleString())}</Typography>
 								</Box>
 							) : (
 								<Box display="flex" justifyContent="space-between">
@@ -108,7 +135,7 @@ const ContributionChart = ({ income, expense, totalIncome, totalExpense }: Contr
 								</Box>
 							))
 							) : (
-								<div>123</div>
+								<div></div>
 							)
 						}
 					</div>
