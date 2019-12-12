@@ -1,8 +1,9 @@
 import { Box } from '@material-ui/core';
 import React, { FunctionComponent } from 'react';
+import issuesObj from '../data/issues.json';
 import IssueBill, { Bill } from './IssueBill';
-import NewParty from './Party/NewParty';
 import IssueFilter from './IssueBill/IssueFilter';
+import NewParty from './Party/NewParty';
 
 const IssueBillTab: FunctionComponent<{
     bills: Bill[];
@@ -25,7 +26,8 @@ const IssueBillTab: FunctionComponent<{
         updateIssueFilter(selectedIssue);
     };
     if (isParty && !bills) return <NewParty name={party} />;
-    const issues = bills.filter(b => b.category).map(b => b.category);
+    const issues = Object.values(issuesObj).flat();
+
     const filteredIssue = issueFilter.length ? issueFilter : issues;
 
     return (
@@ -37,6 +39,7 @@ const IssueBillTab: FunctionComponent<{
                         issue: issue,
                         bills: bills.filter(i => issue === i.category)
                     }))
+                    .filter(issue => issue.bills.length != 0)
                     .map((issue, i) => (
                         <IssueBill
                             key={`${issue.issue}${i}`}
