@@ -11,8 +11,6 @@ import Alert from '../Alert';
 import BasePaper from '../BasePaper';
 import BigNum from '../Numbers/BigNum';
 import AppBarChart from './AppBarChart';
-import CompareBarChart from './CompareBarChart';
-import ContributionChart from './ContributionChart';
 
 const proposeData = proposeTimes.map(item => {
     return {
@@ -21,15 +19,6 @@ const proposeData = proposeTimes.map(item => {
         percent: (Number(item.count) * 100) / Number(proposeTimes[0].count)
     }
 }).reverse()
-
-const contributionMappings: { [key: string]: string } = {
-    personalContributeion: '個人捐贈收入',
-    profitableContributeion: '營利事業捐贈收入',
-    partyContributeion: '政黨捐贈收入',
-    civilOrganizationsContributeion: '人民團體捐贈收入',
-    anonymousContributeion: '匿名捐贈收入',
-    otherContributeion: '其他收入'
-}
 
 const Statistic: {
     sittingRate: number;
@@ -82,10 +71,6 @@ const useStyle = makeStyles({
     }
 });
 
-const getTenThousand = (num: number) => {
-    return Math.floor(num / 10000)
-}
-
 const getPercentage = (num: number) => {
     return (num * 100).toFixed(2)
 }
@@ -101,26 +86,6 @@ const PositionTab = ({
     );
     const [showMoreBillProposal, setMoreBillProposal] = React.useState(false);
     const [statistic, setStatistic] = React.useState(Statistic);
-
-    const contributionIncome =
-
-    Object.keys(contributionMappings).map((key: string) => {
-        return {
-            name: contributionMappings[key] || '',
-            value: statistic.contribution[key],
-            percent: Number(((statistic.contribution[key] / statistic.contribution.totalIncome) * 100).toFixed(2)) || 0
-        }
-    }).sort((a, b) => {
-        return b.value - a.value
-    })
-
-    const contributionExpense = [
-            {
-            name: '總支出',
-            value: statistic.contribution.totalExpense,
-            percent: 100
-        }
-    ]
 
     React.useEffect(() => {
         if (!name) return;
@@ -177,31 +142,6 @@ const PositionTab = ({
                     </BarChart>
                 </ResponsiveContainer>
                 </Box>
-                {/* <Typography variant="h3">最多主提案修法類別</Typography> */}
-                {/* <AppBarChart
-                    data={statistic.billProposal}
-                    showMore={showMoreBillProposal}
-                /> */}
-
-
-                {/* <Box display="flex" justifyContent="center">
-                    <IconButton
-                        aria-label="expand"
-                        onClick={() =>
-                            setMoreBillProposal(!showMoreBillProposal)
-                        }
-                    >
-                        {showMoreBillProposal ? (
-                            <ExpandLessRoundedIcon
-                                className={classes.expandButton}
-                            />
-                        ) : (
-                            <ExpandMoreRoundedIcon
-                                className={classes.expandButton}
-                            />
-                        )}
-                    </IconButton>
-                </Box> */}
             </BasePaper>
             <Box p={1} bgcolor={theme.palette.background.default} />
 
@@ -259,28 +199,6 @@ const PositionTab = ({
                 />
             </BasePaper>
             <Box p={1} bgcolor={theme.palette.background.default} />
-
-            <BasePaper title="政治獻金紀錄" subtitle="每年收到的捐款和使用方式">
-                <Box marginBottom="20px">
-                    <Typography variant="h4">2016 立委選舉</Typography>
-                </Box>
-                <ContributionChart
-                    totalIncome={statistic.contribution.totalIncome}
-                    totalExpense={statistic.contribution.totalExpense}
-                    income={contributionIncome}
-                    expense={contributionExpense}/>
-            </BasePaper>
-            <Box p={1} bgcolor={theme.palette.background.default} />
-
-            <BasePaper title="同選區其他候選人收支" subtitle={`2016 區域立委選舉 ` + constituency}>
-                <CompareBarChart name={name} data={statistic.otherConstituencyCandidate} />
-                <span>
-                    {`資料來源: `}
-                    <Link href="https://sunshine.cy.gov.tw/">
-                    監察院 陽光法令主題網
-                    </Link>
-                </span>
-            </BasePaper>
         </Box>
     );
 };
