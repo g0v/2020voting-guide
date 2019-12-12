@@ -47,13 +47,19 @@ func ListRelateBills(c *gin.Context) {
 	db.MySQL.Where("billNo IN (?) AND term = 09", db.MySQL.Table("proposercosignatory").Select("billNo").Where("name = ? AND role = 'proposer'", name).QueryExpr()).Find(&personalBillsDb)
 	for _, bill := range personalBillsDb {
 		date := bill.BillNo[0:3] + "-" + bill.BillNo[3:5] + "-" + bill.BillNo[5:7]
+		var category string
+		if bill.Category != "" {
+			category = bill.Category
+		} else {
+			category = "其他"
+		}
 		bills = append(bills, models.Bill{
 			Name:                  bill.Name,
 			BillNo:                bill.BillNo,
 			ProposerType:          "立委提案",
 			Description:           "",
 			Date:                  date,
-			Category:              bill.Category,
+			Category:              category,
 			BillOrg:               bill.BillOrg,
 			BillProposerString:    bill.BillProposer,
 			BillCosignatoryString: bill.BillCosignatory,
@@ -72,13 +78,19 @@ func ListRelateBills(c *gin.Context) {
 	db.MySQL.Where("billOrg LIKE ? AND term = ?", caucusFilter, "09").Find(&orgBillsDb)
 	for _, bill := range orgBillsDb {
 		date := bill.BillNo[0:3] + "-" + bill.BillNo[3:5] + "-" + bill.BillNo[5:7]
+		var category string
+		if bill.Category != "" {
+			category = bill.Category
+		} else {
+			category = "其他"
+		}
 		bills = append(bills, models.Bill{
 			Name:                  bill.Name,
 			BillNo:                bill.BillNo,
 			ProposerType:          "黨團提案",
 			Description:           "",
 			Date:                  date,
-			Category:              bill.Category,
+			Category:              category,
 			BillOrg:               bill.BillOrg,
 			BillProposerString:    bill.BillProposer,
 			BillCosignatoryString: bill.BillCosignatory,
