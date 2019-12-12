@@ -84,7 +84,6 @@ const PositionTab = ({
     const [showMoreInterpellation, setMoreInterpellation] = React.useState(
         false
     );
-    const [showMoreBillProposal, setMoreBillProposal] = React.useState(false);
     const [statistic, setStatistic] = React.useState(Statistic);
 
     React.useEffect(() => {
