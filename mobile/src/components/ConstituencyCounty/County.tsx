@@ -1,17 +1,19 @@
 import { Breadcrumbs, List, ListItem, ListItemText, Typography } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
 import NavigateNextIcon from '@material-ui/icons/NavigateNext';
-import React, { createRef, useEffect } from 'react';
+import React, { useCallback, createRef, useEffect, useState } from 'react';
 import countyConstituency from '../../data/county_constituency.json';
 import Navigation from '../Navigation';
+import { Theme, useTheme } from '@material-ui/core/styles';
 import useMediaQuery from '@material-ui/core/useMediaQuery';
-import useWindowSize from './useWindowSize';
+import { Breakpoint } from '@material-ui/core/styles/createBreakpoints';
+import { PartyColorLookup } from '../PartyIcon';
 
 const desktopStyle = makeStyles({
     listItemWrapper: {
     },    
     listItemContainer: {
-        width: '100%',
+        width: '80%',
         'text-align': 'left',
         position: 'absolute',
         left: 0,
@@ -28,6 +30,7 @@ const desktopStyle = makeStyles({
         display: 'inline',
     },
     listItem: {
+        whiteSpace: 'nowrap',
         boxSizing: 'border-box',
         position: 'relative',
         marginTop: '24px',
@@ -94,45 +97,30 @@ const mobileStyle = makeStyles({
     },
 });
 
-const partyColorLookup: {[index: string]: any} = {
-    'dpp': '#00AB4E',
-    'tmd': '#0CB5B5',
-    'no_party':'#212121',
-    'gjin': '#A73F24',
-    'party01': '#40C07A',
-    'kmt': '#000099',
-    'other_party': '#AEAEAE',
-};
-
-const regionInfoData = [
-    // column #1
-    ['party01', 'kmt', 'no_party', 'other_party', 'other_party', 'other_party', 'other_party'],
-    // column #2
-    ['dpp', 'kmt', 'other_party', 'other_party', 'other_party', 'other_party'],
-    // column #3
-    ['kmt', 'dpp', 'tmd', 'other_party'],
-    // column #4
-    ['kmt', 'dpp', 'other_party', 'other_party', 'other_party', 'other_party', 'other_party'],
-    // column #5
-    ['no_party', 'dpp', 'no_party', 'no_party', 'no_party', 'no_party', 'no_party'],
-    // column #6
-    ['kmt', 'dpp', 'no_party', 'no_party', 'no_party', 'no_party', 'no_party'],
-    // column #7
-    ['kmt', 'dpp', 'tmd', 'gjin', 'no_party', 'other_party', 'other_party'],
-    // column #8
-    ['kmt', 'dpp', 'tmd', 'gjin', 'no_party', 'other_party', 'other_party'],
-];
-
 const RegionInfoRow = (props?: any) => {
     const { classes, columnNum, rowIndex, rowData } = props;
     const cells = [];
+    const exsitingPartyButColorNotFound = '#AEAEAE';
+
     for (let i = 0; i < columnNum; i++) {
         const partyName: string = rowData[i];
-        const partyColor = partyColorLookup[partyName];
-        const cellStyle = {
-            background: partyColor
-        };
 
+        // console.log('---partyName');
+        // console.log(partyName);
+
+        const cellStyle: React.CSSProperties = (function() {
+            if (partyName) {
+                const partyColor = PartyColorLookup[partyName];
+                const backgroundColor = partyColor !== undefined ? partyColor['main'] : exsitingPartyButColorNotFound;
+                const existingPartyStyle: React.CSSProperties = { background: backgroundColor };
+
+                return existingPartyStyle;
+            } else {
+                const emptyPartyStyle: React.CSSProperties = {  visibility: 'hidden' };
+                return emptyPartyStyle;
+            }
+        })();
+        
         cells.push(
             <div style={cellStyle} className={classes.regionInfoCell} key={`row-${rowIndex}-column-${i}`}></div>
         );
@@ -146,13 +134,22 @@ const RegionInfoRow = (props?: any) => {
 };
 
 const RegionInfo = (props?: any) => {
-    const { classes, infoData } = props;
+    const { allInfo, county, classes, infoData } = props;
+    // console.log('------1234r RegionInfo');
+    // console.log('-- county');
+    // console.log(county);
+    // console.log('-- allInfo');
+    // console.log(allInfo);
+    // console.log('-- infoData');
+    // console.log(infoData);
     const columnNum = infoData.length;
-    const rowNum =  Math.max.apply(Math,infoData.map((column: any) => column.length));
+    const rowNum =  Math.max.apply(Math,infoData.map((d: any) => d['party'].length));
 
     const rows = [];
     for (let i = 0; i < rowNum; i++) {
-        const rowData = infoData.map((column: any) => column[i]);
+        const rowData = infoData.map((d: any) => d['party'][i]);
+        // console.log('------rowData');
+        // console.log(rowData);
 
         const rowStyle = (i !== 0) ? {} : { marginBottom: '4px' };
 
@@ -175,27 +172,94 @@ const counties = countyConstituency.map(county => county.name);
 
 let refListItemContainer = React.createRef();
 
+interface regionInfoDataInterface {
+    [regionName: string]: [{
+        name: string;
+        party: [string];
+    }]
+}
+
+const defaultRegionInfoData: regionInfoDataInterface = {
+    "臺南市":[{name: '', party: ['']}],
+    "彰化縣":[{name: '', party: ['']}],
+    "山地原":[{name: '', party: ['']}],
+    "新北市":[{name: '', party: ['']}],
+    "臺中市":[{name: '', party: ['']}],
+    "臺北市":[{name: '', party: ['']}],
+    "桃園市":[{name: '', party: ['']}],
+    "高雄市":[{name: '', party: ['']}],
+    "嘉義市":[{name: '', party: ['']}],
+    "新竹縣":[{name: '', party: ['']}],
+    "新竹市":[{name: '', party: ['']}],
+    "苗栗縣":[{name: '', party: ['']}],
+    "南投縣":[{name: '', party: ['']}],
+    "屏東縣":[{name: '', party: ['']}],
+    "嘉義縣":[{name: '', party: ['']}],
+    "連江縣":[{name: '', party: ['']}],
+    "宜蘭縣":[{name: '', party: ['']}],
+    "平地原":[{name: '', party: ['']}],
+    "澎湖縣":[{name: '', party: ['']}],
+    "金門縣":[{name: '', party: ['']}],
+    "雲林縣":[{name: '', party: ['']}],
+    "臺東縣":[{name: '', party: ['']}],
+    "基隆市":[{name: '', party: ['']}],
+    "花蓮縣":[{name: '', party: ['']}],
+};
+
+type BreakpointOrNull = Breakpoint | null;
+
+/**
+ * Be careful using this hook. It only works because the number of
+ * breakpoints in theme is static. It will break once you change the number of
+ * breakpoints. See https://reactjs.org/docs/hooks-rules.html#only-call-hooks-at-the-top-level
+ */
+function useWidth() {
+  const theme: Theme = useTheme();
+  const keys: Breakpoint[] = [...theme.breakpoints.keys].reverse();
+  return (
+    keys.reduce((output: BreakpointOrNull, key: Breakpoint) => {
+      // eslint-disable-next-line react-hooks/rules-of-hooks
+      const matches = useMediaQuery(theme.breakpoints.up(key));
+      return !output && matches ? key : output;
+    }, null) || 'xs'
+  );
+}
+
+function useListItemContainerWidth() {
+    const [ width, setWidth ] = useState<string | null>(`0px`);
+    const ref = useCallback(node => {
+        console.log('.........useListItemContainerWidth');
+        if (node !== null) {
+            console.log(node.offsetWidth);            
+            setWidth(node.offsetWidth);
+        }
+    // will trigger re-check of node's with for different width breakspoint set by Material UI
+    }, [useWidth()]);
+
+    return [width, ref];
+};
 
 const Constituency = () => {
     const isDesktop = useMediaQuery('(min-width:769px)');
     const useStyles = isDesktop ? desktopStyle : mobileStyle;
     const classes = useStyles();
-    // document.getElementsByClassName('makeStyles-listItemContainer-198')[0]
-    // .offsetWidth
-
-    const refListItemContainer = createRef<HTMLDivElement>();
-    const refListItemContainerMeasure = createRef<HTMLDivElement>();
-
-    const wSize = useWindowSize();
+    
+    // prepare to get data for regions
+    const regionInfoDataUrl =`/api/data/countyParties.json`;
+    // function useState<S>(initialState: S | (() => S)): [S, Dispatch<SetStateAction<S>>];
+    const [regionInfoData, setRegionInfoData] = useState<regionInfoDataInterface>(defaultRegionInfoData);
 
     useEffect(() => {
-        // update trigger by resize event listener from useWindowSize()
-        if (refListItemContainer.current && refListItemContainerMeasure.current) {
-            const mostFitWidthNum = refListItemContainerMeasure.current.offsetWidth;
-            refListItemContainer.current.style.width = `${mostFitWidthNum}px`;
-        }        
-    });
+        // get web data for regions
+        fetch(regionInfoDataUrl)
+            .then(res => res.json())
+            .then(resJson => setRegionInfoData(resJson));
+    // only fetch data once on mount
+    }, []);
 
+    const [listItemContainerWidth, refListItemContainerMeasure] = useListItemContainerWidth();
+            
+    // define the max number of regions in a row to display
     const maxNumInOneRow = 3;
 
     return (
@@ -233,7 +297,7 @@ const Constituency = () => {
                         })()}
                     </div>
                 </div>}
-                <div ref={refListItemContainer} className={classes.listItemContainer}>
+                <div style={{width: `${listItemContainerWidth}px`}} className={classes.listItemContainer}>
                     {counties.map(county => (
                         <ListItem
                             key={county}
@@ -244,7 +308,10 @@ const Constituency = () => {
                             className={classes.listItem}
                         >
                             <ListItemText className={classes.regionName} primary={county}></ListItemText>
-                            {isDesktop && <RegionInfo classes={classes} infoData={regionInfoData} />}
+                            {isDesktop 
+                                && regionInfoData[county] 
+                                && (regionInfoData[county][0]['party'][0] !== '')
+                                && <RegionInfo classes={classes} county={county} allInfo={regionInfoData} infoData={regionInfoData[county]} />}
                         </ListItem>
                     ))}
                 </div>
