@@ -1,8 +1,8 @@
-import React from 'react';
 import { Typography } from '@material-ui/core';
+import { createStyles, makeStyles, Theme } from '@material-ui/core/styles';
 import clsx from 'clsx';
-import { makeStyles, Theme, createStyles } from '@material-ui/core/styles';
 import { diff_match_patch as DiffMatchPatch } from 'diff-match-patch';
+import React from 'react';
 import './ChangedBill.scss';
 const useStyle = makeStyles((theme: Theme) =>
     createStyles({
@@ -50,7 +50,7 @@ const ChangedBill = ({
         }
     });
     return (
-        <Typography variant="h6">
+        <Typography variant="h4">
             {index}. {diffHTML}
         </Typography>
     );

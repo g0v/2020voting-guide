@@ -1,5 +1,13 @@
-import { Breadcrumbs, List, ListItem, ListItemText, Typography } from '@material-ui/core';
+import {
+    Breadcrumbs,
+    List,
+    ListItem,
+    ListItemText,
+    Typography,
+    Container
+} from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
+import useMediaQuery from '@material-ui/core/useMediaQuery';
 import NavigateNextIcon from '@material-ui/icons/NavigateNext';
 import React, { useCallback, createRef, useEffect, useState } from 'react';
 import countyConstituency from '../../data/county_constituency.json';
@@ -263,7 +271,7 @@ const Constituency = () => {
     const maxNumInOneRow = 3;
 
     return (
-        <>
+        <Container className="p-0">
             <Navigation title="區域立委候選人">
                 <Breadcrumbs separator={<NavigateNextIcon fontSize="small" />}>
                     <Typography variant="h4" color="textSecondary">
@@ -316,7 +324,7 @@ const Constituency = () => {
                     ))}
                 </div>
             </List>
-        </>
+        </Container>
     );
 };
 

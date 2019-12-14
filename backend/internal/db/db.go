@@ -54,8 +54,10 @@ type Bill struct {
 	BillProposer    string `gorm:"column:billProposer"`
 	BillCosignatory string `gorm:"column:billCosignatory"`
 	BillStatus      string `gorm:"column:billStatus"`
+	DocURL          string `gorm:"column:docUrl"`
 	PdfURL          string `gorm:"column:pdfUrl"`
 	CaseOfAction    string `gorm:"column:caseOfAction"`
+	Vernacular      string
 }
 
 // BillDescription is some description for bill
@@ -100,7 +102,9 @@ type ManualCandidate struct {
 	Name              string
 	Photo             string
 	Party             string
+	Education         string
 	Experience        string
+	Politics          string
 	CurrentLegislator bool `gorm:"column:currentLegislator"`
 }
 

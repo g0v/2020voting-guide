@@ -11,7 +11,14 @@ env_variables:
   MYSQL_DB:
   VERNACULAR_KEY:
 
-handlers:
+hhandlers:
+  - url: /sitemap.xml
+    static_files: mobile/build/sitemap.xml
+    upload: mobile/build/sitemap.xml
+
+  - url: /api/data
+    static_dir: data/static
+
   - url: /api/.*
     script: auto
 

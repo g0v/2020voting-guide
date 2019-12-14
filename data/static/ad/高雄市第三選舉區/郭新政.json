@@ -1,0 +1,521 @@
+[
+  {
+    "選區": "高雄市第三選舉區",
+    "參選人": "郭新政",
+    "AD_ID": "790560304736630",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-30",
+    "結束日期": "2019-11-03",
+    "廣告內容": "為什麼選擇黃紫配色？為什麼不收政治獻金？為什麼選立委？",
+    "圖片": "https://scontent-nrt1-1.xx.fbcdn.net/v/t39.16868-6/75383698_790560354736625_7435462647148969984_n.jpg?_nc_cat=107&_nc_oc=AQn1fuST6vWnQSAMB4UkxaLXKcfX90Hil1UQtQWdeUiMqxe_NGiUp62OGEfLRKV8Fmc&_nc_ht=scontent-nrt1-1.xx&oh=e8e31d89e1acc3984ae460a988b27d88&oe=5E174443"
+  },
+  {
+    "選區": "高雄市第三選舉區",
+    "參選人": "郭新政",
+    "AD_ID": "429532487745106",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-23",
+    "結束日期": "2019-11-12",
+    "廣告內容": "該送一些正常人進立法院了。",
+    "圖片": "https://scontent-nrt1-1.xx.fbcdn.net/v/t39.16868-6/s600x600/73287462_392988164977377_2825253186938339328_n.jpg?_nc_cat=107&_nc_oc=AQnCX5FX5fmoY1Xro98H3N3WhTfbRgIwHjJc7xRwdfMCYV_sIQV29YiuihgggsJTfpE&_nc_ht=scontent-nrt1-1.xx&oh=efc550f67ea08c7b8bb4a82697cba3ae&oe=5E416C14"
+  },
+  {
+    "選區": "高雄市第三選舉區",
+    "參選人": "郭新政",
+    "AD_ID": "2154294844879464",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-07",
+    "結束日期": "2019-11-12",
+    "廣告內容": "在號稱是政黨票倉鐵票區的果貿社區辦活動，沒有動員來了四百人。很多人以為長輩的觀念根深蒂固，我這兩個月的經驗是，只要有耐心、有毅力的溝通，他們多半是願意聽我說的。",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/77270398_2154294871546128_7149137101877936128_n.jpg?_nc_cat=105&_nc_ohc=Cmmh-5s9ysgAQkgw6opGXVlJ7NCqmHTRTdnUFY6aV0LvaVRTtuqesTCYA&_nc_ht=scontent-hkg3-1.xx&oh=d3adae6f395d1a4bae3868350d12a17a&oe=5E7A884D",
+    "廣告詳情": {
+      "ad_creative_body": "在號稱是政黨票倉鐵票區的果貿社區辦活動，沒有動員來了四百人。很多人以為長輩的觀念根深蒂固，我這兩個月的經驗是，只要有耐心、有毅力的溝通，他們多半是願意聽我說的。",
+      "ad_creation_time": "2019-11-08T04:02:06+0000",
+      "ad_creative_link_caption": "hckuo.com",
+      "ad_creative_link_title": "郭新政 | 果貿敬老活動",
+      "ad_delivery_start_time": "2019-11-08T04:02:06+0000",
+      "ad_delivery_stop_time": "2019-11-13T04:01:53+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.101243",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.048736",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000862",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00018",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000539",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000503",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.038392",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.012139",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.058935",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.225255",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00571",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.070213",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.147752",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.025248",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.227625",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.036417",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000251",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "40000",
+        "upper_bound": "44999"
+      },
+      "page_id": "689130494534739",
+      "page_name": "郭新政",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Kaohsiung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "3000",
+        "upper_bound": "3499"
+      }
+    }
+  },
+  {
+    "選區": "高雄市第三選舉區",
+    "參選人": "郭新政",
+    "AD_ID": "415681689268787",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-02-01",
+    "結束日期": "2019-12-06",
+    "廣告內容": "看了。Yahoo論壇，「最常背黑鍋的 都是善良的好人」一文，真的心有戚戚焉。 從政商迫害，到職場霸凌、學校霸凌，人與人相處不該是以欺壓的方式在相處。有權勢的人就可以欺壓善良，隻手遮天嗎？ 台灣人有包容的善良美德，對於迫害，大部份的人都是息事寧人，保持和諧；但是偏偏有些可惡的人，利用這點，大肆魚肉好人，欺壓善良！可惡，非常可惡！ 「忍無可忍，就無需再忍！」，我們現在要支持善良，別姑息惡人！一起在粉絲團按讚團結集氣，我們會有做為的，讓大家看到我們，祈求公義的決心！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/59342202_415681705935452_3907934594522939392_n.jpg?_nc_cat=102&_nc_ohc=u_5-hjtmsw4AQm30WpJUR8mdfwxC1S4tc6E2Cff0MJFcR8lSFa5QdqalQ&_nc_ht=scontent-hkg3-1.xx&oh=f108ba3f19f9832f6539c81feb612ad8&oe=5E6B9B92",
+    "廣告詳情": {
+      "ad_creative_body": "看了。Yahoo論壇，「最常背黑鍋的 都是善良的好人」一文，真的心有戚戚焉。\n\n從政商迫害，到職場霸凌、學校霸凌，人與人相處不該是以欺壓的方式在相處。有權勢的人就可以欺壓善良，隻手遮天嗎？\n\n台灣人有包容的善良美德，對於迫害，大部份的人都是息事寧人，保持和諧；但是偏偏有些可惡的人，利用這點，大肆魚肉好人，欺壓善良！可惡，非常可惡！\n\n「忍無可忍，就無需再忍！」，我們現在要支持善良，別姑息惡人！一起在粉絲團按讚團結集氣，我們會有做為的，讓大家看到我們，祈求公義的決心！",
+      "ad_creation_time": "2019-02-01T10:02:12+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "我愛這塊土地，我相信人間還是有公義。",
+      "ad_creative_link_title": "郭新政",
+      "ad_delivery_start_time": "2019-02-01T10:02:21+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.076316",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.050329",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.161842",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.1625",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.046053",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.067763",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.140132",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.032566",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.064145",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.018092",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.173026",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000658",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00625",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000329",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "4999"
+      },
+      "page_id": "689130494534739",
+      "page_name": "郭新政",
+      "region_distribution": [
+        {
+          "percentage": "0.023355",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.005263",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.012829",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.021382",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.004934",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.006579",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.010197",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.003618",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.019737",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.175329",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.125329",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.168421",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.098355",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.109868",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.013816",
+          "region": "Taiwan"
+        },
+        {
+          "percentage": "0.180921",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.020066",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "499"
+      }
+    }
+  },
+  {
+    "選區": "高雄市第三選舉區",
+    "參選人": "郭新政",
+    "AD_ID": "1536428259826932",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-01-30",
+    "結束日期": "2019-12-06",
+    "廣告內容": "看了。Yahoo論壇，「最常背黑鍋的 都是善良的好人」一文，真的心有戚戚焉。 從政商迫害，到職場霸凌、學校霸凌，人與人相處不該是以欺壓的方式在相處。有權勢的人就可以欺壓善良，隻手遮天嗎？ 台灣人有包容的善良美德，對於迫害，大部份的人都是息事寧人，保持和諧；但是偏偏有些可惡的人，利用這點，大肆魚肉好人，欺壓善良！可惡，非常可惡！ 「忍無可忍，就無需再忍！」，我們現在要支持善良，別姑息惡人！一起在粉絲團按讚團結集氣，我們會有做為的，讓大家看到我們，祈求公義的決心！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/59347954_1536428273160264_6057699303948812288_n.jpg?_nc_cat=105&_nc_ohc=x4zJRX0d2a0AQnI22xAXraCrwxKudRXctMS3wzyCumri1cHPqFyRMWAjA&_nc_ht=scontent-hkg3-1.xx&oh=10e90a4b306f0e45be4e74a3fbdb46ac&oe=5E3FEC18",
+    "廣告詳情": {
+      "ad_creative_body": "看了。Yahoo論壇，「最常背黑鍋的 都是善良的好人」一文，真的心有戚戚焉。\n\n從政商迫害，到職場霸凌、學校霸凌，人與人相處不該是以欺壓的方式在相處。有權勢的人就可以欺壓善良，隻手遮天嗎？\n\n台灣人有包容的善良美德，對於迫害，大部份的人都是息事寧人，保持和諧；但是偏偏有些可惡的人，利用這點，大肆魚肉好人，欺壓善良！可惡，非常可惡！\n\n「忍無可忍，就無需再忍！」，我們現在要支持善良，別姑息惡人！一起在粉絲團按讚團結集氣，我們會有做為的，讓大家看到我們，祈求公義的決心！",
+      "ad_creation_time": "2019-01-30T17:05:37+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "我愛這塊土地，我相信人間還是有公義。",
+      "ad_creative_link_title": "郭新政",
+      "ad_delivery_start_time": "2019-01-30T17:05:37+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.065983",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.045911",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.079436",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.153961",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.209268",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.167628",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.080717",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.071108",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.042067",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.02776",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.038223",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000854",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.014521",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001281",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001281",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "4999"
+      },
+      "page_id": "689130494534739",
+      "page_name": "郭新政",
+      "region_distribution": [
+        {
+          "percentage": "0.037053",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.005997",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.094024",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.184194",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.17477",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.023988",
+          "region": "Hsinchu City"
+        },
+        {
+          "percentage": "0.011137",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.028272",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.008353",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.012637",
+          "region": "Taiwan"
+        },
+        {
+          "percentage": "0.009424",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.001285",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.004498",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.025701",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.117156",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.169629",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.091883",
+          "region": "Taoyuan City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "499"
+      }
+    }
+  },
+  {
+    "選區": "高雄市第三選舉區",
+    "參選人": "郭新政",
+    "AD_ID": "450236682160890",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-12",
+    "結束日期": "2019-11-16",
+    "廣告內容": "該送一些正常人進立法院了，打權貴、掃黑金，給年輕人機會。",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/77373025_450236698827555_1852129746465325056_n.jpg?_nc_cat=105&_nc_oc=AQkBhEPRPRTpyGLReU51kBPxMZ3VBQvvwHrZadJCnMoCou4iL4lrCg9q22WsxLS11Y4&_nc_ht=scontent-hkg3-1.xx&oh=440f6754b7da1500e776005f51d8d9ef&oe=5E4E43D4"
+  },
+  {
+    "選區": "高雄市第三選舉區",
+    "參選人": "郭新政",
+    "AD_ID": "548524435710937",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-16",
+    "結束日期": "2019-12-02",
+    "廣告內容": "該送一些正常人進立法院了，打權貴、掃黑金，給年輕人機會。",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/77705174_3387991171241843_5728208207776579584_n.jpg?_nc_cat=110&_nc_ohc=JeLYZQuFu1oAQl0Ax5gNapZOmbAzBM_l6mrKjSN-53fMAjqeT0R2-MH2w&_nc_ht=scontent-hkg3-1.xx&oh=df638c451b2269c7b289c7f01bdc038e&oe=5E83E301"
+  },
+  {
+    "選區": "高雄市第三選舉區",
+    "參選人": "郭新政",
+    "AD_ID": "1460521840766737",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-12-04",
+    "結束日期": "2019-12-06",
+    "廣告內容": "我是左楠人，我選郭新政。",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/79282300_1460522254100029_2511560002683011072_n.jpg?_nc_cat=106&_nc_ohc=yGps0zDHGzsAQlAbhXoneAXpmVMPAUBrASIQeUWlzah7kn1IKy12Eg-PA&_nc_ht=scontent-hkg3-1.xx&oh=1a59ba24589f3bf5188abe9c49d9fdb8&oe=5E882138"
+  }
+]

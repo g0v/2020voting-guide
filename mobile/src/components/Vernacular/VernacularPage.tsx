@@ -17,6 +17,7 @@ const defaultBillInfo = {
         name: '',
         billNo: '',
         pdfUrl: '',
+        docUrl: '',
         billOrg: '',
         billProposer: '',
         billCosignatory: '',
@@ -65,7 +66,9 @@ const VernacularPage = ({ match }: VernacularPage) => {
                     </Box>
                     <Box my={2}>
                         <Typography variant="h6" color="textSecondary">
-                            {simplifyCaseOfAction(bill.caseOfAction)}
+                            {bill.pdfUrl
+                                ? simplifyCaseOfAction(bill.caseOfAction)
+                                : '請參考 PDF 原檔'}
                         </Typography>
                     </Box>
                 </Grid>
@@ -122,7 +125,14 @@ const VernacularPage = ({ match }: VernacularPage) => {
                         )}
                     </Box>
                     <Box my={2}>
-                        <Button href={bill.pdfUrl} variant="contained" color="primary" target="_blank">原文PDF</Button>
+                        <Button
+                            href={bill.pdfUrl || bill.docUrl}
+                            variant="contained"
+                            color="primary"
+                            target="_blank"
+                        >
+                            原文PDF
+                        </Button>
                     </Box>
                 </Grid>
                 <Grid item lg={3}>

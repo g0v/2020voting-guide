@@ -1,0 +1,5912 @@
+[
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "814201645667351",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-27",
+    "結束日期": "2019-11-11",
+    "廣告內容": "您好！我是立法院副院長蔡其昌，台中人，也是三個孩子的爸爸，三度被評選為優秀立委，商業周刊評為台灣好立委。有什麼需要我們服務的地方，不要客氣，告訴我吧！",
+    "圖片": "https://scontent-nrt1-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74180438_1185724104960356_5170930256885841920_n.jpg?_nc_cat=106&_nc_oc=AQn8OGxWUBybuf7aCTnShmv-xpj3zWjuHXAx1L_6kLRCMqsxU-MgZLLUWAayu2oTGeE&_nc_ht=scontent-nrt1-1.xx&oh=55098b82a59d66aab083e3d55635acac&oe=5E43341C",
+    "廣告詳情": {
+      "ad_creative_body": "您好！我是立法院副院長蔡其昌，台中人，也是三個孩子的爸爸，三度被評選為優秀立委，商業周刊評為台灣好立委。有什麼需要我們服務的地方，不要客氣，告訴我吧！",
+      "ad_creation_time": "2019-10-27T10:16:40+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "曾經在30歲擔任最年輕的局處首長，也曾經在自認人生的高峰重摔了一跤，酸甜苦辣點滴在心頭。但其昌始終堅信上帝為你關閉一扇門，必會爲你開啟另一扇窗！\n",
+      "ad_creative_link_title": "蔡其昌",
+      "ad_delivery_start_time": "2019-10-27T10:16:40+0000",
+      "ad_delivery_stop_time": "2020-01-30T19:12:58+0000",
+      "currency": "USD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.254109",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.202977",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.542913",
+          "age": "35-44",
+          "gender": "male"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "60000",
+        "upper_bound": "69999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "0.028377",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.002352",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.027722",
+          "region": "Hsinchu City"
+        },
+        {
+          "percentage": "0.009648",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.042164",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.006015",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.033261",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.003335",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.014442",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.012149",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.006491",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.1602",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.002591",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001161",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.049013",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.091654",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.154453",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.093857",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.120299",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.140696",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.000119",
+          "region": "Lienchiang"
+        }
+      ],
+      "spend": {
+        "lower_bound": "200",
+        "upper_bound": "299"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "2201537330143647",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-02",
+    "結束日期": "2019-11-03",
+    "廣告內容": "蔡英文、賴清德合體 #用行動感動人民！ 過去，因為九合一的挫敗與黨內初選的競爭，讓蔡英文總統反省，蛻變成蔡英文2.0，成為民進黨內重要的母雞。而賴清德院長在初選結束沈潛一段時間，就啟程美國為蔡英文總統和民進黨催票，並且開始一系列的巡迴助選。 今天，#蔡英文和賴清德合體，大大打臉那些想見縫插針的人，也激勵所有熱愛台灣、疼惜民進黨的鄉親，只有團結才能戰勝一切困難！ #未來我們會更團結 #相信我們",
+    "圖片": "https://scontent-nrt1-1.xx.fbcdn.net/v/t1.6435-0/s600x600/73277664_2471452916241408_3301307005544693760_n.jpg?_nc_cat=107&_nc_oc=AQnva0RE2BsIiPRLCn3-7ma53m2S15cPzWiPl8-ScWFjApBCAV-qb0NP1YuGjzcP3Bo&_nc_ht=scontent-nrt1-1.xx&oh=5e84d209b1230b55a0440043df7fccf6&oe=5E599754"
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "2228377567460259",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-05",
+    "結束日期": "2019-11-06",
+    "廣告內容": "中興大學 #100歲生日快樂！ 中興創校於1919年，是台灣第一所農業高等教育學校，更是 #國內重要的農業人才培育搖籃與農林政策智庫，所有興大人不管身處各處、身任何職，都能承傳與開創「誠樸精勤」的興大精神，讓校友在各行各業發光發熱，更是 #其昌擔任興大校友總會理事長所努力的目標，尤其在今年隨蔡英文總統「民主永續之旅」期間，也拜訪了興大校友總會在美國各地的學長姐們，感受到再遠都像一家人，十分溫暖。 我們也期盼，興大在薛富盛校長帶領下，持續轉動創新、突破、永續的巨輪，為台灣高教樹立典範。  在興大百年校慶這天，有一個感人故事，就是在校方半年來的尋找與規劃，#1919年創校校長阿部文夫的3位孫子也蒞校祝福，並由家族代表阿部孝明在慶祝大會上發表賀詞，同時致贈阿部文夫校長所出版的絕版書籍2冊。",
+    "圖片": "https://scontent-nrt1-1.xx.fbcdn.net/v/t1.6435-0/s600x600/75237552_2477779192275447_3212938800753803264_n.jpg?_nc_cat=102&_nc_oc=AQkn3GqBzLsz4T-uNhtXmwp7qYAd7ctbRYSNZkt4geX1mz3KZf7ywkNzJVlNzDdg4SA&_nc_ht=scontent-nrt1-1.xx&oh=463443c1cc6c7d49583633bfbda96081&oe=5E5A1E5E"
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "2528615204077416",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-06",
+    "結束日期": "2019-11-07",
+    "廣告內容": "取得東京決賽門票 #期待明天戰勝日本隊 跑了整天的行程，晚上趕到球場已經第五局了，還好還是零比零。最終，在張奕、朱育賢、王威晨、胡金龍等球員的好表現下，我們以三比零擊敗委內瑞拉，#確定晉級12強在東京的決賽。不過，明天與日本隊的對戰，期待我們也能夠擊敗超級強敵日本明星隊！ #超級棒球迷 #中興校友總會遇到逢甲校友總會",
+    "圖片": "https://scontent-nrt1-1.xx.fbcdn.net/v/t1.6435-0/s600x600/73190733_2480579595328740_5578100453696077824_n.jpg?_nc_cat=105&_nc_oc=AQkK6HOdFle0TeQfDH-NDgeBzpcTyTmgKFMe2nDVTXeMzNCJ2WiAMBDYNIrn3hW4oAw&_nc_ht=scontent-nrt1-1.xx&oh=3d8c449db45d8a187ac50d8797f8ba19&oe=5E616DE4"
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "3669284696418915",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-07",
+    "結束日期": "2019-11-08",
+    "廣告內容": "化腐朽為神奇 #爭取800萬打造清水埤塘公園 在咱清水大楊國小前一髒亂空地，經校方及地方居民向其昌陳情反應，我特別邀集農委會水保局前往視察，爭取中央800萬經費補助，#髒亂空地將化身社區埤塘公園，預計明年初完工。 鄉親們的期待，其昌都聽見了，這塊空地就在大楊國小前，未來除楊厝社區可使用外，學校師生也多一個綠美化空間可以運用，旁邊更可結合大楊油庫軍事休憩景點，60天後這裡將化腐朽為神奇，#誕生一處全新的埤塘公園。 #越來越美 #我做事你分享",
+    "圖片": "https://scontent-nrt1-1.xx.fbcdn.net/v/t1.6435-0/s600x600/73482739_2483242401729126_517916967919681536_n.jpg?_nc_cat=105&_nc_oc=AQlCMEJ-TZGQ-ynIGZDS-tXuyOQObCaAYHop4PxKboqsOo9hUvKQT76vqxfcONknymo&_nc_ht=scontent-nrt1-1.xx&oh=592496a27dbeea35c98170357b193170&oe=5E5D8BD8"
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "723224104844896",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-08",
+    "結束日期": "2019-11-09",
+    "廣告內容": "小英總統視察台中港北堤 #釣團大讚史上最重視釣魚人的總統！ 蔡英文總統今天在其昌的邀請之下，到我們全國最知名釣點台中港北堤視察，蔡總統致詞時表示，「#釣魚人們有困難能找到蔡其昌來幫忙，真的是找對人了！」她說，台灣是一個海洋國家，四面環海的國家，釣魚人親近海洋還這麼辛苦，在蔡副院長協調爭取之下，確實大家都看到他的努力了。台灣釣魚人大聯盟大讚，「蔡英文總統是史上最關心釣魚運動的總統！」 我向蔡總統表示，全國愛好釣魚人士超過200萬人，而國內最知名釣點台中港北堤，因為管制重重，成為國內越界釣魚受罰最嚴重的地方。這些年來，他的奔走爭取之下，從全段封閉且管制到開放半堤1385公尺，去年再延長150公尺釣魚平台。但因為距離全堤開放的目標還有一段距離，他為此還特別向蔡英文總統、行政院長蘇貞昌請願，由行政院副院長陳其邁、張景森、唐鳳召開跨部會協調，也帶領上百位全國釣魚團體代表赴行政院協調，#敲定台中港北堤全面開放打造為海釣示範區，並規劃全國50處以上適合的漁港釣魚點。 #台中港北堤海釣示範區從10月起全段2818公尺開放垂釣，由「台灣釣魚人大聯盟」協助管理，上月開放至今就吸引3000多人辦理友善認同卡，超過6000人進場垂釣，每逢周末都大排長龍，甚至排隊三個小時才進場。 #關心釣魚運動 #繼續加油努力",
+    "圖片": "https://scontent-nrt1-1.xx.fbcdn.net/v/t1.6435-0/s600x600/72983932_2484686304918069_1601710093429112832_n.jpg?_nc_cat=105&_nc_oc=AQkCTF7tgDRSifXqIqD-1oAzF4dxi5cv5a6QF84wsaE6hVD7yEBHijKHN-Ve1I7B5vY&_nc_ht=scontent-nrt1-1.xx&oh=10189ce6fcc82c49b21d53bcb6b58a5f&oe=5E643C99"
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "729039720912413",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-15",
+    "結束日期": "2019-11-16",
+    "廣告內容": "甲安埔新休憩空間 #其昌爭取2200萬打造大甲溪堤岸公園完工 其昌今邀集經濟部水利署第三河川局局長白烈燑、台中市議員施志昌及文曲里里長林寶彩、武陵里里長方如玉與義和里里長洪黃素貞等人會勘大甲溪畔堤防文曲里區段，#地方居民齊向其昌陳情希望比照大安溪東安里區段打造一堤岸公園供民眾運動休憩，其昌爭取中央2200萬元經費今日正式啟用。 文曲里的這個堤岸公園是我與施志昌議員共同繳出的成績單，很開心今天終於正式啟用，#這幾年我們不斷在提升海線的生活品質，我們盡可能去尋找國有空地，並結合社區來共同管理。 #政府將雜亂的國有空地綠美化為公園綠地供民眾休憩運動，讓海線地區生活品質可以提升，同時更凝聚社區的團結意識，讓大家共同來維護這個公園綠地，我們更會繼續努力來完成鄉親們的期待。 #我打拼您分享",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/74882956_2500499370003429_7389342949022105600_n.jpg?_nc_cat=109&_nc_ohc=7Yc1o6o2SKoAQniO-qUWHzzWBZeBbesxCD4kbV5cuxyem2mfsQ3uBGGhw&_nc_ht=scontent-hkg3-1.xx&oh=a582e32ab1a6ae43a5e4beb83005c0d3&oe=5E7B0C0D",
+    "廣告詳情": {
+      "ad_creative_body": "甲安埔新休憩空間 #其昌爭取2200萬打造大甲溪堤岸公園完工\n\n其昌今邀集經濟部水利署第三河川局局長白烈燑、台中市議員施志昌及文曲里里長林寶彩、武陵里里長方如玉與義和里里長洪黃素貞等人會勘大甲溪畔堤防文曲里區段，#地方居民齊向其昌陳情希望比照大安溪東安里區段打造一堤岸公園供民眾運動休憩，其昌爭取中央2200萬元經費今日正式啟用。\n\n文曲里的這個堤岸公園是我與施志昌議員共同繳出的成績單，很開心今天終於正式啟用，#這幾年我們不斷在提升海線的生活品質，我們盡可能去尋找國有空地，並結合社區來共同管理。\n\n#政府將雜亂的國有空地綠美化為公園綠地供民眾休憩運動，讓海線地區生活品質可以提升，同時更凝聚社區的團結意識，讓大家共同來維護這個公園綠地，我們更會繼續努力來完成鄉親們的期待。\n\n#我打拼您分享",
+      "ad_creation_time": "2019-11-16T00:44:47+0000",
+      "ad_delivery_start_time": "2019-11-16T00:44:47+0000",
+      "ad_delivery_stop_time": "2019-11-17T00:44:28+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.110071",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000307",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000154",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000307",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000461",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "7.7E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.005834",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.007983",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.016656",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.081593",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.031624",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.034234",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.040682",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.139546",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.049355",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.271569",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.209472",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "7.7E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "克斯 蔡",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "0.028025",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.000998",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.015126",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.034628",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.006143",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.030943",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.003609",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.02027",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.012746",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.007755",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.129837",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.002918",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001766",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.046453",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.119011",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.258983",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.081081",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.074785",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.104883",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.02004",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "567189264048292",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-15",
+    "結束日期": "2019-11-16",
+    "廣告內容": "大家都很努力了！ #12強",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/74171893_2498765050176861_3937034956458426368_n.jpg?_nc_cat=102&_nc_ohc=qxapgSvC7XYAQl7c1nlgGzfZsh-FnhEJCZpPYtYaxKi0oLSapZYdpNj3w&_nc_ht=scontent-hkg3-1.xx&oh=b36ca0127fc89ef9c9d772fd03c62c96&oe=5E7719A4",
+    "廣告詳情": {
+      "ad_creative_body": "大家都很努力了！\n\n#12強",
+      "ad_creation_time": "2019-11-15T09:01:12+0000",
+      "ad_delivery_start_time": "2019-11-15T09:01:12+0000",
+      "ad_delivery_stop_time": "2019-11-16T09:00:53+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.250064",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.334097",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.176343",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.119048",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.043481",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.023237",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.030239",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.022218",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000255",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000573",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000127",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000318",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "克斯 蔡",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "0.026783",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.000821",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.009222",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.043017",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.006001",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.046491",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.004106",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.014655",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.013581",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "6.3E-5",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.008907",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.174468",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.001958",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001832",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.047944",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.083507",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.182364",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.078896",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.11806",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.111364",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.025962",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "800",
+        "upper_bound": "899"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "658436641357193",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-11",
+    "結束日期": "2019-12-06",
+    "廣告內容": "您好！我是立法院副院長蔡其昌，台中人，也是三個孩子的爸爸，三度被評選為優秀立委，商業周刊評為台灣好立委。有什麼需要我們服務的地方，不要客氣，告訴我吧！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74180438_1185724104960356_5170930256885841920_n.jpg?_nc_cat=106&_nc_ohc=BNbPL7T-4YEAQlNQp2HDyHz-etjNZgA11--E4se-5m7AhoF9KrWKnQpNQ&_nc_ht=scontent-hkg3-1.xx&oh=e4dfe0184370547fd82b7f2530899703&oe=5E6AC11C",
+    "廣告詳情": {
+      "ad_creative_body": "您好！我是立法院副院長蔡其昌，台中人，也是三個孩子的爸爸，三度被評選為優秀立委，商業周刊評為台灣好立委。有什麼需要我們服務的地方，不要客氣，告訴我吧！",
+      "ad_creation_time": "2019-11-11T10:06:20+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "曾經在30歲擔任最年輕的局處首長，也曾經在自認人生的高峰重摔了一跤，酸甜苦辣點滴在心頭。但其昌始終堅信上帝為你關閉一扇門，必會爲你開啟另一扇窗！\n",
+      "ad_creative_link_title": "蔡其昌",
+      "ad_delivery_start_time": "2019-11-11T10:06:20+0000",
+      "ad_delivery_stop_time": "2020-01-30T19:12:58+0000",
+      "currency": "USD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.427652",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.399664",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.172684",
+          "age": "45-54",
+          "gender": "male"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "4000",
+        "upper_bound": "4999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "0.029469",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.00278",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.007506",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.038643",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.006116",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.035585",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.002502",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.015291",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.016403",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.007228",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.148735",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.002224",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.00139",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.04754",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.083125",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.215457",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.080901",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.115096",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.11593",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.028079",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "2449247758623448",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-11",
+    "結束日期": "2019-11-12",
+    "廣告內容": "國民黨總統參選搭檔「韓張配」出爐，一早陪同 #賴清德前院長、#陳柏惟立委候選人 前往沙鹿義聖宮參拜時，媒體記者特別問我的看法。 我對於韓國瑜提名張善政前院長為副手搭檔，一樣都表示尊重立場。但 #國民黨近年選舉老是把張善政搬出來為政策背書，跳票的紀錄也不計其數，尤其是中部人最在乎的「#空污問題」，這些國民黨縣市首長一整年過去，自豪的空污改善，市民幾乎「#無感」。我想，人民對他們信任度已經大打折扣！ 而韓國瑜這一年來，高雄執政毫無成績，上任三個月就跑去競選總統，頻頻無釐頭發言，老是要國政團張善政來替他善後，時常失言與自爆也不是辦法，副總統候選人不應該只是每天幫總統候選人擦屁股，希望他們能認真地提出政策牛肉，而不是滿嘴天方夜譚，期盼接下來大家來一場君子之爭，祝福！ #常常背書也常常跳票",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/75258498_2490364831016883_8684994781039820800_n.jpg?_nc_cat=101&_nc_ohc=WpNsC-0oaJsAQnZ58_wCnuMF7xbPXus7JljJKJz2Sc6eZ8pC3uuZMb-KQ&_nc_ht=scontent-hkg3-1.xx&oh=e905ebbdabee68efb3d0f5ffeb6541ba&oe=5E893B2C",
+    "廣告詳情": {
+      "ad_creative_body": "國民黨總統參選搭檔「韓張配」出爐，一早陪同 #賴清德前院長、#陳柏惟立委候選人 前往沙鹿義聖宮參拜時，媒體記者特別問我的看法。\n\n我對於韓國瑜提名張善政前院長為副手搭檔，一樣都表示尊重立場。但 #國民黨近年選舉老是把張善政搬出來為政策背書，跳票的紀錄也不計其數，尤其是中部人最在乎的「#空污問題」，這些國民黨縣市首長一整年過去，自豪的空污改善，市民幾乎「#無感」。我想，人民對他們信任度已經大打折扣！\n\n而韓國瑜這一年來，高雄執政毫無成績，上任三個月就跑去競選總統，頻頻無釐頭發言，老是要國政團張善政來替他善後，時常失言與自爆也不是辦法，副總統候選人不應該只是每天幫總統候選人擦屁股，希望他們能認真地提出政策牛肉，而不是滿嘴天方夜譚，期盼接下來大家來一場君子之爭，祝福！\n\n#常常背書也常常跳票",
+      "ad_creation_time": "2019-11-11T10:04:29+0000",
+      "ad_delivery_start_time": "2019-11-11T10:04:29+0000",
+      "ad_delivery_stop_time": "2019-11-12T10:04:29+0000",
+      "currency": "USD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.47842",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.276873",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.244707",
+          "age": "25-34",
+          "gender": "male"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "6000",
+        "upper_bound": "6999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "0.023407",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.001221",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.007735",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.043558",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.003867",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.040708",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.004274",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.01669",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.010177",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.005903",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.19194",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.002442",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001018",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.048036",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.077549",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.195196",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.071036",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.108081",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.126399",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.020761",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "2544518898960266",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-25",
+    "結束日期": "2019-12-04",
+    "廣告內容": "您好！我是立法院副院長蔡其昌，台中清水人，也是三個孩子的爸。有什麼需要我們服務的地方，不要客氣，寫個訊息告訴我吧！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/72565232_390359295238660_8791323508270432256_n.jpg?_nc_cat=110&_nc_ohc=fDltJwlw8d0AQmiLpgFEqGG0OcQw6GxVFC8VJtxqVS59uyhzdNVrtKQcg&_nc_ht=scontent-hkg3-1.xx&oh=1747bc48d0d2d175a9a97c7cac6e7408&oe=5E4197DA",
+    "廣告詳情": {
+      "ad_creative_body": "您好！我是立法院副院長蔡其昌，台中清水人，也是三個孩子的爸。有什麼需要我們服務的地方，不要客氣，寫個訊息告訴我吧！",
+      "ad_creation_time": "2019-10-26T02:24:23+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "曾經在30歲擔任最年輕的局處首長，也曾經在自認人生的高峰重摔了一跤，酸甜苦辣點滴在心頭。但其昌始終堅信上帝為你關閉一扇門，必會爲你開啟另一扇窗！\n",
+      "ad_creative_link_title": "蔡其昌",
+      "ad_delivery_start_time": "2019-10-26T02:24:23+0000",
+      "ad_delivery_stop_time": "2020-01-30T19:12:58+0000",
+      "currency": "USD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.143985",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.252375",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.25764",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.346",
+          "age": "18-24",
+          "gender": "male"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "0.028143",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.003064",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.007944",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.045506",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.006355",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.04108",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.003745",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.01305",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.014753",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.007603",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.149569",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.001362",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001702",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.057535",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.075806",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.204607",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.077508",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.111439",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.124376",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.024852",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "3140807545993670",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-16",
+    "結束日期": "2019-11-19",
+    "廣告內容": "#讓國會過半，蔡英文才能執政更順暢！ 大選倒數最後55天，其昌除了按部就班持續傾聽鄉親的聲音，爭取更多地方建設外，也啟動了「蔡其昌繼續拚」300場村里座談與客廳會，向鄉親報告這三年多來，#小英政府與其昌分別推動了什麼政策與建設！ 但是其昌知道，如果立法院沒有足夠的立委席次，我們的施政將會變得窒礙難行，尤其是我們看到國民黨的不分區立委，裡面充斥著支持港警暴力毆打學生的人、去中國聽習近平訓話的人等離譜名單，我更要站出來支持我現在與未來的立院同事，只要有空檔就為他們站台助講。因為，#每一席都是國會過半的關鍵，希望大家能夠為我們，也為小英總統、為民進黨再拼一次，拜託！ 苗栗 選做事的人．羅貴星 台中 洪慈庸 台中 3Q 陳柏惟 台中 堅持．張廖萬堅 雲林 劉建國 台中 莊競程 有志者是競程 新北 蘇巧慧 #我做事你分享 #曾經也是最強麥克風手",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/72191370_2502169986503034_8441161980043067392_n.jpg?_nc_cat=102&_nc_ohc=c3E8Q7gmnQwAQnvZUzhWhUL2IUZBiMDdoG6SENDey4-YurAvHtznfnTYw&_nc_ht=scontent-hkg3-1.xx&oh=406e767687af4b6730c0596caad83d99&oe=5E73D30E",
+    "廣告詳情": {
+      "ad_creative_body": "#讓國會過半，蔡英文才能執政更順暢！\n\n大選倒數最後55天，其昌除了按部就班持續傾聽鄉親的聲音，爭取更多地方建設外，也啟動了「蔡其昌繼續拚」300場村里座談與客廳會，向鄉親報告這三年多來，#小英政府與其昌分別推動了什麼政策與建設！\n\n但是其昌知道，如果立法院沒有足夠的立委席次，我們的施政將會變得窒礙難行，尤其是我們看到國民黨的不分區立委，裡面充斥著支持港警暴力毆打學生的人、去中國聽習近平訓話的人等離譜名單，我更要站出來支持我現在與未來的立院同事，只要有空檔就為他們站台助講。因為，#每一席都是國會過半的關鍵，希望大家能夠為我們，也為小英總統、為民進黨再拼一次，拜託！\n\n苗栗 選做事的人．羅貴星\n台中 洪慈庸\n台中 3Q 陳柏惟\n台中 堅持．張廖萬堅\n雲林 劉建國\n台中 莊競程 有志者是競程\n新北 蘇巧慧\n\n#我做事你分享\n#曾經也是最強麥克風手",
+      "ad_creation_time": "2019-11-16T18:44:23+0000",
+      "ad_delivery_start_time": "2019-11-16T18:44:23+0000",
+      "ad_delivery_stop_time": "2019-11-19T08:53:46+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.00015",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.089252",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00015",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.005594",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.041255",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.007891",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.029418",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.017581",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.110478",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "5.0E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.136899",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.258416",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.03651",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.052243",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.213615",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00015",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00035",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "克斯 蔡",
+      "impressions": {
+        "lower_bound": "30000",
+        "upper_bound": "34999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "0.025506",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.000842",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.015799",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.03249",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.005101",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.02937",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.003417",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.016691",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.012976",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.007132",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.134664",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.002476",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001634",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.047695",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.129513",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.231935",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.084543",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.074786",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.121836",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.021594",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1500",
+        "upper_bound": "1999"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "431899900828162",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-16",
+    "結束日期": "2019-12-06",
+    "廣告內容": "您好！我是立法院副院長蔡其昌，台中人，也是三個孩子的爸爸，三度被評選為優秀立委，商業周刊評為台灣好立委。有什麼需要我們服務的地方，不要客氣，告訴我吧！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78101183_431900087494810_9179557138438029312_n.jpg?_nc_cat=104&_nc_ohc=nzqfs4sZcN8AQmfMnoBmODuK7ZKvMxv0s4H1oQRZjg-YQAt71BUta6Cfg&_nc_ht=scontent-hkg3-1.xx&oh=4926624f1420c2699472f16db7782711&oe=5E6EB261",
+    "廣告詳情": {
+      "ad_creative_body": "您好！我是立法院副院長蔡其昌，台中人，也是三個孩子的爸爸，三度被評選為優秀立委，商業周刊評為台灣好立委。有什麼需要我們服務的地方，不要客氣，告訴我吧！",
+      "ad_creation_time": "2019-11-16T09:00:13+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "曾經在30歲擔任最年輕的局處首長，也曾經在自認人生的高峰重摔了一跤，酸甜苦辣點滴在心頭。但其昌始終堅信上帝為你關閉一扇門，必會爲你開啟另一扇窗！\n",
+      "ad_creative_link_title": "蔡其昌",
+      "ad_delivery_start_time": "2019-11-16T09:00:29+0000",
+      "ad_delivery_stop_time": "2020-01-31T09:00:29+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.082331",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.069142",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00074",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000257",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000885",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000129",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000676",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.093444",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.121606",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.076219",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.084486",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.042685",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.132157",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.094876",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.089504",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.05285",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.057916",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "9.7E-5",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "克斯 蔡",
+      "impressions": {
+        "lower_bound": "150000",
+        "upper_bound": "174999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "0.000565",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.001255",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.011307",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.034312",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.006681",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.035394",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.003403",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.014035",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.015149",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "9.4E-5",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.009174",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.028055",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.003576",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.002493",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.043016",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.115781",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.144463",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.094845",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.095598",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.153606",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.159659",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.027538",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "2698609323531303",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-18",
+    "結束日期": "2019-11-19",
+    "廣告內容": "被稱最強副院長組合 #雙其淋  今天我們不唱倔強了啦！ 自從上回我和陳其邁合體演唱五月天的「倔強」，兩人合唱如同五重唱的搭配，隔日馬上宣布解散，各自單飛。沒想到已經單飛八個月，昨天為了莊競程、蘇巧慧，我和邁邁再度合體，站台不唱歌反而搞得像脱口秀，下台被觀眾笑我們是「#被政治耽誤的藝人」，不知道該哭還是該笑欸！蘇巧慧莊競程 有志者是競程 #以後有機會再合體啦 #希望大家多捧場",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/77026491_2505962916123741_8168735996913909760_n.jpg?_nc_cat=103&_nc_ohc=wy444dwWdlkAQkk1q-5IXN2w_DDPdP_BBAlkgrC3ehp9LmFTM-sOWThPw&_nc_ht=scontent-hkg3-1.xx&oh=20d3dc5cefa3591b37c3db63391fc037&oe=5E84F9D9",
+    "廣告詳情": {
+      "ad_creative_body": "被稱最強副院長組合 #雙其淋 \n今天我們不唱倔強了啦！\n\n自從上回我和陳其邁合體演唱五月天的「倔強」，兩人合唱如同五重唱的搭配，隔日馬上宣布解散，各自單飛。沒想到已經單飛八個月，昨天為了莊競程、蘇巧慧，我和邁邁再度合體，站台不唱歌反而搞得像脱口秀，下台被觀眾笑我們是「#被政治耽誤的藝人」，不知道該哭還是該笑欸！\n\n蘇巧慧\n莊競程 有志者是競程\n\n#以後有機會再合體啦\n#希望大家多捧場",
+      "ad_creation_time": "2019-11-18T13:03:42+0000",
+      "ad_delivery_start_time": "2019-11-18T13:03:42+0000",
+      "ad_delivery_stop_time": "2019-11-19T13:03:22+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.208331",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.010329",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000135",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "6.8E-5",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00027",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000203",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000135",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.006211",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.068791",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.086681",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.033214",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.157497",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.038952",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.089111",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.019375",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.24276",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.037805",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000135",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "克斯 蔡",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "0.025236",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.001012",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.01444",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.032119",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.006073",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.028677",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.003104",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.017881",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.012618",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.00668",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.134076",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.002767",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001957",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.045547",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.12058",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.245209",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.083671",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.079015",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.119096",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.020243",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "725296884639905",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-17",
+    "結束日期": "2019-11-18",
+    "廣告內容": "香港人的惶恐與不安 #相信台灣人不會視而不見！ 　　 香港的情勢演變至今，除了是中國曾對香港民主進程做出承諾，卻遲遲沒有實現外，更出現嚴重倒退的現象。港警的暗黑暴力、解放軍的介入，都使得香港人惶恐不安！ 　　 台灣人會用最大的決心，來守護民主和自由的價值，我們也會支持香港人對民主自由的追求。 #這幾天越看越難過",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76944514_2504560792930620_3115397031149961216_n.jpg?_nc_cat=110&_nc_ohc=cD14vln21iwAQmL2FdwvPGZgErlL2UZth2FB1eVjPiPprEudCoMXL3PVQ&_nc_ht=scontent-hkg3-1.xx&oh=548c269b53820c03ebb3e561612fb2b4&oe=5E725233",
+    "廣告詳情": {
+      "ad_creative_body": "香港人的惶恐與不安 #相信台灣人不會視而不見！\n　　\n香港的情勢演變至今，除了是中國曾對香港民主進程做出承諾，卻遲遲沒有實現外，更出現嚴重倒退的現象。港警的暗黑暴力、解放軍的介入，都使得香港人惶恐不安！\n　　\n台灣人會用最大的決心，來守護民主和自由的價值，我們也會支持香港人對民主自由的追求。\n\n#這幾天越看越難過",
+      "ad_creation_time": "2019-11-17T20:17:03+0000",
+      "ad_delivery_start_time": "2019-11-17T20:17:03+0000",
+      "ad_delivery_stop_time": "2019-11-18T20:16:52+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000145",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.02871",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000145",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000145",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000506",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.036592",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.006798",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.046717",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.090975",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000145",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.027119",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.154831",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.053804",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.013596",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.240671",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.215432",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.083454",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000217",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "克斯 蔡",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "0.024581",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.000791",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.015884",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.027097",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.005103",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.027959",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.003378",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.014878",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.011284",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.007906",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.144757",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.002372",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001941",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.036513",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.119241",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.224394",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.084669",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.087903",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.140804",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.018544",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1500",
+        "upper_bound": "1999"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "275696033355482",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-19",
+    "結束日期": "2019-11-20",
+    "廣告內容": "傾聽中台灣鄉親最大期待 #台中國際機場升級 台中國際機場升級、改善更新，一直都是中台灣鄉親最大的盼望。看到小英總統對台中國際機場的投資，也是投資中台灣的發展與未來；相信升級後的台中國際機場，不僅能照顧中部民眾的需求，也能吸引更多的觀光人潮，方便商務往來，#讓中台灣的經濟更加活絡。 我與小英總統都知道，中台灣是台灣產業發展的關鍵，台中國際機場升級就是台灣競爭力升級。這天，參加航廈整體改善工程開工動土，代表台灣邁向升級的「起手式」。台中國際機場有非常具體且明確的發展方向，#以國際標竿機場的規格，推動國際的新航廈及民用跑道等各項建設，我在中央會持續監督進度，期待台中國際機場越來越好。 #投資台中一定不會後悔 #我做事您分享",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78434628_2508541422532557_3741831201116127232_n.jpg?_nc_cat=110&_nc_ohc=sUQCnUjgnSUAQlHlVeInivE-NLabFJRux30n4aRkbYNKvc0p701tPjCUg&_nc_ht=scontent-hkg3-1.xx&oh=b8f24452093c96cebf6b66ecee7da31e&oe=5E8C3CB2",
+    "廣告詳情": {
+      "ad_creative_body": "傾聽中台灣鄉親最大期待 #台中國際機場升級\n\n台中國際機場升級、改善更新，一直都是中台灣鄉親最大的盼望。看到小英總統對台中國際機場的投資，也是投資中台灣的發展與未來；相信升級後的台中國際機場，不僅能照顧中部民眾的需求，也能吸引更多的觀光人潮，方便商務往來，#讓中台灣的經濟更加活絡。\n\n我與小英總統都知道，中台灣是台灣產業發展的關鍵，台中國際機場升級就是台灣競爭力升級。這天，參加航廈整體改善工程開工動土，代表台灣邁向升級的「起手式」。台中國際機場有非常具體且明確的發展方向，#以國際標竿機場的規格，推動國際的新航廈及民用跑道等各項建設，我在中央會持續監督進度，期待台中國際機場越來越好。\n\n#投資台中一定不會後悔\n#我做事您分享",
+      "ad_creation_time": "2019-11-19T17:08:14+0000",
+      "ad_delivery_start_time": "2019-11-19T17:08:14+0000",
+      "ad_delivery_stop_time": "2019-11-20T17:07:58+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.465545",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.258301",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.276154",
+          "age": "45-54",
+          "gender": "male"
+        }
+      ],
+      "funding_entity": "克斯 蔡",
+      "impressions": {
+        "lower_bound": "20000",
+        "upper_bound": "24999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "0.028926",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.000892",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.007263",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.044982",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.005097",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.043198",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.003313",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.018222",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.013699",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "6.4E-5",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.007391",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.191717",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.002931",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001593",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.045301",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.088181",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.191207",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.08028",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.108187",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.095126",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.022428",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1500",
+        "upper_bound": "1999"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "3317160004991842",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-20",
+    "結束日期": "2019-11-22",
+    "廣告內容": "#大台中大團結 「八席全上、台中全贏」 今天，其昌與立法院問政能力最強、最有戰鬥力的同事 張廖萬堅、黃國書、何欣純 台中阿純、洪慈庸，以及未來立法院即戰力 莊競程 有志者是競程、陳柏惟、翁美春。我們八人齊心聯合登記造勢，展現大台中大團結的氣勢，並且設定「八席全上、台中全贏」的目標，期盼台中市民明年大選，總統支持蔡英文，立法委員支持我們八位捍衛台灣主權、關懷弱勢、重視基層的候選人，也透過選票教訓信口開河、強推親中立委名單的國民黨與韓國瑜。 其昌堅信，#團結就是力量，惟有大台中大團結，才能鞏固現有立委連任基礎，同時帶領著夥伴們衝鋒陷陣，才能突破現狀。我們每一個候選人都必需讓自己的能量外溢，互相提升彼此，互相支援不足，才有辦法朝向「八席全上、台中全贏」的目標前進。 我相信，我們可以的！ #八席全上台中全贏 #一個都不能少",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/75233624_2509947995725233_2787338401060225024_n.jpg?_nc_cat=107&_nc_ohc=AltQKaQcOHEAQmyD_msaeuQ22iprvN2KpfWdTEXMksx2Iv3HR9USDBldg&_nc_ht=scontent-hkg3-1.xx&oh=0dab1dcf1374d9abd34cdc194a53b922&oe=5E7F1932",
+    "廣告詳情": {
+      "ad_creative_body": "#大台中大團結 「八席全上、台中全贏」\n\n今天，其昌與立法院問政能力最強、最有戰鬥力的同事 張廖萬堅、黃國書、何欣純 台中阿純、洪慈庸，以及未來立法院即戰力 莊競程 有志者是競程、陳柏惟、翁美春。我們八人齊心聯合登記造勢，展現大台中大團結的氣勢，並且設定「八席全上、台中全贏」的目標，期盼台中市民明年大選，總統支持蔡英文，立法委員支持我們八位捍衛台灣主權、關懷弱勢、重視基層的候選人，也透過選票教訓信口開河、強推親中立委名單的國民黨與韓國瑜。\n\n其昌堅信，#團結就是力量，惟有大台中大團結，才能鞏固現有立委連任基礎，同時帶領著夥伴們衝鋒陷陣，才能突破現狀。我們每一個候選人都必需讓自己的能量外溢，互相提升彼此，互相支援不足，才有辦法朝向「八席全上、台中全贏」的目標前進。\n\n我相信，我們可以的！\n\n#八席全上台中全贏\n#一個都不能少",
+      "ad_creation_time": "2019-11-20T08:32:53+0000",
+      "ad_delivery_start_time": "2019-11-20T08:32:53+0000",
+      "ad_delivery_stop_time": "2019-11-22T08:32:42+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.310348",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.168074",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.291168",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000464",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.077525",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.069853",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.029544",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.041547",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.009033",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001516",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000835",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "9.3E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "克斯 蔡",
+      "impressions": {
+        "lower_bound": "45000",
+        "upper_bound": "49999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "6.0E-5",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.006948",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.009365",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.041205",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.005226",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.036311",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.003293",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.015376",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.011449",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.001269",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.003444",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.029121",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.001661",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.043682",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.0941",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.166934",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.079963",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.101562",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.129444",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.189892",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.029695",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "3000",
+        "upper_bound": "3499"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "2446178602316579",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-19",
+    "結束日期": "2019-11-21",
+    "廣告內容": "「八席全上、台中全贏」台中市聯合登記",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78120287_2446179398983166_1631854050813149184_n.jpg?_nc_cat=102&_nc_ohc=49M9_bRrA5kAQl9lt4xpdc3Tk9vMNUajWWrpZotwDupiiJ8U6B8sN1eog&_nc_ht=scontent-hkg3-1.xx&oh=bbe8bd10f823b094a874f98d4e8b1efe&oe=5E715C82",
+    "廣告詳情": {
+      "ad_creative_body": "「八席全上、台中全贏」台中市聯合登記",
+      "ad_creation_time": "2019-11-20T02:55:32+0000",
+      "ad_delivery_start_time": "2019-11-20T02:55:32+0000",
+      "ad_delivery_stop_time": "2019-11-21T17:49:30+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "9.9E-5",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.035945",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000165",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.004369",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.036574",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.015722",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00758",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.024493",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.095853",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000132",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.232417",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.047926",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.128852",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.086354",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.283156",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "9.9E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000232",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "3.3E-5",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "克斯 蔡",
+      "impressions": {
+        "lower_bound": "50000",
+        "upper_bound": "59999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "0.02651",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.00086",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.010657",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.032699",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.004733",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.028198",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.003343",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.016217",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.015125",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.007083",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.115009",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.002184",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.002052",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.048254",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.117789",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.287043",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.077644",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.080589",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.10657",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.017442",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2500",
+        "upper_bound": "2999"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "569595137184877",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-21",
+    "結束日期": "2019-11-22",
+    "廣告內容": "推動台泰觀光 #蔡其昌獲頒泰國湄大榮譽博士 其昌今獲泰國湄州大學校長Weerapon Thongma頒贈觀光發展榮譽博士學位，我特地穿著一身博士裝接受授證。這個學位不只是對我個人的肯定，也希望未來能透過榮譽博士的身分，#讓兩國間的情誼更加緊密；尤其台泰間有諸多互動往來，盼未來台商在泰國的投資，也能跟學術界做更緊密的結合。 泰國湄洲大學認為其昌任內 #積極協助觀光產業解決問題，包括吸引東南亞觀光客的觀宏專案如何再擴大效果、解決東南亞語系導遊不足問題、推動政府補助旅遊政策、清真認證等等，提升台灣觀光產業的競爭力。 湄州大學過去曾經授予榮譽博士給國立中興大學前校長蕭介夫、國立嘉義大學前校長李明仁、及國立屏東科技大學前校長古源光。其昌則為 #首位獲此獎項的台灣政治人物。",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/74219005_2513186015401431_6840350621405544448_n.jpg?_nc_cat=104&_nc_ohc=NJFX7tRUVpgAQmraYVohVjMnQbtja9Y50DdvixcnfpzCuF2JRmovDLFfg&_nc_ht=scontent-hkg3-1.xx&oh=b93143c288c6eafa47d89b76b7f519ef&oe=5E40E4D5",
+    "廣告詳情": {
+      "ad_creative_body": "推動台泰觀光 #蔡其昌獲頒泰國湄大榮譽博士\n\n其昌今獲泰國湄州大學校長Weerapon Thongma頒贈觀光發展榮譽博士學位，我特地穿著一身博士裝接受授證。這個學位不只是對我個人的肯定，也希望未來能透過榮譽博士的身分，#讓兩國間的情誼更加緊密；尤其台泰間有諸多互動往來，盼未來台商在泰國的投資，也能跟學術界做更緊密的結合。\n\n泰國湄洲大學認為其昌任內 #積極協助觀光產業解決問題，包括吸引東南亞觀光客的觀宏專案如何再擴大效果、解決東南亞語系導遊不足問題、推動政府補助旅遊政策、清真認證等等，提升台灣觀光產業的競爭力。\n\n湄州大學過去曾經授予榮譽博士給國立中興大學前校長蕭介夫、國立嘉義大學前校長李明仁、及國立屏東科技大學前校長古源光。其昌則為 #首位獲此獎項的台灣政治人物。",
+      "ad_creation_time": "2019-11-21T18:17:46+0000",
+      "ad_delivery_start_time": "2019-11-21T18:17:46+0000",
+      "ad_delivery_stop_time": "2019-11-22T18:17:30+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.197296",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.032679",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "9.4E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "9.4E-5",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "9.4E-5",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000188",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00047",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.007231",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.010611",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.254954",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.025354",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.052118",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.03944",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.040849",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.083764",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.112874",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.141797",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "9.4E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "克斯 蔡",
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "0.025932",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.001208",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.014871",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.028627",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.004275",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.026489",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.002324",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.015243",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.012826",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.0079",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.137373",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.002602",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001952",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.041268",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.125755",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.233572",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.081606",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.080026",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.133841",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.022307",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1500",
+        "upper_bound": "1999"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "555340215287347",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-22",
+    "結束日期": "2019-11-23",
+    "廣告內容": "盧秀燕市長，難道您以為台中人會像被韓國瑜欺騙的高雄人一樣，#被你們一騙再騙嗎？ 今天，得知盧秀燕市長來到海線指責蔡政府製造空污，我相信所有台中市民都不會忘記她「市長換人、空氣換新」的承諾，當時她甚至拉著張善政前院長與國民黨立委們來背書，如今台中人對這位「#滿意度吊車尾的市長」已經充滿憤怒，空污遲遲不見改善，#盧市長還好意思將空污責任與問題推給別人？ 我說過，中央早已經規劃打造較低污染的「燃氣」機組來取代「高污染燃煤」機組，而原本的燃煤機組將停機作為「緊急用途」。就如同人們從蠟燭照明到有了電燈泡，我們有了電燈泡還是會放蠟燭以備不時之需。 沒想到盧市長一再政治操作，利用話術胡亂指控，一再阻止中央政府將「高污染燃煤」機組換成較低污染的「燃氣機組」。大家都很清楚，中火污染遲遲無法改善的真正元兇，#就是國民黨與盧秀燕市長。 #台中人不會一再受騙上當",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/71289732_2516667238386642_5365193873951817728_n.jpg?_nc_cat=104&_nc_ohc=MN-M-RuPXHAAQnL4O1OGNgo-xPeRsJEZZhwspojbRbrPM_SwaGsAhXODg&_nc_ht=scontent-hkg3-1.xx&oh=be3efdad6c20836d6d334031d753f20a&oe=5E8A151F",
+    "廣告詳情": {
+      "ad_creative_body": "盧秀燕市長，難道您以為台中人會像被韓國瑜欺騙的高雄人一樣，#被你們一騙再騙嗎？\n\n今天，得知盧秀燕市長來到海線指責蔡政府製造空污，我相信所有台中市民都不會忘記她「市長換人、空氣換新」的承諾，當時她甚至拉著張善政前院長與國民黨立委們來背書，如今台中人對這位「#滿意度吊車尾的市長」已經充滿憤怒，空污遲遲不見改善，#盧市長還好意思將空污責任與問題推給別人？\n\n我說過，中央早已經規劃打造較低污染的「燃氣」機組來取代「高污染燃煤」機組，而原本的燃煤機組將停機作為「緊急用途」。就如同人們從蠟燭照明到有了電燈泡，我們有了電燈泡還是會放蠟燭以備不時之需。\n\n沒想到盧市長一再政治操作，利用話術胡亂指控，一再阻止中央政府將「高污染燃煤」機組換成較低污染的「燃氣機組」。大家都很清楚，中火污染遲遲無法改善的真正元兇，#就是國民黨與盧秀燕市長。\n\n#台中人不會一再受騙上當",
+      "ad_creation_time": "2019-11-23T07:53:53+0000",
+      "ad_delivery_start_time": "2019-11-23T07:53:53+0000",
+      "ad_delivery_stop_time": "2019-11-24T07:53:40+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.007522",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.032729",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000224",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000224",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000493",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "4.5E-5",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.016253",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.036982",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.091426",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.221983",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.077681",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.028296",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.070831",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.032998",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.173002",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.209044",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000269",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "克斯 蔡",
+      "impressions": {
+        "lower_bound": "30000",
+        "upper_bound": "34999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "0.024727",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.000898",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.013463",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.028362",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.004936",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.0276",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.003186",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.01463",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.012745",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.00745",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.136831",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.002558",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.002199",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.04214",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.116142",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.242786",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.080375",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.082574",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.137055",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.019342",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "3000",
+        "upper_bound": "3499"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "435608677126698",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-24",
+    "結束日期": "2019-11-25",
+    "廣告內容": "#台中最強艦隊將全面啟航 打擊詐騙集團 這天，是我們2020蔡英文總統連任大台中競選總部成立的日子，其昌與蘇嘉全院長、林佳龍部長，以及張廖萬堅、黃國書、何欣純、洪慈庸、莊競程、陳柏惟、翁美春等八位立委候選人將組成「台中最強艦隊」，進攻這群有親中立委名單、頻頻唬爛台灣人的 #國民黨詐騙集團。 如果您厭倦了韓國瑜、盧秀燕、親中立委集團不停地唬爛詐騙，請把您的選票 #投給蔡英文與民進黨推薦的立委候選人，不要認為無法翻轉他們，只要 #蔡英文一票、#民進黨立委一票，就能鞏固現任的立委席次，突破艱困選區的環境，讓他們反敗為勝。 今天，我在台上演講時特別點名「施政滿意度倒數第二名的盧秀燕市長」，#妳日前已經為空氣污染改善失敗在市議會向台中市民道歉，我甚至在媒體上肯定妳願意反省，並期盼妳能夠與中央儘速合作推動較低污染的燃氣機組進場取代「高污染燃煤機組」。沒想到，#虛偽的假道歉在選舉期間馬上顯露，妳與國民黨集團又是推給中央，想藉由話術來政治操作中火議題，抹黑攻擊我和政府，妳大街小巷掛滿「市長換人、空氣換新」的承諾跳票後，現在又喊出「#總統換韓國瑜、空氣才清新」，妳們真當我們台中市民都是笨蛋嗎？ 妳們就繼續讓我們海線鄉親飽受空污折磨，我向妳保證「#我們海線鄉親一定會用選票教訓妳們這群無賴！」堅持．張廖萬堅3Q 陳柏惟黃國書何欣純洪慈庸翁美春莊競程 有志者是競程 #盧市長妳就繼續抹黑造謠 #韓國瑜騙不夠盧秀燕繼續騙",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76901735_2519936978059668_510861633732476928_n.jpg?_nc_cat=110&_nc_ohc=qva3FdTdMxIAQlZB4x36otVWOG891_ek8u7x72t-JPrTeTII2LbHznW_w&_nc_ht=scontent-hkg3-1.xx&oh=b079e9c3bddfb7078865443486cc65d5&oe=5E879586",
+    "廣告詳情": {
+      "ad_creative_body": "#台中最強艦隊將全面啟航 打擊詐騙集團\n\n這天，是我們2020蔡英文總統連任大台中競選總部成立的日子，其昌與蘇嘉全院長、林佳龍部長，以及張廖萬堅、黃國書、何欣純、洪慈庸、莊競程、陳柏惟、翁美春等八位立委候選人將組成「台中最強艦隊」，進攻這群有親中立委名單、頻頻唬爛台灣人的 #國民黨詐騙集團。\n\n如果您厭倦了韓國瑜、盧秀燕、親中立委集團不停地唬爛詐騙，請把您的選票 #投給蔡英文與民進黨推薦的立委候選人，不要認為無法翻轉他們，只要 #蔡英文一票、#民進黨立委一票，就能鞏固現任的立委席次，突破艱困選區的環境，讓他們反敗為勝。\n\n今天，我在台上演講時特別點名「施政滿意度倒數第二名的盧秀燕市長」，#妳日前已經為空氣污染改善失敗在市議會向台中市民道歉，我甚至在媒體上肯定妳願意反省，並期盼妳能夠與中央儘速合作推動較低污染的燃氣機組進場取代「高污染燃煤機組」。沒想到，#虛偽的假道歉在選舉期間馬上顯露，妳與國民黨集團又是推給中央，想藉由話術來政治操作中火議題，抹黑攻擊我和政府，妳大街小巷掛滿「市長換人、空氣換新」的承諾跳票後，現在又喊出「#總統換韓國瑜、空氣才清新」，妳們真當我們台中市民都是笨蛋嗎？\n\n妳們就繼續讓我們海線鄉親飽受空污折磨，我向妳保證「#我們海線鄉親一定會用選票教訓妳們這群無賴！」\n\n堅持．張廖萬堅\n3Q 陳柏惟\n黃國書\n何欣純\n洪慈庸\n翁美春\n莊競程 有志者是競程\n\n#盧市長妳就繼續抹黑造謠\n#韓國瑜騙不夠盧秀燕繼續騙",
+      "ad_creation_time": "2019-11-24T16:29:35+0000",
+      "ad_delivery_start_time": "2019-11-24T16:29:35+0000",
+      "ad_delivery_stop_time": "2019-11-25T16:29:12+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.236604",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.03626",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000111",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000167",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000111",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "5.6E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000555",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.006663",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.032206",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.164973",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.010384",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.080626",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.065911",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.023932",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.089067",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.212172",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.040147",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "5.6E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "克斯 蔡",
+      "impressions": {
+        "lower_bound": "25000",
+        "upper_bound": "29999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "0.025219",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.000662",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.013907",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.029082",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.004856",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.027813",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.002759",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.015507",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.012692",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.00745",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.138789",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.002373",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.00149",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.045196",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.124828",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.252745",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.080238",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.076265",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.11815",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.019977",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1500",
+        "upper_bound": "1999"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "2524266837687897",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-23",
+    "結束日期": "2019-11-24",
+    "廣告內容": "台中競總正式啟動！團結鼓舞 精彩可期！ 歷經千呼萬喚，2020蔡英文台中競選總部今天終於成立！ 今天的舞台準備了許多精彩有趣的表演，各位辣台派快邀請親朋好友作夥來看！也歡迎大家踴躍留言，一起為台灣加油！ #2020小英要贏 #英德勝利 #贏得勝利 #蔡英文 #賴清德 #台中全壘打 #台中競選總部",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78612787_2524266874354560_1112728874233364480_n.jpg?_nc_cat=111&_nc_ohc=sfpfgexpGioAQmm_Iubajb3YLli8b8vi6luOXO9RW2qJ_We-bIpPJH5kw&_nc_ht=scontent-hkg3-1.xx&oh=0641ecc20488bb53f47cb048516ae26e&oe=5E7C64EA",
+    "廣告詳情": {
+      "ad_creative_body": "台中競總正式啟動！團結鼓舞 精彩可期！\n \n歷經千呼萬喚，2020蔡英文台中競選總部今天終於成立！\n今天的舞台準備了許多精彩有趣的表演，各位辣台派快邀請親朋好友作夥來看！也歡迎大家踴躍留言，一起為台灣加油！\n \n#2020小英要贏\n#英德勝利 #贏得勝利\n#蔡英文 #賴清德\n#台中全壘打\n#台中競選總部",
+      "ad_creation_time": "2019-11-24T07:26:22+0000",
+      "ad_creative_link_title": "台中競總正式啟動！團結鼓舞 精彩可期！",
+      "ad_delivery_start_time": "2019-11-24T07:26:22+0000",
+      "ad_delivery_stop_time": "2019-11-25T07:26:09+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.358712",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.391735",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.081438",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.117974",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.009709",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.007026",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.021461",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.011625",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000192",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000128",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "克斯 蔡",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "6.4E-5",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.011004",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.00627",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.089694",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.012219",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.075939",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.007165",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.020536",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.018105",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.002751",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.001471",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.047214",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.002239",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.08803",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.072676",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.169983",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.06212",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.109782",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.028469",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.159043",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.015226",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "2592120837572983",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-24",
+    "結束日期": "2019-11-30",
+    "廣告內容": "民視跟著「海線一哥」蔡其昌 跑漁港、下芋頭田深耕基層 台中市第一選區立法院副院長蔡其昌力拚立委三連霸，蔡其昌勤耕基層、服務紮實，甚至被媒體封為立院「最強立委」，讓我們看看蔡其昌是如何在風頭水尾的海線地區，建立起雄厚的基層實力！ 我們跟著蔡其昌從傍晚跑漁港，晚上下芋頭田吃芋頭米粉，還殺到國道三號橋下最偏遠的太白里開座談會，現場觀察蔡其昌對在地農漁業的深耕實力。 #2020大選 #越晚越政治 #民進黨 #蔡其昌 #農業 #漁業",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78622662_2592120860906314_6197473615823241216_n.jpg?_nc_cat=104&_nc_ohc=jH5SwBS49gcAQmJNtixO15jgtUrq_eJdcrEEEvvRM9uN4P8rOiJFYynlw&_nc_ht=scontent-hkg3-1.xx&oh=572a669a59f21c4f2ac03ee4635e1293&oe=5E895FB0",
+    "廣告詳情": {
+      "ad_creative_body": "民視跟著「海線一哥」蔡其昌 跑漁港、下芋頭田深耕基層\n\n台中市第一選區立法院副院長蔡其昌力拚立委三連霸，蔡其昌勤耕基層、服務紮實，甚至被媒體封為立院「最強立委」，讓我們看看蔡其昌是如何在風頭水尾的海線地區，建立起雄厚的基層實力！\n\n我們跟著蔡其昌從傍晚跑漁港，晚上下芋頭田吃芋頭米粉，還殺到國道三號橋下最偏遠的太白里開座談會，現場觀察蔡其昌對在地農漁業的深耕實力。\n\n#2020大選 #越晚越政治 #民進黨 #蔡其昌 #農業 #漁業",
+      "ad_creation_time": "2019-11-25T06:46:04+0000",
+      "ad_creative_link_title": "蔡其昌｜民視跟著「海線一哥」蔡其昌 跑漁港、下芋頭田深耕基層",
+      "ad_delivery_start_time": "2019-11-25T06:46:04+0000",
+      "ad_delivery_stop_time": "2019-11-30T23:54:20+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.189614",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.010097",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000131",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000131",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000918",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000262",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.003672",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.027669",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.004065",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.059664",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.052452",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.024653",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.065303",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.283373",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.018752",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.259114",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000131",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "克斯 蔡",
+      "impressions": {
+        "lower_bound": "7000",
+        "upper_bound": "7999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "0.028713",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.001044",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.011485",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.034064",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.006134",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.026494",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.003002",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.014879",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.015401",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.007178",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.111981",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.001305",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.000783",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.046985",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.104411",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.307361",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.074263",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.079483",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.107022",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.018011",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "300",
+        "upper_bound": "399"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "2463905583860869",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-24",
+    "結束日期": "2019-11-25",
+    "廣告內容": "香港有史以來最震撼大選，泛民主派大獲全勝！ 持續超過5個月的反送中運動，讓香港政局一夜翻盤。 11月24日，香港舉行第六屆區議會選舉，創下71.2％超高投票率，代表親中勢力的建制派慘敗，僅拿下452席次中的35席，比上屆少了267席，失去議會主導權。泛民主派則大獲全勝，一舉囊括304席，取得壓倒性優勢，也將影響下屆特首選舉，#儼然是史上最大反中海嘯！ 我想，香港人上街頭既然政府聽不見，那他們就透過選票來教訓這群親中傀儡，#透過史上最大海嘯淹沒了他們。而在台灣，大家等著看好了，#這群國民黨親中集團，很快就會順著香港海嘯民意發表一連串大轉彎的言論，過去他們有鼓勵政府教訓港人的，有坐在中國聽習近平訓話的，有進到中聯辦國旗就不見的，#下一波就是全面下架他們吧！ #台灣加油台中加油",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76771516_2520610154659017_2202900133551538176_n.jpg?_nc_cat=111&_nc_ohc=VrRQeref2MsAQmGPcHQW8whB2G3kxtJjdc-jQI72xKv029DrdvCkyw0tQ&_nc_ht=scontent-hkg3-1.xx&oh=b37260c698a8c12af4ff6aa5beccc3ee&oe=5E80F896",
+    "廣告詳情": {
+      "ad_creative_body": "香港有史以來最震撼大選，泛民主派大獲全勝！\n\n持續超過5個月的反送中運動，讓香港政局一夜翻盤。 11月24日，香港舉行第六屆區議會選舉，創下71.2％超高投票率，代表親中勢力的建制派慘敗，僅拿下452席次中的35席，比上屆少了267席，失去議會主導權。泛民主派則大獲全勝，一舉囊括304席，取得壓倒性優勢，也將影響下屆特首選舉，#儼然是史上最大反中海嘯！\n\n我想，香港人上街頭既然政府聽不見，那他們就透過選票來教訓這群親中傀儡，#透過史上最大海嘯淹沒了他們。而在台灣，大家等著看好了，#這群國民黨親中集團，很快就會順著香港海嘯民意發表一連串大轉彎的言論，過去他們有鼓勵政府教訓港人的，有坐在中國聽習近平訓話的，有進到中聯辦國旗就不見的，#下一波就是全面下架他們吧！\n\n#台灣加油台中加油",
+      "ad_creation_time": "2019-11-24T23:55:29+0000",
+      "ad_delivery_start_time": "2019-11-24T23:55:29+0000",
+      "ad_delivery_stop_time": "2019-11-25T23:55:12+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.145678",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.108048",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.108234",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.16766",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.114195",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.216841",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00503",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.05775",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.062966",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.009314",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001677",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001118",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001118",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000373",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "克斯 蔡",
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "0.021615",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.002956",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.007944",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.027342",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.007205",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.02457",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.003325",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.011639",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.015888",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.000369",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.012562",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.136708",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.00351",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001108",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.039719",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.087382",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.213375",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.08923",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.098467",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.167375",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.027711",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "638499730016970",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-26",
+    "結束日期": "2019-11-28",
+    "廣告內容": "「市長換人、空氣換新」的國民黨詐騙共犯集團終於現身！ 去年，盧秀燕市長在台中市大街小巷掛滿了「市長換人、空氣換新」的看板，這兩天在媒體上看到炒作中火議題的台中市國民黨立委、議員們，個個強力背書，結果騙到選票後，現在變成「總統換韓國瑜、空氣才能清新」。國民黨不論是韓國瑜還是盧秀燕，都一再的透過這種欺騙人民的話術，「選前通通交給我，選後都別人的錯」，#台中市民還會再受騙上當嗎？ 30年前，同意在台中興建全世界規模最大火力發電廠的政府是誰？#是國民黨政府。 在台中火力發電廠一次興建八座機組，又追加兩座，成為全世界最大空污來源的政府是誰？#也是國民黨政府。 阻止台中火力發電廠「高污染燃煤機組」改為較低污染「燃氣機組」的元兇是誰？#還是盧秀燕與國民黨。 如今，#盧秀燕與國民黨這個詐騙共犯集團除了把責任推到中央外，我們看不到有任何改善台中市空氣品質的「具體措施」。整天開記者會罵中央，甚至不惜再騙台中人「#總統換韓國瑜、#空氣就能清新」。 #從你們國民黨在我的家鄉海線地區興建火力發電廠，我長期對抗你們製造的污染，無論我的身分是什麼，都沒有改變過。 我再講一次！我主張： 1、中火機組不能增加，淘汰最舊的燃煤設備，支持政府逐步將「高污染燃煤機組」換成較低污染的「燃天然氣機組」。 2、在不停電的前提下，請盧市長趕快完成「市長換人、空氣換新」的政治承諾。 否則，等著瞧！台中人不是傻子，一定用選票制裁你們國民黨這些貪得無厭、一騙再騙的詐騙集團。 #台中市最大規模詐騙集團 #不想再被騙的請用力分享",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76722806_2525637397489626_2760242268433547264_n.jpg?_nc_cat=104&_nc_ohc=qIjRFtxnc4gAQlBJ2JnJir0nE8YXnkS3BCyVb9rtssHmzUBBiC7S9rIEQ&_nc_ht=scontent-hkg3-1.xx&oh=240456184d03fbc103e30ae434d5c9e0&oe=5E7DF198",
+    "廣告詳情": {
+      "ad_creative_body": "「市長換人、空氣換新」的國民黨詐騙共犯集團終於現身！\n\n去年，盧秀燕市長在台中市大街小巷掛滿了「市長換人、空氣換新」的看板，這兩天在媒體上看到炒作中火議題的台中市國民黨立委、議員們，個個強力背書，結果騙到選票後，現在變成「總統換韓國瑜、空氣才能清新」。國民黨不論是韓國瑜還是盧秀燕，都一再的透過這種欺騙人民的話術，「選前通通交給我，選後都別人的錯」，#台中市民還會再受騙上當嗎？\n\n30年前，同意在台中興建全世界規模最大火力發電廠的政府是誰？#是國民黨政府。\n\n在台中火力發電廠一次興建八座機組，又追加兩座，成為全世界最大空污來源的政府是誰？#也是國民黨政府。\n\n阻止台中火力發電廠「高污染燃煤機組」改為較低污染「燃氣機組」的元兇是誰？#還是盧秀燕與國民黨。\n\n如今，#盧秀燕與國民黨這個詐騙共犯集團除了把責任推到中央外，我們看不到有任何改善台中市空氣品質的「具體措施」。整天開記者會罵中央，甚至不惜再騙台中人「#總統換韓國瑜、#空氣就能清新」。\n\n#從你們國民黨在我的家鄉海線地區興建火力發電廠，我長期對抗你們製造的污染，無論我的身分是什麼，都沒有改變過。\n\n我再講一次！我主張：\n1、中火機組不能增加，淘汰最舊的燃煤設備，支持政府逐步將「高污染燃煤機組」換成較低污染的「燃天然氣機組」。\n\n2、在不停電的前提下，請盧市長趕快完成「市長換人、空氣換新」的政治承諾。\n\n否則，等著瞧！台中人不是傻子，一定用選票制裁你們國民黨這些貪得無厭、一騙再騙的詐騙集團。\n\n#台中市最大規模詐騙集團\n#不想再被騙的請用力分享",
+      "ad_creation_time": "2019-11-27T05:43:33+0000",
+      "ad_delivery_start_time": "2019-11-27T05:43:33+0000",
+      "ad_delivery_stop_time": "2019-11-29T05:43:14+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.185187",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.089332",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.078328",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.037533",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.267386",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.206106",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.051016",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.037533",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.025225",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.018962",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000522",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000522",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001044",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000304",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "克斯 蔡",
+      "impressions": {
+        "lower_bound": "25000",
+        "upper_bound": "29999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "4.3E-5",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.008626",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.009661",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.028336",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.005219",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.033684",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.002976",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.013068",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.010179",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.000819",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.002674",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.023419",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.001768",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.038471",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.088157",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.179979",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.080436",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.104373",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.159579",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.185543",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.022988",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2000",
+        "upper_bound": "2499"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "2781520098535763",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-28",
+    "結束日期": "2019-11-29",
+    "廣告內容": "大家晚安！ ❓猜猜其昌帶賴清德副總統剛去哪裡參觀了呢？沒錯，就是位於清水的熱門親子打卡景點——#海灣繪本館📚。現在，我們倆正在大甲街仔迺夜市，填飽我們叫得不停的肚子🥡，歡迎大家樓上揪樓下、阿公揪孫子一起來逗熱鬧！🙆🏼‍♂️🙆🏼‍♀️ #清水逛海灣繪本館 #大甲街仔迺夜市 #歡迎分享",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78873372_1411942765648005_7322758809766592512_n.jpg?_nc_cat=100&_nc_ohc=c4gNt-tbKzcAQkgHO-TAtSODtpGSuc0ArggTnBV8GUtUo58kM7KfGhRhw&_nc_ht=scontent-hkg3-1.xx&oh=a452bbfb3c6faa9ad9b5d185ddfe9125&oe=5E730DEC",
+    "廣告詳情": {
+      "ad_creative_body": "大家晚安！\n\n❓猜猜其昌帶賴清德副總統剛去哪裡參觀了呢？沒錯，就是位於清水的熱門親子打卡景點——#海灣繪本館📚。現在，我們倆正在大甲街仔迺夜市，填飽我們叫得不停的肚子🥡，歡迎大家樓上揪樓下、阿公揪孫子一起來逗熱鬧！🙆🏼‍♂️🙆🏼‍♀️\n\n#清水逛海灣繪本館\n#大甲街仔迺夜市\n#歡迎分享",
+      "ad_creation_time": "2019-11-28T10:45:34+0000",
+      "ad_delivery_start_time": "2019-11-28T10:45:34+0000",
+      "ad_delivery_stop_time": "2019-11-29T10:45:23+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.309111",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.083305",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.328388",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.047972",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.028305",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.137036",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.005271",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.010346",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.044654",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.004831",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000342",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000244",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000195",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "克斯 蔡",
+      "impressions": {
+        "lower_bound": "20000",
+        "upper_bound": "24999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "0.041628",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.002785",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.019641",
+          "region": "Hsinchu City"
+        },
+        {
+          "percentage": "0.01026",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.060146",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.008795",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.059071",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.00601",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.020667",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.019837",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.0107",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.131187",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.002492",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.003176",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.083158",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.102164",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.175307",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.070455",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.125959",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.046416",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.000147",
+          "region": "Lienchiang"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "469136083731966",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-28",
+    "結束日期": "2019-11-29",
+    "廣告內容": "賴清德如果變胖，我一定也有責任😂 今天清德來到咱們清水、大甲，我想海線人已經用熱情告訴他，我們很感謝清德在擔任行政院長期間對海線地區鄉親的照顧，#尤其是無自來水地區接管改善，大甲、大安、外埔、清水、梧棲，都可以看到其昌在立院爭取，賴清德院長全力支持的成果。尤其許多自來水接管率從10%大幅提升到90%的村莊，這些，我們都感念在心！ #清水逛海灣繪本館 #大甲街仔迺夜市",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78229534_2528452983874734_418934906802929664_n.jpg?_nc_cat=108&_nc_ohc=MvXZC0pLPBEAQnFrbiy1imBkYvCPqXlFZobrDKexUCFeFETgK3V8hyxxA&_nc_ht=scontent-hkg3-1.xx&oh=d1dd7d4b751218192afe19cbe9ca382f&oe=5E85035F",
+    "廣告詳情": {
+      "ad_creative_body": "賴清德如果變胖，我一定也有責任😂\n\n今天清德來到咱們清水、大甲，我想海線人已經用熱情告訴他，我們很感謝清德在擔任行政院長期間對海線地區鄉親的照顧，#尤其是無自來水地區接管改善，大甲、大安、外埔、清水、梧棲，都可以看到其昌在立院爭取，賴清德院長全力支持的成果。尤其許多自來水接管率從10%大幅提升到90%的村莊，這些，我們都感念在心！\n\n#清水逛海灣繪本館\n#大甲街仔迺夜市",
+      "ad_creation_time": "2019-11-28T10:40:46+0000",
+      "ad_delivery_start_time": "2019-11-28T10:40:46+0000",
+      "ad_delivery_stop_time": "2019-11-29T10:40:30+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.241711",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.054439",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00014",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00014",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000281",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000211",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.006462",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.036949",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.020792",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.22401",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.010607",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.103259",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.039899",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.079657",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.027887",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.153484",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "7.0E-5",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "克斯 蔡",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "0.026325",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.001059",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.01595",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.029642",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.005293",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.030348",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.002964",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.01708",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.013904",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.006564",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.134801",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.001835",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.002258",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.042346",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.122592",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.232197",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.085327",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.081798",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.129014",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.018703",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1500",
+        "upper_bound": "1999"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "574093180019629",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-27",
+    "結束日期": "2019-11-28",
+    "廣告內容": "午安，吃飽了嗎？面對國民黨這個大型詐騙集團，有親中立委名單、支持黑警毆打港人的不分區、欺騙台中人空氣會換新的市長、阻止火力發電廠汰舊換新等等惡劣行為，其昌與卓榮泰主席特別與北北屯立委候選人莊競程，透過這個午餐直播，分享我們的想法！ #民主進步黨 #小林雞肉飯",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78864788_445644649688569_2181094554524975104_n.jpg?_nc_cat=105&_nc_ohc=-YB2iW7cK7YAQmgzqI_L-eSBJFEdWydyIDnA0uZnHV9w6y8kLoJheBhSA&_nc_ht=scontent-hkg3-1.xx&oh=b3d910986ba058b038fde3fc111967b1&oe=5E89632D",
+    "廣告詳情": {
+      "ad_creative_body": "午安，吃飽了嗎？大家對於國民黨有親中立委名單、支持黑警毆打港人的不分區、欺騙台中人空氣會換新的民代，都很氣憤。其昌與卓榮泰主席特別與北北屯立委候選人莊競程，透過這個午餐直播與大家聊聊吧\n\n#民主進步黨\n#小林雞肉飯",
+      "ad_creation_time": "2019-11-28T04:30:33+0000",
+      "ad_delivery_start_time": "2019-11-28T04:30:33+0000",
+      "ad_delivery_stop_time": "2019-11-29T04:30:19+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.381345",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.042959",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.312562",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.033873",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.176032",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.01748",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.026664",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.003012",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.004098",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001679",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "9.9E-5",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "4.9E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "4.9E-5",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "4.9E-5",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "4.9E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "克斯 蔡",
+      "impressions": {
+        "lower_bound": "20000",
+        "upper_bound": "24999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "0.040694",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.005269",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.008831",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.059913",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.012394",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.062773",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.008029",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.022329",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.023534",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.000401",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.012795",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.133072",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.002609",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001907",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.075418",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.094536",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.159015",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.08179",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.121883",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.052988",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.01982",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "630978147438555",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-28",
+    "結束日期": "2019-11-29",
+    "廣告內容": "賴清德參觀清水海灣繪本館 #直呼很感動 副總統候選人賴清德今天在其昌陪同下，來到台中市清水區參觀海灣繪本館，賴清德說 #他今天才知道蔡其昌有溫柔的一面，當孩子王為孩子付出，投入資源將老舊眷村改建成海灣繪本館。 海灣繪本館成立2年多，是清水老舊眷村改建，供民眾捐款認養繪本，開放親子使用，假日舉辦說故事、辦展覽，也讓更多海線孩子到此看書、看展，提升藝文氣息。 賴清德說，#蔡其昌是民進黨立法院第一戰將，今天到此才知道蔡其昌也有溫柔的一面，為孩子做事，成為孩子王，將老舊眷村改建成海灣繪本館，很令人感動！ 他呼籲支持者要讓其昌為大家做更多事，一定要先讓其昌當選，相信大家都認為當選沒問題，#但票一定要投下去才算術。 #台灣最熱門親子打卡點之一 #感謝大家支持",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/77238859_2530241450362554_155292681549905920_n.jpg?_nc_cat=102&_nc_ohc=HkdM1JbyHJgAQmhm4He_hSb9IrH6rC_ZzfmsjZB0zwfi8jbbuNHwPWgbA&_nc_ht=scontent-hkg3-1.xx&oh=7b1bc436a9ac1f5ec0ec57f29b307d4c&oe=5E803A24",
+    "廣告詳情": {
+      "ad_creative_body": "賴清德參觀清水海灣繪本館 #直呼很感動\n\n副總統候選人賴清德今天在其昌陪同下，來到台中市清水區參觀海灣繪本館，賴清德說 #他今天才知道蔡其昌有溫柔的一面，當孩子王為孩子付出，投入資源將老舊眷村改建成海灣繪本館。\n\n海灣繪本館成立2年多，是清水老舊眷村改建，供民眾捐款認養繪本，開放親子使用，假日舉辦說故事、辦展覽，也讓更多海線孩子到此看書、看展，提升藝文氣息。\n\n賴清德說，#蔡其昌是民進黨立法院第一戰將，今天到此才知道蔡其昌也有溫柔的一面，為孩子做事，成為孩子王，將老舊眷村改建成海灣繪本館，很令人感動！\n\n他呼籲支持者要讓其昌為大家做更多事，一定要先讓其昌當選，相信大家都認為當選沒問題，#但票一定要投下去才算術。\n\n#台灣最熱門親子打卡點之一\n#感謝大家支持",
+      "ad_creation_time": "2019-11-29T05:34:54+0000",
+      "ad_delivery_start_time": "2019-11-29T05:34:54+0000",
+      "ad_delivery_stop_time": "2019-11-30T05:34:39+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.051902",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.148022",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.251071",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.105442",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.211892",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.037919",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.040186",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.02973",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.079869",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.023558",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.011464",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.008188",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000126",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000126",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000504",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "克斯 蔡",
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "0.025939",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.001406",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.015461",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.029261",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.004983",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.030667",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.001917",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.016484",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.013033",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.006261",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.138129",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.002044",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.0023",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.042167",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.123051",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.238053",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.080629",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.079862",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.127524",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.020828",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "498940814046084",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-01",
+    "結束日期": "2019-12-02",
+    "廣告內容": "國民黨護航親中吳斯懷 台灣人民忍無可忍！ 近期，許多朋友發起 #全面下架吳斯懷，因為台灣人民無法接受前往中國聽習近平訓話的親中將領吳斯懷在 #中國國民黨 的護航之下進入了國民黨不分區安全名單。 身為立法院副院長，我們擔憂這樣的親中將領進入立法院之後，未來所有國家機密預算與報告審查時，台灣的國家安全又要如何自保？因此，#下架吳斯懷 活動，我接受 洪慈庸 與 莊競程 有志者是競程 的點名，呼籲中國國民黨懸崖勒馬，下架不分區吳斯懷等親中立場明顯的立委提名人，否則台灣人民就 #全面下架中國國民黨。 #全面下架護航親中立委的國民黨",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78321649_2533320660054633_9206626985864855552_n.jpg?_nc_cat=105&_nc_ohc=SQRgx6vfUDEAQnQg6ih8ySji7ONUIfp1QDSA_uyQvRKRrnkuokC8KD7iQ&_nc_ht=scontent-hkg3-1.xx&oh=927a9cd492d388e9125e8a5905d8827a&oe=5E3FF1DE",
+    "廣告詳情": {
+      "ad_creative_body": "國民黨護航親中吳斯懷 台灣人民忍無可忍！\n\n近期，許多朋友發起 #全面下架吳斯懷，因為台灣人民無法接受前往中國聽習近平訓話的親中將領吳斯懷在 #中國國民黨 的護航之下進入了國民黨不分區安全名單。\n\n身為立法院副院長，我們擔憂這樣的親中將領進入立法院之後，未來所有國家機密預算與報告審查時，台灣的國家安全又要如何自保？因此，#下架吳斯懷 活動，我接受 洪慈庸 與 莊競程 有志者是競程 的點名，呼籲中國國民黨懸崖勒馬，下架不分區吳斯懷等親中立場明顯的立委提名人，否則台灣人民就 #全面下架中國國民黨。\n\n#全面下架護航親中立委的國民黨",
+      "ad_creation_time": "2019-12-01T12:31:43+0000",
+      "ad_delivery_start_time": "2019-12-01T12:31:43+0000",
+      "ad_delivery_stop_time": "2019-12-02T12:31:31+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.211751",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.062983",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.104554",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.275395",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.030732",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.036746",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.142489",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.019496",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.062124",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.049964",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000925",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000661",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00033",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00152",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00033",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "克斯 蔡",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "0.022765",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.000662",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.022037",
+          "region": "Hsinchu City"
+        },
+        {
+          "percentage": "0.010191",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.026008",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.005228",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.029515",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.002912",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.011647",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.00986",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.007544",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.186884",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.001588",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001059",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.032758",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.099729",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.162531",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.084243",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.102111",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.180597",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.000132",
+          "region": "Lienchiang"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "2599866913574687",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-01",
+    "結束日期": "2019-12-02",
+    "廣告內容": "蔡其昌再爭取5000萬 梧棲、清水自來水老舊管線全面更新 鄉親讚「#無自來水救星！」 我們梧棲及清水自來管線，是依據當時民國80年間用水情況，僅佈設管徑50 ~150公釐塑膠管，#已埋設已達20年以上。管線老舊且已逾使用年限、加上電力、瓦斯等各項工程不斷挖修及重車長期碾壓，致區域管線漏水嚴重，地方鄉親一直困擾不已，如今終於在其昌爭取下獲得5000萬改善，#蔡其昌累積為海線地區爭取超過10億元改善沒自來水窘境！ 「#讓人民有乾淨健康的自來水使用！」是我從事政治工作以來的重要使命，自來水老舊管線汰舊換新使自來水水壓、水質更加穩定，#漏水率降低讓台灣水資源更能受到保護。施工期間可能造成交通不便請鄉親見諒，另外我們也鼓勵，若有新用戶在施工期間申裝自來水可減少路修費支出，我們會請各里里長來向里民協助宣導。 為有效降低梧棲及清水區漏水率，預計將梧棲區興美七街、清水區中央路、菁埔路、三田路及臨港路五短等 #破管率高且老舊之自來水塑膠管汰換為石墨鑄鐵自來水管，口徑100mm之自來水管線4319公尺及200mm之自來水管線3554公尺，合計共7873公尺，#工程經費約4687萬元，#共655戶超過千人受惠，#預計109年10月完工。 #繼續拚蔡其昌 #我做事你分享",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/77158684_2533422056711160_3152252321610596352_n.jpg?_nc_cat=103&_nc_ohc=bBVQY-A2Ka4AQmMfx-L0SPThLsYk-rR2pxy8S6qPcFkh7WA1xPiok8vMw&_nc_ht=scontent-hkg3-1.xx&oh=99aba44f523df6a3fdfa1c94a9cf259f&oe=5E6CCFE1",
+    "廣告詳情": {
+      "ad_creative_body": "蔡其昌再爭取5000萬 梧棲、清水自來水老舊管線全面更新 鄉親讚「#無自來水救星！」\n\n我們梧棲及清水自來管線，是依據當時民國80年間用水情況，僅佈設管徑50 ~150公釐塑膠管，#已埋設已達20年以上。管線老舊且已逾使用年限、加上電力、瓦斯等各項工程不斷挖修及重車長期碾壓，致區域管線漏水嚴重，地方鄉親一直困擾不已，如今終於在其昌爭取下獲得5000萬改善，#蔡其昌累積為海線地區爭取超過10億元改善沒自來水窘境！\n\n「#讓人民有乾淨健康的自來水使用！」是我從事政治工作以來的重要使命，自來水老舊管線汰舊換新使自來水水壓、水質更加穩定，#漏水率降低讓台灣水資源更能受到保護。施工期間可能造成交通不便請鄉親見諒，另外我們也鼓勵，若有新用戶在施工期間申裝自來水可減少路修費支出，我們會請各里里長來向里民協助宣導。\n\n為有效降低梧棲及清水區漏水率，預計將梧棲區興美七街、清水區中央路、菁埔路、三田路及臨港路五短等 #破管率高且老舊之自來水塑膠管汰換為石墨鑄鐵自來水管，口徑100mm之自來水管線4319公尺及200mm之自來水管線3554公尺，合計共7873公尺，#工程經費約4687萬元，#共655戶超過千人受惠，#預計109年10月完工。\n\n#繼續拚蔡其昌\n#我做事你分享",
+      "ad_creation_time": "2019-12-01T12:31:00+0000",
+      "ad_delivery_start_time": "2019-12-01T12:31:00+0000",
+      "ad_delivery_stop_time": "2019-12-02T12:30:47+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.039081",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.045524",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.114022",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.26331",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.251526",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.158274",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.022889",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.010173",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.04688",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.046711",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000848",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00017",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000339",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "8.5E-5",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00017",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "克斯 蔡",
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "0.028447",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.000767",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.020015",
+          "region": "Hsinchu City"
+        },
+        {
+          "percentage": "0.010732",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.031599",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.005366",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.036198",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.003577",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.015075",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.011328",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.006473",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.168384",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.001789",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001448",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.040116",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.104931",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.220765",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.07955",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.096499",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.116855",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "8.5E-5",
+          "region": "Lienchiang"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "793993654398262",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-01",
+    "結束日期": "2019-12-02",
+    "廣告內容": "「八席全上、台中全贏」我們繼續拚！ 這週，跑了一百多個行程，持續會勘爭取建設，持續村里座談會與鄉親對話，還有為我最重要的夥伴們站台助講，甚至掃街拜票。因為國會沒過半，小英政府的施政都可能會跛腳，盼望大家給民進黨的候選人機會，拜託！ 而我，會努力做好我這四年來每一天都在做的事，爭取地方建設也不會因為選舉而停擺，因為四年前海線鄉親用超過六成的選票「挺，做事的人！」。這一次，我們一樣沒有花俏、浮誇的口號，就是「#繼續拚」，不論大環境好壞，目標就是要超越蔡其昌，才能稱為一個進步的團隊！堅持．張廖萬堅莊競程 有志者是競程何欣純 台中阿純翁美春 #繼續拚蔡其昌 #希望大家繼續支持民進黨 #感謝楊典忠後援會 #感謝農漁民後援會 #感謝地政士後援會",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78128646_2535520616501304_5876022732788858880_n.jpg?_nc_cat=107&_nc_ohc=_WPUNVjtCfMAQk5NFGE23_x5CZuthPoLrw5S_KbZg2Uk9282X6VYjkU3A&_nc_ht=scontent-hkg3-1.xx&oh=eaf9d6ac8aa950a884427b6173ac2d2e&oe=5E7A26D9",
+    "廣告詳情": {
+      "ad_creative_body": "「八席全上、台中全贏」我們繼續拚！\n\n這週，跑了一百多個行程，持續會勘爭取建設，持續村里座談會與鄉親對話，還有為我最重要的夥伴們站台助講，甚至掃街拜票。因為國會沒過半，小英政府的施政都可能會跛腳，盼望大家給民進黨的候選人機會，拜託！\n\n而我，會努力做好我這四年來每一天都在做的事，爭取地方建設也不會因為選舉而停擺，因為四年前海線鄉親用超過六成的選票「挺，做事的人！」。這一次，我們一樣沒有花俏、浮誇的口號，就是「#繼續拚」，不論大環境好壞，目標就是要超越蔡其昌，才能稱為一個進步的團隊！\n\n堅持．張廖萬堅\n莊競程 有志者是競程\n何欣純 台中阿純\n翁美春\n\n#繼續拚蔡其昌\n#希望大家繼續支持民進黨\n#感謝楊典忠後援會\n#感謝農漁民後援會\n#感謝地政士後援會",
+      "ad_creation_time": "2019-12-01T12:27:13+0000",
+      "ad_delivery_start_time": "2019-12-01T12:27:13+0000",
+      "ad_delivery_stop_time": "2019-12-02T12:26:57+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.080882",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.251977",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.21848",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.103044",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.041735",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.039402",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.027447",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.179734",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.012867",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.042683",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000911",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000437",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000146",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000146",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000109",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "克斯 蔡",
+      "impressions": {
+        "lower_bound": "30000",
+        "upper_bound": "34999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "0.02887",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.001208",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.011307",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.044568",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.004318",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.03575",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.003257",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.016393",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.018698",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.00622",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.152292",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.002232",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001464",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.053057",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.099052",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.202166",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.083318",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.084599",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.113689",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.037543",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1500",
+        "upper_bound": "1999"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "2185521165089086",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-01",
+    "結束日期": "2019-12-02",
+    "廣告內容": "繼續做事！再爭取一億元 #投入大甲自來水老舊管線全面更新 台中市大甲區為重要觀光及宗教信仰聖地，尤其大甲鎮瀾宮每年湧進百萬信徒朝拜，但大甲市區管線已埋設20年以上，管線老舊且已逾使用年限，嚴重影響鄉親用水品質，其昌今再爭取一億元投入改善更新管線，#保障大甲鄉親有乾淨的自來水可用。 今天特別與自來水公司處長蕭淑貞、台中市議員施志昌及順天里里長陳威宇、平安里里長周寶惜、大甲里里長黃勝裕、文武里里長葉淑惠、新美里里長王生源與大甲區公所等於大甲信義路上召開「大甲區蔣公路、新政路等汰換管線說明會」，預計明年12月底前完工。 其昌特別強調，我們在上月在清水、梧棲會勘過爭取了五千萬來改善，今天更爭取到了一億元經費來全面汰換自來水老舊水管。過去裝的都是小管徑塑膠管老舊，我們努力從中央爭取全面來汰換，#這是我從政以來持續在推動的。 一方面除了延伸幹管，讓沒有自來水喝的民眾可以有自來水喝，二方面把老舊的管線加大換新，因為過去的小管徑塑膠管老舊，導致水壓常不足、外部污染水質，更嚴重的甚至造成地層下陷。因此，我會持續的推動，#讓自來水普及率持續提升，#讓地方漏水率持續下降。 #我做事你分享",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78754531_2537440666309299_1804392224352370688_n.jpg?_nc_cat=104&_nc_ohc=YT2c7QHUcA8AQlfeYuYBxOfO7ypVg39iTYakPtsjKNuLZbnLxtqzfDwbQ&_nc_ht=scontent-hkg3-1.xx&oh=159991b74a6632ff34695131fd0fbdc1&oe=5E71FCEA",
+    "廣告詳情": {
+      "ad_creative_body": "繼續做事！再爭取一億元 #投入大甲自來水老舊管線全面更新\n\n台中市大甲區為重要觀光及宗教信仰聖地，尤其大甲鎮瀾宮每年湧進百萬信徒朝拜，但大甲市區管線已埋設20年以上，管線老舊且已逾使用年限，嚴重影響鄉親用水品質，其昌今再爭取一億元投入改善更新管線，#保障大甲鄉親有乾淨的自來水可用。\n\n今天特別與自來水公司處長蕭淑貞、台中市議員施志昌及順天里里長陳威宇、平安里里長周寶惜、大甲里里長黃勝裕、文武里里長葉淑惠、新美里里長王生源與大甲區公所等於大甲信義路上召開「大甲區蔣公路、新政路等汰換管線說明會」，預計明年12月底前完工。\n\n其昌特別強調，我們在上月在清水、梧棲會勘過爭取了五千萬來改善，今天更爭取到了一億元經費來全面汰換自來水老舊水管。過去裝的都是小管徑塑膠管老舊，我們努力從中央爭取全面來汰換，#這是我從政以來持續在推動的。\n\n一方面除了延伸幹管，讓沒有自來水喝的民眾可以有自來水喝，二方面把老舊的管線加大換新，因為過去的小管徑塑膠管老舊，導致水壓常不足、外部污染水質，更嚴重的甚至造成地層下陷。因此，我會持續的推動，#讓自來水普及率持續提升，#讓地方漏水率持續下降。\n\n#我做事你分享",
+      "ad_creation_time": "2019-12-02T07:30:52+0000",
+      "ad_delivery_start_time": "2019-12-02T07:30:52+0000",
+      "ad_delivery_stop_time": "2019-12-03T07:30:38+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.054119",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.042798",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "9.2E-5",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "9.2E-5",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "9.2E-5",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00046",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.006719",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.040037",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.012241",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.206903",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.022826",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.028808",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.080258",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.240405",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.157754",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.106305",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "9.2E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "克斯 蔡",
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "0.023331",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.028218",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.002029",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.011712",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.006271",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.002029",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001937",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.02121",
+          "region": "Hsinchu City"
+        },
+        {
+          "percentage": "0.0154",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.0308",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.134452",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.017245",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.000922",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.040852",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.124585",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.243268",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.087329",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.083087",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.120159",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.005164",
+          "region": "Taitung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1500",
+        "upper_bound": "1999"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "721342198356850",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-02",
+    "結束日期": "2019-12-03",
+    "廣告內容": "泡泡X音樂x親子市集 日期：2019.12.7（六） 時間：14:30 開始 地點：沙鹿青山公園（北勢國中對面） 費用：免費報名參加 👉報名網址：https://reurl.cc/VaeaXZ 孩子可以聽故事、參加泡泡派對 也為家中一天天爆炸的小孩用品尋找新主人 未售出的商品也會統一代為捐贈慈善機構 歡迎小寶貝做頭家，報名一起來玩！ 精彩活動： 14:30-14:50 環保綠繪本講故事-明誼姐姐 14:50-15:10台語童謠帶動唱-文躍哥哥 15:10-15:20玩泡泡聊聊天-帶小孩不再是負擔-陳柏惟 15:20繪本抽獎 主辦單位：陳柏惟立委候選人服務處 協辦單位：立法院副院長蔡其昌服務處、楊典忠議員服務處 報名成功者將於12/6手機簡訊通知，請於活動當日13：30至服務台報到，14：30未報到將釋出空位給後補，有任何問題歡來電詢間：04-23377383。",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/79261964_721342221690181_1584614418489016320_n.jpg?_nc_cat=102&_nc_ohc=DrmRKFI2K0gAQlOVPFVk_HiPMN-ZFO3LOqa4yW4SzM3D4jsR4wtF1MSjw&_nc_ht=scontent-hkg3-1.xx&oh=645d3da7f93d5520dec44bb9b3fb0db4&oe=5E40FCED",
+    "廣告詳情": {
+      "ad_creative_body": "泡泡X音樂x親子市集\n日期：2019.12.7（六）\n時間：14:30 開始\n地點：沙鹿青山公園（北勢國中對面）\n費用：免費報名參加\n👉報名網址：https://reurl.cc/VaeaXZ\n\n孩子可以聽故事、參加泡泡派對\n也為家中一天天爆炸的小孩用品尋找新主人\n未售出的商品也會統一代為捐贈慈善機構\n歡迎小寶貝做頭家，報名一起來玩！\n\n精彩活動：\n14:30-14:50 環保綠繪本講故事-明誼姐姐\n14:50-15:10台語童謠帶動唱-文躍哥哥\n15:10-15:20玩泡泡聊聊天-帶小孩不再是負擔-陳柏惟\n15:20繪本抽獎\n\n主辦單位：陳柏惟立委候選人服務處\n協辦單位：立法院副院長蔡其昌服務處、楊典忠議員服務處\n\n報名成功者將於12/6手機簡訊通知，請於活動當日13：30至服務台報到，14：30未報到將釋出空位給後補，有任何問題歡來電詢間：04-23377383。",
+      "ad_creation_time": "2019-12-03T07:18:22+0000",
+      "ad_creative_link_caption": "3q小寶貝草地泡泡派對",
+      "ad_creative_link_description": "沙鹿青山公園",
+      "ad_creative_link_title": "3q小寶貝草地泡泡派對",
+      "ad_delivery_start_time": "2019-12-03T07:18:22+0000",
+      "ad_delivery_stop_time": "2019-12-04T07:18:07+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.069211",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.043023",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.02544",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.087916",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.144033",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.042649",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.125327",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.241676",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.056491",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.09465",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.01908",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.044519",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002619",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001496",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001496",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000374",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "克斯 蔡",
+      "impressions": {
+        "lower_bound": "3000",
+        "upper_bound": "3999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "0.01676",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.00149",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.010801",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.019367",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.004097",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.019367",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.000745",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.007449",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.008566",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.000372",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.011173",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.13743",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.00149",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.00149",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.035754",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.090503",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.32067",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.046182",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.068901",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.175419",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.021974",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "300",
+        "upper_bound": "399"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "552813408836227",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-04",
+    "結束日期": "2019-12-05",
+    "廣告內容": "從2014年開始的幸福親子藝文季邁入第6個年頭！發起人立法院副院長蔡其昌結合地方社區、社團聯合籌辦四個月的系列活動，每年都吸引將近十萬人次參加，堪稱台中最大規模親子盛會。今天在清水海灣繪本館舉行開幕活動，吸引超過上千位大人帶著小孩蒞臨同樂，未來每個週末陸續在台中海線地區安排多場劇團演出。",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/79725676_552830145501220_8876980506365788160_n.jpg?_nc_cat=111&_nc_ohc=79DqPCb-HDcAQkhmkRwtsuj1HRc5y9hdwRvs5au26idoL2df4f30QUEGQ&_nc_ht=scontent-hkg3-1.xx&oh=d84d012c2ee21d404f6f2e06aa6cdca2&oe=5E72A6B4",
+    "廣告詳情": {
+      "ad_creative_body": "從2014年開始的幸福親子藝文季邁入第6個年頭！發起人立法院副院長蔡其昌結合地方社區、社團聯合籌辦四個月的系列活動，每年都吸引將近十萬人次參加，堪稱台中最大規模親子盛會。今天在清水海灣繪本館舉行開幕活動，吸引超過上千位大人帶著小孩蒞臨同樂，未來每個週末陸續在台中海線地區安排多場劇團演出。",
+      "ad_creation_time": "2019-12-04T14:27:58+0000",
+      "ad_creative_link_caption": "2019幸福親子藝文季",
+      "ad_creative_link_description": "蔡其昌",
+      "ad_creative_link_title": "2019幸福親子藝文季",
+      "ad_delivery_start_time": "2019-12-04T14:27:58+0000",
+      "ad_delivery_stop_time": "2019-12-05T14:27:42+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.219854",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.161239",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.016183",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.064535",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.063154",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.049931",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.112295",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.060193",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.138741",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.049339",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.040655",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.021512",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000197",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001579",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000592",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "克斯 蔡",
+      "impressions": {
+        "lower_bound": "6000",
+        "upper_bound": "6999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "0.020198",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.000792",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.009703",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.02099",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.005347",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.018614",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.001386",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.010891",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.013663",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.007723",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.110891",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.001782",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001386",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.042772",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.084752",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.372079",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.056436",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.061386",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.140792",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.018416",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "600",
+        "upper_bound": "699"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "1192373440957161",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-04",
+    "結束日期": "2019-12-05",
+    "廣告內容": "孩子的事 #我們的事 一步一腳印，這些年來，#幸福親子藝文季 沒停過，就算經費出現困窘時，我也從沒想過要停辦。最近，很多爸爸媽媽突然開始私訊我，「副院長，我們全家現在才知道親子藝文季是您從頭推動至今，#很感謝讓海線偏鄉孩子也能看到這麼棒的親子劇團。」讓人很溫暖。 許多鄉親都知道，要支持做實事的人，而不是選舉到了才來一堆口號「發大財啦！」、「換人空氣換新啦！」，至少我從政這十多年來，受到鄉親的疼惜，我一直不忘努力為海線多做點事，除了基礎建設繼續拚以外，我更希望充實孩子的軟實力，#不要因為城鄉差距而有了藝術文化的距離。 最後38天，#繼續拚就對了！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78319683_2542573782462654_1939666647451172864_n.jpg?_nc_cat=111&_nc_ohc=-rzx4XQFYfwAQlDZsSilPKoS6rJd_rUe_SA1pMGJG__2tBM3z1sJdEHzQ&_nc_ht=scontent-hkg3-1.xx&oh=435a6351abd7f11ee98f0345ed4b7839&oe=5E80C8A1",
+    "廣告詳情": {
+      "ad_creative_body": "孩子的事 #我們的事\n\n一步一腳印，這些年來，#幸福親子藝文季 沒停過，就算經費出現困窘時，我也從沒想過要停辦。最近，很多爸爸媽媽突然開始私訊我，「副院長，我們全家現在才知道親子藝文季是您從頭推動至今，#很感謝讓海線偏鄉孩子也能看到這麼棒的親子劇團。」讓人很溫暖。\n\n許多鄉親都知道，要支持做實事的人，而不是選舉到了才來一堆口號「發大財啦！」、「換人空氣換新啦！」，至少我從政這十多年來，受到鄉親的疼惜，我一直不忘努力為海線多做點事，除了基礎建設繼續拚以外，我更希望充實孩子的軟實力，#不要因為城鄉差距而有了藝術文化的距離。\n\n最後38天，#繼續拚就對了！",
+      "ad_creation_time": "2019-12-04T12:34:57+0000",
+      "ad_delivery_start_time": "2019-12-04T12:34:57+0000",
+      "ad_delivery_stop_time": "2019-12-05T12:34:43+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.259204",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.009154",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.111542",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.21204",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.022189",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.142687",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.083682",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.041692",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.04607",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.042189",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.006567",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.022289",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000398",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.0001",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.0001",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.0001",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "克斯 蔡",
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "0.02512",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.000701",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.017514",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.032026",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.004904",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.029924",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.002802",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.018215",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.01231",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.007706",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.140713",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.001401",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001902",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.041433",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.120997",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.231986",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.086069",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.081966",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.120296",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.022018",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1500",
+        "upper_bound": "1999"
+      }
+    }
+  },
+  {
+    "選區": "臺中市第一選舉區",
+    "參選人": "蔡其昌",
+    "AD_ID": "560388317857554",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-05",
+    "結束日期": "2019-12-06",
+    "廣告內容": "盧秀燕空氣換新跳票 市府又成為 #國民黨競選總部 台中市長選舉才剛落幕一年，高雄與台中兩地市長，#韓國瑜馬上烙跑、#盧秀燕不斷跳票，市民譴責唾棄的同時，連應該維持行政中立的市政府，#都已經成為國民黨的競選總部。 #有花公帑辦活動置入國民黨候選人 #有已經登記參選還在領市府薪水跑攤 #有承諾空氣換新的開記者會推中央 #有利用公家資源印製選舉文宣的 這一幕幕荒唐的畫面，不要懷疑，已經在高雄和台中市不斷秀下限上演中。也許我們曾經努力過，也許我們曾經錯誤選擇過，但這一次，我想拜託大家，認真思考一下，這是我們要的政府嗎？#我們國家可以交給謊言不斷的韓國瑜嗎？",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79432832_2544499345603431_6044874660451975168_n.jpg?_nc_cat=101&_nc_ohc=oYqRJ8Pg2FcAQkfDBRhOmZWXDMn6K9S-Ii5KFk12NYHwX9DxBv8ElvI8Q&_nc_ht=scontent-hkg3-1.xx&oh=a739669aeb4cc24e873f8ed842affe75&oe=5E7A4830",
+    "廣告詳情": {
+      "ad_creative_body": "盧秀燕空氣換新跳票 市府又成為 #國民黨競選總部\n\n台中市長選舉才剛落幕一年，高雄與台中兩地市長，#韓國瑜馬上烙跑、#盧秀燕不斷跳票，市民譴責唾棄的同時，連應該維持行政中立的市政府，#都已經成為國民黨的競選總部。\n\n#有花公帑辦活動置入國民黨候選人\n#有已經登記參選還在領市府薪水跑攤\n#有承諾空氣換新的開記者會推中央\n#有利用公家資源印製選舉文宣的\n\n這一幕幕荒唐的畫面，不要懷疑，已經在高雄和台中市不斷秀下限上演中。也許我們曾經努力過，也許我們曾經錯誤選擇過，但這一次，我想拜託大家，認真思考一下，這是我們要的政府嗎？#我們國家可以交給謊言不斷的韓國瑜嗎？",
+      "ad_creation_time": "2019-12-05T17:15:34+0000",
+      "ad_delivery_start_time": "2019-12-05T17:15:34+0000",
+      "ad_delivery_stop_time": "2019-12-06T17:15:24+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.020174",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.028873",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.066815",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.03387",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.156765",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.106422",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.03461",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.057561",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.01129",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.221359",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.254858",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.006478",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000555",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000185",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000185",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "克斯 蔡",
+      "impressions": {
+        "lower_bound": "6000",
+        "upper_bound": "6999"
+      },
+      "page_id": "281219301931458",
+      "page_name": "蔡其昌",
+      "region_distribution": [
+        {
+          "percentage": "0.028109",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.001303",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.014892",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.027178",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.011541",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.005398",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.029598",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.002792",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.018057",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.012658",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.007818",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.133656",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.002234",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.00242",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.043001",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.11411",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.2379",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.078369",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.086746",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.119509",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.02271",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "600",
+        "upper_bound": "699"
+      }
+    }
+  }
+]

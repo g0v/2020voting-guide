@@ -62,6 +62,7 @@ type Bill struct {
 	BillCosignatoryString string      `json:"billCosignatoryString"`
 	BillStatus            string      `json:"billStatus"`
 	PdfURL                string      `json:"pdfUrl"`
+	DocURL                string      `json:"docUrl"`
 	CaseOfAction          string      `json:"caseOfAction"`
 	Vernacular            string      `json:"vernacular"`
 }
