@@ -1,8 +1,7 @@
-[
-    {
+[{
         "name": "國會政黨聯盟",
         "chairman": ["悟覺妙天禪師"],
-        "logo": "/img/party/tl.jpg",
+        "logo": "/img/party/tl.png",
         "voteNum": 0,
         "voteRate": "0%",
         "regionalLegislatorsNum": 0,
@@ -32,7 +31,7 @@
     {
         "name": "台灣基進",
         "chairman": ["陳奕齊"],
-        "logo": "/img/party/tg.jpg",
+        "logo": "/img/party/tg.png",
         "voteNum": 0,
         "voteRate": "0%",
         "regionalLegislatorsNum": 0,
@@ -71,7 +70,7 @@
     {
         "name": "勞動黨",
         "chairman": ["吳榮元"],
-        "logo": "/img/party/l.jpg",
+        "logo": "/img/party/l.png",
         "voteNum": 0,
         "voteRate": "0%",
         "regionalLegislatorsNum": 0,
@@ -124,7 +123,7 @@
     {
         "name": "台灣民眾黨",
         "chairman": ["柯文哲"],
-        "logo": "/img/party/tmd.jpg",
+        "logo": "/img/party/tmd.png",
         "voteNum": 0,
         "voteRate": "0%",
         "regionalLegislatorsNum": 0,
@@ -154,7 +153,7 @@
     {
         "name": "台澎黨",
         "chairman": ["鄭自才"],
-        "logo": "/img/party/tp.jpg",
+        "logo": "/img/party/tp.png",
         "voteNum": 0,
         "voteRate": "0%",
         "regionalLegislatorsNum": 0,
@@ -164,7 +163,7 @@
     {
         "name": "中華統一促進黨",
         "chairman": ["張馥堂"],
-        "logo": "/img/party/tt.jpg",
+        "logo": "/img/party/tt.png",
         "voteNum": 0,
         "voteRate": "0%",
         "regionalLegislatorsNum": 0,
@@ -174,7 +173,7 @@
     {
         "name": "喜樂島聯盟",
         "chairman": ["羅仁貴"],
-        "logo": "/img/party/shl.jpg",
+        "logo": "/img/party/shl.png",
         "voteNum": 0,
         "voteRate": "0%",
         "regionalLegislatorsNum": 0,
@@ -194,7 +193,7 @@
     {
         "name": "合一行動聯盟",
         "chairman": ["洪迦智"],
-        "logo": "/img/party/h1.jpg",
+        "logo": "/img/party/h1.png",
         "voteNum": 0,
         "voteRate": "0%",
         "regionalLegislatorsNum": 0,
@@ -204,7 +203,7 @@
     {
         "name": "一邊一國行動黨",
         "chairman": ["楊其文"],
-        "logo": "/img/party/11.jpg",
+        "logo": "/img/party/11.png",
         "voteNum": 0,
         "voteRate": "0%",
         "regionalLegislatorsNum": 0,
