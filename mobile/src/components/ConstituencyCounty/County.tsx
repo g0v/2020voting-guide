@@ -105,9 +105,6 @@ const RegionInfoRow = (props?: any) => {
     for (let i = 0; i < columnNum; i++) {
         const partyName: string = rowData[i];
 
-        // console.log('---partyName');
-        // console.log(partyName);
-
         const cellStyle: React.CSSProperties = (function() {
             if (partyName) {
                 const partyColor = PartyColorLookup[partyName];
@@ -134,22 +131,13 @@ const RegionInfoRow = (props?: any) => {
 };
 
 const RegionInfo = (props?: any) => {
-    const { allInfo, county, classes, infoData } = props;
-    // console.log('------1234r RegionInfo');
-    // console.log('-- county');
-    // console.log(county);
-    // console.log('-- allInfo');
-    // console.log(allInfo);
-    // console.log('-- infoData');
-    // console.log(infoData);
+    const { classes, infoData } = props;
     const columnNum = infoData.length;
     const rowNum =  Math.max.apply(Math,infoData.map((d: any) => d['party'].length));
 
     const rows = [];
     for (let i = 0; i < rowNum; i++) {
         const rowData = infoData.map((d: any) => d['party'][i]);
-        // console.log('------rowData');
-        // console.log(rowData);
 
         const rowStyle = (i !== 0) ? {} : { marginBottom: '4px' };
 
@@ -214,6 +202,7 @@ type BreakpointOrNull = Breakpoint | null;
  * breakpoints. See https://reactjs.org/docs/hooks-rules.html#only-call-hooks-at-the-top-level
  */
 function useWidth() {
+  // from https://material-ui.com/zh/components/use-media-query/#%E8%BF%81%E5%BE%99%E8%87%AA-withwidth
   const theme: Theme = useTheme();
   const keys: Breakpoint[] = [...theme.breakpoints.keys].reverse();
   return (
@@ -228,9 +217,7 @@ function useWidth() {
 function useListItemContainerWidth() {
     const [ width, setWidth ] = useState<string | null>(`0px`);
     const ref = useCallback(node => {
-        console.log('.........useListItemContainerWidth');
         if (node !== null) {
-            console.log(node.offsetWidth);            
             setWidth(node.offsetWidth);
         }
     // will trigger re-check of node's with for different width breakspoint set by Material UI
@@ -255,7 +242,7 @@ const Constituency = () => {
             .then(res => res.json())
             .then(resJson => setRegionInfoData(resJson));
     // only fetch data once on mount
-    }, []);
+    }, [regionInfoDataUrl]);
 
     const [listItemContainerWidth, refListItemContainerMeasure] = useListItemContainerWidth();
             
