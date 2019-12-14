@@ -322,7 +322,8 @@ for page in glob.glob("./candidates/*/*"):
     with open(page) as fp:
         page_data = json.load(fp)
     name = page_data["result"]["pageContext"]["candidate"]["name"]
-    if name in target_list:
+    prev_path = page_data["result"]["pageContext"]["prevPath"]
+    if name in target_list and prev_path.startswith("elections/2016-legislator-election"):
         print(name, page)
         with open(f"{store_folder}/{name}.json", "w") as fp:
             json.dump(page_data["result"]["pageContext"], fp, ensure_ascii=False)
