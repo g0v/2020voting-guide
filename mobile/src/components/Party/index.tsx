@@ -116,6 +116,7 @@ const Party = ({ match }: RouteComponentProps<{ party: string }>) => {
             {/* {tab === 2 && <Progressing />} */}
             {tab === 2 && (
                 <BasicInfoTab
+					party={party}
                     lastPolitics={politics ? politics.politics : ''}
                     positions={positions}
                 />
