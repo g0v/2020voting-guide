@@ -16,6 +16,70 @@ import { Theme, useTheme } from '@material-ui/core/styles';
 import { Breakpoint } from '@material-ui/core/styles/createBreakpoints';
 import { PartyColorLookup } from '../PartyIcon';
 
+// s=>[...s].map(c=>d=(i="零一二三四五六七八九十百".search(c))>9?(n+=(d||1)*(i*90-890),0):i,n=d=0)&&n+d
+const chineseToNumber = (chineseString: string) => {
+    const allChineseNumber = "零一二三四五六七八九十百";
+    let n = 0;
+    let d = 0;
+
+    [...chineseString].map(char => {
+        const i = allChineseNumber.search(char);
+        if (i > 9) {
+            n += (d||1) * (i*90-890);
+        } else {
+        d = i;
+        }
+    });
+
+    const result = n + d;
+    return result;
+}
+
+interface DistrictInterface {
+    name: string,
+    party: [string]
+}
+
+const sortDistrict = (districtArray: [DistrictInterface]) => {
+    const regularExpression = '第(.*)選舉';
+
+    if (districtArray.length <= 1) {
+        return districtArray;
+    } else {
+        try {
+            const sorted = Array.from(districtArray).sort((a: DistrictInterface,b: DistrictInterface) => {
+                const districtNameA: string = a['name'];
+                const districtNameB: string = b['name'];
+
+                const matchedA = (new RegExp(regularExpression, 'g')).exec(districtNameA);
+                const matchedB = (new RegExp(regularExpression, 'g')).exec(districtNameB);
+
+
+                if (matchedA && matchedB) {
+                    const stringA: string = matchedA[1];
+                    const stringB: string = matchedB[1];
+
+                    if (stringA && stringB) {
+                        const numberA: number = chineseToNumber(stringA);
+                        const numberB: number = chineseToNumber(stringB);
+                        const compareResult: number = numberA - numberB;
+                                           
+                        return compareResult;
+                    }              
+                }
+
+                return 0;
+            });
+
+            return sorted;
+        } catch(e) {
+            console.log(e);
+            return districtArray;
+        }
+    }
+};
+
+
 const desktopStyle = makeStyles({
     listItemWrapper: {
     },    
@@ -143,8 +207,10 @@ const RegionInfo = (props?: any) => {
     const rowNum =  Math.max.apply(Math,infoData.map((d: any) => d['party'].length));
 
     const rows = [];
+    const sortedInfoData = sortDistrict(infoData);
+
     for (let i = 0; i < rowNum; i++) {
-        const rowData = infoData.map((d: any) => d['party'][i]);
+        const rowData = sortedInfoData.map((d: any) => d['party'][i]);
 
         const rowStyle = (i !== 0) ? {} : { marginBottom: '4px' };
 
@@ -303,7 +369,7 @@ const Constituency = () => {
                             {isDesktop 
                                 && regionInfoData[county] 
                                 && (regionInfoData[county][0]['party'][0] !== '')
-                                && <RegionInfo classes={classes} county={county} allInfo={regionInfoData} infoData={regionInfoData[county]} />}
+                                && <RegionInfo classes={classes} infoData={regionInfoData[county]} />}
                         </ListItem>
                     ))}
                 </div>
