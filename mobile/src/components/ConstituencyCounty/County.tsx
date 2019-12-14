@@ -13,7 +13,6 @@ import React, { useCallback, createRef, useEffect, useState } from 'react';
 import countyConstituency from '../../data/county_constituency.json';
 import Navigation from '../Navigation';
 import { Theme, useTheme } from '@material-ui/core/styles';
-import useMediaQuery from '@material-ui/core/useMediaQuery';
 import { Breakpoint } from '@material-ui/core/styles/createBreakpoints';
 import { PartyColorLookup } from '../PartyIcon';
 
@@ -23,7 +22,7 @@ const desktopStyle = makeStyles({
     listItemContainer: {
         width: '80%',
         'text-align': 'left',
-        position: 'absolute',
+        position: 'relative',
         left: 0,
         right: 0,
         marginLeft: 'auto',
@@ -165,8 +164,6 @@ const RegionInfo = (props?: any) => {
 }
 
 const counties = countyConstituency.map(county => county.name);
-
-let refListItemContainer = React.createRef();
 
 interface regionInfoDataInterface {
     [regionName: string]: [{
