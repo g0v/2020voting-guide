@@ -1,4 +1,12 @@
-import { Box, Breadcrumbs, Container, Link, List, ListItem, Typography } from '@material-ui/core';
+import {
+    Box,
+    Breadcrumbs,
+    Container,
+    Link,
+    List,
+    ListItem,
+    Typography
+} from '@material-ui/core';
 import NavigateNextIcon from '@material-ui/icons/NavigateNext';
 import React from 'react';
 import constituencyArea from '../../data/constituencies_area.json';
@@ -22,6 +30,9 @@ interface ConstituencyArea {
 }
 
 const SUBTITLE_MAP: { [key: string]: string } = {
+    '': '1',
+    平地: '1',
+    山地: '2',
     一: '1',
     二: '2',
     三: '3',
@@ -33,9 +44,7 @@ const SUBTITLE_MAP: { [key: string]: string } = {
     九: '9',
     十: '10',
     十一: '11',
-    十二: '12',
-    山地: '山地',
-    平地: '平地'
+    十二: '12'
 };
 
 const ConstituencyCard = ({ name, county }: Constituency) => {
