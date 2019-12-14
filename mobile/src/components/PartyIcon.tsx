@@ -34,14 +34,13 @@ const colors: {
 export const PartyColorLookup = colors;
 
 export const RectangleIcon = ({ party }: { party: string }) => {
-    let partyColor
+    let partyColor;
     if (party.length === 0) {
         partyColor = colors['無黨籍'];
-        party = '無黨籍'
+        party = '無黨籍';
     } else {
         partyColor = colors[party] || colors['其他'];
     }
-    
     if ('secondary' in partyColor) {
         return (
             <Box

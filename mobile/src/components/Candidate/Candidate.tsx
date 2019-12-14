@@ -10,6 +10,30 @@ import NoInfoTab from './NoInfoTab';
 import PassPerformanceTab from './PassPerformanceTab';
 import StrengthTab from './StrengthTab';
 
+export interface CandidateType {
+    name: string;
+    photo: string;
+    county: string;
+    constituency: string;
+    party: string;
+    age: number;
+    lastterm: string;
+    lasttermyear: string;
+    education: string;
+    experience: string;
+    politics: string;
+    sittingRate: number;
+    interpellationRate: number;
+    interpellationnum: string;
+    currentLegislator: boolean;
+    maxinterpellationnum: string;
+    interpellationcategory: string;
+    billnum: string;
+    billnumcategory: string;
+    politicalcontribution: string;
+    othercandidate: string;
+}
+
 const CandidateDefault = {
     name: '',
     photo: '',
@@ -73,7 +97,12 @@ const desktopPadding = isDesktop
 
 const CandidatePage = ({ match }: CandidatePage) => {
     const { name, constituency } = match.params;
-    const [tab, setTab] = useState(0);
+    const urlParams = new URLSearchParams(window.location.search);
+    let defaultTabIdex = 0;
+    if (urlParams.has('tab')) {
+        defaultTabIdex = parseInt(urlParams.get('tab') as string, 10);
+    }
+    const [tab, setTab] = useState(defaultTabIdex);
     const switchTab = (_: any, newValue: number) => {
         setTab(newValue);
     };
