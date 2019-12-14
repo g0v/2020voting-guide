@@ -1,0 +1,512 @@
+[
+  {
+    "選區": "新北市第九選舉區",
+    "參選人": "林德福",
+    "AD_ID": "414638929204010",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-18",
+    "結束日期": "2019-11-21",
+    "廣告內容": "【推薦永和│蔣萬安】 各位永和、中和鄉親朋友，請替我們加入 國民黨永和基地台：http://nav.cx/gA8ot1C 蔣萬安委員，是第九屆立法院的新秀委員，更是美國專業執業律師，平日立法院認真勤勞，更在許多勞工權益、食品安全、幼兒教育，投入許多心力。 蔣萬安委員，長時間待在立法院社福及衛環委員會，提出許多優質法案，在這邊也要鼓勵台北市中山區、松山區鄉親，一定要集中選票，讓優質立法委員，能夠來連任，繼續待在立法院為台北市鄉親，奮鬥服務。 #林德福 #蔣萬安 #推薦永和系列",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78213146_414638949204008_7229083399787380736_n.jpg?_nc_cat=104&_nc_ohc=LZtEfRpnTHMAQnVAD2oxrMyp3gZk8bsk-7pKLLdeFjm0_UZ1IrJ6tro0w&_nc_ht=scontent-hkg3-1.xx&oh=33dfb8fccf7a10e6ef140c3baa8a5128&oe=5E6C7920",
+    "廣告詳情": {
+      "ad_creative_body": "【推薦永和│蔣萬安】\n\n各位永和、中和鄉親朋友，請替我們加入\n國民黨永和基地台：http://nav.cx/gA8ot1C\n\n蔣萬安委員，是第九屆立法院的新秀委員，更是美國專業執業律師，平日立法院認真勤勞，更在許多勞工權益、食品安全、幼兒教育，投入許多心力。\n\n蔣萬安委員，長時間待在立法院社福及衛環委員會，提出許多優質法案，在這邊也要鼓勵台北市中山區、松山區鄉親，一定要集中選票，讓優質立法委員，能夠來連任，繼續待在立法院為台北市鄉親，奮鬥服務。\n\n#林德福\n#蔣萬安\n#推薦永和系列",
+      "ad_creation_time": "2019-11-19T07:56:14+0000",
+      "ad_creative_link_caption": "nav.cx",
+      "ad_creative_link_title": "國民黨永和基地台",
+      "ad_delivery_start_time": "2019-11-19T07:56:14+0000",
+      "ad_delivery_stop_time": "2019-11-22T07:55:53+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.078201",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.103895",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000465",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000596",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000174",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000552",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.031493",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.091891",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000291",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.125025",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.063566",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.10154",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.081514",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.041317",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.093184",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.136594",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.049615",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "8.7E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "德福 林",
+      "impressions": {
+        "lower_bound": "100000",
+        "upper_bound": "124999"
+      },
+      "page_id": "888230767933636",
+      "page_name": "林德福",
+      "region_distribution": [
+        {
+          "percentage": "0.735956",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.264044",
+          "region": "New Taipei City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "20000",
+        "upper_bound": "24999"
+      }
+    }
+  },
+  {
+    "選區": "新北市第九選舉區",
+    "參選人": "林德福",
+    "AD_ID": "793197694460697",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-22",
+    "結束日期": "2019-11-23",
+    "廣告內容": "【推薦永和│王育敏】 各位永和、中和鄉親朋友，請替我們加入 國民黨永和基地台：http://nav.cx/gA8ot1C 王育敏委員，過去有兒少小尖兵稱謂，在許多幼兒、幼教、長期照顧福利，有很深的研究與推動。 王育敏委員，在兒少相關提案「保護兒童安全，防止兒虐事件」，並且三讀通過「幼兒教育及照顧法」，增加對教保人員的消極資格認定、要求主管機關公開不適任教師資訊供家長查詢。 更推動三讀通過 「兒童及少年權益保護法」，規定托嬰中心必須加裝監視器，王育敏委員的用心，我們都有看到，請繼續支持國民黨優質的立法委員，替國民黨加油。 #林德福 #王育敏 #推薦永和系列",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78612782_793197724460694_131871499035344896_n.jpg?_nc_cat=110&_nc_ohc=TU1-DOPm3UgAQm_MxspHpMN9qqrXucKpu2VjY6zjZrfjB-DtLiraxfzLg&_nc_ht=scontent-hkg3-1.xx&oh=4529af0efca804e11e4fbc490b6b001e&oe=5E40CF75",
+    "廣告詳情": {
+      "ad_creative_body": "【推薦永和│王育敏】\n\n各位永和、中和鄉親朋友，請替我們加入\n國民黨永和基地台：http://nav.cx/gA8ot1C\n\n王育敏委員，過去有兒少小尖兵稱謂，在許多幼兒、幼教、長期照顧福利，有很深的研究與推動。\n\n王育敏委員，在兒少相關提案「保護兒童安全，防止兒虐事件」，並且三讀通過「幼兒教育及照顧法」，增加對教保人員的消極資格認定、要求主管機關公開不適任教師資訊供家長查詢。\n\n更推動三讀通過 「兒童及少年權益保護法」，規定托嬰中心必須加裝監視器，王育敏委員的用心，我們都有看到，請繼續支持國民黨優質的立法委員，替國民黨加油。\n\n#林德福\n#王育敏\n#推薦永和系列",
+      "ad_creation_time": "2019-11-22T11:06:19+0000",
+      "ad_creative_link_caption": "nav.cx",
+      "ad_creative_link_title": "國民黨永和基地台",
+      "ad_delivery_start_time": "2019-11-22T11:06:19+0000",
+      "ad_delivery_stop_time": "2019-11-23T11:06:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.128922",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.106898",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000415",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000323",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00023",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000369",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000461",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.067548",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.041008",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.074275",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.072571",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.091232",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.071695",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.094319",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.126849",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.060821",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.061604",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000461",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "德福 林",
+      "impressions": {
+        "lower_bound": "25000",
+        "upper_bound": "29999"
+      },
+      "page_id": "888230767933636",
+      "page_name": "林德福",
+      "region_distribution": [
+        {
+          "percentage": "0.499586",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.500414",
+          "region": "New Taipei City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "8000",
+        "upper_bound": "8999"
+      }
+    }
+  },
+  {
+    "選區": "新北市第九選舉區",
+    "參選人": "林德福",
+    "AD_ID": "2513911262160277",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-28",
+    "結束日期": "2019-12-02",
+    "廣告內容": "【推薦永和│李永萍】 各位永和、中和鄉親朋友，請替我們加入 國民黨永和基地台：http://nav.cx/gA8ot1C 李永萍副市長，過去曾任台北市副市長、台北市文化局局長、以及兩屆立法委員，無論是學經歷方面，都非常資深專業，這一次更代表國民黨參選，汐止七星區的立法委員。 李永萍副市長過去，推動非常多的重大建設與政策，在整個台北市裡面，有很多她的腳印與成果，無論是過去、甚至現在，李永萍副市長都是最關心民眾的政治人物，請汐止七星區鄉親，全力支持李永萍，讓她再次進入立法院，來為民發聲、為民服務。 #林德福 #李永萍 #推薦永和系列",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78754850_532387000645735_5995557492317224960_n.jpg?_nc_cat=108&_nc_ohc=sbfK09SuVUIAQk5lYFxa6xawMIO1E71br19_mLNpKbSuWY3L4IQqrFWEg&_nc_ht=scontent-hkg3-1.xx&oh=a61677018f9f64ac9b5a980d5c0860eb&oe=5E76084A",
+    "廣告詳情": {
+      "ad_creative_body": "【推薦永和│李永萍】\n\n各位永和、中和鄉親朋友，請替我們加入\n國民黨永和基地台：http://nav.cx/gA8ot1C\n\n李永萍副市長，過去曾任台北市副市長、台北市文化局局長、以及兩屆立法委員，無論是學經歷方面，都非常資深專業，這一次更代表國民黨參選，汐止七星區的立法委員。\n\n李永萍副市長過去，推動非常多的重大建設與政策，在整個台北市裡面，有很多她的腳印與成果，無論是過去、甚至現在，李永萍副市長都是最關心民眾的政治人物，請汐止七星區鄉親，全力支持李永萍，讓她再次進入立法院，來為民發聲、為民服務。\n\n#林德福\n#李永萍\n#推薦永和系列",
+      "ad_creation_time": "2019-11-28T21:59:32+0000",
+      "ad_creative_link_caption": "nav.cx",
+      "ad_creative_link_title": "國民黨永和基地台",
+      "ad_delivery_start_time": "2019-11-28T21:59:32+0000",
+      "ad_delivery_stop_time": "2019-12-02T21:58:47+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "8.4E-5",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.104422",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "3.4E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000252",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000235",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000404",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.050849",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.050765",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.051942",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.123625",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.073146",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.11357",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.085068",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.089911",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.143551",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.036354",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.075719",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "6.7E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "德福 林",
+      "impressions": {
+        "lower_bound": "90000",
+        "upper_bound": "99999"
+      },
+      "page_id": "888230767933636",
+      "page_name": "林德福",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "New Taipei City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "20000",
+        "upper_bound": "24999"
+      }
+    }
+  },
+  {
+    "選區": "新北市第九選舉區",
+    "參選人": "林德福",
+    "AD_ID": "572282596892831",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-04",
+    "結束日期": "2019-12-06",
+    "廣告內容": "【推薦永和│江啟臣】 各位永和、中和鄉親朋友，請替我們加入 國民黨永和基地台：http://nav.cx/gA8ot1C 江啟臣委員，曾任行政院新聞局局長，也是現任立法委員，他專業表現、實事求是的精神，非常令人敬佩，更是國民黨青壯世代，優秀亮眼的一位民意代表。 過去他推動非常多優秀的法案，更是國際關係方面的專家，替台中鄉親爭取許多重大建設，也長期關注中橫道路維修狀況，在國民黨失去政權時，他勇於承擔黨職，也被大家選為立法院總召，帶領大家作戰。 這次江啟臣委員要連任，台中豐原區、石岡區、新社區、東勢區、和平區立法委員，大家一定要讓最優質的立法委員，能夠繼續留在國會，替台中鄉親們服務，謝謝。 #林德福 #江啟臣 #推薦永和系列",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79459597_572282620226162_6433896580327145472_n.jpg?_nc_cat=107&_nc_ohc=iTgKjPBJ65cAQnm_4RFO1NuN_2o-knuTlUj_YpHQI71kxVgjvd9_EleKw&_nc_ht=scontent-hkg3-1.xx&oh=ec81b8c7dca1f0597292756ad2feacdf&oe=5E74F117",
+    "廣告詳情": {
+      "ad_creative_body": "【推薦永和│江啟臣】\n\n各位永和、中和鄉親朋友，請替我們加入\n國民黨永和基地台：http://nav.cx/gA8ot1C\n\n江啟臣委員，曾任行政院新聞局局長，也是現任立法委員，他專業表現、實事求是的精神，非常令人敬佩，更是國民黨青壯世代，優秀亮眼的一位民意代表。\n\n過去他推動非常多優秀的法案，更是國際關係方面的專家，替台中鄉親爭取許多重大建設，也長期關注中橫道路維修狀況，在國民黨失去政權時，他勇於承擔黨職，也被大家選為立法院總召，帶領大家作戰。\n\n這次江啟臣委員要連任，台中豐原區、石岡區、新社區、東勢區、和平區立法委員，大家一定要讓最優質的立法委員，能夠繼續留在國會，替台中鄉親們服務，謝謝。\n\n#林德福\n#江啟臣\n#推薦永和系列",
+      "ad_creation_time": "2019-12-05T07:29:58+0000",
+      "ad_creative_link_caption": "nav.cx",
+      "ad_creative_link_title": "國民黨永和基地台",
+      "ad_delivery_start_time": "2019-12-05T07:29:58+0000",
+      "ad_delivery_stop_time": "2019-12-07T07:29:36+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.037836",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.0541",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.053073",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.110769",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.061976",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.159048",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.027564",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.153741",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.032357",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.097757",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.108029",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.102893",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000171",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000171",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000342",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000171",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "德福 林",
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "page_id": "888230767933636",
+      "page_name": "林德福",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "New Taipei City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "800",
+        "upper_bound": "899"
+      }
+    }
+  }
+]

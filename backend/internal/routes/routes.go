@@ -31,6 +31,7 @@ func SetupRouter() *gin.Engine {
 	api.GET("/vernacularlist/:filter", handler.ListVernacular)
 	api.GET("/vernacular/:id", handler.GetVernacular)
 	api.POST("/vernacular/:id", handler.PostVernacular)
+	api.Static("/data", "../data/static")
 
 	return router
 }

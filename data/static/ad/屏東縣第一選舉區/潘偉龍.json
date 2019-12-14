@@ -1,0 +1,128 @@
+[
+  {
+    "選區": "屏東縣第一選舉區",
+    "參選人": "潘偉龍",
+    "AD_ID": "2483085791804181",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-05",
+    "結束日期": "2019-11-11",
+    "廣告內容": "在地鄉土情，屏東赤子心。改變屏東，從偉龍開始。 #爭取屏東-長輩健保、比照高雄市福利。 #爭取屏東-高中、國中、國小、安裝冷氣。 #爭取屏東-青年租屋補助，提升青年就業機會。",
+    "圖片": "https://scontent-nrt1-1.xx.fbcdn.net/v/t39.16868-6/s600x600/75583957_2483085828470844_5949678235049525248_n.jpg?_nc_cat=102&_nc_oc=AQn4R-EKzxiXRahLw4YGFbbACww6CQm3cc4mMdSdcdik9fyHh8tVPaqz5LeXk1bdhsg&_nc_ht=scontent-nrt1-1.xx&oh=e87a8b17079b13c9b451f7c227bb0ff3&oe=5E557CD7",
+    "廣告詳情": {
+      "ad_creative_body": "在地鄉土情，屏東赤子心。改變屏東，從偉龍開始。\n#爭取屏東-長輩健保、比照高雄市福利。\n#爭取屏東-高中、國中、國小、安裝冷氣。\n#爭取屏東-青年租屋補助，提升青年就業機會。",
+      "ad_creation_time": "2019-11-05T10:14:59+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "在地鄉土情，屏東赤子心。改變屏東，從偉龍開始。\n#爭取屏東-長輩健保、比照高雄市福利。\n#爭取屏東-高中、國中、國小、安裝冷氣。\n#爭取屏東-青年租屋補助，提升青年就業機會。\n",
+      "ad_creative_link_title": "潘偉龍-屏北立委候選人",
+      "ad_delivery_start_time": "2019-11-05T10:14:59+0000",
+      "ad_delivery_stop_time": "2020-01-01T10:14:50+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000359",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000359",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000717",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000359",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.182503",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.136608",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.061671",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.045177",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.197562",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.055575",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.072069",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.047329",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.113302",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.042668",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.024023",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.01972",
+          "age": "18-24",
+          "gender": "female"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "page_id": "113957710023963",
+      "page_name": "潘偉龍-屏北立委候選人",
+      "region_distribution": [
+        {
+          "percentage": "0.601687",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.078819",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.319494",
+          "region": "Pingtung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "3000",
+        "upper_bound": "3499"
+      }
+    }
+  }
+]

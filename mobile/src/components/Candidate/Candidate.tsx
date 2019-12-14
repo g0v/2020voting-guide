@@ -1,11 +1,15 @@
+import { Link } from '@material-ui/core';
 import Tab from '@material-ui/core/Tab';
 import Tabs from '@material-ui/core/Tabs';
-import React from 'react';
+import React, { FunctionComponent, useEffect, useState } from 'react';
+import Alert from '../Alert';
+import { Bill } from '../IssueBill';
+import IssueBillTab from '../IssueBillTab';
 import BasicInfoTab from './BasicInfoTab';
-import IssueBillTab from './IssueBillTab';
 import Nav from './Nav';
 import NoInfoTab from './NoInfoTab';
 import PassPerformanceTab from './PassPerformanceTab';
+import StrengthTab from './StrengthTab';
 
 const CandidateDefault = {
     name: '',
@@ -41,21 +45,48 @@ interface CandidatePage {
     };
 }
 
+const IssueBillTabAlert: FunctionComponent<{
+    isCurrentLegislator: boolean;
+    name: string;
+}> = ({ name, isCurrentLegislator }) => (
+    <Alert>
+        <span>
+            {isCurrentLegislator
+                ? `以下是 2016-2019 年${name}候選人在立法院實際提出的法案。`
+                : `${name}候選人不是上屆立委，以下是他所屬政黨的黨團 2016-2019 年在立法院實際提出的法案`}
+        </span>
+        <br />
+        <span>
+            {`資料來源: `}
+            <Link href="https://lis.ly.gov.tw/billtpc/billtp">
+                立法動態資訊網法案追蹤平台
+            </Link>
+        </span>
+    </Alert>
+);
+
 const caucusParty = ['民主進步黨', '中國國民黨', '親民黨', '時代力量'];
 
 const CandidatePage = ({ match }: CandidatePage) => {
     const { name, constituency } = match.params;
-    const [tab, setTab] = React.useState(0);
+    const [tab, setTab] = useState(0);
     const switchTab = (_: any, newValue: number) => {
         setTab(newValue);
     };
 
-    const [candidate, setCandidate] = React.useState(CandidateDefault);
-    React.useEffect(() => {
+    const [candidate, setCandidate] = useState(CandidateDefault);
+    useEffect(() => {
         fetch(`/api/candidate/${constituency}/${name}`)
             .then(res => res.json())
             .then(setCandidate);
-    }, [name]);
+    }, [name, constituency]);
+
+    const [bills, setBills] = useState<Bill[]>([]);
+    useEffect(() => {
+        fetch(`/api/bills/${constituency}/${name}`)
+            .then(res => res.json())
+            .then(setBills);
+    }, [name, constituency]);
 
     return (
         <>
@@ -68,6 +99,7 @@ const CandidatePage = ({ match }: CandidatePage) => {
                 onChange={switchTab}
             >
                 <Tab label="議題法案" />
+                <Tab label="競選戰力" />
                 <Tab label="過去表現" />
                 <Tab label="經歷政見" />
             </Tabs>
@@ -75,22 +107,29 @@ const CandidatePage = ({ match }: CandidatePage) => {
             {tab === 0 ? (
                 candidate.currentLegislator ||
                 caucusParty.includes(candidate.party) ? (
-                    <IssueBillTab
-                        name={candidate.name}
-                        constituency={constituency}
-                        currentLegislator={candidate.currentLegislator}
-                    />
+                    <IssueBillTab bills={bills}>
+                        <IssueBillTabAlert
+                            name={candidate.name}
+                            isCurrentLegislator={candidate.currentLegislator}
+                        />
+                    </IssueBillTab>
                 ) : (
                     <NoInfoTab name={candidate.name} from="issueBill" />
                 )
             ) : tab === 1 ? (
+                <StrengthTab name={name} constituency={constituency} />
+            ) : tab === 2 ? (
                 candidate.currentLegislator ? (
                     <PassPerformanceTab {...candidate} />
                 ) : (
                     <NoInfoTab name={candidate.name} from="passPerformance" />
                 )
-            ) : (
+            ) : candidate.educations &&
+              candidate.experiences &&
+              candidate.politics ? (
                 <BasicInfoTab name={name} constituency={constituency} />
+            ) : (
+                <NoInfoTab name={candidate.name} from="basicInfo" />
             )}
         </>
     );

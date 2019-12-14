@@ -1,9 +1,26 @@
-import { Breadcrumbs, Link, List, Typography } from '@material-ui/core';
+import {
+    Breadcrumbs,
+    Link,
+    List,
+    Typography,
+    Container
+} from '@material-ui/core';
 import NavigateNextIcon from '@material-ui/icons/NavigateNext';
 import clsx from 'clsx';
 import React, { useEffect, useState } from 'react';
 import Navigation from '../Navigation';
 import { CandidateCard, CandidateProps } from './CandidateCard';
+import { makeStyles } from '@material-ui/core/styles';
+
+const useStyles = makeStyles({
+    flexContainer: {
+        display: 'flex',
+        flexWrap: 'wrap',
+        justifyContent: 'flex-start',
+        width: '88%',
+        margin: '0 auto'
+    }
+});
 
 interface Route {
     match: {
@@ -27,23 +44,28 @@ const CountyCandidates = ({ match }: Route) => {
                 setLoading(false);
             });
     }, [constituency]);
-    const rootClazz: string = clsx('loading', { 'is-show': isLoading });
+    const rootClazz: string = clsx('loading p-0', { 'is-show': isLoading });
+    const classes = useStyles();
     return (
-        <div className={rootClazz}>
+        <Container className={rootClazz}>
             <Navigation title="區域立委候選人">
                 <Breadcrumbs separator={<NavigateNextIcon fontSize="small" />}>
                     <Link href="/regional">
-                        <Typography variant="h4"><u>所有縣市</u></Typography>
+                        <Typography variant="h4">
+                            <u>所有縣市</u>
+                        </Typography>
                     </Link>
                     <Link href={`/regional/${county}`}>
-                        <Typography variant="h4"><u>{county}</u></Typography>
+                        <Typography variant="h4">
+                            <u>{county}</u>
+                        </Typography>
                     </Link>
                     <Typography variant="h4" color="textSecondary">
                         {constituency}
                     </Typography>
                 </Breadcrumbs>
             </Navigation>
-            <List>
+            <List className={clsx(!(/Mobi|Android/i.test(navigator.userAgent)) && classes.flexContainer)}>
                 {candidates.map((candidate: CandidateProps) => (
                     <CandidateCard
                         key={candidate.id}
@@ -57,7 +79,7 @@ const CountyCandidates = ({ match }: Route) => {
                     />
                 ))}
             </List>
-        </div>
+        </Container>
     );
 };
 

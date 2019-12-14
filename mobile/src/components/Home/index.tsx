@@ -1,5 +1,6 @@
-import { Box, Button, Typography } from '@material-ui/core';
+import { Box, Button, Container, Typography } from '@material-ui/core';
 import React, { MouseEvent, ReactNode } from 'react';
+import { RouteComponentProps } from 'react-router-dom';
 import { scrollBody } from '../../utils';
 import Countdown from './Countdown';
 import './Home.scss';
@@ -41,11 +42,26 @@ const VideoCard = ({
     </Box>
 );
 
-const Home = () => {
+// eslint-disable-next-line
+interface Props extends RouteComponentProps {}
+
+const Home = (props: Props) => {
     const quickButonClick = (e: MouseEvent<HTMLElement>) => {
         const targetDOM = (e.target as HTMLElement).getAttribute('data-target');
         scrollBody('.' + targetDOM);
     };
+    React.useLayoutEffect(() => {
+        const historyChageHandler = (location: Record<string, any>) => {
+            const { hash } = location;
+            if (hash.indexOf('#rule') !== -1) {
+                scrollBody('.page-home-quick-0');
+            }
+        };
+
+        const listenCB = props.history.listen(historyChageHandler);
+        historyChageHandler(props.location);
+        return () => listenCB();
+    }, []);
     return (
         <div className="page-home">
             <Box textAlign="center" mt="40px">
@@ -74,7 +90,7 @@ const Home = () => {
                     <Button
                         variant="outlined"
                         color="primary"
-                        href="/progressing"
+                        href="/parties"
                         className="page-home__primary-btn"
                     >
                         <Typography variant="h3">瞧瞧不分區立委</Typography>
@@ -138,7 +154,8 @@ const Home = () => {
                     </div>
                 </div>
             </Box>
-            <Box ml={2} mr={2}>
+            <Container>
+                <div id="立委的工作是什麼" />
                 <VideoCard
                     className="page-home-quick-0"
                     title="大補帖一、立委的工作是什麼？"
@@ -154,11 +171,17 @@ const Home = () => {
                     「什麼樣的選民，就會有什麼樣的立委！」國會助理說得直接。
                     <br />
                     換言之，身為選民該思考的是，我們究竟想要一個什麼樣的立法委員？如果憲法上是如此明定立委的職權，透過訪談，我們發現納稅人每年花了近千萬養一個立法委員，而他們每天24小時願意、不願意做的那些事，真的是我們期望的嗎？
-                    <a href="http://legislator.thenewslens.com/lesson-1-inner-02.html" className="color-primary d-block font-thumb" target="_blank">
+                    <a
+                        href="http://legislator.thenewslens.com/lesson-1-inner-02.html"
+                        className="color-primary d-block font-thumb"
+                        rel="noopener noreferrer"
+                        target="_blank"
+                    >
                         原文出處：關鍵評論網
                     </a>
                 </VideoCard>
                 <div className="divider"></div>
+                <div id="為什麼有兩張票" />
                 <VideoCard
                     className="page-home-quick-1"
                     title="大補帖二、為什麼有兩票？"
@@ -173,11 +196,16 @@ const Home = () => {
                     。
                     <br />
                     其中單一選區（小選區）下選出的區域立委共有73席，以政黨票決定的不分區立委則有34席。但立委總共有113席（73+34+6），另外6席是複數制選區的原住民立委（平地及山地原住民各3席）
-                    <a href="http://legislator.thenewslens.com/lesson-1-inner-03.html" className="color-primary d-block font-thumb" target="_blank">
+                    <a
+                        href="http://legislator.thenewslens.com/lesson-1-inner-03.html"
+                        className="color-primary d-block font-thumb"
+                        rel="noopener noreferrer"
+                        target="_blank"
+                    >
                         原文出處：關鍵評論網
                     </a>
                 </VideoCard>
-            </Box>
+            </Container>
         </div>
     );
 };

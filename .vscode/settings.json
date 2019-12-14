@@ -24,19 +24,5 @@
       "autoFix": true
     }
   ],
-  "editor.formatOnSave": true,
-  "[javascript]": {
-    "editor.formatOnSave": false
-  },
-  "[javascriptreact]": {
-    "editor.formatOnSave": false
-  },
-  "[typescript]": {
-    "editor.formatOnSave": false
-  },
-  "[typescriptreact]": {
-    "editor.formatOnSave": false
-  },
-  "python.venvPath": "~/.local/share/virtualenvs",
-  "python.pythonPath": "/home/bangyuwen/.local/share/virtualenvs/crawler-78l0233b/bin/python"
+  "python.venvPath": "~/.local/share/virtualenvs"
 }

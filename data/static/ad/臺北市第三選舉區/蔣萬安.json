@@ -1,0 +1,590 @@
+[
+  {
+    "選區": "臺北市第三選舉區",
+    "參選人": "蔣萬安",
+    "AD_ID": "416654839014108",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-12",
+    "結束日期": "2019-11-14",
+    "廣告內容": "＃直播預告 ＃萬安跟您「講晚安」🌙 ＃競選總部開箱直播 嗨！大家今天過的好嗎？ 11月14日（本週四）晚上8:30，我要開直播啦！ 除了跟大家講晚安，我還會回答網友的提問，並且首度在網路公開我這次競選總部的特色，歡迎準時收看！ 【直播預告-萬安講晚安】 直播時間：11月14日晚上8:30分 活動方式：大家有什麼問題想問的？#請在本篇底下留言，直播小助手會提出三位留言網友問題，我來回答。",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/70176906_2570065059753657_7474652170730602496_n.jpg?_nc_cat=103&_nc_ohc=5bnc34GZjPMAQlka19C5rWvDHWvy1vMWcmPS78V5xNPGUICD_5KjtqNUg&_nc_ht=scontent-hkg3-1.xx&oh=2cffedeadde56021c0af83e6c46509ee&oe=5E6CD999",
+    "廣告詳情": {
+      "ad_creative_body": "＃直播預告 ＃萬安跟您「講晚安」🌙\n＃競選總部開箱直播\n      \n嗨！大家今天過的好嗎？\n11月14日（本週四）晚上8:30，我要開直播啦！\n除了跟大家講晚安，我還會回答網友的提問，並且首度在網路公開我這次競選總部的特色，歡迎準時收看！\n       \n\n【直播預告-萬安講晚安】\n直播時間：11月14日晚上8:30分\n活動方式：大家有什麼問題想問的？#請在本篇底下留言，直播小助手會提出三位留言網友問題，我來回答。",
+      "ad_creation_time": "2019-11-13T03:25:11+0000",
+      "ad_delivery_start_time": "2019-11-13T07:00:02+0000",
+      "ad_delivery_stop_time": "2019-11-14T12:00:02+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.12654",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.124171",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.246919",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.05545",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.15782",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.046919",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.021801",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.09763",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.086256",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.004739",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.017536",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000948",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.012796",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000474",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "蔣萬安",
+      "impressions": {
+        "lower_bound": "2000",
+        "upper_bound": "2999"
+      },
+      "page_id": "805460986214082",
+      "page_name": "蔣萬安",
+      "region_distribution": [
+        {
+          "percentage": "0.017404",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.002352",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.017404",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.029633",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.007526",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.028222",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.004704",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.011759",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.015992",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.009878",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.126058",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.002822",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.032455",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.136406",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.117592",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.116181",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.069614",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.224835",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.029163",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "400",
+        "upper_bound": "499"
+      }
+    }
+  },
+  {
+    "選區": "臺北市第三選舉區",
+    "參選人": "蔣萬安",
+    "AD_ID": "437133930281939",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-22",
+    "結束日期": "2019-11-30",
+    "廣告內容": "#作伙做公益  #為浪浪盡一份心力 #12月7日萬安邀請大家  以及「#神秘嘉賓」一起做公益！ 非常謝謝 #草埔市場的鄉親朋友以及朱立倫市長，在11月7日為了浪浪的幸福，一起作伙做公益！ 12月7日（六）下午，萬安再次邀請大家，以及「神秘嘉賓」，#作伙做公益！活動資訊會公布在臉書上，敬請大家密切注意！ #作伙做公益 #蔣萬安 #實在",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/75977853_1419223701568205_8827370898202820608_n.jpg?_nc_cat=100&_nc_ohc=HU3l7fU0QlUAQlrNHEdZPsE1Zqd1zCm7zr3ZtIyIQQzDTk5dO-PwGXtmg&_nc_ht=scontent-hkg3-1.xx&oh=23c34639f38d6b668066e1bf10c43e59&oe=5E3FDF5A",
+    "廣告詳情": {
+      "ad_creative_body": "#作伙做公益  #為浪浪盡一份心力\n#12月7日萬安邀請大家  以及「#神秘嘉賓」一起做公益！\n\n非常謝謝 #草埔市場的鄉親朋友以及朱立倫市長，在11月7日為了浪浪的幸福，一起作伙做公益！\n                \n12月7日（六）下午，萬安再次邀請大家，以及「神秘嘉賓」，#作伙做公益！活動資訊會公布在臉書上，敬請大家密切注意！\n\n#作伙做公益\n#蔣萬安\n#實在",
+      "ad_creation_time": "2019-11-22T13:46:26+0000",
+      "ad_creative_link_title": "作伙做公益-1107朱立倫x蔣萬安做公益！",
+      "ad_delivery_start_time": "2019-11-22T14:00:57+0000",
+      "ad_delivery_stop_time": "2019-11-30T15:59:57+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000583",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000219",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000182",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000437",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.005572",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.155505",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.224517",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.269383",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.10787",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.085582",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.065407",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.019811",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.008522",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.033541",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.013438",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.009432",
+          "age": "25-34",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "蔣萬安",
+      "impressions": {
+        "lower_bound": "25000",
+        "upper_bound": "29999"
+      },
+      "page_id": "805460986214082",
+      "page_name": "蔣萬安",
+      "region_distribution": [
+        {
+          "percentage": "0.03486",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.005512",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.015295",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.045446",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.013214",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.045373",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.005585",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.025406",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.02829",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.000402",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.022632",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.111882",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.004818",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.004891",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.06618",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.118416",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.149699",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.106297",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.087717",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.079102",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.028983",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "3500",
+        "upper_bound": "3999"
+      }
+    }
+  },
+  {
+    "選區": "臺北市第三選舉區",
+    "參選人": "蔣萬安",
+    "AD_ID": "419690202244396",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-02",
+    "結束日期": "2019-12-06",
+    "廣告內容": "【安安你好！萬安LINE貼圖熱烈下載中】 一圖勝過千萬語！ 不想說話，那就萬安緊抱吧！ 「萬安講晚安」全新LINE貼圖上架啦 (灑花) 日常問候、特殊情境、當下心情，傳情最實在 貼圖必選萬安，萬事皆平安！ 下載傳送門：https://reurl.cc/pDXbOr",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/79084403_419690228911060_4089685125019729920_n.jpg?_nc_cat=106&_nc_ohc=WUyrEE6e2YIAQlb4Wf8uBriiDJ3fSV50kj6bVVZLxHhXh0LiJGK7e5vhQ&_nc_ht=scontent-hkg3-1.xx&oh=b2296a4ae8141c52203c4d03a1160d7d&oe=5E7F7FFA",
+    "廣告詳情": {
+      "ad_creative_body": "【安安你好！萬安LINE貼圖熱烈下載中】\n \n一圖勝過千萬語！\n不想說話，那就萬安緊抱吧！\n「萬安講晚安」全新LINE貼圖上架啦 (灑花)\n日常問候、特殊情境、當下心情，傳情最實在\n貼圖必選萬安，萬事皆平安！\n \n下載傳送門：https://reurl.cc/pDXbOr",
+      "ad_creation_time": "2019-12-03T06:54:47+0000",
+      "ad_creative_link_caption": "reurl.cc",
+      "ad_creative_link_description": "安安你好！透過實用又活潑的貼圖，讓你天天和朋友開心問候、互動！",
+      "ad_creative_link_title": "「萬安講晚安」全新LINE貼圖",
+      "ad_delivery_start_time": "2019-12-03T07:00:08+0000",
+      "ad_delivery_stop_time": "2019-12-09T15:59:08+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.034462",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.021803",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000414",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000107",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000201",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000521",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000521",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.030478",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.063336",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.018661",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.096421",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.201425",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.112048",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.054594",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.1296",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.042282",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.19307",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "5.3E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "蔣萬安",
+      "impressions": {
+        "lower_bound": "70000",
+        "upper_bound": "79999"
+      },
+      "page_id": "805460986214082",
+      "page_name": "蔣萬安",
+      "region_distribution": [
+        {
+          "percentage": "0.0012",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.007041",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.010574",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.04591",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.008227",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.028282",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.006574",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.016295",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.017295",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.000213",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.011348",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.028976",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.0024",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.003907",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.046764",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.100088",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.157266",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.147652",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.112529",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.092647",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.128637",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.026175",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1500",
+        "upper_bound": "1999"
+      }
+    }
+  }
+]

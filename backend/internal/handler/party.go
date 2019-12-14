@@ -11,11 +11,11 @@ import (
 
 func getCaucusName(party string) string {
 	caucuses := map[string]string{
-		"親民黨":      "親民黨黨團",
-		"中國國民黨":    "國民黨黨團",
-		"民主進步黨":    "民進黨黨團",
-		"時代力量":     "時代力量黨團",
-		"台灣團結聯盟黨團": "台灣團結聯盟黨團黨團",
+		"親民黨":    "親民黨黨團",
+		"中國國民黨":  "國民黨黨團",
+		"民主進步黨":  "民進黨黨團",
+		"時代力量":   "時代力量黨團",
+		"台灣團結聯盟": "台灣團結聯盟黨團",
 	}
 	if caucus, exist := caucuses[party]; exist {
 		return caucus

@@ -12,19 +12,12 @@ const Navigation = ({ title, children }: Navigation) => {
     const theme = useTheme();
 
     return (
-        <>
-            <Box
-                pt={3.5}
-                pb={3}
-                px={2}
-                height={76}
-                bgcolor={theme.palette.background.default}
-            >
-                <Typography variant="h2">{title}</Typography>
-                <Box height={22} />
-                {children}
+        <Box py={3} px={2} bgcolor={theme.palette.background.default}>
+            <Box mb="15px">
+                <Typography variant="h2" >{title}</Typography>
             </Box>
-        </>
+            {children}
+        </Box>
     );
 };
 

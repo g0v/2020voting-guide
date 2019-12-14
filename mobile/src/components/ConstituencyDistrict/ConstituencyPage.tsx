@@ -1,4 +1,4 @@
-import { Box, Breadcrumbs, Divider, Link, List, ListItem, Typography } from '@material-ui/core';
+import { Box, Breadcrumbs, Container, Link, List, ListItem, Typography } from '@material-ui/core';
 import NavigateNextIcon from '@material-ui/icons/NavigateNext';
 import React from 'react';
 import constituencyArea from '../../data/constituencies_area.json';
@@ -38,11 +38,11 @@ const SUBTITLE_MAP: { [key: string]: string } = {
     平地: '平地'
 };
 
-const ConstituencyCard = ({
-    name,
-    county
-}: Constituency) => {
-    const subtitle: string = name.replace(county, '').replace('第', '').replace('選舉區', '');
+const ConstituencyCard = ({ name, county }: Constituency) => {
+    const subtitle: string = name
+        .replace(county, '')
+        .replace('第', '')
+        .replace('選舉區', '');
 
     const areaName: string = Object.keys(
         (constituencyArea as ConstituencyArea)[name]
@@ -56,6 +56,7 @@ const ConstituencyCard = ({
                 button
                 component="a"
                 href={`/regional/${county}/${name}`}
+                divider
             >
                 <Box py={3} px={3} display="flex">
                     <Typography
@@ -68,7 +69,6 @@ const ConstituencyCard = ({
                     <Typography variant="h3">{areaName}</Typography>
                 </Box>
             </ListItem>
-            <Divider />
         </>
     );
 };
@@ -81,7 +81,7 @@ const ConstituencyPage: React.FunctionComponent<County> = ({
         constituency => constituency.includes(county)
     );
     return (
-        <>
+        <Container className="p-0">
             <Navigation title="區域立委候選人">
                 <Breadcrumbs separator={<NavigateNextIcon fontSize="small" />}>
                     <Link href="/regional">
@@ -99,7 +99,7 @@ const ConstituencyPage: React.FunctionComponent<County> = ({
                     <ConstituencyCard name={name} county={county} key={name} />
                 ))}
             </List>
-        </>
+        </Container>
     );
 };
 

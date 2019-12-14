@@ -27,5 +27,6 @@
 # SRC file
 .vscode
 crawler
-data
+data/*
+!data/static
 node_modules

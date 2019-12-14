@@ -3,7 +3,7 @@ import re
 
 from peewee import fn
 
-from db import Bill, Candidate, Legislator, ProposerCosignatory, Sitting
+from db import Bill, Candidate, Legislator, ProposerCosignatory, Sitting, Vernacular, mysql_db
 from util import roc_to_common_era
 
 
@@ -96,10 +96,28 @@ def store_bill_proposer_cosignatory():
     ProposerCosignatory.insert_many(data).execute()
 
 
+def update_vernacular():
+    cursor = mysql_db.execute_sql(
+        """SELECT
+        v1.id,
+        v2.bill_no,
+        v2.vernacular
+        FROM
+        (SELECT max(id) id
+        FROM `vernacular`
+        GROUP BY bill_no) v1
+        JOIN vernacular v2 ON v1.id = v2.id"""
+    )
+    for id, billNo, vernacular in cursor.fetchall():
+        print(vernacular.replace("\n", ""))
+        Bill.update(vernacular=vernacular).where(Bill.billNo == billNo).execute()
+
+
 if __name__ == "__main__":
-    tag_current_candidate()
-    tag_history_candidate()
-    update_last_term()
-    update_photo()
-    update_sitting_rate()
-    store_bill_proposer_cosignatory()
+    # tag_current_candidate()
+    # tag_history_candidate()
+    # update_last_term()
+    # update_photo()
+    # update_sitting_rate()
+    # store_bill_proposer_cosignatory()
+    update_vernacular()
