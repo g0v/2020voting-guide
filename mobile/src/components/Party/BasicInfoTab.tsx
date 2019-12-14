@@ -5,6 +5,7 @@ import Card from '../Card';
 import Dialog from '../Dialog';
 
 interface Props {
+    party: string;
     positions: Position[];
     lastPolitics: string;
 }
@@ -42,9 +43,16 @@ const FullCard: FunctionComponent = ({ children }) => (
     </Box>
 );
 
-// const Candidate: FunctionComponent<Props> = ({ photo ,title, name }) => <Box>
+const PreviousParty = ({ party }: { party: string }) => (
+    <Box ml="auto">
+        <Typography color="textSecondary" variant="body2">
+            {party}
+        </Typography>
+    </Box>
+);
 
 const BasicInfoTab: FunctionComponent<Props> = ({
+    party = '',
     lastPolitics = '',
     positions
 }) => {
@@ -70,8 +78,11 @@ const BasicInfoTab: FunctionComponent<Props> = ({
                                     {`第 9 屆 不分區立委選舉`}
                                 </Typography>
                             </Box>
-                            <Box mb={0.5}>
-                                <Typography> 上次參選政見 </Typography>
+                            <Box display="flex" alignItems="center" mb={0.5}>
+                                <Typography> 上屆參選政見 </Typography>
+                                {party === '綠黨' && (
+                                    <PreviousParty party="綠黨與社會民主黨聯盟" />
+                                )}
                             </Box>
                             <Box color="rgba(0, 0, 0, 0.54);" height="120px">
                                 {`${lastPolitics.substring(0, 100)}...`}
