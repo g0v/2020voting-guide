@@ -9,7 +9,7 @@ import {
 import { makeStyles } from '@material-ui/core/styles';
 import useMediaQuery from '@material-ui/core/useMediaQuery';
 import NavigateNextIcon from '@material-ui/icons/NavigateNext';
-import React, { useCallback, createRef, useEffect, useState } from 'react';
+import React, { useCallback, useEffect, useState } from 'react';
 import countyConstituency from '../../data/county_constituency.json';
 import Navigation from '../Navigation';
 import { Theme, useTheme } from '@material-ui/core/styles';
@@ -27,7 +27,7 @@ const chineseToNumber = (chineseString: string) => {
         if (i > 9) {
             n += (d||1) * (i*90-890);
         } else {
-        d = i;
+            d = i;
         }
     });
 
@@ -110,7 +110,7 @@ const desktopStyle = makeStyles({
         paddingTop: '45px',
         paddingLeft: '28px',
         width: '316px',
-        height: '170px',
+        height: '182px',
         border: '1px solid rgba(0, 0, 0, 0.1)',
         boxShadow: '0px 2px 10px rgba(0, 0, 0, 0.03)',
         borderRadius: '4px',
@@ -119,9 +119,10 @@ const desktopStyle = makeStyles({
     regionName: {
         boxSizing: 'border-box',
         display: 'block',
+        height: '24px',
         'line-height': '36px',
         position: 'absolute',
-        top: '29px',
+        top: '24px',
         left: '28px',
         /* Font */
         color: '#222',
@@ -134,7 +135,7 @@ const desktopStyle = makeStyles({
     regionInfo: {
         boxSizing: 'border-box',
         position: 'absolute',
-        top: `${74-5}px`,//74-5
+        top: `${68-5}px`,//74-5
         left: `${29-12}px`,
     },
     regionInfoCellRow: {
