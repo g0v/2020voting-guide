@@ -6,46 +6,43 @@
     transform: rotate(360deg);
   }
 }
-@mixin dount() {
+@mixin dount($size:30px) {
   display: inline-block;
   border: 3px solid $color-primary;
   border-color: $color-primary;
   border-left-color: transparent;
   border-radius: 50%;
-  width: 30px;
-  height: 30px;
+  width: $size;
+  height: $size;
   animation: donutSpin 1.2s linear infinite;
 }
 .loading {
   position: relative;
-  &:before,
-  &:after {
-    content: '';
-    position: absolute;
-    visibility: hidden;
-    opacity: 0;
-    transition: all 0.35s;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-  }
-  &:before {
-    @include dount();
-    z-index: 5;
-    margin: auto;
-  }
-  &:after {
-    width: 100%;
-    height: 100%;
-    z-index: 4;
-    background-color: rgba(255, 255, 255, 0.9);
-  }
   &.is-show {
     &:before,
     &:after {
-      visibility: visible;
-      opacity: 1;
+      content: '';
+      position: absolute;
+      transition: all 0.35s;
+    }
+    &:before {
+      @include dount();
+      z-index: 5;
+      margin: auto;
+      top:50%;
+      left:50%;
+      margin-top:-15px;
+      margin-left: -15px;
+    }
+    &:after {
+      width: 100%;
+      height: 100%;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      z-index: 4;
+      background-color: rgba(255, 255, 255, 0.9);
     }
   }
 }

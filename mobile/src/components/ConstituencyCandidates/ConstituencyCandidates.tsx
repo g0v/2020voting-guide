@@ -6,11 +6,16 @@ import {
     Container
 } from '@material-ui/core';
 import NavigateNextIcon from '@material-ui/icons/NavigateNext';
-import clsx from 'clsx';
-import React, { useEffect, useState } from 'react';
-import Navigation from '../Navigation';
-import { CandidateCard, CandidateProps } from './CandidateCard';
 import { makeStyles } from '@material-ui/core/styles';
+import clsx from 'clsx';
+import React, { useState, useCallback } from 'react';
+import Navigation from '../Navigation';
+import useFetch from '../../hooks/useFetch';
+import CandidateCardWrap from './CandidateCardWrap';
+import CandidateCard, { CandidateProps } from './CandidateCard';
+import CompareBTN from './CompareBTN';
+
+import './ConstituencyCandidates.scss';
 
 const useStyles = makeStyles({
     flexContainer: {
@@ -29,54 +34,146 @@ interface Route {
             constituency: string;
         };
     };
+    location: any;
 }
 
-const CountyCandidates = ({ match }: Route) => {
+const CountyCandidates = ({ match, location }: Route) => {
     const { county, constituency } = match.params;
-    const [isLoading, setLoading] = useState<boolean>(false);
-    const [candidates, setCandidates] = useState<CandidateProps[]>([]);
-    useEffect(() => {
-        setLoading(true);
-        fetch(`/api/constituency/${constituency}`)
-            .then(res => res.json())
-            .then(setCandidates)
-            .finally(() => {
-                setLoading(false);
+
+    // fetch api
+    const { isLoading, responseData } = useFetch<CandidateProps[]>(
+        `/api/constituency/${constituency}`,
+        [],
+        [constituency]
+    );
+    const [selectMode, setSelectMode] = useState<boolean>(false);
+    // select candidateNames only
+    const [selectCandidateNames, setSelectCandidateNames] = useState<string[]>(
+        []
+    );
+    // toggle select mode
+    const toggleSelectMode = useCallback(
+        () => setSelectMode((prev: boolean) => !prev),
+        []
+    );
+
+    React.useLayoutEffect(() => {
+        const urlParams = new URLSearchParams(window.location.search);
+        if (urlParams.has('select')) {
+            const names: string[] = (urlParams.get('select') as string).split(
+                ','
+            );
+            setSelectMode(true);
+            setSelectCandidateNames(names);
+        }
+    }, []);
+
+    const onCandidateCardWrapClick = useCallback(
+        (
+            { name }: CandidateProps,
+            event: React.MouseEvent<HTMLDivElement, MouseEvent>
+        ) => {
+            if (!selectMode) {
+                return;
+            }
+            event.preventDefault();
+            setSelectCandidateNames((prev: string[]) => {
+                const indexOf: number = prev.indexOf(name);
+                if (indexOf === -1) {
+                    return [...prev, name];
+                } else {
+                    prev.splice(indexOf, 1);
+                    return [...prev];
+                }
             });
-    }, [constituency]);
-    const rootClazz: string = clsx('loading p-0', { 'is-show': isLoading });
+        },
+        [selectMode]
+    );
+
+    const onLocationHrefClick = useCallback(() => {
+        window.location.href = `/regional/${county}/${constituency}/compare/${selectCandidateNames.toString()}`;
+    }, [selectCandidateNames]);
+
+    const rootClazz: string = clsx('constituency-candidates loading p-0', {
+        'is-show': isLoading,
+        'is-select': selectMode
+    });
+
     const classes = useStyles();
     return (
         <Container className={rootClazz}>
-            <Navigation title="區域立委候選人">
-                <Breadcrumbs separator={<NavigateNextIcon fontSize="small" />}>
-                    <Link href="/regional">
-                        <Typography variant="h4">
-                            <u>所有縣市</u>
+            <div
+                onClick={onLocationHrefClick}
+                className={clsx(
+                    'constituency-candidates__submit-btn cursor-pointer',
+                    {
+                        'is-show': selectMode,
+                        'is-disabled': selectCandidateNames.length < 2
+                    }
+                )}
+            >
+                <span>開始比較</span>
+            </div>
+            <div className="constituency-candidates__header">
+                <Navigation title="區域立委候選人">
+                    <Breadcrumbs
+                        separator={<NavigateNextIcon fontSize="small" />}
+                    >
+                        <Link href="/regional">
+                            <Typography variant="h4">
+                                <u>所有縣市</u>
+                            </Typography>
+                        </Link>
+                        <Link href={`/regional/${county}`}>
+                            <Typography variant="h4">
+                                <u>{county}</u>
+                            </Typography>
+                        </Link>
+                        <Typography variant="h4" color="textSecondary">
+                            {constituency}
                         </Typography>
-                    </Link>
-                    <Link href={`/regional/${county}`}>
-                        <Typography variant="h4">
-                            <u>{county}</u>
-                        </Typography>
-                    </Link>
-                    <Typography variant="h4" color="textSecondary">
-                        {constituency}
-                    </Typography>
-                </Breadcrumbs>
-            </Navigation>
-            <List className={clsx(!(/Mobi|Android/i.test(navigator.userAgent)) && classes.flexContainer)}>
-                {candidates.map((candidate: CandidateProps) => (
-                    <CandidateCard
-                        key={candidate.id}
-                        id={candidate.id}
-                        name={candidate.name}
-                        photo={candidate.photo}
-                        party={candidate.party}
-                        constituency={constituency}
-                        experience={candidate.experience}
-                        currentLegislator={candidate.currentLegislator}
-                    />
+                    </Breadcrumbs>
+                </Navigation>
+                <CompareBTN
+                    selectMode={selectMode}
+                    onClick={toggleSelectMode}
+                />
+                <div
+                    className={clsx('constituency-candidates__compare-text', {
+                        'd-block': selectMode,
+                        'd-none': !selectMode
+                    })}
+                >
+                    選 2 位以上開始比較 已選 {selectCandidateNames.length} 位
+                </div>
+            </div>
+            <List
+                className={clsx(
+                    !/Mobi|Android/i.test(navigator.userAgent) &&
+                        classes.flexContainer
+                )}
+            >
+                {responseData.map((candidate: CandidateProps) => (
+                    <CandidateCardWrap
+                        onClick={event =>
+                            onCandidateCardWrapClick(candidate, event)
+                        }
+                        selectIndex={selectCandidateNames.indexOf(
+                            candidate.name
+                        )}
+                        selectMode={selectMode}
+                        key={candidate.name}
+                    >
+                        <CandidateCard
+                            id={candidate.id}
+                            name={candidate.name}
+                            photo={candidate.photo}
+                            party={candidate.party}
+                            constituency={constituency}
+                            experience={candidate.experience}
+                            currentLegislator={candidate.currentLegislator}
+                        />
+                    </CandidateCardWrap>
                 ))}
             </List>
         </Container>

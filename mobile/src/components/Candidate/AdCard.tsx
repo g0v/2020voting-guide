@@ -18,7 +18,8 @@ const useStyles = makeStyles({
     }
 });
 
-const AdCard = (ad: {
+export interface AdCardProp {
+    AD_ID: string;
     圖片: string;
     廣告內容: string;
     開始日期: string;
@@ -42,7 +43,9 @@ const AdCard = (ad: {
             upper_bound: string;
         };
     };
-}) => {
+}
+
+const AdCard = (ad: AdCardProp) => {
     const classes = useStyles();
     const [open, setOpen] = React.useState(false);
     const detail = ad['廣告詳情'];
