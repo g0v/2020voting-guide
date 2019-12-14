@@ -1,34 +1,47 @@
 [
     {
-        "name": "中國國民黨",
-        "chairman": [
-            "吳敦義"
-        ],
-        "logo": "/img/party/kmt.svg",
-        "voteNum": 3280949,
-        "voteRate": "32.1944%",
-        "regionalLegislatorsNum": 24,
-        "electedPersonNum": 11,
-        "electedPerson": [
-            "王金平",
-            "柯志恩",
-            "陳宜民",
-            "林麗蟬",
-            "許毓仁",
-            "曾銘宗",
-            "黃昭順",
-            "吳志揚",
-            "張麗善",
-            "徐榛蔚",
-            "曾永權",
-            "王育敏"
-        ]
+        "name": "國會政黨聯盟",
+        "chairman": ["悟覺妙天禪師"],
+        "logo": "/img/party/tl.jpg",
+        "voteNum": 0,
+        "voteRate": "0%",
+        "regionalLegislatorsNum": 0,
+        "electedPersonNum": 0,
+        "electedPerson": []
+    },
+    {
+        "name": "時代力量",
+        "chairman": ["徐永明"],
+        "logo": "/img/party/npp.svg",
+        "voteNum": 744315,
+        "voteRate": "6.1059%",
+        "regionalLegislatorsNum": 3,
+        "electedPersonNum": 2,
+        "electedPerson": ["高潞·以用·巴魕剌", "徐永明"]
+    },
+    {
+        "name": "宗教聯盟",
+        "chairman": ["朱武獻"],
+        "logo": "/img/party/z.png",
+        "voteNum": 0,
+        "voteRate": "0%",
+        "regionalLegislatorsNum": 0,
+        "electedPersonNum": 0,
+        "electedPerson": []
+    },
+    {
+        "name": "台灣基進",
+        "chairman": ["陳奕齊"],
+        "logo": "/img/party/tg.jpg",
+        "voteNum": 0,
+        "voteRate": "0%",
+        "regionalLegislatorsNum": 0,
+        "electedPersonNum": 0,
+        "electedPerson": []
     },
     {
         "name": "民主進步黨",
-        "chairman": [
-            "卓榮泰"
-        ],
+        "chairman": ["卓榮泰"],
         "logo": "/img/party/dpp.svg",
         "voteNum": 5370953,
         "voteRate": "44.0598%",
@@ -56,53 +69,41 @@
         ]
     },
     {
-        "name": "親民黨",
-        "chairman": [
-            "宋楚瑜"
-        ],
-        "logo": "/img/party/pfp.svg",
-        "voteNum": 794838,
-        "voteRate": "6.5203%",
-        "regionalLegislatorsNum": 0,
-        "electedPersonNum": 3,
-        "electedPerson": [
-            "李鴻鈞",
-            "陳怡潔",
-            "周陳秀霞"
-        ]
-    },
-    {
-        "name": "時代力量",
-        "chairman": [
-            "徐永明"
-        ],
-        "logo": "/img/party/npp.svg",
-        "voteNum": 744315,
-        "voteRate": "6.1059%",
-        "regionalLegislatorsNum": 3,
-        "electedPersonNum": 2,
-        "electedPerson": [
-            "高潞·以用·巴魕剌",
-            "徐永明"
-        ]
-    },
-    {
-        "name": "新黨",
-        "chairman": [
-            "郁慕明"
-        ],
-        "logo": "/img/party/np.svg",
-        "voteNum": 510074,
-        "voteRate": "4.1843%",
+        "name": "勞動黨",
+        "chairman": ["吳榮元"],
+        "logo": "/img/party/l.jpg",
+        "voteNum": 0,
+        "voteRate": "0%",
         "regionalLegislatorsNum": 0,
         "electedPersonNum": 0,
         "electedPerson": []
     },
     {
+        "name": "中國國民黨",
+        "chairman": ["吳敦義"],
+        "logo": "/img/party/kmt.svg",
+        "voteNum": 3280949,
+        "voteRate": "32.1944%",
+        "regionalLegislatorsNum": 24,
+        "electedPersonNum": 11,
+        "electedPerson": [
+            "王金平",
+            "柯志恩",
+            "陳宜民",
+            "林麗蟬",
+            "許毓仁",
+            "曾銘宗",
+            "黃昭順",
+            "吳志揚",
+            "張麗善",
+            "徐榛蔚",
+            "曾永權",
+            "王育敏"
+        ]
+    },
+    {
         "name": "綠黨",
-        "chairman": [
-            "梁益誌"
-        ],
+        "chairman": ["梁益誌"],
         "logo": "/img/party/gp.png",
         "voteNum": 510074,
         "voteRate": "4.1843%",
@@ -111,13 +112,111 @@
         "electedPerson": []
     },
     {
+        "name": "親民黨",
+        "chairman": ["宋楚瑜"],
+        "logo": "/img/party/pfp.svg",
+        "voteNum": 794838,
+        "voteRate": "6.5203%",
+        "regionalLegislatorsNum": 0,
+        "electedPersonNum": 3,
+        "electedPerson": ["李鴻鈞", "陳怡潔", "周陳秀霞"]
+    },
+    {
+        "name": "台灣民眾黨",
+        "chairman": ["柯文哲"],
+        "logo": "/img/party/tmd.jpg",
+        "voteNum": 0,
+        "voteRate": "0%",
+        "regionalLegislatorsNum": 0,
+        "electedPersonNum": 0,
+        "electedPerson": []
+    },
+    {
         "name": "台灣團結聯盟",
-        "chairman": [
-            "劉一德"
-        ],
+        "chairman": ["劉一德"],
         "logo": "/img/party/tsu.svg",
         "voteNum": 305675,
         "voteRate": "2.5076%",
+        "regionalLegislatorsNum": 0,
+        "electedPersonNum": 0,
+        "electedPerson": []
+    },
+    {
+        "name": "台灣維新",
+        "chairman": ["蘇煥智"],
+        "logo": "/img/party/ws.png",
+        "voteNum": 0,
+        "voteRate": "0%",
+        "regionalLegislatorsNum": 0,
+        "electedPersonNum": 0,
+        "electedPerson": []
+    },
+    {
+        "name": "台澎黨",
+        "chairman": ["鄭自才"],
+        "logo": "/img/party/tp.jpg",
+        "voteNum": 0,
+        "voteRate": "0%",
+        "regionalLegislatorsNum": 0,
+        "electedPersonNum": 0,
+        "electedPerson": []
+    },
+    {
+        "name": "中華統一促進黨",
+        "chairman": ["張馥堂"],
+        "logo": "/img/party/tt.jpg",
+        "voteNum": 0,
+        "voteRate": "0%",
+        "regionalLegislatorsNum": 0,
+        "electedPersonNum": 0,
+        "electedPerson": []
+    },
+    {
+        "name": "喜樂島聯盟",
+        "chairman": ["羅仁貴"],
+        "logo": "/img/party/shl.jpg",
+        "voteNum": 0,
+        "voteRate": "0%",
+        "regionalLegislatorsNum": 0,
+        "electedPersonNum": 0,
+        "electedPerson": []
+    },
+    {
+        "name": "新黨",
+        "chairman": ["郁慕明"],
+        "logo": "/img/party/np.svg",
+        "voteNum": 510074,
+        "voteRate": "4.1843%",
+        "regionalLegislatorsNum": 0,
+        "electedPersonNum": 0,
+        "electedPerson": []
+    },
+    {
+        "name": "合一行動聯盟",
+        "chairman": ["洪迦智"],
+        "logo": "/img/party/h1.jpg",
+        "voteNum": 0,
+        "voteRate": "0%",
+        "regionalLegislatorsNum": 0,
+        "electedPersonNum": 0,
+        "electedPerson": []
+    },
+    {
+        "name": "一邊一國行動黨",
+        "chairman": ["楊其文"],
+        "logo": "/img/party/11.jpg",
+        "voteNum": 0,
+        "voteRate": "0%",
+        "regionalLegislatorsNum": 0,
+        "electedPersonNum": 0,
+        "electedPerson": []
+    },
+    {
+        "name": "安定力量",
+        "chairman": ["孫繼正"],
+        "logo": "/img/party/ad.png",
+        "voteNum": 0,
+        "voteRate": "0%",
         "regionalLegislatorsNum": 0,
         "electedPersonNum": 0,
         "electedPerson": []
