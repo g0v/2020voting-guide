@@ -30,14 +30,14 @@ const getBarHeight = (
 const useStyles = makeStyles({
     bar: {
         width: '42px',
-        height: getBarHeight + 'px',
         color: 'white'
     },
     barChild: {
         borderBottom: '1px solid white',
         display: 'flex',
         justifyContent: 'center',
-        alignItems: 'center',
+				alignItems: 'center',
+				height: (props: any) => props.height + 'px',
         background: (props: any) =>
             props.item === INCOME ? '#3199BA' : '#D4AF37',
         opacity: (props: any) =>
@@ -67,7 +67,7 @@ interface ContributionChart {
 
 const StyledComponent = (props: any) => {
     const classes = useStyles(props);
-    const { styleName, children } = props;
+		const { styleName, children } = props;
     return <div className={(classes as any)[styleName]}>{children}</div>;
 };
 
@@ -91,15 +91,24 @@ const ContributionChart = ({
                 >
                     <StyledComponent
                         item={INCOME}
-                        className="bar"
+                        styleName="bar"
                         active={activedContribution == INCOME}
                     >
-                        {income.map((incomeItem, index) => (
+											{income
+												.sort((a, b) => b.value - a.value)
+												.map((incomeItem, index) => (
                             <StyledComponent
                                 key={incomeItem.name}
-                                className="barChild"
-                                item={INCOME}
-                                active={activedContribution === INCOME}
+                                styleName="barChild"
+																item={INCOME}
+																first={index === 0}
+																active={activedContribution === INCOME}
+																height={
+																	getBarHeight(
+																			INCOME,
+																			totalIncome,
+																			totalExpense
+																	) * incomeItem.percent * 0.01}
                                 style={{
                                     background: 'red',
                                     height:
@@ -109,8 +118,7 @@ const ContributionChart = ({
                                             totalExpense
                                         ) *
                                             incomeItem.percent *
-                                            0.01 +
-                                        'px'
+                                            0.01
                                 }}
                             >
                                 {index === 0
@@ -136,27 +144,24 @@ const ContributionChart = ({
                         item={EXPENSE}
                         active={activedContribution === EXPENSE}
                     >
-                        {expense.map((incomeItem, index) => (
+											{expense
+												.sort((a, b) => b.value - a.value)
+												.map((expenseItem, index) => (
                             <StyledComponent
-                                key={incomeItem.name}
+                                key={expenseItem.name}
                                 styleName="barChild"
                                 item={EXPENSE}
                                 active={activedContribution === EXPENSE}
-                                first={index === 0}
-                                style={{
-                                    height:
-                                        getBarHeight(
-                                            EXPENSE,
-                                            totalIncome,
-                                            totalExpense
-                                        ) *
-                                            incomeItem.percent *
-                                            0.01 +
-                                        'px'
-                                }}
-                            >
+																first={index === 0}
+																height={
+																	getBarHeight(
+																		EXPENSE,
+																			totalIncome,
+																			totalExpense
+																	) * expenseItem.percent * 0.01}
+														>
                                 {index === 0
-                                    ? Math.round(incomeItem.percent) + '%'
+                                    ? Math.round(expenseItem.percent) + '%'
                                     : ''}
                             </StyledComponent>
                         ))}
@@ -209,7 +214,7 @@ const ContributionChart = ({
                                             {incomeItem.name}
                                         </Typography>
                                         <Typography variant="h5">
-                                            {incomeItem.value}
+                                            {incomeItem.value.toLocaleString()}
                                         </Typography>
                                     </Box>
                                 )
