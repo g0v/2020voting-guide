@@ -1,6 +1,7 @@
 from os import environ
 
-from peewee import BooleanField, CharField, IntegerField, Model, MySQLDatabase, SmallIntegerField, TextField
+from peewee import (BooleanField, CharField, IntegerField, Model,
+                    MySQLDatabase, SmallIntegerField, TextField)
 
 USER = environ["MYSQL_USER"]
 PASSWORD = environ["MYSQL_PASSWORD"]
