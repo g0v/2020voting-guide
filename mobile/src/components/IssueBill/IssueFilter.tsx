@@ -33,13 +33,20 @@ const useStyles = makeStyles((theme: Theme) =>
             marginLeft: theme.spacing(2),
             flex: 1
         },
+        checkbox: {
+            textAlign: "left",
+            lineHeight: "1.2",
+            position: 'absolute',
+            top: '4px',
+            left: '4px'
+        },
         issueButtonWrapper: {
             width: (props:any) => `calc((100% - ${4 * 2 * (props.length)}px) / ${props.length})`,
         },
         issueButton: {
             width:'100%',
             height: 100,
-            display: 'block',
+            display: 'flex',
             border: (props:any) => props.active ? 'none' : '1px solid rgba(49, 153, 186, 0.41)',
             padding: '6px',
             background: (props:any) => props.active ? 'rgba(49, 153, 186, 0.2)' : '#fff'
@@ -144,7 +151,7 @@ const IssueFilter = ({
                                                     selectIssue(issue);
                                                 }}
                                             >
-                                                <Box style={{ textAlign: "left", lineHeight: "1.2"}}>
+                                                <Box className={classesProps().checkbox}>
                                                     {
                                                         selected.includes(issue) ? (
                                                             <CheckCircleIcon style={{ color: '#3199BA' }} />
@@ -160,7 +167,13 @@ const IssueFilter = ({
                                                 </Typography>
                                                 <Typography
                                                     variant="h5"
-                                                    style={{ color: '#2584A3' }}>
+                                                    style={{
+                                                        color: '#2584A3',
+                                                        position: 'absolute',
+                                                        bottom: '8px',
+                                                        fontFamily: 'Roboto',
+                                                        fontWeight: 600
+                                                    }}>
                                                 {
                                                     bills.filter(
                                                         ({ category }) =>
