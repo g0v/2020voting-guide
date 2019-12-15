@@ -9,7 +9,7 @@ STATIC_DATA_FOLDER = "../data/static/ad"
 url = "https://gist.githubusercontent.com/ronnywang/dd781d031501d69f70ddba6a2bf88d9b/raw/29930a8246e73e92ad99646bb1f3ff4b0401a8c2/fb-ad.jsonl"
 response = requests.get(url)
 
-ads = [json.loads(ad) for ad in response.text.split("\n") if ad]
+ads = [json.loads(ad) for ad in response.text.split("\n") if "廣告詳情" in ad]
 print(ads)
 
 # # file version
