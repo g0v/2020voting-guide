@@ -5,7 +5,6 @@ import React, { FunctionComponent, useEffect, useState } from 'react';
 import Alert from '../Alert';
 import { Bill } from '../IssueBill';
 import IssueBillTab from '../IssueBillTab';
-import BasicInfoTab from './BasicInfoTab';
 import Nav from './Nav';
 import NoInfoTab from './NoInfoTab';
 import PassPerformanceTab from './PassPerformanceTab';
@@ -18,9 +17,9 @@ const CandidateDefault = {
     constituency: '',
     party: '',
     age: 0,
-    educations: '',
-    experiences: '',
-    politics: '',
+    education: '',
+    experience: '',
+    politic: '',
     sittingRate: 0,
     interpellationRate: 0,
     interpellationnum: '',
@@ -122,11 +121,11 @@ const CandidatePage = ({ match }: CandidatePage) => {
                 ) : (
                     <NoInfoTab name={candidate.name} from="passPerformance" />
                 )
-            ) : candidate.educations &&
-              candidate.experiences &&
-              candidate.politics ? (
-                <BasicInfoTab name={name} constituency={constituency} />
             ) : (
+                // ) : candidate.education ||
+                //   candidate.experience ||
+                //   candidate.politic ? (
+                //     <BasicInfoTab {...candidate} />
                 <NoInfoTab name={candidate.name} from="basicInfo" />
             )}
         </>

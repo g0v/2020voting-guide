@@ -10,13 +10,6 @@ import (
 )
 
 // ListCandidatesByConstituencyHandler provide constituency list
-// @Summary List candidates by constituency
-// @Description list candidates by constituency
-// @Accept json
-// @Produce json
-// @Param constituency path string true "Constituency"
-// @Success 200 {object} models.CandidateCards
-// @Router /api/candidates/constituency/{constituency} [get]
 func ListCandidatesByConstituencyHandler(c *gin.Context) {
 
 	constituency := c.Param("constituency")
@@ -38,14 +31,6 @@ func ListCandidatesByConstituencyHandler(c *gin.Context) {
 	c.JSON(http.StatusOK, candidates)
 }
 
-// GetCandidateByNameHandler return candidate info
-// @Summary get the candidate by name
-// @Description get the candidate by name
-// @Accept json
-// @Produce json
-// @Param name path string true "Name"
-// @Success 200 {object} models.Candidate
-// @Router /api/candidate/{name} [get]
 func GetCandidateByNameHandler(c *gin.Context) {
 	name := c.Param("name")
 	constituency := c.Param("constituency")
@@ -57,9 +42,9 @@ func GetCandidateByNameHandler(c *gin.Context) {
 	var manualCandidateDb db.ManualCandidate
 	db.MySQL.Where("name = ? AND constituency = ?", name, constituency).First(&manualCandidateDb)
 	candidate.Photo = manualCandidateDb.Photo
-	candidate.Educations = manualCandidateDb.Education
-	candidate.Experiences = manualCandidateDb.Experience
-	candidate.Politics = manualCandidateDb.Politics
+	candidate.Education = manualCandidateDb.Education
+	candidate.Experience = manualCandidateDb.Experience
+	candidate.Politic = manualCandidateDb.Politics
 	candidate.CurrentLegislator = manualCandidateDb.CurrentLegislator
 	candidate.Age = manualCandidateDb.Age
 	candidate.Party = manualCandidateDb.Party

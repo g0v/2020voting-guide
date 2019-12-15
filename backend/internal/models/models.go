@@ -18,17 +18,14 @@ type CandidateOverview struct {
 
 // Candidate api for candidate
 type Candidate struct {
-	Name         string `json:"name"`
-	Photo        string `json:"photo"`
-	County       string `json:"county"`
-	Constituency string `json:"constituency"`
-	Party        string `json:"party"`
-	Age          int    `json:"age"`
-	// LastTerm          string `json:"lastTerm"`
-	// LastTermYear      string `json:"lastTermYear"`
-	Educations        string `json:"educations"`
-	Experiences       string `json:"experiences"`
-	Politics          string `json:"politics"`
+	Name              string `json:"name"`
+	Photo             string `json:"photo"`
+	Constituency      string `json:"constituency"`
+	Party             string `json:"party"`
+	Age               int    `json:"age"`
+	Education         string `json:"education"`
+	Experience        string `json:"experience"`
+	Politic           string `json:"politic"`
 	CurrentLegislator bool   `json:"currentLegislator"`
 	// SittingRate            string `json:"sittingRate"`
 	// InterpellationRate     string `json:"interpellationRate"`
@@ -37,7 +34,7 @@ type Candidate struct {
 	// InterpellationCategory string `json:"interpellationCategory"`
 	// BillNum                string `json:"billNum"`
 	// BillNumCategory        string `json:"billNumCategory"`
-	PoliticalContribution string `json:"politicalContribution"`
+	// PoliticalContribution string `json:"politicalContribution"`
 	// OtherCandidate         string `json:"otherCandidate"`
 }
 
