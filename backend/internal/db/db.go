@@ -99,8 +99,10 @@ type Candidate struct {
 
 type ManualCandidate struct {
 	Name                 string
+	Constituency         string
 	Photo                string
 	Party                string
+	Age                  int
 	CurrentLegislator    bool `gorm:"column:currentLegislator"`
 	Education            string
 	Experience           string

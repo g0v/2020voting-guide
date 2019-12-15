@@ -61,12 +61,9 @@ func GetCandidateByNameHandler(c *gin.Context) {
 	candidate.Experiences = manualCandidateDb.Experience
 	candidate.Politics = manualCandidateDb.Politics
 	candidate.CurrentLegislator = manualCandidateDb.CurrentLegislator
-
-	var candidateDb db.Candidate
-	db.MySQL.Where("name = ? AND constituency = ?", name, constituency).First(&candidateDb)
-	candidate.Age = candidateDb.Age
-	candidate.Party = candidateDb.Party
-	candidate.Constituency = candidateDb.Constituency
+	candidate.Age = manualCandidateDb.Age
+	candidate.Party = manualCandidateDb.Party
+	candidate.Constituency = manualCandidateDb.Constituency
 
 	c.JSON(http.StatusOK, candidate)
 }
