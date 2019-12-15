@@ -31,6 +31,8 @@ const colors: {
     其他: { main: '#AEAEAE' }
 };
 
+export const PartyColorLookup = colors;
+
 export const RectangleIcon = ({ party }: { party: string }) => {
     let partyColor
     if (party.length === 0) {
