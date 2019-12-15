@@ -64,6 +64,9 @@ const IssueBillTabAlert: FunctionComponent<{
 
 const caucusParty = ['民主進步黨', '中國國民黨', '親民黨', '時代力量'];
 
+const isDesktop = !(/Mobi|Android/i.test(navigator.userAgent));
+const desktopPadding = isDesktop ? {padding: '0 10%'} : {};
+
 const CandidatePage = ({ match }: CandidatePage) => {
     const { name, constituency } = match.params;
     const [tab, setTab] = useState(0);
@@ -87,8 +90,9 @@ const CandidatePage = ({ match }: CandidatePage) => {
 
     return (
         <>
-            <Nav {...candidate} />
+            <Nav {...candidate} padding={desktopPadding}/>
             <Tabs
+                style={desktopPadding}
                 value={tab}
                 indicatorColor="primary"
                 textColor="primary"
@@ -104,7 +108,7 @@ const CandidatePage = ({ match }: CandidatePage) => {
             {tab === 0 ? (
                 candidate.currentLegislator ||
                 caucusParty.includes(candidate.party) ? (
-                    <IssueBillTab bills={bills}>
+                    <IssueBillTab bills={bills} padding={desktopPadding} isDesktop={isDesktop}>
                         <IssueBillTabAlert
                             name={candidate.name}
                             isCurrentLegislator={candidate.currentLegislator}

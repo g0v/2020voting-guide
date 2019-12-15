@@ -1,15 +1,24 @@
-import { Box } from '@material-ui/core';
+import { Box, Grid, Card, CardContent, Typography } from '@material-ui/core';
 import React, { FunctionComponent } from 'react';
 import issuesObj from '../data/issues.json';
 import IssueBill, { Bill } from './IssueBill';
 import IssueFilter from './IssueBill/IssueFilter';
 import NewParty from './Party/NewParty';
 
+const customStyle = {
+    issueContainer: {
+        paddingTop: '20px',
+        marginTop: '1px'
+    }
+}
+
 const IssueBillTab: FunctionComponent<{
     bills: Bill[];
     isParty?: boolean;
     party?: string;
-}> = ({ isParty = false, party = '', bills = [], children }) => {
+    padding?: object;
+    isDesktop?: boolean;
+}> = ({ isParty = false, party = '', bills = [], padding = {}, isDesktop = false, children }) => {
     const [selectedIssue, updateSelectedIssue] = React.useState([] as string[]);
 
     const selectIssue = (issue: string) => {
@@ -31,29 +40,44 @@ const IssueBillTab: FunctionComponent<{
     const filteredIssue = issueFilter.length ? issueFilter : issues;
 
     return (
-        <Box bgcolor="#F7F7F7" py={1}>
-            {children}
-            <div>
-                {filteredIssue
-                    .map(issue => ({
-                        issue: issue,
-                        bills: bills.filter(i => issue === i.category)
-                    }))
-                    .filter(issue => issue.bills.length !== 0)
-                    .map((issue, i) => (
-                        <IssueBill
-                            key={`${issue.issue}${i}`}
-                            issue={issue.issue}
-                            bills={issue.bills}
-                        />
-                    ))}
-            </div>
-            <IssueFilter
-                selected={selectedIssue}
-                selectIssue={selectIssue}
-                complete={handleComplete}
-                bills={bills}
-            />
+        <Box bgcolor="#F7F7F7" py={1} style={padding}>
+            {isDesktop ? 
+                <Grid container spacing={3} style={customStyle.issueContainer}>
+                    <Grid item sm={4}>
+                        <Card>
+                            <CardContent>
+                                <Typography>所有議題</Typography>
+                            </CardContent>
+                        </Card>
+                    </Grid>
+                    <Grid item sm={8}>navvvv</Grid>
+                </Grid>
+                 :
+                <React.Fragment>
+                    {children}
+                    <div>
+                        {filteredIssue
+                            .map(issue => ({
+                                issue: issue,
+                                bills: bills.filter(i => issue === i.category)
+                            }))
+                            .filter(issue => issue.bills.length != 0)
+                            .map((issue, i) => (
+                                <IssueBill
+                                    key={`${issue.issue}${i}`}
+                                    issue={issue.issue}
+                                    bills={issue.bills}
+                                />
+                            ))}
+                    </div>
+                    <IssueFilter
+                        selected={selectedIssue}
+                        selectIssue={selectIssue}
+                        complete={handleComplete}
+                        bills={bills}
+                    />
+                </React.Fragment>
+            }
         </Box>
     );
 };

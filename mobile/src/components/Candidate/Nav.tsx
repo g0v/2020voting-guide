@@ -22,6 +22,7 @@ interface Nav {
     photo?: string;
     party?: string;
     age?: number;
+    padding?: object;
 }
 
 const Nav = ({
@@ -29,7 +30,8 @@ const Nav = ({
     constituency = '',
     photo = '',
     age = 0,
-    party = ''
+    party = '',
+    padding = {}
 }: Nav) => {
     const classes = useStyles();
     const ageDisplay = age === 0 ? '未知年齡' : `${age} 歲`;
@@ -38,7 +40,7 @@ const Nav = ({
     );
     const county = county_list.length ? county_list[0].name : '';
     return (
-        <>
+        <div style={padding}>
             <Box m={1}>
                 <Box display="flex" alignItems="center" my={1}>
                     <Link href={`/regional/${county}/${constituency}`}>
@@ -91,7 +93,7 @@ const Nav = ({
                     </Grid>
                 </Box>
             </Box>
-        </>
+        </div>
     );
 };
 
