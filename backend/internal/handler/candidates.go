@@ -67,7 +67,6 @@ func GetCandidateByNameHandler(c *gin.Context) {
 	candidate.Age = candidateDb.Age
 	candidate.Party = candidateDb.Party
 	candidate.Constituency = candidateDb.Constituency
-	candidate.LastTerm = candidateDb.LastTerm
 
 	c.JSON(http.StatusOK, candidate)
 }

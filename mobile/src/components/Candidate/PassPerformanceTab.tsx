@@ -67,9 +67,7 @@ const Statistic: {
 };
 interface PositionTab {
     name?: string;
-    lastTerm?: string;
     constituency?: string;
-    lastTermYear?: string;
     interpellationCategory?: { name: string; value: number }[];
     billNumCategory?: { name: string; percent: number }[];
 }

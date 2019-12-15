@@ -18,8 +18,6 @@ const CandidateDefault = {
     constituency: '',
     party: '',
     age: 0,
-    lastterm: '',
-    lasttermyear: '',
     educations: '',
     experiences: '',
     politics: '',
