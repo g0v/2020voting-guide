@@ -62,6 +62,22 @@ interface AD {
     廣告內容: string;
 }
 
+const Payment: {
+    candidate: {
+        finance_data: {
+            income: { items: []; total: number },
+            outcome: { items: []; total: number }
+        }
+    }
+} = {
+    candidate: {
+        finance_data: {
+            income: { items: [], total: 0 },
+            outcome: { items: [], total: 0 }
+        }
+    }
+}
+
 const StrengthTab = ({
     constituency,
     name
@@ -84,6 +100,45 @@ const StrengthTab = ({
             .then(res => res.json())
             .then(setAds);
     }, [name]);
+
+    const [payment, setPayment] = React.useState(Payment);
+
+    const {
+        candidate: {
+            finance_data: {
+                income,
+                outcome
+            }
+        }
+    }= payment
+
+    const incomeDetail = income.items.map(
+		(item: { name: string; amount: number; item_count: number }) => {
+		return {
+            ...item,
+            value: item.amount,
+			percent: Number(((item.amount / income.total) * 100).toFixed(2)) || 0
+		}
+    })
+
+    const outcomeDetail = outcome.items.map(
+		(item: { name: string; amount: number; item_count: number }) => {
+		return {
+            name: item.name,
+            value: item.amount,
+			percent: Number(((item.amount / outcome.total) * 100).toFixed(2)) || 0
+		}
+    })
+
+    const totalIncome = income.total
+    const totalOutcome = outcome.total
+
+    React.useEffect(() => {
+        fetch(`/api/data/2016_payment/${name}.json`)
+            .then(res => res.json())
+            .then(res => setPayment(res))
+    }, [name]);
+
 
     const [statistic, setStatistic] = React.useState(Statistic);
     const contributionIncome = Object.keys(contributionMappings).map((key: string) => {
@@ -185,11 +240,12 @@ const StrengthTab = ({
                         <Typography variant="h3">{name}政治獻金專戶</Typography>
                     </Box>
                     <ContributionChart
-                        totalIncome={statistic.contribution.totalIncome}
-                        totalExpense={statistic.contribution.totalExpense}
-                        income={contributionIncome}
-                        expense={contributionExpense}/>
 
+                        totalIncome={totalIncome}
+                        totalExpense={totalOutcome}
+                        income={incomeDetail}
+                        expense={outcomeDetail}
+                    />
                     <Box my={2}>
                         <Typography variant="h5" color="textSecondary">
                         {`政治獻金細目：`}
