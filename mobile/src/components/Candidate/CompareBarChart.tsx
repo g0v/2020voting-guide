@@ -31,14 +31,14 @@ interface BaseTooltip {
 }
 
 const CustomTooltip = ({active, label, payload}: BaseTooltip) => {
-  if (active) {
-		const income = payload ? (Number(payload[0].value).toFixed(2) + '百萬') : 0;
-		const expense = payload ? (Number(payload[1].value).toFixed(2) + '百萬') : 0;
+  if (active && payload) {
+		const income = Number(payload[0].value) ? (Number(payload[0].value).toFixed(2) + '百萬') : '無資料';
+		const expense = Number(payload[0].value) ? (Number(payload[1].value).toFixed(2) + '百萬') : '無資料';
     return (
       <div className="custom-tooltip">
-				<p>{label}</p>
-        <p className="label">{`收入 : ${income}`}</p>
-        <p className="label">{`支出 : ${expense}`}</p>
+				<div>{label}</div>
+        <div className="label">{`收入 : ${income}`}</div>
+        <div className="label">{`支出 : ${expense}`}</div>
       </div>
     );
   }

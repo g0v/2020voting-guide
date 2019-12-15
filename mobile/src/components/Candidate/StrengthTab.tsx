@@ -10,51 +10,6 @@ const candidateFBDefault = {
     fbPage: ''
 };
 
-const contributionMappings: { [key: string]: string } = {
-    personalContributeion: '個人捐贈收入',
-    profitableContributeion: '營利事業捐贈收入',
-    partyContributeion: '政黨捐贈收入',
-    civilOrganizationsContributeion: '人民團體捐贈收入',
-    anonymousContributeion: '匿名捐贈收入',
-    otherContributeion: '其他收入'
-}
-
-const Statistic: {
-    sittingRate: number;
-    interpellationRate: number;
-    interpellationNum: number;
-    billProposalNum: number;
-    interpellation: [];
-    billProposal: [];
-    contribution: {
-        [key: string]: number;
-    },
-    otherConstituencyCandidate: {
-        name: string;
-        totalIncome: number;
-        totalExpense: number
-    }[]
-} = {
-    sittingRate: 0,
-    interpellationRate: 0,
-    interpellationNum: 0,
-    billProposalNum: 0,
-    interpellation: [],
-    billProposal: [],
-    contribution: {
-        totalIncome: 0,
-        personalContributeion: 0,
-        profitableContributeion: 0,
-        partyContributeion: 0,
-        civilOrganizationsContributeion: 0,
-        anonymousContributeion: 0,
-        otherContributeion: 0,
-        overThrityThousandContribute: 0,
-        totalExpense: 0
-    },
-    otherConstituencyCandidate: []
-};
-
 interface AD {
     開始日期: string;
     結束日期: string;
@@ -68,6 +23,9 @@ const Payment: {
             income: { items: []; total: number },
             outcome: { items: []; total: number }
         }
+    },
+    constituency: {
+        candidates: []
     }
 } = {
     candidate: {
@@ -75,6 +33,9 @@ const Payment: {
             income: { items: [], total: 0 },
             outcome: { items: [], total: 0 }
         }
+    },
+    constituency: {
+        candidates: []
     }
 }
 
@@ -110,6 +71,9 @@ const StrengthTab = ({
                 income,
                 outcome
             }
+        },
+        constituency: {
+            candidates: othercandidates
         }
     }= payment
 
@@ -131,6 +95,24 @@ const StrengthTab = ({
 		}
     })
 
+    const otherCandidates = othercandidates.map((candidate: {
+            name: string;
+            finance: {
+                income: {
+                    total: number;
+                },
+                outcome: {
+                    total: number;
+                }
+            }
+        }) => {
+            return {
+                name: candidate.name,
+                totalIncome: candidate.finance ? candidate.finance.income.total : 0,
+                totalExpense: candidate.finance ? candidate.finance.outcome.total : 0
+            }
+        })
+
     const totalIncome = income.total
     const totalOutcome = outcome.total
 
@@ -144,33 +126,6 @@ const StrengthTab = ({
                 setPayment(res)
             })
             .catch(err => console.log(err))
-    }, [name]);
-
-
-    const [statistic, setStatistic] = React.useState(Statistic);
-    const contributionIncome = Object.keys(contributionMappings).map((key: string) => {
-        return {
-            name: contributionMappings[key] || '',
-            value: statistic.contribution[key],
-            percent: Number(((statistic.contribution[key] / statistic.contribution.totalIncome) * 100).toFixed(2)) || 0
-        }
-    }).sort((a, b) => {
-        return b.value - a.value
-    })
-
-    const contributionExpense = [
-            {
-            name: '總支出',
-            value: statistic.contribution.totalExpense,
-            percent: 100
-        }
-    ]
-
-    React.useEffect(() => {
-        if (!name) return;
-        fetch(`/api/statistic/${name}`)
-            .then(res => res.json())
-            .then(res => setStatistic(res));
     }, [name]);
 
     return (
@@ -248,7 +203,6 @@ const StrengthTab = ({
                         <Typography variant="h3">{name}政治獻金專戶</Typography>
                     </Box>
                     <ContributionChart
-
                         totalIncome={totalIncome}
                         totalExpense={totalOutcome}
                         income={incomeDetail}
@@ -257,7 +211,7 @@ const StrengthTab = ({
                     <Box my={2}>
                         <Typography variant="h5" color="textSecondary">
                         {`政治獻金細目：`}
-                        <Link href="https://sunshine.cy.gov.tw/">
+                        <Link href="https://g0v-money-flow.github.io/">
                         公民監督國會聯盟-金流百科
                         </Link>
                         </Typography>
@@ -271,12 +225,12 @@ const StrengthTab = ({
                     <Typography variant="h5" color="textSecondary">
                         2016 區域立委選舉 { constituency } 其他候選人收支
                     </Typography>
-                    <CompareBarChart name={name} data={statistic.otherConstituencyCandidate} />
+                    <CompareBarChart name={name} data={otherCandidates} />
                     <Box my={2}>
                         <Typography variant="h5" color="textSecondary">
                             {`資料來源：`}
-                            <Link href="https://sunshine.cy.gov.tw/">
-                            監察院 陽光法令主題網
+                            <Link href="https://g0v-money-flow.github.io/">
+                            公民監督國會聯盟-金流百科
                             </Link>
                         </Typography>
                     </Box>
