@@ -102,6 +102,7 @@ const StrengthTab = ({
     }, [name]);
 
     const [payment, setPayment] = React.useState(Payment);
+    const [hasPayment, setHasPayment] = React.useState(false);
 
     const {
         candidate: {
@@ -136,7 +137,13 @@ const StrengthTab = ({
     React.useEffect(() => {
         fetch(`/api/data/2016_payment/${name}.json`)
             .then(res => res.json())
-            .then(res => setPayment(res))
+            .then(res => {
+                if (res) {
+                    setHasPayment(true)
+                }
+                setPayment(res)
+            })
+            .catch(err => console.log(err))
     }, [name]);
 
 
@@ -217,7 +224,8 @@ const StrengthTab = ({
                 </Box>
             </Box>
 
-            <Box bgcolor="#F9F9F9" py={1}>
+            { hasPayment && (
+                <Box bgcolor="#F9F9F9" py={1}>
                 <Box display="flex" alignItems="center" mx={1.5} pt={3}>
                     <Box
                         width="8px"
@@ -274,6 +282,7 @@ const StrengthTab = ({
                     </Box>
                 </Box>
             </Box>
+            )}
         </>
     );
 };
