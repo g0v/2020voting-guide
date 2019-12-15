@@ -39,7 +39,7 @@ const IssueBillTab: FunctionComponent<{
                         issue: issue,
                         bills: bills.filter(i => issue === i.category)
                     }))
-                    .filter(issue => issue.bills.length != 0)
+                    .filter(issue => issue.bills.length !== 0)
                     .map((issue, i) => (
                         <IssueBill
                             key={`${issue.issue}${i}`}

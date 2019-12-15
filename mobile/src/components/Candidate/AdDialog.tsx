@@ -18,7 +18,7 @@ const AdDialog = ({
 }) => {
     const generateCardTextHtml = (fullText: string) => {
         const adLines =
-            fullText.search('\n') == -1
+            fullText.search('\n') === -1
                 ? fullText.split(/ (?![a-zA-Z])/)
                 : fullText.split('\n');
         return (
@@ -43,8 +43,13 @@ const AdDialog = ({
     return (
         <Dialog>
             <DialogContent>
-                <Box maxWidth="100%" style={{ textAlign:'center' }}>
-                    <img src={pic} width="100%" style={{ maxWidth:'500px'}}/>
+                <Box maxWidth="100%" style={{ textAlign: 'center' }}>
+                    <img
+                        src={pic}
+                        alt="ad pic"
+                        width="100%"
+                        style={{ maxWidth: '500px' }}
+                    />
                 </Box>
                 {generateCardTextHtml(content)}
             </DialogContent>

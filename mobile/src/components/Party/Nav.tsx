@@ -1,10 +1,7 @@
-import React, { FunctionComponent } from 'react';
 import { Avatar, Box, Grid } from '@material-ui/core';
-import Link from '@material-ui/core/Link';
 import Typography from '@material-ui/core/Typography';
-import KeyboardArrowLeft from '@material-ui/icons/KeyboardArrowLeft';
 import { makeStyles } from '@material-ui/styles';
-import Seats from '../Party/Seats';
+import React, { FunctionComponent } from 'react';
 
 const useStyles = makeStyles({
     photo: {

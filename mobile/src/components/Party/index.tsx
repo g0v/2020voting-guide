@@ -107,7 +107,7 @@ const Party = ({ match }: RouteComponentProps<{ party: string }>) => {
                 />
             )}
             {tab === 1 ? (
-                currentParty.indexOf(party) == -1 ? (
+                currentParty.indexOf(party) === -1 ? (
                     <NewParty name={party} />
                 ) : (
                     <IssueBillTab party={party} isParty bills={bills} />
@@ -116,7 +116,7 @@ const Party = ({ match }: RouteComponentProps<{ party: string }>) => {
             {/* {tab === 2 && <Progressing />} */}
             {tab === 2 && (
                 <BasicInfoTab
-					party={party}
+                    party={party}
                     lastPolitics={politics ? politics.politics : ''}
                     positions={positions}
                 />

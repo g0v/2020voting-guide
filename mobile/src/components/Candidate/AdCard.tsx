@@ -44,7 +44,7 @@ const AdCard = (ad: {
         : ad['廣告內容'];
     const generateCardTextHtml = (fullText: string) => {
         const adLines =
-            fullText.search('\n') == -1
+            fullText.search('\n') === -1
                 ? fullText.split(/ (?![a-zA-Z])/)
                 : fullText.split('\n');
 
@@ -85,8 +85,8 @@ const AdCard = (ad: {
                                 style={{
                                     backgroundImage: `url(${ad['圖片']})`,
                                     backgroundPosition: 'center',
-                                    backgroundSize: "cover",
-                                    borderRadius: "5px"
+                                    backgroundSize: 'cover',
+                                    borderRadius: '5px'
                                 }}
                             />
                         </Box>
@@ -99,6 +99,7 @@ const AdCard = (ad: {
                         </Typography>
                         <Box mx={1} display="inline-box">
                             <img
+                                alt="period"
                                 src="/img/calendar.svg"
                                 height="20px"
                                 width="20px"
