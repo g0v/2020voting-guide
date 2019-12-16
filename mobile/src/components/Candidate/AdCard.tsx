@@ -24,7 +24,7 @@ const AdCard = (ad: {
     廣告內容: string;
     開始日期: string;
     結束日期: string;
-    廣告詳情?: {
+    廣告詳情: {
         ad_creative_body: string;
         ad_creation_time: string;
         ad_creative_link_caption: string;
@@ -39,9 +39,7 @@ const AdCard = (ad: {
     const classes = useStyles();
     const [open, setOpen] = React.useState(false);
 
-    const content = ad['廣告詳情']
-        ? ad['廣告詳情'].ad_creative_body
-        : ad['廣告內容'];
+    const content = ad['廣告詳情'].ad_creative_body;
     const generateCardTextHtml = (fullText: string) => {
         const adLines =
             fullText.search('\n') === -1
