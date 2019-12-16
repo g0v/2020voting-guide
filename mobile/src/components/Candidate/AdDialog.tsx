@@ -18,7 +18,7 @@ const AdDialog = ({
 }) => {
     const generateCardTextHtml = (fullText: string) => {
         const adLines =
-            fullText.search('\n') == -1
+            fullText.search('\n') === -1
                 ? fullText.split(/ (?![a-zA-Z])/)
                 : fullText.split('\n');
         return (
