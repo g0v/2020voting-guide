@@ -25,6 +25,14 @@ interface AD {
         ad_delivery_stop_time: string;
         currency: string;
         demographic_distribution: string;
+        impressions: {
+            lower_bound: string;
+            upper_bound: string;
+        };
+        spend: {
+            lower_bound: string;
+            upper_bound: string;
+        };
     };
 }
 
@@ -64,14 +72,14 @@ const StrengthTab = ({
         fetch(`/api/fb/${constituency}/${name}`)
             .then(res => res.json())
             .then(setCandidateFB);
-    }, [name]);
+    }, [name, constituency]);
 
     const [ads, setAds] = React.useState([]);
     React.useEffect(() => {
         fetch(`/api/data/ad/${constituency}/${name}.json`)
             .then(res => res.json())
             .then(setAds);
-    }, [name]);
+    }, [name, constituency]);
 
     const [payment, setPayment] = React.useState(Payment);
     const [hasPayment, setHasPayment] = React.useState(false);
@@ -183,6 +191,7 @@ const StrengthTab = ({
                             `&width=${width}&adapt_container_width=true` +
                             '&show_facepile=false&hide_cta=true'
                         }
+                        title="fan page"
                         width={width}
                         scrolling="no"
                         frameBorder="0"

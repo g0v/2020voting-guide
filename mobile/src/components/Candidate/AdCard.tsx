@@ -6,7 +6,6 @@ import AdDialog from './AdDialog';
 
 const useStyles = makeStyles({
     content: {
-        'line-height': '40px',
         display: '-webkit-box',
         overflow: 'hidden',
         'text-overflow': 'ellipsis',
@@ -34,26 +33,29 @@ const AdCard = (ad: {
         ad_delivery_stop_time: string;
         currency: string;
         demographic_distribution: string;
+        impressions: {
+            lower_bound: string;
+            upper_bound: string;
+        };
+        spend: {
+            lower_bound: string;
+            upper_bound: string;
+        };
     };
 }) => {
     const classes = useStyles();
     const [open, setOpen] = React.useState(false);
-
+    const detail = ad['廣告詳情'];
     const content = ad['廣告詳情'].ad_creative_body;
     const generateCardTextHtml = (fullText: string) => {
-        const adLines =
-            fullText.search('\n') === -1
-                ? fullText.split(/ (?![a-zA-Z])/)
-                : fullText.split('\n');
+        const adLines = fullText.split('\n');
 
         return (
             <>
                 {adLines.slice(0, 1).map(title => (
-                    <Typography variant="h3" gutterBottom>
-                        {title}
-                    </Typography>
+                    <Typography variant="h3">{title}</Typography>
                 ))}
-                <div className={classes.content}>
+                <Box mb={1} className={classes.content}>
                     <Typography variant="h5" color="textSecondary">
                         {adLines.slice(1).map(title => (
                             <>
@@ -62,7 +64,7 @@ const AdCard = (ad: {
                             </>
                         ))}
                     </Typography>
-                </div>
+                </Box>
             </>
         );
     };
@@ -75,8 +77,33 @@ const AdCard = (ad: {
                         setOpen(!open);
                     }}
                 >
+                    <Box display="flex" mb={1}>
+                        <Box
+                            display="flex"
+                            alignContent="center"
+                            color="#D4AF37"
+                        >
+                            <img alt="money" src="/img/money.svg" />
+                            <Box width={4} />
+                            <Typography variant="h5">
+                                花費：
+                                {`${detail.spend['lower_bound']}-${detail.spend['upper_bound']} ${detail.currency}`}
+                            </Typography>
+                        </Box>
+                        <Box width={16} />
+                        <Box display="flex" alignContent="center">
+                            <img alt="eye" src="/img/eye.svg" />
+                            <Box width={4} />
+                            <Typography variant="h5" color="textSecondary">
+                                曝光次數：
+                                {`${detail.impressions['lower_bound']}-${detail.impressions['upper_bound']}`}
+                            </Typography>
+                        </Box>
+                    </Box>
                     <Box display="flex" justifyContent="flex-start">
-                        <Box flexGrow={1}>{generateCardTextHtml(content)}</Box>
+                        <Box mr={0.5} flexGrow={1}>
+                            {generateCardTextHtml(content)}
+                        </Box>
                         <Box>
                             <div
                                 className={classes.cardImg}
