@@ -11,7 +11,6 @@ import Alert from '../Alert';
 import BasePaper from '../BasePaper';
 import BigNum from '../Numbers/BigNum';
 import AppBarChart from './AppBarChart';
-import CompareBarChart from './CompareBarChart';
 
 const proposeData = proposeTimes.map(item => {
     return {
@@ -20,15 +19,6 @@ const proposeData = proposeTimes.map(item => {
         percent: (Number(item.count) * 100) / Number(proposeTimes[0].count)
     }
 }).reverse()
-
-const contributionMappings: { [key: string]: string } = {
-    personalContributeion: '個人捐贈',
-    profitableContributeion: '營利事業捐贈',
-    partyContributeion: '政黨捐贈',
-    civilOrganizationsContributeion: '人民團體捐贈',
-    anonymousContributeion: '匿名捐贈',
-    otherContributeion: '其他'
-}
 
 const Statistic: {
     sittingRate: number;
@@ -79,10 +69,6 @@ const useStyle = makeStyles({
     }
 });
 
-const getTenThousand = (num: number) => {
-    return Math.floor(num / 10000)
-}
-
 const getPercentage = (num: number) => {
     return (num * 100).toFixed(2)
 }
@@ -96,36 +82,7 @@ const PositionTab = ({
     const [showMoreInterpellation, setMoreInterpellation] = React.useState(
         false
     );
-    const [showMoreBillProposal, setMoreBillProposal] = React.useState(false);
     const [statistic, setStatistic] = React.useState(Statistic);
-
-    let contributionIncome =
-
-    Object.keys(contributionMappings).map((key: string) => {
-        return {
-            name: contributionMappings[key] || '',
-            percent: Number(((statistic.contribution[key] / statistic.contribution.totalIncome) * 100).toFixed(2)) || 0
-        }
-    })
-    .sort((a, b) => {
-        return a.percent - b.percent
-    })
-
-    const hash = {
-        'index': 0,
-        'value': 0
-    }
-
-    contributionIncome.forEach((element, index, array) => {
-        if (element.percent + hash.value < 10) {
-            hash.value += element.percent;
-            hash.index = index
-        }
-    });
-    contributionIncome = [
-        ...contributionIncome.slice(hash.index, contributionIncome.length),
-        { name: '其他', percent: hash.value }
-    ]
 
     React.useEffect(() => {
         if (!name) return;
@@ -182,31 +139,6 @@ const PositionTab = ({
                     </BarChart>
                 </ResponsiveContainer>
                 </Box>
-                {/* <Typography variant="h3">最多主提案修法類別</Typography> */}
-                {/* <AppBarChart
-                    data={statistic.billProposal}
-                    showMore={showMoreBillProposal}
-                /> */}
-
-
-                {/* <Box display="flex" justifyContent="center">
-                    <IconButton
-                        aria-label="expand"
-                        onClick={() =>
-                            setMoreBillProposal(!showMoreBillProposal)
-                        }
-                    >
-                        {showMoreBillProposal ? (
-                            <ExpandLessRoundedIcon
-                                className={classes.expandButton}
-                            />
-                        ) : (
-                            <ExpandMoreRoundedIcon
-                                className={classes.expandButton}
-                            />
-                        )}
-                    </IconButton>
-                </Box> */}
             </BasePaper>
             <Box p={1} bgcolor={theme.palette.background.default} />
 
@@ -264,30 +196,6 @@ const PositionTab = ({
                 />
             </BasePaper>
             <Box p={1} bgcolor={theme.palette.background.default} />
-
-            {/* <BasePaper title="政治獻金紀錄" subtitle="每年收到的捐款和使用方式">
-                <Box marginBottom="20px">
-                    <Typography variant="h4">2016 立委選舉</Typography>
-                </Box>
-                <Typography variant="h3">{name} 收入</Typography>
-                <AppPieChart data={contributionIncome} text={getTenThousand(statistic.contribution.totalIncome) + "萬元"} />
-                <Typography variant="h3">{name} 支出</Typography>
-                // <AppPieChart data={data01} text={getTenThousand(statistic.contribution.totalExpense) + "萬元"} />
-                <Box display="flex" justifyContent="center">
-                    <Typography variant="h3" color="primary">{getTenThousand(statistic.contribution.totalExpense) + "萬元"}</Typography>
-                </Box>
-            </BasePaper> */}
-            <Box p={1} bgcolor={theme.palette.background.default} />
-
-            <BasePaper title="同選區其他候選人收支" subtitle={`2016 區域立委選舉 ` + constituency}>
-                <CompareBarChart name={name} data={statistic.otherConstituencyCandidate} />
-                <span>
-                    {`資料來源: `}
-                    <Link href="https://sunshine.cy.gov.tw/">
-                    監察院 陽光法令主題網
-                    </Link>
-                </span>
-            </BasePaper>
         </Box>
     );
 };
