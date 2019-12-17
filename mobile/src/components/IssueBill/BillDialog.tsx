@@ -43,8 +43,10 @@ const BillDialog = ({
 
     const personalPropose = (
         <>
-            <Typography variant="h4">提案</Typography>
-            <Box display="flex" flexDirection="row" flexWrap="wrap" py={1}>
+            <Typography variant="h4" gutterBottom>
+                提案
+            </Typography>
+            <Box display="flex" flexDirection="row" flexWrap="wrap" pb={1}>
                 {bill.billProposer.map(({ name, party }) => (
                     <Box flexShrink={0} pr={2.5} key={name}>
                         <Typography
@@ -58,8 +60,10 @@ const BillDialog = ({
                     </Box>
                 ))}
             </Box>
-            <Typography variant="h4">連署</Typography>
-            <Box display="flex" flexDirection="row" flexWrap="wrap" py={1}>
+            <Typography variant="h4" gutterBottom>
+                連署
+            </Typography>
+            <Box display="flex" flexDirection="row" flexWrap="wrap" pb={1}>
                 {bill.billCosignatory.map(({ name, party }) => (
                     <Box flexShrink={0} pr={2.5} key={name}>
                         <Typography
@@ -78,12 +82,9 @@ const BillDialog = ({
 
     const cosignatoryPropose = (
         <>
-            {/* <Typography variant="h4">提案黨團：</Typography> */}
-            {/* <Box py={1}> */}
             <Typography variant="h4" color="textSecondary">
                 {bill.billOrg}
             </Typography>
-            {/* </Box> */}
         </>
     );
 
@@ -103,7 +104,7 @@ const BillDialog = ({
         </>
     );
     const newBill = (
-        <>
+        <Box mt={3}>
             <Alert>
                 <Typography variant="h5" color="textSecondary">
                     這是一個新擬定的法案！
@@ -113,7 +114,7 @@ const BillDialog = ({
                     <Link href={bill.pdfUrl || bill.docUrl}>{bill.name}</Link>
                 </Typography>
             </Alert>
-        </>
+        </Box>
     );
 
     return !open ? null : (
@@ -143,28 +144,31 @@ const BillDialog = ({
                     </Typography>
                 </Box>
 
-                <Box my={2}>
-                    <Typography variant="h3">案由</Typography>
-                </Box>
-                <Box my={2}>
+                <Box my={3}>
+                    <Typography variant="h3" gutterBottom>
+                        案由
+                    </Typography>
                     <Typography variant="h4" color="textSecondary">
                         {simplifyCaseOfAction(bill.caseOfAction)}
                     </Typography>
                 </Box>
 
-                <Box my={2}>
-                    <Typography variant="h3">提案 / 連署人</Typography>
+                <Box my={3}>
+                    <Typography variant="h3" gutterBottom>
+                        提案 / 連署人
+                    </Typography>
+                    {bill.proposerType === '立委提案'
+                        ? personalPropose
+                        : cosignatoryPropose}
                 </Box>
-                {bill.proposerType === '立委提案'
-                    ? personalPropose
-                    : cosignatoryPropose}
 
-                <Box my={2}>
-                    <Typography variant="h3">修正條文</Typography>
-                </Box>
-                <Box mb="72px">
+                <Box my={3}>
+                    <Typography variant="h3" gutterBottom>
+                        修正條文
+                    </Typography>
                     {descriptions.length ? modifyBill : newBill}
                 </Box>
+                <Box height={72} />
             </DialogContent>
         </Dialog>
     );
