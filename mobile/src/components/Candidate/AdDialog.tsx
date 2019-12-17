@@ -1,4 +1,4 @@
-import { Box, Button, DialogContent, Typography } from '@material-ui/core';
+import { Box, DialogContent, Typography } from '@material-ui/core';
 import React from 'react';
 import Dialog from '../Dialog';
 
@@ -52,25 +52,8 @@ const AdDialog = ({
                     />
                 </Box>
                 {generateCardTextHtml(content)}
+                <Box height={72} />
             </DialogContent>
-            <Box
-                position="absolute"
-                display="flex"
-                justifyContent="flex-end"
-                bottom="0"
-                py={2}
-                height={40}
-                width="100%"
-            >
-                <Button
-                    variant="outlined"
-                    color="primary"
-                    onClick={handleClose}
-                >
-                    關閉
-                </Button>
-                <Box width={20} />
-            </Box>
         </Dialog>
     );
 };

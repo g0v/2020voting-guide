@@ -101,10 +101,11 @@ const AdCard = (ad: {
                         </Box>
                     </Box>
                     <Box display="flex" justifyContent="flex-start">
-                        <Box mr={0.5} flexGrow={1}>
+                        <Box flexGrow={1} mr={1} maxWidth="80%">
                             {generateCardTextHtml(content)}
                         </Box>
                         <Box>
+                            <Box height={5} />
                             <div
                                 className={classes.cardImg}
                                 style={{
