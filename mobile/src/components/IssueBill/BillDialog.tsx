@@ -1,9 +1,10 @@
-import { Box, Button, DialogContent, Typography } from '@material-ui/core';
+import { Box, DialogContent, Link, Typography } from '@material-ui/core';
 import React from 'react';
 import { simplifyCaseOfAction } from '../../utils';
+import Alert from '../Alert';
 import ChangedBill from '../Bill/ChangedBill';
-import { CircleIcon } from '../PartyIcon';
 import Dialog from '../Dialog';
+import { CircleIcon } from '../PartyIcon';
 
 const defaultInfo = {
     bill: {
@@ -77,10 +78,12 @@ const BillDialog = ({
 
     const cosignatoryPropose = (
         <>
-            <Typography variant="h4">提案黨團：</Typography>
-            <Box py={1} pr={1}>
+            {/* <Typography variant="h4">提案黨團：</Typography> */}
+            {/* <Box py={1}> */}
+            <Typography variant="h4" color="textSecondary">
                 {bill.billOrg}
-            </Box>
+            </Typography>
+            {/* </Box> */}
         </>
     );
 
@@ -101,20 +104,15 @@ const BillDialog = ({
     );
     const newBill = (
         <>
-            <Typography variant="h4" color="textSecondary" gutterBottom>
-                你發現了一個新條文，所以沒有修正條文對照，請直接看原文 PDF
-                的完整法條！
-            </Typography>
-            <Box my={2}>
-                <Button
-                    href={bill.pdfUrl || bill.docUrl}
-                    variant="contained"
-                    color="primary"
-                    target="_blank"
-                >
-                    原文PDF
-                </Button>
-            </Box>
+            <Alert>
+                <Typography variant="h5" color="textSecondary">
+                    這是一個新擬定的法案！
+                </Typography>
+                <Typography variant="h5" color="textSecondary">
+                    {'法案詳細條文文件： '}
+                    <Link href={bill.pdfUrl || bill.docUrl}>{bill.name}</Link>
+                </Typography>
+            </Alert>
         </>
     );
 
