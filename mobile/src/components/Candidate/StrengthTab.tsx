@@ -60,10 +60,12 @@ const Payment: {
 
 const StrengthTab = ({
     constituency,
-    name
+    name,
+    padding
 }: {
     constituency: string;
     name: string;
+    padding?: object;
 }) => {
     const width = window.screen.width > 425 ? 425 : window.screen.width;
 
@@ -155,7 +157,7 @@ const StrengthTab = ({
 
     return (
         <>
-            <Box bgcolor="#F9F9F9" py={1}>
+            <Box bgcolor="#F9F9F9" py={1} style={padding}>
                 <Alert>
                     <Typography variant="h5" color="textSecondary">
                         以下是此候選人在競選期間的收支狀況與宣傳手法。
