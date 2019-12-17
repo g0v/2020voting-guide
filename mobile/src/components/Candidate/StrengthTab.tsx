@@ -208,7 +208,7 @@ const StrengthTab = ({
             </Box>
 
             {hasPayment && (
-                <Box bgcolor="#F9F9F9" py={1}>
+                <Box bgcolor="#F9F9F9" py={1} style={padding}>
                     <Box display="flex" alignItems="center" mx={1.5} pt={3}>
                         <Box
                             width="8px"
