@@ -4,7 +4,7 @@
         "chairman": ["吳敦義"],
         "logo": "/img/party/kmt.svg",
         "voteNum": 3280949,
-        "voteRate": "32.1944%",
+        "voteRate": "32.2%",
         "regionalLegislatorsNum": 24,
         "electedPersonNum": 11,
         "electedPerson": [
@@ -27,7 +27,7 @@
         "chairman": ["卓榮泰"],
         "logo": "/img/party/dpp.svg",
         "voteNum": 5370953,
-        "voteRate": "44.0598%",
+        "voteRate": "44.1%",
         "regionalLegislatorsNum": 50,
         "electedPersonNum": 18,
         "electedPerson": [
@@ -56,7 +56,7 @@
         "chairman": ["徐永明"],
         "logo": "/img/party/npp.svg",
         "voteNum": 744315,
-        "voteRate": "6.1059%",
+        "voteRate": "6.1%",
         "regionalLegislatorsNum": 3,
         "electedPersonNum": 2,
         "electedPerson": ["高潞·以用·巴魕剌", "徐永明"]
@@ -86,7 +86,7 @@
         "chairman": ["梁益誌"],
         "logo": "/img/party/gp.png",
         "voteNum": 308106,
-        "voteRate": "2.5275%",
+        "voteRate": "2.5%",
         "regionalLegislatorsNum": 0,
         "electedPersonNum": 0,
         "electedPerson": []
@@ -96,7 +96,7 @@
         "chairman": ["宋楚瑜"],
         "logo": "/img/party/pfp.svg",
         "voteNum": 794838,
-        "voteRate": "6.5203%",
+        "voteRate": "6.5%",
         "regionalLegislatorsNum": 0,
         "electedPersonNum": 3,
         "electedPerson": ["李鴻鈞", "陳怡潔", "周陳秀霞"]
@@ -106,7 +106,7 @@
         "chairman": ["劉一德"],
         "logo": "/img/party/tsu.svg",
         "voteNum": 305675,
-        "voteRate": "2.5076%",
+        "voteRate": "2.5%",
         "regionalLegislatorsNum": 0,
         "electedPersonNum": 0,
         "electedPerson": []
