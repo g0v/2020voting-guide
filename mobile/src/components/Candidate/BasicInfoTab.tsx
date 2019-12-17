@@ -10,10 +10,12 @@ const candidateFBDefault = {
 
 const BasicInfoTab = ({
     name,
-    constituency
+    constituency,
+    padding
 }: {
     name: string;
     constituency: string;
+    padding?: object;
 }) => {
     const width = window.screen.width > 425 ? 425 : window.screen.width;
 
@@ -37,7 +39,7 @@ const BasicInfoTab = ({
     }, [name]);
 
     return (
-        <Box bgcolor="#F7F7F7" p={1}>
+        <Box bgcolor="#F7F7F7" p={1} style={padding}>
             <Box textAlign="center">
                 <iframe
                     src={

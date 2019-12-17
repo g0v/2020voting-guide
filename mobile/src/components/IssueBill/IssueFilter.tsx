@@ -15,6 +15,13 @@ const useStyles = makeStyles((theme: Theme) =>
             bottom: theme.spacing(2),
             right: theme.spacing(2)
         },
+        desktopFab: {
+            position: 'relative',
+            borderRadius: '0px !important',
+            marginTop: '20px',
+            width: '100% !important',
+            fontSize: 16
+        },
         extendedIcon: {
             marginRight: theme.spacing(1)
         },
@@ -66,8 +73,10 @@ const IssueFilter = ({
     selected,
     selectIssue,
     complete,
-    bills
+    bills,
+    isDesktop
 }: {
+    isDesktop: boolean;
     selected: string[];
     selectIssue: (issue: string) => void;
     complete: () => void;
@@ -93,12 +102,14 @@ const IssueFilter = ({
                 size="medium"
                 color="primary"
                 onClick={handleClickOpen}
-                className={classes.fab}
+                className={isDesktop ? classes.desktopFab : classes.fab}
             >
-                <FilterListIcon
-                    fontSize="small"
-                    className={classes.extendedIcon}
-                />
+                {!isDesktop && 
+                    <FilterListIcon
+                        fontSize="small"
+                        className={classes.extendedIcon}
+                    />
+                }
                 {
                     selected.length ? `${selected.length} 個議題` : '篩選議題'
                 }

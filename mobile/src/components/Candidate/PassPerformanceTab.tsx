@@ -72,6 +72,7 @@ interface PositionTab {
     lastTermYear?: string;
     interpellationCategory?: { name: string; value: number }[];
     billNumCategory?: { name: string; percent: number }[];
+    padding?: object;
 }
 
 const useStyle = makeStyles({
@@ -91,7 +92,8 @@ const getPercentage = (num: number) => {
 
 const PositionTab = ({
     name = '',
-    constituency = ''
+    constituency = '',
+    padding
 }: PositionTab) => {
     const theme = useTheme();
     const classes = useStyle();
@@ -137,7 +139,7 @@ const PositionTab = ({
     }, [name]);
 
     return (
-        <Box bgcolor="#F7F7F7" py={1}>
+        <Box bgcolor="#F7F7F7" py={1} style={padding}>
             <Box mb={2}>
                 <Alert >
                 <span>{`以下是 2016-2019 年${name}擔任立法委員的紀錄。`}</span>
