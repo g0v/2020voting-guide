@@ -36,6 +36,15 @@ const useStyles = makeStyles((theme: Theme) =>
             width: '100%',
             boxShadow: '0px -1px 0px rgba(0, 0, 0, 0.1)'
         },
+        desktopBottomBar: {
+            zIndex: 2000,
+            position: 'fixed',
+            bottom: '0px',
+            background: '#fff',
+            width: '100%',
+            boxShadow: '0px -1px 0px rgba(0, 0, 0, 0.1)',
+            right: 0
+        },
         title: {
             marginLeft: theme.spacing(2),
             flex: 1
@@ -203,7 +212,7 @@ const IssueFilter = ({
             </Dialog>
             {open ? (
                 <Box
-                    className={classes.bottomBar}>
+                    className={isDesktop ? classes.desktopBottomBar : classes.bottomBar}>
                     <Toolbar>
                         <Button
                             variant="contained"

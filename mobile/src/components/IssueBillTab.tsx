@@ -29,7 +29,8 @@ const useStyles = makeStyles((theme: Theme) =>
         issueCard: {
             padding: 0,
             height: 450,
-            overflowY: 'scroll'
+            overflowY: 'scroll',
+            overflowX: 'hidden'
         },
         issueH1: {
             fontWeight: 800,
