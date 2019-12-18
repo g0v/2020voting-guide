@@ -12,6 +12,7 @@
         "@types/react-dom": "16.9.0",
         "@types/react-responsive": "^3.0.3",
         "@types/react-router-dom": "^4.3.5",
+        "@types/react-scroll": "^1.5.4",
         "@types/recharts": "^1.1.21",
         "dayjs": "^1.8.16",
         "diff-match-patch": "^1.0.4",
@@ -23,6 +24,7 @@
         "react-router": "^5.0.1",
         "react-router-dom": "^5.0.1",
         "react-scripts": "3.2.0",
+        "react-scroll": "^1.7.14",
         "recharts": "^1.7.1",
         "sass-loader": "^8.0.0",
         "typescript": "3.6.2"
@@ -56,5 +58,5 @@
         "prettier": "^1.18.2",
         "tslint": "^5.20.0"
     },
-    "proxy": "http://localhost:8080"
+    "proxy": "https://voting-guide.appspot.com/"
 }
