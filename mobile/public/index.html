@@ -1,25 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8" />
-        <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico" />
-        <meta property="og:url" content="https://vote.ly.g0v.tw" />
-        <meta
-            property="og:image"
-            content="https://vote.ly.g0v.tw/img/open_graph.png"
-        />
-        <meta property="og:title" content="選前大補帖" />
-        <meta property="og:type" content="website" />
-        <meta property="og:description" content="立委投票你準備好了嗎？" />
-        <meta name="twitter:card" content="summary" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="theme-color" content="#000000" />
-        <!--
+
+<head>
+    <meta charset="utf-8" />
+    <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta property="og:url" content="https://vote.ly.g0v.tw" />
+    <meta property="og:image" content="https://vote.ly.g0v.tw/img/open_graph.png" />
+    <meta property="og:title" content="選前大補帖" />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="立委投票你準備好了嗎？" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <!--
       manifest.json provides metadata used when your web app is installed on a
       user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
     -->
-        <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-        <!--
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <!--
       Notice the use of %PUBLIC_URL% in the tags above.
       It will be replaced with the URL of the `public` folder during the build.
       Only files inside the `public` folder can be referenced from the HTML.
@@ -28,40 +26,34 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-        <!--font family-->
-        <link
-            href="https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap"
-            rel="stylesheet"
-        />
-        <link
-            href="https://fonts.googleapis.com/css?family=Noto+Serif+TC&display=swap"
-            rel="stylesheet"
-        />
+    <!--font family-->
+    <link
+        href="https://fonts.googleapis.com/css?family=Noto+Sans+TC:400,500,700&display=swap&subset=chinese-traditional"
+        rel="stylesheet">
 
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script
-            async
-            src="https://www.googletagmanager.com/gtag/js?id=UA-148908600-1"
-        ></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag() {
-                dataLayer.push(arguments);
-            }
-            gtag('js', new Date());
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-148908600-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
 
-            gtag('config', 'UA-148908600-1');
-        </script>
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
 
-        <title>選前大補帖</title>
-    </head>
-    <body>
-        <noscript>You need to enable JavaScript to run this app.</noscript>
-        <div id="root"></div>
-        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6,es7,Object.values&flags=gated"></script>
-        <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js"></script>
-        <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/plugins/ScrollToPlugin.min.js"></script>
-        <!--
+        gtag('config', 'UA-148908600-1');
+    </script>
+
+    <title>選前大補帖</title>
+</head>
+
+<body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6,es7,Object.values&flags=gated"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/plugins/ScrollToPlugin.min.js"></script>
+    <!--
       This HTML file is a template.
       If you open it directly in the browser, you will see an empty page.
 
@@ -70,5 +62,7 @@
 
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
-    --></body>
+    -->
+</body>
+
 </html>
