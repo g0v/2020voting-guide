@@ -59,15 +59,26 @@ const IssueList: FunctionComponent<{
     selectedIssue: string[];
     bills: Bill[];
     selectIssue: (issue: string) => void;
-    handleComplete:() => void;
-}> = ({children, filteredIssue, bills, selectedIssue, selectIssue, handleComplete}) => {
+    handleComplete: () => void;
+}> = ({
+    children,
+    filteredIssue,
+    bills,
+    selectedIssue,
+    selectIssue,
+    handleComplete
+}) => {
     return (
         <React.Fragment>
             {children}
-            <Element id="containerElement" className="element" name="scrollContainer"style={{
-                position: 'relative',
-                height: '550px',
-                overflow: 'scroll',
+            <Element
+                id="containerElement"
+                className="element"
+                name="scrollContainer"
+                style={{
+                    position: 'relative',
+                    height: '550px',
+                    overflow: 'scroll'
                 }}
             >
                 {filteredIssue
@@ -75,9 +86,13 @@ const IssueList: FunctionComponent<{
                         issue: issue,
                         bills: bills.filter(i => issue === i.category)
                     }))
-                    .filter(issue => issue.bills.length != 0)
+                    .filter(issue => issue.bills.length !== 0)
                     .map((issue, i) => (
-                        <Element name={issue.issue} key={i} style={{cursor: 'pointer'}}>
+                        <Element
+                            name={issue.issue}
+                            key={i}
+                            style={{ cursor: 'pointer' }}
+                        >
                             <IssueBill
                                 key={`${issue.issue}${i}`}
                                 issue={issue.issue}
@@ -87,8 +102,8 @@ const IssueList: FunctionComponent<{
                     ))}
             </Element>
         </React.Fragment>
-    )
-}
+    );
+};
 
 const IssueBillTab: FunctionComponent<{
     bills: Bill[];
@@ -96,7 +111,14 @@ const IssueBillTab: FunctionComponent<{
     party?: string;
     padding?: object;
     isDesktop?: boolean;
-}> = ({ isParty = false, party = '', bills = [], padding = {}, isDesktop = false, children }) => {
+}> = ({
+    isParty = false,
+    party = '',
+    bills = [],
+    padding = {},
+    isDesktop = false,
+    children
+}) => {
     const classes = useStyles();
 
     const [selectedIssue, updateSelectedIssue] = React.useState([] as string[]);
@@ -120,34 +142,43 @@ const IssueBillTab: FunctionComponent<{
     const filteredIssue = issueFilter.length ? issueFilter : issues;
     return (
         <Box bgcolor="#F7F7F7" py={1} style={padding}>
-            {isDesktop ? 
+            {isDesktop ? (
                 <Grid container spacing={3}>
                     <Grid item sm={3}>
                         <Card>
-                            <CardContent><Typography className={classes.issueH1}>所有議題</Typography></CardContent>
+                            <CardContent>
+                                <Typography className={classes.issueH1}>
+                                    所有議題
+                                </Typography>
+                            </CardContent>
                             <CardContent className={classes.issueCard}>
-                                    {filteredIssue
-                                        .map(issue => ({
-                                            issue: issue,
-                                            bills: bills.filter(i => issue === i.category)
-                                        }))
-                                        .filter(issue => issue.bills.length != 0)
-                                        .map((issue, i) => 
-                                            <div style={customStyle.issueTitle} key={i}>
-                                                <Link 
-                                                    key={i}
-                                                    activeClass={classes.activeTab} 
-                                                    className={classes.normalTab} 
-                                                    to={issue.issue} 
-                                                    spy={true} 
-                                                    smooth={true} 
-                                                    duration={500}
-                                                    containerId="containerElement"
-                                                >
-                                                    {issue.issue}
-                                                </Link>
-                                            </div>
-                                    )}
+                                {filteredIssue
+                                    .map(issue => ({
+                                        issue: issue,
+                                        bills: bills.filter(
+                                            i => issue === i.category
+                                        )
+                                    }))
+                                    .filter(issue => issue.bills.length !== 0)
+                                    .map((issue, i) => (
+                                        <div
+                                            style={customStyle.issueTitle}
+                                            key={i}
+                                        >
+                                            <Link
+                                                key={i}
+                                                activeClass={classes.activeTab}
+                                                className={classes.normalTab}
+                                                to={issue.issue}
+                                                spy={true}
+                                                smooth={true}
+                                                duration={500}
+                                                containerId="containerElement"
+                                            >
+                                                {issue.issue}
+                                            </Link>
+                                        </div>
+                                    ))}
                             </CardContent>
                         </Card>
                         <IssueFilter
@@ -160,24 +191,24 @@ const IssueBillTab: FunctionComponent<{
                     </Grid>
                     <Grid item sm={9}>
                         <IssueList
-                            filteredIssue = {filteredIssue}
-                            selectedIssue = {selectedIssue}
-                            bills = {bills}
-                            selectIssue = {selectIssue}
-                            handleComplete = {handleComplete}
+                            filteredIssue={filteredIssue}
+                            selectedIssue={selectedIssue}
+                            bills={bills}
+                            selectIssue={selectIssue}
+                            handleComplete={handleComplete}
                         >
                             {children}
                         </IssueList>
                     </Grid>
                 </Grid>
-                 :
-                 <React.Fragment>
+            ) : (
+                <React.Fragment>
                     <IssueList
-                        filteredIssue = {filteredIssue}
-                        selectedIssue = {selectedIssue}
-                        bills = {bills}
-                        selectIssue = {selectIssue}
-                        handleComplete = {handleComplete}
+                        filteredIssue={filteredIssue}
+                        selectedIssue={selectedIssue}
+                        bills={bills}
+                        selectIssue={selectIssue}
+                        handleComplete={handleComplete}
                     >
                         {children}
                     </IssueList>
@@ -188,8 +219,8 @@ const IssueBillTab: FunctionComponent<{
                         complete={handleComplete}
                         bills={bills}
                     />
-                 </React.Fragment>
-            }
+                </React.Fragment>
+            )}
         </Box>
     );
 };

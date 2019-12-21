@@ -11,18 +11,8 @@
   "go.useLanguageServer": true,
   "go.autocompleteUnimportedPackages": true,
   "go.docsTool": "gogetdoc",
-  "eslint.autoFixOnSave": true,
-  "eslint.validate": [
-    "javascript",
-    "javascriptreact",
-    {
-      "language": "typescript",
-      "autoFix": true
-    },
-    {
-      "language": "typescriptreact",
-      "autoFix": true
-    }
-  ],
-  "python.venvPath": "~/.local/share/virtualenvs"
+  "python.venvPath": "~/.local/share/virtualenvs",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
 }
