@@ -41,7 +41,7 @@ const Party = ({ match }: RouteComponentProps<{ party: string }>) => {
         fetch(`/api/party/${match.params.party}`)
             .then(res => res.json())
             .then(party => setBills(party.bills));
-    }, []);
+    }, [match.params.party]);
 
     const partyInfo: PartyInfo | undefined = partyInfos.find(
         p => p.name === party
