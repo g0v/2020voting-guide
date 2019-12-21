@@ -1,4 +1,4 @@
-import { Link } from '@material-ui/core';
+import { Link, Typography } from '@material-ui/core';
 import Tab from '@material-ui/core/Tab';
 import Tabs from '@material-ui/core/Tabs';
 import React, { FunctionComponent, useEffect, useState } from 'react';
@@ -47,28 +47,29 @@ const IssueBillTabAlert: FunctionComponent<{
     name: string;
 }> = ({ name, isCurrentLegislator }) => (
     <Alert>
-        <span>
+        <Typography variant="h5">
             {isCurrentLegislator
                 ? `以下是 2016-2019 年${name}候選人在立法院實際提出的法案。`
                 : `${name}候選人不是上屆立委，以下是他所屬政黨的黨團 2016-2019 年在立法院實際提出的法案`}
-        </span>
-        <br />
-        <span>
+        </Typography>
+        <Typography variant="h5">
             {`資料來源: `}
             <Link href="https://lis.ly.gov.tw/billtpc/billtp">
                 立法動態資訊網法案追蹤平台
             </Link>
-        </span>
+        </Typography>
     </Alert>
 );
 
 const caucusParty = ['民主進步黨', '中國國民黨', '親民黨', '時代力量'];
 
-const isDesktop = !(/Mobi|Android/i.test(navigator.userAgent));
-const desktopPadding = isDesktop ? {
-    padding: '20px 8% 0 8%',
-    marginTop: '1px'
-} : {};
+const isDesktop = !/Mobi|Android/i.test(navigator.userAgent);
+const desktopPadding = isDesktop
+    ? {
+          padding: '20px 8% 0 8%',
+          marginTop: '1px'
+      }
+    : {};
 
 const CandidatePage = ({ match }: CandidatePage) => {
     const { name, constituency } = match.params;
@@ -93,7 +94,7 @@ const CandidatePage = ({ match }: CandidatePage) => {
 
     return (
         <>
-            <Nav {...candidate} padding={desktopPadding}/>
+            <Nav {...candidate} padding={desktopPadding} />
             <Tabs
                 style={desktopPadding}
                 value={tab}
@@ -111,7 +112,11 @@ const CandidatePage = ({ match }: CandidatePage) => {
             {tab === 0 ? (
                 candidate.currentLegislator ||
                 caucusParty.includes(candidate.party) ? (
-                    <IssueBillTab bills={bills} padding={desktopPadding} isDesktop={isDesktop}>
+                    <IssueBillTab
+                        bills={bills}
+                        padding={desktopPadding}
+                        isDesktop={isDesktop}
+                    >
                         <IssueBillTabAlert
                             name={candidate.name}
                             isCurrentLegislator={candidate.currentLegislator}
@@ -121,10 +126,17 @@ const CandidatePage = ({ match }: CandidatePage) => {
                     <NoInfoTab name={candidate.name} from="issueBill" />
                 )
             ) : tab === 1 ? (
-                <StrengthTab name={name} constituency={constituency} padding={desktopPadding} />
+                <StrengthTab
+                    name={name}
+                    constituency={constituency}
+                    padding={desktopPadding}
+                />
             ) : tab === 2 ? (
                 candidate.currentLegislator ? (
-                    <PassPerformanceTab {...candidate} padding={desktopPadding}/>
+                    <PassPerformanceTab
+                        {...candidate}
+                        padding={desktopPadding}
+                    />
                 ) : (
                     <NoInfoTab name={candidate.name} from="passPerformance" />
                 )
