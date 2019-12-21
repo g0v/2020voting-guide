@@ -1,4 +1,4 @@
-import { Box, DialogContent, Link, Typography } from '@material-ui/core';
+import { Box, DialogTitle, DialogContent, Link, Typography } from '@material-ui/core';
 import React from 'react';
 import { simplifyCaseOfAction } from '../../utils';
 import Alert from '../Alert';
@@ -118,19 +118,17 @@ const BillDialog = ({
     );
 
     return !open ? null : (
-        <Dialog
-            handleCloseClick={handleClose}
-            top={
-                <Typography variant="h3" gutterBottom>
+        <Dialog handleCloseClick={handleClose}>
+            <DialogTitle disableTypography>
+                <Typography variant="h3">
                     {bill.name}
                 </Typography>
-            }
-        >
+            </DialogTitle>
             <DialogContent>
                 <Typography variant="h5" color="textSecondary" gutterBottom>
                     {bill.vernacular}
                 </Typography>
-                <Box my={2}>
+                <Box my={bill.vernacular ? 2 : 0}>
                     <Typography variant="h4" color="textSecondary" gutterBottom>
                         {bill.billNo
                             ? bill.billNo.substring(0, 3) +

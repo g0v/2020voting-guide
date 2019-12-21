@@ -5,7 +5,8 @@ import {
     Link,
     List,
     ListItem,
-    Typography
+    Typography,
+    Grid,
 } from '@material-ui/core';
 import NavigateNextIcon from '@material-ui/icons/NavigateNext';
 import React from 'react';
@@ -59,7 +60,7 @@ const ConstituencyCard = ({ name, county }: Constituency) => {
         .join('、')
         .toString();
     return (
-        <>
+        <Grid item xs={12} lg={6}>
             <ListItem
                 className="constituency-card-item"
                 button
@@ -78,7 +79,7 @@ const ConstituencyCard = ({ name, county }: Constituency) => {
                     <Typography variant="h3">{areaName}</Typography>
                 </Box>
             </ListItem>
-        </>
+        </Grid>
     );
 };
 
@@ -104,9 +105,11 @@ const ConstituencyPage: React.FunctionComponent<County> = ({
                 </Breadcrumbs>
             </Navigation>
             <List>
-                {constituencyNames.map((name: string) => (
-                    <ConstituencyCard name={name} county={county} key={name} />
-                ))}
+                <Grid container spacing={1} alignItems="flex-end">
+                    {constituencyNames.map((name: string) => (
+                        <ConstituencyCard name={name} county={county} key={name} />
+                    ))}
+                </Grid>
             </List>
         </Container>
     );
