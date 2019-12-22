@@ -185,21 +185,39 @@ const StrengthTab = ({
                         候選人在臉書粉絲團上的花費及廣告內容
                     </Typography>
                 </Box>
-                <Box textAlign="center" maxHeight={130}>
-                    <iframe
-                        src={
-                            'https://www.facebook.com/plugins/page.php?' +
-                            `href=${candidateFB.fbPage}` +
-                            `&width=${width}&adapt_container_width=true` +
-                            '&show_facepile=false&hide_cta=true'
-                        }
-                        title="fan page"
-                        width={width}
-                        scrolling="no"
-                        frameBorder="0"
-                        allow="encrypted-media"
-                    />
-                </Box>
+                {candidateFB.fbPage.length ? (
+                    <Box textAlign="center" maxHeight={130}>
+                        <iframe
+                            src={
+                                'https://www.facebook.com/plugins/page.php?' +
+                                `href=${candidateFB.fbPage}` +
+                                `&width=${width}&adapt_container_width=true` +
+                                '&show_facepile=false&hide_cta=true'
+                            }
+                            title="fan page"
+                            width={width}
+                            scrolling="no"
+                            frameBorder="0"
+                            allow="encrypted-media"
+                        />
+                    </Box>
+                ) : (
+                    <Box bgcolor="#F9F9F9" textAlign="center" pb={3}>
+                        <img
+                            width="150"
+                            height="150"
+                            src="/img/doll/empty_fanpage.svg"
+                            alt="沒有粉絲專頁"
+                        />
+                        <Box height={14} />
+                        <Typography variant="h4" gutterBottom>
+                            沒有粉專資料
+                        </Typography>
+                        <Typography variant="h5" color="textSecondary">
+                            選前大補帖目前沒有找到此候選人的粉絲專頁
+                        </Typography>
+                    </Box>
+                )}
                 <Box px={1} pb={1}>
                     {ads.map((ad: AD) => (
                         <AdCard {...ad} />
