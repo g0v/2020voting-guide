@@ -4,7 +4,7 @@ import re
 
 from peewee import fn
 
-from db import Bill, Candidate, Legislator, ManualCandidate, ProposerCosignatory, Sitting, Vernacular, mysql_db
+from db import Bill, Candidate, Legislator, ManualCandidate, ProposerCosignatory, Sitting, mysql_db
 from util import roc_to_common_era
 
 
@@ -146,5 +146,5 @@ if __name__ == "__main__":
     # update_sitting_rate()
 
     # store_bill_proposer_cosignatory()
-    # update_vernacular()
+    update_vernacular()
     store_all_candidates()

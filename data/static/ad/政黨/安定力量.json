@@ -1,0 +1,367 @@
+[
+  {
+    "選區": "政黨",
+    "參選人": "安定力量",
+    "AD_ID": "563649094413075",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-11",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【你，還記得嗎？】 去年公投，我們頂著大太陽，手拿身份證跟印章，排隊排到腿抽筋，等投票等到懷疑人生，但心中仍抱有對未來的盼望⋯⋯ 可是，滿心期待政府會履行公投結果的我們，得到的又是什麼？ 對於民意，政府是不願面對？還是故意視而不見！？ 請留言告訴我們答案👇 #2020年1月11號 #政黨票投給安定力量 #讓安定的力量進入立法院 #安定力量 #安定咱台灣 為避免政府裝笑維，請分享！ 更多廣告CF： 守護家庭篇（台）：https://youtu.be/Lg7bpLvBVsI 守護家庭（中）：https://youtu.be/Lg7bpLvBVsI 還我公投篇：https://youtu.be/tgVY50kd4Qc 跨越藍綠篇：https://youtu.be/_PW2N9ZH638 認同請分享！！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80032414_563649141079737_3673030948930191360_n.jpg?_nc_cat=106&_nc_ohc=NF-ilSsls80AQnadIRWvchqcnI2EeFmgIZU2y-wwrGgL8xilpZ9dO_osg&_nc_ht=scontent-hkg3-1.xx&oh=3b5c7be586abd822ceb3c80078e0578e&oe=5EA4FC89",
+    "廣告詳情": {
+      "ad_creative_body": "【你，還記得嗎？】\n\n去年公投，我們頂著大太陽，手拿身份證跟印章，排隊排到腿抽筋，等投票等到懷疑人生，但心中仍抱有對未來的盼望⋯⋯\n可是，滿心期待政府會履行公投結果的我們，得到的又是什麼？\n\n對於民意，政府是不願面對？還是故意視而不見！？\n\n請留言告訴我們答案👇\n\n#2020年1月11號\n#政黨票投給安定力量\n#讓安定的力量進入立法院\n#安定力量\n#安定咱台灣\n\n為避免政府裝笑維，請分享！\n\n更多廣告CF：\n守護家庭篇（台）：\nhttps://youtu.be/Lg7bpLvBVsI\n守護家庭（中）：\nhttps://youtu.be/Lg7bpLvBVsI\n還我公投篇：\nhttps://youtu.be/tgVY50kd4Qc\n跨越藍綠篇：\nhttps://youtu.be/_PW2N9ZH638\n\n認同請分享！！",
+      "ad_creation_time": "2019-12-12T03:38:21+0000",
+      "ad_creative_link_title": "阿榮【還我公投篇】",
+      "ad_delivery_start_time": "2019-12-12T03:38:21+0000",
+      "ad_delivery_stop_time": "2019-12-30T16:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000806",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000299",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.063693",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.212099",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.094598",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.123503",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.046075",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.084505",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.190212",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.183553",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000239",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000418",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "安定力量",
+      "impressions": {
+        "lower_bound": "50000",
+        "upper_bound": "59999"
+      },
+      "page_id": "361802464195164",
+      "page_name": "安定力量",
+      "region_distribution": [
+        {
+          "percentage": "0.031879",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.000323",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.015294",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.041566",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.016527",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.012065",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.037926",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.00546",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.016439",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.018993",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.003757",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.112722",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.017495",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.0032",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.002818",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.048846",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.107938",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.147537",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.120971",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.106147",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.110579",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.021517",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "6000",
+        "upper_bound": "6999"
+      },
+      "ad_id": "563649094413075"
+    }
+  },
+  {
+    "選區": "政黨",
+    "參選人": "安定力量",
+    "AD_ID": "2539119152861826",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-17",
+    "結束日期": "1970-01-01",
+    "廣告內容": "🇹🇼您還記得那台灣錢淹腳目的日子嗎？您還記得紅葉少棒奪冠時揮舞國旗的感動嗎？ ❤️那時國旗是多麼令人感到驕傲！ 💔可如今除了選舉時刻，國旗總被遺忘在角落，甚至丟棄！ 💢國旗被政客拿來當作消費台灣人民選票的東西，難道只有選舉，你才會想起國旗嗎？國旗不應該是時刻受人重視嗎？！ 現在立刻動動手指☝️叫上你的親朋好友跟我們一起升🇹🇼吧💪 🔗升旗連結：https://sftaiwan.org/2020/flag.php",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/s600x600/80696000_2539119179528490_6764072358710870016_n.jpg?_nc_cat=110&_nc_ohc=K76KyqafaXoAQkRwKTp3aDHvy2I3Rt5srO_63uz_Gr3mE1OUKa4l-3S2w&_nc_ht=scontent-hkg3-2.xx&oh=cf34c8ba9c8ec6acffd2e149065cac24&oe=5E7177F4",
+    "廣告詳情": {
+      "ad_creative_body": "🇹🇼您還記得那台灣錢淹腳目的日子嗎？您還記得紅葉少棒奪冠時揮舞國旗的感動嗎？\n\n❤️那時國旗是多麼令人感到驕傲！\n\n💔可如今除了選舉時刻，國旗總被遺忘在角落，甚至丟棄！\n\n💢國旗被政客拿來當作消費台灣人民選票的東西，難道只有選舉，你才會想起國旗嗎？國旗不應該是時刻受人重視嗎？！\n\n現在立刻動動手指☝️叫上你的親朋好友跟我們一起升🇹🇼吧💪\n\n🔗升旗連結：https://sftaiwan.org/2020/flag.php",
+      "ad_creation_time": "2019-12-17T12:49:14+0000",
+      "ad_creative_link_caption": "sftaiwan.org",
+      "ad_creative_link_description": "國旗應該是時刻受人重視的！現在立刻動動手指️叫上你的親朋好友跟我們一起升國旗吧",
+      "ad_creative_link_title": "手指升國旗 全民總動員！",
+      "ad_delivery_start_time": "2019-12-17T12:49:14+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.078314",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.169211",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.046672",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.064602",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.197988",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.108602",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.238684",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.093209",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000992",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000428",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000857",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00044",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "安定力量",
+      "impressions": {
+        "lower_bound": "125000",
+        "upper_bound": "149999"
+      },
+      "page_id": "361802464195164",
+      "page_name": "安定力量",
+      "region_distribution": [
+        {
+          "percentage": "0.023583",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.000333",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.015155",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.024203",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.011906",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.009862",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.030161",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.004374",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.015419",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.020322",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.003594",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.154045",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.01651",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.003066",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001297",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.039966",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.105789",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.124193",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.108361",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.088188",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.172989",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.026683",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "ad_id": "2539119152861826"
+    }
+  }
+]

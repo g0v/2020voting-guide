@@ -1,0 +1,109 @@
+[
+  {
+    "選區": "臺中市第五選舉區",
+    "參選人": "沈智慧",
+    "AD_ID": "458185418425018",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-16",
+    "結束日期": "1970-01-01",
+    "廣告內容": "#沈智慧堅持毒品零容忍 #你不可不知的毒品防範大漏洞！？ 反毒的第一步是「防毒於邊境」 但是民進黨政府連毒品分類都做不好 難道要讓台灣成為世界毒品天堂？ 全民防毒已經破功，淪為口號 台灣吸毒人口年齡逐年下降、治安事件日趨惡化 曾經發生吸毒後無差別殺人、虐打兒童、虐殺寵物、駕車肇事 成為台灣社會的不定時炸彈 沈智慧提出反毒法案 關係到校園毒品氾濫、社區大樓住戶拉K問題 一定要盡快遏止毒品入侵校園、阻斷大樓毒品擴散 沈智慧堅持毒品零容忍  為了下一代、這一代，請大家作伙來打拼 #拒毒 #反毒 #毒品零容忍 #認同請分享",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/80547896_458185431758350_976143373712752640_n.jpg?_nc_cat=107&_nc_ohc=-SfRou2sH80AQloxKnIHIFdqlpgTzKQ5CvxR3QY7MhfekcL5uKNH6j6qw&_nc_ht=scontent-hkg3-2.xx&oh=8f1f5b429905f8a28fca331786f8c388&oe=5E68DD85",
+    "廣告詳情": {
+      "ad_creative_body": "#沈智慧堅持毒品零容忍\n#你不可不知的毒品防範大漏洞！？\n反毒的第一步是「防毒於邊境」\n但是民進黨政府連毒品分類都做不好\n難道要讓台灣成為世界毒品天堂？\n全民防毒已經破功，淪為口號\n\n台灣吸毒人口年齡逐年下降、治安事件日趨惡化\n曾經發生吸毒後無差別殺人、虐打兒童、虐殺寵物、駕車肇事\n成為台灣社會的不定時炸彈\n\n沈智慧提出反毒法案\n關係到校園毒品氾濫、社區大樓住戶拉K問題\n一定要盡快遏止毒品入侵校園、阻斷大樓毒品擴散\n沈智慧堅持毒品零容忍 \n為了下一代、這一代，請大家作伙來打拼\n\n#拒毒 #反毒 #毒品零容忍 #認同請分享",
+      "ad_creation_time": "2019-12-16T08:24:59+0000",
+      "ad_creative_link_caption": "line.me",
+      "ad_creative_link_title": "沈智慧堅持毒品零容忍 毒品防範大漏洞!?",
+      "ad_delivery_start_time": "2019-12-16T08:25:01+0000",
+      "ad_delivery_stop_time": "2019-12-21T08:24:59+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.283274",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.290801",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.119054",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.134163",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.03262",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.057605",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.022743",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.057338",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000534",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001228",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000374",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000267",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "于婷 沈",
+      "impressions": {
+        "lower_bound": "20000",
+        "upper_bound": "24999"
+      },
+      "page_id": "873564689350864",
+      "page_name": "沈智慧",
+      "region_distribution": [
+        {
+          "percentage": "0.83436",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.16419",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.00145",
+          "region": "Nantou"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2000",
+        "upper_bound": "2499"
+      },
+      "ad_id": "458185418425018"
+    }
+  }
+]

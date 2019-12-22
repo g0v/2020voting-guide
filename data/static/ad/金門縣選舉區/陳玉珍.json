@@ -7,7 +7,7 @@
     "開始日期": "2019-12-02",
     "結束日期": "2019-12-04",
     "廣告內容": "專程赴台應邀出席金門軍校同學會及陸軍官校校友總會的活動，這一群熱愛中華民國的將士們，紛紛表示已訂好機位，明年1月11日，韓國瑜一票、陳玉珍一票，大家會返金一起參與這一場保衞中華民國的聖戰！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78889544_2856291317743864_3168474125324779520_n.jpg?_nc_cat=105&_nc_ohc=2ZrDDJy4CT0AQluCTfSsGU1PEF8XcDYxT1ybNv88ejCv4bUzPGyYXGBPg&_nc_ht=scontent-hkg3-1.xx&oh=ec71bcd0da9eef7fa0c171a9fc1afc64&oe=5E42B01B",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78889544_2856291317743864_3168474125324779520_n.jpg?_nc_cat=105&_nc_oc=AQnu8HevngOllpd03Kc23nZ2_GGgS9qvJ6dwrhUYp13p8i6exAgrkXLKncHikBZdJOk&_nc_ht=scontent-hkg3-1.xx&oh=38cc2f76c6653582f1d493b9def010cf&oe=5E6A3D1B",
     "廣告詳情": {
       "ad_creative_body": "專程赴台應邀出席金門軍校同學會及陸軍官校校友總會的活動，這一群熱愛中華民國的將士們，紛紛表示已訂好機位，明年1月11日，韓國瑜一票、陳玉珍一票，大家會返金一起參與這一場保衞中華民國的聖戰！",
       "ad_creation_time": "2019-12-02T23:07:42+0000",
@@ -125,7 +125,454 @@
       "spend": {
         "lower_bound": "2000",
         "upper_bound": "2499"
-      }
+      },
+      "ad_id": "2404870319634970"
+    }
+  },
+  {
+    "選區": "金門縣選舉區",
+    "參選人": "陳玉珍",
+    "AD_ID": "1313373288843128",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-12",
+    "結束日期": "2019-12-13",
+    "廣告內容": "玉珍明天(12/13)上午緊急召集交通部民航局、觀光局、航港局、金管會及國防部召開跨部會緊急應變會議，針對: 1.已付費(刷卡及付現)購票之民眾如何退費 2.選舉及春節期間已訂位購票之民眾協助簽轉機制 3.加開班船事宜 會議結束會儘速發佈相關訊息 有相關疑問者，請追蹤 陳玉珍 CHEN YU JEN 粉絲專頁，或加入陳玉珍立委的LINE ID 是@lovekinmen 有最新訊息會隨時發佈",
+    "圖片": "",
+    "廣告詳情": {
+      "ad_creative_body": "玉珍明天(12/13)上午緊急召集交通部民航局、觀光局、航港局、金管會及國防部召開跨部會緊急應變會議，針對:\n\n1.已付費(刷卡及付現)購票之民眾如何退費\n\n2.選舉及春節期間已訂位購票之民眾協助簽轉機制\n\n3.加開班船事宜\n\n會議結束會儘速發佈相關訊息\n\n有相關疑問者，請追蹤 陳玉珍 CHEN YU JEN 粉絲專頁，或加入陳玉珍立委的LINE ID 是@lovekinmen\n有最新訊息會隨時發佈",
+      "ad_creation_time": "2019-12-12T14:37:20+0000",
+      "ad_delivery_start_time": "2019-12-12T14:37:20+0000",
+      "ad_delivery_stop_time": "2019-12-13T14:37:08+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.082392",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.042852",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.14141",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.107324",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.059603",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.078302",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.134203",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.043046",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.066615",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.127191",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.091157",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.025127",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000584",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000195",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "玉珍 陳",
+      "impressions": {
+        "lower_bound": "9000",
+        "upper_bound": "9999"
+      },
+      "page_id": "988612857845062",
+      "page_name": "陳玉珍 CHEN YU JEN",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Kinmen"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "1313373288843128"
+    }
+  },
+  {
+    "選區": "金門縣選舉區",
+    "參選人": "陳玉珍",
+    "AD_ID": "1370986566413463",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-11",
+    "結束日期": "2019-12-12",
+    "廣告內容": "緊急通知 由於遠東航空財務困難，即日起遠航班機全面停飛，玉珍已經緊急聯絡民航局長，要求盡速擬定應變措施，針對返鄉旅客，(尤其是春節期間訂位之鄉親)，提出解決方案，協調其他航空公司放大機型及加開航班。 有最新消息，玉珍將隨時發布!",
+    "圖片": "",
+    "廣告詳情": {
+      "ad_creative_body": "緊急通知\n\n由於遠東航空財務困難，即日起遠航班機全面停飛，玉珍已經緊急聯絡民航局長，要求盡速擬定應變措施，針對返鄉旅客，(尤其是春節期間訂位之鄉親)，提出解決方案，協調其他航空公司放大機型及加開航班。\n有最新消息，玉珍將隨時發布!",
+      "ad_creation_time": "2019-12-12T06:55:18+0000",
+      "ad_delivery_start_time": "2019-12-12T06:55:18+0000",
+      "ad_delivery_stop_time": "2019-12-13T06:55:05+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.105619",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.158429",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.098172",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.16046",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.070413",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.125254",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.020988",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.077861",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.077861",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.038592",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.045362",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.020988",
+          "age": "18-24",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "玉珍 陳",
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "1999"
+      },
+      "page_id": "988612857845062",
+      "page_name": "陳玉珍 CHEN YU JEN",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Kinmen"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "199"
+      },
+      "ad_id": "1370986566413463"
+    }
+  },
+  {
+    "選區": "金門縣選舉區",
+    "參選人": "陳玉珍",
+    "AD_ID": "2729526510437060",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-16",
+    "結束日期": "1970-01-01",
+    "廣告內容": "玉珍，總是在您需要的地方",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81212934_2729526543770390_5518869358580858880_n.jpg?_nc_cat=101&_nc_oc=AQm8-urgVNaZRo3ztk7kzleKgPbPM_by8-FLT_HVuXuoJ_nZjyKR6Z6PfI_vOWWBNZo&_nc_ht=scontent-hkg3-1.xx&oh=56afdfefa9a59295d8bc1080be14526a&oe=5EB1542F",
+    "廣告詳情": {
+      "ad_creative_body": "玉珍，總是在您需要的地方",
+      "ad_creation_time": "2019-12-17T03:36:29+0000",
+      "ad_delivery_start_time": "2019-12-17T03:36:29+0000",
+      "ad_delivery_stop_time": "2019-12-19T09:43:27+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "6.7E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.118472",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "6.7E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000539",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000741",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.035717",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.077027",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.121504",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.081609",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "6.7E-5",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.085787",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.025878",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.075275",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.059034",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.133567",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.109104",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.075409",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000135",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "玉珍 陳",
+      "impressions": {
+        "lower_bound": "40000",
+        "upper_bound": "44999"
+      },
+      "page_id": "988612857845062",
+      "page_name": "陳玉珍 CHEN YU JEN",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Kinmen"
+        }
+      ],
+      "spend": {
+        "lower_bound": "4000",
+        "upper_bound": "4499"
+      },
+      "ad_id": "2729526510437060"
+    }
+  },
+  {
+    "選區": "金門縣選舉區",
+    "參選人": "陳玉珍",
+    "AD_ID": "2754254067972649",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-13",
+    "結束日期": "2019-12-14",
+    "廣告內容": "https://udn.com/news/story/120869/4225335 再補充說明，後續還有很多細節需要進行，玉珍國會辦公室還會繼續協助處理退費及轉訂事宜，各位鄕親如有疑問請加玉珍的Line Id 是 @lovekinmen 及追蹤陳玉珍臉書粉絲專頁 請大家不要擔心， 讓大家心安是玉珍的責任 請協助分享轉傳給有需要的鄉親",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/80620270_2754254087972647_413852126540726272_n.jpg?_nc_cat=102&_nc_oc=AQkn5YnyQ0cYxADsKtz4Ci5zql0j_kKpSjVol4Zoj4x8JkbFx_yiR6O1KF1tJ3iGP3Y&_nc_ht=scontent-hkg3-1.xx&oh=d0673a0b96a7ed0dc0b0439af081e719&oe=5EACE156",
+    "廣告詳情": {
+      "ad_creative_body": "https://udn.com/news/story/120869/4225335\n\n再補充說明，後續還有很多細節需要進行，玉珍國會辦公室還會繼續協助處理退費及轉訂事宜，各位鄕親如有疑問請加玉珍的Line Id 是 @lovekinmen 及追蹤陳玉珍臉書粉絲專頁\n請大家不要擔心，\n讓大家心安是玉珍的責任\n請協助分享轉傳給有需要的鄉親",
+      "ad_creation_time": "2019-12-13T23:22:57+0000",
+      "ad_creative_link_caption": "udn.com",
+      "ad_creative_link_description": "遠東航空公司於昨日宣布停飛，嚴重衝擊離島金門的交通，台金的金門鄉親更是惶恐不安，深怕返鄉的路更是迢迢，尤其是即將到來的總...",
+      "ad_creative_link_title": "陳玉珍召開跨部會協調會議 盼降低遠航停飛衝擊 | 聯合新聞網",
+      "ad_delivery_start_time": "2019-12-13T23:22:57+0000",
+      "ad_delivery_stop_time": "2019-12-14T23:22:45+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.067061",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.057016",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.11226",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.150074",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.112555",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.082127",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.059675",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.144165",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.034564",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.14003",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.015362",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.023634",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000886",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000295",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000295",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "玉珍 陳",
+      "impressions": {
+        "lower_bound": "3000",
+        "upper_bound": "3999"
+      },
+      "page_id": "988612857845062",
+      "page_name": "陳玉珍 CHEN YU JEN",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Kinmen"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "2754254067972649"
     }
   }
 ]

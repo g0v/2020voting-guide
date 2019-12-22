@@ -1,0 +1,94 @@
+[
+  {
+    "選區": "臺北市第一選舉區",
+    "參選人": "王郁揚",
+    "AD_ID": "817469128692183",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-14",
+    "結束日期": "1970-01-01",
+    "廣告內容": "根據國發會資料2026年台灣將達到超高齡社會，65歲以上長輩突破人口的20%，每五人就有一人超過65歲，顯示長照政策是台灣非常迫切進行的社會福利政策。 且根據衛福部資料，長照基金恐將於2027年破產。(2018年菸稅佔長照基金八成收入)。 因此，北投天母立委參選人王郁揚主張：「推動長照財源雙軌制(保險＋稅收)，穩定長照財源，提供更健全的長照服務。」",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79386402_549904855855301_6523060234536091648_n.jpg?_nc_cat=101&_nc_ohc=TkdRsPEoocoAQkcGErDMfPRC8njhB1hWm3RQkbfeNBb-8fiwC7USm6D6g&_nc_ht=scontent-hkg3-1.xx&oh=cf9d6148136ddbb4601f7a4d79d18648&oe=5EA7DBCC",
+    "廣告詳情": {
+      "ad_creative_body": "根據國發會資料2026年台灣將達到超高齡社會，65歲以上長輩突破人口的20%，每五人就有一人超過65歲，顯示長照政策是台灣非常迫切進行的社會福利政策。\n\n且根據衛福部資料，長照基金恐將於2027年破產。(2018年菸稅佔長照基金八成收入)。\n\n因此，北投天母立委參選人王郁揚主張：「推動長照財源雙軌制(保險＋稅收)，穩定長照財源，提供更健全的長照服務。」",
+      "ad_creation_time": "2019-12-14T15:50:40+0000",
+      "ad_delivery_start_time": "2019-12-14T15:50:40+0000",
+      "ad_delivery_stop_time": "2019-12-24T15:50:25+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.001126",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001126",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001126",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.243243",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.051802",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.009009",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.112613",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.099099",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.182432",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.168919",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.129505",
+          "age": "65+",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "郁揚 王",
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "1999"
+      },
+      "page_id": "388974281948360",
+      "page_name": "王郁揚 北投天母立法委員 素人參選",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taipei"
+        }
+      ],
+      "spend": {
+        "lower_bound": "300",
+        "upper_bound": "399"
+      },
+      "ad_id": "817469128692183"
+    }
+  }
+]

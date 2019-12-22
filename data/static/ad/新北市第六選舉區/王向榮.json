@@ -92,7 +92,8 @@
       "spend": {
         "lower_bound": "0",
         "upper_bound": "99"
-      }
+      },
+      "ad_id": "743632506091352"
     }
   }
 ]

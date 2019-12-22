@@ -5,9 +5,9 @@
     "AD_ID": "440149909956902",
     "登錄為政治廣告": "否",
     "開始日期": "2019-10-18",
-    "結束日期": "2019-12-06",
+    "結束日期": "1970-01-01",
     "廣告內容": "十三年來，阿惠一直都跟基層站在一起， 在嘉義的大街小巷騎著小綿羊，腳踏實地的打拼。 這次，為了嘉義，阿惠需要您跟我站在一起！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/75635374_2194021907564222_3023069600951566336_n.jpg?_nc_cat=104&_nc_ohc=oSMxWS6AupEAQl7i41C5clFM1N6T2XjWz_osWbUaqO0CNWRKKJlz04sZw&_nc_ht=scontent-hkg3-1.xx&oh=95df1dbb97186b3dad331a4f3e69b9d8&oe=5E862DB5",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/75635374_2194021907564222_3023069600951566336_n.jpg?_nc_cat=104&_nc_oc=AQnD751eKTMMHz6725iM9cHqO3prbmG7jlOQVArbkp-Rxftw0V6QrcWaL8ItM17eBIk&_nc_ht=scontent-hkg3-1.xx&oh=672fc2f4781b5eb21dac9de33abdd2a3&oe=5EADBAB5",
     "廣告詳情": {
       "ad_creative_body": "十三年來，阿惠一直都跟基層站在一起，\n在嘉義的大街小巷騎著小綿羊，腳踏實地的打拼。\n\n這次，為了嘉義，阿惠需要您跟我站在一起！",
       "ad_creation_time": "2019-10-19T05:53:35+0000",
@@ -122,18 +122,19 @@
       "spend": {
         "lower_bound": "3500",
         "upper_bound": "3999"
-      }
+      },
+      "ad_id": "440149909956902"
     }
   },
   {
     "選區": "嘉義市選舉區",
     "參選人": "王美惠",
     "AD_ID": "415134686094540",
-    "登錄為政治廣告": "否",
-    "開始日期": "2019-11-08",
-    "結束日期": "2019-11-10",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-29",
+    "結束日期": "2019-12-03",
     "廣告內容": "今晚，阿惠要邀請鄉親，加入惠粉生活圈，鄉親也可以幫我分享給更多好朋友哦！ 📌 加入 #惠粉專屬社團：https://www.facebook.com/groups/ahueipower/ 📌 加入 #阿惠的LINE：http://nav.cx/al3KUWL 📌 追蹤 #阿惠的IG：https://www.instagram.com/ahueimoto/ 📌 按讚 #阿惠的Facebook：https://www.facebook.com/ahueimoto/ 前幾天，阿惠成立了2020嘉義惠粉專屬社團，一天之內就有許多熱情的鄉親加入，而且在社團裡面互動熱烈，讓阿惠很感動。 阿惠希望，惠粉生活圈能夠成為「#網路小綿羊」，深入每個嘉義市的角落，看見市民的需要，也讓更多好朋友跟阿惠一起拚2020，讓台灣繼續贏，為嘉義繼續衝。 　 #我們都是阿惠 #我們都是基層嘉義市立委候選人 王美惠 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/",
-    "圖片": "https://scontent-nrt1-1.xx.fbcdn.net/v/t1.6435-0/s600x600/73267141_2630216460400942_6174863271594557440_n.jpg?_nc_cat=104&_nc_oc=AQkqZi3R1N-ck-f09ufzZF9KaeZlkFT75T2fYsERTAjQUeSZD4ECEklmg2hDNF91I9s&_nc_ht=scontent-nrt1-1.xx&oh=dcde7a1c4e2617efa50e1418e2cae45c&oe=5E52D8D8",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/73267141_2630216460400942_6174863271594557440_n.jpg?_nc_cat=104&_nc_ohc=P8j-KCRyFhYAQlJci70z9zM2euGjPcV96pCu1XKXv6dh14lsLe-IAPyiw&_nc_ht=scontent-hkg3-1.xx&oh=da8a61f0d1229141a1146d4c6a1cc865&oe=5E7A65D8",
     "廣告詳情": {
       "ad_creative_body": "今晚，阿惠要邀請鄉親，加入惠粉生活圈，鄉親也可以幫我分享給更多好朋友哦！\n\n📌 加入 #惠粉專屬社團：\nhttps://www.facebook.com/groups/ahueipower/\n\n📌 加入 #阿惠的LINE：\nhttp://nav.cx/al3KUWL\n\n📌 追蹤 #阿惠的IG：\nhttps://www.instagram.com/ahueimoto/\n\n📌 按讚 #阿惠的Facebook：\nhttps://www.facebook.com/ahueimoto/\n\n前幾天，阿惠成立了2020嘉義惠粉專屬社團，一天之內就有許多熱情的鄉親加入，而且在社團裡面互動熱烈，讓阿惠很感動。\n\n阿惠希望，惠粉生活圈能夠成為「#網路小綿羊」，深入每個嘉義市的角落，看見市民的需要，也讓更多好朋友跟阿惠一起拚2020，讓台灣繼續贏，為嘉義繼續衝。\n　\n#我們都是阿惠\n#我們都是基層\n嘉義市立委候選人 王美惠\n\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\nhttps://www.facebook.com/groups/ahueipower/",
       "ad_creation_time": "2019-11-09T05:13:37+0000",
@@ -221,7 +222,8 @@
       "spend": {
         "lower_bound": "0",
         "upper_bound": "99"
-      }
+      },
+      "ad_id": "415134686094540"
     }
   },
   {
@@ -232,7 +234,7 @@
     "開始日期": "2019-11-08",
     "結束日期": "2019-11-12",
     "廣告內容": "",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/77122921_2632453386811445_5341826863859761152_n.jpg?_nc_cat=109&_nc_ohc=0Zemg5WkHJUAQmpMob0n8HLWVaW84MFa23nxuK7_NPtlSqIN2Al7npIsQ&_nc_ht=scontent-hkg3-1.xx&oh=ab0c0acdc4b352500d1710a311a5a476&oe=5E734A25",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/77122921_2632453386811445_5341826863859761152_n.jpg?_nc_cat=109&_nc_ohc=4DOP-wMA5ZkAQmuly35v2K0xfxUhiFzY6SU2GGNoM8qGGN3wCERCI772g&_nc_ht=scontent-hkg3-1.xx&oh=589bb8b859391f47d921af551a6a184c&oe=5E734A25",
     "廣告詳情": {
       "ad_creative_body": "☺️☺️阿惠這樣是不是也能當美食代言人了！\n\n#桃城雞排超好吃\n#嘉義罪惡美食",
       "ad_creation_time": "2019-11-09T05:11:57+0000",
@@ -390,7 +392,8 @@
       "spend": {
         "lower_bound": "0",
         "upper_bound": "99"
-      }
+      },
+      "ad_id": "432846327639914"
     }
   },
   {
@@ -401,7 +404,7 @@
     "開始日期": "2019-11-08",
     "結束日期": "2019-11-12",
     "廣告內容": "阿惠競選總部的 #青年事務部成立大會 就在剛剛圓滿落幕了！ 台灣的未來該何去何從，取決於青年世代，剛剛青年部主任也以去年選舉的結果提醒大家不應懈怠，一定要繼續努力，#明年一起守住台灣的自由民主價值。 總部也設置了一面「嘉義牆」，讓大家在牆面上自由發揮對嘉義未來的願景以及展望，而阿惠也發現「#青年回嘉」是整面牆出現最多次的詞，足見嘉義青年返鄉的渴望。 阿惠也在這邊感謝來到現場的所有青年朋友及貴賓，讓我們明年作伙拚，作伙衝！ #挺青年 #從阿惠做起嘉義市立委候選人 王美惠 　 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76706796_2646529582102963_4977563746818850816_n.jpg?_nc_cat=106&_nc_ohc=fkQ9rI8Td5YAQmTwE2yi5cJR00U_oYvvUhPuJZ5mL2cTh7vxaefg3urgg&_nc_ht=scontent-hkg3-1.xx&oh=cd65679be9a8b4d58ee12e96ec5d16cd&oe=5E85B793",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76706796_2646529582102963_4977563746818850816_n.jpg?_nc_cat=106&_nc_oc=AQm61mk1PbwTIUcCbLOBlPJRqGCQkjm6EbgydFKXwJVa1GHuwk_R-ZN6Ax4b7bSVBVk&_nc_ht=scontent-hkg3-1.xx&oh=07190b019edc10e782742aa495871ee8&oe=5E85B793",
     "廣告詳情": {
       "ad_creative_body": "阿惠競選總部的 #青年事務部成立大會 就在剛剛圓滿落幕了！\n\n台灣的未來該何去何從，取決於青年世代，剛剛青年部主任也以去年選舉的結果提醒大家不應懈怠，一定要繼續努力，#明年一起守住台灣的自由民主價值。\n\n總部也設置了一面「嘉義牆」，讓大家在牆面上自由發揮對嘉義未來的願景以及展望，而阿惠也發現「#青年回嘉」是整面牆出現最多次的詞，足見嘉義青年返鄉的渴望。\n\n阿惠也在這邊感謝來到現場的所有青年朋友及貴賓，讓我們明年作伙拚，作伙衝！\n\n#挺青年\n#從阿惠做起\n嘉義市立委候選人 王美惠\n　\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/",
       "ad_creation_time": "2019-11-09T04:42:06+0000",
@@ -504,18 +507,19 @@
       "spend": {
         "lower_bound": "300",
         "upper_bound": "399"
-      }
+      },
+      "ad_id": "533684090784534"
     }
   },
   {
     "選區": "嘉義市選舉區",
     "參選人": "王美惠",
     "AD_ID": "434454637474888",
-    "登錄為政治廣告": "否",
-    "開始日期": "2019-11-10",
-    "結束日期": "2019-11-12",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-29",
+    "結束日期": "2019-12-03",
     "廣告內容": "今晚，阿惠要邀請鄉親，加入惠粉生活圈，鄉親也可以幫我分享給更多好朋友哦！ 📌 加入 #惠粉專屬社團：https://www.facebook.com/groups/ahueipower/ 📌 加入 #阿惠的LINE：http://nav.cx/al3KUWL 📌 追蹤 #阿惠的IG：https://www.instagram.com/ahueimoto/ 📌 按讚 #阿惠的Facebook：https://www.facebook.com/ahueimoto/ 前幾天，阿惠成立了2020嘉義惠粉專屬社團，一天之內就有許多熱情的鄉親加入，而且在社團裡面互動熱烈，讓阿惠很感動。 阿惠希望，惠粉生活圈能夠成為「#網路小綿羊」，深入每個嘉義市的角落，看見市民的需要，也讓更多好朋友跟阿惠一起拚2020，讓台灣繼續贏，為嘉義繼續衝。 　 #我們都是阿惠 #我們都是基層嘉義市立委候選人 王美惠 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/73267141_2630216460400942_6174863271594557440_n.jpg?_nc_cat=104&_nc_ohc=4fi3OPaO5NUAQl24hy0QxmhvtoyQkDlR4vIISKrKjdtZFmz97ykCfXm1w&_nc_ht=scontent-hkg3-1.xx&oh=a6a0d9a5eed8cbbfc47e9d09f41601d2&oe=5E7A65D8",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/73267141_2630216460400942_6174863271594557440_n.jpg?_nc_cat=104&_nc_ohc=P8j-KCRyFhYAQlJci70z9zM2euGjPcV96pCu1XKXv6dh14lsLe-IAPyiw&_nc_ht=scontent-hkg3-1.xx&oh=da8a61f0d1229141a1146d4c6a1cc865&oe=5E7A65D8",
     "廣告詳情": {
       "ad_creative_body": "今晚，阿惠要邀請鄉親，加入惠粉生活圈，鄉親也可以幫我分享給更多好朋友哦！\n\n📌 加入 #惠粉專屬社團：\nhttps://www.facebook.com/groups/ahueipower/\n\n📌 加入 #阿惠的LINE：\nhttp://nav.cx/al3KUWL\n\n📌 追蹤 #阿惠的IG：\nhttps://www.instagram.com/ahueimoto/\n\n📌 按讚 #阿惠的Facebook：\nhttps://www.facebook.com/ahueimoto/\n\n前幾天，阿惠成立了2020嘉義惠粉專屬社團，一天之內就有許多熱情的鄉親加入，而且在社團裡面互動熱烈，讓阿惠很感動。\n\n阿惠希望，惠粉生活圈能夠成為「#網路小綿羊」，深入每個嘉義市的角落，看見市民的需要，也讓更多好朋友跟阿惠一起拚2020，讓台灣繼續贏，為嘉義繼續衝。\n　\n#我們都是阿惠\n#我們都是基層\n嘉義市立委候選人 王美惠\n\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\nhttps://www.facebook.com/groups/ahueipower/",
       "ad_creation_time": "2019-11-10T08:33:39+0000",
@@ -608,7 +612,8 @@
       "spend": {
         "lower_bound": "400",
         "upper_bound": "499"
-      }
+      },
+      "ad_id": "434454637474888"
     }
   },
   {
@@ -619,7 +624,7 @@
     "開始日期": "2019-11-18",
     "結束日期": "2019-11-23",
     "廣告內容": "晚安，小英總統還有阿惠今天想要邀請您星期天來參加 #嘉義市競選總部成立大會！ 本週日就是競選總部成立大會了，我們準備了許多精彩的節目等著大家一起來共襄盛舉，蔡英文總統當天也會來到嘉義市跟幫阿惠站台、讚聲。 接下來我們也會公布更多神秘嘉賓，敬請期待！ 　 #自由民主之役嘉義市立委候選人 王美惠蔡英文 Tsai Ing-wen -- 　 嘉義市競選總部成立大會 日期：11月24日（日） 時間：18:20開始 地點：嘉義市棒球場停車場 　 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/75226486_2666352556787332_973920131136618496_n.jpg?_nc_cat=106&_nc_ohc=CDCti9q-4REAQlDWY9E7AD_7QeZW86MAxPW37ZtF7vyvcJp8ZENh3zj0Q&_nc_ht=scontent-hkg3-1.xx&oh=87a963a1a6ded10a698e7f66148f51d1&oe=5E41D672",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/75226486_2666352556787332_973920131136618496_n.jpg?_nc_cat=106&_nc_ohc=PfTlo3SgodwAQlEj7kH89LVux4Zmhg1ldmQmwoWDKD86vXX-aJP9l48mQ&_nc_ht=scontent-hkg3-1.xx&oh=70125b12ccd20e61f3e3e4cd8b0b39d0&oe=5E696372",
     "廣告詳情": {
       "ad_creative_body": "晚安，小英總統還有阿惠今天想要邀請您星期天來參加 #嘉義市競選總部成立大會！\n\n本週日就是競選總部成立大會了，我們準備了許多精彩的節目等著大家一起來共襄盛舉，蔡英文總統當天也會來到嘉義市跟幫阿惠站台、讚聲。\n\n接下來我們也會公布更多神秘嘉賓，敬請期待！\n　\n#自由民主之役\n嘉義市立委候選人 王美惠\n蔡英文 Tsai Ing-wen\n\n--\n　\n嘉義市競選總部成立大會\n\n日期：11月24日（日）\n時間：18:20開始\n地點：嘉義市棒球場停車場\n　\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\nhttps://www.facebook.com/groups/ahueipower/",
       "ad_creation_time": "2019-11-19T02:50:37+0000",
@@ -723,7 +728,8 @@
       "spend": {
         "lower_bound": "200",
         "upper_bound": "299"
-      }
+      },
+      "ad_id": "2842670369090938"
     }
   },
   {
@@ -734,7 +740,7 @@
     "開始日期": "2019-11-10",
     "結束日期": "2019-11-14",
     "廣告內容": "「在這邊承諾，若我有幸進入國會，一定跟年輕人站在一起。」 昨天，阿惠競選總部的青年事務部成立大會圓滿結束，阿惠還記得，儘管昨天烈日當空，許多年輕人的臉龐上仍然都洋溢著青春的笑容，#充滿著對嘉義市未來的自信，非常感謝所有前來參與的大家，更謝謝所有人對阿惠大大的信任。 未來阿惠的青年事務部，一定會廣納更多優秀的在地青年，共同擬定政策，讓嘉義產業活化、改革地方政治，#讓所有嘉義人的驕傲能夠一直持續下去。 於是我們的團隊也做了個影片，讓大家回味昨天的活動，也歡迎分享給更多好朋友哦！ #挺青年不用跟風 #阿惠用實際行動證明嘉義市立委候選人 王美惠​ 　 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/77432127_561032218042418_3324836859321778176_n.jpg?_nc_cat=104&_nc_ohc=gt_bwlicUzkAQm6bbaUHLLrmzfdUneJLYVQFrZ-tOjr7LDFwwyZG9lGHA&_nc_ht=scontent-hkg3-1.xx&oh=a7e83602befbc34f7660d7a69804f519&oe=5E757EF1",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/77432127_561032218042418_3324836859321778176_n.jpg?_nc_cat=104&_nc_ohc=eFZytjSsr50AQmEH9UDauZ1HFeY7OrMRF_NZl8l7Ap1dHEhITq57Why1w&_nc_ht=scontent-hkg3-1.xx&oh=53dd54ada6ac97c1be7f9ee19311a5cf&oe=5E757EF1",
     "廣告詳情": {
       "ad_creative_body": "「在這邊承諾，若我有幸進入國會，一定跟年輕人站在一起。」\n\n昨天，阿惠競選總部的青年事務部成立大會圓滿結束，阿惠還記得，儘管昨天烈日當空，許多年輕人的臉龐上仍然都洋溢著青春的笑容，#充滿著對嘉義市未來的自信，非常感謝所有前來參與的大家，更謝謝所有人對阿惠大大的信任。\n\n未來阿惠的青年事務部，一定會廣納更多優秀的在地青年，共同擬定政策，讓嘉義產業活化、改革地方政治，#讓所有嘉義人的驕傲能夠一直持續下去。\n\n於是我們的團隊也做了個影片，讓大家回味昨天的活動，也歡迎分享給更多好朋友哦！\n\n#挺青年不用跟風\n#阿惠用實際行動證明\n嘉義市立委候選人 王美惠​\n　\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\nhttps://www.facebook.com/groups/ahueipower/",
       "ad_creation_time": "2019-11-11T04:38:42+0000",
@@ -834,7 +840,8 @@
       "spend": {
         "lower_bound": "100",
         "upper_bound": "199"
-      }
+      },
+      "ad_id": "561032198042420"
     }
   },
   {
@@ -842,10 +849,10 @@
     "參選人": "王美惠",
     "AD_ID": "517680295687192",
     "登錄為政治廣告": "否",
-    "開始日期": "2019-10-09",
-    "結束日期": "2019-12-06",
+    "開始日期": "2019-10-18",
+    "結束日期": "1970-01-01",
     "廣告內容": "十三年來，阿惠一直都跟基層站在一起， 在嘉義的大街小巷騎著小綿羊，腳踏實地的打拼。 這次，為了嘉義，阿惠需要您跟我站在一起！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/72711346_514000506064036_5927214804472168448_n.jpg?_nc_cat=102&_nc_ohc=bBb5caRfHM0AQmjRlYY3hMIsG1aHkcPDYDehrXpyQSFaNweng6CSGyY0w&_nc_ht=scontent-hkg3-1.xx&oh=34c7acf2451df6a03226dbc40de093a5&oe=5E862826",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/75635374_2194021907564222_3023069600951566336_n.jpg?_nc_cat=104&_nc_oc=AQnD751eKTMMHz6725iM9cHqO3prbmG7jlOQVArbkp-Rxftw0V6QrcWaL8ItM17eBIk&_nc_ht=scontent-hkg3-1.xx&oh=672fc2f4781b5eb21dac9de33abdd2a3&oe=5EADBAB5",
     "廣告詳情": {
       "ad_creative_body": "十三年來，阿惠一直都跟基層站在一起，\n在嘉義的大街小巷騎著小綿羊，腳踏實地的打拼。\n\n這次，為了嘉義，阿惠需要您跟我站在一起！",
       "ad_creation_time": "2019-10-10T05:11:38+0000",
@@ -945,7 +952,8 @@
       "spend": {
         "lower_bound": "1000",
         "upper_bound": "4999"
-      }
+      },
+      "ad_id": "517680295687192"
     }
   },
   {
@@ -954,9 +962,9 @@
     "AD_ID": "1278324842349927",
     "登錄為政治廣告": "否",
     "開始日期": "2019-10-04",
-    "結束日期": "2019-12-06",
+    "結束日期": "1970-01-01",
     "廣告內容": "認真做事，就不怕被檢驗。",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/72309819_1278360099013068_5905429970137645056_n.jpg?_nc_cat=110&_nc_ohc=l-EXeoBQXI8AQlHQDk43WBfUVQnk1ewNsijze17qHsD4kDD6ceX-xW3IA&_nc_ht=scontent-hkg3-1.xx&oh=a7910a44134fa3e17aa1c252a9550830&oe=5E8BD60D",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/72309819_1278360099013068_5905429970137645056_n.jpg?_nc_cat=110&_nc_ohc=zNOLIqdTIJsAQndW0nOLBxeQsD_radpR1uGUIkgl8rCW7JsvWhzYmLJjg&_nc_ht=scontent-hkg3-1.xx&oh=aa910057b7d8f851ea8591a3532e2767&oe=5EB3630D",
     "廣告詳情": {
       "ad_creative_body": "認真做事，就不怕被檢驗。",
       "ad_creation_time": "2019-10-05T04:40:23+0000",
@@ -1046,7 +1054,8 @@
       "spend": {
         "lower_bound": "0",
         "upper_bound": "99"
-      }
+      },
+      "ad_id": "1278324842349927"
     }
   },
   {
@@ -1057,7 +1066,7 @@
     "開始日期": "2019-11-19",
     "結束日期": "2019-11-23",
     "廣告內容": "倒數五天！今天為我們倒數的嘉賓是 #賴清德！ 其實，賴神一直是阿惠的的偶像，還記得今年五月時，賴院長來到嘉義市辦簽書會阿惠也有買了好幾本書去捧場，這次的成立大會，我們也好不容易邀請到了賴副總統候選人來一起共襄盛舉。 歡迎大家星期天一起來玩，#一起來為台灣發聲！ #英德勝利 #台灣要贏嘉義市立委候選人 王美惠賴清德 　 -- 　 嘉義市競選總部成立大會 日期：11月24日（日） 時間：18:20開始 地點：嘉義市棒球場停車場 　 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76199277_2666354736787114_1050376506125058048_n.jpg?_nc_cat=107&_nc_ohc=tkN-LpBK1QIAQnXeqRaSR3NlNM62pzVCih3mbdcEgbmYb_VydM1-6QUlw&_nc_ht=scontent-hkg3-1.xx&oh=9f6599985e25bbe99b7a3ab0ba4d4a02&oe=5E6DCE59",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/76199277_2666354736787114_1050376506125058048_n.jpg?_nc_cat=107&_nc_ohc=EI4K8EXlm-IAQmfIKZZBLCxnDeVTsW-tB4mSoC4-dPUufsy-DxYySD-Eg&_nc_ht=scontent-hkg3-2.xx&oh=b0ea4e88b25995a44cc21dd35e4a42d1&oe=5E6DCE59",
     "廣告詳情": {
       "ad_creative_body": "倒數五天！今天為我們倒數的嘉賓是 #賴清德！\n\n其實，賴神一直是阿惠的的偶像，還記得今年五月時，賴院長來到嘉義市辦簽書會阿惠也有買了好幾本書去捧場，這次的成立大會，我們也好不容易邀請到了賴副總統候選人來一起共襄盛舉。\n\n歡迎大家星期天一起來玩，#一起來為台灣發聲！\n\n#英德勝利 #台灣要贏\n嘉義市立委候選人 王美惠\n賴清德\n　\n--\n　\n嘉義市競選總部成立大會\n\n日期：11月24日（日）\n時間：18:20開始\n地點：嘉義市棒球場停車場\n　\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\n\nhttps://www.facebook.com/groups/ahueipower/",
       "ad_creation_time": "2019-11-19T19:00:54+0000",
@@ -1146,7 +1155,8 @@
       "spend": {
         "lower_bound": "100",
         "upper_bound": "199"
-      }
+      },
+      "ad_id": "577715166332408"
     }
   },
   {
@@ -1157,7 +1167,7 @@
     "開始日期": "2019-11-18",
     "結束日期": "2019-11-22",
     "廣告內容": "一張照片，喚醒了多少人的恐懼。 　 昨天，香港警察出動裝甲車、配備實彈步槍全面封鎖香港理工大學所有出入口，儘管各界請求警方解除封鎖讓受困的示威者平安離開，警察仍然拒絕，這一幕，猶如六四天安門重演，#喚醒了多少人對於國家暴力的恐懼。 香港警察昨天甚至警告可能會以實彈還擊示威者，一個國家竟然以恐懼、子彈、流血回應人民的訴求，足以顯現中國不改其極權國家的本質，#對於人民生死無動於衷，實在是丟臉、可恥。 阿惠希望大家 #多加轉傳相關資訊，讓更多朋友知道香港的情勢多麽危急，讓我們一起撐人權、挺香港。 　 明年，在台灣的我們一定要去投票， 讓極權中國知道自由民主是不好惹的。 　 #天佑香港人民 #歷史會站在我們這邊嘉義市立委候選人 王美惠 　 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76689021_2665909546831633_185861651717685248_n.jpg?_nc_cat=110&_nc_ohc=n_9w0RMMswQAQlJI3ywrXP3YhAKcmbX-fDac-OfZEyeYfmBC_jv7yUaLg&_nc_ht=scontent-hkg3-1.xx&oh=20ce5de33db96312b4b15de57fd58dac&oe=5E896E94",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/76689021_2665909546831633_185861651717685248_n.jpg?_nc_cat=110&_nc_ohc=ZC6GC2EI4SYAQlc4aOi0RSLwMnLwuji7bASkxgofqKiXrqL7-x9x8dGcA&_nc_ht=scontent-hkg3-2.xx&oh=8a8839ffa92e189f0c133ba98ceba9c9&oe=5EB0FB94",
     "廣告詳情": {
       "ad_creative_body": "一張照片，喚醒了多少人的恐懼。\n　\n昨天，香港警察出動裝甲車、配備實彈步槍全面封鎖香港理工大學所有出入口，儘管各界請求警方解除封鎖讓受困的示威者平安離開，警察仍然拒絕，這一幕，猶如六四天安門重演，#喚醒了多少人對於國家暴力的恐懼。\n\n香港警察昨天甚至警告可能會以實彈還擊示威者，一個國家竟然以恐懼、子彈、流血回應人民的訴求，足以顯現中國不改其極權國家的本質，#對於人民生死無動於衷，實在是丟臉、可恥。\n\n阿惠希望大家 #多加轉傳相關資訊，讓更多朋友知道香港的情勢多麽危急，讓我們一起撐人權、挺香港。\n　\n明年，在台灣的我們一定要去投票，\n讓極權中國知道自由民主是不好惹的。\n　\n#天佑香港人民\n#歷史會站在我們這邊\n嘉義市立委候選人 王美惠\n　\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\nhttps://www.facebook.com/groups/ahueipower/",
       "ad_creation_time": "2019-11-19T03:18:55+0000",
@@ -1251,7 +1261,8 @@
       "spend": {
         "lower_bound": "0",
         "upper_bound": "99"
-      }
+      },
+      "ad_id": "426356938055652"
     }
   },
   {
@@ -1260,9 +1271,9 @@
     "AD_ID": "3827005383991830",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-18",
-    "結束日期": "2019-12-06",
+    "結束日期": "1970-01-01",
     "廣告內容": "十三年來，阿惠一直都跟基層站在一起， 在嘉義的大街小巷騎著小綿羊，腳踏實地的打拼。  這次，為了嘉義，阿惠需要您跟我站在一起！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/77969377_3827005437325158_304583769073909760_n.jpg?_nc_cat=102&_nc_ohc=bQexLTiVMV0AQlSMvKicm7-TfdEmpX3xRj_hp06INtZkvj-WEhii7D8mg&_nc_ht=scontent-hkg3-1.xx&oh=bd551774ddd6d6a12956765596692637&oe=5E3EE914",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/77969377_3827005437325158_304583769073909760_n.jpg?_nc_cat=102&_nc_ohc=QOxbmF7p4hcAQnDKR3_WUfSimyrRQUPqa4OIbN4uNko860FMxb1zLMhMw&_nc_ht=scontent-hkg3-1.xx&oh=06f7d9b52707e796230ba9cb10a75128&oe=5E667614",
     "廣告詳情": {
       "ad_creative_body": "十三年來，阿惠一直都跟基層站在一起，\n在嘉義的大街小巷騎著小綿羊，腳踏實地的打拼。 \n\n這次，為了嘉義，阿惠需要您跟我站在一起！",
       "ad_creation_time": "2019-11-19T03:17:26+0000",
@@ -1273,107 +1284,118 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "7.8E-5",
-          "age": "55-64",
+          "percentage": "0.000115",
+          "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000777",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000466",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.188937",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.161436",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.04669",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.069375",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.101771",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.137741",
+          "percentage": "0.134833",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.012352",
+          "percentage": "0.105748",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.012539",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.116377",
+          "percentage": "0.067674",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.038647",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.185045",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.124299",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.073337",
+          "percentage": "0.158479",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "5.7E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.078324",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.037989",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.032862",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.019422",
+          "percentage": "0.019695",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.000388",
+          "percentage": "0.043513",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000286",
           "age": "45-54",
           "gender": "unknown"
+        },
+        {
+          "percentage": "5.7E-5",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000573",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000344",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.029772",
+          "age": "55-64",
+          "gender": "female"
         }
       ],
       "funding_entity": "美惠王",
       "impressions": {
-        "lower_bound": "25000",
-        "upper_bound": "29999"
+        "lower_bound": "40000",
+        "upper_bound": "44999"
       },
       "page_id": "105497726206174",
       "page_name": "嘉義市立委候選人 王美惠",
       "region_distribution": [
         {
-          "percentage": "0.962487",
+          "percentage": "0.956642",
           "region": "Unknown"
         },
         {
-          "percentage": "0.037513",
+          "percentage": "0.043358",
           "region": "Chiayi"
         }
       ],
       "spend": {
-        "lower_bound": "2000",
-        "upper_bound": "2499"
-      }
+        "lower_bound": "3000",
+        "upper_bound": "3499"
+      },
+      "ad_id": "3827005383991830"
     }
   },
   {
@@ -1384,7 +1406,7 @@
     "開始日期": "2019-11-18",
     "結束日期": "2019-11-23",
     "廣告內容": "11月24日，歡迎所有鄉親朋友在這一天來到嘉義市棒球場共襄盛舉，一起支持會做事的人、一起支持台灣隊。 　 這三年來，無論是在轉型正義、社會住宅、青年就業又或者是各個層面社會體質的健全，綠色執政都秉持著認真打拼的精神，腳踏實地的做事。 尤其是面對到紅色勢力的打壓，蔡英文總統所領導的政府更堅守台灣主權，從未退讓，讓台灣人民習以為常的自由民主繼續延續下去。",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78448178_500709940788027_1846513767488159744_n.jpg?_nc_cat=108&_nc_ohc=DJ8aZpHIg0oAQlF847o8Q_XGR3aPy4AlOM1X4YoK13Xmy-t_Sn9sfZl2Q&_nc_ht=scontent-hkg3-1.xx&oh=76d9261bc9a55686cce41518adf86e95&oe=5E73C762",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78448178_500709940788027_1846513767488159744_n.jpg?_nc_cat=108&_nc_ohc=nt_8TNzQGJsAQmXbxEYFVuRqdK8pISUC2a62JFwJwiv9uhkD6wd4rPgqQ&_nc_ht=scontent-hkg3-1.xx&oh=dc7196f6180aba4766caf3f0b19d6dcc&oe=5E73C762",
     "廣告詳情": {
       "ad_creative_body": "11月24日，歡迎所有鄉親朋友在這一天來到嘉義市棒球場共襄盛舉，一起支持會做事的人、一起支持台灣隊。\n　\n這三年來，無論是在轉型正義、社會住宅、青年就業又或者是各個層面社會體質的健全，綠色執政都秉持著認真打拼的精神，腳踏實地的做事。\n\n尤其是面對到紅色勢力的打壓，蔡英文總統所領導的政府更堅守台灣主權，從未退讓，讓台灣人民習以為常的自由民主繼續延續下去。",
       "ad_creation_time": "2019-11-19T02:59:16+0000",
@@ -1496,7 +1518,8 @@
       "spend": {
         "lower_bound": "500",
         "upper_bound": "599"
-      }
+      },
+      "ad_id": "500709927454695"
     }
   },
   {
@@ -1507,7 +1530,7 @@
     "開始日期": "2019-11-23",
     "結束日期": "2019-11-27",
     "廣告內容": "「把市民交付的，當成自己的代誌來處理。」 　 十三年來，阿惠一直秉持著這句話服務鄉親不間斷，自始至終，#我也一直都把所有鄉親當作自己的家人，只要有事委託，一定盡心盡力的去完成。 非常感謝自由時報的記者朋友寫出了阿惠的故事，我也希望以身作則，讓鄉親看到「認真打拼」的價值，阿惠的故事，#就是基層崛起的例證，也希望可以激起更多人為生活打拼的熱情，繼續相信 #認真打拼就一定會有成果。 　 #從基層出發 #以草根為榮嘉義市立委候選人 王美惠",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78428242_561897724628919_6940558212785504256_n.jpg?_nc_cat=106&_nc_ohc=AO-aHKbSCkYAQlGF92YWNq1kVgNBCF3KGBUQvJHupn5PiJuYDIrqZxwrA&_nc_ht=scontent-hkg3-1.xx&oh=7000960c40d7a320e6e7a3e9302633ad&oe=5E7AE5C3",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78428242_561897724628919_6940558212785504256_n.jpg?_nc_cat=106&_nc_ohc=Gw-49WAss_EAQlpi9ib1a1hnkRttk7slOAJdmBQONbBL5XuWP-qKYqEuA&_nc_ht=scontent-hkg3-1.xx&oh=ccf05c918d6c886996fd59f1b28417df&oe=5E7AE5C3",
     "廣告詳情": {
       "ad_creative_body": "「把市民交付的，當成自己的代誌來處理。」\n　\n十三年來，阿惠一直秉持著這句話服務鄉親不間斷，自始至終，#我也一直都把所有鄉親當作自己的家人，只要有事委託，一定盡心盡力的去完成。\n\n非常感謝自由時報的記者朋友寫出了阿惠的故事，我也希望以身作則，讓鄉親看到「認真打拼」的價值，阿惠的故事，#就是基層崛起的例證，也希望可以激起更多人為生活打拼的熱情，繼續相信 #認真打拼就一定會有成果。\n　\n#從基層出發\n#以草根為榮\n嘉義市立委候選人 王美惠",
       "ad_creation_time": "2019-11-24T07:38:18+0000",
@@ -1624,7 +1647,8 @@
       "spend": {
         "lower_bound": "1000",
         "upper_bound": "1499"
-      }
+      },
+      "ad_id": "561894151295943"
     }
   },
   {
@@ -1632,10 +1656,10 @@
     "參選人": "王美惠",
     "AD_ID": "446849179307042",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-11-19",
-    "結束日期": "2019-11-24",
+    "開始日期": "2019-11-25",
+    "結束日期": "2019-11-29",
     "廣告內容": "跟大家報告，就在剛剛，#阿惠成功登記為2020年嘉義市立法委員候選人。 　 走進嘉義市選舉委員會的那一小段路，猶如時光走廊，看到了許多自發前來支持阿惠的鄉親在奮力大喊著「#全力支持王美惠」，而這些人有非常多也都是曾經來過服務處找阿惠幫忙的鄉親、更有許多年輕人也來相挺，讓阿惠非常感動。 這十三年來，阿惠始終兢兢業業為鄉親打拼，從來不求任何回報，也一刻從來都不敢懈怠，#因為我一直都把嘉義鄉親當作自己的家人，只要是有鄉親兄姐請求，阿惠一定盡力去做。 這段日子以來，阿惠一直都跟人民站在一起，因為我認為，身為民意代表，最重要的不是把自己的形象塑造得多有高度，而是有沒有認真為人民做事，所以無論如何，阿惠都會繼續穿梭大街小巷、深入每個角落，也向鄉親證明我可以當個「#看得見的立委」。 今天的登記，阿惠沒有非常大規模的宣傳動員，也沒有派出任何宣傳車，因為阿惠希望把對鄉親的干擾降到最低，不去吵到在學校上課的學生以及正在上班的鄉親。 阿惠非常感謝今天前來替阿惠讚聲的鄉親，而接下來，距離選舉剩下51天，阿惠需要大家一起站出來，向身邊的朋友大聲且勇敢的說出「我全力支持王美惠，票要投給惠贏的人！」，#繼續把台灣隊的能量散播出去，一起為嘉義贏得最終的勝利！ 　 每一天、每一刻，我都會不停的思考、提出讓嘉義更好的方法，未來，也絕對不會停止，接下來，讓我們勇敢前進。 　 #台灣要贏 #嘉義會贏嘉義市立委候選人 王美惠​ 　 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/75478509_2670329609722960_7183283195687731200_n.jpg?_nc_cat=100&_nc_ohc=CmNGQlxAUA4AQlLt7elRpDH-a5kAHtFIZO9s54bGd0Jm9iI-h4okHa1tw&_nc_ht=scontent-hkg3-1.xx&oh=f26f2f84601a2a51495fbea9cfe40707&oe=5E431724",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/75478509_2670329609722960_7183283195687731200_n.jpg?_nc_cat=100&_nc_ohc=gTsvfRPvqcQAQlfmdUv7_kixEgCF-dSQg9P2a6gDdq11v6pMY8XkJ8FBA&_nc_ht=scontent-hkg3-1.xx&oh=c4b4cee884cb9960338a64763487ce90&oe=5E6AA424",
     "廣告詳情": {
       "ad_creative_body": "跟大家報告，就在剛剛，#阿惠成功登記為2020年嘉義市立法委員候選人。\n　\n走進嘉義市選舉委員會的那一小段路，猶如時光走廊，看到了許多自發前來支持阿惠的鄉親在奮力大喊著「#全力支持王美惠」，而這些人有非常多也都是曾經來過服務處找阿惠幫忙的鄉親、更有許多年輕人也來相挺，讓阿惠非常感動。\n\n這十三年來，阿惠始終兢兢業業為鄉親打拼，從來不求任何回報，也一刻從來都不敢懈怠，#因為我一直都把嘉義鄉親當作自己的家人，只要是有鄉親兄姐請求，阿惠一定盡力去做。\n\n這段日子以來，阿惠一直都跟人民站在一起，因為我認為，身為民意代表，最重要的不是把自己的形象塑造得多有高度，而是有沒有認真為人民做事，所以無論如何，阿惠都會繼續穿梭大街小巷、深入每個角落，也向鄉親證明我可以當個「#看得見的立委」。\n\n今天的登記，阿惠沒有非常大規模的宣傳動員，也沒有派出任何宣傳車，因為阿惠希望把對鄉親的干擾降到最低，不去吵到在學校上課的學生以及正在上班的鄉親。\n\n阿惠非常感謝今天前來替阿惠讚聲的鄉親，而接下來，距離選舉剩下51天，阿惠需要大家一起站出來，向身邊的朋友大聲且勇敢的說出「我全力支持王美惠，票要投給惠贏的人！」，#繼續把台灣隊的能量散播出去，一起為嘉義贏得最終的勝利！\n　\n每一天、每一刻，我都會不停的思考、提出讓嘉義更好的方法，未來，也絕對不會停止，接下來，讓我們勇敢前進。\n　\n#台灣要贏 #嘉義會贏\n嘉義市立委候選人 王美惠​\n　\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\n\nhttps://www.facebook.com/groups/ahueipower/",
       "ad_creation_time": "2019-11-20T06:13:23+0000",
@@ -1754,7 +1778,8 @@
       "spend": {
         "lower_bound": "2000",
         "upper_bound": "2499"
-      }
+      },
+      "ad_id": "446849179307042"
     }
   },
   {
@@ -1765,7 +1790,7 @@
     "開始日期": "2019-11-25",
     "結束日期": "2019-11-29",
     "廣告內容": "跟大家報告，就在剛剛，#阿惠成功登記為2020年嘉義市立法委員候選人。 　 走進嘉義市選舉委員會的那一小段路，猶如時光走廊，看到了許多自發前來支持阿惠的鄉親在奮力大喊著「#全力支持王美惠」，而這些人有非常多也都是曾經來過服務處找阿惠幫忙的鄉親、更有許多年輕人也來相挺，讓阿惠非常感動。 這十三年來，阿惠始終兢兢業業為鄉親打拼，從來不求任何回報，也一刻從來都不敢懈怠，#因為我一直都把嘉義鄉親當作自己的家人，只要是有鄉親兄姐請求，阿惠一定盡力去做。 這段日子以來，阿惠一直都跟人民站在一起，因為我認為，身為民意代表，最重要的不是把自己的形象塑造得多有高度，而是有沒有認真為人民做事，所以無論如何，阿惠都會繼續穿梭大街小巷、深入每個角落，也向鄉親證明我可以當個「#看得見的立委」。 今天的登記，阿惠沒有非常大規模的宣傳動員，也沒有派出任何宣傳車，因為阿惠希望把對鄉親的干擾降到最低，不去吵到在學校上課的學生以及正在上班的鄉親。 阿惠非常感謝今天前來替阿惠讚聲的鄉親，而接下來，距離選舉剩下51天，阿惠需要大家一起站出來，向身邊的朋友大聲且勇敢的說出「我全力支持王美惠，票要投給惠贏的人！」，#繼續把台灣隊的能量散播出去，一起為嘉義贏得最終的勝利！ 　 每一天、每一刻，我都會不停的思考、提出讓嘉義更好的方法，未來，也絕對不會停止，接下來，讓我們勇敢前進。 　 #台灣要贏 #嘉義會贏嘉義市立委候選人 王美惠​ 　 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/75478509_2670329609722960_7183283195687731200_n.jpg?_nc_cat=100&_nc_ohc=KaM_smIwvlYAQmXomDQJcV95rU4WxChe6PJkhuAfSB0Fbjow32dV4uBEQ&_nc_ht=scontent-hkg3-1.xx&oh=ecc9f6ab0536e3594d04636ab768df7d&oe=5E6AA424",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/75478509_2670329609722960_7183283195687731200_n.jpg?_nc_cat=100&_nc_ohc=gTsvfRPvqcQAQlfmdUv7_kixEgCF-dSQg9P2a6gDdq11v6pMY8XkJ8FBA&_nc_ht=scontent-hkg3-1.xx&oh=c4b4cee884cb9960338a64763487ce90&oe=5E6AA424",
     "廣告詳情": {
       "ad_creative_body": "跟大家報告，就在剛剛，#阿惠成功登記為2020年嘉義市立法委員候選人。\n　\n走進嘉義市選舉委員會的那一小段路，猶如時光走廊，看到了許多自發前來支持阿惠的鄉親在奮力大喊著「#全力支持王美惠」，而這些人有非常多也都是曾經來過服務處找阿惠幫忙的鄉親、更有許多年輕人也來相挺，讓阿惠非常感動。\n\n這十三年來，阿惠始終兢兢業業為鄉親打拼，從來不求任何回報，也一刻從來都不敢懈怠，#因為我一直都把嘉義鄉親當作自己的家人，只要是有鄉親兄姐請求，阿惠一定盡力去做。\n\n這段日子以來，阿惠一直都跟人民站在一起，因為我認為，身為民意代表，最重要的不是把自己的形象塑造得多有高度，而是有沒有認真為人民做事，所以無論如何，阿惠都會繼續穿梭大街小巷、深入每個角落，也向鄉親證明我可以當個「#看得見的立委」。\n\n今天的登記，阿惠沒有非常大規模的宣傳動員，也沒有派出任何宣傳車，因為阿惠希望把對鄉親的干擾降到最低，不去吵到在學校上課的學生以及正在上班的鄉親。\n\n阿惠非常感謝今天前來替阿惠讚聲的鄉親，而接下來，距離選舉剩下51天，阿惠需要大家一起站出來，向身邊的朋友大聲且勇敢的說出「我全力支持王美惠，票要投給惠贏的人！」，#繼續把台灣隊的能量散播出去，一起為嘉義贏得最終的勝利！\n　\n每一天、每一刻，我都會不停的思考、提出讓嘉義更好的方法，未來，也絕對不會停止，接下來，讓我們勇敢前進。\n　\n#台灣要贏 #嘉義會贏\n嘉義市立委候選人 王美惠​\n　\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\n\nhttps://www.facebook.com/groups/ahueipower/",
       "ad_creation_time": "2019-11-25T13:02:14+0000",
@@ -1879,7 +1904,8 @@
       "spend": {
         "lower_bound": "1000",
         "upper_bound": "1499"
-      }
+      },
+      "ad_id": "443448563220411"
     }
   },
   {
@@ -1887,10 +1913,10 @@
     "參選人": "王美惠",
     "AD_ID": "821558271597525",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-11-24",
-    "結束日期": "2019-11-28",
+    "開始日期": "2019-11-28",
+    "結束日期": "2019-12-02",
     "廣告內容": "「一個平凡的女孩，想要創造不平凡的故事。」 　 昨晚，阿惠的競選總部成立大會「大爆滿」，謝謝所有鄉親到場共襄盛舉。 　 昨天破萬的人潮擠爆晚會現場，這不只代表這場活動的成功，更代表著 #嘉義市民對自由民主的堅定支持，我王美惠是一位很平凡的嘉義女孩，從店員、議員助理，再當到三屆市議員，現在已然是第四屆了，我從什麼都不懂、什麼都不會的助理做到現在，每年積極監督市政、把關預算，為人民發聲。 　 「努力做事，跟人民站在一起。」 　 前陣子，有人問我：「阿惠，為什麼你一定要騎摩托車衝嘉義市，為什麼不跟其他人一樣開一台車，還可以遮風擋雨呢。」因為我認為，只有這樣，#才能真正的深入大街小巷，接觸到所有鄉親，真正了解所有人的生活。 　 阿惠跟大家都一樣，在嘉義出生、在嘉義長大，深刻了解每一個角落、每一個艱苦人的心聲，跟大家一樣，從基層出發，才能說是真正的庶民、真正的基層。 　 「務實打拼，為人民而戰。」 　 未來，如果阿惠有幸擔任立委，一定會記得所有鄉親的寄託，認真打拼，我也會去中央爭取預算與地方配合辦理，包括鐵路高架化自籌款的問題、也爭取建立雲嘉南食品科研發展中心，由產地到飯桌食材認證，才能讓大家食得安心，食得健康。 　 接下來，我也會監督中央重新檢驗、補強嘉義市每一座橋樑，更爭取青年創業補助，讓有能力、肯努力的年輕人留在嘉義、深耕嘉義，#讓嘉義青年對未來更有希望，更願意留在自己的家鄉。 　 「人民才是這場活動最大的主角。」 　 阿惠在這邊也要感謝過去所有人對我的幫助以及栽培，每一雙握過的手、每一位吶喊的鄉親，#我阿惠都會銘記在心，明年的這場選舉，可說是台灣未來的十字路口，是要相信中國的騙術，放棄國家主權；抑或是與世界交朋友，堅定保護台灣。 　 阿惠在嘉義市深耕十幾年，務實做事，不怕辛苦，是真真正正的庶民，我的生活跟大家都是一個模板，絕對是一位能夠了解基層心聲的候選人，在這邊，阿惠也拜託大家，明年1月11日，讓王美惠去到立法院、顧台灣、顧嘉義，#作伙守護台灣。 　 大選倒數47天，讓阿惠帶著大家一起往前衝吧！ 　 #從基層出發 #為人民而戰嘉義市立委候選人 王美惠​蔡英文 Tsai Ing-wen 賴清德 卓榮泰 涂醒哲 李俊俋 陳亭妃 何博文粉絲團 　 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78929011_2681825125240075_9002703622277955584_n.jpg?_nc_cat=107&_nc_ohc=aJDw_mYrv6sAQm4usanjci020JfGBF__Uqh4rCjUtklNPkWUDm3BUrz_A&_nc_ht=scontent-hkg3-1.xx&oh=e46517d18f102d274ae8ee2be117b139&oe=5E46CDE7",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/78929011_2681825125240075_9002703622277955584_n.jpg?_nc_cat=107&_nc_ohc=wFrsElwjxNIAQlyrv51IUEYivr9XjeeHijDIGrF6A88jrIAZQR9trmTbg&_nc_ht=scontent-hkg3-2.xx&oh=f76d9a4bd255911dcdc285510df61928&oe=5E6E5AE7",
     "廣告詳情": {
       "ad_creative_body": "「一個平凡的女孩，想要創造不平凡的故事。」\n　\n昨晚，阿惠的競選總部成立大會「大爆滿」，謝謝所有鄉親到場共襄盛舉。\n　\n昨天破萬的人潮擠爆晚會現場，這不只代表這場活動的成功，更代表著 #嘉義市民對自由民主的堅定支持，我王美惠是一位很平凡的嘉義女孩，從店員、議員助理，再當到三屆市議員，現在已然是第四屆了，我從什麼都不懂、什麼都不會的助理做到現在，每年積極監督市政、把關預算，為人民發聲。\n　\n「努力做事，跟人民站在一起。」\n　\n前陣子，有人問我：「阿惠，為什麼你一定要騎摩托車衝嘉義市，為什麼不跟其他人一樣開一台車，還可以遮風擋雨呢。」因為我認為，只有這樣，#才能真正的深入大街小巷，接觸到所有鄉親，真正了解所有人的生活。\n　\n阿惠跟大家都一樣，在嘉義出生、在嘉義長大，深刻了解每一個角落、每一個艱苦人的心聲，跟大家一樣，從基層出發，才能說是真正的庶民、真正的基層。\n　\n「務實打拼，為人民而戰。」\n　\n未來，如果阿惠有幸擔任立委，一定會記得所有鄉親的寄託，認真打拼，我也會去中央爭取預算與地方配合辦理，包括鐵路高架化自籌款的問題、也爭取建立雲嘉南食品科研發展中心，由產地到飯桌食材認證，才能讓大家食得安心，食得健康。\n　\n接下來，我也會監督中央重新檢驗、補強嘉義市每一座橋樑，更爭取青年創業補助，讓有能力、肯努力的年輕人留在嘉義、深耕嘉義，#讓嘉義青年對未來更有希望，更願意留在自己的家鄉。\n　\n「人民才是這場活動最大的主角。」\n　\n阿惠在這邊也要感謝過去所有人對我的幫助以及栽培，每一雙握過的手、每一位吶喊的鄉親，#我阿惠都會銘記在心，明年的這場選舉，可說是台灣未來的十字路口，是要相信中國的騙術，放棄國家主權；抑或是與世界交朋友，堅定保護台灣。\n　\n阿惠在嘉義市深耕十幾年，務實做事，不怕辛苦，是真真正正的庶民，我的生活跟大家都是一個模板，絕對是一位能夠了解基層心聲的候選人，在這邊，阿惠也拜託大家，明年1月11日，讓王美惠去到立法院、顧台灣、顧嘉義，#作伙守護台灣。\n　\n大選倒數47天，讓阿惠帶著大家一起往前衝吧！\n　\n#從基層出發\n#為人民而戰\n嘉義市立委候選人 王美惠​\n蔡英文 Tsai Ing-wen 賴清德 卓榮泰 涂醒哲 李俊俋 陳亭妃 何博文粉絲團\n　\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\nhttps://www.facebook.com/groups/ahueipower/",
       "ad_creation_time": "2019-11-25T06:37:29+0000",
@@ -1999,7 +2025,8 @@
       "spend": {
         "lower_bound": "100",
         "upper_bound": "199"
-      }
+      },
+      "ad_id": "821558271597525"
     }
   },
   {
@@ -2010,7 +2037,7 @@
     "開始日期": "2019-11-28",
     "結束日期": "2019-12-02",
     "廣告內容": "「一個平凡的女孩，想要創造不平凡的故事。」 　 昨晚，阿惠的競選總部成立大會「大爆滿」，謝謝所有鄉親到場共襄盛舉。 　 昨天破萬的人潮擠爆晚會現場，這不只代表這場活動的成功，更代表著 #嘉義市民對自由民主的堅定支持，我王美惠是一位很平凡的嘉義女孩，從店員、議員助理，再當到三屆市議員，現在已然是第四屆了，我從什麼都不懂、什麼都不會的助理做到現在，每年積極監督市政、把關預算，為人民發聲。 　 「努力做事，跟人民站在一起。」 　 前陣子，有人問我：「阿惠，為什麼你一定要騎摩托車衝嘉義市，為什麼不跟其他人一樣開一台車，還可以遮風擋雨呢。」因為我認為，只有這樣，#才能真正的深入大街小巷，接觸到所有鄉親，真正了解所有人的生活。 　 阿惠跟大家都一樣，在嘉義出生、在嘉義長大，深刻了解每一個角落、每一個艱苦人的心聲，跟大家一樣，從基層出發，才能說是真正的庶民、真正的基層。 　 「務實打拼，為人民而戰。」 　 未來，如果阿惠有幸擔任立委，一定會記得所有鄉親的寄託，認真打拼，我也會去中央爭取預算與地方配合辦理，包括鐵路高架化自籌款的問題、也爭取建立雲嘉南食品科研發展中心，由產地到飯桌食材認證，才能讓大家食得安心，食得健康。 　 接下來，我也會監督中央重新檢驗、補強嘉義市每一座橋樑，更爭取青年創業補助，讓有能力、肯努力的年輕人留在嘉義、深耕嘉義，#讓嘉義青年對未來更有希望，更願意留在自己的家鄉。 　 「人民才是這場活動最大的主角。」 　 阿惠在這邊也要感謝過去所有人對我的幫助以及栽培，每一雙握過的手、每一位吶喊的鄉親，#我阿惠都會銘記在心，明年的這場選舉，可說是台灣未來的十字路口，是要相信中國的騙術，放棄國家主權；抑或是與世界交朋友，堅定保護台灣。 　 阿惠在嘉義市深耕十幾年，務實做事，不怕辛苦，是真真正正的庶民，我的生活跟大家都是一個模板，絕對是一位能夠了解基層心聲的候選人，在這邊，阿惠也拜託大家，明年1月11日，讓王美惠去到立法院、顧台灣、顧嘉義，#作伙守護台灣。 　 大選倒數47天，讓阿惠帶著大家一起往前衝吧！ 　 #從基層出發 #為人民而戰嘉義市立委候選人 王美惠​蔡英文 Tsai Ing-wen 賴清德 卓榮泰 涂醒哲 李俊俋 陳亭妃 何博文粉絲團 　 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78929011_2681825125240075_9002703622277955584_n.jpg?_nc_cat=107&_nc_ohc=NottKc2UiCEAQnymYMp9zOJIOCPuhvzGxKqgdFNrEigaWdOrIJsYEY0Ew&_nc_ht=scontent-hkg3-1.xx&oh=0dbbf6ae15fdc2e05b65b78a82cf6b84&oe=5E6E5AE7",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/78929011_2681825125240075_9002703622277955584_n.jpg?_nc_cat=107&_nc_ohc=wFrsElwjxNIAQlyrv51IUEYivr9XjeeHijDIGrF6A88jrIAZQR9trmTbg&_nc_ht=scontent-hkg3-2.xx&oh=f76d9a4bd255911dcdc285510df61928&oe=5E6E5AE7",
     "廣告詳情": {
       "ad_creative_body": "「一個平凡的女孩，想要創造不平凡的故事。」\n　\n昨晚，阿惠的競選總部成立大會「大爆滿」，謝謝所有鄉親到場共襄盛舉。\n　\n昨天破萬的人潮擠爆晚會現場，這不只代表這場活動的成功，更代表著 #嘉義市民對自由民主的堅定支持，我王美惠是一位很平凡的嘉義女孩，從店員、議員助理，再當到三屆市議員，現在已然是第四屆了，我從什麼都不懂、什麼都不會的助理做到現在，每年積極監督市政、把關預算，為人民發聲。\n　\n「努力做事，跟人民站在一起。」\n　\n前陣子，有人問我：「阿惠，為什麼你一定要騎摩托車衝嘉義市，為什麼不跟其他人一樣開一台車，還可以遮風擋雨呢。」因為我認為，只有這樣，#才能真正的深入大街小巷，接觸到所有鄉親，真正了解所有人的生活。\n　\n阿惠跟大家都一樣，在嘉義出生、在嘉義長大，深刻了解每一個角落、每一個艱苦人的心聲，跟大家一樣，從基層出發，才能說是真正的庶民、真正的基層。\n　\n「務實打拼，為人民而戰。」\n　\n未來，如果阿惠有幸擔任立委，一定會記得所有鄉親的寄託，認真打拼，我也會去中央爭取預算與地方配合辦理，包括鐵路高架化自籌款的問題、也爭取建立雲嘉南食品科研發展中心，由產地到飯桌食材認證，才能讓大家食得安心，食得健康。\n　\n接下來，我也會監督中央重新檢驗、補強嘉義市每一座橋樑，更爭取青年創業補助，讓有能力、肯努力的年輕人留在嘉義、深耕嘉義，#讓嘉義青年對未來更有希望，更願意留在自己的家鄉。\n　\n「人民才是這場活動最大的主角。」\n　\n阿惠在這邊也要感謝過去所有人對我的幫助以及栽培，每一雙握過的手、每一位吶喊的鄉親，#我阿惠都會銘記在心，明年的這場選舉，可說是台灣未來的十字路口，是要相信中國的騙術，放棄國家主權；抑或是與世界交朋友，堅定保護台灣。\n　\n阿惠在嘉義市深耕十幾年，務實做事，不怕辛苦，是真真正正的庶民，我的生活跟大家都是一個模板，絕對是一位能夠了解基層心聲的候選人，在這邊，阿惠也拜託大家，明年1月11日，讓王美惠去到立法院、顧台灣、顧嘉義，#作伙守護台灣。\n　\n大選倒數47天，讓阿惠帶著大家一起往前衝吧！\n　\n#從基層出發\n#為人民而戰\n嘉義市立委候選人 王美惠​\n蔡英文 Tsai Ing-wen 賴清德 卓榮泰 涂醒哲 李俊俋 陳亭妃 何博文粉絲團\n　\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\nhttps://www.facebook.com/groups/ahueipower/",
       "ad_creation_time": "2019-11-28T10:01:15+0000",
@@ -2129,7 +2156,8 @@
       "spend": {
         "lower_bound": "2000",
         "upper_bound": "2499"
-      }
+      },
+      "ad_id": "442563463129341"
     }
   },
   {
@@ -2140,7 +2168,7 @@
     "開始日期": "2019-11-29",
     "結束日期": "2019-12-03",
     "廣告內容": "今晚，阿惠要邀請鄉親，加入惠粉生活圈，鄉親也可以幫我分享給更多好朋友哦！ 📌 加入 #惠粉專屬社團：https://www.facebook.com/groups/ahueipower/ 📌 加入 #阿惠的LINE：http://nav.cx/al3KUWL 📌 追蹤 #阿惠的IG：https://www.instagram.com/ahueimoto/ 📌 按讚 #阿惠的Facebook：https://www.facebook.com/ahueimoto/ 前幾天，阿惠成立了2020嘉義惠粉專屬社團，一天之內就有許多熱情的鄉親加入，而且在社團裡面互動熱烈，讓阿惠很感動。 阿惠希望，惠粉生活圈能夠成為「#網路小綿羊」，深入每個嘉義市的角落，看見市民的需要，也讓更多好朋友跟阿惠一起拚2020，讓台灣繼續贏，為嘉義繼續衝。 　 #我們都是阿惠 #我們都是基層嘉義市立委候選人 王美惠 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/73267141_2630216460400942_6174863271594557440_n.jpg?_nc_cat=104&_nc_ohc=4fi3OPaO5NUAQl24hy0QxmhvtoyQkDlR4vIISKrKjdtZFmz97ykCfXm1w&_nc_ht=scontent-hkg3-1.xx&oh=a6a0d9a5eed8cbbfc47e9d09f41601d2&oe=5E7A65D8",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/73267141_2630216460400942_6174863271594557440_n.jpg?_nc_cat=104&_nc_ohc=P8j-KCRyFhYAQlJci70z9zM2euGjPcV96pCu1XKXv6dh14lsLe-IAPyiw&_nc_ht=scontent-hkg3-1.xx&oh=da8a61f0d1229141a1146d4c6a1cc865&oe=5E7A65D8",
     "廣告詳情": {
       "ad_creative_body": "今晚，阿惠要邀請鄉親，加入惠粉生活圈，鄉親也可以幫我分享給更多好朋友哦！\n\n📌 加入 #惠粉專屬社團：\nhttps://www.facebook.com/groups/ahueipower/\n\n📌 加入 #阿惠的LINE：\nhttp://nav.cx/al3KUWL\n\n📌 追蹤 #阿惠的IG：\nhttps://www.instagram.com/ahueimoto/\n\n📌 按讚 #阿惠的Facebook：\nhttps://www.facebook.com/ahueimoto/\n\n前幾天，阿惠成立了2020嘉義惠粉專屬社團，一天之內就有許多熱情的鄉親加入，而且在社團裡面互動熱烈，讓阿惠很感動。\n\n阿惠希望，惠粉生活圈能夠成為「#網路小綿羊」，深入每個嘉義市的角落，看見市民的需要，也讓更多好朋友跟阿惠一起拚2020，讓台灣繼續贏，為嘉義繼續衝。\n　\n#我們都是阿惠\n#我們都是基層\n嘉義市立委候選人 王美惠\n\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\nhttps://www.facebook.com/groups/ahueipower/",
       "ad_creation_time": "2019-11-29T09:31:02+0000",
@@ -2244,7 +2272,8 @@
       "spend": {
         "lower_bound": "800",
         "upper_bound": "899"
-      }
+      },
+      "ad_id": "1775004022636752"
     }
   },
   {
@@ -2255,7 +2284,7 @@
     "開始日期": "2019-11-29",
     "結束日期": "2019-12-03",
     "廣告內容": "大家還記得阿惠前一陣子收到的 #埔鹽順澤宮冠軍帽 嗎？ 　 前幾天又有熱情的鄉親送給阿惠一個新禮物，竟然是阿惠都沒看過的順澤宮「冠軍鞋」，那位鄉親說，#這支冠軍鞋似乎是全台唯一一支，特別訂做要來送給阿惠，真的非常感動。 　 謝謝鄉親的冠軍鞋，也感謝鄉親的鼓勵，我一定會繼續努力打拼，帶著嘉義繼續贏下去的！ 　 #看來可以集滿冠軍套裝了　嘉義市立委候選人 王美惠​ 　 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/ ⚡️競選總部：嘉義市東區公明路152號",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/77034676_2688985414524046_6353608471740416000_n.jpg?_nc_cat=105&_nc_ohc=v5bSwFMUjiQAQkJQLtjAuq2tCU-V-poZQbDneZnUCS6KIpw4P4cscPcvw&_nc_ht=scontent-hkg3-1.xx&oh=75a431294a0135c12effdd0878b285ad&oe=5E6F3F9C",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/77034676_2688985414524046_6353608471740416000_n.jpg?_nc_cat=105&_nc_ohc=uDk4vt0IRlEAQn7bzvLvMvBf8s1QEp8P3LDWRzrP0Am4g04UuRjqQ-xNg&_nc_ht=scontent-hkg3-1.xx&oh=4e12201953f99c001a3c23e1933f7550&oe=5E6F3F9C",
     "廣告詳情": {
       "ad_creative_body": "大家還記得阿惠前一陣子收到的 #埔鹽順澤宮冠軍帽 嗎？\n　\n前幾天又有熱情的鄉親送給阿惠一個新禮物，竟然是阿惠都沒看過的順澤宮「冠軍鞋」，那位鄉親說，#這支冠軍鞋似乎是全台唯一一支，特別訂做要來送給阿惠，真的非常感動。\n　\n謝謝鄉親的冠軍鞋，也感謝鄉親的鼓勵，我一定會繼續努力打拼，帶著嘉義繼續贏下去的！\n　\n#看來可以集滿冠軍套裝了　\n嘉義市立委候選人 王美惠​\n　\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\n\nhttps://www.facebook.com/groups/ahueipower/\n\n⚡️競選總部：嘉義市東區公明路152號",
       "ad_creation_time": "2019-11-29T09:28:57+0000",
@@ -2369,7 +2398,8 @@
       "spend": {
         "lower_bound": "700",
         "upper_bound": "799"
-      }
+      },
+      "ad_id": "2424996584294592"
     }
   },
   {
@@ -2377,10 +2407,10 @@
     "參選人": "王美惠",
     "AD_ID": "1253042528215863",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-11-30",
-    "結束日期": "2019-12-05",
+    "開始日期": "2019-12-07",
+    "結束日期": "2019-12-11",
     "廣告內容": "「這一晚，我們共同見證了嘉義市民的偉大。」 　 大家都還記得11月24日那一晚的感動嗎？ 　 當天晚上的澎湃還有所有鄉親信任阿惠的臉龐，#我永遠銘記在心，我們這次也做了一部影片，讓大家能夠回味當天晚上的盛況。 　 還記得阿惠站在台上致詞時，一望到台下，每位嘉義鄉親的臉龐都充滿著期待、洋溢著喜悅，當下，儘管阿惠的眼淚已經在眼匡打轉了，但仍然完成所有演說，因為我深知，站在台上的我必須要堅強，#我是要來守護所有鄉親、捍衛台灣的。 　 在活動結束後，許多好朋友都跟阿惠說這次的活動辦得很成功，但其實，真正成功的是嘉義市民，你們的踴躍參與，讓更多人知道了嘉義市民對於自由民主、進步價值的堅持，也震撼了親中勢力，在這邊，#阿惠要向每一個偉大的嘉義市民說聲謝謝。 　 距離大選剩下42天，接下來的日子， 讓我們一起用溫暖的力量，守護台灣。 　嘉義市立委候選人 王美惠 　 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/ ⚡️競選總部：嘉義市東區公明路152號",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78519061_1253042551549194_7453689904237641728_n.jpg?_nc_cat=106&_nc_ohc=1-mCmB66dX4AQnNii8G5F_bJPH64JM36MiMPf-omg4WZE5QCGPn5V8f-g&_nc_ht=scontent-hkg3-1.xx&oh=d33c64424ae7a19667d236be9dc47506&oe=5E42B473",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78519061_1253042551549194_7453689904237641728_n.jpg?_nc_cat=106&_nc_ohc=I5U6wp6BTngAQn-S6Q2BC1yIv096VFNJYx38SSZZDn9h0Ia0Wkn6FMiBA&_nc_ht=scontent-hkg3-1.xx&oh=b80f83342d55531beb7b27a425161f56&oe=5E6A4173",
     "廣告詳情": {
       "ad_creative_body": "「這一晚，我們共同見證了嘉義市民的偉大。」\n　\n大家都還記得11月24日那一晚的感動嗎？\n　\n當天晚上的澎湃還有所有鄉親信任阿惠的臉龐，#我永遠銘記在心，我們這次也做了一部影片，讓大家能夠回味當天晚上的盛況。\n　\n還記得阿惠站在台上致詞時，一望到台下，每位嘉義鄉親的臉龐都充滿著期待、洋溢著喜悅，當下，儘管阿惠的眼淚已經在眼匡打轉了，但仍然完成所有演說，因為我深知，站在台上的我必須要堅強，#我是要來守護所有鄉親、捍衛台灣的。\n　\n在活動結束後，許多好朋友都跟阿惠說這次的活動辦得很成功，但其實，真正成功的是嘉義市民，你們的踴躍參與，讓更多人知道了嘉義市民對於自由民主、進步價值的堅持，也震撼了親中勢力，在這邊，#阿惠要向每一個偉大的嘉義市民說聲謝謝。\n　\n距離大選剩下42天，接下來的日子，\n讓我們一起用溫暖的力量，守護台灣。\n　\n嘉義市立委候選人 王美惠\n　\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\n\nhttps://www.facebook.com/groups/ahueipower/\n\n⚡️競選總部：嘉義市東區公明路152號",
       "ad_creation_time": "2019-11-30T11:42:50+0000",
@@ -2501,7 +2531,8 @@
       "spend": {
         "lower_bound": "3000",
         "upper_bound": "3499"
-      }
+      },
+      "ad_id": "1253042528215863"
     }
   },
   {
@@ -2512,7 +2543,7 @@
     "開始日期": "2019-12-01",
     "結束日期": "2019-12-05",
     "廣告內容": "#全民下架吳斯懷 　 立委候選人吳怡農日前發起「下架吳斯懷，全民動起來」的呼籲行動，阿惠在這邊正式響應！ 　 前一陣子，我看到了國民黨的不分區立委名單非常的生氣，因為裡面正是有主張紅統台灣、支持港警鎮壓的人，#真是一份讓中共滿意的立委名單。 　 過去，吳斯懷曾前往中國參加論壇受習近平「訓話」，#更頻頻以急統的言論挑弄台灣社會氛圍，近來更傳聞被國民黨中央下達「禁言令」，不得對外發言，阿惠實在不了解，既然國民黨都知道吳斯懷個人非常具爭議性，為何仍執意提名，居心可議。 　 對於國民黨不分區立委名單的諸多爭議，只會擦脂抹粉，瞧不起台灣民眾的智慧，面對爭相投共、不顧國家利益的政黨， #2020台灣更要團結一致。 　 明年，#只要國民黨政黨票得到159萬票以下，親共的吳斯懷就無法當選，#只要總統票不到328萬票，國家就不用給韓國瑜選舉補助款，阿惠在這邊呼籲大家一起加入下架吳斯懷的行列，抵制親共政黨、守護民主台灣！ 　 而這次的行動，我想要邀請台南阿惠 賴惠員 也一起加入，作伙入陣！ 　 #拒絕親共政黨 #守護民主台灣嘉義市立委候選人 王美惠壯闊台灣 吳怡農 　 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/ ⚡️競選總部：嘉義市東區公明路152號",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/77195482_2695207020568552_1802495167362498560_n.jpg?_nc_cat=107&_nc_ohc=2Hr__cLY1lUAQnhQ8Tf3PWQg5VcMriN1dMrkPfOYOFmx8zdbm9DB9Pgsg&_nc_ht=scontent-hkg3-1.xx&oh=2075ea849b0afe432430252c92787d0d&oe=5E7897F0",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/77195482_2695207020568552_1802495167362498560_n.jpg?_nc_cat=107&_nc_ohc=Twg8LmB1WgoAQmPhAGuCrxSsEU0gck9WZEpyP_ULYKTp1WlDM7hmKtgIQ&_nc_ht=scontent-hkg3-2.xx&oh=eacfe7a1ae0bd1be2f0cb8ed6f4dc4c2&oe=5E7897F0",
     "廣告詳情": {
       "ad_creative_body": "#全民下架吳斯懷\n　\n立委候選人吳怡農日前發起「下架吳斯懷，全民動起來」的呼籲行動，阿惠在這邊正式響應！\n　\n前一陣子，我看到了國民黨的不分區立委名單非常的生氣，因為裡面正是有主張紅統台灣、支持港警鎮壓的人，#真是一份讓中共滿意的立委名單。\n　\n過去，吳斯懷曾前往中國參加論壇受習近平「訓話」，#更頻頻以急統的言論挑弄台灣社會氛圍，近來更傳聞被國民黨中央下達「禁言令」，不得對外發言，阿惠實在不了解，既然國民黨都知道吳斯懷個人非常具爭議性，為何仍執意提名，居心可議。\n　\n對於國民黨不分區立委名單的諸多爭議，只會擦脂抹粉，瞧不起台灣民眾的智慧，面對爭相投共、不顧國家利益的政黨， #2020台灣更要團結一致。\n　\n明年，#只要國民黨政黨票得到159萬票以下，親共的吳斯懷就無法當選，#只要總統票不到328萬票，國家就不用給韓國瑜選舉補助款，阿惠在這邊呼籲大家一起加入下架吳斯懷的行列，抵制親共政黨、守護民主台灣！\n　\n而這次的行動，我想要邀請台南阿惠 賴惠員 也一起加入，作伙入陣！\n　\n#拒絕親共政黨\n#守護民主台灣\n嘉義市立委候選人 王美惠\n壯闊台灣 吳怡農\n　\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\n\nhttps://www.facebook.com/groups/ahueipower/\n\n⚡️競選總部：嘉義市東區公明路152號",
       "ad_creation_time": "2019-12-01T11:26:09+0000",
@@ -2621,7 +2652,8 @@
       "spend": {
         "lower_bound": "1000",
         "upper_bound": "1499"
-      }
+      },
+      "ad_id": "1304437669728894"
     }
   },
   {
@@ -2629,10 +2661,10 @@
     "參選人": "王美惠",
     "AD_ID": "436692237257010",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-12-01",
-    "結束日期": "2019-12-06",
+    "開始日期": "2019-12-07",
+    "結束日期": "2019-12-11",
     "廣告內容": "一起加入LINE，入陣守護台灣的行列吧！ 　 點擊連結加入 👉 http://nav.cx/al3KUWL 　 阿惠的LINE已經開啟一段時間了，這段時間也有許多好朋友會在LINE上面私訊我跟我聊天，特別是許多鄉親也會 #分享一些生活趣事或者是時事給我，真的很窩心，而有空的時候我也會主動關心一下大家。 　 如果還沒加入LINE的朋友可以點擊上面的連結加入， 已經加入的朋友也可以 #幫我分享給更多鄉親哦！ 　 我們一起加入辣台派， 守護台灣嘉義一定不會缺席！ 　 #LINE在一起嘉義市立委候選人 王美惠​ 　 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/ ⚡️競選總部：嘉義市東區公明路152號",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78567906_2695794003843187_7178158195897008128_n.jpg?_nc_cat=102&_nc_ohc=ohgk1raqeXQAQnEQVtGGXZimxcV2zXORA0PS8ia7JXSB7BKy4WpQLBcwQ&_nc_ht=scontent-hkg3-1.xx&oh=3e617afe36f43cd286b6c1faeb02de89&oe=5E82A1A2",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78567906_2695794003843187_7178158195897008128_n.jpg?_nc_cat=102&_nc_ohc=Aked-cJfpjwAQmC-T46OsOQ0lMy7ANkrMqGFOcWTvYNFM6ZT4hFV0eJRw&_nc_ht=scontent-hkg3-1.xx&oh=265cd607eefed8f10a2b7fb9cb17da08&oe=5EAA2EA2",
     "廣告詳情": {
       "ad_creative_body": "一起加入LINE，入陣守護台灣的行列吧！\n　\n點擊連結加入 👉 http://nav.cx/al3KUWL\n　\n阿惠的LINE已經開啟一段時間了，這段時間也有許多好朋友會在LINE上面私訊我跟我聊天，特別是許多鄉親也會 #分享一些生活趣事或者是時事給我，真的很窩心，而有空的時候我也會主動關心一下大家。\n　\n如果還沒加入LINE的朋友可以點擊上面的連結加入，\n已經加入的朋友也可以 #幫我分享給更多鄉親哦！\n　\n我們一起加入辣台派，\n守護台灣嘉義一定不會缺席！\n　\n#LINE在一起\n嘉義市立委候選人 王美惠​\n　\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\n\nhttps://www.facebook.com/groups/ahueipower/\n\n⚡️競選總部：嘉義市東區公明路152號",
       "ad_creation_time": "2019-12-02T07:25:58+0000",
@@ -2641,88 +2673,463 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.00056",
+          "percentage": "0.000572",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.036809",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.00014",
+          "percentage": "0.184825",
           "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.00042",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.039748",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.027992",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.062981",
-          "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.055003",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.163611",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.00014",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.016095",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.157313",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.070539",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.103289",
+          "percentage": "0.104944",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.073758",
+          "percentage": "0.073472",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.191463",
+          "percentage": "0.150034",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.05745",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.039025",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.02884",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.066949",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000114",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.076333",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.039826",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.16022",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000114",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000114",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000343",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.016823",
+          "age": "18-24",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "美惠王",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "105497726206174",
+      "page_name": "嘉義市立委候選人 王美惠",
+      "region_distribution": [
+        {
+          "percentage": "0.968149",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.031851",
+          "region": "Chiayi"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2500",
+        "upper_bound": "2999"
+      },
+      "ad_id": "436692237257010"
+    }
+  },
+  {
+    "選區": "嘉義市選舉區",
+    "參選人": "王美惠",
+    "AD_ID": "556083074979166",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-07",
+    "結束日期": "2019-12-11",
+    "廣告內容": "「這一晚，我們共同見證了嘉義市民的偉大。」 　 大家都還記得11月24日那一晚的感動嗎？ 　 當天晚上的澎湃還有所有鄉親信任阿惠的臉龐，#我永遠銘記在心，我們這次也做了一部影片，讓大家能夠回味當天晚上的盛況。 　 還記得阿惠站在台上致詞時，一望到台下，每位嘉義鄉親的臉龐都充滿著期待、洋溢著喜悅，當下，儘管阿惠的眼淚已經在眼匡打轉了，但仍然完成所有演說，因為我深知，站在台上的我必須要堅強，#我是要來守護所有鄉親、捍衛台灣的。 　 在活動結束後，許多好朋友都跟阿惠說這次的活動辦得很成功，但其實，真正成功的是嘉義市民，你們的踴躍參與，讓更多人知道了嘉義市民對於自由民主、進步價值的堅持，也震撼了親中勢力，在這邊，#阿惠要向每一個偉大的嘉義市民說聲謝謝。 　 距離大選剩下42天，接下來的日子， 讓我們一起用溫暖的力量，守護台灣。 　嘉義市立委候選人 王美惠 　 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/ ⚡️競選總部：嘉義市東區公明路152號",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78519061_1253042551549194_7453689904237641728_n.jpg?_nc_cat=106&_nc_ohc=I5U6wp6BTngAQn-S6Q2BC1yIv096VFNJYx38SSZZDn9h0Ia0Wkn6FMiBA&_nc_ht=scontent-hkg3-1.xx&oh=b80f83342d55531beb7b27a425161f56&oe=5E6A4173",
+    "廣告詳情": {
+      "ad_creative_body": "「這一晚，我們共同見證了嘉義市民的偉大。」\n　\n大家都還記得11月24日那一晚的感動嗎？\n　\n當天晚上的澎湃還有所有鄉親信任阿惠的臉龐，#我永遠銘記在心，我們這次也做了一部影片，讓大家能夠回味當天晚上的盛況。\n　\n還記得阿惠站在台上致詞時，一望到台下，每位嘉義鄉親的臉龐都充滿著期待、洋溢著喜悅，當下，儘管阿惠的眼淚已經在眼匡打轉了，但仍然完成所有演說，因為我深知，站在台上的我必須要堅強，#我是要來守護所有鄉親、捍衛台灣的。\n　\n在活動結束後，許多好朋友都跟阿惠說這次的活動辦得很成功，但其實，真正成功的是嘉義市民，你們的踴躍參與，讓更多人知道了嘉義市民對於自由民主、進步價值的堅持，也震撼了親中勢力，在這邊，#阿惠要向每一個偉大的嘉義市民說聲謝謝。\n　\n距離大選剩下42天，接下來的日子，\n讓我們一起用溫暖的力量，守護台灣。\n　\n嘉義市立委候選人 王美惠\n　\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\n\nhttps://www.facebook.com/groups/ahueipower/\n\n⚡️競選總部：嘉義市東區公明路152號",
+      "ad_creation_time": "2019-12-08T04:56:38+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_title": "惠活動 | 嘉義市競選總部成立大會",
+      "ad_delivery_start_time": "2019-12-08T04:56:38+0000",
+      "ad_delivery_stop_time": "2019-12-12T04:56:25+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000157",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.034842",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "7.8E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00047",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000157",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000157",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.004854",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.012997",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.105622",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.086517",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.007908",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.259239",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.044394",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.123865",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.045647",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.036251",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.236611",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.00014",
+          "percentage": "0.000235",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "美惠王",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "105497726206174",
+      "page_name": "嘉義市立委候選人 王美惠",
+      "region_distribution": [
+        {
+          "percentage": "0.992897",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.007103",
+          "region": "Chiayi"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "556083074979166"
+    }
+  },
+  {
+    "選區": "嘉義市選舉區",
+    "參選人": "王美惠",
+    "AD_ID": "2547995605279566",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-07",
+    "結束日期": "2019-12-11",
+    "廣告內容": "一起加入LINE，入陣守護台灣的行列吧！ 　 點擊連結加入 👉 http://nav.cx/al3KUWL 　 阿惠的LINE已經開啟一段時間了，這段時間也有許多好朋友會在LINE上面私訊我跟我聊天，特別是許多鄉親也會 #分享一些生活趣事或者是時事給我，真的很窩心，而有空的時候我也會主動關心一下大家。 　 如果還沒加入LINE的朋友可以點擊上面的連結加入， 已經加入的朋友也可以 #幫我分享給更多鄉親哦！ 　 我們一起加入辣台派， 守護台灣嘉義一定不會缺席！ 　 #LINE在一起嘉義市立委候選人 王美惠​ 　 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/ ⚡️競選總部：嘉義市東區公明路152號",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78567906_2695794003843187_7178158195897008128_n.jpg?_nc_cat=102&_nc_ohc=Aked-cJfpjwAQmC-T46OsOQ0lMy7ANkrMqGFOcWTvYNFM6ZT4hFV0eJRw&_nc_ht=scontent-hkg3-1.xx&oh=265cd607eefed8f10a2b7fb9cb17da08&oe=5EAA2EA2",
+    "廣告詳情": {
+      "ad_creative_body": "一起加入LINE，入陣守護台灣的行列吧！\n　\n點擊連結加入 👉 http://nav.cx/al3KUWL\n　\n阿惠的LINE已經開啟一段時間了，這段時間也有許多好朋友會在LINE上面私訊我跟我聊天，特別是許多鄉親也會 #分享一些生活趣事或者是時事給我，真的很窩心，而有空的時候我也會主動關心一下大家。\n　\n如果還沒加入LINE的朋友可以點擊上面的連結加入，\n已經加入的朋友也可以 #幫我分享給更多鄉親哦！\n　\n我們一起加入辣台派，\n守護台灣嘉義一定不會缺席！\n　\n#LINE在一起\n嘉義市立委候選人 王美惠​\n　\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\n\nhttps://www.facebook.com/groups/ahueipower/\n\n⚡️競選總部：嘉義市東區公明路152號",
+      "ad_creation_time": "2019-12-08T04:55:37+0000",
+      "ad_delivery_start_time": "2019-12-08T04:55:37+0000",
+      "ad_delivery_stop_time": "2019-12-12T04:55:24+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.140656",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.189302",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.041162",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.106758",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.058331",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.032798",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.064495",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.199428",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.017169",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.085186",
           "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.014088",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.049527",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00022",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00022",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00022",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00044",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "美惠王",
+      "impressions": {
+        "lower_bound": "6000",
+        "upper_bound": "6999"
+      },
+      "page_id": "105497726206174",
+      "page_name": "嘉義市立委候選人 王美惠",
+      "region_distribution": [
+        {
+          "percentage": "0.995709",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.004291",
+          "region": "Chiayi"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "2547995605279566"
+    }
+  },
+  {
+    "選區": "嘉義市選舉區",
+    "參選人": "王美惠",
+    "AD_ID": "559975107913870",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-12",
+    "結束日期": "2019-12-16",
+    "廣告內容": "前天，內政部 #徐國勇部長還有 #張花冠縣長 接連來到競選總部為阿惠加油打氣。 　 徐部長進到總部時，第一眼就看到了3D彩繪牆，大讚競選總部的設計非常有創意，#阿惠也向部長請教了許多議題，我們從民生、經濟聊到國際議題，讓阿惠有個非常充實的下午。 　 而張花冠縣長來到總部時，阿惠更是有一種跟老朋友敘舊的感覺，我們聊到了嘉義縣市在各領域上合作的成果，以及關於「#加強雲嘉嘉區域合作」的未來發展方向。 　 徐部長跟張縣長也鼓勵阿惠一定要繼續為鄉親打拼，一天接連兩位大咖來到競選總部為阿惠打氣，真的非常感動！ 　 #台灣要贏 #繼續打拼嘉義市立委候選人 王美惠徐國勇 張花冠 　 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/ ⚡️競選總部：嘉義市東區公明路152號",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79751393_2719638348125419_3310474291115458560_n.jpg?_nc_cat=107&_nc_ohc=0pptxw09f6UAQnqfWg1ALHgRoPRA35wi8jWThmP8EKstluS_w4xcdmWeQ&_nc_ht=scontent-hkg3-2.xx&oh=66693ce99b6cf4450c848ec42d3a1b8f&oe=5E6C9D6B",
+    "廣告詳情": {
+      "ad_creative_body": "前天，內政部 #徐國勇部長還有 #張花冠縣長 接連來到競選總部為阿惠加油打氣。\n　\n徐部長進到總部時，第一眼就看到了3D彩繪牆，大讚競選總部的設計非常有創意，#阿惠也向部長請教了許多議題，我們從民生、經濟聊到國際議題，讓阿惠有個非常充實的下午。\n　\n而張花冠縣長來到總部時，阿惠更是有一種跟老朋友敘舊的感覺，我們聊到了嘉義縣市在各領域上合作的成果，以及關於「#加強雲嘉嘉區域合作」的未來發展方向。\n　\n徐部長跟張縣長也鼓勵阿惠一定要繼續為鄉親打拼，一天接連兩位大咖來到競選總部為阿惠打氣，真的非常感動！\n　\n#台灣要贏\n#繼續打拼\n嘉義市立委候選人 王美惠\n徐國勇 張花冠\n　\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\n\nhttps://www.facebook.com/groups/ahueipower/\n\n⚡️競選總部：嘉義市東區公明路152號",
+      "ad_creation_time": "2019-12-12T09:06:15+0000",
+      "ad_delivery_start_time": "2019-12-12T09:06:15+0000",
+      "ad_delivery_stop_time": "2019-12-16T09:05:50+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000112",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.256066",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.060047",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.078944",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.197361",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.155429",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.039137",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.076261",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.013306",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.025159",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.042156",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.03444",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.020239",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000671",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000447",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000224",
+          "age": "18-24",
           "gender": "unknown"
         }
       ],
@@ -2735,18 +3142,2138 @@
       "page_name": "嘉義市立委候選人 王美惠",
       "region_distribution": [
         {
-          "percentage": "0.972257",
+          "percentage": "0.998033",
           "region": "Unknown"
         },
         {
-          "percentage": "0.027743",
+          "percentage": "0.001967",
+          "region": "Chiayi"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "559975107913870"
+    }
+  },
+  {
+    "選區": "嘉義市選舉區",
+    "參選人": "王美惠",
+    "AD_ID": "457101308314226",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-12",
+    "結束日期": "2019-12-16",
+    "廣告內容": "2020總統大選，#台灣隊投3號🔥 　 綠色執政，已經三年有成，不只經濟成長率躍升亞洲四小龍之首，護主權、抗中保台更是不遺餘力，儘管中國持續打壓台灣國際空間，但是政府會做事，#人民就不用擔心！ 　 2020，台灣一定要贏，懇請拜託鄉親三張選票都投給真正代表台灣本土的民主進步黨，一定要讓總統連任、國會過半，絕對不能讓中國勢力有機可趁。 　 #明年讓台灣贏 #不要讓中國贏嘉義市立委候選人 王美惠蔡英文 Tsai Ing-wen 賴清德​ 　 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/ ⚡️競選總部：嘉義市東區公明路152號",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/78769051_2713490578740196_77895317881618432_n.jpg?_nc_cat=111&_nc_ohc=O1za3FCD7AoAQmGBAKR8GcrMIYLRitvp49zi7ZguyefTzipylmSgBAKLw&_nc_ht=scontent-hkg3-2.xx&oh=c50d8bcb6a1ebaa01feb636f5d6b13c7&oe=5EA917F7",
+    "廣告詳情": {
+      "ad_creative_body": "2020總統大選，#台灣隊投3號🔥\n　\n綠色執政，已經三年有成，不只經濟成長率躍升亞洲四小龍之首，護主權、抗中保台更是不遺餘力，儘管中國持續打壓台灣國際空間，但是政府會做事，#人民就不用擔心！\n　\n2020，台灣一定要贏，懇請拜託鄉親三張選票都投給真正代表台灣本土的民主進步黨，一定要讓總統連任、國會過半，絕對不能讓中國勢力有機可趁。\n　\n#明年讓台灣贏\n#不要讓中國贏\n嘉義市立委候選人 王美惠\n蔡英文 Tsai Ing-wen 賴清德​\n　\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\n\nhttps://www.facebook.com/groups/ahueipower/\n\n⚡️競選總部：嘉義市東區公明路152號",
+      "ad_creation_time": "2019-12-12T09:05:33+0000",
+      "ad_delivery_start_time": "2019-12-12T09:05:33+0000",
+      "ad_delivery_stop_time": "2019-12-16T09:05:15+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.187002",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.148988",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.040466",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.089516",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.05794",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.080625",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.017474",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.181484",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.041232",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.024831",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.081852",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.047364",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000766",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000307",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000153",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "美惠王",
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "105497726206174",
+      "page_name": "嘉義市立委候選人 王美惠",
+      "region_distribution": [
+        {
+          "percentage": "0.969754",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.030246",
+          "region": "Chiayi"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "457101308314226"
+    }
+  },
+  {
+    "選區": "嘉義市選舉區",
+    "參選人": "王美惠",
+    "AD_ID": "444376333171472",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-13",
+    "結束日期": "2019-12-14",
+    "廣告內容": "#捍衛民主の暖男，卓榮泰明天來嘉！ 　 號稱「#超暖主席」的民主進步黨卓主席在明天下午5點半，會跟阿惠在戰車上從 #博愛路二段一路掃街到中山西門街口，再從 #中山西門街口開始下車走到中央噴水池，跟沿街的鄉親聊聊。 　 大家如果聽到聲音、看到阿惠別忘記過來跟我們打聲招呼哦，歡迎大家一起來逗陣相挺！ 　 #溫暖嘉義嘉義市立委候選人 王美惠卓榮泰 　 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/ ⚡️競選總部：嘉義市東區公明路152號",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79037217_2723052451117342_4216098124348784640_n.jpg?_nc_cat=111&_nc_ohc=J3EhGfdduAkAQlomrCNK8GoH56kxivYnla78wBz0CnZlehxKE6l5hR8ig&_nc_ht=scontent-hkg3-2.xx&oh=38895c4264557a2b548a6c16c5d2ba80&oe=5EAC5321",
+    "廣告詳情": {
+      "ad_creative_body": "#捍衛民主の暖男，卓榮泰明天來嘉！\n　\n號稱「#超暖主席」的民主進步黨卓主席在明天下午5點半，會跟阿惠在戰車上從 #博愛路二段一路掃街到中山西門街口，再從 #中山西門街口開始下車走到中央噴水池，跟沿街的鄉親聊聊。\n　\n大家如果聽到聲音、看到阿惠別忘記過來跟我們打聲招呼哦，歡迎大家一起來逗陣相挺！\n　\n#溫暖嘉義\n嘉義市立委候選人 王美惠\n卓榮泰\n　\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\n\nhttps://www.facebook.com/groups/ahueipower/\n\n⚡️競選總部：嘉義市東區公明路152號",
+      "ad_creation_time": "2019-12-13T10:44:45+0000",
+      "ad_delivery_start_time": "2019-12-13T10:44:45+0000",
+      "ad_delivery_stop_time": "2019-12-14T10:44:29+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.051911",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.09118",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000149",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000149",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000149",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000149",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.03317",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.026179",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.012197",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.075413",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.067083",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.184739",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.058456",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.043136",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.191284",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.164361",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000297",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "美惠王",
+      "impressions": {
+        "lower_bound": "9000",
+        "upper_bound": "9999"
+      },
+      "page_id": "105497726206174",
+      "page_name": "嘉義市立委候選人 王美惠",
+      "region_distribution": [
+        {
+          "percentage": "0.99614",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.00386",
+          "region": "Chiayi"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "444376333171472"
+    }
+  },
+  {
+    "選區": "嘉義市選舉區",
+    "參選人": "王美惠",
+    "AD_ID": "583956875766567",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-12",
+    "結束日期": "2019-12-16",
+    "廣告內容": "許多鄉親都會說阿惠是一位「#不分區民代」，無論是東西區，都能看到阿惠騎著摩托車到處衝！ 　 所以從這個禮拜開始，#阿惠要跟大家分享我的每週行程記事，透過把行程記錄下來，讓大家更認識嘉義，也更認識阿惠，把每位鄉親、每份溫暖都烙印在心中。 　 距離大選剩下29天了，這次選舉是台灣前途的十字路口，#我們絕對不能讓極權中國拿下民主台灣，無論如何都要守住許多先進披荊斬棘爭取來的價值，對於擁有「民主聖地」稱號的嘉義市，更是如此。 　 十三年來，阿惠每天都竭盡全力為鄉親打拼，基層出身的我，更能夠了解人民的需求，我也有自信能為嘉義「對症下藥」，這次的選舉，希望鄉親一起 #支持擁護自由民主的政黨、支持認真打拼的人，一起讓台灣繼續進步、讓嘉義繼續前進！ 　 #阿惠每週行程記事 #本週跑了52個嘉義市立委候選人 王美惠​ 　 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/ ⚡️競選總部：嘉義市東區公明路152號",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78900030_2722438951178692_4618037377410007040_n.jpg?_nc_cat=106&_nc_ohc=3r36IjO03R8AQlqTWBxJnYuUZ9yq7m3t3rVvKM13trZCbFWUegroPANvQ&_nc_ht=scontent-hkg3-1.xx&oh=8b79966c6d713cfbdd1c88f9ad01c10d&oe=5E6FE83A",
+    "廣告詳情": {
+      "ad_creative_body": "許多鄉親都會說阿惠是一位「#不分區民代」，無論是東西區，都能看到阿惠騎著摩托車到處衝！\n　\n所以從這個禮拜開始，#阿惠要跟大家分享我的每週行程記事，透過把行程記錄下來，讓大家更認識嘉義，也更認識阿惠，把每位鄉親、每份溫暖都烙印在心中。\n　\n距離大選剩下29天了，這次選舉是台灣前途的十字路口，#我們絕對不能讓極權中國拿下民主台灣，無論如何都要守住許多先進披荊斬棘爭取來的價值，對於擁有「民主聖地」稱號的嘉義市，更是如此。\n　\n十三年來，阿惠每天都竭盡全力為鄉親打拼，基層出身的我，更能夠了解人民的需求，我也有自信能為嘉義「對症下藥」，這次的選舉，希望鄉親一起 #支持擁護自由民主的政黨、支持認真打拼的人，一起讓台灣繼續進步、讓嘉義繼續前進！\n　\n#阿惠每週行程記事\n#本週跑了52個\n嘉義市立委候選人 王美惠​\n　\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\n\nhttps://www.facebook.com/groups/ahueipower/\n\n⚡️競選總部：嘉義市東區公明路152號",
+      "ad_creation_time": "2019-12-13T05:27:01+0000",
+      "ad_delivery_start_time": "2019-12-13T05:27:01+0000",
+      "ad_delivery_stop_time": "2019-12-17T05:26:39+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.092392",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.083387",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000292",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000643",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000175",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000877",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.173616",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.018654",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.08058",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.082685",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.044208",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.150459",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.122858",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.046138",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.067949",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.035027",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "5.8E-5",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "美惠王",
+      "impressions": {
+        "lower_bound": "30000",
+        "upper_bound": "34999"
+      },
+      "page_id": "105497726206174",
+      "page_name": "嘉義市立委候選人 王美惠",
+      "region_distribution": [
+        {
+          "percentage": "0.969924",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.030076",
           "region": "Chiayi"
         }
       ],
       "spend": {
         "lower_bound": "2000",
         "upper_bound": "2499"
-      }
+      },
+      "ad_id": "583956875766567"
+    }
+  },
+  {
+    "選區": "嘉義市選舉區",
+    "參選人": "王美惠",
+    "AD_ID": "1330417810460140",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-21",
+    "結束日期": "1970-01-01",
+    "廣告內容": "十三年來， 我每一天都為了嘉義、為了人民在打拼， 希望 #認真做事的價值，可以成為嘉義的政治文化。 　 2020，我們一起讓嘉義大步向前，  讓民主與進步成為台灣的多數席次！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/80771001_1050574201960038_8096809764450729984_n.jpg?_nc_cat=104&_nc_ohc=_Z_eY1PtSTsAQk1piG3Lgo2uh_OHeZ_0JCCAtWJarXaU0dH4mA7lxBl5w&_nc_ht=scontent-hkg3-1.xx&oh=2443ffbccd85962d7e7e5be31d72cceb&oe=5E658708",
+    "廣告詳情": {
+      "ad_creative_body": "十三年來，\n我每一天都為了嘉義、為了人民在打拼，\n希望 #認真做事的價值，可以成為嘉義的政治文化。\n　\n2020，我們一起讓嘉義大步向前， \n讓民主與進步成為台灣的多數席次！",
+      "ad_creation_time": "2019-12-13T05:24:15+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "2020台灣要贏，嘉義更會贏！",
+      "ad_creative_link_title": "嘉義市立委候選人 王美惠",
+      "ad_delivery_start_time": "2019-12-13T05:24:32+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000117",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.073322",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000467",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001051",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000701",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.019148",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.072504",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.135668",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.041565",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.035844",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.096322",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.162288",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.041214",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.081144",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.061296",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.177233",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000117",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "美惠王",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "105497726206174",
+      "page_name": "嘉義市立委候選人 王美惠",
+      "region_distribution": [
+        {
+          "percentage": "0.967876",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.032124",
+          "region": "Chiayi"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "1330417810460140"
+    }
+  },
+  {
+    "選區": "嘉義市選舉區",
+    "參選人": "王美惠",
+    "AD_ID": "1238873512982845",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-14",
+    "結束日期": "2019-12-18",
+    "廣告內容": "「每個呼喊，都代表嘉義對自由民主的堅持。」 　 剛剛，卓榮泰主席、李俊俋委員跟阿惠在市區一起掃街，遇到非常多鄉親熱情的支持，讓阿惠非常感動，#卓主席也稱讚嘉義的鄉親非常熱情，連他也被嘉義鄉親「暖」到了。 　 今天阿惠站在戰車上，看到許多鄉親熱情的呼喊，有人站在路邊替我加油，有人把車窗搖下來跟我打招呼，還有人會特地從家裡衝出來幫我讚聲，#每個鄉親的鼓勵都給了阿惠滿滿的熱情還有衝勁，讓我能夠為嘉義繼續拼、繼續衝。 　 身為民主聖地的嘉義，永遠都流著渴望自由民主的血，每位鄉親的呼喊也都代表著對於自由民主的堅持，2020一役，台灣絕對不會退縮，#嘉義也一定會站在最前線，用行動證明我們的價值，一同迎向最後的成功。 　 #今天的嘉義很溫暖嘉義市立委候選人 王美惠卓榮泰 李俊俋 　 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/ ⚡️競選總部：嘉義市東區公明路152號",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79844930_2726726984083222_7014030453086617600_n.jpg?_nc_cat=111&_nc_ohc=Qg1UW3TLiFIAQkWRHZh0wTRUMY5tUXdZOupCbJs1f9fs4ktcHVfPZaT8w&_nc_ht=scontent-hkg3-2.xx&oh=af56acf2f5056a38e6ee5e2922184eec&oe=5EB1524B",
+    "廣告詳情": {
+      "ad_creative_body": "「每個呼喊，都代表嘉義對自由民主的堅持。」\n　\n剛剛，卓榮泰主席、李俊俋委員跟阿惠在市區一起掃街，遇到非常多鄉親熱情的支持，讓阿惠非常感動，#卓主席也稱讚嘉義的鄉親非常熱情，連他也被嘉義鄉親「暖」到了。\n　\n今天阿惠站在戰車上，看到許多鄉親熱情的呼喊，有人站在路邊替我加油，有人把車窗搖下來跟我打招呼，還有人會特地從家裡衝出來幫我讚聲，#每個鄉親的鼓勵都給了阿惠滿滿的熱情還有衝勁，讓我能夠為嘉義繼續拼、繼續衝。\n　\n身為民主聖地的嘉義，永遠都流著渴望自由民主的血，每位鄉親的呼喊也都代表著對於自由民主的堅持，2020一役，台灣絕對不會退縮，#嘉義也一定會站在最前線，用行動證明我們的價值，一同迎向最後的成功。\n　\n#今天的嘉義很溫暖\n嘉義市立委候選人 王美惠\n卓榮泰 李俊俋\n　\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\n\nhttps://www.facebook.com/groups/ahueipower/\n\n⚡️競選總部：嘉義市東區公明路152號",
+      "ad_creation_time": "2019-12-15T04:58:03+0000",
+      "ad_delivery_start_time": "2019-12-15T04:58:03+0000",
+      "ad_delivery_stop_time": "2019-12-19T04:57:51+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "5.8E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.053998",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000173",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000577",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000173",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.026768",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.017249",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.041998",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.065247",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.067901",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.194127",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.04396",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.122765",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.044018",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.204454",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.115899",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000635",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "美惠王",
+      "impressions": {
+        "lower_bound": "25000",
+        "upper_bound": "29999"
+      },
+      "page_id": "105497726206174",
+      "page_name": "嘉義市立委候選人 王美惠",
+      "region_distribution": [
+        {
+          "percentage": "0.996368",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.003632",
+          "region": "Chiayi"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2000",
+        "upper_bound": "2499"
+      },
+      "ad_id": "1238873512982845"
+    }
+  },
+  {
+    "選區": "嘉義市選舉區",
+    "參選人": "王美惠",
+    "AD_ID": "511333926137711",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-14",
+    "結束日期": "2019-12-18",
+    "廣告內容": "午安，有空的話記得來競選總部索取「#限量農民曆」哦！ 　 最近，我們做了一款阿惠跟小英總統的農民曆要送給嘉義的各位鄉親，#不過目前數量有限，送完為止，還請需要的鄉親抓緊時間趕快來索取。 　 明年的國曆1月25日就是春節的第一天了，而在放年假前，有一個日子一定不能忘記，#那就是1月11日的大選投票日！ 　 明年1月11日，我們一定要用選票讓自由民主勝利，下架親中政黨，讓台灣免於恐懼，度過一個無憂無慮的年假！ 　 -- 　 【阿惠的限量農民曆】 索取時段：送完為止 索取地點：嘉義市聯合競選總部（公明路152號） 　 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/ ⚡️競選總部：嘉義市東區公明路152號",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78275301_2726975790725008_4658690402507816960_n.jpg?_nc_cat=102&_nc_ohc=ZvYK3f-gRMwAQntRz5JZh7ufNMLHADIMSWCAZjgOBkEriwtMCxoRzxm0A&_nc_ht=scontent-hkg3-1.xx&oh=f5f023c0f6367a153973636d1ddb79b5&oe=5E74664D",
+    "廣告詳情": {
+      "ad_creative_body": "午安，有空的話記得來競選總部索取「#限量農民曆」哦！\n　\n最近，我們做了一款阿惠跟小英總統的農民曆要送給嘉義的各位鄉親，#不過目前數量有限，送完為止，還請需要的鄉親抓緊時間趕快來索取。\n　\n明年的國曆1月25日就是春節的第一天了，而在放年假前，有一個日子一定不能忘記，#那就是1月11日的大選投票日！\n　\n明年1月11日，我們一定要用選票讓自由民主勝利，下架親中政黨，讓台灣免於恐懼，度過一個無憂無慮的年假！\n　\n--\n　\n【阿惠的限量農民曆】\n\n索取時段：送完為止\n索取地點：嘉義市聯合競選總部（公明路152號）\n　\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\n\nhttps://www.facebook.com/groups/ahueipower/\n\n⚡️競選總部：嘉義市東區公明路152號",
+      "ad_creation_time": "2019-12-15T04:57:15+0000",
+      "ad_delivery_start_time": "2019-12-15T04:57:15+0000",
+      "ad_delivery_stop_time": "2019-12-19T04:56:58+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000909",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000303",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.072143",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.11064",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.05244",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.010609",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.149742",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.188239",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.174598",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.085784",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.025159",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.049712",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.059109",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.020612",
+          "age": "25-34",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "美惠王",
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "page_id": "105497726206174",
+      "page_name": "嘉義市立委候選人 王美惠",
+      "region_distribution": [
+        {
+          "percentage": "0.995813",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.004187",
+          "region": "Chiayi"
+        }
+      ],
+      "spend": {
+        "lower_bound": "800",
+        "upper_bound": "899"
+      },
+      "ad_id": "511333926137711"
+    }
+  },
+  {
+    "選區": "嘉義市選舉區",
+    "參選人": "王美惠",
+    "AD_ID": "487922531841809",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-16",
+    "結束日期": "2019-12-20",
+    "廣告內容": "阿惠的服務處正式開放索取限量的 #日曆、#月曆以及農民曆了！ 　 這件事是阿惠每年都會做的例行事項，今年也不例外，#絕對不會因為選舉而怠慢了服務。 　 對阿惠來說，服務人民不只是選前的事，而是身為民代的職責所在，所以就算是在選舉期間，阿惠仍然會參與議會臨時會、處理鄉親陳情，#善盡民意代表的責任。 　 2020的選舉，我們一定要支持認真的人，讓國會過半，改革加速，把阿惠送進立法院為人民做更多事、#一起讓嘉義大步前進。 　 大家請記得，明年1月11日，#總統一定要投小英，#立委選阿惠，守護台灣民主，讓台灣走出去，繼續進步！ 　 #日曆月曆農民曆 #限量快來拿嘉義市立委候選人 王美惠​ 　 -- 　 【服務處限量索取】 　 索取日期：星期一～六  索取時間：每天9:30-12:00 / 13:30-18:30 索取地點：王美惠服務處（西區新榮路162號） 可索取項目：日曆、月曆、農民曆 　 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/ ⚡️競選總部：嘉義市東區公明路152號",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80111708_2731231796966074_745229430615441408_n.jpg?_nc_cat=106&_nc_ohc=xRYS1WhO7lwAQlRTf7I0BADcSg5f7EpCb4AEx0lFbQZ05WmldvJGR9gfw&_nc_ht=scontent-hkg3-1.xx&oh=e756585484472a9aba72aee842d602cb&oe=5E7B473B",
+    "廣告詳情": {
+      "ad_creative_body": "阿惠的服務處正式開放索取限量的 #日曆、#月曆以及農民曆了！\n　\n這件事是阿惠每年都會做的例行事項，今年也不例外，#絕對不會因為選舉而怠慢了服務。\n　\n對阿惠來說，服務人民不只是選前的事，而是身為民代的職責所在，所以就算是在選舉期間，阿惠仍然會參與議會臨時會、處理鄉親陳情，#善盡民意代表的責任。\n　\n2020的選舉，我們一定要支持認真的人，讓國會過半，改革加速，把阿惠送進立法院為人民做更多事、#一起讓嘉義大步前進。\n　\n大家請記得，明年1月11日，#總統一定要投小英，#立委選阿惠，守護台灣民主，讓台灣走出去，繼續進步！\n　\n#日曆月曆農民曆\n#限量快來拿\n嘉義市立委候選人 王美惠​\n　\n--\n　\n【服務處限量索取】\n　\n索取日期：星期一～六 \n索取時間：每天9:30-12:00 / 13:30-18:30\n索取地點：王美惠服務處（西區新榮路162號）\n可索取項目：日曆、月曆、農民曆\n　\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\n\nhttps://www.facebook.com/groups/ahueipower/\n\n⚡️競選總部：嘉義市東區公明路152號",
+      "ad_creation_time": "2019-12-17T04:44:47+0000",
+      "ad_delivery_start_time": "2019-12-17T04:44:47+0000",
+      "ad_delivery_stop_time": "2019-12-21T04:44:31+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000645",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.171935",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.019677",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.173226",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.076774",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.196129",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.083226",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.04129",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.082581",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.034194",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.057097",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.04871",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.013871",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000323",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000323",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "美惠王",
+      "impressions": {
+        "lower_bound": "4000",
+        "upper_bound": "4999"
+      },
+      "page_id": "105497726206174",
+      "page_name": "嘉義市立委候選人 王美惠",
+      "region_distribution": [
+        {
+          "percentage": "0.9791",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.0209",
+          "region": "Chiayi"
+        }
+      ],
+      "spend": {
+        "lower_bound": "400",
+        "upper_bound": "499"
+      },
+      "ad_id": "487922531841809"
+    }
+  },
+  {
+    "選區": "嘉義市選舉區",
+    "參選人": "王美惠",
+    "AD_ID": "447058302910724",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-16",
+    "結束日期": "2019-12-20",
+    "廣告內容": "最近，蔡英文總統跟網路紅人波特王拍攝了一部Youtube影片瞬間爆紅，在網路上造成一陣炫風，#但這部影片卻馬上被中國封殺。 　 波特王昨天發出一則貼文，透露他們正在合作的中國新媒體廠商要求他們 #把與蔡英文總統拍攝的影片刪除，理由是裡面有講到「台灣總統」一詞。 　 以前，中國會假裝釋出經濟紅利、讓觀光客來台灣，營造出兩岸一家親的假象，讓台灣陷入溫水煮青蛙的窘境，但現在蔡英文總統執政，積極發展新南向、與世界交朋友，#使中國發現他們已經無法控制台灣了，所以只好以更變本加厲的方法打壓台灣。 　 這是我們的國家，沒有任何人或是任何國家可以限制我們的想法，民主自由的可貴就是每個人都能夠有自主意識，都能暢所欲言，#這樣才能塑造出一個多元的社會。 　 台灣對於民主自由的堅持，是中國沒有辦法體會的，儘管持續遭受打壓，但勇敢的台灣人民是絕對不會退縮的，明年1月11日，讓我們一起挺小英、投阿惠，下架親中政黨，守護台灣的民主自由。 　 #守護台灣 #嘉義市準備好了嘉義市立委候選人 王美惠​蔡英文 Tsai Ing-wen​ 波特王 Potter King 　 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/ ⚡️競選總部：嘉義市東區公明路152號",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79152422_2729260060496581_8318270725047713792_n.jpg?_nc_cat=110&_nc_ohc=E3Lxdwa8_EcAQkZSWEOXaluXGKvtG7znC-0VfI1fCIY5mXZXUgEbT01gw&_nc_ht=scontent-hkg3-2.xx&oh=c8517ae017754dfbc451fd51151e2227&oe=5E67ECEF",
+    "廣告詳情": {
+      "ad_creative_body": "最近，蔡英文總統跟網路紅人波特王拍攝了一部Youtube影片瞬間爆紅，在網路上造成一陣炫風，#但這部影片卻馬上被中國封殺。\n　\n波特王昨天發出一則貼文，透露他們正在合作的中國新媒體廠商要求他們 #把與蔡英文總統拍攝的影片刪除，理由是裡面有講到「台灣總統」一詞。\n　\n以前，中國會假裝釋出經濟紅利、讓觀光客來台灣，營造出兩岸一家親的假象，讓台灣陷入溫水煮青蛙的窘境，但現在蔡英文總統執政，積極發展新南向、與世界交朋友，#使中國發現他們已經無法控制台灣了，所以只好以更變本加厲的方法打壓台灣。\n　\n這是我們的國家，沒有任何人或是任何國家可以限制我們的想法，民主自由的可貴就是每個人都能夠有自主意識，都能暢所欲言，#這樣才能塑造出一個多元的社會。\n　\n台灣對於民主自由的堅持，是中國沒有辦法體會的，儘管持續遭受打壓，但勇敢的台灣人民是絕對不會退縮的，明年1月11日，讓我們一起挺小英、投阿惠，下架親中政黨，守護台灣的民主自由。\n　\n#守護台灣\n#嘉義市準備好了\n嘉義市立委候選人 王美惠​\n蔡英文 Tsai Ing-wen​ 波特王 Potter King\n　\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\n\nhttps://www.facebook.com/groups/ahueipower/\n\n⚡️競選總部：嘉義市東區公明路152號",
+      "ad_creation_time": "2019-12-17T04:42:33+0000",
+      "ad_delivery_start_time": "2019-12-17T04:42:33+0000",
+      "ad_delivery_stop_time": "2019-12-21T04:42:16+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000294",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.069097",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.145251",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.182593",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.030285",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.102029",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.053808",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.184652",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.056454",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.062335",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.032343",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.055866",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.023228",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000588",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000588",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000588",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "美惠王",
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "page_id": "105497726206174",
+      "page_name": "嘉義市立委候選人 王美惠",
+      "region_distribution": [
+        {
+          "percentage": "0.997027",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.002973",
+          "region": "Chiayi"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "447058302910724"
+    }
+  },
+  {
+    "選區": "嘉義市選舉區",
+    "參選人": "王美惠",
+    "AD_ID": "470959033801037",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-20",
+    "結束日期": "1970-01-01",
+    "廣告內容": "#一起把大頭貼加上特效框，大聲說出你挺台灣隊！ 　 點擊連結加特效 👉 www.facebook.com/profilepicframes/?selected_overlay_id=489508965024187 　 2020選舉進入倒數階段，請大家換上阿惠的特效框，跟身邊的朋友分享你對台灣隊的支持，#說服更多人明年一起回嘉投票。 　 讓我們一起向大家宣告嘉義人對自由民主的堅持，#讓民主聖地的美名繼續流傳下去。 　 2020，總統投3號，立委投6號，政黨票投14號，一起下架親中政黨，#上架最強組合。 　 #惠贏特效框嘉義市立委候選人 王美惠蔡英文 Tsai Ing-wen 賴清德 民主進步黨 　 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/ ⚡️競選總部：嘉義市東區公明路152號",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/80116197_2735360976553156_210972238143291392_n.jpg?_nc_cat=107&_nc_ohc=e4jwfBSI6B0AQne_7M_vT2LVj4mQYbD-g5stzobK_KaDSqNFOZpCWWgag&_nc_ht=scontent-hkg3-2.xx&oh=59b12d1bffc5e64b8770d9fb057cda51&oe=5E6916AA",
+    "廣告詳情": {
+      "ad_creative_body": "#一起把大頭貼加上特效框，大聲說出你挺台灣隊！\n　\n點擊連結加特效 👉 www.facebook.com/profilepicframes/?selected_overlay_id=489508965024187\n　\n2020選舉進入倒數階段，請大家換上阿惠的特效框，跟身邊的朋友分享你對台灣隊的支持，#說服更多人明年一起回嘉投票。\n　\n讓我們一起向大家宣告嘉義人對自由民主的堅持，#讓民主聖地的美名繼續流傳下去。\n　\n2020，總統投3號，立委投6號，政黨票投14號，一起下架親中政黨，#上架最強組合。\n　\n#惠贏特效框\n嘉義市立委候選人 王美惠\n蔡英文 Tsai Ing-wen 賴清德 民主進步黨\n　\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\n\nhttps://www.facebook.com/groups/ahueipower/\n\n⚡️競選總部：嘉義市東區公明路152號",
+      "ad_creation_time": "2019-12-20T10:22:17+0000",
+      "ad_delivery_start_time": "2019-12-20T10:22:17+0000",
+      "ad_delivery_stop_time": "2019-12-24T10:21:56+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000431",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000431",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.053063",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.16868",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.206644",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.060397",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.185505",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.072908",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.073339",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.02157",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.033218",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.080242",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.031493",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.011217",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000431",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000431",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "美惠王",
+      "impressions": {
+        "lower_bound": "3000",
+        "upper_bound": "3999"
+      },
+      "page_id": "105497726206174",
+      "page_name": "嘉義市立委候選人 王美惠",
+      "region_distribution": [
+        {
+          "percentage": "0.993924",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.006076",
+          "region": "Chiayi"
+        }
+      ],
+      "spend": {
+        "lower_bound": "300",
+        "upper_bound": "399"
+      },
+      "ad_id": "470959033801037"
+    }
+  },
+  {
+    "選區": "嘉義市選舉區",
+    "參選人": "王美惠",
+    "AD_ID": "719771355218220",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-21",
+    "結束日期": "1970-01-01",
+    "廣告內容": "十三年來， 我每一天都為了嘉義、為了人民在打拼， 希望 #認真做事的價值，可以成為嘉義的政治文化。 　 2020，我們一起讓嘉義大步向前，  讓民主與進步成為台灣的多數席次！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/80771001_1050574201960038_8096809764450729984_n.jpg?_nc_cat=104&_nc_ohc=_Z_eY1PtSTsAQk1piG3Lgo2uh_OHeZ_0JCCAtWJarXaU0dH4mA7lxBl5w&_nc_ht=scontent-hkg3-1.xx&oh=2443ffbccd85962d7e7e5be31d72cceb&oe=5E658708",
+    "廣告詳情": {
+      "ad_creative_body": "十三年來，\n我每一天都為了嘉義、為了人民在打拼，\n希望 #認真做事的價值，可以成為嘉義的政治文化。\n　\n2020，我們一起讓嘉義大步向前， \n讓民主與進步成為台灣的多數席次！",
+      "ad_creation_time": "2019-12-20T10:22:13+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "2020台灣要贏，嘉義更會贏！",
+      "ad_creative_link_title": "嘉義市立委候選人 王美惠",
+      "ad_delivery_start_time": "2019-12-20T10:22:13+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.318386",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.194619",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.084305",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.171749",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.082063",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.146637",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001794",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000448",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "美惠王",
+      "impressions": {
+        "lower_bound": "2000",
+        "upper_bound": "2999"
+      },
+      "page_id": "105497726206174",
+      "page_name": "嘉義市立委候選人 王美惠",
+      "region_distribution": [
+        {
+          "percentage": "0.980514",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.019486",
+          "region": "Chiayi"
+        }
+      ],
+      "spend": {
+        "lower_bound": "200",
+        "upper_bound": "299"
+      },
+      "ad_id": "719771355218220"
+    }
+  },
+  {
+    "選區": "嘉義市選舉區",
+    "參選人": "王美惠",
+    "AD_ID": "764973677319283",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-20",
+    "結束日期": "1970-01-01",
+    "廣告內容": "這幾天，議會開會、拜票、活動邀請，阿惠每天都有十幾個行程在跑，結束回到家後常常都已經筋疲力竭，但卻又睡不著，常常失眠。 　 這兩三天以來，阿惠一直擔心，#如果台灣被一個歧視女性不遺餘力的政黨統治的話該如何是好，最近先是看到曾羞辱陳菊為「母豬」的前副總統吳敦義這次又侮辱蔡英文總統是「衰尾查某」，儘管舉國譁然，但吳主席不只不道歉，甚至還反問「難道蔡英文沒有帶衰台灣嗎」，而後來又看到前立委邱毅以更極端的言論支持吳主席，羞辱陳菊、蔡英文「不像女性」。 　 這兩個人的一言一行恰恰代表了「正藍一家親」的基本價值觀 #仍停留在黨國體制、男主外女主內的舊時代中，一個人曾任國家副總統、另一個人曾經當過立法委員，曾任如此要職卻仍這般口無遮攔，#難道大家都吃到了韓國瑜的口水嗎？ 　 其實，歧視的本質就是對於「#非我族類」的藐視，也就是說如果一個政黨帶有歧視的本質，#那它就很有可能會是一個獨裁、#封建的政黨，所以，阿惠最擔心的是，明年如果讓這種貶低女人的政黨執政或是掌控國會的話，許多先進努力至今的人權成果以及自由民主勢必又會倒退幾十年，所以這次，阿惠一定要出來為女性發聲。 　 一個政黨連自己的嘴巴都管不好了，又何能治國，阿惠身為女性，#要針對這種言論呼籲全國女性同胞共同譴責，並在明年用選票下架不尊重女性價值的政黨，讓台灣繼續走在性別平權、多元包容的路上！ 　嘉義市立委候選人 王美惠 　 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/ ⚡️競選總部：嘉義市東區公明路152號",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79779919_2737421753013745_4849715133196271616_n.jpg?_nc_cat=104&_nc_ohc=VxWeUFdeaQ8AQkjvR7ImmTrAMWvFUGGAr5HW41jdPgXjcC1uz_3QBAtpw&_nc_ht=scontent-hkg3-1.xx&oh=19fba2bd7c048b7dc3311bd1b0a02703&oe=5EAE4DA4",
+    "廣告詳情": {
+      "ad_creative_body": "這幾天，議會開會、拜票、活動邀請，阿惠每天都有十幾個行程在跑，結束回到家後常常都已經筋疲力竭，但卻又睡不著，常常失眠。\n　\n這兩三天以來，阿惠一直擔心，#如果台灣被一個歧視女性不遺餘力的政黨統治的話該如何是好，最近先是看到曾羞辱陳菊為「母豬」的前副總統吳敦義這次又侮辱蔡英文總統是「衰尾查某」，儘管舉國譁然，但吳主席不只不道歉，甚至還反問「難道蔡英文沒有帶衰台灣嗎」，而後來又看到前立委邱毅以更極端的言論支持吳主席，羞辱陳菊、蔡英文「不像女性」。\n　\n這兩個人的一言一行恰恰代表了「正藍一家親」的基本價值觀 #仍停留在黨國體制、男主外女主內的舊時代中，一個人曾任國家副總統、另一個人曾經當過立法委員，曾任如此要職卻仍這般口無遮攔，#難道大家都吃到了韓國瑜的口水嗎？\n　\n其實，歧視的本質就是對於「#非我族類」的藐視，也就是說如果一個政黨帶有歧視的本質，#那它就很有可能會是一個獨裁、#封建的政黨，所以，阿惠最擔心的是，明年如果讓這種貶低女人的政黨執政或是掌控國會的話，許多先進努力至今的人權成果以及自由民主勢必又會倒退幾十年，所以這次，阿惠一定要出來為女性發聲。\n　\n一個政黨連自己的嘴巴都管不好了，又何能治國，阿惠身為女性，#要針對這種言論呼籲全國女性同胞共同譴責，並在明年用選票下架不尊重女性價值的政黨，讓台灣繼續走在性別平權、多元包容的路上！\n　\n嘉義市立委候選人 王美惠\n　\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\n\nhttps://www.facebook.com/groups/ahueipower/\n\n⚡️競選總部：嘉義市東區公明路152號",
+      "ad_creation_time": "2019-12-20T10:20:55+0000",
+      "ad_delivery_start_time": "2019-12-20T10:20:55+0000",
+      "ad_delivery_stop_time": "2019-12-24T10:20:37+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000463",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.002776",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000463",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.253124",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.091161",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.101342",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.322999",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.169366",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.058306",
+          "age": "18-24",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "美惠王",
+      "impressions": {
+        "lower_bound": "3000",
+        "upper_bound": "3999"
+      },
+      "page_id": "105497726206174",
+      "page_name": "嘉義市立委候選人 王美惠",
+      "region_distribution": [
+        {
+          "percentage": "0.977294",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.022706",
+          "region": "Chiayi"
+        }
+      ],
+      "spend": {
+        "lower_bound": "300",
+        "upper_bound": "399"
+      },
+      "ad_id": "764973677319283"
+    }
+  },
+  {
+    "選區": "嘉義市選舉區",
+    "參選人": "王美惠",
+    "AD_ID": "3969544173071815",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-21",
+    "結束日期": "1970-01-01",
+    "廣告內容": "今天，#是台灣民主驕傲的一天。 　 阿惠今天一樣跑了很多行程，但在空檔都會拿出手機聯絡前往高雄參與遊行的年輕朋友，關心高雄的遊行狀況。 　 今天在高雄有兩場理念完全相左的活動同時登場，均圓滿落幕，整體來說沒有重大的衝突事件，#這在許多西方民主國家其實是很難得的，所以今晚，台灣人民成功向世界證明了多元包容的精神。 　 相較於西方，台灣自由化的洗禮其實只有三十餘年的時間，而且又是華人世界唯一的民主國家，竟然能在那麼短的時間內發展出一個令人驕傲的多元社會，實在是不簡單，#而這其實就是民主政體發展的潛力。 　 一個國家如果沒有多元的聲音，就代表這個國家的政策無法廣納百川，更無法多元發展，在中國，#包容不同意見的價值並不存在，你的中心思想只能是共產黨思想，你們人權價值是共產黨說了算，如果你有反駁的動作，他們就會逮補你、把你定罪，#台灣人民絕對不能接受這種生活方式。 　 今天，罷韓遊行遠超出預期，代表高雄人的憤怒以及對於自由民主的堅持，也代表人民不願意讓一個親中、說大話的政黨來執政，我們的世界不會只有中國，#我們要當世界的台灣。 　 未來，台灣一定會繼續擔任亞洲民主的燈塔，繼續發光發熱，繼續守護民主！ 　嘉義市立委候選人 王美惠​Wecare高雄 　 -- 　 #2020台灣隊投票指南 　 🌸粉色票：正副總統選票  👉選3號 🌼黃色票：立法委員選票 👉選6號 ☁️白色票：政黨票 👉選14號 　 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/ ⚡️競選總部：嘉義市東區公明路152號",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/81173728_2740101766079077_4618429280290865152_n.jpg?_nc_cat=105&_nc_ohc=_1C3WMT8t-gAQkXaXsmgGvn_7fo_XcJ9vnVPde6OsX6deY9Mv9ZIGZYoQ&_nc_ht=scontent-hkg3-1.xx&oh=960137f3f574acea93db7340ce4c6869&oe=5E7107E4",
+    "廣告詳情": {
+      "ad_creative_body": "今天，#是台灣民主驕傲的一天。\n　\n阿惠今天一樣跑了很多行程，但在空檔都會拿出手機聯絡前往高雄參與遊行的年輕朋友，關心高雄的遊行狀況。\n　\n今天在高雄有兩場理念完全相左的活動同時登場，均圓滿落幕，整體來說沒有重大的衝突事件，#這在許多西方民主國家其實是很難得的，所以今晚，台灣人民成功向世界證明了多元包容的精神。\n　\n相較於西方，台灣自由化的洗禮其實只有三十餘年的時間，而且又是華人世界唯一的民主國家，竟然能在那麼短的時間內發展出一個令人驕傲的多元社會，實在是不簡單，#而這其實就是民主政體發展的潛力。\n　\n一個國家如果沒有多元的聲音，就代表這個國家的政策無法廣納百川，更無法多元發展，在中國，#包容不同意見的價值並不存在，你的中心思想只能是共產黨思想，你們人權價值是共產黨說了算，如果你有反駁的動作，他們就會逮補你、把你定罪，#台灣人民絕對不能接受這種生活方式。\n　\n今天，罷韓遊行遠超出預期，代表高雄人的憤怒以及對於自由民主的堅持，也代表人民不願意讓一個親中、說大話的政黨來執政，我們的世界不會只有中國，#我們要當世界的台灣。\n　\n未來，台灣一定會繼續擔任亞洲民主的燈塔，繼續發光發熱，繼續守護民主！\n　\n嘉義市立委候選人 王美惠​\nWecare高雄\n　\n--\n　\n#2020台灣隊投票指南\n　\n🌸粉色票：正副總統選票  👉選3號\n🌼黃色票：立法委員選票 👉選6號\n☁️白色票：政黨票 👉選14號\n　\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\n\nhttps://www.facebook.com/groups/ahueipower/\n\n⚡️競選總部：嘉義市東區公明路152號",
+      "ad_creation_time": "2019-12-21T13:08:03+0000",
+      "ad_delivery_start_time": "2019-12-21T13:08:03+0000",
+      "ad_delivery_stop_time": "2019-12-25T13:07:45+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.164706",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.072059",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.095588",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.025",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.192647",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.342647",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.055882",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.048529",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001471",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001471",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "美惠王",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "105497726206174",
+      "page_name": "嘉義市立委候選人 王美惠",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Unknown"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "3969544173071815"
+    }
+  },
+  {
+    "選區": "嘉義市選舉區",
+    "參選人": "王美惠",
+    "AD_ID": "965124907217405",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-21",
+    "結束日期": "1970-01-01",
+    "廣告內容": "十三年來，我每一天都跟基層站在一起。 十三年來，我服務不分黨派、不分區域。 　 2020，請跟我一起讓 #認真做事的價值，成為嘉義的政治文化。",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/80738412_965124930550736_6034745529840173056_n.jpg?_nc_cat=105&_nc_ohc=Zicy9vFuYLEAQn_G7WBLVtqw-ce6Fs5Tv0cbrxsMXfJLX93PaLQbJv5sw&_nc_ht=scontent-hkg3-1.xx&oh=0d9553f9e7a18ad95f900bc7be73903f&oe=5EA9B8FA",
+    "廣告詳情": {
+      "ad_creative_body": "十三年來，我每一天都跟基層站在一起。\n十三年來，我服務不分黨派、不分區域。\n　\n2020，請跟我一起讓 #認真做事的價值，成為嘉義的政治文化。",
+      "ad_creation_time": "2019-12-21T11:41:57+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "2020台灣要贏，嘉義更會贏！",
+      "ad_creative_link_title": "嘉義市立委候選人 王美惠",
+      "ad_delivery_start_time": "2019-12-21T11:41:57+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.043814",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.212629",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.139175",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.243557",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.131443",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.081186",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.119845",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.027062",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001289",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "美惠王",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "105497726206174",
+      "page_name": "嘉義市立委候選人 王美惠",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Unknown"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "965124907217405"
+    }
+  },
+  {
+    "選區": "嘉義市選舉區",
+    "參選人": "王美惠",
+    "AD_ID": "1050574178626707",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-21",
+    "結束日期": "1970-01-01",
+    "廣告內容": "十三年來， 我每一天都為了嘉義、為了人民在打拼， 希望 #認真做事的價值，可以成為嘉義的政治文化。 　 2020，我們一起讓嘉義大步向前，  讓民主與進步成為台灣的多數席次！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/80771001_1050574201960038_8096809764450729984_n.jpg?_nc_cat=104&_nc_ohc=_Z_eY1PtSTsAQk1piG3Lgo2uh_OHeZ_0JCCAtWJarXaU0dH4mA7lxBl5w&_nc_ht=scontent-hkg3-1.xx&oh=2443ffbccd85962d7e7e5be31d72cceb&oe=5E658708",
+    "廣告詳情": {
+      "ad_creative_body": "十三年來，\n我每一天都為了嘉義、為了人民在打拼，\n希望 #認真做事的價值，可以成為嘉義的政治文化。\n　\n2020，我們一起讓嘉義大步向前， \n讓民主與進步成為台灣的多數席次！",
+      "ad_creation_time": "2019-12-21T11:24:18+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "2020台灣要贏，嘉義更會贏！",
+      "ad_creative_link_title": "嘉義市立委候選人 王美惠",
+      "ad_delivery_start_time": "2019-12-21T11:24:18+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.181818",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.090909",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.072727",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.090909",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.181818",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.254545",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.109091",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.018182",
+          "age": "45-54",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "美惠王",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "105497726206174",
+      "page_name": "嘉義市立委候選人 王美惠",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Unknown"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "1050574178626707"
+    }
+  },
+  {
+    "選區": "嘉義市選舉區",
+    "參選人": "王美惠",
+    "AD_ID": "2494608707482921",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-20",
+    "結束日期": "2019-12-21",
+    "廣告內容": "前幾天，阿惠的競選總部接到一通電話，#一接起來發現竟然是邁邁！ 　 在電話的另一頭，邁邁說雖然上次競選總部成立大會因病未能出席，但跟嘉義市民約定「#擇期再訪」的承諾他並沒有忘記，於是這次就決定要主動來跟鄉親見面了。 　 副院長還說，上次的成立大會直播他也有看，覺得非常感動而且連他也被嘉義鄉親的熱情震撼到了，這次想要來嘉義除了是要向市民推薦認真、接地氣的阿惠外，#更是想要履行對嘉義的承諾，感受一下民主聖地的熱情。 　 後天早上，如果在路上看到我們也別忘記打聲招呼，一起讓陳其邁副院長感受到嘉義鄉親熱情的「暖流」！ 　 #陳小米會不會來呢嘉義市立委候選人 王美惠陳其邁 Chen Chi-Mai 　 -- 　 #2020台灣隊投票指南 　 🌸粉色票：正副總統選票  👉選3號 🌼黃色票：立法委員選票 👉選6號 ☁️白色票：政黨票 👉選14號 　 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/ ⚡️競選總部：嘉義市東區公明路152號",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79942306_2735726433183277_8346168122478166016_n.jpg?_nc_cat=101&_nc_ohc=xgtI9eNkGHYAQm9jY0o9ehSWrqXLkoPc4iZiewo7pohnJVt12uj4vrO9w&_nc_ht=scontent-hkg3-1.xx&oh=cbecfbdc10a509d9ab8f721a9afbd4a3&oe=5E764C34",
+    "廣告詳情": {
+      "ad_creative_body": "前幾天，阿惠的競選總部接到一通電話，#一接起來發現竟然是邁邁！\n　\n在電話的另一頭，邁邁說雖然上次競選總部成立大會因病未能出席，但跟嘉義市民約定「#擇期再訪」的承諾他並沒有忘記，於是這次就決定要主動來跟鄉親見面了。\n　\n副院長還說，上次的成立大會直播他也有看，覺得非常感動而且連他也被嘉義鄉親的熱情震撼到了，這次想要來嘉義除了是要向市民推薦認真、接地氣的阿惠外，#更是想要履行對嘉義的承諾，感受一下民主聖地的熱情。\n　\n後天早上，如果在路上看到我們也別忘記打聲招呼，一起讓陳其邁副院長感受到嘉義鄉親熱情的「暖流」！\n　\n#陳小米會不會來呢\n嘉義市立委候選人 王美惠\n陳其邁 Chen Chi-Mai\n　\n--\n　\n#2020台灣隊投票指南\n　\n🌸粉色票：正副總統選票  👉選3號\n🌼黃色票：立法委員選票 👉選6號\n☁️白色票：政黨票 👉選14號\n　\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\n\nhttps://www.facebook.com/groups/ahueipower/\n\n⚡️競選總部：嘉義市東區公明路152號",
+      "ad_creation_time": "2019-12-21T04:58:48+0000",
+      "ad_delivery_start_time": "2019-12-21T04:58:48+0000",
+      "ad_delivery_stop_time": "2019-12-22T04:58:29+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000156",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.081314",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000313",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000469",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.019703",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.033151",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.169038",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.03706",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.058952",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000156",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.126505",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.177952",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.086474",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.045504",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.080844",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.082252",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000156",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "美惠王",
+      "impressions": {
+        "lower_bound": "8000",
+        "upper_bound": "8999"
+      },
+      "page_id": "105497726206174",
+      "page_name": "嘉義市立委候選人 王美惠",
+      "region_distribution": [
+        {
+          "percentage": "0.994727",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.005273",
+          "region": "Chiayi"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "2494608707482921"
+    }
+  },
+  {
+    "選區": "嘉義市選舉區",
+    "參選人": "王美惠",
+    "AD_ID": "3330870926954990",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-07",
+    "結束日期": "2019-12-11",
+    "廣告內容": "一起加入LINE，入陣守護台灣的行列吧！ 　 點擊連結加入 👉 http://nav.cx/al3KUWL 　 阿惠的LINE已經開啟一段時間了，這段時間也有許多好朋友會在LINE上面私訊我跟我聊天，特別是許多鄉親也會 #分享一些生活趣事或者是時事給我，真的很窩心，而有空的時候我也會主動關心一下大家。 　 如果還沒加入LINE的朋友可以點擊上面的連結加入， 已經加入的朋友也可以 #幫我分享給更多鄉親哦！ 　 我們一起加入辣台派， 守護台灣嘉義一定不會缺席！ 　 #LINE在一起嘉義市立委候選人 王美惠​ 　 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/ ⚡️競選總部：嘉義市東區公明路152號",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78567906_2695794003843187_7178158195897008128_n.jpg?_nc_cat=102&_nc_ohc=Aked-cJfpjwAQmC-T46OsOQ0lMy7ANkrMqGFOcWTvYNFM6ZT4hFV0eJRw&_nc_ht=scontent-hkg3-1.xx&oh=265cd607eefed8f10a2b7fb9cb17da08&oe=5EAA2EA2",
+    "廣告詳情": {
+      "ad_creative_body": "一起加入LINE，入陣守護台灣的行列吧！\n　\n點擊連結加入 👉 http://nav.cx/al3KUWL\n　\n阿惠的LINE已經開啟一段時間了，這段時間也有許多好朋友會在LINE上面私訊我跟我聊天，特別是許多鄉親也會 #分享一些生活趣事或者是時事給我，真的很窩心，而有空的時候我也會主動關心一下大家。\n　\n如果還沒加入LINE的朋友可以點擊上面的連結加入，\n已經加入的朋友也可以 #幫我分享給更多鄉親哦！\n　\n我們一起加入辣台派，\n守護台灣嘉義一定不會缺席！\n　\n#LINE在一起\n嘉義市立委候選人 王美惠​\n　\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\n\nhttps://www.facebook.com/groups/ahueipower/\n\n⚡️競選總部：嘉義市東區公明路152號",
+      "ad_creation_time": "2019-12-02T05:13:22+0000",
+      "ad_delivery_start_time": "2019-12-02T05:13:22+0000",
+      "ad_delivery_stop_time": "2019-12-07T05:13:12+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.212871",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.217822",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.188119",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.049505",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.059406",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.064356",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.049505",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.009901",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.019802",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.074257",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.049505",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00495",
+          "age": "25-34",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "美惠王",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "105497726206174",
+      "page_name": "嘉義市立委候選人 王美惠",
+      "region_distribution": [
+        {
+          "percentage": "0.99505",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.00495",
+          "region": "Chiayi"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "3330870926954990"
+    }
+  },
+  {
+    "選區": "嘉義市選舉區",
+    "參選人": "王美惠",
+    "AD_ID": "2632453340144783",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-08",
+    "結束日期": "2019-11-12",
+    "廣告內容": "",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/77122921_2632453386811445_5341826863859761152_n.jpg?_nc_cat=109&_nc_ohc=4DOP-wMA5ZkAQmuly35v2K0xfxUhiFzY6SU2GGNoM8qGGN3wCERCI772g&_nc_ht=scontent-hkg3-1.xx&oh=589bb8b859391f47d921af551a6a184c&oe=5E734A25",
+    "廣告詳情": {
+      "ad_creative_body": "☺️☺️阿惠這樣是不是也能當美食代言人了！\n\n#桃城雞排超好吃\n#嘉義罪惡美食",
+      "ad_creation_time": "2019-11-09T05:11:57+0000",
+      "ad_creative_link_caption": "instagram.com",
+      "ad_creative_link_title": "嘉義市立委候選人 王美惠",
+      "ad_delivery_start_time": "2019-11-09T05:11:57+0000",
+      "ad_delivery_stop_time": "2019-11-13T05:11:33+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000848",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000848",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00017",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.455224",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.053426",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.173168",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.038501",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.018826",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.203528",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.007123",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.003223",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.020183",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.006784",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.007972",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.010007",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00017",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "6000",
+        "upper_bound": "6999"
+      },
+      "page_id": "105497726206174",
+      "page_name": "嘉義市立委候選人 王美惠",
+      "region_distribution": [
+        {
+          "percentage": "0.038072",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.003087",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.01029",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.028812",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.004459",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.030869",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.002229",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.011833",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.012005",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.009261",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.135826",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.0012",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001715",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.044589",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.097239",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.166181",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.107014",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.087292",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.178186",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.029841",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "2632453340144783"
+    }
+  },
+  {
+    "選區": "嘉義市選舉區",
+    "參選人": "王美惠",
+    "AD_ID": "1464388603717228",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-18",
+    "結束日期": "1970-01-01",
+    "廣告內容": "十三年來，阿惠一直都跟基層站在一起， 在嘉義的大街小巷騎著小綿羊，腳踏實地的打拼。 這次，為了嘉義，阿惠需要您跟我站在一起！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/75635374_2194021907564222_3023069600951566336_n.jpg?_nc_cat=104&_nc_oc=AQnD751eKTMMHz6725iM9cHqO3prbmG7jlOQVArbkp-Rxftw0V6QrcWaL8ItM17eBIk&_nc_ht=scontent-hkg3-1.xx&oh=672fc2f4781b5eb21dac9de33abdd2a3&oe=5EADBAB5",
+    "廣告詳情": {
+      "ad_creative_body": "十三年來，阿惠一直都跟基層站在一起，\n在嘉義的大街小巷騎著小綿羊，腳踏實地的打拼。\n\n這次，為了嘉義，阿惠需要您跟我站在一起！",
+      "ad_creation_time": "2019-10-09T14:52:19+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "2020台灣要贏，嘉義更會贏！",
+      "ad_creative_link_title": "嘉義市立委候選人 王美惠",
+      "ad_delivery_start_time": "2019-10-09T14:52:19+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.064234",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.109489",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.211679",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.270073",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.035036",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.164964",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.065693",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.077372",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00146",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "105497726206174",
+      "page_name": "嘉義市立委候選人 王美惠",
+      "region_distribution": [
+        {
+          "percentage": "0.950142",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.001425",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.048433",
+          "region": "Chiayi"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "1464388603717228"
+    }
+  },
+  {
+    "選區": "嘉義市選舉區",
+    "參選人": "王美惠",
+    "AD_ID": "514000476064039",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-18",
+    "結束日期": "1970-01-01",
+    "廣告內容": "十三年來，阿惠一直都跟基層站在一起， 在嘉義的大街小巷騎著小綿羊，腳踏實地的打拼。 這次，為了嘉義，阿惠需要您跟我站在一起！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/75635374_2194021907564222_3023069600951566336_n.jpg?_nc_cat=104&_nc_oc=AQnD751eKTMMHz6725iM9cHqO3prbmG7jlOQVArbkp-Rxftw0V6QrcWaL8ItM17eBIk&_nc_ht=scontent-hkg3-1.xx&oh=672fc2f4781b5eb21dac9de33abdd2a3&oe=5EADBAB5",
+    "廣告詳情": {
+      "ad_creative_body": "十三年來，阿惠一直都跟基層站在一起，\n在嘉義的大街小巷騎著小綿羊，腳踏實地的打拼。\n\n這次，為了嘉義，阿惠需要您跟我站在一起！",
+      "ad_creation_time": "2019-10-08T06:11:49+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "2020台灣要贏，嘉義更會贏！",
+      "ad_creative_link_title": "嘉義市立委候選人 王美惠",
+      "ad_delivery_start_time": "2019-10-08T06:11:49+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.230449",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.062821",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.043269",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.271474",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.060256",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.164423",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.096154",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.070192",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000321",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000321",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000321",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "4999"
+      },
+      "page_id": "105497726206174",
+      "page_name": "嘉義市立委候選人 王美惠",
+      "region_distribution": [
+        {
+          "percentage": "0.975809",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.024191",
+          "region": "Chiayi"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "499"
+      },
+      "ad_id": "514000476064039"
     }
   }
 ]

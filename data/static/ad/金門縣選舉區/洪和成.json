@@ -7,7 +7,7 @@
     "開始日期": "2019-12-01",
     "結束日期": "2019-12-06",
     "廣告內容": "既然要為民服務， 為什麼不能保持著快快樂樂的心情？ 立法委員候選人洪和成，祝福你​！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79026237_2395199750607740_6584165009134190592_n.jpg?_nc_cat=105&_nc_ohc=44xU6yG3YfUAQlYPSlW6PD399zBhF8o6PHjc5Vsvt0cMZGckNTgwgrcWQ&_nc_ht=scontent-hkg3-1.xx&oh=c6f971f9037def811a0f4f0a16ed802a&oe=5E79F018",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79026237_2395199750607740_6584165009134190592_n.jpg?_nc_cat=105&_nc_ohc=9XCiBit3VMsAQnP6sMQGGTJszYSyx9-7ukebVIfXbqNf3sZuvzKIyfEEg&_nc_ht=scontent-hkg3-1.xx&oh=5afa315f920e76bbf5f03700535cc586&oe=5E79F018",
     "廣告詳情": {
       "ad_creative_body": "既然要為民服務，\n為什麼不能保持著快快樂樂的心情？\n\n立法委員候選人洪和成，祝福你​！",
       "ad_creation_time": "2019-12-02T00:07:05+0000",
@@ -17,78 +17,203 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.139749",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.103242",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.059433",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.126606",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.057535",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.052132",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.127921",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.04045",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.107331",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.038113",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.09594",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.050526",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000292",
+          "percentage": "0.000271",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000584",
+          "percentage": "0.000543",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000146",
+          "percentage": "0.000136",
           "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000136",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.124966",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.104342",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.135685",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.108141",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.095387",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.056174",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.058345",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.125645",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.039077",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.05943",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.049796",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.041927",
+          "age": "18-24",
+          "gender": "male"
+        }
+      ],
+      "funding_entity": "和成洪",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "1460015614106063",
+      "page_name": "踏實.革新【洪和成】",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Kinmen"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1500",
+        "upper_bound": "1999"
+      },
+      "ad_id": "2449638691825619"
+    }
+  },
+  {
+    "選區": "金門縣選舉區",
+    "參選人": "洪和成",
+    "AD_ID": "551071975731483",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-03",
+    "結束日期": "2019-12-08",
+    "廣告內容": "衛生福利部長務次長謝瑞源，他是目前有權力將金門的醫療、衛生福利推上另外一個台階的人，今天端了一些牛肉到金門，問題是不是針對金門的問題去解決的，還是頭痛醫頭，腳痛醫腳，問題依然存在？魔鬼是藏在細節裡，唯有金門的患者才知道問題的所在？如果花錢就可以解決的問題，應該早已處理了 地區健康照護的理念；未來將持續秉持「強化在地醫療為主、空中安全轉送為輔」政策原則，完善建置離島醫療照護體系。 ​一、緊急醫療空轉後送議題： ​二、離島急重症照護醫事培訓： ​三、如何強化離島急重症醫療與永續： 當這艘大船越造越大的時候，最後會不會因為後勤、補給、市場等問題而翻船？",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/79034704_566669187236017_4995389291321360384_n.jpg?_nc_cat=104&_nc_ohc=4mbcMbZxBa8AQky_tv7lo-qGAaIruDEVoY-jxxk79xR9Y0yjw5Y0y1fWA&_nc_ht=scontent-hkg3-1.xx&oh=568c5d2f174901f78b46888b008e7604&oe=5E7AAADE",
+    "廣告詳情": {
+      "ad_creative_body": "衛生福利部長務次長謝瑞源，他是目前有權力將金門的醫療、衛生福利推上另外一個台階的人，今天端了一些牛肉到金門，問題是不是針對金門的問題去解決的，還是頭痛醫頭，腳痛醫腳，問題依然存在？魔鬼是藏在細節裡，唯有金門的患者才知道問題的所在？如果花錢就可以解決的問題，應該早已處理了\n\n地區健康照護的理念；未來將持續秉持「強化在地醫療為主、空中安全轉送為輔」政策原則，完善建置離島醫療照護體系。\n​一、緊急醫療空轉後送議題：\n​二、離島急重症照護醫事培訓：\n​三、如何強化離島急重症醫療與永續：\n\n當這艘大船越造越大的時候，最後會不會因為後勤、補給、市場等問題而翻船？",
+      "ad_creation_time": "2019-12-03T11:01:58+0000",
+      "ad_creative_link_caption": "kmdn.gov.tw",
+      "ad_creative_link_description": "為提高離島健康照護品質，促進在地健康照護服務效率及跨域在地健康照護夥伴發展，衛福部昨（1）日起一連兩天在金湖飯店辦理「2019智慧離島健康照護研討會」，今年以「智慧離島健康照護」為主題，應用科技強化原鄉醫療....",
+      "ad_creative_link_title": "-離島健康照護研討會 移師金門舉行",
+      "ad_delivery_start_time": "2019-12-03T11:01:59+0000",
+      "ad_delivery_stop_time": "2019-12-08T11:01:58+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000126",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000252",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000378",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.136879",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.084573",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.122385",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.138896",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.095286",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.054827",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.108772",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.040459",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.097807",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.052054",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.034031",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.032266",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001008",
+          "age": "35-44",
           "gender": "unknown"
         }
       ],
@@ -106,115 +231,337 @@
         }
       ],
       "spend": {
-        "lower_bound": "1000",
-        "upper_bound": "1499"
-      }
+        "lower_bound": "1500",
+        "upper_bound": "1999"
+      },
+      "ad_id": "551071975731483"
     }
   },
   {
     "選區": "金門縣選舉區",
     "參選人": "洪和成",
-    "AD_ID": "551071975731483",
+    "AD_ID": "398693170850654",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-12-03",
-    "結束日期": "2019-12-06",
-    "廣告內容": "衛生福利部長務次長謝瑞源，他是目前有權力將金門的醫療、衛生福利推上另外一個台階的人，今天端了一些牛肉到金門，問題是不是針對金門的問題去解決的，還是頭痛醫頭，腳痛醫腳，問題依然存在？魔鬼是藏在細節裡，唯有金門的患者才知道問題的所在？如果花錢就可以解決的問題，應該早已處理了 地區健康照護的理念；未來將持續秉持「強化在地醫療為主、空中安全轉送為輔」政策原則，完善建置離島醫療照護體系。 ​一、緊急醫療空轉後送議題： ​二、離島急重症照護醫事培訓： ​三、如何強化離島急重症醫療與永續： 當這艘大船越造越大的時候，最後會不會因為後勤、補給、市場等問題而翻船？",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/79034704_566669187236017_4995389291321360384_n.jpg?_nc_cat=104&_nc_ohc=bnyED9QlGGEAQn2sYn9J33RTS7z_lZz_SxjkL5WAwwhQoCZfSu0hflv6g&_nc_ht=scontent-hkg3-1.xx&oh=51bd10857a0a8cb6f1e2978db1e40caa&oe=5E7AAADE",
+    "開始日期": "2019-12-13",
+    "結束日期": "2019-12-20",
+    "廣告內容": "我的立法委員競選政見之系列〈一〉：成立離島委員會 相較於原住民族委員會及客家委員會，直屬於行政院的二級單位，金門的離島服務中心就顯得差太多了，我的第一個政見就是聯合離島的三個立法委員， 要求成立金馬澎離島委員會， 預算、編制比照原住民族委員會，員額 229人，年度預算額台幣80.23億元（2018年）， 成立公共傳播基金及電視台， 照顧離島偏鄉居民，縮短城鄉差距， 促進離島人民生存發展，建立共存共榮之族群關係 我的立法委員競選政見之系列〈二〉：修訂離島建設條例(離島基本法)，以下的每項條文修正，關係著金門未來百年基業的興衰盛世， 鄉親不可等閒視之 比照原住民基本法，增加下列三條法條， 才可以徹底解決金門所有的土地問題 第二十條(土地調查及處理委員會之設置) 政府為辦理原住民族土地之調查及處理，應設置原住民族土地調查及處理委員會；  徹底解決當初土地登記的未盡事宜 第二十一條（政府或私人於原住民族土地或部落開發利用，應諮詢並取得其同意或參與） 政府或私人於原住民族土地或部落及其周邊一定範圍內之公有土地從事土地開發、資源利用、生態保育及學術研究，應諮商並取得原住民族或部落同意或參與，原住民得分享相關利益。 政府或法令限制原住民族利用前項土地及自然資源時，應與原住民族、部落或原住民諮商，並取得其同意；受限制所生之損失，應由該主管機關寬列預算補償之。 第二十二條（原住民族地區資源共同管理機制之建立） 政府於原住民族地區劃設國家公園、國家級風景特定區、林業區、生態保育區、遊樂區及其他資源治理機關時，應徵得當地原住民族同意，並與原住民族建立共同管理機制； 另外要監督政府落實離島建設條例第10條、第16條、第15之1條  第10條： 落實離島地區免徵關稅、營業稅之精神， 只要將免稅商品由正面表類改為負面表列，離島就會自動提升為自由貿易港經濟特區 第16條： 提升離島建設基金為新台幣五百億並足額編列 第15-1條： 實行產業補貼政策，離島對外交通除了客運補貼票價30%， 貨運應該比照辦理， 可以提升離島的產業競爭力， 創造就業機會 法源依據：中華民國憲法增修條文第10條 國家應依民族意願，保障原住民族之地位及政治參與，並對其教育文化、交通水利、衛生醫療、經濟土地及社會福利事業予以保障扶助並促其發展，其辦法另以法律定之。【對於澎湖、金門及馬祖地區人民亦同。】 我的立法委員競選政見之系列〈三〉：爭取授權離島地方政府就海陸交通建設，民生用水用電，海洋垃圾及垃圾轉運，醫療和衛生方面等議題，直接跟陸方地方政府合作協商開發解決",
+    "圖片": "",
     "廣告詳情": {
-      "ad_creative_body": "衛生福利部長務次長謝瑞源，他是目前有權力將金門的醫療、衛生福利推上另外一個台階的人，今天端了一些牛肉到金門，問題是不是針對金門的問題去解決的，還是頭痛醫頭，腳痛醫腳，問題依然存在？魔鬼是藏在細節裡，唯有金門的患者才知道問題的所在？如果花錢就可以解決的問題，應該早已處理了\n\n地區健康照護的理念；未來將持續秉持「強化在地醫療為主、空中安全轉送為輔」政策原則，完善建置離島醫療照護體系。\n​一、緊急醫療空轉後送議題：\n​二、離島急重症照護醫事培訓：\n​三、如何強化離島急重症醫療與永續：\n\n當這艘大船越造越大的時候，最後會不會因為後勤、補給、市場等問題而翻船？",
-      "ad_creation_time": "2019-12-03T11:01:58+0000",
-      "ad_creative_link_caption": "kmdn.gov.tw",
-      "ad_creative_link_description": "為提高離島健康照護品質，促進在地健康照護服務效率及跨域在地健康照護夥伴發展，衛福部昨（1）日起一連兩天在金湖飯店辦理「2019智慧離島健康照護研討會」，今年以「智慧離島健康照護」為主題，應用科技強化原鄉醫療....",
-      "ad_creative_link_title": "-離島健康照護研討會 移師金門舉行",
-      "ad_delivery_start_time": "2019-12-03T11:01:59+0000",
-      "ad_delivery_stop_time": "2019-12-08T11:01:58+0000",
+      "ad_creative_body": "我的立法委員競選政見之系列〈一〉：成立離島委員會\n\n相較於原住民族委員會及客家委員會，直屬於行政院的二級單位，金門的離島服務中心就顯得差太多了，我的第一個政見就是聯合離島的三個立法委員， 要求成立金馬澎離島委員會， 預算、編制比照原住民族委員會，員額 229人，年度預算額台幣80.23億元（2018年）， 成立公共傳播基金及電視台， 照顧離島偏鄉居民，縮短城鄉差距， 促進離島人民生存發展，建立共存共榮之族群關係\n\n我的立法委員競選政見之系列〈二〉：修訂離島建設條例(離島基本法)，以下的每項條文修正，關係著金門未來百年基業的興衰盛世， 鄉親不可等閒視之\n\n比照原住民基本法，增加下列三條法條， 才可以徹底解決金門所有的土地問題\n\n第二十條(土地調查及處理委員會之設置)\n政府為辦理原住民族土地之調查及處理，應設置原住民族土地調查及處理委員會； \n徹底解決當初土地登記的未盡事宜\n\n第二十一條（政府或私人於原住民族土地或部落開發利用，應諮詢並取得其同意或參與）\n政府或私人於原住民族土地或部落及其周邊一定範圍內之公有土地從事土地開發、資源利用、生態保育及學術研究，應諮商並取得原住民族或部落同意或參與，原住民得分享相關利益。\n政府或法令限制原住民族利用前項土地及自然資源時，應與原住民族、部落或原住民諮商，並取得其同意；受限制所生之損失，應由該主管機關寬列預算補償之。\n\n第二十二條（原住民族地區資源共同管理機制之建立）\n政府於原住民族地區劃設國家公園、國家級風景特定區、林業區、生態保育區、遊樂區及其他資源治理機關時，應徵得當地原住民族同意，並與原住民族建立共同管理機制；\n\n另外要監督政府落實離島建設條例第10條、第16條、第15之1條 \n\n第10條：\n落實離島地區免徵關稅、營業稅之精神， 只要將免稅商品由正面表類改為負面表列，離島就會自動提升為自由貿易港經濟特區\n\n第16條：\n提升離島建設基金為新台幣五百億並足額編列\n\n第15-1條：\n實行產業補貼政策，離島對外交通除了客運補貼票價30%， 貨運應該比照辦理， 可以提升離島的產業競爭力， 創造就業機會\n\n法源依據：中華民國憲法增修條文第10條\n國家應依民族意願，保障原住民族之地位及政治參與，並對其教育文化、交通水利、衛生醫療、經濟土地及社會福利事業予以保障扶助並促其發展，其辦法另以法律定之。【對於澎湖、金門及馬祖地區人民亦同。】\n\n我的立法委員競選政見之系列〈三〉：爭取授權離島地方政府就海陸交通建設，民生用水用電，海洋垃圾及垃圾轉運，醫療和衛生方面等議題，直接跟陸方地方政府合作協商開發解決",
+      "ad_creation_time": "2019-12-13T13:32:33+0000",
+      "ad_delivery_start_time": "2019-12-13T13:32:34+0000",
+      "ad_delivery_stop_time": "2019-12-20T13:32:33+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000203",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000407",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000203",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.143845",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.089522",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.133672",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.148525",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.087691",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.057782",
+          "percentage": "0.056238",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.112513",
+          "percentage": "0.108911",
           "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.034385",
-          "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.090743",
-          "age": "35-44",
+          "percentage": "0.050693",
+          "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.041506",
+          "percentage": "0.078812",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.032146",
+          "percentage": "0.071683",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.14297",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.098614",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.035248",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.025636",
-          "age": "18-24",
+          "percentage": "0.098218",
+          "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.001221",
+          "percentage": "0.111287",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.072871",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.072475",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000396",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000396",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001188",
           "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "和成洪",
       "impressions": {
-        "lower_bound": "8000",
-        "upper_bound": "8999"
+        "lower_bound": "7000",
+        "upper_bound": "7999"
+      },
+      "page_id": "1460015614106063",
+      "page_name": "踏實.革新【洪和成】",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Kinmen"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1500",
+        "upper_bound": "1999"
+      },
+      "ad_id": "398693170850654"
+    }
+  },
+  {
+    "選區": "金門縣選舉區",
+    "參選人": "洪和成",
+    "AD_ID": "801489090288958",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-14",
+    "結束日期": "2019-12-19",
+    "廣告內容": "金門民風純樸，民習勤勞，民尚禮義，文風興盛，夙有『海濱鄒魯』之稱，遍布海內外各行各業的鄉親，始終遵行著以誠待人，以理服人的金門精神，立足於世界各地嶄露頭角  立委候選人  洪和成，祝福您！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80682227_2546060525501561_771159827513606144_n.jpg?_nc_cat=102&_nc_ohc=gHPsJC7QnSYAQlWX0GREUiaGAJIyWbv0KtD_r1tBSc0BlFhdUv40Q5-TA&_nc_ht=scontent-hkg3-1.xx&oh=11526de4a6c5ff2f58916330ef12aa81&oe=5E6DC192",
+    "廣告詳情": {
+      "ad_creative_body": "金門民風純樸，民習勤勞，民尚禮義，文風興盛，夙有『海濱鄒魯』之稱，遍布海內外各行各業的鄉親，始終遵行著以誠待人，以理服人的金門精神，立足於世界各地嶄露頭角 \n\n立委候選人  洪和成，祝福您！",
+      "ad_creation_time": "2019-12-15T01:29:44+0000",
+      "ad_delivery_start_time": "2019-12-15T01:29:50+0000",
+      "ad_delivery_stop_time": "2019-12-20T01:29:44+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000307",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000307",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.105594",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.043985",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.100536",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.142222",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.042759",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.094559",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.136398",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.110345",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.066054",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.043065",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000613",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.055019",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.058238",
+          "age": "45-54",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "和成洪",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "1460015614106063",
+      "page_name": "踏實.革新【洪和成】",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Kinmen"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2000",
+        "upper_bound": "2499"
+      },
+      "ad_id": "801489090288958"
+    }
+  },
+  {
+    "選區": "金門縣選舉區",
+    "參選人": "洪和成",
+    "AD_ID": "491155858422723",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-17",
+    "結束日期": "1970-01-01",
+    "廣告內容": "將下圖標示為1的區塊（風景區），大約12.8公頃，與標示為2的區塊（商二，住三），約5.5公頃，功能互換，區塊1按區段徵收比例45%， 區塊2按市地交換比例一比一， 適當的提高容積、建蔽率為誘因， 再將標示為3的浯江溪蓋掀起， 區塊2上面設為公園，下面闢為地下停車場， 如此可以讓公園接近生活區，達到充分利用的效果，又可以親水，大大提高南門、東門地區生活機能及居住品質，而且解決停車場不足及淹水的問題， 區塊1規劃為現代生活小區，設超市、賣場、電梯大樓​，提高生活品質，讓資源共享。 這是一個非常大的工程，關係著金門百年的基業，可以讓金城蛻變成一座現代化的繁華城市​， 不再是巷弄狹窄、市區破舊， 是我在選縣長時的政見​，如果我選上立委， 定當竭盡所能要求中央給予必要的協助， 我相信只要是溫和、理性、對人民有利具體可行的方案，應該可以爭取到民進黨的全力支持",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79637905_2552360918204855_3123925998681194496_n.jpg?_nc_cat=101&_nc_ohc=WOi_yytL6JoAQmKCesHuo0YeS-rztldyCPxU_CVy27L81tYyrau_dIRRg&_nc_ht=scontent-hkg3-1.xx&oh=c4979c98c9156e90aa638e8416c6989e&oe=5E6FB2CE",
+    "廣告詳情": {
+      "ad_creative_body": "將下圖標示為1的區塊（風景區），大約12.8公頃，與標示為2的區塊（商二，住三），約5.5公頃，功能互換，區塊1按區段徵收比例45%，\n區塊2按市地交換比例一比一，\n適當的提高容積、建蔽率為誘因，\n再將標示為3的浯江溪蓋掀起，\n\n區塊2上面設為公園，下面闢為地下停車場，\n如此可以讓公園接近生活區，達到充分利用的效果，又可以親水，大大提高南門、東門地區生活機能及居住品質，而且解決停車場不足及淹水的問題，\n\n區塊1規劃為現代生活小區，設超市、賣場、電梯大樓​，提高生活品質，讓資源共享。\n\n這是一個非常大的工程，關係著金門百年的基業，可以讓金城蛻變成一座現代化的繁華城市​，\n不再是巷弄狹窄、市區破舊，\n是我在選縣長時的政見​，如果我選上立委，\n定當竭盡所能要求中央給予必要的協助，\n我相信只要是溫和、理性、對人民有利具體可行的方案，應該可以爭取到民進黨的全力支持",
+      "ad_creation_time": "2019-12-18T00:51:34+0000",
+      "ad_delivery_start_time": "2019-12-18T00:51:39+0000",
+      "ad_delivery_stop_time": "2019-12-23T00:51:34+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.134873",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.147041",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.031965",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.183543",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.198598",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.043308",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.10167",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.037946",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.046401",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.03444",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.029491",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.008455",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000206",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000619",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000412",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001031",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "和成洪",
+      "impressions": {
+        "lower_bound": "7000",
+        "upper_bound": "7999"
       },
       "page_id": "1460015614106063",
       "page_name": "踏實.革新【洪和成】",
@@ -227,7 +574,232 @@
       "spend": {
         "lower_bound": "700",
         "upper_bound": "799"
-      }
+      },
+      "ad_id": "491155858422723"
+    }
+  },
+  {
+    "選區": "金門縣選舉區",
+    "參選人": "洪和成",
+    "AD_ID": "2751363941594414",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-20",
+    "結束日期": "1970-01-01",
+    "廣告內容": "邀請您支持「老人照顧服務計畫」，一起與老同行，陪伴多一點，愛他多一點， 守護長輩請多一點點。 立委候選人 ⑧洪和成，關心你！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80935193_1526914287472537_4390882651683160064_n.jpg?_nc_cat=102&_nc_ohc=mJfzg_7sTgQAQn7EqGfuSxffqwDxnZlZOMd2K_fXjIR6oSYDVYFIqzhbA&_nc_ht=scontent-hkg3-1.xx&oh=2af5dd91ab7c71f5d4ef9f6124534e83&oe=5E7BFED3",
+    "廣告詳情": {
+      "ad_creative_body": "邀請您支持「老人照顧服務計畫」，一起與老同行，陪伴多一點，愛他多一點， 守護長輩請多一點點。\n立委候選人 ⑧洪和成，關心你！",
+      "ad_creation_time": "2019-12-20T10:37:32+0000",
+      "ad_delivery_start_time": "2019-12-20T10:37:34+0000",
+      "ad_delivery_stop_time": "2019-12-27T10:37:32+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000444",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.025322",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.026211",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.071524",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.217681",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.0502",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.145269",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.092403",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.130609",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.07108",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.110173",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.022212",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.035984",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000444",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000444",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "和成洪",
+      "impressions": {
+        "lower_bound": "2000",
+        "upper_bound": "2999"
+      },
+      "page_id": "1460015614106063",
+      "page_name": "踏實.革新【洪和成】",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Kinmen"
+        }
+      ],
+      "spend": {
+        "lower_bound": "200",
+        "upper_bound": "299"
+      },
+      "ad_id": "2751363941594414"
+    }
+  },
+  {
+    "選區": "金門縣選舉區",
+    "參選人": "洪和成",
+    "AD_ID": "2543675682571104",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-21",
+    "結束日期": "1970-01-01",
+    "廣告內容": "金門縣長就職一周年舉辦公益日送愛心 ​金門縣長楊鎮浯就職1周年，打破辦桌吃吃喝喝的傳統，改為舉辦「金門公益日」關懷弱勢族群義賣活動，3000餘位穿梭來去的民眾在縣定古蹟「清總兵署」廣場，採購優質農特產品和衣飾、陶瓷作品，攜手用愛心和開心在寒冬中送出一股暖流 ​縣長楊鎮浯還大方地在立法委員候選人洪和成先生競選衣服上題字，以表示力挺支持鼓勵",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80077313_2559745577466389_3680646703335079936_n.jpg?_nc_cat=103&_nc_ohc=7GT6mgQdfVsAQmZ-1w3vTRGOVEBgcxxqinW3DRrqzjR-Al3fyyfxbzqWg&_nc_ht=scontent-hkg3-1.xx&oh=d1c7a43c64b48992006e580bc05775b1&oe=5E683E9B",
+    "廣告詳情": {
+      "ad_creative_body": "金門縣長就職一周年舉辦公益日送愛心\n\n​金門縣長楊鎮浯就職1周年，打破辦桌吃吃喝喝的傳統，改為舉辦「金門公益日」關懷弱勢族群義賣活動，3000餘位穿梭來去的民眾在縣定古蹟「清總兵署」廣場，採購優質農特產品和衣飾、陶瓷作品，攜手用愛心和開心在寒冬中送出一股暖流\n\n​縣長楊鎮浯還大方地在立法委員候選人洪和成先生競選衣服上題字，以表示力挺支持鼓勵",
+      "ad_creation_time": "2019-12-21T17:54:35+0000",
+      "ad_delivery_start_time": "2019-12-21T17:54:35+0000",
+      "ad_delivery_stop_time": "2019-12-25T12:52:28+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.023256",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.224806",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.079457",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.133721",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.074612",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.093992",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.046512",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.05814",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.035853",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.180233",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.032946",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.013566",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000969",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000969",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000969",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "和成洪",
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "1999"
+      },
+      "page_id": "1460015614106063",
+      "page_name": "踏實.革新【洪和成】",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Kinmen"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "2543675682571104"
     }
   }
 ]

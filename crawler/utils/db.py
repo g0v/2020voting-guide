@@ -15,19 +15,19 @@ class BaseModel(Model):
         database = mysql_db
 
 
-class Candidate(BaseModel):
-    name = CharField(index=True)
-    party = CharField(null=True)
-    constituency = CharField()
-    wiki = CharField(null=True)
-    picUrl = CharField(null=True)
-    wikidataPicUrl = TextField(null=True)
-    currentLegislator = BooleanField(default=False)
-    historyLegislator = BooleanField(default=False)
-    lastTerm = CharField(null=True)
-    dateOfBirth = CharField(null=True)
-    wikidataDateOfBirth = CharField(null=True)
-    age = SmallIntegerField(null=True)
+# class Candidate(BaseModel):
+#     name = CharField(index=True)
+#     party = CharField(null=True)
+#     constituency = CharField()
+#     wiki = CharField(null=True)
+#     picUrl = CharField(null=True)
+#     wikidataPicUrl = TextField(null=True)
+#     currentLegislator = BooleanField(default=False)
+#     historyLegislator = BooleanField(default=False)
+#     lastTerm = CharField(null=True)
+#     dateOfBirth = CharField(null=True)
+#     wikidataDateOfBirth = CharField(null=True)
+#     age = SmallIntegerField(null=True)
 
 
 class ManualCandidate(BaseModel):
@@ -43,9 +43,9 @@ class ManualCandidate(BaseModel):
     fbPage = TextField(null=True)
     fbPersonalPage = TextField(null=True)
     education = CharField(null=True)
-    educationConn = CharField(null=True)
+    educationConn = TextField(null=True)
     experience = TextField(null=True)
-    experienceConn = CharField(null=True)
+    experienceConn = TextField(null=True)
     politics = TextField(null=True)
     politicsConn = TextField(null=True)
     other = TextField(null=True)
