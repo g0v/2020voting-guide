@@ -73,10 +73,25 @@ body.body-page-candidate-compare{
         top: -16px;
         right: -16px;
       }
+      .candidate-compare-header-current{
+        display: inline-flex;
+        align-items: center;
+        &:before{
+          content: '';
+          display: inline-block;
+          width: 15px;
+          height: 15px;
+          margin-right: 4px;
+          background-color:#42B72A;
+          border-radius: 50%;
+        }
+      }
       &--fixed{
         border-bottom: 1px solid rgba(0, 0, 0, 0.1);
         background-color:white;
         padding: 10px 0;
+        display: flex;
+        align-items: center;
         .candidate-compare-header-close-btn{
           top: 50%;
           right: 0;

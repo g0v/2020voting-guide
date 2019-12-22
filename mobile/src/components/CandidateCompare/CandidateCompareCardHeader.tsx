@@ -66,6 +66,17 @@ const CandidateCompareCardHeader = ({
                 <Typography variant="h5" color="textSecondary">
                     {ageDisplay}
                 </Typography>
+                {responseData.currentLegislator && (
+                    <Typography
+                        variant="h5"
+                        color="textSecondary"
+                        className="ml-auto"
+                    >
+                        <span className="candidate-compare-header-current">
+                            現任
+                        </span>
+                    </Typography>
+                )}
             </div>
             {party && (
                 <div className="d-inline-block">

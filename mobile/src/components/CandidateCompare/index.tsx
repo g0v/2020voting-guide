@@ -9,6 +9,7 @@ import CandidateCompareCardFBAd from './CandidateCompareCardFBAd';
 import CandidateCompareCardIssueBill from './CandidateCompareCardIssueBill';
 import CandidateCompareCardEducation from './CandidateCompareCardEducation';
 import CandidateCompareCardPolitical from './CandidateCompareCardPolitical';
+import CandidateCompareCardHeaderFixed from './CandidateCompareCardHeaderFixed';
 import DeleteButton from './DeleteButton';
 import clsx from 'clsx';
 import './CandidateCompare.scss';
@@ -24,81 +25,6 @@ interface Route {
     };
 }
 
-interface CandidateCompareFixHeaderProps {
-    candidateNames: string[];
-    currentCandidateCount: number;
-    onDelete: (name: string) => void;
-}
-
-const CandidateCompareFixHeader = ({
-    currentCandidateCount,
-    candidateNames,
-    onDelete
-}: CandidateCompareFixHeaderProps) => {
-    const [visible, setVisible] = React.useState<boolean>(false);
-    React.useEffect(() => {
-        const scrollHandler = () => {
-            setVisible(() => {
-                if (window.pageYOffset > 182) {
-                    return true;
-                }
-                return false;
-            });
-        };
-
-        window.addEventListener('scroll', scrollHandler);
-        return () => {
-            window.removeEventListener('scroll', scrollHandler);
-        };
-    }, []);
-    return (
-        <div
-            className={clsx('canidate-compare-fixed-container', {
-                'is-show': visible
-            })}
-        >
-            <div className="swiper-container swiper-container-free-mode">
-                <div className="swiper-wrapper" id="swiper-wrapper-fixed">
-                    <div className="candidate-compare-row">
-                        {candidateNames.map((name: string) => {
-                            return (
-                                <div
-                                    className="candidate-compare-card py-0"
-                                    key={name}
-                                >
-                                    <div className="candidate-compare-header candidate-compare-header--fixed">
-                                        <Typography
-                                            variant="h3"
-                                            color="textSecondary"
-                                        >
-                                            {name}
-                                        </Typography>
-                                        <IconButton
-                                            className={clsx(
-                                                'candidate-compare-header-close-btn',
-                                                {
-                                                    'd-none':
-                                                        currentCandidateCount <=
-                                                        2
-                                                }
-                                            )}
-                                        >
-                                            <DeleteButton
-                                                name={name}
-                                                onDelete={onDelete}
-                                            />
-                                        </IconButton>
-                                    </div>
-                                </div>
-                            );
-                        })}
-                    </div>
-                </div>
-            </div>
-        </div>
-    );
-};
-
 /**
  * 不分區候選人比較
  */
@@ -107,6 +33,7 @@ const CandidateCompare = ({ match }: Route) => {
     const [candidateNames, setCandidateNames] = React.useState<string[]>(
         names.split(',')
     );
+    const [visible, setVisible] = React.useState<boolean>(false);
     const swiperContainer = React.useRef<HTMLDivElement>(null);
     const swiperRef = React.useRef<any>(null);
     React.useEffect(() => {
@@ -152,10 +79,21 @@ const CandidateCompare = ({ match }: Route) => {
         };
 
         window.TweenMax.ticker.addEventListener('tick', tickHandler);
+        const scrollHandler = () => {
+            setVisible(() => {
+                if (window.pageYOffset > 182) {
+                    return true;
+                }
+                return false;
+            });
+        };
+
+        window.addEventListener('scroll', scrollHandler);
         return () => {
             document.body.classList.remove('body-page-candidate-compare');
             swiper.destroy();
             window.TweenMax.ticker.removeEventListener('tick', tickHandler);
+            window.removeEventListener('scroll', scrollHandler);
         };
     }, []);
 
@@ -196,12 +134,31 @@ const CandidateCompare = ({ match }: Route) => {
                     </Box>
                 </Box>
             </Box>
-            <CandidateCompareFixHeader
-                currentCandidateCount={candidateNames.length}
-                onDelete={onCandidateDelete}
-                candidateNames={candidateNames}
-            />
-
+            <div
+                className={clsx('canidate-compare-fixed-container', {
+                    'is-show': visible
+                })}
+            >
+                <div className="swiper-container swiper-container-free-mode">
+                    <div className="swiper-wrapper" id="swiper-wrapper-fixed">
+                        <div className="candidate-compare-row">
+                            {candidateNames.map((name: string) => {
+                                return (
+                                    <CandidateCompareCardHeaderFixed
+                                        key={name}
+                                        currentCandidateCount={
+                                            candidateNames.length
+                                        }
+                                        constituency={constituency}
+                                        onDelete={onCandidateDelete}
+                                        name={name}
+                                    />
+                                );
+                            })}
+                        </div>
+                    </div>
+                </div>
+            </div>
             <div className="swiper-container" ref={swiperContainer}>
                 <div className="swiper-wrapper" id="swiper-wrapper">
                     <div className="swiper-scrollbar"></div>
