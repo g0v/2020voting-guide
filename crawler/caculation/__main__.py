@@ -1,9 +1,10 @@
 import csv
+import json
 import re
 
 from peewee import fn
 
-from db import Bill, Candidate, Legislator, ProposerCosignatory, Sitting, Vernacular, ManualCandidate, mysql_db
+from db import Bill, Candidate, Legislator, ManualCandidate, ProposerCosignatory, Sitting, Vernacular, mysql_db
 from util import roc_to_common_era
 
 
@@ -115,17 +116,19 @@ def update_vernacular():
 
 def store_all_candidates():
     query = ManualCandidate.select()
-    for candidate in query:
-        print(
-            {
-                "constituency": candidate.constituency,
-                "name": candidate.name,
-                "party": candidate.party,
-                "photo": candidate.photo,
-                "experience": candidate.experience,
-                "currentLegislator": candidate.currentLegislator,
-            }
-        )
+    candidates = [
+        {
+            "constituency": candidate.constituency,
+            "name": candidate.name,
+            "party": candidate.party,
+            "photo": candidate.photo,
+            "experience": candidate.experience,
+            "currentLegislator": candidate.currentLegislator,
+        }
+        for candidate in query
+    ]
+    with open("../data/static/regional_candidates.json", "w") as fp:
+        json.dump(candidates, fp, ensure_ascii=False, indent=2)
 
 
 if __name__ == "__main__":
