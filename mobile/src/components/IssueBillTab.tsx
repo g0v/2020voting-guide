@@ -45,7 +45,8 @@ const useStyles = makeStyles((theme: Theme) =>
             width: '100%',
             display: 'inline-block',
             height: 35,
-            lineHeight: '35px'
+            lineHeight: '35px',
+            fontFamily: "Noto Sans TC"
         },
         activeTab: {
             background: '#3199ba57',
@@ -70,7 +71,6 @@ const IssueList: FunctionComponent<{
 }) => {
     return (
         <React.Fragment>
-            {children}
             <Element
                 id="containerElement"
                 className="element"
@@ -81,6 +81,7 @@ const IssueList: FunctionComponent<{
                     overflow: 'scroll'
                 }}
             >
+                {children}
                 {filteredIssue
                     .map(issue => ({
                         issue: issue,
