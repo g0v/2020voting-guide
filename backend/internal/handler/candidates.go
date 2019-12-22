@@ -42,13 +42,29 @@ func GetCandidateByNameHandler(c *gin.Context) {
 	var manualCandidateDb db.ManualCandidate
 	db.MySQL.Where("name = ? AND constituency = ?", name, constituency).First(&manualCandidateDb)
 	candidate.Photo = manualCandidateDb.Photo
-	candidate.Education = manualCandidateDb.Education
-	candidate.Experience = manualCandidateDb.Experience
-	candidate.Politic = manualCandidateDb.Politics
 	candidate.CurrentLegislator = manualCandidateDb.CurrentLegislator
 	candidate.Age = manualCandidateDb.Age
 	candidate.Party = manualCandidateDb.Party
 	candidate.Constituency = manualCandidateDb.Constituency
+
+	if manualCandidateDb.EducationConnection != "" {
+		candidate.Education = manualCandidateDb.Education
+		candidate.EducationConnection = manualCandidateDb.EducationConnection
+	}
+	if manualCandidateDb.ExperienceConnection != "" {
+		candidate.Experience = manualCandidateDb.Experience
+		candidate.ExperienceConnection = manualCandidateDb.ExperienceConnection
+	}
+	if manualCandidateDb.PoliticsConnection != "" {
+		candidate.Politic = manualCandidateDb.Politics
+		candidate.PoliticsConnection = manualCandidateDb.PoliticsConnection
+	}
+	if candidate.EducationConnection == "立法院OpenData" {
+		candidate.EducationConnection = "https://data.ly.gov.tw/"
+	}
+	if candidate.ExperienceConnection == "立法院OpenData" {
+		candidate.ExperienceConnection = "https://data.ly.gov.tw/"
+	}
 
 	c.JSON(http.StatusOK, candidate)
 }

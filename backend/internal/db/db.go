@@ -107,9 +107,9 @@ type ManualCandidate struct {
 	Education            string
 	Experience           string
 	Politics             string
-	EducationConnection  bool `gorm:"column:educationConnection"`
-	ExperienceConnection bool `gorm:"column:experienceConnection"`
-	PoliticsConnection   bool `gorm:"column:politicsConnection"`
+	EducationConnection  string `gorm:"column:educationConn"`
+	ExperienceConnection string `gorm:"column:experienceConn"`
+	PoliticsConnection   string `gorm:"column:politicsConn"`
 }
 
 func (ManualCandidate) TableName() string {
