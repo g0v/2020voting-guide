@@ -3,7 +3,7 @@ import re
 
 from peewee import fn
 
-from db import Bill, Candidate, Legislator, ProposerCosignatory, Sitting, Vernacular, mysql_db
+from db import Bill, Candidate, Legislator, ProposerCosignatory, Sitting, Vernacular, ManualCandidate, mysql_db
 from util import roc_to_common_era
 
 
@@ -113,11 +113,28 @@ def update_vernacular():
         Bill.update(vernacular=vernacular).where(Bill.billNo == billNo).execute()
 
 
+def store_all_candidates():
+    query = ManualCandidate.select()
+    for candidate in query:
+        print(
+            {
+                "constituency": candidate.constituency,
+                "name": candidate.name,
+                "party": candidate.party,
+                "photo": candidate.photo,
+                "experience": candidate.experience,
+                "currentLegislator": candidate.currentLegislator,
+            }
+        )
+
+
 if __name__ == "__main__":
     # tag_current_candidate()
     # tag_history_candidate()
     # update_last_term()
     # update_photo()
     # update_sitting_rate()
+
     # store_bill_proposer_cosignatory()
-    update_vernacular()
+    # update_vernacular()
+    store_all_candidates()
