@@ -26,10 +26,10 @@ export default function CandidateCompareCardEducation({
                     政見
                 </Typography>
                 <Typography variant="h5" color="textSecondary">
-                    {responseData.politics || '選前大補帖目前沒有政見歷資料'}
+                    {responseData.politic || '選前大補帖目前沒有政見歷資料'}
                 </Typography>
                 <div className="mt-auto">
-                    {responseData.politics && (
+                    {responseData.politic && (
                         <a
                             className="btn btn-rounded"
                             href={`/candidate/${constituency}/${name}?tab=3`}

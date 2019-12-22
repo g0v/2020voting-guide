@@ -22,7 +22,7 @@ export interface CandidateType {
     lasttermyear: string;
     education: string;
     experience: string;
-    politics: string;
+    politic: string;
     sittingRate: number;
     interpellationRate: number;
     interpellationnum: string;
