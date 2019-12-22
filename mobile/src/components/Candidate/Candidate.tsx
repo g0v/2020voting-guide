@@ -9,6 +9,7 @@ import Nav from './Nav';
 import NoInfoTab from './NoInfoTab';
 import PassPerformanceTab from './PassPerformanceTab';
 import StrengthTab from './StrengthTab';
+import BasicInfoTab from './BasicInfoTab';
 
 const CandidateDefault = {
     name: '',
@@ -20,6 +21,9 @@ const CandidateDefault = {
     education: '',
     experience: '',
     politic: '',
+    educationConnection: '',
+    experienceConnection: '',
+    politicsConnection: '',
     sittingRate: 0,
     interpellationRate: 0,
     interpellationnum: '',
@@ -140,11 +144,11 @@ const CandidatePage = ({ match }: CandidatePage) => {
                 ) : (
                     <NoInfoTab name={candidate.name} from="passPerformance" />
                 )
+            ) : candidate.education ||
+              candidate.experience ||
+              candidate.politic ? (
+                <BasicInfoTab {...candidate} padding={desktopPadding} />
             ) : (
-                // ) : candidate.education ||
-                //   candidate.experience ||
-                //   candidate.politic ? (
-                //     <BasicInfoTab {...candidate} />
                 <NoInfoTab name={candidate.name} from="basicInfo" />
             )}
         </>

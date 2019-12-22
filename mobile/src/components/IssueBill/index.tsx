@@ -1,8 +1,9 @@
-import { Box, Typography } from '@material-ui/core';
+import { Box } from '@material-ui/core';
 import React from 'react';
 import CaucusBill from './CaucusBillCard';
 import './IssueBill.scss';
 import PersonalBill from './PersonalBillCard';
+import Issue from '../Issue';
 export interface Bill {
     name: string;
     description: string;
@@ -25,19 +26,6 @@ interface IssueBillProps {
     issue: string;
     bills: Bill[];
 }
-
-const Issue = ({ name }: { name: string }) => (
-    <Box display="flex" alignItems="center">
-        <Box
-            width="8px"
-            height="24px"
-            mr={1}
-            borderRadius="4px"
-            bgcolor="primary.main"
-        />
-        <Typography variant="h2">{name}</Typography>
-    </Box>
-);
 
 const IssueBill = ({ issue, bills }: IssueBillProps) => {
     const legislatorBill = bills.filter(

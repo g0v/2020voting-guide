@@ -1,64 +1,139 @@
-import { Box, Typography } from '@material-ui/core';
+import { Box, Typography, Link } from '@material-ui/core';
 import React from 'react';
-import ads from '../../data/ad_static.json';
-import Card from '../Card';
+import Issue from '../Issue';
+import Alert from '../Alert';
 
-const candidateFBDefault = {
-    name: '',
-    fbPage: ''
-};
+const EduExp = ({
+    education,
+    experience,
+    educationConnection,
+    experienceConnection
+}: {
+    experience: string;
+    education: string;
+    educationConnection: string;
+    experienceConnection: string;
+}) => (
+    <>
+        <Box>
+            <Box px={1.5} pt={2}>
+                <Issue name="學歷 / 經歷" />
+            </Box>
+            <Alert>
+                {education && (
+                    <Typography variant="h5">
+                        學歷資料來自選前大補帖所搜集的{' '}
+                        <Link
+                            href={educationConnection}
+                            target="_blank"
+                            rel="noopener"
+                        >
+                            <u>網路公開資料</u>
+                        </Link>
+                    </Typography>
+                )}
+                {experience && (
+                    <Typography variant="h5">
+                        經歷資料來自選前大補帖所搜集的{' '}
+                        <Link
+                            href={experienceConnection}
+                            target="_blank"
+                            rel="noopener"
+                        >
+                            <u>網路公開資料</u>
+                        </Link>
+                    </Typography>
+                )}
+            </Alert>
+        </Box>
+        <Box px={1.5} bgcolor="#FFFFFF" py={3}>
+            {education && (
+                <>
+                    <Typography variant="h2">學歷</Typography>
+                    {education.split('\n').map(exp => (
+                        <Typography variant="h4" color="textSecondary">
+                            {exp}
+                        </Typography>
+                    ))}
+                </>
+            )}
+            <Box height={24} />
+            {experience && (
+                <>
+                    <Typography variant="h2">經歷</Typography>
+                    {experience.split('\n').map(exp => (
+                        <Typography variant="h4" color="textSecondary">
+                            {exp}
+                        </Typography>
+                    ))}
+                </>
+            )}
+        </Box>
+    </>
+);
+
+const Politic = ({
+    politic,
+    politicsConnection
+}: {
+    politic: string;
+    politicsConnection: string;
+}) => (
+    <>
+        <Box px={1.5} pt={2}>
+            <Issue name="政見" />
+        </Box>
+        <Box textAlign="center" pb={9}>
+            <img
+                width="150"
+                height="150"
+                src="/img/doll/no_politic.svg"
+                alt="沒有政見"
+            />
+            <Box py={1}>
+                <Typography variant="h4">政見還沒公告，再等一下！</Typography>
+            </Box>
+            <Typography variant="h5" color="textSecondary" gutterBottom>
+                目前沒有本次政見資訊
+            </Typography>
+            <Typography variant="h5" color="textSecondary">
+                透過其他方法去認識他
+            </Typography>
+        </Box>
+    </>
+);
 
 const BasicInfoTab = ({
-    name,
-    constituency,
-    padding
+    padding,
+    education,
+    experience,
+    politic,
+    educationConnection,
+    experienceConnection,
+    politicsConnection
 }: {
-    name: string;
-    constituency: string;
+    experience: string;
+    education: string;
+    politic: string;
+    educationConnection: string;
+    experienceConnection: string;
+    politicsConnection: string;
     padding?: object;
 }) => {
-    const width = window.screen.width > 425 ? 425 : window.screen.width;
-
-    const candidateAds = ads.filter(
-        ad => ad.constituency === constituency && ad.name === name
-    );
-    console.log(candidateAds);
-
-    const [candidateFB, setCandidateFB] = React.useState(candidateFBDefault);
-    React.useEffect(() => {
-        fetch(`/api/fb/${constituency}/${name}`)
-            .then(res => res.json())
-            .then(setCandidateFB);
-    }, [name]);
-
-    const [ad, setAd] = React.useState([]);
-    React.useEffect(() => {
-        fetch(`/api/ad/${constituency}/${name}`)
-            .then(res => res.json())
-            .then(setCandidateFB);
-    }, [name]);
-
     return (
-        <Box bgcolor="#F7F7F7" p={1} style={padding}>
-            <Box textAlign="center">
-                <iframe
-                    src={
-                        'https://www.facebook.com/plugins/page.php?' +
-                        `href=${candidateFB.fbPage}` +
-                        `&width=${width}&adapt_container_width=true` +
-                        '&show_facepile=false&hide_cta=true'
-                    }
-                    width={width}
-                    scrolling="no"
-                    frameBorder="0"
-                    allow="encrypted-media"
+        <Box bgcolor="#F7F7F7" style={padding}>
+            {(education || experience) && (
+                <EduExp
+                    education={education}
+                    experience={experience}
+                    educationConnection={educationConnection}
+                    experienceConnection={experienceConnection}
                 />
-            </Box>
-            {candidateAds.map(ad => (
-                <Card>
-                    <Typography variant="h5">{ad.content.split(' ').map(line=> (<>{line}<br /></>))}</Typography>
-                </Card>
-            ))}
+            )}
+            <Politic
+                politic={politic}
+                politicsConnection={politicsConnection}
+            />
         </Box>
     );
 };
