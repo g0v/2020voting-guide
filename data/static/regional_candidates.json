@@ -1,5 +1,6 @@
 [
   {
+    "county": "臺北市",
     "constituency": "臺北市第一選舉區",
     "name": "方儉",
     "party": "綠黨",
@@ -8,6 +9,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第一選舉區",
     "name": "孫士堅",
     "party": "合一行動聯盟",
@@ -16,6 +18,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第一選舉區",
     "name": "汪志冰",
     "party": "中國國民黨",
@@ -24,6 +27,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第一選舉區",
     "name": "吳思瑤",
     "party": "民主進步黨",
@@ -32,6 +36,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第一選舉區",
     "name": "王郁揚",
     "party": "無黨籍",
@@ -40,6 +45,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第一選舉區",
     "name": "李婉鈺",
     "party": "一邊一國行動黨",
@@ -48,6 +54,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第一選舉區",
     "name": "賴宗育",
     "party": "人民民主黨",
@@ -56,6 +63,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第二選舉區",
     "name": "巫超勝",
     "party": "宗教聯盟",
@@ -64,6 +72,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第二選舉區",
     "name": "孫大千",
     "party": "中國國民黨",
@@ -72,6 +81,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第二選舉區",
     "name": "何志偉",
     "party": "民主進步黨",
@@ -80,6 +90,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第二選舉區",
     "name": "陳民乾",
     "party": "一邊一國行動黨",
@@ -88,6 +99,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第二選舉區",
     "name": "郭啟源",
     "party": "中華統一促進黨",
@@ -96,6 +108,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第二選舉區",
     "name": "熊嘉玲",
     "party": "合一行動聯盟",
@@ -104,6 +117,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第三選舉區",
     "name": "吳怡農",
     "party": "民主進步黨",
@@ -112,6 +126,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第三選舉區",
     "name": "何景榮",
     "party": "台灣民眾黨",
@@ -120,6 +135,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第三選舉區",
     "name": "田方宇",
     "party": "安定力量",
@@ -128,6 +144,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第三選舉區",
     "name": "蔣萬安",
     "party": "中國國民黨",
@@ -136,6 +153,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第四選舉區",
     "name": "李彥秀",
     "party": "中國國民黨",
@@ -144,6 +162,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第四選舉區",
     "name": "文祥志",
     "party": "宗教聯盟",
@@ -152,6 +171,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第四選舉區",
     "name": "郭正典",
     "party": "一邊一國行動黨",
@@ -160,6 +180,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第四選舉區",
     "name": "錢一凡",
     "party": "安定力量",
@@ -168,6 +189,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第四選舉區",
     "name": "高嘉瑜",
     "party": "民主進步黨",
@@ -176,6 +198,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第四選舉區",
     "name": "蕭蒼澤",
     "party": "喜樂島聯盟",
@@ -184,6 +207,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第四選舉區",
     "name": "郭佩雯",
     "party": "綠黨",
@@ -192,6 +216,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第五選舉區",
     "name": "林昶佐",
     "party": "無黨籍",
@@ -200,6 +225,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第五選舉區",
     "name": "邱一峰",
     "party": "一邊一國行動黨",
@@ -208,6 +234,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第五選舉區",
     "name": "林郁方",
     "party": "中國國民黨",
@@ -216,6 +243,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第五選舉區",
     "name": "徐立信",
     "party": "無黨籍",
@@ -224,6 +252,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第五選舉區",
     "name": "周慶峻",
     "party": "中華愛國同心黨",
@@ -232,6 +261,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第五選舉區",
     "name": "楊烱煌",
     "party": "聾國黨",
@@ -240,6 +270,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第五選舉區",
     "name": "黃義豐",
     "party": "無黨籍",
@@ -248,6 +279,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第五選舉區",
     "name": "盧憲孚",
     "party": "無黨籍",
@@ -256,6 +288,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第六選舉區",
     "name": "羅世晧",
     "party": "勞動黨",
@@ -264,6 +297,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第六選舉區",
     "name": "葉日勤",
     "party": "台灣基進",
@@ -272,6 +306,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第六選舉區",
     "name": "林奕華",
     "party": "中國國民黨",
@@ -280,6 +315,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第六選舉區",
     "name": "謝佩芬",
     "party": "民主進步黨",
@@ -288,6 +324,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第六選舉區",
     "name": "孟藹倫",
     "party": "中華婦女黨",
@@ -296,6 +333,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第六選舉區",
     "name": "張余健",
     "party": "喜樂島聯盟",
@@ -304,6 +342,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第六選舉區",
     "name": "沈宜璇",
     "party": "台灣維新",
@@ -312,6 +351,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第六選舉區",
     "name": "蕭瑞麟",
     "party": "無黨籍",
@@ -320,6 +360,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第六選舉區",
     "name": "黃典本",
     "party": "無黨籍",
@@ -328,6 +369,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第六選舉區",
     "name": "楊攸凱",
     "party": "無黨籍",
@@ -336,6 +378,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第七選舉區",
     "name": "王映心",
     "party": "台灣基進",
@@ -344,6 +387,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第七選舉區",
     "name": "費鴻泰",
     "party": "中國國民黨",
@@ -352,6 +396,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第七選舉區",
     "name": "許淑華",
     "party": "民主進步黨",
@@ -360,6 +405,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第七選舉區",
     "name": "蔡宜芳",
     "party": "台灣民眾黨",
@@ -368,6 +414,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第七選舉區",
     "name": "蘇伊文",
     "party": "言論自由聯盟",
@@ -376,6 +423,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第八選舉區",
     "name": "顏銘緯",
     "party": "台灣基進",
@@ -384,6 +432,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第八選舉區",
     "name": "彭子軒",
     "party": "無黨籍",
@@ -392,6 +441,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第八選舉區",
     "name": "賴士葆",
     "party": "中國國民黨",
@@ -400,6 +450,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第八選舉區",
     "name": "張幸松",
     "party": "台灣民眾黨",
@@ -408,6 +459,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第八選舉區",
     "name": "阮昭雄",
     "party": "民主進步黨",
@@ -416,6 +468,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第八選舉區",
     "name": "蕭曉玲",
     "party": "喜樂島聯盟",
@@ -424,6 +477,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第八選舉區",
     "name": "華珮君",
     "party": "台灣動物保護黨",
@@ -432,6 +486,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第八選舉區",
     "name": "李文",
     "party": "無黨籍",
@@ -440,6 +495,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺北市",
     "constituency": "臺北市第八選舉區",
     "name": "柯士翎",
     "party": "綠黨",
@@ -448,6 +504,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第一選舉區",
     "name": "呂孫綾",
     "party": "民主進步黨",
@@ -456,6 +513,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第一選舉區",
     "name": "歐崇敬",
     "party": "無黨籍",
@@ -464,6 +522,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第一選舉區",
     "name": "張立蔭",
     "party": "無黨籍",
@@ -472,6 +531,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第一選舉區",
     "name": "洪孟楷",
     "party": "中國國民黨",
@@ -480,6 +540,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第一選舉區",
     "name": "陳昭宏",
     "party": "無黨籍",
@@ -488,6 +549,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第一選舉區",
     "name": "張衞航",
     "party": "時代力量",
@@ -496,6 +558,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第一選舉區",
     "name": "陳榮太",
     "party": "台灣整復師聯盟工黨",
@@ -504,6 +567,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第一選舉區",
     "name": "余長欣",
     "party": "綠黨",
@@ -512,6 +576,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第二選舉區",
     "name": "龍大智",
     "party": "合一行動聯盟",
@@ -520,6 +585,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第二選舉區",
     "name": "林淑芬",
     "party": "民主進步黨",
@@ -528,6 +594,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第二選舉區",
     "name": "黃桂蘭",
     "party": "中國國民黨",
@@ -536,6 +603,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第三選舉區",
     "name": "蘇卿彥",
     "party": "無黨籍",
@@ -544,6 +612,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第三選舉區",
     "name": "李旻蔚",
     "party": "台灣民眾黨",
@@ -552,6 +621,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第三選舉區",
     "name": "余天",
     "party": "民主進步黨",
@@ -560,6 +630,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第三選舉區",
     "name": "羅和讚",
     "party": "無黨籍",
@@ -568,6 +639,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第三選舉區",
     "name": "李翁月娥",
     "party": "無黨籍",
@@ -576,6 +648,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第三選舉區",
     "name": "李崇威",
     "party": "無黨籍",
@@ -584,6 +657,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第三選舉區",
     "name": "林宜瑄",
     "party": "綠黨",
@@ -592,6 +666,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第四選舉區",
     "name": "吳秉叡",
     "party": "民主進步黨",
@@ -600,6 +675,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第四選舉區",
     "name": "王斯儀",
     "party": "國會政黨聯盟",
@@ -608,6 +684,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第四選舉區",
     "name": "黃博仁",
     "party": "勞動黨",
@@ -616,6 +693,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第四選舉區",
     "name": "陳明義",
     "party": "中國國民黨",
@@ -624,6 +702,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第四選舉區",
     "name": "林麗容",
     "party": "正黨",
@@ -632,6 +711,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第四選舉區",
     "name": "陳俊憲",
     "party": "安定力量",
@@ -640,6 +720,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第四選舉區",
     "name": "張哲偉",
     "party": "綠黨",
@@ -648,6 +729,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第四選舉區",
     "name": "朱約翰",
     "party": "無黨籍",
@@ -656,6 +738,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第五選舉區",
     "name": "蘇巧慧",
     "party": "民主進步黨",
@@ -664,6 +747,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第五選舉區",
     "name": "徐金菊",
     "party": "中華照生黨",
@@ -672,6 +756,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第五選舉區",
     "name": "黃志雄",
     "party": "中國國民黨",
@@ -680,6 +765,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第六選舉區",
     "name": "張宏陸",
     "party": "民主進步黨",
@@ -688,6 +774,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第六選舉區",
     "name": "林國春",
     "party": "中國國民黨",
@@ -696,6 +783,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第六選舉區",
     "name": "石人仁",
     "party": "親民黨",
@@ -704,6 +792,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第六選舉區",
     "name": "陳玉鳳",
     "party": "中國和平統一黨",
@@ -712,6 +801,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第七選舉區",
     "name": "羅致政",
     "party": "民主進步黨",
@@ -720,6 +810,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第七選舉區",
     "name": "柯志恩",
     "party": "中國國民黨",
@@ -728,6 +819,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第七選舉區",
     "name": "連石磊 ",
     "party": "台灣工黨",
@@ -736,6 +828,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第七選舉區",
     "name": "張源益",
     "party": "宗教聯盟",
@@ -744,6 +837,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第七選舉區",
     "name": "吳達偉",
     "party": "台灣民眾黨",
@@ -752,6 +846,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第七選舉區",
     "name": "黃足貞",
     "party": "無黨籍",
@@ -760,6 +855,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第七選舉區",
     "name": "朱盛興",
     "party": "安定力量",
@@ -768,6 +864,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第八選舉區",
     "name": "蔡宗霖",
     "party": "一邊一國行動黨",
@@ -776,6 +873,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第八選舉區",
     "name": "李國憲",
     "party": "安定力量",
@@ -784,6 +882,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第八選舉區",
     "name": "邱烽堯",
     "party": "中國國民黨",
@@ -792,6 +891,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第八選舉區",
     "name": "江永昌",
     "party": "民主進步黨",
@@ -800,6 +900,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第八選舉區",
     "name": "李正皓",
     "party": "親民黨",
@@ -808,6 +909,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第八選舉區",
     "name": "許惠珍",
     "party": "天宙和平統一家庭黨",
@@ -816,6 +918,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第九選舉區",
     "name": "詹宇賢",
     "party": "台灣基進",
@@ -824,6 +927,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第九選舉區",
     "name": "楊智淵",
     "party": "一邊一國行動黨",
@@ -832,6 +936,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第九選舉區",
     "name": "林聲洲 ",
     "party": "勞動黨",
@@ -840,6 +945,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第九選舉區",
     "name": "蔡沐霖",
     "party": "民主進步黨",
@@ -848,6 +954,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第九選舉區",
     "name": "林德福",
     "party": "中國國民黨",
@@ -856,6 +963,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第九選舉區",
     "name": "陳愷寧",
     "party": "台灣維新",
@@ -864,6 +972,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第十選舉區",
     "name": "李縉穎",
     "party": "無黨籍",
@@ -872,6 +981,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第十選舉區",
     "name": "林金結",
     "party": "中國國民黨",
@@ -880,6 +990,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第十選舉區",
     "name": "劉瑞娜",
     "party": "無黨籍",
@@ -888,6 +999,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第十選舉區",
     "name": "吳琪銘",
     "party": "民主進步黨",
@@ -896,6 +1008,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第十選舉區",
     "name": "曾怡晴",
     "party": "合一行動聯盟",
@@ -904,6 +1017,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第十一選舉區",
     "name": "李欣翰",
     "party": "台灣基進",
@@ -912,6 +1026,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第十一選舉區",
     "name": "張銘祐",
     "party": "民主進步黨",
@@ -920,6 +1035,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第十一選舉區",
     "name": "胡大剛",
     "party": "中華統一促進黨",
@@ -928,6 +1044,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第十一選舉區",
     "name": "廖麗娟",
     "party": "合一行動聯盟",
@@ -936,6 +1053,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第十一選舉區",
     "name": "羅明才",
     "party": "中國國民黨",
@@ -944,6 +1062,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第十一選舉區",
     "name": "臧汝興",
     "party": "勞動黨",
@@ -952,6 +1071,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第十一選舉區",
     "name": "廖再興",
     "party": "無黨籍",
@@ -960,6 +1080,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第十二選舉區",
     "name": "賴品妤",
     "party": "民主進步黨",
@@ -968,6 +1089,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第十二選舉區",
     "name": "孫繼正",
     "party": "安定力量",
@@ -976,6 +1098,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第十二選舉區",
     "name": "張依維",
     "party": "中華統一促進黨",
@@ -984,6 +1107,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第十二選舉區",
     "name": "周武榮",
     "party": "無黨籍",
@@ -992,6 +1116,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第十二選舉區",
     "name": "李永萍",
     "party": "中國國民黨",
@@ -1000,6 +1125,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第十二選舉區",
     "name": "賴嘉倫",
     "party": "時代力量",
@@ -1008,6 +1134,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新北市",
     "constituency": "新北市第十二選舉區",
     "name": "張志偉 ",
     "party": "綠黨",
@@ -1016,6 +1143,7 @@
     "currentLegislator": true
   },
   {
+    "county": "桃園市",
     "constituency": "桃園市第一選舉區",
     "name": "陳根德",
     "party": "中國國民黨",
@@ -1024,6 +1152,7 @@
     "currentLegislator": true
   },
   {
+    "county": "桃園市",
     "constituency": "桃園市第一選舉區",
     "name": "沈育和",
     "party": "一邊一國行動黨",
@@ -1032,6 +1161,7 @@
     "currentLegislator": true
   },
   {
+    "county": "桃園市",
     "constituency": "桃園市第一選舉區",
     "name": "鄭運鵬",
     "party": "民主進步黨",
@@ -1040,6 +1170,7 @@
     "currentLegislator": true
   },
   {
+    "county": "桃園市",
     "constituency": "桃園市第一選舉區",
     "name": "陳泓維",
     "party": "台灣民眾黨",
@@ -1048,6 +1179,7 @@
     "currentLegislator": true
   },
   {
+    "county": "桃園市",
     "constituency": "桃園市第一選舉區",
     "name": "楊淂鉉",
     "party": "無黨籍",
@@ -1056,6 +1188,7 @@
     "currentLegislator": true
   },
   {
+    "county": "桃園市",
     "constituency": "桃園市第二選舉區",
     "name": "黃世杰",
     "party": "民主進步黨",
@@ -1064,6 +1197,7 @@
     "currentLegislator": true
   },
   {
+    "county": "桃園市",
     "constituency": "桃園市第二選舉區",
     "name": "張馨云",
     "party": "台澎黨",
@@ -1072,6 +1206,7 @@
     "currentLegislator": true
   },
   {
+    "county": "桃園市",
     "constituency": "桃園市第二選舉區",
     "name": "吳志揚",
     "party": "中國國民黨",
@@ -1080,6 +1215,7 @@
     "currentLegislator": true
   },
   {
+    "county": "桃園市",
     "constituency": "桃園市第二選舉區",
     "name": "吳文凱",
     "party": "台灣維新",
@@ -1088,6 +1224,7 @@
     "currentLegislator": true
   },
   {
+    "county": "桃園市",
     "constituency": "桃園市第二選舉區",
     "name": "陳志豪",
     "party": "中華統一促進黨",
@@ -1096,6 +1233,7 @@
     "currentLegislator": true
   },
   {
+    "county": "桃園市",
     "constituency": "桃園市第三選舉區",
     "name": "林佳瑋",
     "party": "時代力量",
@@ -1104,6 +1242,7 @@
     "currentLegislator": true
   },
   {
+    "county": "桃園市",
     "constituency": "桃園市第三選舉區",
     "name": "彭俊豪",
     "party": "民主進步黨",
@@ -1112,6 +1251,7 @@
     "currentLegislator": true
   },
   {
+    "county": "桃園市",
     "constituency": "桃園市第三選舉區",
     "name": "李奇峰",
     "party": "宗教聯盟",
@@ -1120,6 +1260,7 @@
     "currentLegislator": true
   },
   {
+    "county": "桃園市",
     "constituency": "桃園市第三選舉區",
     "name": "胡文中",
     "party": "中華文化復興在理黨",
@@ -1128,6 +1269,7 @@
     "currentLegislator": true
   },
   {
+    "county": "桃園市",
     "constituency": "桃園市第三選舉區",
     "name": "魯明哲",
     "party": "中國國民黨",
@@ -1136,6 +1278,7 @@
     "currentLegislator": true
   },
   {
+    "county": "桃園市",
     "constituency": "桃園市第三選舉區",
     "name": "李文雄",
     "party": "無黨籍",
@@ -1144,6 +1287,7 @@
     "currentLegislator": true
   },
   {
+    "county": "桃園市",
     "constituency": "桃園市第四選舉區",
     "name": "鄭寶清",
     "party": "民主進步黨",
@@ -1152,6 +1296,7 @@
     "currentLegislator": true
   },
   {
+    "county": "桃園市",
     "constituency": "桃園市第四選舉區",
     "name": "李中",
     "party": "勞動黨",
@@ -1160,6 +1305,7 @@
     "currentLegislator": true
   },
   {
+    "county": "桃園市",
     "constituency": "桃園市第四選舉區",
     "name": "萬美玲",
     "party": "中國國民黨",
@@ -1168,6 +1314,7 @@
     "currentLegislator": true
   },
   {
+    "county": "桃園市",
     "constituency": "桃園市第四選舉區",
     "name": "林國政",
     "party": "國會政黨聯盟",
@@ -1176,6 +1323,7 @@
     "currentLegislator": true
   },
   {
+    "county": "桃園市",
     "constituency": "桃園市第四選舉區",
     "name": "吳清江",
     "party": "合一行動聯盟",
@@ -1184,6 +1332,7 @@
     "currentLegislator": true
   },
   {
+    "county": "桃園市",
     "constituency": "桃園市第五選舉區",
     "name": "蔣絜安",
     "party": "民主進步黨",
@@ -1192,6 +1341,7 @@
     "currentLegislator": true
   },
   {
+    "county": "桃園市",
     "constituency": "桃園市第五選舉區",
     "name": "呂玉玲",
     "party": "中國國民黨",
@@ -1200,6 +1350,7 @@
     "currentLegislator": true
   },
   {
+    "county": "桃園市",
     "constituency": "桃園市第五選舉區",
     "name": "張誠",
     "party": "國會政黨聯盟",
@@ -1208,6 +1359,7 @@
     "currentLegislator": true
   },
   {
+    "county": "桃園市",
     "constituency": "桃園市第五選舉區",
     "name": "劉芳萍",
     "party": "勞動黨",
@@ -1216,6 +1368,7 @@
     "currentLegislator": true
   },
   {
+    "county": "桃園市",
     "constituency": "桃園市第五選舉區",
     "name": "易乃文",
     "party": "無黨籍",
@@ -1224,6 +1377,7 @@
     "currentLegislator": true
   },
   {
+    "county": "桃園市",
     "constituency": "桃園市第六選舉區",
     "name": "趙正宇",
     "party": "無黨籍",
@@ -1232,6 +1386,7 @@
     "currentLegislator": true
   },
   {
+    "county": "桃園市",
     "constituency": "桃園市第六選舉區",
     "name": "陳學聖",
     "party": "中國國民黨",
@@ -1240,6 +1395,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第一選舉區",
     "name": "蔡其昌",
     "party": "民主進步黨",
@@ -1248,6 +1404,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第一選舉區",
     "name": "林佳新",
     "party": "中國國民黨",
@@ -1256,6 +1413,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第一選舉區",
     "name": "黃朝淵",
     "party": "親民黨",
@@ -1264,6 +1422,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第二選舉區",
     "name": "顏寬恒",
     "party": "中國國民黨",
@@ -1272,6 +1431,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第二選舉區",
     "name": "陳柏惟",
     "party": "台灣基進",
@@ -1280,6 +1440,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第三選舉區",
     "name": "朱立凡",
     "party": "宗教聯盟",
@@ -1288,6 +1449,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第三選舉區",
     "name": "張睿倉",
     "party": "台灣民眾黨",
@@ -1296,6 +1458,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第三選舉區",
     "name": "楊瓊瓔",
     "party": "中國國民黨",
@@ -1304,6 +1467,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第三選舉區",
     "name": "洪慈庸",
     "party": "無黨籍",
@@ -1312,6 +1476,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第三選舉區",
     "name": "宋柏澄",
     "party": "台澎黨",
@@ -1320,6 +1485,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第三選舉區",
     "name": "張烱春",
     "party": "喜樂島聯盟",
@@ -1328,6 +1494,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第四選舉區",
     "name": "黃馨慧",
     "party": "中國國民黨",
@@ -1336,6 +1503,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第四選舉區",
     "name": "陳志彬",
     "party": "無黨籍",
@@ -1344,6 +1512,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第四選舉區",
     "name": "張渝江",
     "party": "台灣民眾黨",
@@ -1352,6 +1521,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第四選舉區",
     "name": "張廖萬堅",
     "party": "民主進步黨",
@@ -1360,6 +1530,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第四選舉區",
     "name": "李家葳",
     "party": "中華統一促進黨",
@@ -1368,6 +1539,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第四選舉區",
     "name": "楊書銘",
     "party": "國會政黨聯盟",
@@ -1376,6 +1548,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第四選舉區",
     "name": "王全中",
     "party": "無黨籍",
@@ -1384,6 +1557,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第四選舉區",
     "name": "紀經儀",
     "party": "合一行動聯盟",
@@ -1392,6 +1566,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第四選舉區",
     "name": "林金連",
     "party": "無黨籍",
@@ -1400,6 +1575,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第五選舉區",
     "name": "苗豐隆",
     "party": "無黨籍",
@@ -1408,6 +1584,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第五選舉區",
     "name": "黃名白",
     "party": "無黨籍",
@@ -1416,6 +1593,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第五選舉區",
     "name": "段體佩",
     "party": "無黨籍",
@@ -1424,6 +1602,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第五選舉區",
     "name": "莊競程",
     "party": "民主進步黨",
@@ -1432,6 +1611,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第五選舉區",
     "name": "彭振芳",
     "party": "臺灣前進黨",
@@ -1440,6 +1620,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第五選舉區",
     "name": "沈智慧",
     "party": "中國國民黨",
@@ -1448,6 +1629,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第五選舉區",
     "name": "謝文卿",
     "party": "台灣民眾黨",
@@ -1456,6 +1638,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第五選舉區",
     "name": "顧吉熙",
     "party": "無黨籍",
@@ -1464,6 +1647,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第五選舉區",
     "name": "賴建豪",
     "party": "親民黨",
@@ -1472,6 +1656,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第六選舉區",
     "name": "洪偉富",
     "party": "宗教聯盟",
@@ -1480,6 +1665,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第六選舉區",
     "name": "李中",
     "party": "中國國民黨",
@@ -1488,6 +1674,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第六選舉區",
     "name": "黃國書",
     "party": "民主進步黨",
@@ -1496,6 +1683,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第六選舉區",
     "name": "吳光中",
     "party": "親民黨",
@@ -1504,6 +1692,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第六選舉區",
     "name": "楊木蘭",
     "party": "無黨籍",
@@ -1512,6 +1701,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第七選舉區",
     "name": "莊子富",
     "party": "中國國民黨",
@@ -1520,6 +1710,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第七選舉區",
     "name": "林培基",
     "party": "一邊一國行動黨",
@@ -1528,6 +1719,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第七選舉區",
     "name": "何欣純",
     "party": "民主進步黨",
@@ -1536,6 +1728,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第七選舉區",
     "name": "傅若怡",
     "party": "合一行動聯盟",
@@ -1544,6 +1737,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第七選舉區",
     "name": "蔣祖棋",
     "party": "司法正義黨",
@@ -1552,6 +1746,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第八選舉區",
     "name": "江啟臣",
     "party": "中國國民黨",
@@ -1560,6 +1755,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第八選舉區",
     "name": "翁美春",
     "party": "民主進步黨",
@@ -1568,6 +1764,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第八選舉區",
     "name": "朱智德",
     "party": "台灣維新",
@@ -1576,6 +1773,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺中市",
     "constituency": "臺中市第八選舉區",
     "name": "劉星龍",
     "party": "無黨籍",
@@ -1584,6 +1782,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第一選舉區",
     "name": "蔡育輝",
     "party": "中國國民黨",
@@ -1592,6 +1791,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第一選舉區",
     "name": "賴惠員",
     "party": "民主進步黨",
@@ -1600,6 +1800,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第一選舉區",
     "name": "黃天辰",
     "party": "台灣民意黨",
@@ -1608,6 +1809,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第一選舉區",
     "name": "蘇志仁",
     "party": "宗教聯盟",
@@ -1616,6 +1818,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第一選舉區",
     "name": "顏耀星",
     "party": "台灣民眾黨",
@@ -1624,6 +1827,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第一選舉區",
     "name": "蔡承攸",
     "party": "合一行動聯盟",
@@ -1632,6 +1836,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第一選舉區",
     "name": "康淑敏",
     "party": "中華聯合黨",
@@ -1640,6 +1845,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第二選舉區",
     "name": "李武龍",
     "party": "中國國民黨",
@@ -1648,6 +1854,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第二選舉區",
     "name": "郭國文",
     "party": "民主進步黨",
@@ -1656,6 +1863,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第二選舉區",
     "name": "王章記",
     "party": "宗教聯盟",
@@ -1664,6 +1872,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第三選舉區",
     "name": "童小芸",
     "party": "中國國民黨",
@@ -1672,6 +1881,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第三選舉區",
     "name": "陳亭妃",
     "party": "民主進步黨",
@@ -1680,6 +1890,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第三選舉區",
     "name": "鄧秀寶",
     "party": "親民黨",
@@ -1688,6 +1899,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第三選舉區",
     "name": "陳西安",
     "party": "無黨籍",
@@ -1696,6 +1908,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第四選舉區",
     "name": "林燕祝",
     "party": "中國國民黨",
@@ -1704,6 +1917,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第四選舉區",
     "name": "林宜瑾",
     "party": "民主進步黨",
@@ -1712,6 +1926,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第四選舉區",
     "name": "林志文",
     "party": "一邊一國行動黨",
@@ -1720,6 +1935,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第四選舉區",
     "name": "林淑娟",
     "party": "宗教聯盟",
@@ -1728,6 +1944,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第四選舉區",
     "name": "溫米樂",
     "party": "圓黨",
@@ -1736,6 +1953,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第四選舉區",
     "name": "蔡明峰",
     "party": "無黨籍",
@@ -1744,6 +1962,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第五選舉區",
     "name": "蔡淑惠",
     "party": "中國國民黨",
@@ -1752,6 +1971,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第五選舉區",
     "name": "林俊憲",
     "party": "民主進步黨",
@@ -1760,6 +1980,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第五選舉區",
     "name": "李伯利",
     "party": "安定力量",
@@ -1768,6 +1989,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第五選舉區",
     "name": "陳致曉",
     "party": "無黨籍",
@@ -1776,6 +1998,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第五選舉區",
     "name": "林義豐",
     "party": "無黨籍",
@@ -1784,6 +2007,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第五選舉區",
     "name": "吳炳輝",
     "party": "無黨籍",
@@ -1792,6 +2016,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第六選舉區",
     "name": "洪秀柱",
     "party": "中國國民黨",
@@ -1800,6 +2025,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第六選舉區",
     "name": "王定宇",
     "party": "民主進步黨",
@@ -1808,6 +2034,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第六選舉區",
     "name": "李晉豪",
     "party": "安定力量",
@@ -1816,6 +2043,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第六選舉區",
     "name": "翁語含",
     "party": "台灣維新",
@@ -1824,6 +2052,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺南市",
     "constituency": "臺南市第六選舉區",
     "name": "唐宇姮",
     "party": "台澎黨",
@@ -1832,6 +2061,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第一選舉區",
     "name": "邱議瑩",
     "party": "民主進步黨",
@@ -1840,6 +2070,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第一選舉區",
     "name": "王齡嬌",
     "party": "中國國民黨",
@@ -1848,6 +2079,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第一選舉區",
     "name": "羅鼎城",
     "party": "台灣民眾黨",
@@ -1856,6 +2088,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第一選舉區",
     "name": "黃綉晶",
     "party": "親民黨",
@@ -1864,6 +2097,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第一選舉區",
     "name": "晏揚清",
     "party": "台灣工黨",
@@ -1872,6 +2106,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第二選舉區",
     "name": "邱志偉",
     "party": "民主進步黨",
@@ -1880,6 +2115,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第二選舉區",
     "name": "黃韻涵",
     "party": "中國國民黨",
@@ -1888,6 +2124,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第二選舉區",
     "name": "李柏融",
     "party": "台灣維新",
@@ -1896,6 +2133,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第三選舉區",
     "name": "黃昭順",
     "party": "中國國民黨",
@@ -1904,6 +2142,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第三選舉區",
     "name": "郭新政",
     "party": "無黨籍",
@@ -1912,6 +2151,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第三選舉區",
     "name": "李郭秋蘭",
     "party": "宗教聯盟",
@@ -1920,6 +2160,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第三選舉區",
     "name": "蘇博廷",
     "party": "親民黨\n",
@@ -1928,6 +2169,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第三選舉區",
     "name": "鄭品娟",
     "party": "國會政黨聯盟",
@@ -1936,6 +2178,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第三選舉區",
     "name": "湯金全",
     "party": "無黨籍",
@@ -1944,6 +2187,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第三選舉區",
     "name": "劉世芳",
     "party": "民主進步黨",
@@ -1952,6 +2196,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第三選舉區",
     "name": "王貴雄",
     "party": "興中同盟會",
@@ -1960,6 +2205,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第三選舉區",
     "name": "柳淑芳",
     "party": "台灣獨立黨",
@@ -1968,6 +2214,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第三選舉區",
     "name": "莊貽量",
     "party": "台灣民眾黨",
@@ -1976,6 +2223,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第三選舉區",
     "name": "莊于萱",
     "party": "喜樂島聯盟",
@@ -1984,6 +2232,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第四選舉區",
     "name": "黃兆呈",
     "party": "台灣維新",
@@ -1992,6 +2241,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第四選舉區",
     "name": "孫蓬逸",
     "party": "台澎黨",
@@ -2000,6 +2250,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第四選舉區",
     "name": "徐慶煌",
     "party": "中國國民黨",
@@ -2008,6 +2259,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第四選舉區",
     "name": "周凱崙",
     "party": "無黨籍",
@@ -2016,6 +2268,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第四選舉區",
     "name": "林岱樺",
     "party": "民主進步黨",
@@ -2024,6 +2277,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第五選舉區",
     "name": "黃柏霖",
     "party": "中國國民黨",
@@ -2032,6 +2286,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第五選舉區",
     "name": "李昆澤",
     "party": "民主進步黨",
@@ -2040,6 +2295,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第五選舉區",
     "name": "李佳玲",
     "party": "台灣民眾黨",
@@ -2048,6 +2304,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第六選舉區",
     "name": "趙天麟",
     "party": "民主進步黨",
@@ -2056,6 +2313,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第六選舉區",
     "name": "李鎔任",
     "party": "國會政黨聯盟",
@@ -2064,6 +2322,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第六選舉區",
     "name": "劉仙娥",
     "party": "勞動黨",
@@ -2072,6 +2331,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第六選舉區",
     "name": "劉哲嘉",
     "party": "台澎黨",
@@ -2080,6 +2340,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第六選舉區",
     "name": "李建輝",
     "party": "台灣維新",
@@ -2088,6 +2349,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第六選舉區",
     "name": "陳美雅",
     "party": "中國國民黨",
@@ -2096,6 +2358,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第六選舉區",
     "name": "吳佩蓉",
     "party": "無黨籍",
@@ -2104,6 +2367,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第六選舉區",
     "name": "林鴻正",
     "party": "喜樂島聯盟",
@@ -2112,6 +2376,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第六選舉區",
     "name": "周金榜",
     "party": "無黨籍",
@@ -2120,6 +2385,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第六選舉區",
     "name": "吳益政",
     "party": "親民黨",
@@ -2128,6 +2394,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第七選舉區",
     "name": "葉鳳強",
     "party": "無黨籍",
@@ -2136,6 +2403,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第七選舉區",
     "name": "秦詩雁",
     "party": "親民黨",
@@ -2144,6 +2412,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第七選舉區",
     "name": "陳惠敏",
     "party": "時代力量",
@@ -2152,6 +2421,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第七選舉區",
     "name": "吳青木",
     "party": "台澎黨",
@@ -2160,6 +2430,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第七選舉區",
     "name": "李雅靜",
     "party": "中國國民黨",
@@ -2168,6 +2439,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第七選舉區",
     "name": "許智傑",
     "party": "民主進步黨",
@@ -2176,6 +2448,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第七選舉區",
     "name": "林杰正",
     "party": "無黨籍",
@@ -2184,6 +2457,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第八選舉區",
     "name": "賴瑞隆",
     "party": "民主進步黨",
@@ -2192,6 +2466,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第八選舉區",
     "name": "陳麗娜",
     "party": "中國國民黨",
@@ -2200,6 +2475,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第八選舉區",
     "name": "敖博勝",
     "party": "台灣民眾黨",
@@ -2208,6 +2484,7 @@
     "currentLegislator": true
   },
   {
+    "county": "高雄市",
     "constituency": "高雄市第八選舉區",
     "name": "蔡媽福",
     "party": "宗教聯盟",
@@ -2216,6 +2493,7 @@
     "currentLegislator": true
   },
   {
+    "county": "基隆市",
     "constituency": "基隆市選舉區",
     "name": "張耿輝",
     "party": "無黨籍",
@@ -2224,6 +2502,7 @@
     "currentLegislator": true
   },
   {
+    "county": "基隆市",
     "constituency": "基隆市選舉區",
     "name": "楊石城",
     "party": "國會政黨聯盟",
@@ -2232,6 +2511,7 @@
     "currentLegislator": true
   },
   {
+    "county": "基隆市",
     "constituency": "基隆市選舉區",
     "name": "宋瑋莉",
     "party": "中國國民黨",
@@ -2240,6 +2520,7 @@
     "currentLegislator": true
   },
   {
+    "county": "基隆市",
     "constituency": "基隆市選舉區",
     "name": "蔡適應",
     "party": "民主進步黨",
@@ -2248,6 +2529,7 @@
     "currentLegislator": true
   },
   {
+    "county": "宜蘭縣",
     "constituency": "宜蘭縣選舉區",
     "name": "黃定和",
     "party": "無黨籍",
@@ -2256,6 +2538,7 @@
     "currentLegislator": true
   },
   {
+    "county": "宜蘭縣",
     "constituency": "宜蘭縣選舉區",
     "name": "呂國華",
     "party": "中國國民黨",
@@ -2264,6 +2547,7 @@
     "currentLegislator": true
   },
   {
+    "county": "宜蘭縣",
     "constituency": "宜蘭縣選舉區",
     "name": "陳歐珀",
     "party": "民主進步黨",
@@ -2272,6 +2556,7 @@
     "currentLegislator": true
   },
   {
+    "county": "宜蘭縣",
     "constituency": "宜蘭縣選舉區",
     "name": "許育嘉",
     "party": "勞動黨",
@@ -2280,6 +2565,7 @@
     "currentLegislator": true
   },
   {
+    "county": "宜蘭縣",
     "constituency": "宜蘭縣選舉區",
     "name": "林獻山",
     "party": "台灣維新",
@@ -2288,6 +2574,7 @@
     "currentLegislator": true
   },
   {
+    "county": "宜蘭縣",
     "constituency": "宜蘭縣選舉區",
     "name": "孫博萮",
     "party": "無黨籍",
@@ -2296,6 +2583,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新竹縣",
     "constituency": "新竹縣第一選舉區",
     "name": "余筱菁",
     "party": "綠黨",
@@ -2304,6 +2592,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新竹縣",
     "constituency": "新竹縣第一選舉區",
     "name": "林為洲",
     "party": "中國國民黨",
@@ -2312,6 +2601,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新竹縣",
     "constituency": "新竹縣第一選舉區",
     "name": "周江杰",
     "party": "民主進步黨",
@@ -2320,6 +2610,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新竹縣",
     "constituency": "新竹縣第一選舉區",
     "name": "傅家賢",
     "party": "無黨籍",
@@ -2328,6 +2619,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新竹縣",
     "constituency": "新竹縣第一選舉區",
     "name": "吳旭智",
     "party": "國會政黨聯盟",
@@ -2336,6 +2628,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新竹縣",
     "constituency": "新竹縣第一選舉區",
     "name": "劉復嵐",
     "party": "無黨籍",
@@ -2344,6 +2637,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新竹縣",
     "constituency": "新竹縣第二選舉區",
     "name": "劉士睿",
     "party": "台灣基進",
@@ -2352,6 +2646,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新竹縣",
     "constituency": "新竹縣第二選舉區",
     "name": "陳冠宇",
     "party": "綠黨",
@@ -2360,6 +2655,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新竹縣",
     "constituency": "新竹縣第二選舉區",
     "name": "黃秀龍",
     "party": "無黨籍",
@@ -2368,6 +2664,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新竹縣",
     "constituency": "新竹縣第二選舉區",
     "name": "鄭朝方",
     "party": "民主進步黨",
@@ -2376,6 +2673,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新竹縣",
     "constituency": "新竹縣第二選舉區",
     "name": "林思銘",
     "party": "中國國民黨",
@@ -2384,6 +2682,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新竹縣",
     "constituency": "新竹縣第二選舉區",
     "name": "林碩彥",
     "party": "台灣民眾黨",
@@ -2392,6 +2691,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新竹縣",
     "constituency": "新竹縣第二選舉區",
     "name": "邱靖雅",
     "party": "國會政黨聯盟",
@@ -2400,6 +2700,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新竹市",
     "constituency": "新竹市選舉區",
     "name": "曾楷耀",
     "party": "台灣維新",
@@ -2408,6 +2709,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新竹市",
     "constituency": "新竹市選舉區",
     "name": "鄭宏輝",
     "party": "民主進步黨",
@@ -2416,6 +2718,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新竹市",
     "constituency": "新竹市選舉區",
     "name": "鄭正鈐",
     "party": "中國國民黨",
@@ -2424,6 +2727,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新竹市",
     "constituency": "新竹市選舉區",
     "name": "廖蓓瑩",
     "party": "國會政黨聯盟",
@@ -2432,6 +2736,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新竹市",
     "constituency": "新竹市選舉區",
     "name": "高鈺婷",
     "party": "時代力量",
@@ -2440,6 +2745,7 @@
     "currentLegislator": true
   },
   {
+    "county": "新竹市",
     "constituency": "新竹市選舉區",
     "name": "王榮德",
     "party": "無黨籍",
@@ -2448,6 +2754,7 @@
     "currentLegislator": true
   },
   {
+    "county": "苗栗縣",
     "constituency": "苗栗縣第一選舉區",
     "name": "朱英濠",
     "party": "無黨籍",
@@ -2456,6 +2763,7 @@
     "currentLegislator": true
   },
   {
+    "county": "苗栗縣",
     "constituency": "苗栗縣第一選舉區",
     "name": "陳超明",
     "party": "中國國民黨",
@@ -2464,6 +2772,7 @@
     "currentLegislator": true
   },
   {
+    "county": "苗栗縣",
     "constituency": "苗栗縣第一選舉區",
     "name": "羅貴星",
     "party": "民主進步黨",
@@ -2472,6 +2781,7 @@
     "currentLegislator": true
   },
   {
+    "county": "苗栗縣",
     "constituency": "苗栗縣第一選舉區",
     "name": "鍾林芷綸",
     "party": "台澎國際法法理建國黨",
@@ -2480,6 +2790,7 @@
     "currentLegislator": true
   },
   {
+    "county": "苗栗縣",
     "constituency": "苗栗縣第一選舉區",
     "name": "朱哲成",
     "party": "民眾黨",
@@ -2488,6 +2799,7 @@
     "currentLegislator": true
   },
   {
+    "county": "苗栗縣",
     "constituency": "苗栗縣第一選舉區",
     "name": "曾國良",
     "party": "無黨籍",
@@ -2496,6 +2808,7 @@
     "currentLegislator": true
   },
   {
+    "county": "苗栗縣",
     "constituency": "苗栗縣第二選舉區",
     "name": "徐志榮",
     "party": "中國國民黨",
@@ -2504,6 +2817,7 @@
     "currentLegislator": true
   },
   {
+    "county": "苗栗縣",
     "constituency": "苗栗縣第二選舉區",
     "name": "林昱同",
     "party": "台灣基進黨",
@@ -2512,6 +2826,7 @@
     "currentLegislator": true
   },
   {
+    "county": "苗栗縣",
     "constituency": "苗栗縣第二選舉區",
     "name": "徐定禎",
     "party": "民主進步黨",
@@ -2520,6 +2835,7 @@
     "currentLegislator": true
   },
   {
+    "county": "苗栗縣",
     "constituency": "苗栗縣第二選舉區",
     "name": "溫俊勇",
     "party": "無黨籍",
@@ -2528,6 +2844,7 @@
     "currentLegislator": true
   },
   {
+    "county": "苗栗縣",
     "constituency": "苗栗縣第二選舉區",
     "name": "林名哲",
     "party": "勞動黨",
@@ -2536,6 +2853,7 @@
     "currentLegislator": true
   },
   {
+    "county": "苗栗縣",
     "constituency": "苗栗縣第二選舉區",
     "name": "曾宛菁",
     "party": "中華統一促進黨",
@@ -2544,6 +2862,7 @@
     "currentLegislator": true
   },
   {
+    "county": "彰化縣",
     "constituency": "彰化縣第一選舉區",
     "name": "柯呈枋",
     "party": "中國國民黨",
@@ -2552,6 +2871,7 @@
     "currentLegislator": true
   },
   {
+    "county": "彰化縣",
     "constituency": "彰化縣第一選舉區",
     "name": "陳秀寳",
     "party": "民主進步黨",
@@ -2560,6 +2880,7 @@
     "currentLegislator": true
   },
   {
+    "county": "彰化縣",
     "constituency": "彰化縣第二選舉區",
     "name": "黃秀芳",
     "party": "民主進步黨",
@@ -2568,6 +2889,7 @@
     "currentLegislator": true
   },
   {
+    "county": "彰化縣",
     "constituency": "彰化縣第二選舉區",
     "name": "張瀚天",
     "party": "中國國民黨",
@@ -2576,6 +2898,7 @@
     "currentLegislator": true
   },
   {
+    "county": "彰化縣",
     "constituency": "彰化縣第二選舉區",
     "name": "黃玉芬",
     "party": "無黨籍",
@@ -2584,6 +2907,7 @@
     "currentLegislator": true
   },
   {
+    "county": "彰化縣",
     "constituency": "彰化縣第三選舉區",
     "name": "謝衣鳳",
     "party": "中國國民黨",
@@ -2592,6 +2916,7 @@
     "currentLegislator": true
   },
   {
+    "county": "彰化縣",
     "constituency": "彰化縣第三選舉區",
     "name": "洪宗熠",
     "party": "民主進步黨",
@@ -2600,6 +2925,7 @@
     "currentLegislator": true
   },
   {
+    "county": "彰化縣",
     "constituency": "彰化縣第三選舉區",
     "name": "劉銀鬃",
     "party": "台澎黨",
@@ -2608,6 +2934,7 @@
     "currentLegislator": true
   },
   {
+    "county": "彰化縣",
     "constituency": "彰化縣第三選舉區",
     "name": "楊麗香",
     "party": "無黨籍",
@@ -2616,6 +2943,7 @@
     "currentLegislator": true
   },
   {
+    "county": "彰化縣",
     "constituency": "彰化縣第四選舉區",
     "name": "陳志傑",
     "party": "安定力量",
@@ -2624,6 +2952,7 @@
     "currentLegislator": true
   },
   {
+    "county": "彰化縣",
     "constituency": "彰化縣第四選舉區",
     "name": "蕭景田",
     "party": "中國國民黨",
@@ -2632,6 +2961,7 @@
     "currentLegislator": true
   },
   {
+    "county": "彰化縣",
     "constituency": "彰化縣第四選舉區",
     "name": "陳素月",
     "party": "民主進步黨",
@@ -2640,6 +2970,7 @@
     "currentLegislator": true
   },
   {
+    "county": "彰化縣",
     "constituency": "彰化縣第四選舉區",
     "name": "何倍爾",
     "party": "勞動黨",
@@ -2648,6 +2979,7 @@
     "currentLegislator": true
   },
   {
+    "county": "彰化縣",
     "constituency": "彰化縣第四選舉區",
     "name": "蕭翠瑩",
     "party": "綠黨",
@@ -2656,6 +2988,7 @@
     "currentLegislator": true
   },
   {
+    "county": "彰化縣",
     "constituency": "彰化縣第四選舉區",
     "name": "林怡彣",
     "party": "勞工黨",
@@ -2664,6 +2997,7 @@
     "currentLegislator": true
   },
   {
+    "county": "彰化縣",
     "constituency": "彰化縣第四選舉區",
     "name": "洪祐輔",
     "party": "無黨籍",
@@ -2672,6 +3006,7 @@
     "currentLegislator": true
   },
   {
+    "county": "南投縣",
     "constituency": "南投縣第一選舉區",
     "name": "蔡培慧",
     "party": "民主進步黨",
@@ -2680,6 +3015,7 @@
     "currentLegislator": true
   },
   {
+    "county": "南投縣",
     "constituency": "南投縣第一選舉區",
     "name": "馬文君",
     "party": "中國國民黨",
@@ -2688,6 +3024,7 @@
     "currentLegislator": true
   },
   {
+    "county": "南投縣",
     "constituency": "南投縣第二選舉區",
     "name": "陳癸佑",
     "party": "民主進步黨",
@@ -2696,6 +3033,7 @@
     "currentLegislator": true
   },
   {
+    "county": "南投縣",
     "constituency": "南投縣第二選舉區",
     "name": "吳承叡",
     "party": "台灣基進",
@@ -2704,6 +3042,7 @@
     "currentLegislator": true
   },
   {
+    "county": "南投縣",
     "constituency": "南投縣第二選舉區",
     "name": "許淑華",
     "party": "中國國民黨",
@@ -2712,6 +3051,7 @@
     "currentLegislator": true
   },
   {
+    "county": "南投縣",
     "constituency": "南投縣第二選舉區",
     "name": "謝福全",
     "party": "宗教聯盟",
@@ -2720,6 +3060,7 @@
     "currentLegislator": true
   },
   {
+    "county": "南投縣",
     "constituency": "南投縣第二選舉區",
     "name": "傅文佐",
     "party": "合一行動聯盟",
@@ -2728,6 +3069,7 @@
     "currentLegislator": true
   },
   {
+    "county": "雲林縣",
     "constituency": "雲林縣第一選舉區",
     "name": "張嘉郡",
     "party": "中國國民黨",
@@ -2736,6 +3078,7 @@
     "currentLegislator": true
   },
   {
+    "county": "雲林縣",
     "constituency": "雲林縣第一選舉區",
     "name": "李昭儀",
     "party": "台灣革命黨",
@@ -2744,6 +3087,7 @@
     "currentLegislator": true
   },
   {
+    "county": "雲林縣",
     "constituency": "雲林縣第一選舉區",
     "name": "蘇治芬",
     "party": "民主進步黨",
@@ -2752,6 +3096,7 @@
     "currentLegislator": true
   },
   {
+    "county": "雲林縣",
     "constituency": "雲林縣第一選舉區",
     "name": "林富源",
     "party": "無黨籍",
@@ -2760,6 +3105,7 @@
     "currentLegislator": true
   },
   {
+    "county": "雲林縣",
     "constituency": "雲林縣第二選舉區",
     "name": "謝淑亞",
     "party": "中國國民黨",
@@ -2768,6 +3114,7 @@
     "currentLegislator": true
   },
   {
+    "county": "雲林縣",
     "constituency": "雲林縣第二選舉區",
     "name": "張永津",
     "party": "喜樂島聯盟",
@@ -2776,6 +3123,7 @@
     "currentLegislator": true
   },
   {
+    "county": "雲林縣",
     "constituency": "雲林縣第二選舉區",
     "name": "劉建國",
     "party": "民主進步黨",
@@ -2784,6 +3132,7 @@
     "currentLegislator": true
   },
   {
+    "county": "雲林縣",
     "constituency": "雲林縣第二選舉區",
     "name": "彭新銘",
     "party": "無黨籍",
@@ -2792,6 +3141,7 @@
     "currentLegislator": true
   },
   {
+    "county": "嘉義縣",
     "constituency": "嘉義縣第一選舉區",
     "name": "蔡易餘",
     "party": "民主進步黨",
@@ -2800,6 +3150,7 @@
     "currentLegislator": true
   },
   {
+    "county": "嘉義縣",
     "constituency": "嘉義縣第一選舉區",
     "name": "黃俊雄",
     "party": "喜樂島聯盟",
@@ -2808,6 +3159,7 @@
     "currentLegislator": true
   },
   {
+    "county": "嘉義縣",
     "constituency": "嘉義縣第一選舉區",
     "name": "王啟澧",
     "party": "中國國民黨",
@@ -2816,6 +3168,7 @@
     "currentLegislator": true
   },
   {
+    "county": "嘉義縣",
     "constituency": "嘉義縣第一選舉區",
     "name": "黃奕瑄",
     "party": "中華統一促進黨",
@@ -2824,6 +3177,7 @@
     "currentLegislator": true
   },
   {
+    "county": "嘉義縣",
     "constituency": "嘉義縣第二選舉區",
     "name": "王金山",
     "party": "台灣維新",
@@ -2832,6 +3186,7 @@
     "currentLegislator": true
   },
   {
+    "county": "嘉義縣",
     "constituency": "嘉義縣第二選舉區",
     "name": "簡明廉",
     "party": "無黨籍",
@@ -2840,6 +3195,7 @@
     "currentLegislator": true
   },
   {
+    "county": "嘉義縣",
     "constituency": "嘉義縣第二選舉區",
     "name": "陳明文",
     "party": "民主進步黨",
@@ -2848,6 +3204,7 @@
     "currentLegislator": true
   },
   {
+    "county": "嘉義縣",
     "constituency": "嘉義縣第二選舉區",
     "name": "許韶珍",
     "party": "喜樂島聯盟",
@@ -2856,6 +3213,7 @@
     "currentLegislator": true
   },
   {
+    "county": "嘉義縣",
     "constituency": "嘉義縣第二選舉區",
     "name": "許能通",
     "party": "無黨籍",
@@ -2864,6 +3222,7 @@
     "currentLegislator": true
   },
   {
+    "county": "嘉義縣",
     "constituency": "嘉義縣第二選舉區",
     "name": "林國慶",
     "party": "無黨籍",
@@ -2872,6 +3231,7 @@
     "currentLegislator": true
   },
   {
+    "county": "嘉義市",
     "constituency": "嘉義市選舉區",
     "name": "黃宏成台灣阿成世界偉人財神總統",
     "party": "無黨籍",
@@ -2880,6 +3240,7 @@
     "currentLegislator": true
   },
   {
+    "county": "嘉義市",
     "constituency": "嘉義市選舉區",
     "name": "蔡永泉",
     "party": "無黨籍",
@@ -2888,6 +3249,7 @@
     "currentLegislator": true
   },
   {
+    "county": "嘉義市",
     "constituency": "嘉義市選舉區",
     "name": "傅大偉",
     "party": "中國國民黨",
@@ -2896,6 +3258,7 @@
     "currentLegislator": true
   },
   {
+    "county": "嘉義市",
     "constituency": "嘉義市選舉區",
     "name": "王美惠",
     "party": "民主進步黨",
@@ -2904,6 +3267,7 @@
     "currentLegislator": true
   },
   {
+    "county": "嘉義市",
     "constituency": "嘉義市選舉區",
     "name": "戴寧",
     "party": "無黨籍",
@@ -2912,6 +3276,7 @@
     "currentLegislator": true
   },
   {
+    "county": "嘉義市",
     "constituency": "嘉義市選舉區",
     "name": "陳泰山",
     "party": "無黨籍",
@@ -2920,6 +3285,7 @@
     "currentLegislator": true
   },
   {
+    "county": "嘉義市",
     "constituency": "嘉義市選舉區",
     "name": "郭瑞豐",
     "party": "國會政黨聯盟",
@@ -2928,6 +3294,7 @@
     "currentLegislator": true
   },
   {
+    "county": "嘉義市",
     "constituency": "嘉義市選舉區",
     "name": "凌子楚",
     "party": "無黨籍",
@@ -2936,6 +3303,7 @@
     "currentLegislator": true
   },
   {
+    "county": "屏東縣",
     "constituency": "屏東縣第一選舉區",
     "name": "蔣月惠",
     "party": "無黨籍",
@@ -2944,6 +3312,7 @@
     "currentLegislator": true
   },
   {
+    "county": "屏東縣",
     "constituency": "屏東縣第一選舉區",
     "name": "潘偉龍",
     "party": "一邊一國行動黨",
@@ -2952,6 +3321,7 @@
     "currentLegislator": true
   },
   {
+    "county": "屏東縣",
     "constituency": "屏東縣第一選舉區",
     "name": "鍾佳濱",
     "party": "民主進步黨",
@@ -2960,6 +3330,7 @@
     "currentLegislator": true
   },
   {
+    "county": "屏東縣",
     "constituency": "屏東縣第一選舉區",
     "name": "葉壽山",
     "party": "中國國民黨",
@@ -2968,6 +3339,7 @@
     "currentLegislator": true
   },
   {
+    "county": "屏東縣",
     "constituency": "屏東縣第一選舉區",
     "name": "翁啓峯",
     "party": "中華統一促進黨",
@@ -2976,6 +3348,7 @@
     "currentLegislator": true
   },
   {
+    "county": "屏東縣",
     "constituency": "屏東縣第一選舉區",
     "name": "黃冬輝",
     "party": "無黨籍",
@@ -2984,6 +3357,7 @@
     "currentLegislator": true
   },
   {
+    "county": "屏東縣",
     "constituency": "屏東縣第一選舉區",
     "name": "秦鴻明",
     "party": "無黨籍",
@@ -2992,6 +3366,7 @@
     "currentLegislator": true
   },
   {
+    "county": "屏東縣",
     "constituency": "屏東縣第二選舉區",
     "name": "鄭文龍",
     "party": "國會政黨聯盟",
@@ -3000,6 +3375,7 @@
     "currentLegislator": true
   },
   {
+    "county": "屏東縣",
     "constituency": "屏東縣第二選舉區",
     "name": "蘇震清",
     "party": "無黨籍",
@@ -3008,6 +3384,7 @@
     "currentLegislator": true
   },
   {
+    "county": "屏東縣",
     "constituency": "屏東縣第二選舉區",
     "name": "周佳琪",
     "party": "中國國民黨",
@@ -3016,6 +3393,7 @@
     "currentLegislator": true
   },
   {
+    "county": "屏東縣",
     "constituency": "屏東縣第二選舉區",
     "name": "馮家芸",
     "party": "台澎黨",
@@ -3024,6 +3402,7 @@
     "currentLegislator": true
   },
   {
+    "county": "屏東縣",
     "constituency": "屏東縣第二選舉區",
     "name": "何麗莉",
     "party": "中華統一促進黨",
@@ -3032,6 +3411,7 @@
     "currentLegislator": true
   },
   {
+    "county": "屏東縣",
     "constituency": "屏東縣第二選舉區",
     "name": "張怡",
     "party": "無黨籍",
@@ -3040,6 +3420,7 @@
     "currentLegislator": true
   },
   {
+    "county": "屏東縣",
     "constituency": "屏東縣第二選舉區",
     "name": "何秋葺",
     "party": "台灣工黨",
@@ -3048,6 +3429,7 @@
     "currentLegislator": true
   },
   {
+    "county": "屏東縣",
     "constituency": "屏東縣第二選舉區",
     "name": "姚宗翰",
     "party": "無黨籍",
@@ -3056,6 +3438,7 @@
     "currentLegislator": true
   },
   {
+    "county": "屏東縣",
     "constituency": "屏東縣第二選舉區",
     "name": "鄭朝明",
     "party": "無黨籍",
@@ -3064,6 +3447,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺東縣",
     "constituency": "臺東縣選舉區",
     "name": "劉櫂豪",
     "party": "民主進步黨",
@@ -3072,6 +3456,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺東縣",
     "constituency": "臺東縣選舉區",
     "name": "張志明",
     "party": "中國國民黨",
@@ -3080,6 +3465,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺東縣",
     "constituency": "臺東縣選舉區",
     "name": "陳允萍",
     "party": "台灣民眾黨",
@@ -3088,6 +3474,7 @@
     "currentLegislator": true
   },
   {
+    "county": "臺東縣",
     "constituency": "臺東縣選舉區",
     "name": "張坤和",
     "party": "無黨籍",
@@ -3096,6 +3483,7 @@
     "currentLegislator": true
   },
   {
+    "county": "花蓮縣",
     "constituency": "花蓮縣選舉區",
     "name": "黃啟嘉",
     "party": "中國國民黨",
@@ -3104,6 +3492,7 @@
     "currentLegislator": true
   },
   {
+    "county": "花蓮縣",
     "constituency": "花蓮縣選舉區",
     "name": "傅崐萁",
     "party": "無黨籍",
@@ -3112,6 +3501,7 @@
     "currentLegislator": true
   },
   {
+    "county": "花蓮縣",
     "constituency": "花蓮縣選舉區",
     "name": "蕭美琴",
     "party": "民主進步黨",
@@ -3120,6 +3510,7 @@
     "currentLegislator": true
   },
   {
+    "county": "花蓮縣",
     "constituency": "花蓮縣選舉區",
     "name": "許願神",
     "party": "臺灣前進黨",
@@ -3128,6 +3519,7 @@
     "currentLegislator": true
   },
   {
+    "county": "花蓮縣",
     "constituency": "花蓮縣選舉區",
     "name": "蕭嘉豪",
     "party": "民生公益",
@@ -3136,6 +3528,7 @@
     "currentLegislator": true
   },
   {
+    "county": "澎湖縣",
     "constituency": "澎湖縣選舉區",
     "name": "呂應宏",
     "party": "喜樂島聯盟",
@@ -3144,6 +3537,7 @@
     "currentLegislator": true
   },
   {
+    "county": "澎湖縣",
     "constituency": "澎湖縣選舉區",
     "name": "歐中慨",
     "party": "中國國民黨",
@@ -3152,6 +3546,7 @@
     "currentLegislator": true
   },
   {
+    "county": "澎湖縣",
     "constituency": "澎湖縣選舉區",
     "name": "楊曜",
     "party": "民主進步黨",
@@ -3160,6 +3555,7 @@
     "currentLegislator": true
   },
   {
+    "county": "金門縣",
     "constituency": "金門縣選舉區",
     "name": "洪正",
     "party": "台灣基進",
@@ -3168,6 +3564,7 @@
     "currentLegislator": true
   },
   {
+    "county": "金門縣",
     "constituency": "金門縣選舉區",
     "name": "洪志恒",
     "party": "金門高粱黨",
@@ -3176,6 +3573,7 @@
     "currentLegislator": true
   },
   {
+    "county": "金門縣",
     "constituency": "金門縣選舉區",
     "name": "洪和成",
     "party": "無黨籍",
@@ -3184,6 +3582,7 @@
     "currentLegislator": true
   },
   {
+    "county": "金門縣",
     "constituency": "金門縣選舉區",
     "name": "陳玉珍",
     "party": "中國國民黨",
@@ -3192,6 +3591,7 @@
     "currentLegislator": true
   },
   {
+    "county": "金門縣",
     "constituency": "金門縣選舉區",
     "name": "程耀德",
     "party": "中華統一促進黨",
@@ -3200,6 +3600,7 @@
     "currentLegislator": true
   },
   {
+    "county": "金門縣",
     "constituency": "金門縣選舉區",
     "name": "盧月香",
     "party": "中國生產黨",
@@ -3208,6 +3609,7 @@
     "currentLegislator": true
   },
   {
+    "county": "金門縣",
     "constituency": "金門縣選舉區",
     "name": "林志錦",
     "party": "無黨籍",
@@ -3216,6 +3618,7 @@
     "currentLegislator": true
   },
   {
+    "county": "金門縣",
     "constituency": "金門縣選舉區",
     "name": "許丕肯",
     "party": "中華新住民黨",
@@ -3224,6 +3627,7 @@
     "currentLegislator": true
   },
   {
+    "county": "金門縣",
     "constituency": "金門縣選舉區",
     "name": "陳滄江",
     "party": "無黨籍",
@@ -3232,6 +3636,7 @@
     "currentLegislator": true
   },
   {
+    "county": "金門縣",
     "constituency": "金門縣選舉區",
     "name": "陳福海",
     "party": "無黨籍",
@@ -3240,6 +3645,7 @@
     "currentLegislator": true
   },
   {
+    "county": "連江縣",
     "constituency": "連江縣選舉區",
     "name": "王長明",
     "party": "無黨籍",
@@ -3248,6 +3654,7 @@
     "currentLegislator": true
   },
   {
+    "county": "連江縣",
     "constituency": "連江縣選舉區",
     "name": "李問",
     "party": "民主進步黨",
@@ -3256,6 +3663,7 @@
     "currentLegislator": true
   },
   {
+    "county": "連江縣",
     "constituency": "連江縣選舉區",
     "name": "陳雪生",
     "party": "中國國民黨",
@@ -3264,6 +3672,7 @@
     "currentLegislator": true
   },
   {
+    "county": "連江縣",
     "constituency": "連江縣選舉區",
     "name": "李克焜",
     "party": "國會政黨聯盟",
@@ -3272,6 +3681,7 @@
     "currentLegislator": true
   },
   {
+    "county": "連江縣",
     "constituency": "連江縣選舉區",
     "name": "曹爾忠",
     "party": "無黨籍",
@@ -3280,6 +3690,7 @@
     "currentLegislator": true
   },
   {
+    "county": "原住民",
     "constituency": "平地原住民選舉區",
     "name": "陳瑩",
     "party": "民主進步黨",
@@ -3288,6 +3699,7 @@
     "currentLegislator": true
   },
   {
+    "county": "原住民",
     "constituency": "平地原住民選舉區",
     "name": "高潞·以用·巴魕剌",
     "party": "台灣維新",
@@ -3296,6 +3708,7 @@
     "currentLegislator": true
   },
   {
+    "county": "原住民",
     "constituency": "平地原住民選舉區",
     "name": "張寶美Ungo．Panay",
     "party": "合一行動聯盟",
@@ -3304,6 +3717,7 @@
     "currentLegislator": true
   },
   {
+    "county": "原住民",
     "constituency": "平地原住民選舉區",
     "name": "達佶祐．卡造Takiyo．Kacaw",
     "party": "合一行動聯盟",
@@ -3312,6 +3726,7 @@
     "currentLegislator": true
   },
   {
+    "county": "原住民",
     "constituency": "平地原住民選舉區",
     "name": "楊進福",
     "party": "無黨籍",
@@ -3320,6 +3735,7 @@
     "currentLegislator": true
   },
   {
+    "county": "原住民",
     "constituency": "平地原住民選舉區",
     "name": "黃仁",
     "party": "中國國民黨",
@@ -3328,6 +3744,7 @@
     "currentLegislator": true
   },
   {
+    "county": "原住民",
     "constituency": "平地原住民選舉區",
     "name": "鄭天財Sra‧Kacaw",
     "party": "中國國民黨",
@@ -3336,6 +3753,7 @@
     "currentLegislator": true
   },
   {
+    "county": "原住民",
     "constituency": "平地原住民選舉區",
     "name": "廖國棟Sufin‧Siluko",
     "party": "中國國民黨",
@@ -3344,6 +3762,7 @@
     "currentLegislator": true
   },
   {
+    "county": "原住民",
     "constituency": "平地原住民選舉區",
     "name": "巫化·巴阿立佑司",
     "party": "喜樂島聯盟",
@@ -3352,6 +3771,7 @@
     "currentLegislator": true
   },
   {
+    "county": "原住民",
     "constituency": "平地原住民選舉區",
     "name": "曾美華",
     "party": "安定力量",
@@ -3360,6 +3780,7 @@
     "currentLegislator": true
   },
   {
+    "county": "原住民",
     "constituency": "山地原住民選舉區",
     "name": "高金素梅",
     "party": "無黨籍",
@@ -3368,6 +3789,7 @@
     "currentLegislator": true
   },
   {
+    "county": "原住民",
     "constituency": "山地原住民選舉區",
     "name": "林信義",
     "party": "無黨籍",
@@ -3376,6 +3798,7 @@
     "currentLegislator": true
   },
   {
+    "county": "原住民",
     "constituency": "山地原住民選舉區",
     "name": "伊斯坦大．貝雅夫．正福 Istanda．Paingav ",
     "party": "無黨籍",
@@ -3384,6 +3807,7 @@
     "currentLegislator": true
   },
   {
+    "county": "原住民",
     "constituency": "山地原住民選舉區",
     "name": "張曜羣 Lawpaw Buya",
     "party": "綠黨",
@@ -3392,6 +3816,7 @@
     "currentLegislator": true
   },
   {
+    "county": "原住民",
     "constituency": "山地原住民選舉區",
     "name": "伍麗華 Saidhai．Tahovecahe",
     "party": "民主進步黨",
@@ -3400,6 +3825,7 @@
     "currentLegislator": true
   },
   {
+    "county": "原住民",
     "constituency": "山地原住民選舉區",
     "name": "章正輝 Lemaljiz‧Kusaza",
     "party": "中國國民黨",
@@ -3408,6 +3834,7 @@
     "currentLegislator": true
   },
   {
+    "county": "原住民",
     "constituency": "山地原住民選舉區",
     "name": "孔文吉",
     "party": "中國國民黨",
@@ -3416,6 +3843,7 @@
     "currentLegislator": true
   },
   {
+    "county": "原住民",
     "constituency": "山地原住民選舉區",
     "name": "撒卡伊",
     "party": "台澎黨",
@@ -3424,6 +3852,7 @@
     "currentLegislator": true
   },
   {
+    "county": "原住民",
     "constituency": "山地原住民選舉區",
     "name": "高畹芯 ",
     "party": "喜樂島聯盟 ",
@@ -3432,6 +3861,7 @@
     "currentLegislator": true
   },
   {
+    "county": "原住民",
     "constituency": "山地原住民選舉區",
     "name": "林曉婷",
     "party": "無黨籍",

@@ -115,9 +115,16 @@ def update_vernacular():
 
 
 def store_all_candidates():
+    def get_county(constituency):
+        if constituency[2:5] == "原住民":
+            return "原住民"
+        else:
+            return constituency[0:3]
+
     query = ManualCandidate.select()
     candidates = [
         {
+            "county": get_county(candidate.constituency),
             "constituency": candidate.constituency,
             "name": candidate.name,
             "party": candidate.party,
