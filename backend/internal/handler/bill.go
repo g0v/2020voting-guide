@@ -62,23 +62,25 @@ func getRegionalCandidate(name string, constituency string) (c *db.ManualCandida
 	return
 }
 
-func getPersonalBills(name string) (mBills *[]models.Bill) {
+func getPersonalBills(name string) *[]models.Bill {
 	bills := []db.Bill{}
 	db.MySQL.Where("billNo IN (?) AND term = 09", db.MySQL.Table("proposercosignatory").Select("billNo").Where("name = ? AND role = 'proposer'", name).QueryExpr()).Find(&bills)
+	mBills := []models.Bill{}
 	for _, bill := range bills {
-		*mBills = append(*mBills, bill.ToModelBill("立委提案"))
+		mBills = append(mBills, bill.ToModelBill("立委提案"))
 	}
-	return
+	return &mBills
 }
 
-func getPartyBills(party string) (mBills *[]models.Bill) {
+func getPartyBills(party string) *[]models.Bill {
 	var orgBillsDb []db.Bill
 	caucusFilter := "本院" + getCaucusName(party)
 	db.MySQL.Where("billOrg LIKE ? AND term = ?", caucusFilter, "09").Find(&orgBillsDb)
+	mBills := []models.Bill{}
 	for _, bill := range orgBillsDb {
-		*mBills = append(*mBills, bill.ToModelBill("黨團提案"))
+		mBills = append(mBills, bill.ToModelBill("黨團提案"))
 	}
-	return
+	return &mBills
 }
 
 // GetBillHandler get bill info and bill description

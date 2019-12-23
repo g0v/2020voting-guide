@@ -23,7 +23,7 @@ func SetupRouter() *gin.Engine {
 	api.GET("/candidate/:constituency/:name", handler.GetCandidateByNameHandler)
 	api.GET("/party/:name", handler.GetPartyByNameHandler)
 	api.GET("/bills/:constituency/:name", handler.ListRelatedBillsByConstituency)
-	api.GET("/bills/party/:party/:name", handler.ListRelatedBillsByParty)
+	api.GET("/nonregional/bills/:party/:name", handler.ListRelatedBillsByParty)
 	api.GET("/bill/:id", handler.GetBillHandler)
 	api.GET("/statistic/:name", handler.GetStatisticByNameHandler)
 	api.GET("/fb/:constituency/:name", handler.GetCandidateFB)
