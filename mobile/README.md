@@ -4,6 +4,22 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### Quick start by vscode + docker
+detailed steps in the [official documentation](https://code.visualstudio.com/remote-tutorials/containers/getting-started)
+1. download and install docker, and sign up if required - [download link](https://www.docker.com/products/developer-tools)
+2. download and install vscode - [download link](https://code.visualstudio.com/download)
+3. double-click to run docker desktop application, and sign in if required
+4. double-click to run vscode, and install Remote Development extension pack - [download link](https://aka.ms/vscode-remote/download/extension)
+5. in vscode, click the '><' at the bottom-left corner![](https://code.visualstudio.com/assets/remote-tutorials/containers/remote-status-bar.png)
+6. click "Open Folder...", and choose the "mobile" folder ![](https://code.visualstudio.com/assets/remote-tutorials/containers/remote-containers-commands.png)
+7. wait for the container to build ![](https://code.visualstudio.com/assets/remote-tutorials/containers/building-image.png)
+8. after the container is built, you should see some text start with "Dev Container"(but may not be the same as text, "Node.js Sample") ![](https://code.visualstudio.com/assets/remote-tutorials/containers/connected.png)
+9. in vscode, press "Ctrl + J or Command + J" to open the terminal panel [more inforamtion about the terminal in vscode](https://code.visualstudio.com/docs/editor/integrated-terminal)
+10. press "+" to add new terminal window, enter in terminal `npm install && npm start`
+11. may take a few minutes to wait for it to install packages, compile, and start up the server
+12. open browser, go to "http://localhost:3000", and you should see the website page with something like the following on it ![](https://vote.ly.g0v.tw/img/home/kv-calendar.svg)
+13. and then happy coding :)
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
