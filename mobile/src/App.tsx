@@ -15,6 +15,7 @@ import Progressing from './components/Progressing';
 import VernacularListPage from './components/Vernacular/VernacularListPage';
 import VernacularPage from './components/Vernacular/VernacularPage';
 import About from './components/About';
+import SearchContainer from './components/Search/SearchContainer';
 
 interface State {
     visible: boolean;
@@ -36,6 +37,7 @@ const App = () => {
             <Container maxWidth={false} className="main-container p-0">
                 <Nav open={open} handleDrawerOpen={handleDrawerOpen} />
                 <AppDrawer handleDrawerClose={handleDrawerClose} open={open} />
+                
                 <Box className="main-container__content">
                     <Switch>
                         <Route exact path="/" component={Home} />
