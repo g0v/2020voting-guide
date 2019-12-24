@@ -27,11 +27,9 @@ const Footer = () => {
                             </Typography>
                         </Box>
                         <Box my={5} className="footer__block-about">
-                                <Link href="/about">
-                                    <Typography variant="h3">
-                                        關於我們
-                                    </Typography>
-                                </Link>
+                            <Link href="/about">
+                                <Typography variant="h3">關於我們</Typography>
+                            </Link>
                             <Link
                                 target="_blank"
                                 href="https://docs.google.com/forms/d/e/1FAIpQLSfc_MGy-ImXbukLWk-YsA3a96ZDf9etHF0TmSLPHPniTxaMxw/viewform"
@@ -76,7 +74,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <Typography variant="h4" className="footer__powered">
-                    Powered by g0v 選前大補貼團隊
+                    Powered by g0v 選前大補帖團隊
                 </Typography>
             </Container>
         </footer>
