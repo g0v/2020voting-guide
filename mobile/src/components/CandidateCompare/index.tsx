@@ -1,6 +1,5 @@
 import React from 'react';
-import { Link, Box, Card, IconButton } from '@material-ui/core';
-import CloseIcon from '@material-ui/icons/Close';
+import { Link, Box, Card } from '@material-ui/core';
 import Typography from '@material-ui/core/Typography';
 import KeyboardArrowLeft from '@material-ui/icons/KeyboardArrowLeft';
 import CandidateCompareCardHeader from './CandidateCompareCardHeader';
@@ -10,7 +9,6 @@ import CandidateCompareCardIssueBill from './CandidateCompareCardIssueBill';
 import CandidateCompareCardEducation from './CandidateCompareCardEducation';
 import CandidateCompareCardPolitical from './CandidateCompareCardPolitical';
 import CandidateCompareCardHeaderFixed from './CandidateCompareCardHeaderFixed';
-import DeleteButton from './DeleteButton';
 import clsx from 'clsx';
 import './CandidateCompare.scss';
 
@@ -53,8 +51,11 @@ const CandidateCompare = ({ match }: Route) => {
         const swiper = new window.Swiper(swiperContainer.current, {
             slidesPerView: 'auto',
             freeMode: true,
+            scrollbarHide: false,
+            // mousewheel: true,
             scrollbar: {
-                el: '.swiper-scrollbar'
+                el: '.swiper-scrollbar',
+                draggable: true
             },
             on: {
                 transitionStart() {
@@ -155,6 +156,14 @@ const CandidateCompare = ({ match }: Route) => {
                                     />
                                 );
                             })}
+                            <div className="candidate-compare-card">
+                                <a
+                                    className="btn btn-rounded candidate-compare-add-btn"
+                                    href={`/regional/台北市/${constituency}?select=${names}`}
+                                >
+                                    +
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>
