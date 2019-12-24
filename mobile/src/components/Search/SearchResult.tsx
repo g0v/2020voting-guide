@@ -36,12 +36,13 @@ const SearchResults = ({
   if(data) {
     return (
       <Box>
-        {data.parties.map((party, i) => (
-          <PartyCard 
+        {data.constituecyCandidates.map((c, i) => (
+          <CandidateCard 
             key={i}
-            {...party} />
+            id={String(i)} 
+            {...c}
+            experience={handleNullValueToString(c.experience)} />
         ))}
-        <hr />
         {data.partyCandidates.map((c, i) => (
           <SingleCandidateItem
             key={i}  
@@ -49,14 +50,13 @@ const SearchResults = ({
                 ...c,
                 avatar: '',
                 age: String(c.age)
-              }}   />
+              }} />
         ))}
-        {data.constituecyCandidates.map((c, i) => (
-          <CandidateCard 
+        <hr />
+        {data.parties.map((party, i) => (
+          <PartyCard 
             key={i}
-            id={String(i)} 
-            {...c}
-            experience={handleNullValueToString(c.experience)} />
+            {...party} />
         ))}
       </Box>
     )
