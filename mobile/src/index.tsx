@@ -7,7 +7,7 @@ import App from './App';
 import './index.scss';
 import * as serviceWorker from './serviceWorker';
 
-const theme = createMuiTheme({
+export const theme = createMuiTheme({
     palette: {
         primary: {
             main: '#3199BA'

@@ -13,7 +13,7 @@ const useStyles = makeStyles<Theme, Props, any>({
 })
 
 type Props = {
-  photo: string,
+  photo: string | null,
   name: string,
   width?: number
 }

@@ -6,6 +6,7 @@ import PartyCard from '../PartyCandidates/PartyCard'
 import SingleCandidateItem from '../Party/SingleCandidateItem'
 import { CandidateCard } from '../ConstituencyCandidates/CandidateCard'
 import filterDatasByKeyValue from './functions/filterDatasByKeyValue'
+import SingleConstituencyCadidateItem from './SearchResultItems/SingleConstituencyCadidateItem'
 
 type Props = {
   loading: boolean,
@@ -37,11 +38,9 @@ const SearchResults = ({
     return (
       <Box>
         {data.constituecyCandidates.map((c, i) => (
-          <CandidateCard 
-            key={i}
-            id={String(i)} 
-            {...c}
-            experience={handleNullValueToString(c.experience)} />
+          <SingleConstituencyCadidateItem
+            key={i}  
+            {...c} />
         ))}
         {data.partyCandidates.map((c, i) => (
           <SingleCandidateItem

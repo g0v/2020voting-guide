@@ -5,7 +5,7 @@ export type SingleConstituencyCandidate = {
   "county": string,
   "constituency": string,
   "name": string,
-  "photo": string,
+  "photo": string | null,
   "party": string,
   "experience": string | null,
   "currentLegislator": boolean
