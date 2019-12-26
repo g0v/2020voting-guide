@@ -6,10 +6,11 @@ type Props = {
 }
 const DecoratedTitle = ({ title }: Props) => {
   return (
-    <Box display="flex" alignItems="center" mx={1.5} pt={3}>
+    <Box display="flex" alignItems="center" mx={1.5} pt={3} 
+    paddingBottom={'8px'}>
         <Box
           width="8px"
-          height="24px"
+          height="16px"
           mr={1}
           borderRadius="4px"
           bgcolor="primary.main"

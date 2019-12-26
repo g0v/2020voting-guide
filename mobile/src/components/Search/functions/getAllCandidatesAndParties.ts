@@ -1,10 +1,10 @@
 import getAllParties from "./getAllParties"
-import getAllPartyCandidates, { SingleCandidataInParty } from "./getPartyCandidated"
+import getAllPartyCandidates, { SingleCandidateInParty } from "./getPartyCandidated"
 import getAllConstituencyCandidates, { SingleConstituencyCandidate } from "./getAllConstituencyCandidates"
 
 export type AllCandidatesAndParties = {
   parties: ReturnType<typeof getAllParties>,
-  partyCandidates: SingleCandidataInParty[],
+  partyCandidates: SingleCandidateInParty[],
   constituecyCandidates: SingleConstituencyCandidate[]
 }
 

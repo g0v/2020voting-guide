@@ -1,6 +1,6 @@
 import partiesCandidates from '../../../data/party_candidates.json';
 
-export type SingleCandidataInParty = {
+export type SingleCandidateInParty = {
   party: string
   rank: number
   name: string
@@ -23,7 +23,7 @@ export type SingleCandidataInParty = {
 }
 
 type PartiesCandidate = {
-  [x in keyof typeof partiesCandidates]: SingleCandidataInParty[]
+  [x in keyof typeof partiesCandidates]: SingleCandidateInParty[]
 }
 
 const getPartyCandidates = (): PartiesCandidate  => {
@@ -34,7 +34,7 @@ const getPartyCandidates = (): PartiesCandidate  => {
 
 const getAllPartyCandidates = () => {
   const partiesCandidates = getPartyCandidates()
-  let allCandidates: SingleCandidataInParty[] = []
+  let allCandidates: SingleCandidateInParty[] = []
 
   const parties = Object.keys(partiesCandidates) as (keyof PartiesCandidate)[]
   for (const party of parties) {

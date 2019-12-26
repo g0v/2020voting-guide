@@ -38,8 +38,7 @@ const SearchContainer = () => {
         changeInput={changeInput}
         searchFn={handleSearch} />
       <SearchResults 
-        {...fetchResult}
-        inputValue={searchInput} />
+        {...fetchResult} />
     </Box>
   )
 }
