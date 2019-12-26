@@ -9,6 +9,7 @@ import Typography from '@material-ui/core/Typography';
 import ChevronRightIcon from '@material-ui/icons/ChevronRight';
 import React from 'react';
 import countyConstituency from '../data/county_constituency.json';
+import SearchContainer from './Search/SearchContainer';
 
 const drawerWidth = 315;
 const useStyles = makeStyles((theme: Theme) =>
@@ -123,6 +124,7 @@ const AppDrawer = ({ open, handleDrawerClose }: AppDrawer) => {
                     </IconButton>
                 </div>
                 <Divider />
+                <SearchContainer />
                 <List>
                 <ListItem
                         button
