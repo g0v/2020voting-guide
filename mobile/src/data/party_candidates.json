@@ -1,6 +1,5 @@
 {
-    "國會政黨聯盟": [
-        {
+    "國會政黨聯盟": [{
             "party": "國會政黨聯盟",
             "rank": 1,
             "name": "徐欣瑩",
@@ -127,8 +126,7 @@
             "unvarifiedPolitics": ""
         }
     ],
-    "時代力量": [
-        {
+    "時代力量": [{
             "party": "時代力量",
             "rank": 1,
             "name": "陳椒華",
@@ -360,8 +358,7 @@
             "unvarifiedPolitics": ""
         }
     ],
-    "宗教聯盟": [
-        {
+    "宗教聯盟": [{
             "party": "宗教聯盟",
             "rank": 1,
             "name": "朱武獻",
@@ -530,8 +527,7 @@
             "unvarifiedPolitics": ""
         }
     ],
-    "台灣基進": [
-        {
+    "台灣基進": [{
             "party": "台灣基進",
             "rank": 1,
             "name": "成令方",
@@ -658,8 +654,7 @@
             "unvarifiedPolitics": ""
         }
     ],
-    "民主進步黨": [
-        {
+    "民主進步黨": [{
             "party": "民主進步黨",
             "rank": 1,
             "name": "吳玉琴",
@@ -693,7 +688,7 @@
             "fb": "",
             "education": "國立台灣大學大氣科學系肄業",
             "educationLink": "官方提供",
-            "experience": "現任綠色公民行動聯盟副秘書長\n行政院能源及減碳委員會委員",
+            "experience": "曾任綠色公民行動聯盟副秘書長\n行政院能源及減碳委員會委員",
             "experienceLink": "官方提供",
             "politics": "",
             "politicsLink": "",
@@ -1353,8 +1348,7 @@
             "unvarifiedPolitics": ""
         }
     ],
-    "勞動黨": [
-        {
+    "勞動黨": [{
             "party": "勞動黨",
             "rank": 1,
             "name": "羅美文",
@@ -1397,8 +1391,7 @@
             "unvarifiedPolitics": ""
         }
     ],
-    "中國國民黨": [
-        {
+    "中國國民黨": [{
             "party": "中國國民黨",
             "rank": 1,
             "name": "曾銘宗",
@@ -2050,8 +2043,7 @@
             "unvarifiedPolitics": ""
         }
     ],
-    "綠黨": [
-        {
+    "綠黨": [{
             "party": "綠黨",
             "rank": 1,
             "name": "鄧惠文",
@@ -2178,8 +2170,7 @@
             "unvarifiedPolitics": ""
         }
     ],
-    "親民黨": [
-        {
+    "親民黨": [{
             "party": "親民黨",
             "rank": 1,
             "name": "滕西華",
@@ -2642,8 +2633,7 @@
             "unvarifiedPolitics": ""
         }
     ],
-    "台灣民眾黨": [
-        {
+    "台灣民眾黨": [{
             "party": "台灣民眾黨",
             "rank": 1,
             "name": "賴香伶",
@@ -3232,8 +3222,7 @@
             "unvarifiedPolitics": ""
         }
     ],
-    "台灣團結聯盟": [
-        {
+    "台灣團結聯盟": [{
             "party": "台灣團結聯盟",
             "rank": 1,
             "name": "潘建志",
@@ -3381,8 +3370,7 @@
             "unvarifiedPolitics": ""
         }
     ],
-    "台灣維新": [
-        {
+    "台灣維新": [{
             "party": "台灣維新",
             "rank": 1,
             "name": "賀德芬",
@@ -3509,8 +3497,7 @@
             "unvarifiedPolitics": ""
         }
     ],
-    "台澎黨": [
-        {
+    "台澎黨": [{
             "party": "台澎黨",
             "rank": 1,
             "name": "鄭自才",
@@ -3595,8 +3582,7 @@
             "unvarifiedPolitics": ""
         }
     ],
-    "中華統一促進黨": [
-        {
+    "中華統一促進黨": [{
             "party": "中華統一促進黨",
             "rank": 1,
             "name": "謝啟大",
@@ -3744,8 +3730,7 @@
             "unvarifiedPolitics": ""
         }
     ],
-    "喜樂島聯盟": [
-        {
+    "喜樂島聯盟": [{
             "party": "喜樂島聯盟",
             "rank": 1,
             "name": "林秀霞",
@@ -3872,8 +3857,7 @@
             "unvarifiedPolitics": ""
         }
     ],
-    "新黨": [
-        {
+    "新黨": [{
             "party": "新黨",
             "rank": 1,
             "name": "邱毅",
@@ -4084,8 +4068,7 @@
             "unvarifiedPolitics": ""
         }
     ],
-    "合一行動聯盟": [
-        {
+    "合一行動聯盟": [{
             "party": "合一行動聯盟",
             "rank": 1,
             "name": "彭迦智",
@@ -4254,8 +4237,7 @@
             "unvarifiedPolitics": ""
         }
     ],
-    "一邊一國行動黨": [
-        {
+    "一邊一國行動黨": [{
             "party": "一邊一國行動黨",
             "rank": 1,
             "name": "陳昭姿",
@@ -4382,8 +4364,7 @@
             "unvarifiedPolitics": ""
         }
     ],
-    "安定力量": [
-        {
+    "安定力量": [{
             "party": "安定力量",
             "rank": 1,
             "name": "朱竹元",

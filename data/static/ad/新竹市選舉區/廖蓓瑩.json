@@ -1,0 +1,536 @@
+[
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "廖蓓瑩",
+    "AD_ID": "585645512221433",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-10",
+    "結束日期": "2019-12-11",
+    "廣告內容": "國會政黨聯盟　 新竹市立法委員參選人 廖蓓瑩  「新竹+倍贏」 國際觀 改變政治文化 時尚人 引領城市美學 會做事 公共事務能力強 服務青年 發展青創與文創",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/80128042_585645535554764_8375845710838366208_n.jpg?_nc_cat=106&_nc_ohc=-hGMJezyQpMAQmbmaidCgbnpQrzAMpQ-28SAo0-kOArUJs4HTzH97UP2A&_nc_ht=scontent-hkg3-1.xx&oh=31393194b22cd92ab7b784accd07d8fe&oe=5EAB0215",
+    "廣告詳情": {
+      "ad_creative_body": "國會政黨聯盟　\n新竹市立法委員參選人\n廖蓓瑩 \n\n「新竹+倍贏」\n\n國際觀 改變政治文化\n時尚人 引領城市美學\n會做事 公共事務能力強\n服務青年 發展青創與文創",
+      "ad_creation_time": "2019-12-11T06:26:05+0000",
+      "ad_creative_link_description": " ",
+      "ad_creative_link_title": "廖蓓瑩 新竹市立委候選人",
+      "ad_delivery_start_time": "2019-12-11T06:26:17+0000",
+      "ad_delivery_stop_time": "2019-12-12T06:26:17+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.053364",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.174942",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.163341",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.009745",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.115545",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.235731",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.086311",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.072854",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.013457",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.021346",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.024594",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.028306",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000464",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "奕芸邱",
+      "impressions": {
+        "lower_bound": "2000",
+        "upper_bound": "2999"
+      },
+      "page_id": "2227824747528392",
+      "page_name": "廖蓓瑩 新竹市立委候選人",
+      "region_distribution": [
+        {
+          "percentage": "0.095369",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.904631",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "199"
+      },
+      "ad_id": "585645512221433"
+    }
+  },
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "廖蓓瑩",
+    "AD_ID": "2714587791966982",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-10",
+    "結束日期": "2019-12-15",
+    "廣告內容": "國會政黨聯盟　 新竹市立法委員參選人 廖蓓瑩  「新竹+倍贏」 國際觀 改變政治文化 時尚人 引領城市美學 會做事 公共事務能力強 服務青年 發展青創與文創",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/80357551_2714587815300313_8191564448171819008_n.jpg?_nc_cat=104&_nc_ohc=6ZQ4D9rNPTMAQmy2deLym1DIpM2qR-MF12Q3AWDll9PLqa0Sq5YBu3DXw&_nc_ht=scontent-hkg3-1.xx&oh=be6c1447ff7f6a5996cc3cf0bf8e6e75&oe=5EA4F0DF",
+    "廣告詳情": {
+      "ad_creative_body": "國會政黨聯盟　\n新竹市立法委員參選人\n廖蓓瑩 \n\n「新竹+倍贏」\n\n國際觀 改變政治文化\n時尚人 引領城市美學\n會做事 公共事務能力強\n服務青年 發展青創與文創",
+      "ad_creation_time": "2019-12-11T05:17:25+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "國會政黨聯盟　\n新竹市立法委員參選人\n廖蓓瑩 \n\n「新竹+倍贏」\n\n國際觀 改變政治文化\n時尚人 引領城市美學\n會做事 公共事務能力強\n服務青年 發展青創與文創\n",
+      "ad_creative_link_title": "廖蓓瑩 新竹市立委候選人",
+      "ad_delivery_start_time": "2019-12-11T05:17:38+0000",
+      "ad_delivery_stop_time": "2019-12-16T05:17:38+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.16534",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.27321",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.132626",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.199823",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.004421",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.098143",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.012378",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.02122",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.013263",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.022104",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.022989",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.030062",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.002653",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000884",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000884",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "奕芸邱",
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "1999"
+      },
+      "page_id": "2227824747528392",
+      "page_name": "廖蓓瑩 新竹市立委候選人",
+      "region_distribution": [
+        {
+          "percentage": "0.027265",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.021108",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.065084",
+          "region": "Hsinchu City"
+        },
+        {
+          "percentage": "0.016711",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.029024",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.014952",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.014952",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.033421",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.004398",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.009675",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.003518",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.116974",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.008795",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.002639",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.056288",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.08883",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.120493",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.101143",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.091469",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.170624",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.002639",
+          "region": "Hsinchu"
+        }
+      ],
+      "spend": {
+        "lower_bound": "300",
+        "upper_bound": "399"
+      },
+      "ad_id": "2714587791966982"
+    }
+  },
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "廖蓓瑩",
+    "AD_ID": "724485454703271",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-12",
+    "結束日期": "2019-12-16",
+    "廣告內容": "【上下文不連貫之大碗寬麵政策開箱】 每個人美食清單中一定會有一碗吃了還想再吃的牛肉麵🍜 每個新竹人心中一定會有一條開過絕對不會想再開的路🚙 #大碗寬麵其實是政治的精神 #消極的制衡藍綠是不夠的  #更應積極推動政黨合作讓經濟民生法案快速通過 #大推吳亦凡大碗寬麵",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80754568_724485464703270_4248789826268037120_n.jpg?_nc_cat=105&_nc_ohc=XIeExSW85tYAQm3y4R0Jm0Sl9MyzD5lx07Xa93eCzR0cKEzR09BHdOnww&_nc_ht=scontent-hkg3-1.xx&oh=763d3580fdd25b26ef67b511f212e30b&oe=5EB2B1D4",
+    "廣告詳情": {
+      "ad_creative_body": "【上下文不連貫之大碗寬麵政策開箱】\n每個人美食清單中一定會有一碗吃了還想再吃的牛肉麵🍜\n每個新竹人心中一定會有一條開過絕對不會想再開的路🚙\n\n#大碗寬麵其實是政治的精神\n#消極的制衡藍綠是不夠的 \n#更應積極推動政黨合作讓經濟民生法案快速通過\n#大推吳亦凡大碗寬麵",
+      "ad_creation_time": "2019-12-12T08:04:41+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_title": "【上下文不連貫之大碗寬麵政策開箱】",
+      "ad_delivery_start_time": "2019-12-12T08:04:41+0000",
+      "ad_delivery_stop_time": "2019-12-16T08:04:29+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.079382",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.070043",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000359",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001437",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000359",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.012213",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.057112",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.014368",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.034124",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000718",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.043463",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.157328",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.106322",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.163075",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.196839",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.0625",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000359",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "奕芸邱",
+      "impressions": {
+        "lower_bound": "3000",
+        "upper_bound": "3999"
+      },
+      "page_id": "2227824747528392",
+      "page_name": "廖蓓瑩 新竹市立委候選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "300",
+        "upper_bound": "399"
+      },
+      "ad_id": "724485454703271"
+    }
+  },
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "廖蓓瑩",
+    "AD_ID": "2199832296988039",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-17",
+    "結束日期": "1970-01-01",
+    "廣告內容": "三陽開泰 萬事OK #立委選三號新竹加倍贏",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79998820_2353150971662435_6940186491955970048_n.jpg?_nc_cat=102&_nc_ohc=2ZhT2ucnS_gAQlr5l9zsnTcTsG5nCAn3QwMy933Jv4wFCgSOtDYCcKpjQ&_nc_ht=scontent-hkg3-1.xx&oh=ef327c3f12dfe2aee094d6b2d3c909a7&oe=5E72A2A3",
+    "廣告詳情": {
+      "ad_creative_body": "三陽開泰\n萬事OK\n\n#立委選三號新竹加倍贏",
+      "ad_creation_time": "2019-12-18T07:14:43+0000",
+      "ad_delivery_start_time": "2019-12-18T07:14:43+0000",
+      "ad_delivery_stop_time": "2019-12-22T07:14:31+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000489",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000489",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.204301",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.151026",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.096285",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.017595",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.195503",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.011241",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.097752",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.139296",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.034702",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.013196",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.013196",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.024927",
+          "age": "65+",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "奕芸邱",
+      "impressions": {
+        "lower_bound": "3000",
+        "upper_bound": "3999"
+      },
+      "page_id": "2227824747528392",
+      "page_name": "廖蓓瑩 新竹市立委候選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "400",
+        "upper_bound": "499"
+      },
+      "ad_id": "2199832296988039"
+    }
+  }
+]

@@ -3,11 +3,11 @@
     "選區": "花蓮縣選舉區",
     "參選人": "黃啟嘉",
     "AD_ID": "600696253792910",
-    "登錄為政治廣告": "否",
-    "開始日期": "2019-08-07",
-    "結束日期": "2019-12-05",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-23",
+    "結束日期": "1970-01-01",
     "廣告內容": "國民黨花蓮縣立委參選人 黃啟嘉醫師 懇請鄉親繼續支持 改變花蓮持續前進 啟動花蓮  嘉倍繁榮 相信啟嘉  效果奇佳",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/68883468_600696263792909_2738071844820090880_n.jpg?_nc_cat=111&_nc_ohc=Gz8fHbQexC8AQnjoLdUcFp23lAhZ7wJ7mjF488n4blIWWrwv7_kkHPnxQ&_nc_ht=scontent-hkg3-1.xx&oh=736d5f6a988e0bbdfccfb9ae97d9a024&oe=5E7DD468",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78693035_430550444292660_8933263342655504384_n.jpg?_nc_cat=104&_nc_ohc=7pCtm89IJDMAQmbBTVIF0NZ3vsg0DUvCMquEPtdk6CI2eqXRTvf-ITaYQ&_nc_ht=scontent-hkg3-1.xx&oh=e6a7a64859be6c65cf7191e324b19e16&oe=5E83334F",
     "廣告詳情": {
       "ad_creative_body": "國民黨花蓮縣立委參選人\n黃啟嘉醫師\n\n懇請鄉親繼續支持\n改變花蓮持續前進\n\n啟動花蓮  嘉倍繁榮\n相信啟嘉  效果奇佳",
       "ad_creation_time": "2019-08-07T08:08:51+0000",
@@ -202,7 +202,8 @@
       "spend": {
         "lower_bound": "1000",
         "upper_bound": "4999"
-      }
+      },
+      "ad_id": "600696253792910"
     }
   },
   {
@@ -211,7 +212,7 @@
     "AD_ID": "430549844292720",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-23",
-    "結束日期": "2019-12-06",
+    "結束日期": "1970-01-01",
     "廣告內容": "國民黨花蓮縣立委參選人 黃啟嘉醫師 懇請鄉親繼續支持 改變花蓮持續前進 啟動花蓮  嘉倍繁榮 相信啟嘉  效果奇佳",
     "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78693035_430550444292660_8933263342655504384_n.jpg?_nc_cat=104&_nc_ohc=7pCtm89IJDMAQmbBTVIF0NZ3vsg0DUvCMquEPtdk6CI2eqXRTvf-ITaYQ&_nc_ht=scontent-hkg3-1.xx&oh=e6a7a64859be6c65cf7191e324b19e16&oe=5E83334F",
     "廣告詳情": {
@@ -225,192 +226,198 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000242",
-          "age": "25-34",
+          "percentage": "0.000587",
+          "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.061546",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000242",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000242",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.048704",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.101769",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.014296",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.023019",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.072692",
+          "percentage": "0.06511",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.000969",
-          "age": "35-44",
+          "percentage": "0.000469",
+          "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.142476",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.161134",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.038769",
+          "percentage": "0.040826",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.074388",
+          "percentage": "0.041882",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.12236",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.021469",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.097841",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.167919",
+          "percentage": "0.055725",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000117",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.153332",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.09135",
+          "percentage": "0.076959",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.000242",
+          "percentage": "0.034139",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.156851",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.131628",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000235",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000235",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000235",
           "age": "65+",
           "gender": "unknown"
         }
       ],
       "funding_entity": "晶晶 莊",
       "impressions": {
-        "lower_bound": "7000",
-        "upper_bound": "7999"
+        "lower_bound": "15000",
+        "upper_bound": "19999"
       },
       "page_id": "389521298483300",
       "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
       "region_distribution": [
         {
-          "percentage": "0.000235",
+          "percentage": "0.000114",
           "region": "Lienchiang"
         },
         {
-          "percentage": "0.027504",
+          "percentage": "0.049526",
           "region": "Hualien"
         },
         {
-          "percentage": "0.012459",
+          "percentage": "0.011412",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.03291",
+          "percentage": "0.035604",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.01622",
-          "region": "Taitung"
-        },
-        {
-          "percentage": "0.036671",
-          "region": "Pingtung"
-        },
-        {
-          "percentage": "0.004231",
-          "region": "Penghu"
-        },
-        {
-          "percentage": "0.014339",
-          "region": "Nantou"
-        },
-        {
-          "percentage": "0.024918",
-          "region": "Miaoli"
-        },
-        {
-          "percentage": "0.002821",
-          "region": "Kinmen"
-        },
-        {
-          "percentage": "0.003996",
-          "region": "Hsinchu"
-        },
-        {
-          "percentage": "0.000705",
+          "percentage": "0.010042",
           "region": "Yilan"
         },
         {
-          "percentage": "0.041608",
-          "region": "Changhua"
+          "percentage": "0.013466",
+          "region": "Taitung"
         },
         {
-          "percentage": "0.118007",
-          "region": "New Taipei City"
+          "percentage": "0.039827",
+          "region": "Pingtung"
         },
         {
-          "percentage": "0.115186",
-          "region": "Taichung"
+          "percentage": "0.014036",
+          "region": "Nantou"
         },
         {
-          "percentage": "0.108134",
-          "region": "Taoyuan City"
+          "percentage": "0.023508",
+          "region": "Miaoli"
         },
         {
-          "percentage": "0.085802",
-          "region": "Tainan"
+          "percentage": "0.004565",
+          "region": "Kinmen"
         },
         {
-          "percentage": "0.137047",
-          "region": "Taipei"
+          "percentage": "0.003423",
+          "region": "Hsinchu"
         },
         {
-          "percentage": "0.157969",
-          "region": "Kaohsiung"
-        },
-        {
-          "percentage": "0.027974",
-          "region": "Unknown"
-        },
-        {
-          "percentage": "0.002586",
+          "percentage": "0.002168",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.028679",
+          "percentage": "0.038914",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.11035",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.115029",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.099281",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.090038",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.130663",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.143558",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.028757",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.005934",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.029784",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "1000",
-        "upper_bound": "1499"
-      }
+        "lower_bound": "2500",
+        "upper_bound": "2999"
+      },
+      "ad_id": "430549844292720"
     }
   },
   {
@@ -421,7 +428,7 @@
     "開始日期": "2019-11-23",
     "結束日期": "2019-11-28",
     "廣告內容": "中廣新聞專訪7: 【感冒了該怎麼辦？】 快來聆聽黃啟嘉醫師在中國新聞網受訪的內容。 聽聽如何預防流感。。。 #支持黃啟嘉 #中廣新聞 #花蓮要更好",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78393555_2447355152204638_6466871694253359104_n.jpg?_nc_cat=102&_nc_ohc=szbV47hCm5wAQmxxJz7hAOW-LQcFXIrWlNtJEE_q3EEEGNbyJEA9FQD7g&_nc_ht=scontent-hkg3-1.xx&oh=742a4143771d0055d436c25f44131f14&oe=5E782F26",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78393555_2447355152204638_6466871694253359104_n.jpg?_nc_cat=102&_nc_ohc=rqpqZRf_oz4AQln-_NXXQQfkP2CY84sT-baS8N02GG3BSIuLvTySaxwPg&_nc_ht=scontent-hkg3-1.xx&oh=9c85bd4983cf07792ccc1d7c9b1a2126&oe=5E782F26",
     "廣告詳情": {
       "ad_creative_body": "中廣新聞專訪7:\n【感冒了該怎麼辦？】\n快來聆聽黃啟嘉醫師在中國新聞網受訪的內容。\n聽聽如何預防流感。。。\n\n#支持黃啟嘉\n#中廣新聞\n#花蓮要更好",
       "ad_creation_time": "2019-11-24T06:54:29+0000",
@@ -562,7 +569,8 @@
       "spend": {
         "lower_bound": "400",
         "upper_bound": "499"
-      }
+      },
+      "ad_id": "2447355102204643"
     }
   },
   {
@@ -573,7 +581,7 @@
     "開始日期": "2019-11-23",
     "結束日期": "2019-11-28",
     "廣告內容": "【黃啟嘉登記參選立法委員堅定國民黨價值】     花蓮的問題是由中央解決，黃啟嘉帶著鄉親的期待，22日上午九時前往選委會登記參選，包括不分區立委提名人鄭麗文、花蓮縣黨部主委張峻、花蓮市長魏嘉賢、地方民代及各鄉鎮黨部人員，都到場支持力挺，國民黨價值絕對要堅定守護，堅定捍衛國民黨歷史地位，發展花蓮建設創造更高的國家價值。     連天公也作美，22日上午一掃前日陰雨，陽光普照充滿希望，上午九時不到，選委會前已聚集大批民眾，支持國民黨提名參選人黃啟嘉登記參選。黃啟嘉身穿白色醫師袍，以醫者父母心的愛民精神，傳遞這次參選為民服務的決心，獲得在場民眾熱烈支持，不斷握手加油打氣，一定要為花蓮贏得國民黨立委席次。     國民黨不分區立委提名人鄭麗文親自到現場力挺，她表示，花蓮這次的選情具有指標性意義，代表著國民黨價值，國民黨提名參選人不容被破壞，現在雖然選情詭譎變化萬千，就像最近的天氣變化無常，但是相信國民黨最終會像今天的天氣，風和日麗陽光普照獲得勝利。     黃啟嘉表示，很多人會想說出選舉過程中的點滴歷程，以悲情獲得同情，但是政治人物不是靠同情，而是要盡最大力量爭取民眾的期待、盼望，明年大家全力支持國民黨是一致目標，總統韓國瑜、立法委員黃啟嘉、政黨票國民黨，不論是花蓮或是國家，都非常迫切需要完全執政。     黃啟嘉也強調，花蓮二十多年前開始人口負成長，長久以來不單是花蓮的問題，應是國家問題，台灣的價值就像是國民黨的價值，青天白日象徵著平等自由的意義，而平等代表著國家沒有偏鄉，要整體發展均衡，所以花蓮的交通、教育、醫療等資源不足，都應該以國家問題來解決，才能帶動各項產業發展，創造在地就業、就學、就醫。     黃啟嘉經由國民黨初選程序，獲得正式提名參選立法委員，以初心、堅定的信念完成登記，正式邁入選戰，用最真摯的熱忱，為花蓮鄉親爭取均衡資源。 #投給黃啟嘉 #讓花蓮更美好 #政治素人",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/75610898_582339249201503_6214183430901465088_n.jpg?_nc_cat=107&_nc_ohc=aQVWpoPmtZMAQlP3HEgfy455TZYXmXmEcUMYf_BGTEY7xqh8lNVykFX3w&_nc_ht=scontent-hkg3-1.xx&oh=b757b1634d4388fd68b867ba5d97bb77&oe=5E4152B1",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/75610898_582339249201503_6214183430901465088_n.jpg?_nc_cat=107&_nc_ohc=xflkHehjVBYAQkyqYaEe27FUQkSC6e9SO93jxhmAoSrqpIkJTFuTpTHUw&_nc_ht=scontent-hkg3-1.xx&oh=342500a4302abc0742ce867a7ce56cd0&oe=5E68DFB1",
     "廣告詳情": {
       "ad_creative_body": "【黃啟嘉登記參選立法委員堅定國民黨價值】\n\n    花蓮的問題是由中央解決，黃啟嘉帶著鄉親的期待，22日上午九時前往選委會登記參選，包括不分區立委提名人鄭麗文、花蓮縣黨部主委張峻、花蓮市長魏嘉賢、地方民代及各鄉鎮黨部人員，都到場支持力挺，國民黨價值絕對要堅定守護，堅定捍衛國民黨歷史地位，發展花蓮建設創造更高的國家價值。\n    連天公也作美，22日上午一掃前日陰雨，陽光普照充滿希望，上午九時不到，選委會前已聚集大批民眾，支持國民黨提名參選人黃啟嘉登記參選。黃啟嘉身穿白色醫師袍，以醫者父母心的愛民精神，傳遞這次參選為民服務的決心，獲得在場民眾熱烈支持，不斷握手加油打氣，一定要為花蓮贏得國民黨立委席次。\n    國民黨不分區立委提名人鄭麗文親自到現場力挺，她表示，花蓮這次的選情具有指標性意義，代表著國民黨價值，國民黨提名參選人不容被破壞，現在雖然選情詭譎變化萬千，就像最近的天氣變化無常，但是相信國民黨最終會像今天的天氣，風和日麗陽光普照獲得勝利。\n    黃啟嘉表示，很多人會想說出選舉過程中的點滴歷程，以悲情獲得同情，但是政治人物不是靠同情，而是要盡最大力量爭取民眾的期待、盼望，明年大家全力支持國民黨是一致目標，總統韓國瑜、立法委員黃啟嘉、政黨票國民黨，不論是花蓮或是國家，都非常迫切需要完全執政。\n    黃啟嘉也強調，花蓮二十多年前開始人口負成長，長久以來不單是花蓮的問題，應是國家問題，台灣的價值就像是國民黨的價值，青天白日象徵著平等自由的意義，而平等代表著國家沒有偏鄉，要整體發展均衡，所以花蓮的交通、教育、醫療等資源不足，都應該以國家問題來解決，才能帶動各項產業發展，創造在地就業、就學、就醫。\n    黃啟嘉經由國民黨初選程序，獲得正式提名參選立法委員，以初心、堅定的信念完成登記，正式邁入選戰，用最真摯的熱忱，為花蓮鄉親爭取均衡資源。\n\n#投給黃啟嘉\n#讓花蓮更美好\n#政治素人",
       "ad_creation_time": "2019-11-24T06:51:58+0000",
@@ -621,7 +629,8 @@
       "spend": {
         "lower_bound": "0",
         "upper_bound": "99"
-      }
+      },
+      "ad_id": "2647488335330712"
     }
   },
   {
@@ -632,7 +641,7 @@
     "開始日期": "2019-11-23",
     "結束日期": "2019-11-28",
     "廣告內容": "【黃啟嘉堅持到底！】 國民黨唯一提名花蓮立委參選人【黃啟嘉】醫師， 是透過國民黨的體制得到正式的提名，才是真正的【正藍軍】。 要穩住花蓮正藍軍這一席，必須仰賴花蓮縣民的支持， 唯有2020年1月11日投給黃啟嘉，才是正道。 #正藍軍 #國民黨唯一花蓮立委提名人黃啟嘉 #花蓮要更好",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78937680_1078590845866072_1736292558641823744_n.jpg?_nc_cat=108&_nc_ohc=tD_ydlP5GDwAQn8maeXQbz6_uHSonhiDg3dqslZhlRjTyX-p83XVRmWfw&_nc_ht=scontent-hkg3-1.xx&oh=696ecdd885dcea879084c743c3f3e4ee&oe=5E3E3152",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78937680_1078590845866072_1736292558641823744_n.jpg?_nc_cat=108&_nc_ohc=K9mje0DtUvIAQnwWcdfURjz5yGFNcLXSyy34ZQ1NIfPQ7wpoxkgP1j5sw&_nc_ht=scontent-hkg3-1.xx&oh=ea1a681506e2c33773eab57e43714e92&oe=5E65BE52",
     "廣告詳情": {
       "ad_creative_body": "【黃啟嘉堅持到底！】\n國民黨唯一提名花蓮立委參選人【黃啟嘉】醫師，\n是透過國民黨的體制得到正式的提名，才是真正的【正藍軍】。\n要穩住花蓮正藍軍這一席，必須仰賴花蓮縣民的支持，\n唯有2020年1月11日投給黃啟嘉，才是正道。\n\n#正藍軍\n#國民黨唯一花蓮立委提名人黃啟嘉\n#花蓮要更好",
       "ad_creation_time": "2019-11-24T05:47:33+0000",
@@ -754,7 +763,8 @@
       "spend": {
         "lower_bound": "400",
         "upper_bound": "499"
-      }
+      },
+      "ad_id": "1078590365866120"
     }
   },
   {
@@ -765,7 +775,7 @@
     "開始日期": "2019-11-23",
     "結束日期": "2019-11-28",
     "廣告內容": "【讓清流改革國民黨】 台灣的政治環境需要一股清流來改善。 國民黨必須改革也需要這清流的力量。 懇請花蓮鄉親朋友們用真心一起來改變花蓮的建設， 讓中華民國也獲得一股清流改善整體的政治風氣。 請支持黃啟嘉醫師，為鄉親服務。 #專業醫師為花蓮服務 #花立委要選黃啟嘉 #鄉親的眼睛是雪亮的",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78658678_517147272174021_111409025001717760_n.jpg?_nc_cat=106&_nc_ohc=vb43APGVE_wAQkbQiS2t1G6k8yWvfm9eEVApplKJwt-WToMxSxnRXsMzQ&_nc_ht=scontent-hkg3-1.xx&oh=076dcfb265a9110661d23873575be786&oe=5E854CE8",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78658678_517147272174021_111409025001717760_n.jpg?_nc_cat=106&_nc_ohc=OT5LDqNLgw0AQn6rWu1DQyMf82H8Zm3crf6vTce9huLfzOSTG4Ht_lDVg&_nc_ht=scontent-hkg3-1.xx&oh=fadf0bba5fa33a93c8573e5672a958c8&oe=5E854CE8",
     "廣告詳情": {
       "ad_creative_body": "【讓清流改革國民黨】\n台灣的政治環境需要一股清流來改善。\n國民黨必須改革也需要這清流的力量。\n懇請花蓮鄉親朋友們用真心一起來改變花蓮的建設，\n讓中華民國也獲得一股清流改善整體的政治風氣。\n請支持黃啟嘉醫師，為鄉親服務。\n\n#專業醫師為花蓮服務\n#花立委要選黃啟嘉\n#鄉親的眼睛是雪亮的",
       "ad_creation_time": "2019-11-24T05:04:31+0000",
@@ -898,7 +908,8 @@
       "spend": {
         "lower_bound": "400",
         "upper_bound": "499"
-      }
+      },
+      "ad_id": "517147262174022"
     }
   },
   {
@@ -909,7 +920,7 @@
     "開始日期": "2019-11-23",
     "結束日期": "2019-11-28",
     "廣告內容": "【花蓮人要告訴花蓮人】趕快分享轉發！花蓮要更好，需要大家共同努力。 請支持黃啟嘉醫師成為2020花蓮縣立法委員。 為花蓮民眾發聲、爭取更多中央資源協助花東地方發展。也為全國人民在立法院監督政府，為全民健康醫療做有效監督。 拜託拜託，懇請大家支持【黃啟嘉】！ #花蓮要更好 #台灣醫療要更好 #黃啟嘉 #韓國瑜",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78804599_480238095924214_1571004955618181120_n.jpg?_nc_cat=100&_nc_ohc=o99-YhLPACEAQnGPU7bPsJmSUkoL6ytqcOhpcX_xJEMh1wlKa_-wb9zYg&_nc_ht=scontent-hkg3-1.xx&oh=d355b30aad016b018be15c5264d3c545&oe=5E83B47E",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78804599_480238095924214_1571004955618181120_n.jpg?_nc_cat=100&_nc_ohc=4_d7Bz8E-nAAQkWSS0KbdOgTjOpfXUhu1NX5yirOZGybFRvG0a6Dvs9pA&_nc_ht=scontent-hkg3-1.xx&oh=1a9e7ed8a3d56aca9a666f030c0dcf8f&oe=5E83B47E",
     "廣告詳情": {
       "ad_creative_body": "【花蓮人要告訴花蓮人】趕快分享轉發！花蓮要更好，需要大家共同努力。\n請支持黃啟嘉醫師成為2020花蓮縣立法委員。\n為花蓮民眾發聲、爭取更多中央資源協助花東地方發展。也為全國人民在立法院監督政府，為全民健康醫療做有效監督。\n拜託拜託，懇請大家支持【黃啟嘉】！\n\n#花蓮要更好\n#台灣醫療要更好\n#黃啟嘉\n#韓國瑜",
       "ad_creation_time": "2019-11-24T05:03:44+0000",
@@ -1044,7 +1055,8 @@
       "spend": {
         "lower_bound": "400",
         "upper_bound": "499"
-      }
+      },
+      "ad_id": "960102234389323"
     }
   },
   {
@@ -1055,7 +1067,7 @@
     "開始日期": "2019-11-23",
     "結束日期": "2019-11-28",
     "廣告內容": "【花蓮民眾要什麼樣的政治人物呢？】 相信經過數十年的政治觀察經驗，每一位花蓮鄉民都有雪亮的眼睛，知道我們需要什麼樣的政治領導人來協助花蓮發展、改善數十年的花蓮種種問題。 積極從事熱心公益，關懷花蓮鄉親的黃啟嘉醫師已經正式登記參選【花蓮縣立法委員參選人】。即使外在有多麼大的阻礙，自己仍然堅定信念，也相信花蓮鄉民們知道要什麼樣的政治領導者，來為花蓮在中央政府爭取更多的資源：改善交通體系建造高速公路、改善花蓮縣地區醫療長照、發展更多元的產業注入更多人才。 希望花蓮縣民在2020年1月11日都能一票投給【黃啟嘉】醫師，全面改變花蓮的建設，讓我們花蓮更美好。 #投給黃啟嘉 #花蓮要更好 #尊重專業領導人 #讓政治素人為大家服務",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78292494_792159054621525_2719217531096137728_n.jpg?_nc_cat=107&_nc_ohc=JU1btoz8ApsAQk6IB6kIlvf1UDWD8YsUnQvlqeqdY7PDtFSZ4wjjidELA&_nc_ht=scontent-hkg3-1.xx&oh=483fdf123845a74a4b7598b0f39e3f86&oe=5E821744",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78292494_792159054621525_2719217531096137728_n.jpg?_nc_cat=107&_nc_ohc=qxENsMRVqacAQk2V0y7Y4yzUPGtM88nDwb3A4rX8Hu14UAP9VrQvgyikQ&_nc_ht=scontent-hkg3-1.xx&oh=47cac64201bc3fffaf3cf9a25660c8cf&oe=5E821744",
     "廣告詳情": {
       "ad_creative_body": "【花蓮民眾要什麼樣的政治人物呢？】\n相信經過數十年的政治觀察經驗，每一位花蓮鄉民都有雪亮的眼睛，知道我們需要什麼樣的政治領導人來協助花蓮發展、改善數十年的花蓮種種問題。\n\n積極從事熱心公益，關懷花蓮鄉親的黃啟嘉醫師已經正式登記參選【花蓮縣立法委員參選人】。即使外在有多麼大的阻礙，自己仍然堅定信念，也相信花蓮鄉民們知道要什麼樣的政治領導者，來為花蓮在中央政府爭取更多的資源：改善交通體系建造高速公路、改善花蓮縣地區醫療長照、發展更多元的產業注入更多人才。\n\n希望花蓮縣民在2020年1月11日都能一票投給【黃啟嘉】醫師，全面改變花蓮的建設，讓我們花蓮更美好。\n\n#投給黃啟嘉\n#花蓮要更好\n#尊重專業領導人\n#讓政治素人為大家服務",
       "ad_creation_time": "2019-11-24T07:14:32+0000",
@@ -1202,7 +1214,8 @@
       "spend": {
         "lower_bound": "400",
         "upper_bound": "499"
-      }
+      },
+      "ad_id": "792159034621527"
     }
   },
   {
@@ -1213,7 +1226,7 @@
     "開始日期": "2019-11-25",
     "結束日期": "2019-11-30",
     "廣告內容": "【延期公告】 原訂11月27日花蓮聯合總部成立大會延期舉行。 正確日期會擇期公佈。 感謝大家的支持。 #黃啟嘉 #花蓮要更好",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78847613_585605655541529_5020078154908172288_n.jpg?_nc_cat=102&_nc_ohc=wxD2j9WMgHUAQlLzKTgoAgyplZ-EzII880nbLWlp7A53I8nSV4ySRrMTg&_nc_ht=scontent-hkg3-1.xx&oh=7b65e10930bcfc517a186210d8991476&oe=5E8AB8C9",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78847613_585605655541529_5020078154908172288_n.jpg?_nc_cat=102&_nc_ohc=1R2Vx_4fMycAQnW8wKlOUel6SAX4prklqJB4yOKOUF9t3mDUBH1RvAqtA&_nc_ht=scontent-hkg3-1.xx&oh=8b20f23330ffa967fb3105b1abe5b976&oe=5EB245C9",
     "廣告詳情": {
       "ad_creative_body": "【延期公告】\n原訂11月27日花蓮聯合總部成立大會延期舉行。\n正確日期會擇期公佈。\n感謝大家的支持。\n\n#黃啟嘉\n#花蓮要更好",
       "ad_creation_time": "2019-11-26T03:36:51+0000",
@@ -1350,7 +1363,8 @@
       "spend": {
         "lower_bound": "500",
         "upper_bound": "599"
-      }
+      },
+      "ad_id": "435150867119237"
     }
   },
   {
@@ -1361,7 +1375,7 @@
     "開始日期": "2019-11-26",
     "結束日期": "2019-12-01",
     "廣告內容": "【花蓮鄉親知道什麼是最好】 感謝花蓮鄉親給黃啟嘉醫師的支持與關心 黃啟嘉堅持到底就是要為花蓮鄉民服務 讓我們一起努力 相互信任相互真誠相互力挺 為我花蓮、為彼此生活更好 加油加油加油！！！ #國民黨唯一參選人黃啟嘉 #正藍軍在這裡 #國民黨 #花蓮要更好",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78683494_3098964020117729_8720640016004415488_n.jpg?_nc_cat=106&_nc_ohc=VgaaEkK_b14AQkp6qGI_x4wjFGfi23uRn1MQtogp4NpwO715ftuJP2NpA&_nc_ht=scontent-hkg3-1.xx&oh=d30cfaafb00a324a770480358426ca7f&oe=5E7F2144",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78683494_3098964020117729_8720640016004415488_n.jpg?_nc_cat=106&_nc_ohc=J-c2XQR8kl8AQmUcNAROB4wIRuy_U7U7m_hzFZkifPKfU7my3sUIT9B8g&_nc_ht=scontent-hkg3-1.xx&oh=4138eaaa39f7a742048b0f5581687e5a&oe=5E7F2144",
     "廣告詳情": {
       "ad_creative_body": "【花蓮鄉親知道什麼是最好】\n感謝花蓮鄉親給黃啟嘉醫師的支持與關心\n黃啟嘉堅持到底就是要為花蓮鄉民服務\n讓我們一起努力\n相互信任相互真誠相互力挺\n為我花蓮、為彼此生活更好\n加油加油加油！！！\n\n#國民黨唯一參選人黃啟嘉\n#正藍軍在這裡\n#國民黨\n#花蓮要更好",
       "ad_creation_time": "2019-11-27T06:50:15+0000",
@@ -1498,7 +1512,8 @@
       "spend": {
         "lower_bound": "500",
         "upper_bound": "599"
-      }
+      },
+      "ad_id": "3098963980117733"
     }
   },
   {
@@ -1509,7 +1524,7 @@
     "開始日期": "2019-11-26",
     "結束日期": "2019-12-01",
     "廣告內容": "【您對黃啟嘉了解多少呢？】 他為什麼要出來參選花蓮縣立法委員？ 快點選瀏覽短片：https://www.facebook.com/watch/?v=919476381765288",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79122991_586658352102926_6290261865947725824_n.jpg?_nc_cat=109&_nc_ohc=SDfJrxBvtT0AQl6AbY9lw7GzZy07FaBnNDm1Uf7r40VJC6fi3-I0pqskg&_nc_ht=scontent-hkg3-1.xx&oh=338a1ca25b5152316a6f556e48f3280a&oe=5E8C1303",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79122991_586658352102926_6290261865947725824_n.jpg?_nc_cat=109&_nc_ohc=MpWJhPT1s3EAQmexiLRKT0DxP1pHylZnhcJOzPM6dU0xIxHh1jOpkAStg&_nc_ht=scontent-hkg3-1.xx&oh=d43e20ae309994aa8bee1ff4e788e082&oe=5EB3A003",
     "廣告詳情": {
       "ad_creative_body": "【您對黃啟嘉了解多少呢？】\n他為什麼要出來參選花蓮縣立法委員？\n快點選瀏覽短片：\nhttps://www.facebook.com/watch/?v=919476381765288",
       "ad_creation_time": "2019-11-27T06:26:08+0000",
@@ -1645,7 +1660,8 @@
       "spend": {
         "lower_bound": "500",
         "upper_bound": "599"
-      }
+      },
+      "ad_id": "2402383593223667"
     }
   },
   {
@@ -1656,7 +1672,7 @@
     "開始日期": "2019-11-27",
     "結束日期": "2019-12-02",
     "廣告內容": "【正藍軍在這裡，別傻傻分不清哦！】 「韓國瑜最貼身的、同甘共苦的花蓮護衛隊，全力相挺國民黨提名的「正藍軍」立委候選人黃啟嘉。」 #國民黨唯一花蓮立委提名參選人黃啟嘉 #正藍軍在這裡 #花蓮鄉民雪亮的眼睛",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/74632440_587274602041301_3434934540613713920_n.jpg?_nc_cat=104&_nc_ohc=pIz2Uvohmy0AQldnzekiRk_EZQznFzLWbdEiHJVXnkYQRfCpnuFwdCgSw&_nc_ht=scontent-hkg3-1.xx&oh=9b87e3c97a7400e539093c3659ddd0da&oe=5E7ACAB8",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/74632440_587274602041301_3434934540613713920_n.jpg?_nc_cat=104&_nc_ohc=nYFIiTTbTFIAQkYncz3G4crflVeZIuhiAr7gAyAfAHT3Fa6XqkfgH3gaw&_nc_ht=scontent-hkg3-1.xx&oh=b43cbd66f470e00be6032e9e04738708&oe=5E7ACAB8",
     "廣告詳情": {
       "ad_creative_body": "【正藍軍在這裡，別傻傻分不清哦！】\n「韓國瑜最貼身的、同甘共苦的花蓮護衛隊，全力相挺國民黨提名的「正藍軍」立委候選人黃啟嘉。」\n\n#國民黨唯一花蓮立委提名參選人黃啟嘉\n#正藍軍在這裡\n#花蓮鄉民雪亮的眼睛",
       "ad_creation_time": "2019-11-28T07:37:06+0000",
@@ -1788,7 +1804,8 @@
       "spend": {
         "lower_bound": "500",
         "upper_bound": "599"
-      }
+      },
+      "ad_id": "426460871361049"
     }
   },
   {
@@ -1799,7 +1816,7 @@
     "開始日期": "2019-11-27",
     "結束日期": "2019-12-02",
     "廣告內容": "有價值，有願景，接地氣是從政者應有的三大特質。中華民國的核心價值也正是國民黨的核心價值那就是青天白日所代表的自由與平等，因為捍衛自由，所以政治人物有了風骨和靈魂，因為捍衛平等，所以無法再忍受花蓮發展上與西部的區域落差。花蓮人需要一次省思與改變，沒有政治口水，只有對勝利堅定的信心。（文：黃啟嘉）",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76897880_587297098705718_5288165679902490624_n.jpg?_nc_cat=104&_nc_ohc=IPHu9sUvGFoAQlYs9suMfc3PbF8OvjBGAemAH0c0wJigH8Wks65o8Q_Dw&_nc_ht=scontent-hkg3-1.xx&oh=fe0c475b0676153b4f11e74d0f10888a&oe=5E3FEB06",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76897880_587297098705718_5288165679902490624_n.jpg?_nc_cat=104&_nc_ohc=STH80CEVd88AQnJDY_qV7xLW2r8FoPixTNoNbZdhRgtzbJakblu1jQ89g&_nc_ht=scontent-hkg3-1.xx&oh=285fb1a6229093856f908bbb7a709dc3&oe=5E677806",
     "廣告詳情": {
       "ad_creative_body": "有價值，有願景，接地氣是從政者應有的三大特質。中華民國的核心價值也正是國民黨的核心價值那就是青天白日所代表的自由與平等，因為捍衛自由，所以政治人物有了風骨和靈魂，因為捍衛平等，所以無法再忍受花蓮發展上與西部的區域落差。花蓮人需要一次省思與改變，沒有政治口水，只有對勝利堅定的信心。（文：黃啟嘉）",
       "ad_creation_time": "2019-11-28T07:36:36+0000",
@@ -1928,7 +1945,8 @@
       "spend": {
         "lower_bound": "500",
         "upper_bound": "599"
-      }
+      },
+      "ad_id": "560625648089677"
     }
   },
   {
@@ -1939,7 +1957,7 @@
     "開始日期": "2019-11-29",
     "結束日期": "2019-12-04",
     "廣告內容": "【心手相連護花蓮】 花蓮有很多年長者需要照顧； 花蓮有很多樂齡者需要關懷； 黃啟嘉醫師希望全面的長照計畫能落實在花蓮， 希望未來有機會在中央政府為花蓮爭取， 更好的醫療長照資源， 守護我們花蓮的美好， 照顧我們花蓮的鄉親。 #支持黃啟嘉 #國民黨唯一花蓮立委提名人 #正藍軍在這裡",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/77003509_588068495295245_8614788923496857600_n.jpg?_nc_cat=100&_nc_ohc=4OfvQZd48ZIAQnd3NiL-lXGqg75SAnIQrzsHyC190elQIoiolcHSMP6RQ&_nc_ht=scontent-hkg3-1.xx&oh=901f147b54fc6d21a8156932e5b6d7b7&oe=5E775394",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/77003509_588068495295245_8614788923496857600_n.jpg?_nc_cat=100&_nc_ohc=4uV2xvYyoHYAQlThO3N0x42UwDexiqZTZxkd-XrkQixbR5z582GcGG_9g&_nc_ht=scontent-hkg3-1.xx&oh=f93771b02705b132992381821503bbbe&oe=5E775394",
     "廣告詳情": {
       "ad_creative_body": "【心手相連護花蓮】\n花蓮有很多年長者需要照顧；\n花蓮有很多樂齡者需要關懷；\n黃啟嘉醫師希望全面的長照計畫能落實在花蓮，\n希望未來有機會在中央政府為花蓮爭取，\n更好的醫療長照資源，\n守護我們花蓮的美好，\n照顧我們花蓮的鄉親。\n\n#支持黃啟嘉\n#國民黨唯一花蓮立委提名人\n#正藍軍在這裡",
       "ad_creation_time": "2019-11-29T13:26:23+0000",
@@ -2076,7 +2094,8 @@
       "spend": {
         "lower_bound": "500",
         "upper_bound": "599"
-      }
+      },
+      "ad_id": "534544693791878"
     }
   },
   {
@@ -2087,7 +2106,7 @@
     "開始日期": "2019-11-29",
     "結束日期": "2019-12-04",
     "廣告內容": "來來來，吃湯圓哦！ #花蓮要更好 #支持黃啟嘉",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78105373_588331531935608_2781117424399810560_n.jpg?_nc_cat=108&_nc_ohc=wc2tSjwGAwwAQmCyKhc0Ol7LZiIYjklUUPXb3ITBKD6g11xKrE-wi4VRA&_nc_ht=scontent-hkg3-1.xx&oh=4e251eb43dfefaafee735267e5cebf71&oe=5E86DD6B",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78105373_588331531935608_2781117424399810560_n.jpg?_nc_cat=108&_nc_ohc=8aCZmVeojR4AQmMUOIOvBgNIDnDXE1c3v-_wLdwokEmg--vK1AvJWtrxQ&_nc_ht=scontent-hkg3-1.xx&oh=610bf09ea5b96395322e95626ccb9381&oe=5EAE6A6B",
     "廣告詳情": {
       "ad_creative_body": "來來來，吃湯圓哦！\n\n#花蓮要更好\n#支持黃啟嘉",
       "ad_creation_time": "2019-11-29T10:35:09+0000",
@@ -2213,7 +2232,8 @@
       "spend": {
         "lower_bound": "500",
         "upper_bound": "599"
-      }
+      },
+      "ad_id": "547565146026156"
     }
   },
   {
@@ -2224,7 +2244,7 @@
     "開始日期": "2019-11-29",
     "結束日期": "2019-12-04",
     "廣告內容": "【真情真意為花蓮】 叔叔阿姨都來為黃啟嘉醫師打氣！ 一步一腳印真誠為鄉民打拼！ 這才是花蓮鄉民的熱情！ 這才是健康快樂的花蓮！ #支持黃啟嘉醫師 #花蓮要更好 #花蓮鄉民好棒！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76935588_588152425286852_6421039432517812224_n.jpg?_nc_cat=108&_nc_ohc=_QssAU5EDAEAQmmI8OmstXP3lbaTJNIpUas8pPfjjbh1Ol3NfhTJiVpCA&_nc_ht=scontent-hkg3-1.xx&oh=cfbe0c2a50c94b67c32228ba2adc5df1&oe=5E81FA5D",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76935588_588152425286852_6421039432517812224_n.jpg?_nc_cat=108&_nc_ohc=D_qKQRsguTEAQlQRiJ1aFg4M-2ftCny25QtCMo6R_4KFQ8mtm19ZdDuVQ&_nc_ht=scontent-hkg3-1.xx&oh=04b57f79cc6ead04f5a355463bed0ba3&oe=5E81FA5D",
     "廣告詳情": {
       "ad_creative_body": "【真情真意為花蓮】\n叔叔阿姨都來為黃啟嘉醫師打氣！\n一步一腳印真誠為鄉民打拼！\n這才是花蓮鄉民的熱情！\n這才是健康快樂的花蓮！\n\n#支持黃啟嘉醫師\n#花蓮要更好\n#花蓮鄉民好棒！",
       "ad_creation_time": "2019-11-29T10:34:09+0000",
@@ -2366,7 +2386,8 @@
       "spend": {
         "lower_bound": "500",
         "upper_bound": "599"
-      }
+      },
+      "ad_id": "817056312087716"
     }
   },
   {
@@ -2377,7 +2398,7 @@
     "開始日期": "2019-11-30",
     "結束日期": "2019-12-05",
     "廣告內容": "【黃啟嘉縣境之南出發。深謀遠見重視城鄉均衡發展】 國民黨立法委員候選人黃啟嘉披上真正藍軍戰袍，29日前往縣境之南的富里鄉，位在花蓮最南端鄉鎮，擁有極佳天然環境，卻無法真正提升民眾生活，面對產業沒落、人口外流種種問題，黃啟嘉深感城鄉差距問題不斷擴大，多年來沒有確實改善，因此提出交通、教育、醫養的建設方針，獲得富里鄉民眾肯定支持。 (了解更多請參閱：東台灣新聞網) #支持黃啟嘉 #花蓮要更好 #國民黨唯一提名花蓮縣立法委員參選人",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78780759_821846661606857_2707142157528989696_n.jpg?_nc_cat=103&_nc_ohc=PZh_K6RacsgAQlKVxQ7bzDhsZEzHnnP1Um9KsWfOBwUdsk0mvld_F4iHg&_nc_ht=scontent-hkg3-1.xx&oh=9c35292086374e2648c33ca3798a0892&oe=5E7436C7",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78780759_821846661606857_2707142157528989696_n.jpg?_nc_cat=103&_nc_ohc=rbgQgnLGFngAQkBZarpXUl5L_E40SY78a2-6aUA4rv4w5XePq3Ue0FY9Q&_nc_ht=scontent-hkg3-1.xx&oh=840155973516c84afff1e3168b432e71&oe=5E7436C7",
     "廣告詳情": {
       "ad_creative_body": "【黃啟嘉縣境之南出發。深謀遠見重視城鄉均衡發展】\n國民黨立法委員候選人黃啟嘉披上真正藍軍戰袍，29日前往縣境之南的富里鄉，位在花蓮最南端鄉鎮，擁有極佳天然環境，卻無法真正提升民眾生活，面對產業沒落、人口外流種種問題，黃啟嘉深感城鄉差距問題不斷擴大，多年來沒有確實改善，因此提出交通、教育、醫養的建設方針，獲得富里鄉民眾肯定支持。\n\n(了解更多請參閱：東台灣新聞網)\n\n#支持黃啟嘉\n#花蓮要更好\n#國民黨唯一提名花蓮縣立法委員參選人",
       "ad_creation_time": "2019-11-30T09:14:25+0000",
@@ -2479,7 +2500,8 @@
       "spend": {
         "lower_bound": "500",
         "upper_bound": "599"
-      }
+      },
+      "ad_id": "821846644940192"
     }
   },
   {
@@ -2490,7 +2512,7 @@
     "開始日期": "2019-11-30",
     "結束日期": "2019-12-05",
     "廣告內容": "【來自玉里社區媽媽們的祝福】 祝黄啟嘉候選人選情旺旺旺！！ #有花蓮鄉民媽媽們的祝福也旺旺旺 #感恩有您",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79329419_589044465197648_123735469472088064_n.jpg?_nc_cat=102&_nc_ohc=00SbrGQ40yYAQl_K921I1rRIUe5dH2hHQDNMwOMOtKx3Lk7BV5pSX70sA&_nc_ht=scontent-hkg3-1.xx&oh=ae0c4ae775ed0480e6f051c586bcd842&oe=5E7577BE",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79329419_589044465197648_123735469472088064_n.jpg?_nc_cat=102&_nc_ohc=QZvlvDySklUAQnInHHdg5skHO_LoXFuRNOKxZPdojoB0fXRn_3756eFOQ&_nc_ht=scontent-hkg3-1.xx&oh=12f528dcc6f2e9b8fae370b1f1fb9b7c&oe=5E7577BE",
     "廣告詳情": {
       "ad_creative_body": "【來自玉里社區媽媽們的祝福】\n祝黄啟嘉候選人選情旺旺旺！！\n\n#有花蓮鄉民媽媽們的祝福也旺旺旺\n#感恩有您",
       "ad_creation_time": "2019-11-30T09:12:30+0000",
@@ -2595,7 +2617,8 @@
       "spend": {
         "lower_bound": "500",
         "upper_bound": "599"
-      }
+      },
+      "ad_id": "1186696691539492"
     }
   },
   {
@@ -2606,7 +2629,7 @@
     "開始日期": "2019-12-01",
     "結束日期": "2019-12-06",
     "廣告內容": "【您的力量對花蓮的發展很重要】 每一位花蓮鄉民朋友對國家與社會發展都很重要， 您的一個決定、您的一個判斷、 您的一個肯定、您的一張選票， 都會影響國家與社區未來的發展與建設。 選擇對的領導人為花蓮服務、 為花蓮發聲很重要。 靜下心來想想看， 您之前投票時都在做什麼思想準備呢？ 選舉活動前最後階段， 好好思考我們花蓮要什麼？ 加油加油！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79497901_587241842030661_8915604215250812928_n.jpg?_nc_cat=104&_nc_ohc=Wfr9XZE-AQYAQmAkX7q2XIr7PooR45n0mtyTJaS5be-Qiv8lMX826E2Yg&_nc_ht=scontent-hkg3-1.xx&oh=8dd79ac7d9e9b5bc31c75bea266d413c&oe=5E87D213",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79497901_587241842030661_8915604215250812928_n.jpg?_nc_cat=104&_nc_ohc=b1OqLkpvfKMAQlK36Wx2uU28uf8AzzO21UO_mm8lnhs1MjGCfkrozecJA&_nc_ht=scontent-hkg3-1.xx&oh=0338c320937d122467d73a525d5c478e&oe=5EAF5F13",
     "廣告詳情": {
       "ad_creative_body": "【您的力量對花蓮的發展很重要】\n每一位花蓮鄉民朋友對國家與社會發展都很重要，\n您的一個決定、您的一個判斷、\n您的一個肯定、您的一張選票，\n都會影響國家與社區未來的發展與建設。\n選擇對的領導人為花蓮服務、\n為花蓮發聲很重要。\n靜下心來想想看，\n您之前投票時都在做什麼思想準備呢？\n選舉活動前最後階段，\n好好思考我們花蓮要什麼？\n加油加油！",
       "ad_creation_time": "2019-12-02T04:10:59+0000",
@@ -2616,194 +2639,83 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.00021",
-          "age": "55-64",
+          "percentage": "0.000864",
+          "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.076293",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.172341",
+          "percentage": "0.000173",
           "age": "35-44",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.114754",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.038882",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.157839",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.055485",
+          "percentage": "0.000173",
           "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.116183",
+          "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.188314",
-          "age": "45-54",
+          "percentage": "0.157331",
+          "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.059899",
+          "percentage": "0.167877",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.062586",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.040563",
-          "age": "18-24",
+          "percentage": "0.073651",
+          "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.018285",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.064733",
+          "percentage": "0.0676",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.011349",
-          "age": "18-24",
+          "percentage": "0.059302",
+          "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.000841",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.00021",
-          "age": "35-44",
-          "gender": "unknown"
-        }
-      ],
-      "funding_entity": "晶晶 莊",
-      "impressions": {
-        "lower_bound": "5000",
-        "upper_bound": "5999"
-      },
-      "page_id": "389521298483300",
-      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
-      "region_distribution": [
-        {
-          "percentage": "1",
-          "region": "Hualien"
-        }
-      ],
-      "spend": {
-        "lower_bound": "300",
-        "upper_bound": "399"
-      }
-    }
-  },
-  {
-    "選區": "花蓮縣選舉區",
-    "參選人": "黃啟嘉",
-    "AD_ID": "2268836673425841",
-    "登錄為政治廣告": "是",
-    "開始日期": "2019-12-01",
-    "結束日期": "2019-12-06",
-    "廣告內容": "因應尚志橋封橋，中正路車潮增多。黃啟嘉上午7:30-8:30會在中正路、明禮路口進行拜票。 果然車潮湧現！雖然冷氣團南下，不過大家拜票熱呼呼！ #堅持✊ #初心❤️ #團結👪",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79442208_2268836833425825_8360269737061515264_n.jpg?_nc_cat=101&_nc_ohc=b7TV-dtpRF4AQk6vyDcnE9ghWko-eocHJKlYRqXk4hdPX5y8V12hfWHAg&_nc_ht=scontent-hkg3-1.xx&oh=d44686b8d51572085c0c31efc91ae35a&oe=5E7D4814",
-    "廣告詳情": {
-      "ad_creative_body": "因應尚志橋封橋，中正路車潮增多。黃啟嘉上午7:30-8:30會在中正路、明禮路口進行拜票。\n果然車潮湧現！雖然冷氣團南下，不過大家拜票熱呼呼！\n#堅持✊\n#初心❤️\n#團結👪",
-      "ad_creation_time": "2019-12-02T04:10:16+0000",
-      "ad_delivery_start_time": "2019-12-02T04:10:17+0000",
-      "ad_delivery_stop_time": "2019-12-07T04:10:16+0000",
-      "currency": "TWD",
-      "demographic_distribution": [
-        {
-          "percentage": "0.000185",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000185",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.190802",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.121352",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.136313",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.209272",
+          "percentage": "0.18603",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.075545",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.0628",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.058182",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.035833",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.014777",
+          "percentage": "0.017981",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.044514",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.039527",
+          "percentage": "0.039592",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.010344",
+          "percentage": "0.011065",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.000185",
-          "age": "65+",
-          "gender": "unknown"
+          "percentage": "0.039246",
+          "age": "18-24",
+          "gender": "male"
         },
         {
-          "percentage": "0.000185",
-          "age": "45-54",
+          "percentage": "0.000346",
+          "age": "55-64",
           "gender": "unknown"
         }
       ],
@@ -2821,9 +2733,127 @@
         }
       ],
       "spend": {
-        "lower_bound": "300",
-        "upper_bound": "399"
-      }
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "587241828697329"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "2268836673425841",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-01",
+    "結束日期": "2019-12-06",
+    "廣告內容": "因應尚志橋封橋，中正路車潮增多。黃啟嘉上午7:30-8:30會在中正路、明禮路口進行拜票。 果然車潮湧現！雖然冷氣團南下，不過大家拜票熱呼呼！ #堅持✊ #初心❤️ #團結👪",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79442208_2268836833425825_8360269737061515264_n.jpg?_nc_cat=101&_nc_ohc=sQdmslNE3aAAQm5IRwj6Gth-2PAE2D6C-qUrRfVJE9h6eewZmCmTSPfKA&_nc_ht=scontent-hkg3-1.xx&oh=2e2af0a6ad62f7fae35003ea40e28cdc&oe=5E7D4814",
+    "廣告詳情": {
+      "ad_creative_body": "因應尚志橋封橋，中正路車潮增多。黃啟嘉上午7:30-8:30會在中正路、明禮路口進行拜票。\n果然車潮湧現！雖然冷氣團南下，不過大家拜票熱呼呼！\n#堅持✊\n#初心❤️\n#團結👪",
+      "ad_creation_time": "2019-12-02T04:10:16+0000",
+      "ad_delivery_start_time": "2019-12-02T04:10:17+0000",
+      "ad_delivery_stop_time": "2019-12-07T04:10:16+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000159",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000159",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.191469",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.11937",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.132262",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.198154",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.076874",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.065574",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.059207",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.037562",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.017189",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.048862",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.041063",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.011778",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000159",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000159",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "8000",
+        "upper_bound": "8999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "2268836673425841"
     }
   },
   {
@@ -2834,7 +2864,7 @@
     "開始日期": "2019-12-01",
     "結束日期": "2019-12-06",
     "廣告內容": "【花蓮鄉民真的需要走出去！】 我們不是後山，我們也不是前山， 我們是台灣每個縣市的相連命脈。 花蓮不能被孤立， 花蓮不能被冷落。 我們要有效連結全台灣。 我們也是台灣的子民， 我們要能為我們發聲的立法委員：【黃啟嘉醫師】 快聽聽黃醫師說什麼： https://www.facebook.com/watch/?v=467536330529929 #支持黃啟嘉 #花蓮要更好",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/75279411_590547265047368_6260685458427084800_n.jpg?_nc_cat=103&_nc_ohc=jq7kncyqco8AQnlkyq2BUYp5JR4AfEcQTChgxslj4JKw36WRrFMcF0Avw&_nc_ht=scontent-hkg3-1.xx&oh=19140ec35db5b8b632427bc2581a7e2f&oe=5E6C27B1",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/75279411_590547265047368_6260685458427084800_n.jpg?_nc_cat=103&_nc_ohc=NHVOpHFEYL0AQl-6fpVMFWekUyNckDjg5rp8uHv6n2PJYuLBrxAbg9v9Q&_nc_ht=scontent-hkg3-1.xx&oh=b8209d190cf752b28b83e493007e02fb&oe=5E6C27B1",
     "廣告詳情": {
       "ad_creative_body": "【花蓮鄉民真的需要走出去！】\n我們不是後山，我們也不是前山，\n我們是台灣每個縣市的相連命脈。\n花蓮不能被孤立，\n花蓮不能被冷落。\n我們要有效連結全台灣。\n我們也是台灣的子民，\n我們要能為我們發聲的立法委員：【黃啟嘉醫師】\n快聽聽黃醫師說什麼： https://www.facebook.com/watch/?v=467536330529929\n\n#支持黃啟嘉\n#花蓮要更好",
       "ad_creation_time": "2019-12-02T04:09:33+0000",
@@ -2843,78 +2873,78 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.146703",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.078062",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.195155",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.070659",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.042396",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.172275",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.100942",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.012113",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.024899",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.054509",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.067295",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000673",
+          "percentage": "0.000672",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.032301",
+          "percentage": "0.000672",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.195024",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.012105",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.078009",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.172831",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.146604",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.067249",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.042367",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.024882",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.03228",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.001346",
+          "percentage": "0.100874",
           "age": "55-64",
-          "gender": "unknown"
+          "gender": "female"
         },
         {
-          "percentage": "0.000673",
+          "percentage": "0.070612",
           "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.054472",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001345",
+          "age": "55-64",
           "gender": "unknown"
         }
       ],
@@ -2934,7 +2964,8 @@
       "spend": {
         "lower_bound": "300",
         "upper_bound": "399"
-      }
+      },
+      "ad_id": "2798250330194158"
     }
   },
   {
@@ -2945,7 +2976,7 @@
     "開始日期": "2019-11-30",
     "結束日期": "2019-12-05",
     "廣告內容": "【2020後讓更多產業帶進花蓮吧！】 人民要有錢，要有好建設。 即刻點以下網址看看：https://www.facebook.com/chichiahualien/videos/958887827788325/",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78455374_589036455198449_6895741307088535552_n.jpg?_nc_cat=101&_nc_ohc=ghfyXddgiIUAQlQsZSuu8ZKM7ajicygKRNAEtPjc_Ypz_h9uhEhZneGFQ&_nc_ht=scontent-hkg3-1.xx&oh=02c702e6153f95711e5c877f4e4801df&oe=5E6E2DBC",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78455374_589036455198449_6895741307088535552_n.jpg?_nc_cat=101&_nc_ohc=oSNeV-05QzQAQngD5LYcVh8-f2Iu3pZz--oUSdWJsJjX9-WT_EKvhUHXw&_nc_ht=scontent-hkg3-1.xx&oh=4c8ac983353b5b9c1a0863bdf4cdaeeb&oe=5E6E2DBC",
     "廣告詳情": {
       "ad_creative_body": "【2020後讓更多產業帶進花蓮吧！】\n人民要有錢，要有好建設。\n即刻點以下網址看看：https://www.facebook.com/chichiahualien/videos/958887827788325/",
       "ad_creation_time": "2019-11-30T09:13:57+0000",
@@ -3040,7 +3071,8 @@
       "spend": {
         "lower_bound": "500",
         "upper_bound": "599"
-      }
+      },
+      "ad_id": "440148020211219"
     }
   },
   {
@@ -3049,9 +3081,9 @@
     "AD_ID": "1514678602006022",
     "登錄為政治廣告": "是",
     "開始日期": "2019-12-02",
-    "結束日期": "2019-12-06",
+    "結束日期": "2019-12-07",
     "廣告內容": "【您的支持是我們的動力】 為了花蓮鄉民的生活， 為了花蓮建設發展更美好， 我們需要大家的支持。 2020年1月11日， 懇請全台花蓮縣的鄉親們 記得回家投票喔！ #支持黃啟嘉 #花蓮要更好",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79952014_1514678618672687_6281037427247153152_n.jpg?_nc_cat=102&_nc_ohc=AtjYz59yWyUAQl2WmXr6ch2_Jz6UPFvR7iRvH4glnHnzE99BbD-pLsoTg&_nc_ht=scontent-hkg3-1.xx&oh=4c8b98564adfd2520397e93602b592ad&oe=5E70431F",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79952014_1514678618672687_6281037427247153152_n.jpg?_nc_cat=102&_nc_oc=AQk-WZ-mKHAkeMxh454IgYON85ko-Ay00LT9EY7MeA7f3-pRk5MDrlRWaRD1XbRNg6M&_nc_ht=scontent-hkg3-1.xx&oh=5a563eaeaa479a84cb3253b3153214ba&oe=5E70431F",
     "廣告詳情": {
       "ad_creative_body": "【您的支持是我們的動力】\n為了花蓮鄉民的生活，\n為了花蓮建設發展更美好，\n我們需要大家的支持。\n2020年1月11日，\n懇請全台花蓮縣的鄉親們\n記得回家投票喔！\n\n#支持黃啟嘉\n#花蓮要更好",
       "ad_creation_time": "2019-12-03T03:42:26+0000",
@@ -3061,75 +3093,80 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000283",
+          "percentage": "0.000541",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.152322",
+          "percentage": "0.00018",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.156301",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.051246",
+          "percentage": "0.058049",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.098245",
+          "percentage": "0.109609",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.142695",
+          "percentage": "0.134667",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.080125",
+          "percentage": "0.072291",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.110419",
+          "percentage": "0.102939",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.038222",
+          "percentage": "0.03912",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.058041",
+          "percentage": "0.061835",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.024066",
+          "percentage": "0.029385",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.139298",
+          "percentage": "0.129259",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.086636",
+          "percentage": "0.085812",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.018403",
+          "percentage": "0.020011",
           "age": "18-24",
           "gender": "female"
         }
       ],
       "funding_entity": "晶晶 莊",
       "impressions": {
-        "lower_bound": "4000",
-        "upper_bound": "4999"
+        "lower_bound": "6000",
+        "upper_bound": "6999"
       },
       "page_id": "389521298483300",
       "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
@@ -3140,9 +3177,10 @@
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
-      }
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "1514678602006022"
     }
   },
   {
@@ -3151,9 +3189,9 @@
     "AD_ID": "2482715055280787",
     "登錄為政治廣告": "是",
     "開始日期": "2019-12-02",
-    "結束日期": "2019-12-06",
+    "結束日期": "2019-12-10",
     "廣告內容": "【邀請全花蓮鄉民共襄盛舉！】�總統參選人：韓國瑜 + 花蓮縣立委參選人：黃啟嘉�#聯合競選總部成立大會�日期：12月11日 （星期三）�時間：13:00 集合 / 13:30 開始�地點：花蓮市民廣場 （舊中華國小尚志橋旁） 邀您共襄盛舉這重要的時刻！ #真正藍軍團結的日子�#支持黃啟嘉醫師�#花蓮要更好",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/79753244_2482715285280764_6417545369248333824_n.jpg?_nc_cat=102&_nc_ohc=Jgb4K1_IhsYAQkOxFs2Il3kAQ4sdskXvgqJ3nR-THUIdbQq50jb7oTQgw&_nc_ht=scontent-hkg3-1.xx&oh=dd061b55eb59ce761cb6c15428e845f6&oe=5E7661E0",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/79753244_2482715285280764_6417545369248333824_n.jpg?_nc_cat=102&_nc_ohc=h5MuKGVuqFgAQlLKqzc_5_uKN8KDGVYfngKkwKTn-RhkgwRub_Xc3_19Q&_nc_ht=scontent-hkg3-1.xx&oh=9014d98c8ac339a3e7cc724f0ace612f&oe=5E7661E0",
     "廣告詳情": {
       "ad_creative_body": "【邀請全花蓮鄉民共襄盛舉！】�總統參選人：韓國瑜 + 花蓮縣立委參選人：黃啟嘉�#聯合競選總部成立大會�日期：12月11日 （星期三）�時間：13:00 集合 / 13:30 開始�地點：花蓮市民廣場 （舊中華國小尚志橋旁）\n邀您共襄盛舉這重要的時刻！\n#真正藍軍團結的日子�#支持黃啟嘉醫師�#花蓮要更好",
       "ad_creation_time": "2019-12-03T02:56:50+0000",
@@ -3165,116 +3203,130 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.068652",
-          "age": "65+",
-          "gender": "female"
+          "percentage": "0.000329",
+          "age": "45-54",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.02895",
+          "percentage": "0.037147",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.103391",
+          "percentage": "0.125247",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.092045",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.191894",
+          "percentage": "0.121959",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.060158",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.191979",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.10091",
+          "percentage": "0.023669",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.079224",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.065417",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.105851",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.09512",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.101737",
-          "age": "55-64",
+          "percentage": "0.077909",
+          "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.150538",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.062035",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.019851",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.014061",
+          "percentage": "0.018738",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.062035",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000827",
-          "age": "45-54",
+          "percentage": "0.000329",
+          "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "晶晶 莊",
       "impressions": {
-        "lower_bound": "1000",
-        "upper_bound": "1999"
+        "lower_bound": "5000",
+        "upper_bound": "5999"
       },
       "page_id": "389521298483300",
       "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
       "region_distribution": [
         {
-          "percentage": "0.001658",
-          "region": "Taoyuan City"
-        },
-        {
-          "percentage": "0.006633",
-          "region": "Miaoli"
-        },
-        {
-          "percentage": "0.001658",
+          "percentage": "0.002285",
           "region": "Taitung"
         },
         {
-          "percentage": "0.000829",
+          "percentage": "0.000653",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.160033",
+          "percentage": "0.000326",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.002285",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.012076",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.037206",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.207245",
           "region": "Taichung"
         },
         {
-          "percentage": "0.05058",
+          "percentage": "0.030352",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.727197",
+          "percentage": "0.649804",
           "region": "Hualien"
         },
         {
-          "percentage": "0.05141",
+          "percentage": "0.057768",
           "region": "Nantou"
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
-      }
+        "lower_bound": "800",
+        "upper_bound": "899"
+      },
+      "ad_id": "2482715055280787"
     }
   },
   {
@@ -3283,9 +3335,9 @@
     "AD_ID": "2278495108919349",
     "登錄為政治廣告": "是",
     "開始日期": "2019-12-04",
-    "結束日期": "2019-12-06",
+    "結束日期": "2019-12-09",
     "廣告內容": "【花蓮青年力量大】 感謝活力青年也為我們黃啟嘉醫師掃街拜票！ 你們是未來國家的棟樑 你們是未來花蓮的希望 讓我們現在一起學習成長 關心我們的家園 鼓勵大家選出清廉正義的領導人 【黃啟嘉】。加油加油！ #真正藍軍團結的日子 #支持黃啟嘉醫師 #花蓮要更好 #花蓮正藍團結青年團 #韓國瑜 #中國國民黨 #台灣要更好 #中華民國萬歲",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78268062_593010551467706_3921937369023905792_n.jpg?_nc_cat=106&_nc_ohc=Dt_yR5K3NV0AQk5ZsDotRRlT0SDQZ3hIG4YYMfvDCZMO8mGEHWknUH2zA&_nc_ht=scontent-hkg3-1.xx&oh=f1889853bd3229a4e386bfa809ccdfd8&oe=5E8557D3",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78268062_593010551467706_3921937369023905792_n.jpg?_nc_cat=106&_nc_ohc=vy0FVwcfTv0AQnYOvgDfqwksyY9u9AS_Oc8h1HicN51mAHYmGmt4PMTWQ&_nc_ht=scontent-hkg3-1.xx&oh=24326c035049959875e1f734db752a66&oe=5EACE4D3",
     "廣告詳情": {
       "ad_creative_body": "【花蓮青年力量大】\n感謝活力青年也為我們黃啟嘉醫師掃街拜票！\n你們是未來國家的棟樑\n你們是未來花蓮的希望\n讓我們現在一起學習成長\n關心我們的家園\n鼓勵大家選出清廉正義的領導人\n【黃啟嘉】。加油加油！\n\n#真正藍軍團結的日子\n#支持黃啟嘉醫師\n#花蓮要更好\n#花蓮正藍團結青年團\n#韓國瑜\n#中國國民黨\n#台灣要更好\n#中華民國萬歲",
       "ad_creation_time": "2019-12-05T02:35:50+0000",
@@ -3294,70 +3346,90 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.117965",
-          "age": "35-44",
-          "gender": "female"
+          "percentage": "0.000237",
+          "age": "45-54",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.128788",
+          "percentage": "0.000237",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000237",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000237",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.145502",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.085498",
+          "percentage": "0.124614",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.118206",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.138528",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.034632",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.036797",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.104978",
+          "percentage": "0.078092",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.088745",
+          "percentage": "0.059577",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.054356",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.028246",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.091859",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.069264",
-          "age": "25-34",
+          "percentage": "0.11417",
+          "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.030303",
+          "percentage": "0.120104",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.040589",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.119048",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.045455",
-          "age": "65+",
+          "percentage": "0.023736",
+          "age": "18-24",
           "gender": "female"
         }
       ],
       "funding_entity": "晶晶 莊",
       "impressions": {
-        "lower_bound": "1000",
-        "upper_bound": "1999"
+        "lower_bound": "5000",
+        "upper_bound": "5999"
       },
       "page_id": "389521298483300",
       "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
@@ -3368,9 +3440,10 @@
         }
       ],
       "spend": {
-        "lower_bound": "100",
-        "upper_bound": "199"
-      }
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "2278495108919349"
     }
   },
   {
@@ -3379,9 +3452,9 @@
     "AD_ID": "533765907177444",
     "登錄為政治廣告": "是",
     "開始日期": "2019-12-04",
-    "結束日期": "2019-12-06",
+    "結束日期": "2019-12-09",
     "廣告內容": "【取之社會用之社會】 感恩花蓮鄉親一直以來對黃啟嘉的支持與照顧 您們是啟嘉的人生老師 也是啟嘉最好的鄰居好友 讓我們一起努力 讓花蓮更美好 ***快分享出去喔！*** #真正藍軍團結的日子 #支持黃啟嘉醫師 #花蓮要更好 #花蓮正藍團結青年團 #韓國瑜 #中國國民黨 #台灣要更好 #中華民國萬歲",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79267453_533765930510775_1706782207718195200_n.jpg?_nc_cat=104&_nc_ohc=wzMSYsaBt4oAQlhdtcyM-PxZYfEJMHxIx44sEP3H0IUPTJ2A13SS4El0Q&_nc_ht=scontent-hkg3-1.xx&oh=239d13560612bbd39c6b3fcad23346ee&oe=5E7C2765",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79267453_533765930510775_1706782207718195200_n.jpg?_nc_cat=104&_nc_ohc=kE3SSqa_DIYAQm-1baX8pQNHwuobThj8zUsQzY85JgPuraKzjhbM75eAQ&_nc_ht=scontent-hkg3-1.xx&oh=55590c4e9e23ca253a881c32c5ba1390&oe=5E7C2765",
     "廣告詳情": {
       "ad_creative_body": "【取之社會用之社會】\n感恩花蓮鄉親一直以來對黃啟嘉的支持與照顧\n您們是啟嘉的人生老師\n也是啟嘉最好的鄰居好友\n讓我們一起努力\n讓花蓮更美好\n\n***快分享出去喔！***\n#真正藍軍團結的日子\n#支持黃啟嘉醫師\n#花蓮要更好\n#花蓮正藍團結青年團\n#韓國瑜\n#中國國民黨\n#台灣要更好\n#中華民國萬歲",
       "ad_creation_time": "2019-12-04T15:07:07+0000",
@@ -3391,85 +3464,90 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.019297",
+          "percentage": "0.000212",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.04164",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.195727",
+          "percentage": "0.156575",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.038594",
+          "percentage": "0.060973",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.245348",
+          "percentage": "0.218611",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.068918",
+          "percentage": "0.080093",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.141971",
+          "percentage": "0.163374",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.031013",
+          "percentage": "0.023157",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.064094",
+          "percentage": "0.057149",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.03377",
+          "percentage": "0.028468",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.111647",
+          "percentage": "0.083493",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.041351",
+          "percentage": "0.063947",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.001378",
+          "percentage": "0.000637",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.005513",
+          "percentage": "0.020608",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.000689",
+          "percentage": "0.00085",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000689",
+          "percentage": "0.000212",
           "age": "65+",
           "gender": "unknown"
         }
       ],
       "funding_entity": "晶晶 莊",
       "impressions": {
-        "lower_bound": "1000",
-        "upper_bound": "1999"
+        "lower_bound": "6000",
+        "upper_bound": "6999"
       },
       "page_id": "389521298483300",
       "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
@@ -3480,9 +3558,10 @@
         }
       ],
       "spend": {
-        "lower_bound": "100",
-        "upper_bound": "199"
-      }
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "533765907177444"
     }
   },
   {
@@ -3491,9 +3570,9 @@
     "AD_ID": "582994572459467",
     "登錄為政治廣告": "是",
     "開始日期": "2019-12-04",
-    "結束日期": "2019-12-06",
+    "結束日期": "2019-12-09",
     "廣告內容": "【黃啟嘉要為花蓮鄉民發聲】 為什麼我們花蓮近十多年來都被忽略了？？ 我們不要做後山，也不做什麼前山！！ 我們是台灣的一份子， 需要爭取同等的資源與照顧。 之前的花蓮立委們做不到的， 黃啟嘉要來為花蓮爭取！！！ 【立即點選這個網址：要做親民代表】: https://www.facebook.com/chichiahualien/videos/491792738343210/",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79027446_592209921547769_3535533790061395968_n.jpg?_nc_cat=108&_nc_ohc=modMb89zWykAQmDPe6_5E6xFcAbOGdz6zpp3vtmj9dMhXr180rtVrhftQ&_nc_ht=scontent-hkg3-1.xx&oh=2079071e7b8b915ed59452e4e8a6115c&oe=5E8A39A1",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79027446_592209921547769_3535533790061395968_n.jpg?_nc_cat=108&_nc_ohc=nj_4HlDlj_cAQlJcDFiG276AdgD8fIl9qfLejORbqnjQqCPCUR9wtHU8w&_nc_ht=scontent-hkg3-1.xx&oh=820448fb5d11805644afa11269c639e8&oe=5EB1C6A1",
     "廣告詳情": {
       "ad_creative_body": "【黃啟嘉要為花蓮鄉民發聲】\n為什麼我們花蓮近十多年來都被忽略了？？\n我們不要做後山，也不做什麼前山！！\n我們是台灣的一份子，\n需要爭取同等的資源與照顧。\n之前的花蓮立委們做不到的，\n黃啟嘉要來為花蓮爭取！！！\n\n【立即點選這個網址：要做親民代表】: https://www.facebook.com/chichiahualien/videos/491792738343210/",
       "ad_creation_time": "2019-12-04T08:09:39+0000",
@@ -3502,69 +3581,1683 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.234266",
+          "percentage": "0.000553",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.184632",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.129371",
+          "percentage": "0.140409",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.064685",
+          "percentage": "0.06136",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.052448",
+          "percentage": "0.072968",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.215035",
+          "percentage": "0.207297",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.092657",
+          "percentage": "0.086235",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.111888",
+          "percentage": "0.105583",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.04021",
+          "percentage": "0.054726",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.008741",
+          "percentage": "0.009397",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.024476",
+          "percentage": "0.020453",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.017483",
+          "percentage": "0.038695",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.006993",
+          "percentage": "0.016031",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.001748",
+          "percentage": "0.000553",
           "age": "55-64",
           "gender": "unknown"
+        },
+        {
+          "percentage": "0.001106",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "3000",
+        "upper_bound": "3999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "582994572459467"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "704991910022657",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-04",
+    "結束日期": "2019-12-09",
+    "廣告內容": "【我們都是花蓮一份子】 我們都是這塊土地生活的鄉民 我們都是花蓮彼此認識的鄉親 只有花蓮人知道花蓮需要什麼 黃啟嘉願意把這份需要 傳達到中央政府 讓政府正視我們花蓮的聲音 讓我們花蓮變得更美好。 #真正藍軍團結的日子 #支持黃啟嘉醫師 #花蓮要更好 #花蓮正藍團結青年團 #韓國瑜 #中國國民黨 #台灣要更好 #中華民國萬歲",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/79344733_704991926689322_6394177620421902336_n.jpg?_nc_cat=111&_nc_ohc=G7NIPgzLxewAQmR_ZX2dQ-5ypReeSAOi-O-zoeridSjca4af-noOCOG2w&_nc_ht=scontent-hkg3-2.xx&oh=9c751078d40f4909271ad70f75ee911a&oe=5E693797",
+    "廣告詳情": {
+      "ad_creative_body": "【我們都是花蓮一份子】\n我們都是這塊土地生活的鄉民\n我們都是花蓮彼此認識的鄉親\n只有花蓮人知道花蓮需要什麼\n黃啟嘉願意把這份需要\n傳達到中央政府\n讓政府正視我們花蓮的聲音\n讓我們花蓮變得更美好。\n\n#真正藍軍團結的日子\n#支持黃啟嘉醫師\n#花蓮要更好\n#花蓮正藍團結青年團\n#韓國瑜\n#中國國民黨\n#台灣要更好\n#中華民國萬歲",
+      "ad_creation_time": "2019-12-04T08:08:40+0000",
+      "ad_creative_link_title": "【我們都是花蓮一份子】",
+      "ad_delivery_start_time": "2019-12-04T08:08:49+0000",
+      "ad_delivery_stop_time": "2019-12-09T08:08:40+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.116091",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.106006",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.083371",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.061183",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.082698",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.125504",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.143433",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.097266",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.061632",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.02667",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.057822",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.035858",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000448",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000672",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000448",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000896",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "704991910022657"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "823546441441898",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-04",
+    "結束日期": "2019-12-09",
+    "廣告內容": "花東快行不行？ 黃啟嘉這樣看👇👇",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78652338_823546458108563_8116742961074536448_n.jpg?_nc_cat=108&_nc_ohc=iHj8T09MXtQAQlDIfpFwDTF9vltrsP5WIp1ffbub08j93PX5KShhVzivw&_nc_ht=scontent-hkg3-1.xx&oh=97dd5ebffe08184b8588dc38a3b06816&oe=5E6CDD9D",
+    "廣告詳情": {
+      "ad_creative_body": "【我們不能再等了，是時候要 ‘啟’ 動了！】\n針對民進黨政府選前宣布要重新啟動花東快速道路的評估案，國民黨立委提名人黃啟嘉（見圖）質疑根本是選前假利多，因為重啟可行性評估後，時間多長？結果做不做？都不確定，還有，若可行性評估結論要做花東快，還要接著做環境影響評估，將會耗費更多時間及成本！而環島高速公路早已經做完環境影響評估，是可以立即啟動，因此呼籲政府馬上啟動環島高速公路實施原有的規劃將更容易啟動！",
+      "ad_creation_time": "2019-12-04T08:08:02+0000",
+      "ad_creative_link_caption": "ksnews.com.tw",
+      "ad_creative_link_description": "記者何國豐／報導<br /> 　針對民進黨政府選前宣布要重新啟動花",
+      "ad_creative_link_title": "黃啟嘉：應啟動環島高速公路",
+      "ad_delivery_start_time": "2019-12-04T08:08:03+0000",
+      "ad_delivery_stop_time": "2019-12-09T08:08:02+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000711",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.049431",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.167496",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.024538",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.104552",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.060455",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.13229",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.216572",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.026316",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.009246",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.080014",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.010313",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.117354",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000356",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000356",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "3000",
+        "upper_bound": "3999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "823546441441898"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "820878525002378",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-05",
+    "結束日期": "2019-12-10",
+    "廣告內容": "【天氣變冷了注意保暖哦】 冬天真的來了。冷冷的天氣，加上濕濕的氣候，各位老朋友們要多注意保暖，多喝點熱的補補氣。出入時候也要注意安全。❴黃啟嘉醫師關心大家的健康。❵ #黃啟嘉 #國民黨唯一花蓮立委提名人  #花蓮要更好",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/78760256_593221868113241_1778857711769747456_n.jpg?_nc_cat=109&_nc_ohc=q8KInpDA2owAQnZoM8pJq4K4SqDFYn1c6bHBNCZa5slNO6QeO74w60IsQ&_nc_ht=scontent-hkg3-2.xx&oh=2f50a519d61ffe2bc4770d5c4c469856&oe=5E66132A",
+    "廣告詳情": {
+      "ad_creative_body": "【天氣變冷了注意保暖哦】\n冬天真的來了。冷冷的天氣，加上濕濕的氣候，各位老朋友們要多注意保暖，多喝點熱的補補氣。出入時候也要注意安全。❴黃啟嘉醫師關心大家的健康。❵\n\n#黃啟嘉\n#國民黨唯一花蓮立委提名人 \n#花蓮要更好",
+      "ad_creation_time": "2019-12-05T10:05:08+0000",
+      "ad_delivery_start_time": "2019-12-05T10:05:18+0000",
+      "ad_delivery_stop_time": "2019-12-10T10:05:08+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000247",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.125618",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.044758",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.118447",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.092235",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.085806",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.139466",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.098912",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.053412",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.111523",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.04723",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.055143",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.026212",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000742",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000247",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "820878525002378"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "804613903331709",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-05",
+    "結束日期": "2019-12-10",
+    "廣告內容": "【黃啟嘉醫師是基層的好朋友】 親民親友的黃啟嘉醫師 最近幾週都在花蓮各地 拜訪最基層的鄉民朋友 您是不是也感受到 黃醫師滿滿的祝福呢！ #最親民的政治素人醫師 #黃啟嘉醫師 #值得信賴值得支持的未來領導人 #花蓮要更好",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79751701_804613916665041_316603595829018624_n.jpg?_nc_cat=108&_nc_ohc=-zPnFnxwSi8AQnnxYLT7dejUtIJoDh1M_PoT_GFO1K6ObEOcOJNmceM2g&_nc_ht=scontent-hkg3-1.xx&oh=5aaafc023f127a87baa353d53d49ef13&oe=5EA645D4",
+    "廣告詳情": {
+      "ad_creative_body": "【黃啟嘉醫師是基層的好朋友】\n親民親友的黃啟嘉醫師\n最近幾週都在花蓮各地\n拜訪最基層的鄉民朋友\n您是不是也感受到\n黃醫師滿滿的祝福呢！\n\n#最親民的政治素人醫師\n#黃啟嘉醫師\n#值得信賴值得支持的未來領導人\n#花蓮要更好",
+      "ad_creation_time": "2019-12-06T06:45:32+0000",
+      "ad_creative_link_title": "【黃啟嘉醫師是基層的好朋友】",
+      "ad_delivery_start_time": "2019-12-06T06:45:42+0000",
+      "ad_delivery_stop_time": "2019-12-11T06:45:32+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000182",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000182",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.04652",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.025441",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.181719",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.091586",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.093767",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.147374",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.049973",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.142286",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.019081",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.06233",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.098128",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.040523",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000909",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "6000",
+        "upper_bound": "6999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "804613903331709"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "2640456962702310",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-06",
+    "結束日期": "2019-12-11",
+    "廣告內容": "2020年1月11日，花蓮縣立法委員參選人【黃啓嘉醫師】懇請全台灣民眾的支持，也需要全花蓮民眾的一票。 讓認真做事、專業的醫師能在立法院為民眾監督政府，為民眾發聲！ #真正藍軍團結的日子 #支持黃啟嘉醫師 #花蓮要更好 #花蓮正藍團結青年團 #韓國瑜 #中國國民黨 #台灣要更好 #中華民國萬歲",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78598548_594831207952307_7197673380533764096_n.jpg?_nc_cat=104&_nc_ohc=jGDd8wdMIosAQkmJ-s9Z6ox4x61dx1_MRum61y2tCEMhqrSHdl8MJJKXw&_nc_ht=scontent-hkg3-1.xx&oh=3247055b726a28ab278a27d3fa056257&oe=5E75C2C4",
+    "廣告詳情": {
+      "ad_creative_body": "2020年1月11日，花蓮縣立法委員參選人【黃啓嘉醫師】懇請全台灣民眾的支持，也需要全花蓮民眾的一票。\n讓認真做事、專業的醫師能在立法院為民眾監督政府，為民眾發聲！\n\n#真正藍軍團結的日子\n#支持黃啟嘉醫師\n#花蓮要更好\n#花蓮正藍團結青年團\n#韓國瑜\n#中國國民黨\n#台灣要更好\n#中華民國萬歲",
+      "ad_creation_time": "2019-12-07T04:12:01+0000",
+      "ad_delivery_start_time": "2019-12-07T04:12:02+0000",
+      "ad_delivery_stop_time": "2019-12-12T04:12:01+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000557",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.10563",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.16165",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.025641",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.05602",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.062152",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.1034",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.15942",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.073579",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.133501",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.017001",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.055184",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.045151",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000836",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000279",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "2640456962702310"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "436854630341349",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-09",
+    "結束日期": "2019-12-14",
+    "廣告內容": "繼謝深山後 又一老縣長出馬了!💪",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/80059152_436854707008008_4689035497505292288_n.jpg?_nc_cat=108&_nc_ohc=lZmc_KZHFnkAQltTZWPiyQCMLI41jirraxkCwm5ei1BIcOo_HFVjKTaHg&_nc_ht=scontent-hkg3-1.xx&oh=2102cd3bafd5375a7b8897837c7d7a01&oe=5E67B88B",
+    "廣告詳情": {
+      "ad_creative_body": "是團結的時候了！",
+      "ad_creation_time": "2019-12-09T10:10:38+0000",
+      "ad_creative_link_caption": "ksnews.com.tw",
+      "ad_creative_link_description": "競總成立大會12/11在市民廣場 馬英九站台 記者何國豐／報導",
+      "ad_creative_link_title": "國民黨展現團結氣勢 黃啟嘉競選總部 王慶豐擔任顧問團團長",
+      "ad_delivery_start_time": "2019-12-09T10:10:43+0000",
+      "ad_delivery_stop_time": "2019-12-14T10:10:38+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.00037",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.091312",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.131978",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.173013",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.179667",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.021072",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.107209",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.089464",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.076525",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.012569",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.059889",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.037708",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.019224",
+          "age": "25-34",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "3000",
+        "upper_bound": "3999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "436854630341349"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "705894543235779",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-08",
+    "結束日期": "2019-12-10",
+    "廣告內容": "【花蓮人團結的時刻到了】 別忘了這個星期三 2019年12月11日 午間1點 在花蓮市民廣場我們的約會 一起來為黃啟嘉醫師打氣！ #馬英九 #黃啟嘉 #韓國瑜 #花蓮要更好",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78328373_705894553235778_1767401973134393344_n.jpg?_nc_cat=105&_nc_ohc=tulF5pm34RYAQmACTkX3me2R-kVXI7h3ziZTUee6URywklliYefympK8A&_nc_ht=scontent-hkg3-1.xx&oh=3dd226c04b9e94a00110e8d70d57384f&oe=5EAE5F6C",
+    "廣告詳情": {
+      "ad_creative_body": "【花蓮人團結的時刻到了】\n別忘了這個星期三\n2019年12月11日\n午間1點\n在花蓮市民廣場我們的約會\n一起來為黃啟嘉醫師打氣！\n\n#馬英九\n#黃啟嘉\n#韓國瑜\n#花蓮要更好",
+      "ad_creation_time": "2019-12-09T04:55:24+0000",
+      "ad_creative_link_title": "【花蓮人團結的時刻到了】",
+      "ad_delivery_start_time": "2019-12-09T04:55:35+0000",
+      "ad_delivery_stop_time": "2019-12-11T04:55:24+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000238",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.026629",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.056824",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.045174",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.121969",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.061579",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.094627",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.059439",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.172848",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000238",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.133381",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.160247",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.054446",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000238",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000476",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000238",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.011412",
+          "age": "18-24",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "705894543235779"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "2399534426951336",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-09",
+    "結束日期": "2019-12-14",
+    "廣告內容": "【黃啟嘉的3政見！】 2020年1月11日，花蓮縣立法委員參選人 【黃啓嘉醫師】懇請全花蓮民眾的支持， 也需要全花蓮民眾的一票。 讓認真做事、專業的醫師 能在立法院為民眾監督政府，為民眾發聲！ *************************** 【黃啟嘉政見】 # 建構東部發展計畫： 以獨立預算及法規建構 花東地區全方位發展計畫 # 開闢興建高速公路： 興建花東高速公路及 延伸國道六號至花蓮 打通花東雙城東西南北向 交通活絡花東發展 # 強化中央地方協調： 強化中央地方溝通平台 並整合中央資源建設花蓮 以國家高度翻轉花蓮區域發展 提昇花蓮競爭力",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79889349_2399534746951304_7962265511562051584_n.jpg?_nc_cat=102&_nc_ohc=X6XpUrh55WcAQkYHL4lXIhpUy_AMj3HgjqikXhLdNt0POT2PmYhov6a0Q&_nc_ht=scontent-hkg3-1.xx&oh=0b6158d6580ad0f30ba42bcebd848f6b&oe=5E72016D",
+    "廣告詳情": {
+      "ad_creative_body": "【黃啟嘉的3政見！】\n2020年1月11日，花蓮縣立法委員參選人\n【黃啓嘉醫師】懇請全花蓮民眾的支持，\n也需要全花蓮民眾的一票。\n讓認真做事、專業的醫師\n能在立法院為民眾監督政府，為民眾發聲！\n\n***************************\n【黃啟嘉政見】\n# 建構東部發展計畫：\n以獨立預算及法規建構\n花東地區全方位發展計畫\n\n# 開闢興建高速公路：\n興建花東高速公路及\n延伸國道六號至花蓮\n\n打通花東雙城東西南北向\n交通活絡花東發展\n\n# 強化中央地方協調：\n強化中央地方溝通平台\n並整合中央資源建設花蓮\n\n以國家高度翻轉花蓮區域發展\n提昇花蓮競爭力",
+      "ad_creation_time": "2019-12-10T05:29:46+0000",
+      "ad_creative_link_title": "【黃啟嘉的3政見！】",
+      "ad_delivery_start_time": "2019-12-10T05:29:58+0000",
+      "ad_delivery_stop_time": "2019-12-15T05:29:46+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000168",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000168",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.200202",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.010439",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.226469",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.069877",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.168379",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.073413",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.11113",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.045967",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.026772",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.014481",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.021047",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.030477",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000505",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000505",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "7000",
+        "upper_bound": "7999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "2399534426951336"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "485139112116537",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-11",
+    "結束日期": "2019-12-16",
+    "廣告內容": "正藍立委候選人黃啟嘉總部成立大會",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79983348_485140768783038_8698285282459385856_n.jpg?_nc_cat=104&_nc_ohc=V1Z9BKx-ryIAQnyPkPolLOKRuyweX6QfGLYl0hKfbi1_C60srevyYExrA&_nc_ht=scontent-hkg3-1.xx&oh=e2efe7b8f68ec6065f89b8415ad0db0f&oe=5E67DCF8",
+    "廣告詳情": {
+      "ad_creative_body": "正藍立委候選人黃啟嘉總部成立大會",
+      "ad_creation_time": "2019-12-11T10:22:50+0000",
+      "ad_creative_link_title": "正藍立委候選人黃啟嘉總部成立大會",
+      "ad_delivery_start_time": "2019-12-11T10:22:51+0000",
+      "ad_delivery_stop_time": "2019-12-16T10:22:50+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000155",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00031",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000155",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.147902",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.118166",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.16819",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.135976",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.030819",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.076196",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.015332",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.023076",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.078055",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.105777",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.041505",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.057922",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000465",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "8000",
+        "upper_bound": "8999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "485139112116537"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "941151259614734",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-11",
+    "結束日期": "2019-12-16",
+    "廣告內容": "花蓮鄉親市民 大家一起為黃啟嘉醫師 加油!凍蒜 感謝全體花蓮鄉親的蒞臨 力挺中國國民黨 力挺韓國瑜 力挺黃啟嘉醫師 花蓮會更好",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79414137_598381624263932_5385155675057815552_n.jpg?_nc_cat=109&_nc_ohc=kimrlJDidq4AQnNXA0MJ6c2W8nt3-bhuz-WPzN9wV4VjkeAVef0QiiU9A&_nc_ht=scontent-hkg3-2.xx&oh=60dd0b5b39362048cee590d353252819&oe=5EB38F42",
+    "廣告詳情": {
+      "ad_creative_body": "花蓮鄉親市民\n大家一起為黃啟嘉醫師\n加油!凍蒜\n感謝全體花蓮鄉親的蒞臨\n力挺中國國民黨\n力挺韓國瑜\n力挺黃啟嘉醫師\n花蓮會更好",
+      "ad_creation_time": "2019-12-11T10:20:52+0000",
+      "ad_delivery_start_time": "2019-12-11T10:21:02+0000",
+      "ad_delivery_stop_time": "2019-12-16T10:20:52+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000443",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000296",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000443",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.072695",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.033097",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.157506",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.078162",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.084663",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.144356",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.08747",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.135491",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.037382",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.052157",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.079639",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.035461",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000739",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "8000",
+        "upper_bound": "8999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "941151259614734"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "1321148158072188",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-14",
+    "結束日期": "2019-12-19",
+    "廣告內容": "告了!告了!花蓮縣第一場選舉訴訟上場!",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/80263365_1321189334734737_6615863070369513472_n.jpg?_nc_cat=102&_nc_ohc=RqGmgEUMao0AQmsBG56tFIjDKHuHn_cPNWuzHO0LnzQha9c9aKMN2csVg&_nc_ht=scontent-hkg3-1.xx&oh=7db921b5247be80483abf0cfabea9401&oe=5E6EFD54",
+    "廣告詳情": {
+      "ad_creative_body": "【國民黨不能失去黃啟嘉一席】\n花蓮鄉親心中都有一把尺\n我們的眼睛都是雪亮的！\n\n#國民黨要過半不能失去花蓮一席\n#黃啟嘉才是花蓮國民黨這一席",
+      "ad_creation_time": "2019-12-14T08:17:15+0000",
+      "ad_creative_link_caption": "ksnews.com.tw",
+      "ad_creative_link_description": "指猶如花蓮版卡神楊蕙如事件 散播不實消息企圖影響選情 記者何",
+      "ad_creative_link_title": "黃啟嘉告上報 操作棄保民調",
+      "ad_delivery_start_time": "2019-12-14T08:17:23+0000",
+      "ad_delivery_stop_time": "2019-12-19T08:17:15+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000241",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000482",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.041908",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.149566",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.175337",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.066474",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.016618",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.103083",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.146435",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.102119",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.05395",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.045039",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.070087",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.027697",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000963",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "1321148158072188"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "567373500494216",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-14",
+    "結束日期": "2019-12-19",
+    "廣告內容": "【為啟嘉加油！為國民黨加油！】 團結一心，支持啟嘉。 凍蒜凍蒜！ #國民黨唯一提名花蓮縣候選人黃啟嘉 #花蓮要更好",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79943969_601099820658779_8388034505901867008_n.jpg?_nc_cat=108&_nc_ohc=psM-3OjpWREAQlb6CWxhs7mwCy3R8kuGcR0YTDEj7ZkjJdklXC1GHnHJw&_nc_ht=scontent-hkg3-1.xx&oh=1d0a5134434be2f1fcf8202d20d4de32&oe=5EACEE64",
+    "廣告詳情": {
+      "ad_creative_body": "【為啟嘉加油！為國民黨加油！】\n團結一心，支持啟嘉。\n凍蒜凍蒜！\n\n#國民黨唯一提名花蓮縣候選人黃啟嘉\n#花蓮要更好",
+      "ad_creation_time": "2019-12-14T08:15:23+0000",
+      "ad_delivery_start_time": "2019-12-14T08:15:34+0000",
+      "ad_delivery_stop_time": "2019-12-19T08:15:23+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000245",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000736",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000245",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.072112",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.144224",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.138582",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.037773",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.113564",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.05715",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.11013",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.031886",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.053225",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.116017",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.076772",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.046848",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000491",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "567373500494216"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "1023010794709232",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-13",
+    "結束日期": "2019-12-18",
+    "廣告內容": "【黃啟嘉你要點什麼？】 黃：我要大杯可樂。 伯伯：慢點慢點 （我還沒有按到。。） 黃：麥香雞一個。 伯伯：等下等下（。。。） 黃：大的薯條一個。 爺爺，別忘了收錢喔！ *********************** 【百歲人瑞一日店員體驗】 黃啟嘉醫師拜訪花蓮健康的 百歲伯伯當一日店長體驗。 大家好開心，我們花蓮鄉親 長命百歲，可喜可賀啊！ 花蓮最健康，鄉親最長壽！ #支持黃啟嘉 #花蓮要更好",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/80277122_797778840684512_3012222021095391232_n.jpg?_nc_cat=111&_nc_ohc=sXlLk-oYvmYAQmUAdL3WOm3gpodhGYTqtl_2W5hUwAghY_kNd5Uxjj-Ew&_nc_ht=scontent-hkg3-2.xx&oh=de463244b393d73fb0f397faff4807fc&oe=5EA7A6ED",
+    "廣告詳情": {
+      "ad_creative_body": "【黃啟嘉你要點什麼？】\n黃：我要大杯可樂。\n伯伯：慢點慢點 （我還沒有按到。。）\n黃：麥香雞一個。\n伯伯：等下等下（。。。）\n黃：大的薯條一個。\n\n爺爺，別忘了收錢喔！\n***********************\n【百歲人瑞一日店員體驗】\n黃啟嘉醫師拜訪花蓮健康的\n百歲伯伯當一日店長體驗。\n大家好開心，我們花蓮鄉親\n長命百歲，可喜可賀啊！\n花蓮最健康，鄉親最長壽！\n\n#支持黃啟嘉\n#花蓮要更好",
+      "ad_creation_time": "2019-12-14T05:37:24+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_title": "【黃啟嘉你要喝什麼？】",
+      "ad_delivery_start_time": "2019-12-14T05:37:35+0000",
+      "ad_delivery_stop_time": "2019-12-19T05:37:24+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000274",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.026052",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001097",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.02235",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.070616",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000137",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.086658",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.058001",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.13465",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000548",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.066502",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.084876",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.168929",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.064582",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.102838",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.111477",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000411",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "9000",
+        "upper_bound": "9999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "1023010794709232"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "2711170065607334",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-13",
+    "結束日期": "2019-12-14",
+    "廣告內容": "【張善政、黃啟嘉青年座談會】 日 期：108年12月14日 時 間：下午16：30 地 點：韓國瑜黃啟嘉競選總部(花蓮市明禮路71-11號) 歡迎花蓮青年朋友一起來聊聊天。 #花蓮要更好 #花蓮青年 #支持黃啟嘉醫師 #支持張善政",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79542603_600947584007336_5859623675774369792_n.jpg?_nc_cat=108&_nc_ohc=sV4bDp7IlPcAQmAS6vhA38Wfmew6oZM-pdoFcGT1wIEevYh3tpItpciXw&_nc_ht=scontent-hkg3-1.xx&oh=6ebadf02f0c77c8f1e5ccfa809076190&oe=5EAB09B3",
+    "廣告詳情": {
+      "ad_creative_body": "【張善政、黃啟嘉青年座談會】\n日 期：108年12月14日\n時 間：下午16：30\n地 點：韓國瑜黃啟嘉競選總部(花蓮市明禮路71-11號)\n歡迎花蓮青年朋友一起來聊聊天。\n\n#花蓮要更好\n#花蓮青年\n#支持黃啟嘉醫師\n#支持張善政",
+      "ad_creation_time": "2019-12-14T05:36:43+0000",
+      "ad_delivery_start_time": "2019-12-14T05:36:48+0000",
+      "ad_delivery_stop_time": "2019-12-15T05:36:43+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.20684",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.017915",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.117264",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.184039",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.083062",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.109121",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.035831",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.065147",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.055375",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.094463",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.009772",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.021173",
+          "age": "18-24",
+          "gender": "male"
         }
       ],
       "funding_entity": "晶晶 莊",
@@ -3583,95 +5276,999 @@
       "spend": {
         "lower_bound": "100",
         "upper_bound": "199"
-      }
+      },
+      "ad_id": "2711170065607334"
     }
   },
   {
     "選區": "花蓮縣選舉區",
     "參選人": "黃啟嘉",
-    "AD_ID": "704991910022657",
+    "AD_ID": "495248144418710",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-12-04",
-    "結束日期": "2019-12-06",
-    "廣告內容": "【我們都是花蓮一份子】 我們都是這塊土地生活的鄉民 我們都是花蓮彼此認識的鄉親 只有花蓮人知道花蓮需要什麼 黃啟嘉願意把這份需要 傳達到中央政府 讓政府正視我們花蓮的聲音 讓我們花蓮變得更美好。 #真正藍軍團結的日子 #支持黃啟嘉醫師 #花蓮要更好 #花蓮正藍團結青年團 #韓國瑜 #中國國民黨 #台灣要更好 #中華民國萬歲",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79344733_704991926689322_6394177620421902336_n.jpg?_nc_cat=111&_nc_ohc=zgnBIJtTSrYAQlMMtqmqX7S1XXi_MSOHwCnJjFRQHcDVKZs2h2LmGuEzQ&_nc_ht=scontent-hkg3-1.xx&oh=75b36b6e78a8d6ab95e8ca38f10db117&oe=5E41AA97",
+    "開始日期": "2019-12-13",
+    "結束日期": "2019-12-18",
+    "廣告內容": "【感謝花蓮鄉親為黃啟嘉支持打氣】 感恩各位鄉親蒞臨為【韓國瑜黃啟嘉聯合競選總部】成立大會加油打氣！大家的歡呼與吶喊是我們一大鼓勵。黃啟嘉醫師要與大家一起努力奮鬥，希望未來能在中央政府立法院上為花蓮鄉民發聲，改善花蓮建設，爭取更美好的發展資源。開闢新的交通建設，引進更多產業；提高就業人口，留住本土人才；提升醫療資源完善長照服務。 謝謝大家。 #國民黨唯一提名花蓮縣立法委員候選人黃啟嘉 #捍衛中華民國 #花蓮要更好",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80282535_2522234648101850_2765181532363554816_n.jpg?_nc_cat=100&_nc_ohc=INyg9xQ_d1wAQm7HzjS71FCrLlfQCSBXzDwGppixoaKGkllWS3D8q8TUQ&_nc_ht=scontent-hkg3-1.xx&oh=96d2fb4b388afe69220311e79a7ecd6a&oe=5E7C3AD5",
     "廣告詳情": {
-      "ad_creative_body": "【我們都是花蓮一份子】\n我們都是這塊土地生活的鄉民\n我們都是花蓮彼此認識的鄉親\n只有花蓮人知道花蓮需要什麼\n黃啟嘉願意把這份需要\n傳達到中央政府\n讓政府正視我們花蓮的聲音\n讓我們花蓮變得更美好。\n\n#真正藍軍團結的日子\n#支持黃啟嘉醫師\n#花蓮要更好\n#花蓮正藍團結青年團\n#韓國瑜\n#中國國民黨\n#台灣要更好\n#中華民國萬歲",
-      "ad_creation_time": "2019-12-04T08:08:40+0000",
-      "ad_creative_link_title": "【我們都是花蓮一份子】",
-      "ad_delivery_start_time": "2019-12-04T08:08:49+0000",
-      "ad_delivery_stop_time": "2019-12-09T08:08:40+0000",
+      "ad_creative_body": "【感謝花蓮鄉親為黃啟嘉支持打氣】\n感恩各位鄉親蒞臨為【韓國瑜黃啟嘉聯合競選總部】成立大會加油打氣！大家的歡呼與吶喊是我們一大鼓勵。黃啟嘉醫師要與大家一起努力奮鬥，希望未來能在中央政府立法院上為花蓮鄉民發聲，改善花蓮建設，爭取更美好的發展資源。開闢新的交通建設，引進更多產業；提高就業人口，留住本土人才；提升醫療資源完善長照服務。\n\n謝謝大家。\n\n#國民黨唯一提名花蓮縣立法委員候選人黃啟嘉\n#捍衛中華民國\n#花蓮要更好",
+      "ad_creation_time": "2019-12-14T05:35:57+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_title": "【感謝花蓮鄉親為黃啟嘉支持打氣】",
+      "ad_delivery_start_time": "2019-12-14T05:36:00+0000",
+      "ad_delivery_stop_time": "2019-12-19T05:35:57+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.033914",
+          "percentage": "0.000198",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000396",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.153039",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.041576",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.112741",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.144821",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.062328",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.132906",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.078827",
+          "percentage": "0.085924",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.117324",
-          "age": "45-54",
+          "percentage": "0.130073",
+          "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.088909",
+          "percentage": "0.027321",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.051277",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.03483",
-          "age": "65+",
+          "percentage": "0.103742",
+          "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.015582",
+          "percentage": "0.082558",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.014849",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.044913",
+          "percentage": "0.153633",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.077806",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.077014",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000594",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "6000",
+        "upper_bound": "6999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "495248144418710"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "2729102517112948",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-16",
+    "結束日期": "2019-12-21",
+    "廣告內容": "黃啟嘉與韓家軍團鐵衛車隊花蓮市區掃街 挺韓團體為國民黨候選人提振士氣 力拼立委全壘打",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/80595932_2729102580446275_585326672903929856_n.jpg?_nc_cat=102&_nc_ohc=OITZ9y-ap2YAQmFCcEffuihgposzjEk5sBDjdHMOM26oST6Gm2wU66sdg&_nc_ht=scontent-hkg3-1.xx&oh=5ffe508ba2a4f9156fd6479585d39db6&oe=5EAD022E",
+    "廣告詳情": {
+      "ad_creative_body": "黃啟嘉與韓家軍團鐵衛車隊花蓮市區掃街\n挺韓團體為國民黨候選人提振士氣 力拼立委全壘打",
+      "ad_creation_time": "2019-12-16T11:21:04+0000",
+      "ad_creative_link_description": "即時新聞/記者何國豐/報導   由民眾自發性組成的韓家軍",
+      "ad_creative_link_title": "黃啟嘉與韓家軍團鐵衛車隊花蓮市區掃街 挺韓團體為國民黨候選人提振士氣 力拼立委全壘打",
+      "ad_delivery_start_time": "2019-12-16T11:21:11+0000",
+      "ad_delivery_stop_time": "2019-12-21T11:21:04+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.113395",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.119773",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.156627",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.111977",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.04961",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.131072",
+          "percentage": "0.064493",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.127569",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.000917",
+          "percentage": "0.017009",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.051028",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.090716",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.044649",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.051736",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000709",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000709",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "2000",
+        "upper_bound": "2999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "2729102517112948"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "458823394803738",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-16",
+    "結束日期": "2019-12-21",
+    "廣告內容": "Up Up Up",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79944339_602696113832483_3132769301983920128_n.jpg?_nc_cat=111&_nc_ohc=jTLAjm72498AQlnQKG3cvX7xQk_ZwnmnZgsa7n1G4xPP_GwuYqjBBX5yQ&_nc_ht=scontent-hkg3-2.xx&oh=ad4c8989e52f4cead5873ac337979a23&oe=5E7A0926",
+    "廣告詳情": {
+      "ad_creative_body": "Up Up Up",
+      "ad_creation_time": "2019-12-16T11:20:08+0000",
+      "ad_delivery_start_time": "2019-12-16T11:20:12+0000",
+      "ad_delivery_stop_time": "2019-12-21T11:20:08+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000605",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000605",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.084643",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.146917",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.066505",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.110036",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.10399",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.075574",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.077993",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.169287",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.039903",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.073156",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.033253",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.016324",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001209",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "2000",
+        "upper_bound": "2999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "458823394803738"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "1392549707572078",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-16",
+    "結束日期": "2019-12-21",
+    "廣告內容": "國民黨副總統候選人張善政，蒞臨黃啟嘉競選總部與青年座談會，為黃啟嘉加油打氣，高喊當選口號",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80461868_1392550754238640_4963660929091764224_n.jpg?_nc_cat=103&_nc_ohc=Q01YCR5UtdAAQkANSS1azqK7PfLaZVrjgwX9Oct9bj-9j3mZxfph7NGbQ&_nc_ht=scontent-hkg3-1.xx&oh=4644ff86a01d1947e49036e87fbd4b9a&oe=5E68D55C",
+    "廣告詳情": {
+      "ad_creative_body": "國民黨副總統候選人張善政，蒞臨黃啟嘉競選總部與青年座談會，為黃啟嘉加油打氣，高喊當選口號",
+      "ad_creation_time": "2019-12-16T11:18:57+0000",
+      "ad_creative_link_title": "黃啟嘉",
+      "ad_delivery_start_time": "2019-12-16T11:18:57+0000",
+      "ad_delivery_stop_time": "2019-12-21T11:18:57+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000198",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.088964",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.164652",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.060432",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.187636",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.134337",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.094115",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.045373",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.101446",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.036655",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.013473",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.012681",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.059441",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000198",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000396",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "7000",
+        "upper_bound": "7999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "1392549707572078"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "567298747387532",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-16",
+    "結束日期": "2019-12-21",
+    "廣告內容": "2020年1月11日，花蓮縣立法委員參選人【黃啓嘉醫師】懇請全台灣民眾的支持，也需要全花蓮民眾的一票。 讓認真做事、專業的醫師能在立法院為民眾監督政府，為民眾發聲！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79325618_602030297232398_8724698163098681344_n.jpg?_nc_cat=103&_nc_ohc=BOS4t6-FBogAQmplstPqSRpDWTBdwAEqR_Lyg4cwH_yQ3Gli9yjl9cNrQ&_nc_ht=scontent-hkg3-1.xx&oh=79c7d269c413a1c552d03a62cd9dd68f&oe=5E7C7267",
+    "廣告詳情": {
+      "ad_creative_body": "2020年1月11日，花蓮縣立法委員參選人【黃啓嘉醫師】懇請全台灣民眾的支持，也需要全花蓮民眾的一票。\n讓認真做事、專業的醫師能在立法院為民眾監督政府，為民眾發聲！",
+      "ad_creation_time": "2019-12-16T08:00:46+0000",
+      "ad_delivery_start_time": "2019-12-16T08:00:50+0000",
+      "ad_delivery_stop_time": "2019-12-21T08:00:46+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000476",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000917",
+          "percentage": "0.119353",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.074655",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.186876",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.065145",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.185925",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.087494",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.116976",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.035188",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.065621",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.031859",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.01902",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.011412",
+          "age": "18-24",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "3000",
+        "upper_bound": "3999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "567298747387532"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "2161184547510512",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-16",
+    "結束日期": "2019-12-21",
+    "廣告內容": "【花蓮青年站出來！！！】 花蓮的青年是未來的希望！ 黃啟嘉領航帶領大家一起前進。 我們要創造花蓮的新生活！ 青年就是最重要的力量。 花蓮人護花蓮地， 黃啟嘉醫師與大家一起為花蓮打拼。 2020年1月11日，記得回花蓮投票喔！ 支持黃啟嘉醫師，花蓮要更好！ #花蓮青年 #花蓮正藍團結青年團 #黃啟嘉醫師與青年一起打拼 #回家投票",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80693825_2161184570843843_1811910895316500480_n.jpg?_nc_cat=106&_nc_ohc=IrLmuEdeojAAQke4BrxQcieKxhhVrWSDcjg1riStTbrNDtwESRZeU8EEw&_nc_ht=scontent-hkg3-1.xx&oh=159f713679085da2b5700c6b0d3b3855&oe=5EAE6E59",
+    "廣告詳情": {
+      "ad_creative_body": "【花蓮青年站出來！！！】\n花蓮的青年是未來的希望！\n黃啟嘉領航帶領大家一起前進。\n我們要創造花蓮的新生活！\n青年就是最重要的力量。\n花蓮人護花蓮地，\n黃啟嘉醫師與大家一起為花蓮打拼。\n2020年1月11日，記得回花蓮投票喔！\n支持黃啟嘉醫師，花蓮要更好！\n\n#花蓮青年\n#花蓮正藍團結青年團\n#黃啟嘉醫師與青年一起打拼\n#回家投票",
+      "ad_creation_time": "2019-12-16T08:00:17+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_title": "【花蓮青年站出來！！！】",
+      "ad_delivery_start_time": "2019-12-16T08:00:29+0000",
+      "ad_delivery_stop_time": "2019-12-21T08:00:17+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.00012",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.040669",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001564",
           "age": "25-34",
           "gender": "unknown"
+        },
+        {
+          "percentage": "0.000241",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.084707",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.011431",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.053904",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.090242",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.006738",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00012",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.03345",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.214655",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.018048",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.207556",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.140537",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.095656",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000361",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "2161184547510512"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "591051501656668",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-17",
+    "結束日期": "1970-01-01",
+    "廣告內容": "漲了漲了！ 最後25天啟嘉氣勢高漲啦 花蓮鄉親動起來了！ 大家堅持到底 大家團結到底 一定要把黃啟嘉 送進立法院！ 凍蒜凍蒜黃啟嘉！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80810330_591051528323332_138991347926302720_n.jpg?_nc_cat=103&_nc_ohc=wb7HlCyfPnwAQmzRTtLxHWgFnry7ngaV3lrVZ1Y32PEf_xnTKuRuJMFNg&_nc_ht=scontent-hkg3-1.xx&oh=83e26426d509fcbfa2cd9cdcbfc3a0ca&oe=5E731A33",
+    "廣告詳情": {
+      "ad_creative_body": "漲了漲了！\n最後25天啟嘉氣勢高漲啦\n花蓮鄉親動起來了！\n大家堅持到底\n大家團結到底\n一定要把黃啟嘉\n送進立法院！\n凍蒜凍蒜黃啟嘉！",
+      "ad_creation_time": "2019-12-18T01:44:41+0000",
+      "ad_delivery_start_time": "2019-12-18T01:44:52+0000",
+      "ad_delivery_stop_time": "2019-12-23T01:44:41+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000916",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000916",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000458",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.03344",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.125057",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.115437",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.073752",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.094824",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.125973",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.124599",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.115896",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.090243",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.034814",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.029776",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.03344",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000458",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "3000",
+        "upper_bound": "3999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "400",
+        "upper_bound": "499"
+      },
+      "ad_id": "591051501656668"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "451476622218304",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-17",
+    "結束日期": "1970-01-01",
+    "廣告內容": "韓國瑜 黃啟嘉光復後援會成了立",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80523706_451477605551539_3552028904019460096_n.jpg?_nc_cat=102&_nc_ohc=I2ZwkYft94wAQlyjFl3DRhOGEylAmxjh_-kIt5H5XYr4b07E0tKmyaCvQ&_nc_ht=scontent-hkg3-1.xx&oh=5b7f05b4b1b97c26b9cefbb793ea8e92&oe=5E704E43",
+    "廣告詳情": {
+      "ad_creative_body": "韓國瑜 黃啟嘉光復後援會成了立",
+      "ad_creation_time": "2019-12-17T13:46:06+0000",
+      "ad_delivery_start_time": "2019-12-17T13:46:08+0000",
+      "ad_delivery_stop_time": "2019-12-22T13:46:06+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000159",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000159",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000159",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.149418",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.152607",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.192633",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.057726",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.038909",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.116409",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.055334",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.069367",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.053899",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.013873",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.020411",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.078616",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000319",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "9000",
+        "upper_bound": "9999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "400",
+        "upper_bound": "499"
+      },
+      "ad_id": "451476622218304"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "599800254181009",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-18",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【堅持到底！為花蓮贏得一席】 黃啟嘉希望不負眾望一定要在這次大選中為國民黨贏得花蓮一席。要為花蓮鄉民發聲，要把鄉親的民意送到立法院！ 請大家一定要支持黃啟嘉醫師 讓他在2020年1月11日得到勝利！ #支持黃啟嘉 #支持國民黨 #花蓮人動起來 #為花蓮為家園",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/81192688_599800267514341_9126143078309036032_n.jpg?_nc_cat=110&_nc_ohc=WsmSWapjnCkAQlVGsfoWvKys6LNkfpv3y2UmDoIvFM671Vf2tPVGOmtZA&_nc_ht=scontent-hkg3-2.xx&oh=7b4cbc8abeb018b44531373fbb8ff3cc&oe=5EAC34EA",
+    "廣告詳情": {
+      "ad_creative_body": "【堅持到底！為花蓮贏得一席】\n黃啟嘉希望不負眾望一定要在這次大選中為國民黨贏得花蓮一席。要為花蓮鄉民發聲，要把鄉親的民意送到立法院！\n請大家一定要支持黃啟嘉醫師\n讓他在2020年1月11日得到勝利！\n\n#支持黃啟嘉\n#支持國民黨\n#花蓮人動起來\n#為花蓮為家園",
+      "ad_creation_time": "2019-12-18T09:15:43+0000",
+      "ad_creative_link_title": "【堅持到底！為花蓮贏得一席】",
+      "ad_delivery_start_time": "2019-12-18T09:15:52+0000",
+      "ad_delivery_stop_time": "2019-12-23T09:15:43+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.034217",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000855",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.045338",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.122327",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.124893",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.11976",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.038494",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.11976",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.051326",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.103507",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.109495",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.072712",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.057314",
+          "age": "35-44",
+          "gender": "female"
         }
       ],
       "funding_entity": "晶晶 莊",
@@ -3688,100 +6285,108 @@
         }
       ],
       "spend": {
-        "lower_bound": "100",
-        "upper_bound": "199"
-      }
+        "lower_bound": "300",
+        "upper_bound": "399"
+      },
+      "ad_id": "599800254181009"
     }
   },
   {
     "選區": "花蓮縣選舉區",
     "參選人": "黃啟嘉",
-    "AD_ID": "823546441441898",
+    "AD_ID": "562515207932930",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-12-04",
-    "結束日期": "2019-12-06",
-    "廣告內容": "花東快行不行？ 黃啟嘉這樣看👇👇",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78652338_823546458108563_8116742961074536448_n.jpg?_nc_cat=108&_nc_ohc=cQ2ysk0E_bUAQn9ZxoBekdK8WZjm40vrCVhTqIVJnuB2gN7iyBfUvV66Q&_nc_ht=scontent-hkg3-1.xx&oh=99c96ec57a892a97c31c76ef4110a7db&oe=5E6CDD9D",
+    "開始日期": "2019-12-18",
+    "結束日期": "1970-01-01",
+    "廣告內容": "3號3號就是3號 啟嘉啟嘉投給黃啟嘉 花蓮縣立委候選人 【3號。黃啟嘉】 記得投給3號黃啟嘉 拜託拜託！ #花蓮投給3號黃啟嘉 #花蓮要更好",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80582978_562515221266262_8183350301743382528_n.jpg?_nc_cat=102&_nc_ohc=Xtfsbld2S3oAQmu2th9m5YmiA_qHJcZLBq4OtKgFDPDlcJt9H0KUuY_Qw&_nc_ht=scontent-hkg3-1.xx&oh=03d7f86cab96ced2bbdafbc442e59d03&oe=5EB4245E",
     "廣告詳情": {
-      "ad_creative_body": "【我們不能再等了，是時候要 ‘啟’ 動了！】\n針對民進黨政府選前宣布要重新啟動花東快速道路的評估案，國民黨立委提名人黃啟嘉（見圖）質疑根本是選前假利多，因為重啟可行性評估後，時間多長？結果做不做？都不確定，還有，若可行性評估結論要做花東快，還要接著做環境影響評估，將會耗費更多時間及成本！而環島高速公路早已經做完環境影響評估，是可以立即啟動，因此呼籲政府馬上啟動環島高速公路實施原有的規劃將更容易啟動！",
-      "ad_creation_time": "2019-12-04T08:08:02+0000",
-      "ad_creative_link_caption": "ksnews.com.tw",
-      "ad_creative_link_description": "記者何國豐／報導<br /> 　針對民進黨政府選前宣布要重新啟動花",
-      "ad_creative_link_title": "黃啟嘉：應啟動環島高速公路",
-      "ad_delivery_start_time": "2019-12-04T08:08:03+0000",
-      "ad_delivery_stop_time": "2019-12-09T08:08:02+0000",
+      "ad_creative_body": "3號3號就是3號\n啟嘉啟嘉投給黃啟嘉\n花蓮縣立委候選人\n【3號。黃啟嘉】\n記得投給3號黃啟嘉\n拜託拜託！\n\n#花蓮投給3號黃啟嘉\n#花蓮要更好",
+      "ad_creation_time": "2019-12-18T09:14:58+0000",
+      "ad_delivery_start_time": "2019-12-18T09:15:07+0000",
+      "ad_delivery_stop_time": "2019-12-23T09:14:58+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.048454",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.165979",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.030928",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.112371",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.06701",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.135052",
+          "percentage": "0.000182",
           "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.205155",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.025773",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.013402",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.080412",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.009278",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.105155",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.001031",
-          "age": "35-44",
           "gender": "unknown"
+        },
+        {
+          "percentage": "0.000182",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000363",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.128997",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.049419",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.14008",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.153525",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.137173",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.077398",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.053234",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.087391",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.023801",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.064499",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.064499",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.019259",
+          "age": "18-24",
+          "gender": "female"
         }
       ],
       "funding_entity": "晶晶 莊",
       "impressions": {
-        "lower_bound": "1000",
-        "upper_bound": "1999"
+        "lower_bound": "7000",
+        "upper_bound": "7999"
       },
       "page_id": "389521298483300",
       "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
@@ -3792,85 +6397,76 @@
         }
       ],
       "spend": {
-        "lower_bound": "100",
-        "upper_bound": "199"
-      }
+        "lower_bound": "300",
+        "upper_bound": "399"
+      },
+      "ad_id": "562515207932930"
     }
   },
   {
     "選區": "花蓮縣選舉區",
     "參選人": "黃啟嘉",
-    "AD_ID": "820878525002378",
+    "AD_ID": "1511625192332591",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-12-05",
-    "結束日期": "2019-12-06",
-    "廣告內容": "【天氣變冷了注意保暖哦】 冬天真的來了。冷冷的天氣，加上濕濕的氣候，各位老朋友們要多注意保暖，多喝點熱的補補氣。出入時候也要注意安全。❴黃啟嘉醫師關心大家的健康。❵ #黃啟嘉 #國民黨唯一花蓮立委提名人  #花蓮要更好",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78760256_593221868113241_1778857711769747456_n.jpg?_nc_cat=109&_nc_ohc=rsYwn5vIp2IAQkvLnOczRhFiL2ytuX6WmCguoCjebM2jOmhCCtDvHguew&_nc_ht=scontent-hkg3-1.xx&oh=a9d9a9991d059ec1df3b3a0123c2db3e&oe=5E3E862A",
+    "開始日期": "2019-12-18",
+    "結束日期": "1970-01-01",
+    "廣告內容": "一定要記起來哦！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79823927_604595483642546_699849046684073984_n.jpg?_nc_cat=102&_nc_ohc=WtkSp7B1hbsAQmYXwuC_FaiFlLR_JhL0mB_Cx5S-Gn7vLwMq8_9mcX-zw&_nc_ht=scontent-hkg3-1.xx&oh=e2db70e2c450455bc64ac6f92321f151&oe=5E781A78",
     "廣告詳情": {
-      "ad_creative_body": "【天氣變冷了注意保暖哦】\n冬天真的來了。冷冷的天氣，加上濕濕的氣候，各位老朋友們要多注意保暖，多喝點熱的補補氣。出入時候也要注意安全。❴黃啟嘉醫師關心大家的健康。❵\n\n#黃啟嘉\n#國民黨唯一花蓮立委提名人 \n#花蓮要更好",
-      "ad_creation_time": "2019-12-05T10:05:08+0000",
-      "ad_delivery_start_time": "2019-12-05T10:05:18+0000",
-      "ad_delivery_stop_time": "2019-12-10T10:05:08+0000",
+      "ad_creative_body": "一定要記起來哦！",
+      "ad_creation_time": "2019-12-18T09:14:21+0000",
+      "ad_delivery_start_time": "2019-12-18T09:14:25+0000",
+      "ad_delivery_stop_time": "2019-12-23T09:14:21+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.122744",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.106498",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.110108",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.110108",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.068592",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.055957",
+          "percentage": "0.157895",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.097473",
-          "age": "45-54",
+          "percentage": "0.052632",
+          "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.088448",
+          "percentage": "0.052632",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.052632",
           "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.105263",
+          "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.115523",
+          "percentage": "0.105263",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.043321",
+          "percentage": "0.210526",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.157895",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.052632",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.039711",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.041516",
-          "age": "65+",
+          "percentage": "0.052632",
+          "age": "55-64",
           "gender": "male"
         }
       ],
@@ -3890,7 +6486,563 @@
       "spend": {
         "lower_bound": "0",
         "upper_bound": "99"
-      }
+      },
+      "ad_id": "1511625192332591"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "2280871418871687",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-17",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【花蓮區國民黨團結力挺黃啟嘉】 最後決戰一個月，花蓮全體黨員齊心合力， 力挺黃啟嘉當選2020花蓮縣立法委員！ 全力以赴，努力奮戰！ #真正藍軍團結的日子 #支持黃啟嘉醫師 #花蓮要更好 #花蓮正藍團結青年團 #韓國瑜 #中國國民黨 #台灣要更好 #中華民國萬歲",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79000707_601940057241422_7382221657022136320_n.jpg?_nc_cat=102&_nc_ohc=XFcVQ0fA5XsAQmeAXMjDSZjVsxKYMdmrHxv4SAz8Xj-KU_N_uWxK4dulg&_nc_ht=scontent-hkg3-1.xx&oh=30e1c01741439e03648b15ba596335f8&oe=5E721CA4",
+    "廣告詳情": {
+      "ad_creative_body": "【花蓮區國民黨團結力挺黃啟嘉】\n最後決戰一個月，花蓮全體黨員齊心合力，\n力挺黃啟嘉當選2020花蓮縣立法委員！\n全力以赴，努力奮戰！\n\n#真正藍軍團結的日子\n#支持黃啟嘉醫師\n#花蓮要更好\n#花蓮正藍團結青年團\n#韓國瑜\n#中國國民黨\n#台灣要更好\n#中華民國萬歲",
+      "ad_creation_time": "2019-12-18T01:45:47+0000",
+      "ad_delivery_start_time": "2019-12-18T01:46:01+0000",
+      "ad_delivery_stop_time": "2019-12-23T01:45:47+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000267",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000534",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.140567",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.085516",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.080706",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.160877",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.136825",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.07349",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.132015",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.040887",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.054516",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.060128",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.019241",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.014431",
+          "age": "18-24",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "400",
+        "upper_bound": "499"
+      },
+      "ad_id": "2280871418871687"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "771037870063057",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-18",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【力挺黃啟嘉成為花蓮縣立法委員】 2020年1月11日，花蓮縣立法委員參選人【黃啓嘉醫師】懇請全花蓮民眾賜票。讓認真做事、專業的醫師能在立法院為民眾監督政府，為民眾發聲！",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/80442071_605341863567908_9150951367756480512_n.jpg?_nc_cat=107&_nc_ohc=oKderDEGdhwAQll-zmBRAcHtcZ4j-S1hd2o4OIHCAcnLA3vHCHyuJAWRA&_nc_ht=scontent-hkg3-2.xx&oh=da766a9cd22407e2667ee70bee24f493&oe=5E777075",
+    "廣告詳情": {
+      "ad_creative_body": "【力挺黃啟嘉成為花蓮縣立法委員】\n2020年1月11日，花蓮縣立法委員參選人【黃啓嘉醫師】懇請全花蓮民眾賜票。讓認真做事、專業的醫師能在立法院為民眾監督政府，為民眾發聲！",
+      "ad_creation_time": "2019-12-19T07:55:01+0000",
+      "ad_delivery_start_time": "2019-12-19T07:55:07+0000",
+      "ad_delivery_stop_time": "2019-12-24T07:55:01+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.127684",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.20226",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.053107",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.029379",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.073446",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.027119",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.010169",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.016949",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.073446",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.2",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.083616",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.101695",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00113",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "1999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "200",
+        "upper_bound": "299"
+      },
+      "ad_id": "771037870063057"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "3425665397475256",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-19",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【我們要乾淨的選舉】 杜絕賄選，杜絕誤導。 我們要公平與乾淨的選舉環境。 中華民國要進步，要文明， 需要靠大家的努力。 為我們的美好家園把關！ 保護我們的生活環境喔！",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79945316_606110150157746_2477739029307588608_n.jpg?_nc_cat=107&_nc_ohc=bk1V5MMMAUEAQlGz4TiKuNb9N7X3fiNxtjyRm588OCPupk30MPwoh5PWA&_nc_ht=scontent-hkg3-2.xx&oh=2f6491c06321e5bf61c9c12b9a5aa6a5&oe=5EB3DAAB",
+    "廣告詳情": {
+      "ad_creative_body": "【我們要乾淨的選舉】\n杜絕賄選，杜絕誤導。\n我們要公平與乾淨的選舉環境。\n中華民國要進步，要文明，\n需要靠大家的努力。\n為我們的美好家園把關！\n保護我們的生活環境喔！",
+      "ad_creation_time": "2019-12-20T03:38:30+0000",
+      "ad_delivery_start_time": "2019-12-20T03:38:35+0000",
+      "ad_delivery_stop_time": "2019-12-25T03:38:30+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.001125",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.112486",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.173228",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.071991",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.016873",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.030371",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.194601",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.035996",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.173228",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.060742",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.052868",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.066367",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.010124",
+          "age": "18-24",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "1999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "199"
+      },
+      "ad_id": "3425665397475256"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "474611670140662",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-21",
+    "結束日期": "1970-01-01",
+    "廣告內容": "花蓮需要一位醫師領袖 為花蓮鄉親爭取更好的 醫療長照資源。 只有醫生更能了解 如何有效爭取應有的福利 與醫療照顧。",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80665817_606989100069851_6613942867800883200_n.jpg?_nc_cat=105&_nc_ohc=zmkNOPhwUTUAQlDq1hvbIm66vLtBSDgfHATPmlPFlJ4QncFierY0abnSg&_nc_ht=scontent-hkg3-1.xx&oh=b27dfb0d616171959fa7050e0a290194&oe=5EB09EB8",
+    "廣告詳情": {
+      "ad_creative_body": "花蓮需要一位醫師領袖\n為花蓮鄉親爭取更好的\n醫療長照資源。\n只有醫生更能了解\n如何有效爭取應有的福利\n與醫療照顧。",
+      "ad_creation_time": "2019-12-21T09:53:41+0000",
+      "ad_delivery_start_time": "2019-12-21T09:53:44+0000",
+      "ad_delivery_stop_time": "2019-12-26T09:53:41+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.190184",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.09816",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.128834",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.04908",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.092025",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.233129",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.067485",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.042945",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.02454",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.018405",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.055215",
+          "age": "65+",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "474611670140662"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "2360745074054806",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-23",
+    "結束日期": "2019-11-28",
+    "廣告內容": "【花蓮人要告訴花蓮人】趕快分享轉發！花蓮要更好，需要大家共同努力。 請支持黃啟嘉醫師成為2020花蓮縣立法委員。 為花蓮民眾發聲、爭取更多中央資源協助花東地方發展。也為全國人民在立法院監督政府，為全民健康醫療做有效監督。 拜託拜託，懇請大家支持【黃啟嘉】！ #花蓮要更好 #台灣醫療要更好 #黃啟嘉 #韓國瑜",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78804599_480238095924214_1571004955618181120_n.jpg?_nc_cat=100&_nc_ohc=4_d7Bz8E-nAAQkWSS0KbdOgTjOpfXUhu1NX5yirOZGybFRvG0a6Dvs9pA&_nc_ht=scontent-hkg3-1.xx&oh=1a9e7ed8a3d56aca9a666f030c0dcf8f&oe=5E83B47E",
+    "廣告詳情": {
+      "ad_creative_body": "【花蓮人要告訴花蓮人】趕快分享轉發！花蓮要更好，需要大家共同努力。\n請支持黃啟嘉醫師成為2020花蓮縣立法委員。\n為花蓮民眾發聲、爭取更多中央資源協助花東地方發展。也為全國人民在立法院監督政府，為全民健康醫療做有效監督。\n拜託拜託，懇請大家支持【黃啟嘉】！\n\n#花蓮要更好\n#台灣醫療要更好\n#黃啟嘉\n#韓國瑜",
+      "ad_creation_time": "2019-11-24T05:03:16+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_title": "【花蓮人要告訴花蓮人】趕快分享轉發！",
+      "ad_delivery_start_time": "2019-11-24T05:03:18+0000",
+      "ad_delivery_stop_time": "2019-11-29T05:03:16+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000216",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.045709",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000431",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000216",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001078",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.067917",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.142734",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.022639",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.040319",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.19254",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.156102",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.07417",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.025658",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.101121",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.059293",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.069211",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000647",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "0.003211",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.238656",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.056293",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.000428",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.636344",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.00792",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.055437",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.001712",
+          "region": "Taitung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "400",
+        "upper_bound": "499"
+      },
+      "ad_id": "2360745074054806"
     }
   }
 ]

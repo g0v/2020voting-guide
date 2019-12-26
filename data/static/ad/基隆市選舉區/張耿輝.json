@@ -5,9 +5,9 @@
     "AD_ID": "419941411964574",
     "登錄為政治廣告": "否",
     "開始日期": "2019-09-20",
-    "結束日期": "2019-12-06",
+    "結束日期": "1970-01-01",
     "廣告內容": "民意覺醒，改變基隆 會做事，最實在 杜絕政黨政治淪於政客政治 人民要的是台灣的未來 2020選賢與能，不看藍綠 選對的人  做對的事 ＃正港的基隆仔 ＃專業專職18年問政經歷 ＃超越藍綠前進國會 ＃耿輝是您唯一選擇 ＃基隆市立法委員參選人",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/71534789_551857135355907_1405923218966970368_n.jpg?_nc_cat=103&_nc_ohc=aPcBNNiT2A0AQl09RS0ohx1qj8-gmgR98rNeccwVgVWytCe4noBbk_iFw&_nc_ht=scontent-hkg3-1.xx&oh=1188e826ef3129dfecb6d9d35de34e8d&oe=5E3FEFFC",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/71534789_551857135355907_1405923218966970368_n.jpg?_nc_cat=103&_nc_ohc=UeIOJonIbaUAQkowmNzBOaft42RG8iPnsJX-RaN8kDcW0Ty7ovNEvrFRg&_nc_ht=scontent-hkg3-1.xx&oh=ed51d88fdd4ccf8e4ec8a6cf63daf44a&oe=5E677CFC",
     "廣告詳情": {
       "ad_creative_body": "民意覺醒，改變基隆\n會做事，最實在\n杜絕政黨政治淪於政客政治\n人民要的是台灣的未來\n2020選賢與能，不看藍綠\n選對的人  做對的事\n\n＃正港的基隆仔\n＃專業專職18年問政經歷\n＃超越藍綠前進國會\n＃耿輝是您唯一選擇\n＃基隆市立法委員參選人",
       "ad_creation_time": "2019-09-20T10:10:55+0000",
@@ -147,7 +147,8 @@
       "spend": {
         "lower_bound": "10000",
         "upper_bound": "49999"
-      }
+      },
+      "ad_id": "419941411964574"
     }
   },
   {
@@ -156,9 +157,9 @@
     "AD_ID": "428370714502862",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-19",
-    "結束日期": "2019-12-06",
+    "結束日期": "1970-01-01",
     "廣告內容": "『耿』直親切，『輝』動為民 專業問政，嚴審預算，清廉服務 終結藍綠政黨惡鬥，讓台灣更好 是耿輝5屆議員一路走來，堅持不變的原則！ 2020基隆立委唯一選擇，張耿輝懇請支持",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/77925847_428370741169526_8498172946433441792_n.jpg?_nc_cat=107&_nc_ohc=f7iZP4fTuE8AQkf9-vcJFzK-7V0buapoN_vsjNkYUb74-GDJSWCsp-9jA&_nc_ht=scontent-hkg3-1.xx&oh=474eaef7e8e8a22b32057dcf7b3b60c4&oe=5E743C94",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/s600x600/77925847_428370741169526_8498172946433441792_n.jpg?_nc_cat=107&_nc_ohc=ngfqTmL9O7gAQmqjurlLywXZ-sWxnFuKTN_pg8uXbO_ha5o5RZKGM-qzw&_nc_ht=scontent-hkg3-2.xx&oh=98e59316e1dbfa8538f5de6b4cdfbd37&oe=5E743C94",
     "廣告詳情": {
       "ad_creative_body": "『耿』直親切，『輝』動為民\n專業問政，嚴審預算，清廉服務\n終結藍綠政黨惡鬥，讓台灣更好\n是耿輝5屆議員一路走來，堅持不變的原則！\n2020基隆立委唯一選擇，張耿輝懇請支持",
       "ad_creation_time": "2019-11-19T08:27:32+0000",
@@ -169,18 +170,73 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.087892",
+          "percentage": "8.5E-5",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.01362",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.069291",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.044009",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.030219",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.154501",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.099979",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.145435",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.099638",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00017",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.088232",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.040359",
-          "age": "18-24",
+          "percentage": "0.135901",
+          "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.000171",
+          "percentage": "0.077804",
           "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000298",
+          "age": "25-34",
           "gender": "unknown"
         },
         {
@@ -189,74 +245,19 @@
           "gender": "unknown"
         },
         {
+          "percentage": "0.00034",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
           "percentage": "0.000128",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000299",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "8.5E-5",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.013453",
+          "percentage": "0.040306",
           "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.069315",
-          "age": "25-34",
           "gender": "male"
-        },
-        {
-          "percentage": "0.100278",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.135768",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.099637",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.077728",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.043946",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.154773",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.030023",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.145761",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000342",
-          "age": "35-44",
-          "gender": "unknown"
         }
       ],
       "funding_entity": "絮評 張",
@@ -275,18 +276,19 @@
       "spend": {
         "lower_bound": "8000",
         "upper_bound": "8999"
-      }
+      },
+      "ad_id": "428370714502862"
     }
   },
   {
     "選區": "基隆市選舉區",
     "參選人": "張耿輝",
     "AD_ID": "475626219715754",
-    "登錄為政治廣告": "否",
-    "開始日期": "2019-11-11",
-    "結束日期": "2019-12-06",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-19",
+    "結束日期": "1970-01-01",
     "廣告內容": "『耿』直親切，『輝』動為民 專業問政，嚴審預算，清廉服務 終結藍綠政黨惡鬥，讓台灣更好 是耿輝5屆議員一路走來，堅持不變的原則！ 2020基隆立委唯一選擇，張耿輝懇請支持",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/77357191_475626243049085_6899542838476800000_n.jpg?_nc_cat=104&_nc_ohc=cz5ty2ppEpwAQm2w2GN9-12Kbx9PN8ariMSsKpLzggtnFJhNbJWCdHJKA&_nc_ht=scontent-hkg3-1.xx&oh=0e837d6b615a63831d9b8e68c34c38c7&oe=5E3EB6AE",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/s600x600/77925847_428370741169526_8498172946433441792_n.jpg?_nc_cat=107&_nc_ohc=ngfqTmL9O7gAQmqjurlLywXZ-sWxnFuKTN_pg8uXbO_ha5o5RZKGM-qzw&_nc_ht=scontent-hkg3-2.xx&oh=98e59316e1dbfa8538f5de6b4cdfbd37&oe=5E743C94",
     "廣告詳情": {
       "ad_creative_body": "『耿』直親切，『輝』動為民\n專業問政，嚴審預算，清廉服務\n終結藍綠政黨惡鬥，讓台灣更好\n是耿輝5屆議員一路走來，堅持不變的原則！\n2020基隆立委唯一選擇，張耿輝懇請支持",
       "ad_creation_time": "2019-11-11T11:04:40+0000",
@@ -377,7 +379,8 @@
       "spend": {
         "lower_bound": "100",
         "upper_bound": "199"
-      }
+      },
+      "ad_id": "475626219715754"
     }
   },
   {
@@ -386,9 +389,9 @@
     "AD_ID": "738485033256966",
     "登錄為政治廣告": "否",
     "開始日期": "2019-09-14",
-    "結束日期": "2019-12-06",
+    "結束日期": "1970-01-01",
     "廣告內容": "民意覺醒，改變基隆！ 支持耿輝，為你帶來更美好的生活！ 不分黨派為地方爭取建設！為市民爭取福利 老有所依、壯有所用、幼有所養 就是耿輝參選立委對你們最大的承諾！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/69984265_2085774235063901_220127021064257536_n.jpg?_nc_cat=102&_nc_ohc=JP_pimGUrxgAQm8Ll6s1BZuLqDJXnIVTx-KYCeU5PF6T7-4BfJm8FEpsg&_nc_ht=scontent-hkg3-1.xx&oh=723fe6425270c85ae8998a7dc779eca8&oe=5E426C6E",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/69984265_2085774235063901_220127021064257536_n.jpg?_nc_cat=102&_nc_ohc=1RsrRBdj-EAAQlETBN-8VkReCIOOMeibNzEetsu2mQvvjFA-mwL90_e-A&_nc_ht=scontent-hkg3-1.xx&oh=ecc62da0677ebae5b83a8080d08caf70&oe=5E69F96E",
     "廣告詳情": {
       "ad_creative_body": "民意覺醒，改變基隆！\n支持耿輝，為你帶來更美好的生活！\n不分黨派為地方爭取建設！為市民爭取福利\n老有所依、壯有所用、幼有所養\n就是耿輝參選立委對你們最大的承諾！",
       "ad_creation_time": "2019-09-15T03:48:24+0000",
@@ -508,7 +511,1071 @@
       "spend": {
         "lower_bound": "1000",
         "upper_bound": "4999"
-      }
+      },
+      "ad_id": "738485033256966"
+    }
+  },
+  {
+    "選區": "基隆市選舉區",
+    "參選人": "張耿輝",
+    "AD_ID": "444021849617723",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-09",
+    "結束日期": "1970-01-01",
+    "廣告內容": "從政以來 耿輝一直給自己期許，要做就是做一個最好的民代，以百姓的所苦去考量、所需要的去解決，考慮百姓所需要是什麼民生的法案、民生的問題，整個市民它是需要哪邊要解決的先解決，不會去考量黨派的立場，堅持以民為依歸的信念！ ＃十八年來始終如一 ＃過去現在未來 ＃民意覺醒改變基隆 ＃基隆市立法委員候選人張耿輝",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80413160_444021889617719_7430939617089552384_n.jpg?_nc_cat=102&_nc_ohc=HG3AO7BAl1IAQkBOssHGUPg3tNF_rfgC3Y_wCGhqF80dhRHgXnNfYkowg&_nc_ht=scontent-hkg3-1.xx&oh=d066b469651de028ab0978c4bf245fbc&oe=5EACDE52",
+    "廣告詳情": {
+      "ad_creative_body": "從政以來\n耿輝一直給自己期許，要做就是做一個最好的民代，以百姓的所苦去考量、所需要的去解決，考慮百姓所需要是什麼民生的法案、民生的問題，整個市民它是需要哪邊要解決的先解決，不會去考量黨派的立場，堅持以民為依歸的信念！\n\n＃十八年來始終如一\n＃過去現在未來\n＃民意覺醒改變基隆\n＃基隆市立法委員候選人張耿輝",
+      "ad_creation_time": "2019-12-09T10:34:11+0000",
+      "ad_delivery_start_time": "2019-12-09T10:34:11+0000",
+      "ad_delivery_stop_time": "2019-12-24T15:59:45+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.112653",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.041763",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "8.9E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000133",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000222",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000887",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000222",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.013655",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.063043",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.145283",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.157031",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.027487",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.106934",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.059984",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.069649",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.134244",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.066545",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000177",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "絮評 張",
+      "impressions": {
+        "lower_bound": "60000",
+        "upper_bound": "69999"
+      },
+      "page_id": "319628701384131",
+      "page_name": "張耿輝",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Keelung City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "7000",
+        "upper_bound": "7999"
+      },
+      "ad_id": "444021849617723"
+    }
+  },
+  {
+    "選區": "基隆市選舉區",
+    "參選人": "張耿輝",
+    "AD_ID": "1444884915692714",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-13",
+    "結束日期": "1970-01-01",
+    "廣告內容": "耿輝。從政。日常 從清晨到深夜，一步一腳印，上樓梯下樓梯，走遍大街小巷，為民服務的精神，十八年來從未停歇... 耿輝從政之心源於在軍中曾經擔任後備軍人連絡官等職，當時勤走基層，傾聽基層心聲，瞭解民間疾苦，深知民眾所需。退伍後又逢納莉風災（2001年）重創基隆及汐止等地，民眾財物損失慘重，苦不堪言。 耿輝當時義務投入災後重建工作，併而深入了解為何每逢颱風來襲，基隆河總是氾濫成災，鑑於中央及地方政府整治基隆河工程草率行事，當年耿輝義無反顧挺身競選基隆市第十五屆的市議員，並獲鄉親的肯定高票當選。 當選是責任的開始，展開了耿輝連續五屆，迄今18年的從政之路....一路走來，箇中滋味唯有自知，經歷過風風雨雨，始終未忘初衷。 不負鄉親期望持續努力，希翼能盡一己之力，此次再次投入立法委員參選，期許能為基隆及台灣帶來更美好的未來，懇請全力支持！ #會做事最實在 #民意覺醒改變基隆 #基隆市立法委員候選人張耿輝",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80107773_1017314095294547_2777125518586150912_n.jpg?_nc_cat=101&_nc_ohc=INBzfZip3GcAQntcFE1lClGPmNu1LZapWH7vDEe0MvLjRPVxgyMEslxFw&_nc_ht=scontent-hkg3-1.xx&oh=1d30641c8d9f59891861455a1c9041c4&oe=5EB0F97B",
+    "廣告詳情": {
+      "ad_creative_body": "耿輝。從政。日常\n\n從清晨到深夜，一步一腳印，上樓梯下樓梯，走遍大街小巷，為民服務的精神，十八年來從未停歇...\n\n耿輝從政之心源於在軍中曾經擔任後備軍人連絡官等職，當時勤走基層，傾聽基層心聲，瞭解民間疾苦，深知民眾所需。退伍後又逢納莉風災（2001年）重創基隆及汐止等地，民眾財物損失慘重，苦不堪言。\n\n耿輝當時義務投入災後重建工作，併而深入了解為何每逢颱風來襲，基隆河總是氾濫成災，鑑於中央及地方政府整治基隆河工程草率行事，當年耿輝義無反顧挺身競選基隆市第十五屆的市議員，並獲鄉親的肯定高票當選。\n\n當選是責任的開始，展開了耿輝連續五屆，迄今18年的從政之路....一路走來，箇中滋味唯有自知，經歷過風風雨雨，始終未忘初衷。\n\n不負鄉親期望持續努力，希翼能盡一己之力，此次再次投入立法委員參選，期許能為基隆及台灣帶來更美好的未來，懇請全力支持！\n\n#會做事最實在\n#民意覺醒改變基隆\n#基隆市立法委員候選人張耿輝",
+      "ad_creation_time": "2019-12-14T05:53:31+0000",
+      "ad_delivery_start_time": "2019-12-14T05:53:31+0000",
+      "ad_delivery_stop_time": "2019-12-22T15:59:45+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.05979",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.015568",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00015",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000414",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000113",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000978",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00015",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.05084",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.096153",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.06592",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.153988",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.03422",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.125071",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.052119",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.126499",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.065468",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.152484",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "7.5E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "絮評 張",
+      "impressions": {
+        "lower_bound": "80000",
+        "upper_bound": "89999"
+      },
+      "page_id": "319628701384131",
+      "page_name": "張耿輝",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Keelung City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "7000",
+        "upper_bound": "7999"
+      },
+      "ad_id": "1444884915692714"
+    }
+  },
+  {
+    "選區": "基隆市選舉區",
+    "參選人": "張耿輝",
+    "AD_ID": "530866390836378",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-18",
+    "結束日期": "1970-01-01",
+    "廣告內容": "民意覺醒 改變基隆 票投3號 張耿輝 基隆起飛  萬事都OK #基隆市立法委員候選人張耿輝",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79417223_3252049818141990_1598946874679623680_n.jpg?_nc_cat=111&_nc_ohc=6B9ogGPduXoAQkNxjq0Z2pn_DRvcV4mEH0iSmGx1JKRRZZYwDwmvZCMrA&_nc_ht=scontent-hkg3-2.xx&oh=86304d3a76ffda049529e9b29a1ac741&oe=5E78C6F4",
+    "廣告詳情": {
+      "ad_creative_body": "民意覺醒\n改變基隆\n票投3號 張耿輝\n基隆起飛 \n萬事都OK\n\n#基隆市立法委員候選人張耿輝",
+      "ad_creation_time": "2019-12-18T08:19:33+0000",
+      "ad_delivery_start_time": "2019-12-18T08:19:33+0000",
+      "ad_delivery_stop_time": "2019-12-24T15:59:45+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000578",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000217",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "7.2E-5",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.071279",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.146602",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.129703",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.14133",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.039792",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.063841",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.10096",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.055608",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.024843",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.083339",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.12407",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.017332",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000433",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "絮評 張",
+      "impressions": {
+        "lower_bound": "25000",
+        "upper_bound": "29999"
+      },
+      "page_id": "319628701384131",
+      "page_name": "張耿輝",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Keelung City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "7000",
+        "upper_bound": "7999"
+      },
+      "ad_id": "530866390836378"
+    }
+  },
+  {
+    "選區": "基隆市選舉區",
+    "參選人": "張耿輝",
+    "AD_ID": "551857112022576",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-09-20",
+    "結束日期": "1970-01-01",
+    "廣告內容": "民意覺醒，改變基隆 會做事，最實在 杜絕政黨政治淪於政客政治 人民要的是台灣的未來 2020選賢與能，不看藍綠 選對的人  做對的事 ＃正港的基隆仔 ＃專業專職18年問政經歷 ＃超越藍綠前進國會 ＃耿輝是您唯一選擇 ＃基隆市立法委員參選人",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/71534789_551857135355907_1405923218966970368_n.jpg?_nc_cat=103&_nc_ohc=UeIOJonIbaUAQkowmNzBOaft42RG8iPnsJX-RaN8kDcW0Ty7ovNEvrFRg&_nc_ht=scontent-hkg3-1.xx&oh=ed51d88fdd4ccf8e4ec8a6cf63daf44a&oe=5E677CFC",
+    "廣告詳情": {
+      "ad_creative_body": "民意覺醒，改變基隆\n會做事，最實在\n杜絕政黨政治淪於政客政治\n人民要的是台灣的未來\n2020選賢與能，不看藍綠\n選對的人  做對的事\n\n＃正港的基隆仔\n＃專業專職18年問政經歷\n＃超越藍綠前進國會\n＃耿輝是您唯一選擇\n＃基隆市立法委員參選人",
+      "ad_creation_time": "2019-09-20T10:09:43+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "基隆市市議員",
+      "ad_creative_link_title": "張耿輝",
+      "ad_delivery_start_time": "2019-09-20T10:09:43+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000188",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.033356",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000565",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.01841",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.037949",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.086402",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.072397",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.101272",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.032754",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000151",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.109593",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.061441",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.150026",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.131579",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.162714",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000264",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00064",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000301",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "50000",
+        "upper_bound": "99999"
+      },
+      "page_id": "319628701384131",
+      "page_name": "張耿輝",
+      "region_distribution": [
+        {
+          "percentage": "0.209852",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.188225",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.218215",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.215967",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.015953",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.040268",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.11152",
+          "region": "Keelung City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "10000",
+        "upper_bound": "49999"
+      },
+      "ad_id": "551857112022576"
+    }
+  },
+  {
+    "選區": "基隆市選舉區",
+    "參選人": "張耿輝",
+    "AD_ID": "2446619248920417",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-09-14",
+    "結束日期": "1970-01-01",
+    "廣告內容": "民意覺醒，改變基隆！ 支持耿輝，為你帶來更美好的生活！ 不分黨派為地方爭取建設！為市民爭取福利 老有所依、壯有所用、幼有所養 就是耿輝參選立委對你們最大的承諾！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/69984265_2085774235063901_220127021064257536_n.jpg?_nc_cat=102&_nc_ohc=1RsrRBdj-EAAQlETBN-8VkReCIOOMeibNzEetsu2mQvvjFA-mwL90_e-A&_nc_ht=scontent-hkg3-1.xx&oh=ecc62da0677ebae5b83a8080d08caf70&oe=5E69F96E",
+    "廣告詳情": {
+      "ad_creative_body": "民意覺醒，改變基隆！\n支持耿輝，為你帶來更美好的生活！\n不分黨派為地方爭取建設！為市民爭取福利\n老有所依、壯有所用、幼有所養\n就是耿輝參選立委對你們最大的承諾！",
+      "ad_creation_time": "2019-09-15T03:48:24+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "Politician",
+      "ad_creative_link_title": "基隆市議員 張耿輝",
+      "ad_delivery_start_time": "2019-09-15T03:48:24+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.161261",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.046522",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000895",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001566",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001118",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000671",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.016775",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.070678",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.070454",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.139342",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.165064",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.035563",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.03176",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.038917",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.070007",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.149184",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000224",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "9999"
+      },
+      "page_id": "319628701384131",
+      "page_name": "張耿輝",
+      "region_distribution": [
+        {
+          "percentage": "0.215538",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.206659",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.262375",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.166482",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.015982",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.030633",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.102331",
+          "region": "Keelung City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "4999"
+      },
+      "ad_id": "2446619248920417"
+    }
+  },
+  {
+    "選區": "基隆市選舉區",
+    "參選人": "張耿輝",
+    "AD_ID": "523202775121521",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-09-14",
+    "結束日期": "1970-01-01",
+    "廣告內容": "民意覺醒，改變基隆！ 支持耿輝，為你帶來更美好的生活！ 不分黨派為地方爭取建設！為市民爭取福利 老有所依、壯有所用、幼有所養 就是耿輝參選立委對你們最大的承諾！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/69984265_2085774235063901_220127021064257536_n.jpg?_nc_cat=102&_nc_ohc=1RsrRBdj-EAAQlETBN-8VkReCIOOMeibNzEetsu2mQvvjFA-mwL90_e-A&_nc_ht=scontent-hkg3-1.xx&oh=ecc62da0677ebae5b83a8080d08caf70&oe=5E69F96E",
+    "廣告詳情": {
+      "ad_creative_body": "民意覺醒，改變基隆！\n支持耿輝，為你帶來更美好的生活！\n不分黨派為地方爭取建設！為市民爭取福利\n老有所依、壯有所用、幼有所養\n就是耿輝參選立委對你們最大的承諾！",
+      "ad_creation_time": "2019-09-02T02:40:00+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "Politician",
+      "ad_creative_link_title": "基隆市議員 張耿輝",
+      "ad_delivery_start_time": "2019-09-02T02:40:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.00021",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.043921",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001366",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.06231",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.077861",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.038563",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.02133",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.036146",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.092046",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000315",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.138279",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.08406",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.132815",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.127771",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.141536",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00042",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00021",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000841",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "49999"
+      },
+      "page_id": "319628701384131",
+      "page_name": "張耿輝",
+      "region_distribution": [
+        {
+          "percentage": "0.428118",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.376388",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.195493",
+          "region": "Keelung City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "5000",
+        "upper_bound": "9999"
+      },
+      "ad_id": "523202775121521"
+    }
+  },
+  {
+    "選區": "基隆市選舉區",
+    "參選人": "張耿輝",
+    "AD_ID": "705078139917440",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-09-14",
+    "結束日期": "1970-01-01",
+    "廣告內容": "民意覺醒，改變基隆！ 支持耿輝，為你帶來更美好的生活！ 不分黨派為地方爭取建設！為市民爭取福利 老有所依、壯有所用、幼有所養 就是耿輝參選立委對你們最大的承諾！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/69984265_2085774235063901_220127021064257536_n.jpg?_nc_cat=102&_nc_ohc=1RsrRBdj-EAAQlETBN-8VkReCIOOMeibNzEetsu2mQvvjFA-mwL90_e-A&_nc_ht=scontent-hkg3-1.xx&oh=ecc62da0677ebae5b83a8080d08caf70&oe=5E69F96E",
+    "廣告詳情": {
+      "ad_creative_body": "民意覺醒，改變基隆！\n支持耿輝，為你帶來更美好的生活！\n不分黨派為地方爭取建設！為市民爭取福利\n老有所依、壯有所用、幼有所養\n就是耿輝參選立委對你們最大的承諾！",
+      "ad_creation_time": "2019-09-01T18:23:27+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "Politician",
+      "ad_creative_link_title": "基隆市議員 張耿輝",
+      "ad_delivery_start_time": "2019-09-01T18:23:27+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000224",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.123631",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.017214",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.112229",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.035099",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.031075",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000447",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.111558",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.05142",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000447",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.043148",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.164543",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.112229",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.086519",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.109099",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000447",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000671",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "9999"
+      },
+      "page_id": "319628701384131",
+      "page_name": "張耿輝",
+      "region_distribution": [
+        {
+          "percentage": "0.357221",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.37225",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.270529",
+          "region": "Keelung City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "4999"
+      },
+      "ad_id": "705078139917440"
+    }
+  },
+  {
+    "選區": "基隆市選舉區",
+    "參選人": "張耿輝",
+    "AD_ID": "2085774211730570",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-09-14",
+    "結束日期": "1970-01-01",
+    "廣告內容": "民意覺醒，改變基隆！ 支持耿輝，為你帶來更美好的生活！ 不分黨派為地方爭取建設！為市民爭取福利 老有所依、壯有所用、幼有所養 就是耿輝參選立委對你們最大的承諾！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/69984265_2085774235063901_220127021064257536_n.jpg?_nc_cat=102&_nc_ohc=1RsrRBdj-EAAQlETBN-8VkReCIOOMeibNzEetsu2mQvvjFA-mwL90_e-A&_nc_ht=scontent-hkg3-1.xx&oh=ecc62da0677ebae5b83a8080d08caf70&oe=5E69F96E",
+    "廣告詳情": {
+      "ad_creative_body": "民意覺醒，改變基隆！\n支持耿輝，為你帶來更美好的生活！\n不分黨派為地方爭取建設！為市民爭取福利\n老有所依、壯有所用、幼有所養\n就是耿輝參選立委對你們最大的承諾！",
+      "ad_creation_time": "2019-08-26T02:20:16+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "Politician",
+      "ad_creative_link_title": "基隆市議員 張耿輝",
+      "ad_delivery_start_time": "2019-08-26T02:20:16+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.00025",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00025",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.0005",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.096178",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.0005",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.164876",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.0667",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.1334",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.015239",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.071446",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.152636",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.028728",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.103672",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.02648",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.043218",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.095928",
+          "age": "65+",
+          "gender": "male"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "9999"
+      },
+      "page_id": "319628701384131",
+      "page_name": "張耿輝",
+      "region_distribution": [
+        {
+          "percentage": "0.445792",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.362376",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.191832",
+          "region": "Keelung City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "4999"
+      },
+      "ad_id": "2085774211730570"
     }
   }
 ]

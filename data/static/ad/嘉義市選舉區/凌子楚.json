@@ -5,7 +5,7 @@
     "AD_ID": "2544028659175097",
     "登錄為政治廣告": "否",
     "開始日期": "2019-11-10",
-    "結束日期": "2019-11-11",
+    "結束日期": "1970-01-01",
     "廣告內容": "『凌子楚最清楚』ep22 『凌子楚最清楚見面會』ep4 每週六晚上八時-九點，嘉義文創園區￼ 中山路616號，O棟一樓，第一教室",
     "圖片": "https://scontent-nrt1-1.xx.fbcdn.net/v/t39.16868-6/75467131_2544028842508412_8511861612796182528_n.jpg?_nc_cat=102&_nc_oc=AQl2K0jYMKQSmeO0fv4m9xeXG1pd3q8q5TLKP73SvMgqi9UEvZXaTisdYZr2Bzw0U70&_nc_ht=scontent-nrt1-1.xx&oh=b875dfdceb0996f012d4ffefece98116&oe=5E60B82A",
     "廣告詳情": {
@@ -101,7 +101,8 @@
       "spend": {
         "lower_bound": "100",
         "upper_bound": "199"
-      }
+      },
+      "ad_id": "2544028659175097"
     }
   }
 ]

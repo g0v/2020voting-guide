@@ -7,7 +7,7 @@
     "開始日期": "2019-11-02",
     "結束日期": "2019-11-12",
     "廣告內容": "全世界最優質醫療品質，建立在台灣血汗醫護人員身上，醫院高層卻掌控著績效生殺大權，讓我們站出來對抗自以為是資方的高層，我願意陪你們上街頭抗議，因為我的政見就是（血汗醫護不再現），有朋友在北市聯合醫院的，歡迎分享給偉大的北市聯醫的醫護人員，雖然他們不能罷工，但是上街頭抗議則是每個國民的權利！加油加油",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/70047421_415576259136932_6414550475667931136_n.jpg?_nc_cat=109&_nc_ohc=uWPA31aqrm8AQl_2FR_KzsLbeRoe4ZWfWVaX7jwqQGHgqHFnIwq3lw0Kw&_nc_ht=scontent-hkg3-1.xx&oh=eeb10d5b534e3896ce03c4e527440014&oe=5E77D82D",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/70047421_415576259136932_6414550475667931136_n.jpg?_nc_cat=109&_nc_ohc=IqWo01xj8aAAQngiWGmURxXkSlG8LsdLJy1xaJlAf5Yj7NZe1fWGqpQGw&_nc_ht=scontent-hkg3-1.xx&oh=534f99fca6a12fe8d1685c336553ad34&oe=5E77D82D",
     "廣告詳情": {
       "ad_creative_body": "全世界最優質醫療品質，建立在台灣血汗醫護人員身上，醫院高層卻掌控著績效生殺大權，讓我們站出來對抗自以為是資方的高層，我願意陪你們上街頭抗議，因為我的政見就是（血汗醫護不再現），有朋友在北市聯合醫院的，歡迎分享給偉大的北市聯醫的醫護人員，雖然他們不能罷工，但是上街頭抗議則是每個國民的權利！加油加油",
       "ad_creation_time": "2019-11-03T04:44:22+0000",
@@ -104,7 +104,8 @@
       "spend": {
         "lower_bound": "100",
         "upper_bound": "199"
-      }
+      },
+      "ad_id": "415576249136933"
     }
   },
   {
@@ -115,7 +116,7 @@
     "開始日期": "2019-11-01",
     "結束日期": "2019-11-11",
     "廣告內容": "有恩師彭P的支持，讓我充滿能量，打倒不正義，替勞工爭取權益，我不對外募款，不收政治獻金，不為黑金服務。政治人物一定要對金錢有最高道德標準！能抵擋誘惑，才能清新乾淨！請大安區選民一定要支持，只花五十萬選立委的張余健。謝謝。感謝民報報導！ #彭文正 #大安區 #張余健 #50萬選立委 #謝謝民報",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/75611966_1023503634653372_388332032163315712_n.jpg?_nc_cat=108&_nc_ohc=lDL-Vf0CBxYAQmFYb2PSQkciLrOKRyoqjP8EfXnV6u56lq2rrv5SWaO1w&_nc_ht=scontent-hkg3-1.xx&oh=24660e5f041a08f502156ca2761a873a&oe=5E758BBD",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/75611966_1023503634653372_388332032163315712_n.jpg?_nc_cat=108&_nc_ohc=LridPdZzlegAQnBUg2WZoqwPp4J_urOArEsv3TwaGcXVQ0u-1GWCuBUjg&_nc_ht=scontent-hkg3-1.xx&oh=c07f6c24dee9da009bd89bc2f7006105&oe=5E758BBD",
     "廣告詳情": {
       "ad_creative_body": "有恩師彭P的支持，讓我充滿能量，打倒不正義，替勞工爭取權益，我不對外募款，不收政治獻金，不為黑金服務。政治人物一定要對金錢有最高道德標準！能抵擋誘惑，才能清新乾淨！請大安區選民一定要支持，只花五十萬選立委的張余健。謝謝。感謝民報報導！\n\n#彭文正\n#大安區\n#張余健\n#50萬選立委\n#謝謝民報",
       "ad_creation_time": "2019-11-02T05:20:07+0000",
@@ -221,18 +222,19 @@
       "spend": {
         "lower_bound": "200",
         "upper_bound": "299"
-      }
+      },
+      "ad_id": "1023503621320040"
     }
   },
   {
     "選區": "臺北市第六選舉區",
     "參選人": "張余健",
     "AD_ID": "519823422134246",
-    "登錄為政治廣告": "否",
-    "開始日期": "2019-11-03",
-    "結束日期": "2019-11-13",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-18",
+    "結束日期": "1970-01-01",
     "廣告內容": "唉～bj4",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/73399915_143305803733837_8038766824793309184_n.jpg?_nc_cat=104&_nc_ohc=pIwD0FOWQWAAQm8TaiA5xNXlU0hbxPJoUjPccViB_JOyxEaLsWxnhPb5w&_nc_ht=scontent-hkg3-1.xx&oh=2b275b4ad03795bd4fa9ddc9f80fa999&oe=5E8A3E1C",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/73399915_143305803733837_8038766824793309184_n.jpg?_nc_cat=104&_nc_ohc=wGVQFRHvSBMAQkv3fjHdbVol_xVpIYXeZYCHSbgk-AG62UH8xFJH1VP7A&_nc_ht=scontent-hkg3-1.xx&oh=5fdc5dff5660dc8b91c24e3e5fb7b022&oe=5EB1CB1C",
     "廣告詳情": {
       "ad_creative_body": "唉～bj4",
       "ad_creation_time": "2019-11-03T13:52:33+0000",
@@ -316,18 +318,19 @@
       "spend": {
         "lower_bound": "100",
         "upper_bound": "199"
-      }
+      },
+      "ad_id": "519823422134246"
     }
   },
   {
     "選區": "臺北市第六選舉區",
     "參選人": "張余健",
     "AD_ID": "965670903792197",
-    "登錄為政治廣告": "否",
-    "開始日期": "2019-11-08",
-    "結束日期": "2019-12-06",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-24",
+    "結束日期": "1970-01-01",
     "廣告內容": "第一隻用手機拍的競選影片，省到最高點，才能用50萬選立委，感謝兄弟的幫忙，請大家分享出去！謝謝 #張余健 #大安區 #立委 #喜樂島聯盟 #台北市",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/75533249_534845293970469_3959083660698714112_n.jpg?_nc_cat=110&_nc_ohc=ZlatfOOpjSwAQm0SU9vDfL1UT28Ad-Eia-59dMcG2_rzGmmN2CPQd0TGA&_nc_ht=scontent-hkg3-1.xx&oh=4c1d59e170cfe4fdf7528321ad56bc83&oe=5E3E4769",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78540667_556927351809800_3959422580863008768_n.jpg?_nc_cat=102&_nc_ohc=5o_ke-t07JIAQnHMAqXv-OegHE8ymuTYkFTwaToT_vCPNpRkNqiz9YCaQ&_nc_ht=scontent-hkg3-1.xx&oh=da4e6c32a24bcebb7faf5d85557965dc&oe=5E6C0128",
     "廣告詳情": {
       "ad_creative_body": "第一隻用手機拍的競選影片，省到最高點，才能用50萬選立委，感謝兄弟的幫忙，請大家分享出去！謝謝\n\n#張余健\n#大安區\n#立委\n#喜樂島聯盟\n#台北市",
       "ad_creation_time": "2019-11-08T13:48:10+0000",
@@ -401,7 +404,8 @@
       "spend": {
         "lower_bound": "0",
         "upper_bound": "99"
-      }
+      },
+      "ad_id": "965670903792197"
     }
   },
   {
@@ -412,7 +416,7 @@
     "開始日期": "2019-11-07",
     "結束日期": "2019-11-13",
     "廣告內容": "10/29立委候選人張余健，帶著被偽裝承攬的受害勞工到勞動部抗議，今天終於讓勞動部動一下了，給予勞動部掌聲，但對於勞工的照顧還不夠，照顧勞工權益不是只提偽裝承攬認定標準，要嚴格執行，主動關懷。全台勞工們我們一起加油，創造美好生活與家庭！ #勞工 #大安區",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/75258648_149403199790764_4510942093006340096_n.jpg?_nc_cat=106&_nc_ohc=RN3eNyCAtOUAQm9ZdQwTau1Mq1TU8PgGVFixYKgXYR0ydmneNvnNTdP5A&_nc_ht=scontent-hkg3-1.xx&oh=269503e07eb16d1ad3f38a35eb18fcf0&oe=5E75A28C",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/75258648_149403199790764_4510942093006340096_n.jpg?_nc_cat=106&_nc_oc=AQnT7ATcw7TW17hxrQgukctLy79vugCNutwJnuukMeSrgRuq0lP8zwLh0ePeL0jd0So&_nc_ht=scontent-hkg3-1.xx&oh=1d31bf5c01bf4b6ccea2e4451995914b&oe=5E75A28C",
     "廣告詳情": {
       "ad_creative_body": "10/29立委候選人張余健，帶著被偽裝承攬的受害勞工到勞動部抗議，今天終於讓勞動部動一下了，給予勞動部掌聲，但對於勞工的照顧還不夠，照顧勞工權益不是只提偽裝承攬認定標準，要嚴格執行，主動關懷。全台勞工們我們一起加油，創造美好生活與家庭！\n\n#勞工\n#大安區",
       "ad_creation_time": "2019-11-08T06:21:22+0000",
@@ -500,7 +504,8 @@
       "spend": {
         "lower_bound": "300",
         "upper_bound": "399"
-      }
+      },
+      "ad_id": "744952089309896"
     }
   },
   {
@@ -508,10 +513,10 @@
     "參選人": "張余健",
     "AD_ID": "480687939205460",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-11-14",
-    "結束日期": "2019-11-17",
+    "開始日期": "2019-12-14",
+    "結束日期": "1970-01-01",
     "廣告內容": "來自大安區,最關心勞工議題,為弱勢發聲,不對外募款,不收政治獻金的立法委員候選人張余健~拜託各位好朋友,動動滑鼠幫我分享出去,謝謝感恩",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/74141840_480687959205458_6152718450281152512_n.jpg?_nc_cat=103&_nc_oc=AQlgej4WCSKEl5dSXLZBlDVxl-TpGCxTCTlO_0ZVB3gGOKK1YuNPC5i0ALwsqYKE2Ug&_nc_ht=scontent-hkg3-1.xx&oh=9ae52d0a4385c1029b6196b8c3dd2532&oe=5E4E1DC9",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78326032_669054486954525_6017718608736550912_n.jpg?_nc_cat=103&_nc_ohc=dvQZodgTnmMAQmkxdenGTziweuAt5McN9FE0KbYe2fnP7TlUryUb3uO_g&_nc_ht=scontent-hkg3-1.xx&oh=b26208d015e6a05fe8a44bc4eff7448e&oe=5E780FBB",
     "廣告詳情": {
       "ad_creative_body": "來自大安區,最關心勞工議題,為弱勢發聲,不對外募款,不收政治獻金的立法委員候選人張余健~拜託各位好朋友,動動滑鼠幫我分享出去,謝謝感恩",
       "ad_creation_time": "2019-11-14T09:27:46+0000",
@@ -587,7 +592,8 @@
       "spend": {
         "lower_bound": "300",
         "upper_bound": "399"
-      }
+      },
+      "ad_id": "480687939205460"
     }
   },
   {
@@ -596,7 +602,7 @@
     "AD_ID": "2501860290136589",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-15",
-    "結束日期": "2019-12-06",
+    "結束日期": "1970-01-01",
     "廣告內容": "",
     "圖片": "",
     "廣告詳情": {
@@ -709,7 +715,8 @@
       "spend": {
         "lower_bound": "100",
         "upper_bound": "199"
-      }
+      },
+      "ad_id": "2501860290136589"
     }
   },
   {
@@ -717,10 +724,10 @@
     "參選人": "張余健",
     "AD_ID": "440156660036897",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-11-15",
-    "結束日期": "2019-11-18",
+    "開始日期": "2019-11-18",
+    "結束日期": "1970-01-01",
     "廣告內容": "唉～bj4",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/73399915_143305803733837_8038766824793309184_n.jpg?_nc_cat=104&_nc_oc=AQmssM5SyXlepuJiQS06d8qTHO0HCrPsxbIyIUm2-yNavHwELxlrlsDZgh8n53oO6zU&_nc_ht=scontent-hkg3-1.xx&oh=71f81d30075a7bbaa5e40e13ebaa845a&oe=5E8A3E1C",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/73399915_143305803733837_8038766824793309184_n.jpg?_nc_cat=104&_nc_ohc=wGVQFRHvSBMAQkv3fjHdbVol_xVpIYXeZYCHSbgk-AG62UH8xFJH1VP7A&_nc_ht=scontent-hkg3-1.xx&oh=5fdc5dff5660dc8b91c24e3e5fb7b022&oe=5EB1CB1C",
     "廣告詳情": {
       "ad_creative_body": "唉～bj4",
       "ad_creation_time": "2019-11-15T12:51:41+0000",
@@ -825,7 +832,8 @@
       "spend": {
         "lower_bound": "0",
         "upper_bound": "99"
-      }
+      },
+      "ad_id": "440156660036897"
     }
   },
   {
@@ -833,10 +841,10 @@
     "參選人": "張余健",
     "AD_ID": "1601174743365522",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-11-15",
-    "結束日期": "2019-11-16",
+    "開始日期": "2019-12-20",
+    "結束日期": "1970-01-01",
     "廣告內容": "我記住今天了，勞動部官員領著勞工繳稅的薪水，卻是軟趴趴的態度，太令人失望了！勞工權益竟然交給這些官員手上真是悲哀啊！ 以下為現場直播畫面https://www.facebook.com/103252787739139/videos/525000294960052?sfns=mo #勞動部硬不起來 #台北市大安區 #勞動部無法照顧勞工",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78157932_1601175050032158_2940022663071924224_n.jpg?_nc_cat=101&_nc_oc=AQmUwi9Zn4ptBRtzPQkhUeaRjwTW5LHwcLP1SLnjuds3hC1GWCnZJ5S2vnYJOR5RHMw&_nc_ht=scontent-hkg3-1.xx&oh=bb756a98f688d830c867483ed1ff7d15&oe=5E50C396",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/80750522_443865173228293_2350625722676019200_n.jpg?_nc_cat=111&_nc_ohc=KJDF9kYOTOkAQly66EzqOqMmLVTF6bwdPxOmzCHh3VEVQTQk4RlFAE1jQ&_nc_ht=scontent-hkg3-2.xx&oh=c03d63391aaeebb363fa7c65122f77f5&oe=5EA7B2BA",
     "廣告詳情": {
       "ad_creative_body": "我記住今天了，勞動部官員領著勞工繳稅的薪水，卻是軟趴趴的態度，太令人失望了！勞工權益竟然交給這些官員手上真是悲哀啊！\n\n以下為現場直播畫面\nhttps://www.facebook.com/103252787739139/videos/525000294960052?sfns=mo\n\n#勞動部硬不起來\n#台北市大安區\n#勞動部無法照顧勞工",
       "ad_creation_time": "2019-11-15T12:45:51+0000",
@@ -897,7 +905,8 @@
       "spend": {
         "lower_bound": "0",
         "upper_bound": "99"
-      }
+      },
+      "ad_id": "1601174743365522"
     }
   },
   {
@@ -905,15 +914,15 @@
     "參選人": "張余健",
     "AD_ID": "437510616956299",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-11-15",
-    "結束日期": "2019-11-18",
+    "開始日期": "2019-11-24",
+    "結束日期": "1970-01-01",
     "廣告內容": "第一隻用手機拍的競選影片，省到最高點，才能用50萬選立委，感謝兄弟的幫忙，請大家分享出去！謝謝 #張余健 #大安區 #立委 #喜樂島聯盟 #台北市",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/77862775_739386159805915_6504758537074245632_n.jpg?_nc_cat=101&_nc_oc=AQnrpLR34KnCahufM_wKYQw4ZIWOfaaWN1C_gRfJmqp4KXZXBh8RQ5XS4qDStRpP0-c&_nc_ht=scontent-hkg3-1.xx&oh=3e3e70758fba46d4fcde3972edf15b5f&oe=5E47BE74",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78540667_556927351809800_3959422580863008768_n.jpg?_nc_cat=102&_nc_ohc=5o_ke-t07JIAQnHMAqXv-OegHE8ymuTYkFTwaToT_vCPNpRkNqiz9YCaQ&_nc_ht=scontent-hkg3-1.xx&oh=da4e6c32a24bcebb7faf5d85557965dc&oe=5E6C0128",
     "廣告詳情": {
       "ad_creative_body": "第一隻用手機拍的競選影片，省到最高點，才能用50萬選立委，感謝兄弟的幫忙，請大家分享出去！謝謝\n\n#張余健\n#大安區\n#立委\n#喜樂島聯盟\n#台北市",
       "ad_creation_time": "2019-11-15T12:15:16+0000",
       "ad_delivery_start_time": "2019-11-15T12:15:18+0000",
-      "ad_delivery_stop_time": "2019-12-08T12:15:16+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:15:16+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -1078,7 +1087,8 @@
       "spend": {
         "lower_bound": "0",
         "upper_bound": "99"
-      }
+      },
+      "ad_id": "437510616956299"
     }
   },
   {
@@ -1086,10 +1096,10 @@
     "參選人": "張余健",
     "AD_ID": "437179593666630",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-11-16",
-    "結束日期": "2019-11-17",
+    "開始日期": "2019-12-20",
+    "結束日期": "1970-01-01",
     "廣告內容": "我記住今天了，勞動部官員領著勞工繳稅的薪水，卻是軟趴趴的態度，太令人失望了！勞工權益竟然交給這些官員手上真是悲哀啊！ 以下為現場直播畫面https://www.facebook.com/103252787739139/videos/525000294960052?sfns=mo #勞動部硬不起來 #台北市大安區 #勞動部無法照顧勞工",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/77746175_437179636999959_275364586868178944_n.jpg?_nc_cat=107&_nc_oc=AQlE58UtQpXmo8DURip3INNoZeAjdkAWlAOw_Zt2peEVoSjwYkQGPtGliP4BXQIDOp0&_nc_ht=scontent-hkg3-1.xx&oh=c16838507fd53b17c73b412a890f333f&oe=5E44930F",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/80750522_443865173228293_2350625722676019200_n.jpg?_nc_cat=111&_nc_ohc=KJDF9kYOTOkAQly66EzqOqMmLVTF6bwdPxOmzCHh3VEVQTQk4RlFAE1jQ&_nc_ht=scontent-hkg3-2.xx&oh=c03d63391aaeebb363fa7c65122f77f5&oe=5EA7B2BA",
     "廣告詳情": {
       "ad_creative_body": "我記住今天了，勞動部官員領著勞工繳稅的薪水，卻是軟趴趴的態度，太令人失望了！勞工權益竟然交給這些官員手上真是悲哀啊！\n\n以下為現場直播畫面\nhttps://www.facebook.com/103252787739139/videos/525000294960052?sfns=mo\n\n#勞動部硬不起來\n#台北市大安區\n#勞動部無法照顧勞工",
       "ad_creation_time": "2019-11-16T23:06:32+0000",
@@ -1160,7 +1170,8 @@
       "spend": {
         "lower_bound": "0",
         "upper_bound": "99"
-      }
+      },
+      "ad_id": "437179593666630"
     }
   },
   {
@@ -1168,10 +1179,10 @@
     "參選人": "張余健",
     "AD_ID": "430771354269760",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-11-17",
-    "結束日期": "2019-11-18",
+    "開始日期": "2019-12-14",
+    "結束日期": "1970-01-01",
     "廣告內容": "來自大安區,最關心勞工議題,為弱勢發聲,不對外募款,不收政治獻金的立法委員候選人張余健~拜託各位好朋友,動動滑鼠幫我分享出去,謝謝感恩",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/74141840_480687959205458_6152718450281152512_n.jpg?_nc_cat=103&_nc_oc=AQlgej4WCSKEl5dSXLZBlDVxl-TpGCxTCTlO_0ZVB3gGOKK1YuNPC5i0ALwsqYKE2Ug&_nc_ht=scontent-hkg3-1.xx&oh=9ae52d0a4385c1029b6196b8c3dd2532&oe=5E4E1DC9",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78326032_669054486954525_6017718608736550912_n.jpg?_nc_cat=103&_nc_ohc=dvQZodgTnmMAQmkxdenGTziweuAt5McN9FE0KbYe2fnP7TlUryUb3uO_g&_nc_ht=scontent-hkg3-1.xx&oh=b26208d015e6a05fe8a44bc4eff7448e&oe=5E780FBB",
     "廣告詳情": {
       "ad_creative_body": "來自大安區,最關心勞工議題,為弱勢發聲,不對外募款,不收政治獻金的立法委員候選人張余健~拜託各位好朋友,動動滑鼠幫我分享出去,謝謝感恩",
       "ad_creation_time": "2019-11-17T14:27:46+0000",
@@ -1282,7 +1293,8 @@
       "spend": {
         "lower_bound": "100",
         "upper_bound": "199"
-      }
+      },
+      "ad_id": "430771354269760"
     }
   },
   {
@@ -1290,16 +1302,16 @@
     "參選人": "張余健",
     "AD_ID": "1427692820718301",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-11-17",
-    "結束日期": "2019-11-18",
+    "開始日期": "2019-12-20",
+    "結束日期": "1970-01-01",
     "廣告內容": "我記住今天了，勞動部官員領著勞工繳稅的薪水，卻是軟趴趴的態度，太令人失望了！勞工權益竟然交給這些官員手上真是悲哀啊！ 以下為現場直播畫面https://www.facebook.com/103252787739139/videos/525000294960052?sfns=mo #勞動部硬不起來 #台北市大安區 #勞動部無法照顧勞工",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78157932_1601175050032158_2940022663071924224_n.jpg?_nc_cat=101&_nc_oc=AQmUwi9Zn4ptBRtzPQkhUeaRjwTW5LHwcLP1SLnjuds3hC1GWCnZJ5S2vnYJOR5RHMw&_nc_ht=scontent-hkg3-1.xx&oh=bb756a98f688d830c867483ed1ff7d15&oe=5E50C396",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/80750522_443865173228293_2350625722676019200_n.jpg?_nc_cat=111&_nc_ohc=KJDF9kYOTOkAQly66EzqOqMmLVTF6bwdPxOmzCHh3VEVQTQk4RlFAE1jQ&_nc_ht=scontent-hkg3-2.xx&oh=c03d63391aaeebb363fa7c65122f77f5&oe=5EA7B2BA",
     "廣告詳情": {
       "ad_creative_body": "我記住今天了，勞動部官員領著勞工繳稅的薪水，卻是軟趴趴的態度，太令人失望了！勞工權益竟然交給這些官員手上真是悲哀啊！\n\n以下為現場直播畫面\nhttps://www.facebook.com/103252787739139/videos/525000294960052?sfns=mo\n\n#勞動部硬不起來\n#台北市大安區\n#勞動部無法照顧勞工",
       "ad_creation_time": "2019-11-17T14:27:34+0000",
       "ad_creative_link_caption": "fb.com",
       "ad_delivery_start_time": "2019-11-17T14:27:36+0000",
-      "ad_delivery_stop_time": "2019-12-07T14:27:34+0000",
+      "ad_delivery_stop_time": "2020-01-11T14:27:34+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -1384,7 +1396,8 @@
       "spend": {
         "lower_bound": "0",
         "upper_bound": "99"
-      }
+      },
+      "ad_id": "1427692820718301"
     }
   },
   {
@@ -1392,16 +1405,16 @@
     "參選人": "張余健",
     "AD_ID": "789913938120712",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-11-18",
-    "結束日期": "2019-11-19",
+    "開始日期": "2019-12-20",
+    "結束日期": "1970-01-01",
     "廣告內容": "我記住今天了，勞動部官員領著勞工繳稅的薪水，卻是軟趴趴的態度，太令人失望了！勞工權益竟然交給這些官員手上真是悲哀啊！ 以下為現場直播畫面https://www.facebook.com/103252787739139/videos/525000294960052?sfns=mo #勞動部硬不起來 #台北市大安區 #勞動部無法照顧勞工",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78157932_1601175050032158_2940022663071924224_n.jpg?_nc_cat=101&_nc_oc=AQn2F9JWI7iSc0aReUtEuJIZqbn3zDF1VBpStvnDXEwRE88LCQ5XnPQJik3XBA62HAg&_nc_ht=scontent-hkg3-1.xx&oh=ac8de5de45f1192e54f321ff4bb94419&oe=5E50C396",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/80750522_443865173228293_2350625722676019200_n.jpg?_nc_cat=111&_nc_ohc=KJDF9kYOTOkAQly66EzqOqMmLVTF6bwdPxOmzCHh3VEVQTQk4RlFAE1jQ&_nc_ht=scontent-hkg3-2.xx&oh=c03d63391aaeebb363fa7c65122f77f5&oe=5EA7B2BA",
     "廣告詳情": {
       "ad_creative_body": "我記住今天了，勞動部官員領著勞工繳稅的薪水，卻是軟趴趴的態度，太令人失望了！勞工權益竟然交給這些官員手上真是悲哀啊！\n\n以下為現場直播畫面\nhttps://www.facebook.com/103252787739139/videos/525000294960052?sfns=mo\n\n#勞動部硬不起來\n#台北市大安區\n#勞動部無法照顧勞工",
       "ad_creation_time": "2019-11-19T04:07:53+0000",
       "ad_creative_link_caption": "fb.com",
       "ad_delivery_start_time": "2019-11-19T04:07:53+0000",
-      "ad_delivery_stop_time": "2019-12-07T14:27:34+0000",
+      "ad_delivery_stop_time": "2020-01-11T14:27:34+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -1470,7 +1483,8 @@
       "spend": {
         "lower_bound": "0",
         "upper_bound": "99"
-      }
+      },
+      "ad_id": "789913938120712"
     }
   },
   {
@@ -1478,10 +1492,10 @@
     "參選人": "張余健",
     "AD_ID": "1486779438128110",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-11-18",
-    "結束日期": "2019-11-19",
+    "開始日期": "2019-12-14",
+    "結束日期": "1970-01-01",
     "廣告內容": "來自大安區,最關心勞工議題,為弱勢發聲,不對外募款,不收政治獻金的立法委員候選人張余健~拜託各位好朋友,動動滑鼠幫我分享出去,謝謝感恩",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/74141840_480687959205458_6152718450281152512_n.jpg?_nc_cat=103&_nc_oc=AQnK-Cq18Ah20ICH7NGcooQ_FzSPWWC4q5wIyhRRuXuVJKcbA-559sYz2dV4lYAgh_M&_nc_ht=scontent-hkg3-1.xx&oh=63df549863d8fd33cb98f6a081996ce2&oe=5E4E1DC9",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78326032_669054486954525_6017718608736550912_n.jpg?_nc_cat=103&_nc_ohc=dvQZodgTnmMAQmkxdenGTziweuAt5McN9FE0KbYe2fnP7TlUryUb3uO_g&_nc_ht=scontent-hkg3-1.xx&oh=b26208d015e6a05fe8a44bc4eff7448e&oe=5E780FBB",
     "廣告詳情": {
       "ad_creative_body": "來自大安區,最關心勞工議題,為弱勢發聲,不對外募款,不收政治獻金的立法委員候選人張余健~拜託各位好朋友,動動滑鼠幫我分享出去,謝謝感恩",
       "ad_creation_time": "2019-11-19T04:07:53+0000",
@@ -1571,7 +1585,8 @@
       "spend": {
         "lower_bound": "0",
         "upper_bound": "99"
-      }
+      },
+      "ad_id": "1486779438128110"
     }
   },
   {
@@ -1580,9 +1595,9 @@
     "AD_ID": "545598726276946",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-18",
-    "結束日期": "2019-12-06",
+    "結束日期": "1970-01-01",
     "廣告內容": "唉～bj4",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/73399915_143305803733837_8038766824793309184_n.jpg?_nc_cat=104&_nc_ohc=pIwD0FOWQWAAQm8TaiA5xNXlU0hbxPJoUjPccViB_JOyxEaLsWxnhPb5w&_nc_ht=scontent-hkg3-1.xx&oh=2b275b4ad03795bd4fa9ddc9f80fa999&oe=5E8A3E1C",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/73399915_143305803733837_8038766824793309184_n.jpg?_nc_cat=104&_nc_ohc=wGVQFRHvSBMAQkv3fjHdbVol_xVpIYXeZYCHSbgk-AG62UH8xFJH1VP7A&_nc_ht=scontent-hkg3-1.xx&oh=5fdc5dff5660dc8b91c24e3e5fb7b022&oe=5EB1CB1C",
     "廣告詳情": {
       "ad_creative_body": "唉～bj4",
       "ad_creation_time": "2019-11-19T03:42:54+0000",
@@ -1687,7 +1702,8 @@
       "spend": {
         "lower_bound": "0",
         "upper_bound": "99"
-      }
+      },
+      "ad_id": "545598726276946"
     }
   },
   {
@@ -1695,15 +1711,15 @@
     "參選人": "張余健",
     "AD_ID": "2541617905887355",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-11-18",
-    "結束日期": "2019-11-23",
+    "開始日期": "2019-11-24",
+    "結束日期": "1970-01-01",
     "廣告內容": "第一隻用手機拍的競選影片，省到最高點，才能用50萬選立委，感謝兄弟的幫忙，請大家分享出去！謝謝 #張余健 #大安區 #立委 #喜樂島聯盟 #台北市",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/77862775_739386159805915_6504758537074245632_n.jpg?_nc_cat=101&_nc_ohc=wmJ5fWwVXqQAQngVQtfR1N9ZZxyfJ6DmvIyRj_bREKUOLHXXdjCjI8e9Q&_nc_ht=scontent-hkg3-1.xx&oh=750a8b35e321f46b08ddec02e09eacf6&oe=5E47BE74",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78540667_556927351809800_3959422580863008768_n.jpg?_nc_cat=102&_nc_ohc=5o_ke-t07JIAQnHMAqXv-OegHE8ymuTYkFTwaToT_vCPNpRkNqiz9YCaQ&_nc_ht=scontent-hkg3-1.xx&oh=da4e6c32a24bcebb7faf5d85557965dc&oe=5E6C0128",
     "廣告詳情": {
       "ad_creative_body": "第一隻用手機拍的競選影片，省到最高點，才能用50萬選立委，感謝兄弟的幫忙，請大家分享出去！謝謝\n\n#張余健\n#大安區\n#立委\n#喜樂島聯盟\n#台北市",
       "ad_creation_time": "2019-11-19T03:40:19+0000",
       "ad_delivery_start_time": "2019-11-19T03:40:19+0000",
-      "ad_delivery_stop_time": "2019-12-08T12:15:16+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:15:16+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -1868,7 +1884,8 @@
       "spend": {
         "lower_bound": "0",
         "upper_bound": "99"
-      }
+      },
+      "ad_id": "2541617905887355"
     }
   },
   {
@@ -1879,7 +1896,7 @@
     "開始日期": "2019-11-19",
     "結束日期": "2019-11-28",
     "廣告內容": "大安區立委候選人張余健,只花五十萬選立委,不收政治獻金,不對外募款,清新乾淨,沒有包袱及人情壓力,有智慧的大安區民,請給關心民生關心弱勢關心受薪階級的張余健一個機會!謝謝",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/70088004_3509351479090131_380407482494746624_n.jpg?_nc_cat=102&_nc_ohc=0BGlIgJeTSoAQmu_bjc2oDOwpfmcxAMJ7NkTdM453PFwuMUPVqE0c8CUQ&_nc_ht=scontent-hkg3-1.xx&oh=730c2e8be5b572744ddb738764181d31&oe=5E3F1422",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/70088004_3509351479090131_380407482494746624_n.jpg?_nc_cat=102&_nc_ohc=BXbQ1zI24KwAQkm29KijdA7Eno_CeSWfVArEq7aa7mBMR1u_rKjJ9pZNQ&_nc_ht=scontent-hkg3-1.xx&oh=635158d85089cccb4b762977ff902cd9&oe=5E66A122",
     "廣告詳情": {
       "ad_creative_body": "大安區立委候選人張余健,只花五十萬選立委,不收政治獻金,不對外募款,清新乾淨,沒有包袱及人情壓力,有智慧的大安區民,請給關心民生關心弱勢關心受薪階級的張余健一個機會!謝謝",
       "ad_creation_time": "2019-11-19T09:36:44+0000",
@@ -1968,7 +1985,8 @@
       "spend": {
         "lower_bound": "400",
         "upper_bound": "499"
-      }
+      },
+      "ad_id": "426775808243276"
     }
   },
   {
@@ -1976,100 +1994,101 @@
     "參選人": "張余健",
     "AD_ID": "2593052720773907",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-11-19",
-    "結束日期": "2019-12-06",
+    "開始日期": "2019-12-20",
+    "結束日期": "1970-01-01",
     "廣告內容": "我記住今天了，勞動部官員領著勞工繳稅的薪水，卻是軟趴趴的態度，太令人失望了！勞工權益竟然交給這些官員手上真是悲哀啊！ 以下為現場直播畫面https://www.facebook.com/103252787739139/videos/525000294960052?sfns=mo #勞動部硬不起來 #台北市大安區 #勞動部無法照顧勞工",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78157932_1601175050032158_2940022663071924224_n.jpg?_nc_cat=101&_nc_ohc=fB1fPhGrz-oAQnpx1uOrG_w0JvnkJNA-ewkduClildWuTqvQXSzEA3LiQ&_nc_ht=scontent-hkg3-1.xx&oh=32733146f549b034f6bb334128eb2b12&oe=5E785096",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/80750522_443865173228293_2350625722676019200_n.jpg?_nc_cat=111&_nc_ohc=KJDF9kYOTOkAQly66EzqOqMmLVTF6bwdPxOmzCHh3VEVQTQk4RlFAE1jQ&_nc_ht=scontent-hkg3-2.xx&oh=c03d63391aaeebb363fa7c65122f77f5&oe=5EA7B2BA",
     "廣告詳情": {
       "ad_creative_body": "我記住今天了，勞動部官員領著勞工繳稅的薪水，卻是軟趴趴的態度，太令人失望了！勞工權益竟然交給這些官員手上真是悲哀啊！\n\n以下為現場直播畫面\nhttps://www.facebook.com/103252787739139/videos/525000294960052?sfns=mo\n\n#勞動部硬不起來\n#台北市大安區\n#勞動部無法照顧勞工",
       "ad_creation_time": "2019-11-19T09:36:44+0000",
       "ad_creative_link_caption": "fb.com",
       "ad_delivery_start_time": "2019-11-19T09:36:44+0000",
-      "ad_delivery_stop_time": "2019-12-07T14:27:34+0000",
+      "ad_delivery_stop_time": "2020-01-11T14:27:34+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000245",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.186843",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.199804",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.344338",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.088286",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.072389",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.060651",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.006603",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000489",
+          "percentage": "0.000381",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001712",
+          "percentage": "0.000191",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.333588",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.090788",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.175663",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.199886",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.068472",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.079916",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.021362",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.002861",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.018586",
+          "percentage": "0.02079",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.020054",
-          "age": "25-34",
-          "gender": "male"
+          "percentage": "0.006103",
+          "age": "35-44",
+          "gender": "female"
         }
       ],
       "funding_entity": "余健張",
       "impressions": {
-        "lower_bound": "5000",
-        "upper_bound": "5999"
+        "lower_bound": "6000",
+        "upper_bound": "6999"
       },
       "page_id": "103252787739139",
       "page_name": "50萬選立委-張余健-大安區立委候選人服務處",
       "region_distribution": [
         {
-          "percentage": "0.969601",
+          "percentage": "0.972011",
           "region": "Taipei"
         },
         {
-          "percentage": "0.030399",
+          "percentage": "0.027989",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "400",
-        "upper_bound": "499"
-      }
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "2593052720773907"
     }
   },
   {
@@ -2077,10 +2096,10 @@
     "參選人": "張余健",
     "AD_ID": "636706710194984",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-11-19",
-    "結束日期": "2019-11-24",
+    "開始日期": "2019-12-14",
+    "結束日期": "1970-01-01",
     "廣告內容": "來自大安區,最關心勞工議題,為弱勢發聲,不對外募款,不收政治獻金的立法委員候選人張余健~拜託各位好朋友,動動滑鼠幫我分享出去,謝謝感恩",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/74141840_480687959205458_6152718450281152512_n.jpg?_nc_cat=103&_nc_ohc=RMcRhVuYljgAQn-FGojDy4o1tKwMvZ2TyyZcK45B7TTRmHB3NrA-RvtVw&_nc_ht=scontent-hkg3-1.xx&oh=b2fe6f2aa5a8ae33047a0b94ed124b64&oe=5E4E1DC9",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78326032_669054486954525_6017718608736550912_n.jpg?_nc_cat=103&_nc_ohc=dvQZodgTnmMAQmkxdenGTziweuAt5McN9FE0KbYe2fnP7TlUryUb3uO_g&_nc_ht=scontent-hkg3-1.xx&oh=b26208d015e6a05fe8a44bc4eff7448e&oe=5E780FBB",
     "廣告詳情": {
       "ad_creative_body": "來自大安區,最關心勞工議題,為弱勢發聲,不對外募款,不收政治獻金的立法委員候選人張余健~拜託各位好朋友,動動滑鼠幫我分享出去,謝謝感恩",
       "ad_creation_time": "2019-11-19T09:35:05+0000",
@@ -2180,7 +2199,8 @@
       "spend": {
         "lower_bound": "500",
         "upper_bound": "599"
-      }
+      },
+      "ad_id": "636706710194984"
     }
   },
   {
@@ -2188,15 +2208,15 @@
     "參選人": "張余健",
     "AD_ID": "556927065143162",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-11-23",
-    "結束日期": "2019-11-24",
+    "開始日期": "2019-11-24",
+    "結束日期": "1970-01-01",
     "廣告內容": "第一隻用手機拍的競選影片，省到最高點，才能用50萬選立委，感謝兄弟的幫忙，請大家分享出去！謝謝 #張余健 #大安區 #立委 #喜樂島聯盟 #台北市",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78540667_556927351809800_3959422580863008768_n.jpg?_nc_cat=102&_nc_ohc=SMa9QlhxuMMAQnzCMCp8wP8lougouoLEu3EciaT24Ce3ljD5qCxoRdJeQ&_nc_ht=scontent-hkg3-1.xx&oh=d56874af52980cd248e918254d62f906&oe=5E447428",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78540667_556927351809800_3959422580863008768_n.jpg?_nc_cat=102&_nc_ohc=5o_ke-t07JIAQnHMAqXv-OegHE8ymuTYkFTwaToT_vCPNpRkNqiz9YCaQ&_nc_ht=scontent-hkg3-1.xx&oh=da4e6c32a24bcebb7faf5d85557965dc&oe=5E6C0128",
     "廣告詳情": {
       "ad_creative_body": "第一隻用手機拍的競選影片，省到最高點，才能用50萬選立委，感謝兄弟的幫忙，請大家分享出去！謝謝\n\n#張余健\n#大安區\n#立委\n#喜樂島聯盟\n#台北市",
       "ad_creation_time": "2019-11-23T08:46:54+0000",
       "ad_delivery_start_time": "2019-11-23T08:46:54+0000",
-      "ad_delivery_stop_time": "2019-12-08T12:15:16+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:15:16+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -2281,7 +2301,8 @@
       "spend": {
         "lower_bound": "0",
         "upper_bound": "99"
-      }
+      },
+      "ad_id": "556927065143162"
     }
   },
   {
@@ -2290,96 +2311,96 @@
     "AD_ID": "450708915635044",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-24",
-    "結束日期": "2019-12-06",
+    "結束日期": "1970-01-01",
     "廣告內容": "第一隻用手機拍的競選影片，省到最高點，才能用50萬選立委，感謝兄弟的幫忙，請大家分享出去！謝謝 #張余健 #大安區 #立委 #喜樂島聯盟 #台北市",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78540667_556927351809800_3959422580863008768_n.jpg?_nc_cat=102&_nc_ohc=Il17XMTGbK4AQmuDoC_0ypWrb3m88LV4PfonN1YyzW5SPTT1yz3a5F-BA&_nc_ht=scontent-hkg3-1.xx&oh=aa0878b0abd23836eca7076babc8a3c7&oe=5E6C0128",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78540667_556927351809800_3959422580863008768_n.jpg?_nc_cat=102&_nc_ohc=5o_ke-t07JIAQnHMAqXv-OegHE8ymuTYkFTwaToT_vCPNpRkNqiz9YCaQ&_nc_ht=scontent-hkg3-1.xx&oh=da4e6c32a24bcebb7faf5d85557965dc&oe=5E6C0128",
     "廣告詳情": {
       "ad_creative_body": "第一隻用手機拍的競選影片，省到最高點，才能用50萬選立委，感謝兄弟的幫忙，請大家分享出去！謝謝\n\n#張余健\n#大安區\n#立委\n#喜樂島聯盟\n#台北市",
       "ad_creation_time": "2019-11-24T11:55:30+0000",
       "ad_delivery_start_time": "2019-11-24T11:55:30+0000",
-      "ad_delivery_stop_time": "2019-12-08T12:15:16+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:15:16+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000335",
+          "percentage": "0.000304",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000669",
+          "percentage": "0.000913",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001826",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.016329",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.057606",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000609",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001004",
+          "percentage": "0.001116",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.126841",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.080321",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.027108",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.011714",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.215863",
+          "percentage": "0.171197",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.056225",
-          "age": "45-54",
+          "percentage": "0.076471",
+          "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.146586",
+          "percentage": "0.066734",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.179716",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.169371",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.135801",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.075971",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.207497",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.046854",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.001673",
+          "percentage": "0.05071",
           "age": "35-44",
-          "gender": "unknown"
+          "gender": "female"
         },
         {
-          "percentage": "0.001339",
-          "age": "65+",
-          "gender": "unknown"
+          "percentage": "0.071298",
+          "age": "45-54",
+          "gender": "female"
         }
       ],
       "funding_entity": "余健張",
       "impressions": {
-        "lower_bound": "3000",
-        "upper_bound": "3999"
+        "lower_bound": "10000",
+        "upper_bound": "14999"
       },
       "page_id": "103252787739139",
       "page_name": "50萬選立委-張余健-大安區立委候選人服務處",
@@ -2390,9 +2411,10 @@
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
-      }
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "450708915635044"
     }
   },
   {
@@ -2400,10 +2422,10 @@
     "參選人": "張余健",
     "AD_ID": "669054466954527",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-11-24",
-    "結束日期": "2019-12-02",
+    "開始日期": "2019-12-14",
+    "結束日期": "1970-01-01",
     "廣告內容": "來自大安區,最關心勞工議題,為弱勢發聲,不對外募款,不收政治獻金的立法委員候選人張余健~拜託各位好朋友,動動滑鼠幫我分享出去,謝謝感恩",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78326032_669054486954525_6017718608736550912_n.jpg?_nc_cat=103&_nc_ohc=YfMbrf7X-NUAQlY67mSIRm5NyNsg5RDFBvgw_B9tCzLNaJekwat3YABxA&_nc_ht=scontent-hkg3-1.xx&oh=e6c7771be00ef43abb9345c8231d3628&oe=5E780FBB",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78326032_669054486954525_6017718608736550912_n.jpg?_nc_cat=103&_nc_ohc=dvQZodgTnmMAQmkxdenGTziweuAt5McN9FE0KbYe2fnP7TlUryUb3uO_g&_nc_ht=scontent-hkg3-1.xx&oh=b26208d015e6a05fe8a44bc4eff7448e&oe=5E780FBB",
     "廣告詳情": {
       "ad_creative_body": "來自大安區,最關心勞工議題,為弱勢發聲,不對外募款,不收政治獻金的立法委員候選人張余健~拜託各位好朋友,動動滑鼠幫我分享出去,謝謝感恩",
       "ad_creation_time": "2019-11-24T11:54:00+0000",
@@ -2504,7 +2526,8 @@
       "spend": {
         "lower_bound": "600",
         "upper_bound": "699"
-      }
+      },
+      "ad_id": "669054466954527"
     }
   },
   {
@@ -2515,7 +2538,7 @@
     "開始日期": "2019-11-24",
     "結束日期": "2019-12-01",
     "廣告內容": "請支持最關心民生議題,為勞工為弱勢戰鬥的立委候選人張余健",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78350427_2768909293140964_8541593906154831872_n.jpg?_nc_cat=111&_nc_ohc=9062QE6ZiK8AQnUdXAnY1JNPlSpTEm1IN-FFRBEevCjndByrJcb_zyD-A&_nc_ht=scontent-hkg3-1.xx&oh=c3d4428fd9a36ba691a9122158e55190&oe=5E753756",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/78350427_2768909293140964_8541593906154831872_n.jpg?_nc_cat=111&_nc_ohc=MiWGRRYbjtAAQkHO_FS5wLdmjEd3gRMX8WdbQbl24cFZeGiFVsFqahd3g&_nc_ht=scontent-hkg3-2.xx&oh=5380a6805b8db821ec2e8e92f46076bf&oe=5E753756",
     "廣告詳情": {
       "ad_creative_body": "請支持最關心民生議題,為勞工為弱勢戰鬥的立委候選人張余健",
       "ad_creation_time": "2019-11-24T11:55:29+0000",
@@ -2611,7 +2634,8 @@
       "spend": {
         "lower_bound": "300",
         "upper_bound": "399"
-      }
+      },
+      "ad_id": "2768909193140974"
     }
   },
   {
@@ -2619,10 +2643,10 @@
     "參選人": "張余健",
     "AD_ID": "2972646202747826",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-11-28",
-    "結束日期": "2019-12-05",
+    "開始日期": "2019-12-05",
+    "結束日期": "2019-12-19",
     "廣告內容": "張余健大安區立委候選人(托老托幼不煩心) 台灣日漸老年化,加上少子化,年輕人肩頭重擔很重,張余健提出解決方案,協助年輕人,早上送小孩同時送爸媽,一舉兩得,,請支持張余健",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78598432_800721193699308_6279144678109478912_n.jpg?_nc_cat=101&_nc_ohc=Y8TJFy5imk4AQl9zk_21gUlw2zj3rrANHxzXabfAVg6RxRe6S7NL9fGsQ&_nc_ht=scontent-hkg3-1.xx&oh=7cb824afdaf27c4564ec780bb8c0fbbe&oe=5E405952",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79936031_2385062501710561_5697506080737722368_n.jpg?_nc_cat=100&_nc_ohc=g5LkRxeDYRwAQnzxi0W5P6TxaIE6_fkeUbjDHyQsRkxenRgw9jE8FvUCg&_nc_ht=scontent-hkg3-1.xx&oh=de438c7f5f831bdf5f92fe356ccbbb57&oe=5EB2236E",
     "廣告詳情": {
       "ad_creative_body": "張余健大安區立委候選人(托老托幼不煩心)\n台灣日漸老年化,加上少子化,年輕人肩頭重擔很重,張余健提出解決方案,協助年輕人,早上送小孩同時送爸媽,一舉兩得,,請支持張余健",
       "ad_creation_time": "2019-11-28T11:14:51+0000",
@@ -2708,7 +2732,8 @@
       "spend": {
         "lower_bound": "400",
         "upper_bound": "499"
-      }
+      },
+      "ad_id": "2972646202747826"
     }
   },
   {
@@ -2716,83 +2741,83 @@
     "參選人": "張余健",
     "AD_ID": "567672920688461",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-12-02",
-    "結束日期": "2019-12-06",
+    "開始日期": "2019-12-14",
+    "結束日期": "1970-01-01",
     "廣告內容": "來自大安區,最關心勞工議題,為弱勢發聲,不對外募款,不收政治獻金的立法委員候選人張余健~拜託各位好朋友,動動滑鼠幫我分享出去,謝謝感恩",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78326032_669054486954525_6017718608736550912_n.jpg?_nc_cat=103&_nc_ohc=Q3ZETitD-bsAQk_rr50w-FMUggudB5Z9N98goLFpm_EjkNAzoqWTNCChg&_nc_ht=scontent-hkg3-1.xx&oh=e4d6413019a73e3a054953724c11920c&oe=5E780FBB",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78326032_669054486954525_6017718608736550912_n.jpg?_nc_cat=103&_nc_ohc=dvQZodgTnmMAQmkxdenGTziweuAt5McN9FE0KbYe2fnP7TlUryUb3uO_g&_nc_ht=scontent-hkg3-1.xx&oh=b26208d015e6a05fe8a44bc4eff7448e&oe=5E780FBB",
     "廣告詳情": {
       "ad_creative_body": "來自大安區,最關心勞工議題,為弱勢發聲,不對外募款,不收政治獻金的立法委員候選人張余健~拜託各位好朋友,動動滑鼠幫我分享出去,謝謝感恩",
       "ad_creation_time": "2019-12-03T00:09:49+0000",
       "ad_creative_link_title": "台北市大安區立法委員候選人張余健ver2",
       "ad_delivery_start_time": "2019-12-03T00:09:51+0000",
-      "ad_delivery_stop_time": "2019-12-12T00:09:49+0000",
+      "ad_delivery_stop_time": "2019-12-30T00:09:49+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000514",
+          "percentage": "0.000324",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.118644",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.163328",
+          "percentage": "0.197989",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.042116",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.270673",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.214689",
+          "percentage": "0.230258",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.057011",
+          "percentage": "0.23869",
           "age": "35-44",
-          "gender": "female"
+          "gender": "male"
         },
         {
-          "percentage": "0.053929",
+          "percentage": "0.065186",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.072933",
+          "percentage": "0.036647",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.064537",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.003082",
+          "percentage": "0.126966",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.034539",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001784",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.002594",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001027",
+          "percentage": "0.000486",
           "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.002054",
-          "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "余健張",
       "impressions": {
-        "lower_bound": "2000",
-        "upper_bound": "2999"
+        "lower_bound": "7000",
+        "upper_bound": "7999"
       },
       "page_id": "103252787739139",
       "page_name": "50萬選立委-張余健-大安區立委候選人服務處",
@@ -2803,9 +2828,10 @@
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
-      }
+        "lower_bound": "800",
+        "upper_bound": "899"
+      },
+      "ad_id": "567672920688461"
     }
   },
   {
@@ -2816,7 +2842,7 @@
     "開始日期": "2019-11-29",
     "結束日期": "2019-12-06",
     "廣告內容": "喜樂島提名小鋼炮，張余健到台北地方法院跟許多勞工團體一起聲援被華視違法資遣的員工，大家一定要一起關心，因為誰知道這樣的衰事會不會發生在自己身上。一起加油！勞工加油！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78779535_3239012139505207_7260268130826452992_n.jpg?_nc_cat=109&_nc_ohc=ndAEgL0nII4AQlW_sxSOPswwpWe_PUlTlwYMprPcQ-jc8gxtXagxBDPRw&_nc_ht=scontent-hkg3-1.xx&oh=220e3e6b3a7fbd7c180455aeb4e90ff6&oe=5E7231E4",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/78779535_3239012139505207_7260268130826452992_n.jpg?_nc_cat=109&_nc_ohc=O6nVUSFF3-QAQlSFQ9AhEaMhXy381fDksn4Z7qGgPMBbYxdW-9fxzAgFg&_nc_ht=scontent-hkg3-2.xx&oh=4c73d1d1fa10cb5af042c6080f3a6e0e&oe=5E7231E4",
     "廣告詳情": {
       "ad_creative_body": "喜樂島提名小鋼炮，張余健到台北地方法院跟許多勞工團體一起聲援被華視違法資遣的員工，大家一定要一起關心，因為誰知道這樣的衰事會不會發生在自己身上。一起加油！勞工加油！",
       "ad_creation_time": "2019-11-30T02:12:08+0000",
@@ -2825,70 +2851,70 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.129841",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.290433",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.13022",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.143888",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.216021",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.024298",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.014806",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.039104",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.002278",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.008352",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.00038",
+          "percentage": "0.000326",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00038",
+          "percentage": "0.000326",
           "age": "55-64",
           "gender": "unknown"
+        },
+        {
+          "percentage": "0.007492",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.145928",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.014984",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.295114",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.124756",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.130619",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.213029",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.023779",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.041368",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00228",
+          "age": "25-34",
+          "gender": "female"
         }
       ],
       "funding_entity": "余健張",
       "impressions": {
-        "lower_bound": "2000",
-        "upper_bound": "2999"
+        "lower_bound": "3000",
+        "upper_bound": "3999"
       },
       "page_id": "103252787739139",
       "page_name": "50萬選立委-張余健-大安區立委候選人服務處",
@@ -2899,9 +2925,964 @@
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
-      }
+        "lower_bound": "300",
+        "upper_bound": "399"
+      },
+      "ad_id": "3239010476172040"
+    }
+  },
+  {
+    "選區": "臺北市第六選舉區",
+    "參選人": "張余健",
+    "AD_ID": "2385062468377231",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-05",
+    "結束日期": "2019-12-19",
+    "廣告內容": "張余健大安區立委候選人(托老托幼不煩心) 台灣日漸老年化,加上少子化,年輕人肩頭重擔很重,張余健提出解決方案,協助年輕人,早上送小孩同時送爸媽,一舉兩得,,請支持張余健",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79936031_2385062501710561_5697506080737722368_n.jpg?_nc_cat=100&_nc_ohc=g5LkRxeDYRwAQnzxi0W5P6TxaIE6_fkeUbjDHyQsRkxenRgw9jE8FvUCg&_nc_ht=scontent-hkg3-1.xx&oh=de438c7f5f831bdf5f92fe356ccbbb57&oe=5EB2236E",
+    "廣告詳情": {
+      "ad_creative_body": "張余健大安區立委候選人(托老托幼不煩心)\n台灣日漸老年化,加上少子化,年輕人肩頭重擔很重,張余健提出解決方案,協助年輕人,早上送小孩同時送爸媽,一舉兩得,,請支持張余健",
+      "ad_creation_time": "2019-12-06T01:46:35+0000",
+      "ad_creative_link_title": "張余健大安區立委候選人(托老托幼不煩心)",
+      "ad_delivery_start_time": "2019-12-06T01:46:44+0000",
+      "ad_delivery_stop_time": "2019-12-20T01:46:35+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000623",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001559",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.183603",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.147756",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.165524",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.130923",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.091958",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.046135",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.2048",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.025249",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001247",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000623",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "余健張",
+      "impressions": {
+        "lower_bound": "3000",
+        "upper_bound": "3999"
+      },
+      "page_id": "103252787739139",
+      "page_name": "50萬選立委-張余健-大安區立委候選人服務處",
+      "region_distribution": [
+        {
+          "percentage": "0.959016",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.040984",
+          "region": "New Taipei City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "2385062468377231"
+    }
+  },
+  {
+    "選區": "臺北市第六選舉區",
+    "參選人": "張余健",
+    "AD_ID": "1019609018403819",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-14",
+    "結束日期": "1970-01-01",
+    "廣告內容": "（運動員防護就業） 本次選舉沒有候選人為運動員來說句話，或提出政見，在求學期間參與運動的學生，在防護員不足的情況下，很多學生都帶有陳年舊傷，就算到了職業殿堂，也深受運動傷害之苦，常常阻礙了職業生涯。 在台灣運動員就業是困難的，在學校普遍不重視體育，體育老師職缺更是少，讓許多體育科系學生畢業後,就業發生困難，張余健提出解決方案，請台北市大安區居民，支持張余健！ #台北市大安區 #運動員 #防護員不足 #運動員就業困難",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/79373119_1019609028403818_1537856711560265728_n.jpg?_nc_cat=109&_nc_ohc=itcc3QrmFmQAQmmmvRXWKHpKOlPImQjqeqRMpUN1md_rdc0kx9kkc_qnw&_nc_ht=scontent-hkg3-2.xx&oh=4f1bf0742d1a5157359a049aad594588&oe=5E6D6141",
+    "廣告詳情": {
+      "ad_creative_body": "（運動員防護就業）\n\n本次選舉沒有候選人為運動員來說句話，或提出政見，在求學期間參與運動的學生，在防護員不足的情況下，很多學生都帶有陳年舊傷，就算到了職業殿堂，也深受運動傷害之苦，常常阻礙了職業生涯。\n\n在台灣運動員就業是困難的，在學校普遍不重視體育，體育老師職缺更是少，讓許多體育科系學生畢業後,就業發生困難，張余健提出解決方案，請台北市大安區居民，支持張余健！\n\n#台北市大安區\n#運動員\n#防護員不足\n#運動員就業困難",
+      "ad_creation_time": "2019-12-07T08:28:50+0000",
+      "ad_creative_link_title": "張余健政見--運動員防護就業",
+      "ad_delivery_start_time": "2019-12-07T08:28:52+0000",
+      "ad_delivery_stop_time": "2020-01-02T08:28:50+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.00075",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.158665",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.0015",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.0015",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001125",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.016129",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.022506",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.009752",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.042011",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00075",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.139535",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.02063",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.112903",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.096399",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.1988",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.051763",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.123781",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.0015",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "余健張",
+      "impressions": {
+        "lower_bound": "3000",
+        "upper_bound": "3999"
+      },
+      "page_id": "103252787739139",
+      "page_name": "50萬選立委-張余健-大安區立委候選人服務處",
+      "region_distribution": [
+        {
+          "percentage": "0.978772",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.021228",
+          "region": "New Taipei City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "400",
+        "upper_bound": "499"
+      },
+      "ad_id": "1019609018403819"
+    }
+  },
+  {
+    "選區": "臺北市第六選舉區",
+    "參選人": "張余健",
+    "AD_ID": "3094096540814728",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-14",
+    "結束日期": "1970-01-01",
+    "廣告內容": "（運動員防護就業） 本次選舉沒有候選人為運動員來說句話，或提出政見，在求學期間參與運動的學生，在防護員不足的情況下，很多學生都帶有陳年舊傷，就算到了職業殿堂，也深受運動傷害之苦，常常阻礙了職業生涯。 在台灣運動員就業是困難的，在學校普遍不重視體育，體育老師職缺更是少，讓許多體育科系學生畢業後,就業發生困難，張余健提出解決方案，請台北市大安區居民，支持張余健！ #台北市大安區 #運動員 #防護員不足 #運動員就業困難",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/79373119_1019609028403818_1537856711560265728_n.jpg?_nc_cat=109&_nc_ohc=itcc3QrmFmQAQmmmvRXWKHpKOlPImQjqeqRMpUN1md_rdc0kx9kkc_qnw&_nc_ht=scontent-hkg3-2.xx&oh=4f1bf0742d1a5157359a049aad594588&oe=5E6D6141",
+    "廣告詳情": {
+      "ad_creative_body": "（運動員防護就業）\n\n本次選舉沒有候選人為運動員來說句話，或提出政見，在求學期間參與運動的學生，在防護員不足的情況下，很多學生都帶有陳年舊傷，就算到了職業殿堂，也深受運動傷害之苦，常常阻礙了職業生涯。\n\n在台灣運動員就業是困難的，在學校普遍不重視體育，體育老師職缺更是少，讓許多體育科系學生畢業後,就業發生困難，張余健提出解決方案，請台北市大安區居民，支持張余健！\n\n#台北市大安區\n#運動員\n#防護員不足\n#運動員就業困難",
+      "ad_creation_time": "2019-12-14T13:06:07+0000",
+      "ad_creative_link_title": "張余健政見--運動員防護就業",
+      "ad_delivery_start_time": "2019-12-14T13:06:07+0000",
+      "ad_delivery_stop_time": "2020-01-02T08:28:50+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000649",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.103471",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001622",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001297",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.061304",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.101524",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.021083",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.015894",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.193643",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000324",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.041194",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.018488",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.028219",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.09601",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.095362",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.217645",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000973",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001297",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "余健張",
+      "impressions": {
+        "lower_bound": "3000",
+        "upper_bound": "3999"
+      },
+      "page_id": "103252787739139",
+      "page_name": "50萬選立委-張余健-大安區立委候選人服務處",
+      "region_distribution": [
+        {
+          "percentage": "0.978345",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.021655",
+          "region": "New Taipei City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "400",
+        "upper_bound": "499"
+      },
+      "ad_id": "3094096540814728"
+    }
+  },
+  {
+    "選區": "臺北市第六選舉區",
+    "參選人": "張余健",
+    "AD_ID": "2680545302172967",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-14",
+    "結束日期": "1970-01-01",
+    "廣告內容": "來自大安區,最關心勞工議題,為弱勢發聲,不對外募款,不收政治獻金的立法委員候選人張余健~拜託各位好朋友,動動滑鼠幫我分享出去,謝謝感恩",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78326032_669054486954525_6017718608736550912_n.jpg?_nc_cat=103&_nc_ohc=dvQZodgTnmMAQmkxdenGTziweuAt5McN9FE0KbYe2fnP7TlUryUb3uO_g&_nc_ht=scontent-hkg3-1.xx&oh=b26208d015e6a05fe8a44bc4eff7448e&oe=5E780FBB",
+    "廣告詳情": {
+      "ad_creative_body": "來自大安區,最關心勞工議題,為弱勢發聲,不對外募款,不收政治獻金的立法委員候選人張余健~拜託各位好朋友,動動滑鼠幫我分享出去,謝謝感恩",
+      "ad_creation_time": "2019-12-14T13:05:18+0000",
+      "ad_creative_link_title": "台北市大安區立法委員候選人張余健ver2",
+      "ad_delivery_start_time": "2019-12-14T13:05:18+0000",
+      "ad_delivery_stop_time": "2019-12-30T00:09:49+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.00025",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.002251",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.0015",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.137784",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.223806",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.083271",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.178295",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.04026",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.070018",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.228557",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.034009",
+          "age": "35-44",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "余健張",
+      "impressions": {
+        "lower_bound": "4000",
+        "upper_bound": "4999"
+      },
+      "page_id": "103252787739139",
+      "page_name": "50萬選立委-張余健-大安區立委候選人服務處",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taipei"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "2680545302172967"
+    }
+  },
+  {
+    "選區": "臺北市第六選舉區",
+    "參選人": "張余健",
+    "AD_ID": "841274202974098",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-20",
+    "結束日期": "1970-01-01",
+    "廣告內容": "我記住今天了，勞動部官員領著勞工繳稅的薪水，卻是軟趴趴的態度，太令人失望了！勞工權益竟然交給這些官員手上真是悲哀啊！ 以下為現場直播畫面https://www.facebook.com/103252787739139/videos/525000294960052?sfns=mo #勞動部硬不起來 #台北市大安區 #勞動部無法照顧勞工",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/80750522_443865173228293_2350625722676019200_n.jpg?_nc_cat=111&_nc_ohc=KJDF9kYOTOkAQly66EzqOqMmLVTF6bwdPxOmzCHh3VEVQTQk4RlFAE1jQ&_nc_ht=scontent-hkg3-2.xx&oh=c03d63391aaeebb363fa7c65122f77f5&oe=5EA7B2BA",
+    "廣告詳情": {
+      "ad_creative_body": "我記住今天了，勞動部官員領著勞工繳稅的薪水，卻是軟趴趴的態度，太令人失望了！勞工權益竟然交給這些官員手上真是悲哀啊！\n\n以下為現場直播畫面\nhttps://www.facebook.com/103252787739139/videos/525000294960052?sfns=mo\n\n#勞動部硬不起來\n#台北市大安區\n#勞動部無法照顧勞工",
+      "ad_creation_time": "2019-12-14T05:38:29+0000",
+      "ad_creative_link_caption": "fb.com",
+      "ad_delivery_start_time": "2019-12-14T05:38:29+0000",
+      "ad_delivery_stop_time": "2020-01-11T14:27:34+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000579",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.002897",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.170915",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.319235",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.103708",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.193511",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.11124",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.054461",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.01854",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.016802",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.006952",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001159",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "余健張",
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "1999"
+      },
+      "page_id": "103252787739139",
+      "page_name": "50萬選立委-張余健-大安區立委候選人服務處",
+      "region_distribution": [
+        {
+          "percentage": "0.977064",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.022936",
+          "region": "New Taipei City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "199"
+      },
+      "ad_id": "841274202974098"
+    }
+  },
+  {
+    "選區": "臺北市第六選舉區",
+    "參選人": "張余健",
+    "AD_ID": "571145796997657",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-19",
+    "結束日期": "1970-01-01",
+    "廣告內容": "有人選立委花五千萬一億,立委四年薪水也沒有這麼多錢,選上了不用還金主人情,不用受財團控制嗎? 眼睛雪亮的大安區選民~請選清新乾淨沒包袱的9號張余健~謝謝 謝謝好友協助拍攝與獻聲~~由衷感謝你們（影片內容純屬虛構，如有雷同純屬巧合）",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80628089_571145816997655_2968278797645774848_n.jpg?_nc_cat=102&_nc_ohc=hGGSDbQ41-kAQmVW8lublRtg3sL4hkj_qmkyJnrTt6cJW-M-ablcz6eJg&_nc_ht=scontent-hkg3-1.xx&oh=5573b0e1e139d3e497df0dc9955f5b91&oe=5E791EDE",
+    "廣告詳情": {
+      "ad_creative_body": "有人選立委花五千萬一億,立委四年薪水也沒有這麼多錢,選上了不用還金主人情,不用受財團控制嗎?\n\n眼睛雪亮的大安區選民~請選清新乾淨沒包袱的9號張余健~謝謝\n\n謝謝好友協助拍攝與獻聲~~由衷感謝你們（影片內容純屬虛構，如有雷同純屬巧合）",
+      "ad_creation_time": "2019-12-19T08:36:05+0000",
+      "ad_creative_link_title": "9號張余健~選舉廣告(立委諸公清新乾淨篇)",
+      "ad_delivery_start_time": "2019-12-19T08:36:14+0000",
+      "ad_delivery_stop_time": "2020-01-11T08:36:05+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000188",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.014267",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000751",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000563",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000375",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.005819",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.006383",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.005444",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.088605",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.247607",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.058945",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.023841",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.034729",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.093674",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.178337",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.240285",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000188",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "余健張",
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "page_id": "103252787739139",
+      "page_name": "50萬選立委-張余健-大安區立委候選人服務處",
+      "region_distribution": [
+        {
+          "percentage": "0.978311",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.021689",
+          "region": "New Taipei City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "571145796997657"
+    }
+  },
+  {
+    "選區": "臺北市第六選舉區",
+    "參選人": "張余健",
+    "AD_ID": "443865136561630",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-20",
+    "結束日期": "1970-01-01",
+    "廣告內容": "我記住今天了，勞動部官員領著勞工繳稅的薪水，卻是軟趴趴的態度，太令人失望了！勞工權益竟然交給這些官員手上真是悲哀啊！ 以下為現場直播畫面https://www.facebook.com/103252787739139/videos/525000294960052?sfns=mo #勞動部硬不起來 #台北市大安區 #勞動部無法照顧勞工",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/80750522_443865173228293_2350625722676019200_n.jpg?_nc_cat=111&_nc_ohc=KJDF9kYOTOkAQly66EzqOqMmLVTF6bwdPxOmzCHh3VEVQTQk4RlFAE1jQ&_nc_ht=scontent-hkg3-2.xx&oh=c03d63391aaeebb363fa7c65122f77f5&oe=5EA7B2BA",
+    "廣告詳情": {
+      "ad_creative_body": "我記住今天了，勞動部官員領著勞工繳稅的薪水，卻是軟趴趴的態度，太令人失望了！勞工權益竟然交給這些官員手上真是悲哀啊！\n\n以下為現場直播畫面\nhttps://www.facebook.com/103252787739139/videos/525000294960052?sfns=mo\n\n#勞動部硬不起來\n#台北市大安區\n#勞動部無法照顧勞工",
+      "ad_creation_time": "2019-12-20T14:57:49+0000",
+      "ad_creative_link_caption": "fb.com",
+      "ad_delivery_start_time": "2019-12-20T14:57:49+0000",
+      "ad_delivery_stop_time": "2020-01-11T14:27:34+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.001799",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001799",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.341727",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.059353",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.080935",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.026978",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.147482",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.192446",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.116906",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.008993",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.019784",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001799",
+          "age": "25-34",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "余健張",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "103252787739139",
+      "page_name": "50萬選立委-張余健-大安區立委候選人服務處",
+      "region_distribution": [
+        {
+          "percentage": "0.981481",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.018519",
+          "region": "New Taipei City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "443865136561630"
+    }
+  },
+  {
+    "選區": "臺北市第六選舉區",
+    "參選人": "張余健",
+    "AD_ID": "1435815756584615",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-21",
+    "結束日期": "1970-01-01",
+    "廣告內容": "北市大安區朋友，立委票請投9號章魚哥！謝謝 呂副總統今天陪同立委候選人張余健，懇請大安區民支持，讓張余健有機會進入國會，張余健一定會盡心盡力為大安區服務！爭取勞工權益！爲弱勢發聲，謝謝！ #大安區 #台北市 #呂秀蓮 #成功市場",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80970004_1435816506584540_8637669541427544064_n.jpg?_nc_cat=104&_nc_ohc=MORLaECoUkUAQmp0j4WYvFlS1g46UGwjg8iuvgPWk3KpTVRjSkGx83kqQ&_nc_ht=scontent-hkg3-1.xx&oh=84d92960192f0566b4afbc50d969b019&oe=5E6AE0A1",
+    "廣告詳情": {
+      "ad_creative_body": "北市大安區朋友，立委票請投9號章魚哥！謝謝\n\n呂副總統今天陪同立委候選人張余健，懇請大安區民支持，讓張余健有機會進入國會，張余健一定會盡心盡力為大安區服務！爭取勞工權益！爲弱勢發聲，謝謝！\n\n#大安區\n#台北市\n#呂秀蓮\n#成功市場",
+      "ad_creation_time": "2019-12-21T12:29:50+0000",
+      "ad_delivery_start_time": "2019-12-21T12:29:50+0000",
+      "ad_delivery_stop_time": "2020-01-11T12:29:36+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.114094",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.194631",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.14094",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.020134",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.134228",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.174497",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.006711",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.026846",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.04698",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.067114",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.060403",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.013423",
+          "age": "35-44",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "余健張",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "103252787739139",
+      "page_name": "50萬選立委-張余健-大安區立委候選人服務處",
+      "region_distribution": [
+        {
+          "percentage": "0.959184",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.040816",
+          "region": "New Taipei City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "1435815756584615"
+    }
+  },
+  {
+    "選區": "臺北市第六選舉區",
+    "參選人": "張余健",
+    "AD_ID": "457615451558631",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-20",
+    "結束日期": "1970-01-01",
+    "廣告內容": "我記住今天了，勞動部官員領著勞工繳稅的薪水，卻是軟趴趴的態度，太令人失望了！勞工權益竟然交給這些官員手上真是悲哀啊！ 以下為現場直播畫面https://www.facebook.com/103252787739139/videos/525000294960052?sfns=mo #勞動部硬不起來 #台北市大安區 #勞動部無法照顧勞工",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/80750522_443865173228293_2350625722676019200_n.jpg?_nc_cat=111&_nc_ohc=KJDF9kYOTOkAQly66EzqOqMmLVTF6bwdPxOmzCHh3VEVQTQk4RlFAE1jQ&_nc_ht=scontent-hkg3-2.xx&oh=c03d63391aaeebb363fa7c65122f77f5&oe=5EA7B2BA",
+    "廣告詳情": {
+      "ad_creative_body": "我記住今天了，勞動部官員領著勞工繳稅的薪水，卻是軟趴趴的態度，太令人失望了！勞工權益竟然交給這些官員手上真是悲哀啊！\n\n以下為現場直播畫面\nhttps://www.facebook.com/103252787739139/videos/525000294960052?sfns=mo\n\n#勞動部硬不起來\n#台北市大安區\n#勞動部無法照顧勞工",
+      "ad_creation_time": "2019-11-19T03:33:48+0000",
+      "ad_creative_link_caption": "fb.com",
+      "ad_delivery_start_time": "2019-11-19T03:33:48+0000",
+      "ad_delivery_stop_time": "2020-01-11T14:27:34+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.125",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.25",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.375",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.125",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.125",
+          "age": "55-64",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "余健張",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "103252787739139",
+      "page_name": "50萬選立委-張余健-大安區立委候選人服務處",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taipei"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "457615451558631"
     }
   }
 ]

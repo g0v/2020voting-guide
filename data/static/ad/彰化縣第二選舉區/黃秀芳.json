@@ -3,11 +3,11 @@
     "選區": "彰化縣第二選舉區",
     "參選人": "黃秀芳",
     "AD_ID": "627651524436955",
-    "登錄為政治廣告": "否",
-    "開始日期": "2019-11-01",
-    "結束日期": "2019-11-11",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-12",
+    "結束日期": "2019-11-17",
     "廣告內容": "秀芳再度獲選「公督盟優秀立委」🎉🎉 📢長年關心立委問政的公民監督國會聯盟，發表第九屆第七會期各委員會的優秀立委名單，秀芳受到公督盟的肯定，評定優秀立委💪 感謝公督盟，更要感謝好朋友們給秀芳的支持與鼓勵❤ 秀芳會持續努力關心地方👀專心問政👍守護家園🤝 ✅新聞連結:公督盟記者會新聞稿http://www.ccw.org.tw/p/26998 #彰化 #立法委員 #第二選區 #黃秀芳 #小額捐款 👉懇請 #小額捐款挺秀芳https://n.gomypay.asia/Hsiu_fang.aspx 　 #黃秀芳政治獻金專戶 帳戶名稱：109年立法委員擬參選人黃秀芳政治獻金專戶 合作金庫 彰化分行 0230 717 148075",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/71719773_1019632705034910_8121971306368335872_n.jpg?_nc_cat=105&_nc_ohc=5IJy0KTSpLQAQkviT9IaXv_0UHaZAKpHwTsqMQK5Ztny7xxgi5NALNfZQ&_nc_ht=scontent-hkg3-1.xx&oh=8227e58f3c9c06a80dbde2f351f80638&oe=5E76C3DB",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/71719773_1019632705034910_8121971306368335872_n.jpg?_nc_cat=105&_nc_ohc=-q5yt6qRa-kAQkb8AGWv2AMaFdJyEVlMI-ajUeR8vp-dHeemi7kz4gjww&_nc_ht=scontent-hkg3-1.xx&oh=e371e9349d250a06f21f63c62e670853&oe=5E76C3DB",
     "廣告詳情": {
       "ad_creative_body": "秀芳再度獲選「公督盟優秀立委」🎉🎉\n\n📢長年關心立委問政的公民監督國會聯盟，發表第九屆第七會期各委員會的優秀立委名單，秀芳受到公督盟的肯定，評定優秀立委💪\n感謝公督盟，更要感謝好朋友們給秀芳的支持與鼓勵❤\n秀芳會持續努力關心地方👀專心問政👍守護家園🤝\n✅新聞連結:公督盟記者會新聞稿\nhttp://www.ccw.org.tw/p/26998\n#彰化 #立法委員 #第二選區 #黃秀芳 #小額捐款\n\n👉懇請 #小額捐款挺秀芳\nhttps://n.gomypay.asia/Hsiu_fang.aspx\n　\n#黃秀芳政治獻金專戶\n帳戶名稱：109年立法委員擬參選人黃秀芳政治獻金專戶\n合作金庫 彰化分行 0230 717 148075",
       "ad_creation_time": "2019-11-01T12:14:53+0000",
@@ -106,7 +106,8 @@
       "spend": {
         "lower_bound": "2000",
         "upper_bound": "2499"
-      }
+      },
+      "ad_id": "627651524436955"
     }
   },
   {
@@ -114,10 +115,10 @@
     "參選人": "黃秀芳",
     "AD_ID": "458473758137297",
     "登錄為政治廣告": "否",
-    "開始日期": "2019-10-22",
-    "結束日期": "2019-11-07",
+    "開始日期": "2019-11-07",
+    "結束日期": "2019-11-30",
     "廣告內容": "2020台灣要贏 懇請支持彰化、芬園、花壇立法委員 黃秀芳",
-    "圖片": "https://scontent-nrt1-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74406134_458473774803962_7548410524573106176_n.jpg?_nc_cat=110&_nc_oc=AQkVM1Qtl54QYGmEKBEOk1UJ2_UdfzDP3zRpDqmaNPbwAPXZxrC5Hbxrw9GzRIR56Ck&_nc_ht=scontent-nrt1-1.xx&oh=27b2f0a835d8d497493842d5e681b4a8&oe=5E49E67B",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74406134_458473774803962_7548410524573106176_n.jpg?_nc_cat=110&_nc_ohc=6vt5EzppvOcAQnz_ipxW1VH9EOQXm_ww6uOZtasH6ATfqY9tbLc4XheAw&_nc_ht=scontent-hkg3-1.xx&oh=1e9f4bdd95329ec34d6e36a3a69cbab7&oe=5E71737B",
     "廣告詳情": {
       "ad_creative_body": "2020台灣要贏\n懇請支持彰化、芬園、花壇立法委員 黃秀芳",
       "ad_creation_time": "2019-10-22T08:27:21+0000",
@@ -245,7 +246,8 @@
       "spend": {
         "lower_bound": "2000",
         "upper_bound": "2499"
-      }
+      },
+      "ad_id": "458473758137297"
     }
   },
   {
@@ -253,10 +255,10 @@
     "參選人": "黃秀芳",
     "AD_ID": "2567622593283692",
     "登錄為政治廣告": "否",
-    "開始日期": "2019-10-22",
+    "開始日期": "2019-11-07",
     "結束日期": "2019-11-30",
     "廣告內容": "2020台灣要贏 懇請支持彰化、芬園、花壇立法委員 黃秀芳",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74442381_2567622623283689_883974698390519808_n.jpg?_nc_cat=105&_nc_ohc=B8vkZ5GHHccAQkY8sBeSHRK2s5knhKahVXC499w8gADeK1qE7eG2A4-Pg&_nc_ht=scontent-hkg3-1.xx&oh=050f54a7c5490530592ef11e4fa0b047&oe=5E41DC0C",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74406134_458473774803962_7548410524573106176_n.jpg?_nc_cat=110&_nc_ohc=6vt5EzppvOcAQnz_ipxW1VH9EOQXm_ww6uOZtasH6ATfqY9tbLc4XheAw&_nc_ht=scontent-hkg3-1.xx&oh=1e9f4bdd95329ec34d6e36a3a69cbab7&oe=5E71737B",
     "廣告詳情": {
       "ad_creative_body": "2020台灣要贏\n懇請支持彰化、芬園、花壇立法委員 黃秀芳",
       "ad_creation_time": "2019-10-22T08:27:21+0000",
@@ -389,7 +391,8 @@
       "spend": {
         "lower_bound": "3000",
         "upper_bound": "3499"
-      }
+      },
+      "ad_id": "2567622593283692"
     }
   },
   {
@@ -397,10 +400,10 @@
     "參選人": "黃秀芳",
     "AD_ID": "483872742222102",
     "登錄為政治廣告": "否",
-    "開始日期": "2019-10-20",
-    "結束日期": "2019-11-27",
+    "開始日期": "2019-11-07",
+    "結束日期": "2019-11-30",
     "廣告內容": "按讚接收國會最新資訊👍 懇請支持彰化、芬園、花壇立法委員 黃秀芳",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74237568_483872762222100_8199670344244527104_n.jpg?_nc_cat=101&_nc_ohc=_q-k6kMQhQ0AQmyLACqVAfjG9t2MKE0qEOEZn4O1sVuuqgSpjkcU39LIw&_nc_ht=scontent-hkg3-1.xx&oh=6e96c2a57de06dd20278dc07aed97068&oe=5E76580B",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74293907_697228067457979_5933691237197414400_n.jpg?_nc_cat=106&_nc_ohc=rHs9lpLLxk8AQmxpVvRqQcnf5sm5JunTOJAb9LFsvcxscumJcNLD9WqQQ&_nc_ht=scontent-hkg3-1.xx&oh=c2d897424a2e151866c7343d822bfbb8&oe=5E80EF05",
     "廣告詳情": {
       "ad_creative_body": "按讚接收國會最新資訊👍\n懇請支持彰化、芬園、花壇立法委員 黃秀芳",
       "ad_creation_time": "2019-10-21T05:55:46+0000",
@@ -528,7 +531,8 @@
       "spend": {
         "lower_bound": "3000",
         "upper_bound": "3499"
-      }
+      },
+      "ad_id": "483872742222102"
     }
   },
   {
@@ -536,10 +540,10 @@
     "參選人": "黃秀芳",
     "AD_ID": "697228010791318",
     "登錄為政治廣告": "否",
-    "開始日期": "2019-10-20",
-    "結束日期": "2019-11-06",
+    "開始日期": "2019-11-07",
+    "結束日期": "2019-11-30",
     "廣告內容": "按讚接收國會最新資訊👍 懇請支持彰化、芬園、花壇立法委員 黃秀芳",
-    "圖片": "https://scontent-nrt1-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74293907_697228067457979_5933691237197414400_n.jpg?_nc_cat=106&_nc_oc=AQkqmDhkVYZZSPdRkQIZOcTFEY1cbnwYPrYrQxTegpxt_EelZfHJFkNYzWy0eJ4K7qg&_nc_ht=scontent-nrt1-1.xx&oh=c9506927302835b1a2ded026707ffb81&oe=5E596205",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74293907_697228067457979_5933691237197414400_n.jpg?_nc_cat=106&_nc_ohc=rHs9lpLLxk8AQmxpVvRqQcnf5sm5JunTOJAb9LFsvcxscumJcNLD9WqQQ&_nc_ht=scontent-hkg3-1.xx&oh=c2d897424a2e151866c7343d822bfbb8&oe=5E80EF05",
     "廣告詳情": {
       "ad_creative_body": "按讚接收國會最新資訊👍\n懇請支持彰化、芬園、花壇立法委員 黃秀芳",
       "ad_creation_time": "2019-10-21T05:55:46+0000",
@@ -662,7 +666,8 @@
       "spend": {
         "lower_bound": "800",
         "upper_bound": "899"
-      }
+      },
+      "ad_id": "697228010791318"
     }
   },
   {
@@ -670,10 +675,10 @@
     "參選人": "黃秀芳",
     "AD_ID": "1365353880308012",
     "登錄為政治廣告": "否",
-    "開始日期": "2019-10-20",
-    "結束日期": "2019-11-07",
+    "開始日期": "2019-11-07",
+    "結束日期": "2019-11-30",
     "廣告內容": "按讚接收國會最新資訊👍 懇請支持彰化、芬園、花壇立法委員 黃秀芳",
-    "圖片": "https://scontent-nrt1-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74187719_1365353906974676_6698925749304295424_n.jpg?_nc_cat=107&_nc_oc=AQkXL2QY5GHUOjateM2ii0T36adfEdSidv3Ay_Y7TsfgO9aXMe5GR8rtWzJwKMfOTUo&_nc_ht=scontent-nrt1-1.xx&oh=3892a2a323fcebad7279ea1dd5bafdf8&oe=5E61A8AB",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74293907_697228067457979_5933691237197414400_n.jpg?_nc_cat=106&_nc_ohc=rHs9lpLLxk8AQmxpVvRqQcnf5sm5JunTOJAb9LFsvcxscumJcNLD9WqQQ&_nc_ht=scontent-hkg3-1.xx&oh=c2d897424a2e151866c7343d822bfbb8&oe=5E80EF05",
     "廣告詳情": {
       "ad_creative_body": "按讚接收國會最新資訊👍\n懇請支持彰化、芬園、花壇立法委員 黃秀芳",
       "ad_creation_time": "2019-10-21T05:55:46+0000",
@@ -801,7 +806,8 @@
       "spend": {
         "lower_bound": "2000",
         "upper_bound": "2499"
-      }
+      },
+      "ad_id": "1365353880308012"
     }
   },
   {
@@ -809,10 +815,10 @@
     "參選人": "黃秀芳",
     "AD_ID": "457425858314549",
     "登錄為政治廣告": "否",
-    "開始日期": "2019-10-16",
-    "結束日期": "2019-11-07",
+    "開始日期": "2019-11-07",
+    "結束日期": "2019-11-30",
     "廣告內容": "按讚接收國會最新資訊👍 懇請支持彰化、芬園、花壇立法委員 黃秀芳",
-    "圖片": "https://scontent-nrt1-1.xx.fbcdn.net/v/t39.16868-6/s600x600/73279778_1022647821400283_9071164224155156480_n.jpg?_nc_cat=104&_nc_oc=AQkU-5NZmNwazaHYB8QhmKPq-2NJis0PDPHv1ep_8wGIET6JJKL6zw6dxGADasT3JnM&_nc_ht=scontent-nrt1-1.xx&oh=f5b476b9663b0209638509b2252d1e5c&oe=5E41D5D4",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74293907_697228067457979_5933691237197414400_n.jpg?_nc_cat=106&_nc_ohc=rHs9lpLLxk8AQmxpVvRqQcnf5sm5JunTOJAb9LFsvcxscumJcNLD9WqQQ&_nc_ht=scontent-hkg3-1.xx&oh=c2d897424a2e151866c7343d822bfbb8&oe=5E80EF05",
     "廣告詳情": {
       "ad_creative_body": "按讚接收國會最新資訊👍\n懇請支持彰化、芬園、花壇立法委員 黃秀芳",
       "ad_creation_time": "2019-10-16T10:15:03+0000",
@@ -925,7 +931,8 @@
       "spend": {
         "lower_bound": "800",
         "upper_bound": "899"
-      }
+      },
+      "ad_id": "457425858314549"
     }
   },
   {
@@ -933,10 +940,10 @@
     "參選人": "黃秀芳",
     "AD_ID": "468217170570977",
     "登錄為政治廣告": "否",
-    "開始日期": "2019-10-22",
-    "結束日期": "2019-11-11",
+    "開始日期": "2019-11-07",
+    "結束日期": "2019-11-30",
     "廣告內容": "2020台灣要贏 懇請支持彰化、芬園、花壇立法委員 黃秀芳",
-    "圖片": "https://scontent-nrt1-1.xx.fbcdn.net/v/t39.16868-6/s600x600/73537541_468217200570974_9080046770574065664_n.jpg?_nc_cat=109&_nc_oc=AQnSun9lPByPE0UlnAzkYnx-WNRRyyy9lzJY9NBti_6chqsKfVjA6pPU8FD_m5bacBg&_nc_ht=scontent-nrt1-1.xx&oh=711aec2951563b7dc51804ee21462691&oe=5E451C15",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74406134_458473774803962_7548410524573106176_n.jpg?_nc_cat=110&_nc_ohc=6vt5EzppvOcAQnz_ipxW1VH9EOQXm_ww6uOZtasH6ATfqY9tbLc4XheAw&_nc_ht=scontent-hkg3-1.xx&oh=1e9f4bdd95329ec34d6e36a3a69cbab7&oe=5E71737B",
     "廣告詳情": {
       "ad_creative_body": "2020台灣要贏\n懇請支持彰化、芬園、花壇立法委員 黃秀芳",
       "ad_creation_time": "2019-10-22T08:27:20+0000",
@@ -1049,7 +1056,8 @@
       "spend": {
         "lower_bound": "1500",
         "upper_bound": "1999"
-      }
+      },
+      "ad_id": "468217170570977"
     }
   },
   {
@@ -1057,10 +1065,10 @@
     "參選人": "黃秀芳",
     "AD_ID": "1722889541175572",
     "登錄為政治廣告": "否",
-    "開始日期": "2019-10-22",
+    "開始日期": "2019-11-07",
     "結束日期": "2019-11-30",
     "廣告內容": "2020台灣要贏 懇請支持彰化、芬園、花壇立法委員 黃秀芳",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74257394_1722889564508903_705088730691534848_n.jpg?_nc_cat=106&_nc_ohc=WknxqTdNx_kAQnRZ5QwcqhNRHi50EO-E6D-AWAz2CM4V5Qggej-dG-Yug&_nc_ht=scontent-hkg3-1.xx&oh=97943ea7ae5f26a5996f3113a48c1559&oe=5E8B2F67",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74406134_458473774803962_7548410524573106176_n.jpg?_nc_cat=110&_nc_ohc=6vt5EzppvOcAQnz_ipxW1VH9EOQXm_ww6uOZtasH6ATfqY9tbLc4XheAw&_nc_ht=scontent-hkg3-1.xx&oh=1e9f4bdd95329ec34d6e36a3a69cbab7&oe=5E71737B",
     "廣告詳情": {
       "ad_creative_body": "2020台灣要贏\n懇請支持彰化、芬園、花壇立法委員 黃秀芳",
       "ad_creation_time": "2019-10-22T08:27:21+0000",
@@ -1188,7 +1196,8 @@
       "spend": {
         "lower_bound": "2000",
         "upper_bound": "2499"
-      }
+      },
+      "ad_id": "1722889541175572"
     }
   },
   {
@@ -1196,10 +1205,10 @@
     "參選人": "黃秀芳",
     "AD_ID": "981986552138176",
     "登錄為政治廣告": "否",
-    "開始日期": "2019-10-20",
-    "結束日期": "2019-11-25",
+    "開始日期": "2019-11-07",
+    "結束日期": "2019-11-30",
     "廣告內容": "按讚接收國會最新資訊👍 懇請支持彰化、芬園、花壇立法委員 黃秀芳",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74211424_981986582138173_7135842610433753088_n.jpg?_nc_cat=110&_nc_ohc=o3CW9xEkNB4AQnzlCF2DEIuE4PJ6pJvGapClAbn6H1tAjTnVRSZkYXTDg&_nc_ht=scontent-hkg3-1.xx&oh=e01a4fc0adf233ba2ce47eb1450f34b4&oe=5E4E92F7",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74293907_697228067457979_5933691237197414400_n.jpg?_nc_cat=106&_nc_ohc=rHs9lpLLxk8AQmxpVvRqQcnf5sm5JunTOJAb9LFsvcxscumJcNLD9WqQQ&_nc_ht=scontent-hkg3-1.xx&oh=c2d897424a2e151866c7343d822bfbb8&oe=5E80EF05",
     "廣告詳情": {
       "ad_creative_body": "按讚接收國會最新資訊👍\n懇請支持彰化、芬園、花壇立法委員 黃秀芳",
       "ad_creation_time": "2019-10-21T05:55:46+0000",
@@ -1327,7 +1336,8 @@
       "spend": {
         "lower_bound": "1500",
         "upper_bound": "1999"
-      }
+      },
+      "ad_id": "981986552138176"
     }
   },
   {
@@ -1335,10 +1345,10 @@
     "參選人": "黃秀芳",
     "AD_ID": "2267034373603712",
     "登錄為政治廣告": "否",
-    "開始日期": "2019-10-18",
-    "結束日期": "2019-11-11",
+    "開始日期": "2019-11-07",
+    "結束日期": "2019-11-30",
     "廣告內容": "按讚接收國會最新資訊👍 懇請支持彰化、芬園、花壇立法委員 黃秀芳",
-    "圖片": "https://scontent-nrt1-1.xx.fbcdn.net/v/t39.16868-6/s600x600/73279778_1022647821400283_9071164224155156480_n.jpg?_nc_cat=104&_nc_oc=AQmYFy9KMPAG9W-p10nWaMPwoitAHbsxPpexV1hCylKCV-jXLwBYOqLFTSaW3cKphfY&_nc_ht=scontent-nrt1-1.xx&oh=86f06f3020c57128addb45d51a886824&oe=5E41D5D4",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74293907_697228067457979_5933691237197414400_n.jpg?_nc_cat=106&_nc_ohc=rHs9lpLLxk8AQmxpVvRqQcnf5sm5JunTOJAb9LFsvcxscumJcNLD9WqQQ&_nc_ht=scontent-hkg3-1.xx&oh=c2d897424a2e151866c7343d822bfbb8&oe=5E80EF05",
     "廣告詳情": {
       "ad_creative_body": "按讚接收國會最新資訊👍\n懇請支持彰化、芬園、花壇立法委員 黃秀芳",
       "ad_creation_time": "2019-10-18T09:22:19+0000",
@@ -1446,7 +1456,8 @@
       "spend": {
         "lower_bound": "300",
         "upper_bound": "399"
-      }
+      },
+      "ad_id": "2267034373603712"
     }
   },
   {
@@ -1457,7 +1468,7 @@
     "開始日期": "2019-11-07",
     "結束日期": "2019-11-30",
     "廣告內容": "2020台灣要贏 懇請支持彰化、芬園、花壇立法委員 黃秀芳",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74406134_458473774803962_7548410524573106176_n.jpg?_nc_cat=110&_nc_ohc=IoNx9Pg7DJkAQnfT0w4r_4buphMMhTohLX7NjqvyfWDSZgsV-86BmDObw&_nc_ht=scontent-hkg3-1.xx&oh=7e88e2b03c2f00ee85593e4177fad6e0&oe=5E71737B",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74406134_458473774803962_7548410524573106176_n.jpg?_nc_cat=110&_nc_ohc=6vt5EzppvOcAQnz_ipxW1VH9EOQXm_ww6uOZtasH6ATfqY9tbLc4XheAw&_nc_ht=scontent-hkg3-1.xx&oh=1e9f4bdd95329ec34d6e36a3a69cbab7&oe=5E71737B",
     "廣告詳情": {
       "ad_creative_body": "2020台灣要贏\n懇請支持彰化、芬園、花壇立法委員 黃秀芳",
       "ad_creation_time": "2019-11-08T05:59:01+0000",
@@ -1570,7 +1581,8 @@
       "spend": {
         "lower_bound": "400",
         "upper_bound": "499"
-      }
+      },
+      "ad_id": "529659717813162"
     }
   },
   {
@@ -1581,7 +1593,7 @@
     "開始日期": "2019-11-07",
     "結束日期": "2019-11-30",
     "廣告內容": "按讚接收國會最新資訊👍 懇請支持彰化、芬園、花壇立法委員 黃秀芳",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74293907_697228067457979_5933691237197414400_n.jpg?_nc_cat=106&_nc_ohc=pUKHkVuIMkcAQl6OQpAVvzSixny4peYCr0WsBN5sV6ZSPlJgt7qyQwEvg&_nc_ht=scontent-hkg3-1.xx&oh=39cb4acad2c42a3b8c3e0b3b54d3151a&oe=5E80EF05",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74293907_697228067457979_5933691237197414400_n.jpg?_nc_cat=106&_nc_ohc=rHs9lpLLxk8AQmxpVvRqQcnf5sm5JunTOJAb9LFsvcxscumJcNLD9WqQQ&_nc_ht=scontent-hkg3-1.xx&oh=c2d897424a2e151866c7343d822bfbb8&oe=5E80EF05",
     "廣告詳情": {
       "ad_creative_body": "按讚接收國會最新資訊👍\n懇請支持彰化、芬園、花壇立法委員 黃秀芳",
       "ad_creation_time": "2019-11-08T05:58:59+0000",
@@ -1704,18 +1716,19 @@
       "spend": {
         "lower_bound": "500",
         "upper_bound": "599"
-      }
+      },
+      "ad_id": "421573382096153"
     }
   },
   {
     "選區": "彰化縣第二選舉區",
     "參選人": "黃秀芳",
     "AD_ID": "2423175654615542",
-    "登錄為政治廣告": "否",
-    "開始日期": "2019-11-11",
-    "結束日期": "2019-11-21",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-12",
+    "結束日期": "2019-11-22",
     "廣告內容": "認真踏實 接地氣 彰化鐵路高架20年沒辦法解決的問題，秀芳立委任內努力爭取400億鐵路高架通過✅ 彰化的綠能發電，政府補助3億3千萬，未來三年彰化縣一萬六千位學生，營養午餐不用錢✅，風電完成後，彰化縣政府每年可以獲得三億以上的經費，繼續發展彰化✅ 秀芳從政以來，都秉持著用心聽、認真做，對的事情、對人民好的事情，絕不妥協🙅‍♀，在立法院審預算時，面對在野黨無理的杯葛、丟水球、撒麵粉，秀芳從不畏懼💪，依然要為人民謀取最好的福利，反觀當時無理杯葛的在野黨，卻反過頭來爭取經費，令人不解🤦‍♀ 選舉剩下60天，秀芳會持續奮鬥，讓正向的力量留在立法院，也請各位好朋友要多幫秀芳拉票，推薦秀芳給您們的朋友👊👊 立委要贏 國會過半 國家繼續向前行 快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家👍https://line.me/R/ti/p/%40smilefang #彰化 #花壇 #芬園 #立法委員 #黃秀芳 #蔡英文 #2020台灣要贏 #第二選區",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/76643817_2423175691282205_5884320957497081856_n.jpg?_nc_cat=103&_nc_ohc=2WNbHjbwHjIAQkcL93fMC2ypFwraiFW4tHaiuykqr3cHtNeYHgEv3WEug&_nc_ht=scontent-hkg3-1.xx&oh=602573301cf10e26e2d44f6325f61e19&oe=5E3F33CD",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/77688595_531011900845151_2426583323112374272_n.jpg?_nc_cat=103&_nc_ohc=acMZs2V48pkAQnUnUPGZPhB4pyY2E8ZdWS6gXj0TAQ49sa-CisZDOYgdg&_nc_ht=scontent-hkg3-1.xx&oh=8076c84121229390c3d85dd6231461d2&oe=5E81B88C",
     "廣告詳情": {
       "ad_creative_body": "認真踏實 接地氣\n\n彰化鐵路高架20年沒辦法解決的問題，秀芳立委任內努力爭取400億鐵路高架通過✅\n彰化的綠能發電，政府補助3億3千萬，未來三年彰化縣一萬六千位學生，營養午餐不用錢✅，風電完成後，彰化縣政府每年可以獲得三億以上的經費，繼續發展彰化✅\n\n秀芳從政以來，都秉持著用心聽、認真做，對的事情、對人民好的事情，絕不妥協🙅‍♀，在立法院審預算時，面對在野黨無理的杯葛、丟水球、撒麵粉，秀芳從不畏懼💪，依然要為人民謀取最好的福利，反觀當時無理杯葛的在野黨，卻反過頭來爭取經費，令人不解🤦‍♀\n\n選舉剩下60天，秀芳會持續奮鬥，讓正向的力量留在立法院，也請各位好朋友要多幫秀芳拉票，推薦秀芳給您們的朋友👊👊\n\n立委要贏 國會過半 國家繼續向前行\n\n快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家👍\nhttps://line.me/R/ti/p/%40smilefang\n#彰化 #花壇 #芬園 #立法委員 #黃秀芳 #蔡英文 #2020台灣要贏 #第二選區",
       "ad_creation_time": "2019-11-11T10:06:59+0000",
@@ -1885,7 +1898,8 @@
       "spend": {
         "lower_bound": "100",
         "upper_bound": "199"
-      }
+      },
+      "ad_id": "2423175654615542"
     }
   },
   {
@@ -1896,7 +1910,7 @@
     "開始日期": "2019-11-07",
     "結束日期": "2019-11-30",
     "廣告內容": "按讚接收國會最新資訊👍 懇請支持彰化、芬園、花壇立法委員 黃秀芳",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/73279778_1022647821400283_9071164224155156480_n.jpg?_nc_cat=104&_nc_ohc=XH7yNF1aBEkAQnhoy7d87PL-ntVA597gQI50LtU35DArUi-Qwbs3B8qLg&_nc_ht=scontent-hkg3-1.xx&oh=ceaae7926888e18348495b56e486b796&oe=5E41D5D4",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74293907_697228067457979_5933691237197414400_n.jpg?_nc_cat=106&_nc_ohc=rHs9lpLLxk8AQmxpVvRqQcnf5sm5JunTOJAb9LFsvcxscumJcNLD9WqQQ&_nc_ht=scontent-hkg3-1.xx&oh=c2d897424a2e151866c7343d822bfbb8&oe=5E80EF05",
     "廣告詳情": {
       "ad_creative_body": "按讚接收國會最新資訊👍\n懇請支持彰化、芬園、花壇立法委員 黃秀芳",
       "ad_creation_time": "2019-11-08T05:58:59+0000",
@@ -2009,7 +2023,8 @@
       "spend": {
         "lower_bound": "100",
         "upper_bound": "199"
-      }
+      },
+      "ad_id": "2653360441387392"
     }
   },
   {
@@ -2017,10 +2032,10 @@
     "參選人": "黃秀芳",
     "AD_ID": "896213957438663",
     "登錄為政治廣告": "否",
-    "開始日期": "2019-10-31",
-    "結束日期": "2019-11-16",
+    "開始日期": "2019-11-07",
+    "結束日期": "2019-11-30",
     "廣告內容": "按讚接收國會最新資訊👍 懇請支持彰化、芬園、花壇立法委員 黃秀芳",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74187719_1365353906974676_6698925749304295424_n.jpg?_nc_cat=107&_nc_ohc=LY7nIrD-FfsAQlz6zadFYrU3e8xIAjtmmI_Xdi94jx5unEdLRTvGdWI_A&_nc_ht=scontent-hkg3-1.xx&oh=1727fb9bdb97e170d0eb9afe340488e6&oe=5E8935AB",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74293907_697228067457979_5933691237197414400_n.jpg?_nc_cat=106&_nc_ohc=rHs9lpLLxk8AQmxpVvRqQcnf5sm5JunTOJAb9LFsvcxscumJcNLD9WqQQ&_nc_ht=scontent-hkg3-1.xx&oh=c2d897424a2e151866c7343d822bfbb8&oe=5E80EF05",
     "廣告詳情": {
       "ad_creative_body": "按讚接收國會最新資訊👍\n懇請支持彰化、芬園、花壇立法委員 黃秀芳",
       "ad_creation_time": "2019-11-01T04:15:01+0000",
@@ -2143,7 +2158,8 @@
       "spend": {
         "lower_bound": "100",
         "upper_bound": "199"
-      }
+      },
+      "ad_id": "896213957438663"
     }
   },
   {
@@ -2151,10 +2167,10 @@
     "參選人": "黃秀芳",
     "AD_ID": "1234540340082188",
     "登錄為政治廣告": "否",
-    "開始日期": "2019-10-31",
-    "結束日期": "2019-11-16",
+    "開始日期": "2019-11-07",
+    "結束日期": "2019-11-30",
     "廣告內容": "2020台灣要贏 懇請支持彰化、芬園、花壇立法委員 黃秀芳",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/73537541_468217200570974_9080046770574065664_n.jpg?_nc_cat=109&_nc_ohc=RaR5Ye_Jb8MAQkdHkwx3pm_AaehapWYDKp2zb5f9027fD5RcLtKzZjU8A&_nc_ht=scontent-hkg3-1.xx&oh=b30c6e3d5cafada1edb0fafbe7c18c2b&oe=5E6CA915",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74406134_458473774803962_7548410524573106176_n.jpg?_nc_cat=110&_nc_ohc=6vt5EzppvOcAQnz_ipxW1VH9EOQXm_ww6uOZtasH6ATfqY9tbLc4XheAw&_nc_ht=scontent-hkg3-1.xx&oh=1e9f4bdd95329ec34d6e36a3a69cbab7&oe=5E71737B",
     "廣告詳情": {
       "ad_creative_body": "2020台灣要贏\n懇請支持彰化、芬園、花壇立法委員 黃秀芳",
       "ad_creation_time": "2019-11-01T04:15:00+0000",
@@ -2272,7 +2288,8 @@
       "spend": {
         "lower_bound": "100",
         "upper_bound": "199"
-      }
+      },
+      "ad_id": "1234540340082188"
     }
   },
   {
@@ -2280,10 +2297,10 @@
     "參選人": "黃秀芳",
     "AD_ID": "257432078484778",
     "登錄為政治廣告": "否",
-    "開始日期": "2019-10-18",
-    "結束日期": "2019-11-24",
+    "開始日期": "2019-11-07",
+    "結束日期": "2019-11-30",
     "廣告內容": "按讚接收國會最新資訊👍 懇請支持彰化、芬園、花壇立法委員 黃秀芳",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/73299497_947548218955811_8050981028883333120_n.jpg?_nc_cat=110&_nc_ohc=tMSwh3T7ZfIAQkC2ww-1hqnBQ4uf_BkTMxrHAKxNqrMsoABCn6EqAsLRQ&_nc_ht=scontent-hkg3-1.xx&oh=73ecaa8066483e81222a378149b04c1a&oe=5E3FBE44",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74293907_697228067457979_5933691237197414400_n.jpg?_nc_cat=106&_nc_ohc=rHs9lpLLxk8AQmxpVvRqQcnf5sm5JunTOJAb9LFsvcxscumJcNLD9WqQQ&_nc_ht=scontent-hkg3-1.xx&oh=c2d897424a2e151866c7343d822bfbb8&oe=5E80EF05",
     "廣告詳情": {
       "ad_creative_body": "按讚接收國會最新資訊👍\n懇請支持彰化、芬園、花壇立法委員 黃秀芳",
       "ad_creation_time": "2019-10-18T09:23:40+0000",
@@ -2348,7 +2365,8 @@
       "spend": {
         "lower_bound": "0",
         "upper_bound": "99"
-      }
+      },
+      "ad_id": "257432078484778"
     }
   },
   {
@@ -2356,10 +2374,10 @@
     "參選人": "黃秀芳",
     "AD_ID": "704145403430589",
     "登錄為政治廣告": "否",
-    "開始日期": "2019-10-18",
-    "結束日期": "2019-11-23",
+    "開始日期": "2019-11-07",
+    "結束日期": "2019-11-30",
     "廣告內容": "按讚接收國會最新資訊👍 懇請支持彰化、芬園、花壇立法委員 黃秀芳",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/73219518_742250772865511_5603695220374896640_n.jpg?_nc_cat=105&_nc_ohc=Chi0yMFv9cEAQkiIdHqc4JQ2PlLlx4gbLmJtalo16IgBA1-Mn8XTO1_2g&_nc_ht=scontent-hkg3-1.xx&oh=88b337002f9eb014b7bbd3c0eddc7295&oe=5E46B7FC",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74293907_697228067457979_5933691237197414400_n.jpg?_nc_cat=106&_nc_ohc=rHs9lpLLxk8AQmxpVvRqQcnf5sm5JunTOJAb9LFsvcxscumJcNLD9WqQQ&_nc_ht=scontent-hkg3-1.xx&oh=c2d897424a2e151866c7343d822bfbb8&oe=5E80EF05",
     "廣告詳情": {
       "ad_creative_body": "按讚接收國會最新資訊👍\n懇請支持彰化、芬園、花壇立法委員 黃秀芳",
       "ad_creation_time": "2019-10-18T09:23:40+0000",
@@ -2438,7 +2456,8 @@
       "spend": {
         "lower_bound": "0",
         "upper_bound": "99"
-      }
+      },
+      "ad_id": "704145403430589"
     }
   },
   {
@@ -2449,7 +2468,7 @@
     "開始日期": "2019-11-12",
     "結束日期": "2019-11-15",
     "廣告內容": "秀芳今天早上在民權市場自治會長 周堉瑆會長、市民代表屈炳秋、市民代表周平、市民代表江炳輝陪同一起到民權市場🥬，跟店家老闆老闆娘、買菜的好朋友、長輩，請安問好👋👋 很多人都跟秀芳説要加油！！秀芳一定會全力以付，不會辜負大家對秀芳的期待跟支持💪💪 選舉倒數6️⃣0️⃣天 2020台灣要贏 快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家👍https://line.me/R/ti/p/%40smilefang #彰化 #花壇 #芬園 #立法委員 #黃秀芳 #蔡英文 #2020台灣要贏 #第二選區",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/72723515_1055471721451008_4724354370789965824_n.jpg?_nc_cat=106&_nc_ohc=wif0J1M1NsUAQmJgNlaodGpG3w6CLMNssUi9aD0-4uFd_cREpsrrjnlhQ&_nc_ht=scontent-hkg3-1.xx&oh=66edbf35a83420fced456f40b2bd201b&oe=5E88CCB8",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/72723515_1055471721451008_4724354370789965824_n.jpg?_nc_cat=106&_nc_ohc=RHf5zV_O7W4AQk-pLkK6dgzyQUvuX28UhNb7uTx0qH84hqm-jgnT2h7ng&_nc_ht=scontent-hkg3-1.xx&oh=2ff6fbb02c520795c75908f2bc586499&oe=5EB059B8",
     "廣告詳情": {
       "ad_creative_body": "秀芳今天早上在民權市場自治會長 周堉瑆會長、市民代表屈炳秋、市民代表周平、市民代表江炳輝陪同一起到民權市場🥬，跟店家老闆老闆娘、買菜的好朋友、長輩，請安問好👋👋\n\n很多人都跟秀芳説要加油！！秀芳一定會全力以付，不會辜負大家對秀芳的期待跟支持💪💪\n\n選舉倒數6️⃣0️⃣天\n2020台灣要贏\n\n快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家👍\nhttps://line.me/R/ti/p/%40smilefang\n#彰化 #花壇 #芬園 #立法委員 #黃秀芳 #蔡英文 #2020台灣要贏 #第二選區",
       "ad_creation_time": "2019-11-13T05:15:53+0000",
@@ -2554,7 +2573,8 @@
       "spend": {
         "lower_bound": "600",
         "upper_bound": "699"
-      }
+      },
+      "ad_id": "799547607167147"
     }
   },
   {
@@ -2565,7 +2585,7 @@
     "開始日期": "2019-11-12",
     "結束日期": "2019-11-15",
     "廣告內容": "🌻泡泡是療癒人心的小物， 讓所有大小朋友在泡泡世界裡變成好朋友🤝 連秀芳阿姨的心也被可愛又夢幻的泡泡融化✨✨ 這次我們邀請泡泡達人來帶我們度過歡樂的假日時光💓 讓秀芳跟泡泡先生帶大家進入泡泡的夢幻世界🌈 屬於大人小孩最歡樂的親子時光，快來報名喔❤️❤️ 現場有泡泡哥哥的表演、充氣遊樂園🙆‍♂🙆‍♀ 這次還有親子互動闖關、歡樂帶動唱❤❤ 👉報名網址:https://forms.gle/39aFEPTDRpUu37jj7 活動費用：免費❗❗ 👉活動資訊： 11/16(六)下午15:00→彰化市西勢里聖安宮(彰化市自強南路196巷2號) 👉活動報到時間： 🔺11/16報到時間– 下午15:00-15:30，16:00開放現場候位 👉活動費用：免費❗❗ 📢活動注意事項： 1.本活動將以簡訊發送錄取通知，請務必確認聯絡資訊的正確性❗❗ 🔺名額有限，收到簡訊者才算報名成功 （11/16場次簡訊發送時間11月15日晚上8點）🔺 2.國中以下小朋友，家長須全程陪同參加。 3.一張表單為一組器材借用，請勿重複填寫。 4.為避免浪費資源，報名後請務必出席，無故取消者，未來將不再受理後續活動報名。 5.活動簡訊請勿轉傳，轉傳無效 6.本活動如遇雨將取消。 👉聯絡方式： ☎️電話：04-7280980（黃秀芳立委服務處） 黃秀芳立委粉絲專頁：https://www.facebook.com/smilefangfang/?ref=bookmarks 黃秀芳立委Line好友連結：https://line.me/R/ti/p/%40smilefang",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/75375546_1055832484748265_8169025396105281536_n.jpg?_nc_cat=103&_nc_ohc=OHLqdbDUZdAAQlO1H2fyXlr0j9p_jgL4gWl57O8rEIpHcaD59CKuKJHiw&_nc_ht=scontent-hkg3-1.xx&oh=1c485c3c73247fb95fa8bb232f109189&oe=5E7C06B8",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/75375546_1055832484748265_8169025396105281536_n.jpg?_nc_cat=103&_nc_ohc=3K-5q9wZdhEAQlFWUAAXk2POfbTDLv3LD_KWn9gR9QeJiITmPEkoGBzzw&_nc_ht=scontent-hkg3-1.xx&oh=419fc67bdc3c16681651d695226ea0e3&oe=5E7C06B8",
     "廣告詳情": {
       "ad_creative_body": "🌻泡泡是療癒人心的小物，\n讓所有大小朋友在泡泡世界裡變成好朋友🤝\n連秀芳阿姨的心也被可愛又夢幻的泡泡融化✨✨\n這次我們邀請泡泡達人來帶我們度過歡樂的假日時光💓\n讓秀芳跟泡泡先生帶大家進入泡泡的夢幻世界🌈\n屬於大人小孩最歡樂的親子時光，快來報名喔❤️❤️\n\n現場有泡泡哥哥的表演、充氣遊樂園🙆‍♂🙆‍♀\n這次還有親子互動闖關、歡樂帶動唱❤❤\n\n👉報名網址:https://forms.gle/39aFEPTDRpUu37jj7\n活動費用：免費❗❗\n👉活動資訊：\n11/16(六)下午15:00→彰化市西勢里聖安宮(彰化市自強南路196巷2號)\n👉活動報到時間：\n🔺11/16報到時間–\n下午15:00-15:30，16:00開放現場候位\n\n👉活動費用：免費❗❗\n\n📢活動注意事項：\n1.本活動將以簡訊發送錄取通知，請務必確認聯絡資訊的正確性❗❗\n🔺名額有限，收到簡訊者才算報名成功\n（11/16場次簡訊發送時間11月15日晚上8點）🔺\n2.國中以下小朋友，家長須全程陪同參加。\n3.一張表單為一組器材借用，請勿重複填寫。\n4.為避免浪費資源，報名後請務必出席，無故取消者，未來將不再受理後續活動報名。\n5.活動簡訊請勿轉傳，轉傳無效\n6.本活動如遇雨將取消。\n\n👉聯絡方式：\n☎️電話：04-7280980（黃秀芳立委服務處）\n黃秀芳立委粉絲專頁：https://www.facebook.com/smilefangfang/?ref=bookmarks\n黃秀芳立委Line好友連結：https://line.me/R/ti/p/%40smilefang",
       "ad_creation_time": "2019-11-12T13:21:13+0000",
@@ -2655,7 +2675,8 @@
       "spend": {
         "lower_bound": "2000",
         "upper_bound": "2499"
-      }
+      },
+      "ad_id": "1180307912163240"
     }
   },
   {
@@ -2666,7 +2687,7 @@
     "開始日期": "2019-11-12",
     "結束日期": "2019-11-17",
     "廣告內容": "秀芳再度獲選「公督盟優秀立委」🎉🎉 📢長年關心立委問政的公民監督國會聯盟，發表第九屆第七會期各委員會的優秀立委名單，秀芳受到公督盟的肯定，評定優秀立委💪 感謝公督盟，更要感謝好朋友們給秀芳的支持與鼓勵❤ 秀芳會持續努力關心地方👀專心問政👍守護家園🤝 ✅新聞連結:公督盟記者會新聞稿http://www.ccw.org.tw/p/26998 #彰化 #立法委員 #第二選區 #黃秀芳 #小額捐款 👉懇請 #小額捐款挺秀芳https://n.gomypay.asia/Hsiu_fang.aspx 　 #黃秀芳政治獻金專戶 帳戶名稱：109年立法委員擬參選人黃秀芳政治獻金專戶 合作金庫 彰化分行 0230 717 148075",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/71719773_1019632705034910_8121971306368335872_n.jpg?_nc_cat=105&_nc_ohc=5IJy0KTSpLQAQkviT9IaXv_0UHaZAKpHwTsqMQK5Ztny7xxgi5NALNfZQ&_nc_ht=scontent-hkg3-1.xx&oh=8227e58f3c9c06a80dbde2f351f80638&oe=5E76C3DB",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/71719773_1019632705034910_8121971306368335872_n.jpg?_nc_cat=105&_nc_ohc=-q5yt6qRa-kAQkb8AGWv2AMaFdJyEVlMI-ajUeR8vp-dHeemi7kz4gjww&_nc_ht=scontent-hkg3-1.xx&oh=e371e9349d250a06f21f63c62e670853&oe=5E76C3DB",
     "廣告詳情": {
       "ad_creative_body": "秀芳再度獲選「公督盟優秀立委」🎉🎉\n\n📢長年關心立委問政的公民監督國會聯盟，發表第九屆第七會期各委員會的優秀立委名單，秀芳受到公督盟的肯定，評定優秀立委💪\n感謝公督盟，更要感謝好朋友們給秀芳的支持與鼓勵❤\n秀芳會持續努力關心地方👀專心問政👍守護家園🤝\n✅新聞連結:公督盟記者會新聞稿\nhttp://www.ccw.org.tw/p/26998\n#彰化 #立法委員 #第二選區 #黃秀芳 #小額捐款\n\n👉懇請 #小額捐款挺秀芳\nhttps://n.gomypay.asia/Hsiu_fang.aspx\n　\n#黃秀芳政治獻金專戶\n帳戶名稱：109年立法委員擬參選人黃秀芳政治獻金專戶\n合作金庫 彰化分行 0230 717 148075",
       "ad_creation_time": "2019-11-12T08:34:05+0000",
@@ -2861,7 +2882,8 @@
       "spend": {
         "lower_bound": "2000",
         "upper_bound": "2499"
-      }
+      },
+      "ad_id": "3173040056101563"
     }
   },
   {
@@ -2872,7 +2894,7 @@
     "開始日期": "2019-11-12",
     "結束日期": "2019-11-22",
     "廣告內容": "認真踏實 接地氣 彰化鐵路高架20年沒辦法解決的問題，秀芳立委任內努力爭取400億鐵路高架通過✅ 彰化的綠能發電，政府補助3億3千萬，未來三年彰化縣一萬六千位學生，營養午餐不用錢✅，風電完成後，彰化縣政府每年可以獲得三億以上的經費，繼續發展彰化✅ 秀芳從政以來，都秉持著用心聽、認真做，對的事情、對人民好的事情，絕不妥協🙅‍♀，在立法院審預算時，面對在野黨無理的杯葛、丟水球、撒麵粉，秀芳從不畏懼💪，依然要為人民謀取最好的福利，反觀當時無理杯葛的在野黨，卻反過頭來爭取經費，令人不解🤦‍♀ 選舉剩下60天，秀芳會持續奮鬥，讓正向的力量留在立法院，也請各位好朋友要多幫秀芳拉票，推薦秀芳給您們的朋友👊👊 立委要贏 國會過半 國家繼續向前行 快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家👍https://line.me/R/ti/p/%40smilefang #彰化 #花壇 #芬園 #立法委員 #黃秀芳 #蔡英文 #2020台灣要贏 #第二選區",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/77688595_531011900845151_2426583323112374272_n.jpg?_nc_cat=103&_nc_ohc=jbz0rd8hm-4AQm4movqihRsvkZS5p9N6NEMhwKS7EN7SpEMik8CP1qtFw&_nc_ht=scontent-hkg3-1.xx&oh=9b823272a768ff121918238ed3523e5d&oe=5E81B88C",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/77688595_531011900845151_2426583323112374272_n.jpg?_nc_cat=103&_nc_ohc=acMZs2V48pkAQnUnUPGZPhB4pyY2E8ZdWS6gXj0TAQ49sa-CisZDOYgdg&_nc_ht=scontent-hkg3-1.xx&oh=8076c84121229390c3d85dd6231461d2&oe=5E81B88C",
     "廣告詳情": {
       "ad_creative_body": "認真踏實 接地氣\n\n彰化鐵路高架20年沒辦法解決的問題，秀芳立委任內努力爭取400億鐵路高架通過✅\n彰化的綠能發電，政府補助3億3千萬，未來三年彰化縣一萬六千位學生，營養午餐不用錢✅，風電完成後，彰化縣政府每年可以獲得三億以上的經費，繼續發展彰化✅\n\n秀芳從政以來，都秉持著用心聽、認真做，對的事情、對人民好的事情，絕不妥協🙅‍♀，在立法院審預算時，面對在野黨無理的杯葛、丟水球、撒麵粉，秀芳從不畏懼💪，依然要為人民謀取最好的福利，反觀當時無理杯葛的在野黨，卻反過頭來爭取經費，令人不解🤦‍♀\n\n選舉剩下60天，秀芳會持續奮鬥，讓正向的力量留在立法院，也請各位好朋友要多幫秀芳拉票，推薦秀芳給您們的朋友👊👊\n\n立委要贏 國會過半 國家繼續向前行\n\n快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家👍\nhttps://line.me/R/ti/p/%40smilefang\n#彰化 #花壇 #芬園 #立法委員 #黃秀芳 #蔡英文 #2020台灣要贏 #第二選區",
       "ad_creation_time": "2019-11-12T08:14:20+0000",
@@ -3063,7 +3085,8 @@
       "spend": {
         "lower_bound": "2000",
         "upper_bound": "2499"
-      }
+      },
+      "ad_id": "429800894601685"
     }
   },
   {
@@ -3074,7 +3097,7 @@
     "開始日期": "2019-11-13",
     "結束日期": "2019-11-18",
     "廣告內容": "「藥不藥‧一念間」反毒行動博物館巡迴特展自10月29日起至11月29日在彰化盛大展出，本次巡迴特展由法務部、教育部、衛福部食藥署及科博館，結合民間資源共同打造，巡迴各縣市。展覽內容包含「藥到命除」、「真藥命」、「不藥臉」、「藥損大腦」、「藥損人體」、「藥害影片」、「藥你上當」、「藥命的謊言」、「不藥，千萬不藥」、「藥害的陰影」8大主題展區。 秀芳今天特別邀請曾經擔任醫師的行政院 陳其邁 Chen Chi-Mai 副院長到彰化一同參觀反毒行動博物館，秀芳表示，反毒是個不分年齡、不分立場、不分中央地方的重要議題，非常感謝陳其邁副院長跟她一樣關心毒品可能帶來的危害，也願意答應她的邀請到彰化來一起為反毒盡一分力。 「藥不藥‧一念間」 黃秀芳、陳其邁參觀反毒行動博物館<台灣好新聞>https://ppt.cc/fM1p5x 陳其邁看藍營立委布局「一頭霧水」：候選人有反毒也有毒品前科犯< ETTODAY>https://www.ettoday.net/news/20191113/1578815.htm 吳敦義列國民黨不分區第8 陳其邁：只有驚奇和一頭霧水<聯合新聞網>https://video.udn.com/news/1160370 吳敦義列不分區第8超安全名單 陳其邁：實在很奇怪<自由時報>https://m.ltn.com.tw/news/politics/breakingnews/2976255",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76940268_1056749107989936_7768098861972717568_n.jpg?_nc_cat=105&_nc_ohc=NuW091yLcvIAQkEdcK9_-ZTf17lUhhyixj1xAvvIysgmGYOriU4u4RbvA&_nc_ht=scontent-hkg3-1.xx&oh=4f330b09e266022bbb31aaa6928011aa&oe=5E8B24C2",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76940268_1056749107989936_7768098861972717568_n.jpg?_nc_cat=105&_nc_oc=AQmza-J8Uem75frDuYCNSvdDDR7ELWlelGHcbNVz1kFShak_1MFXowhuDtwam7OIW9I&_nc_ht=scontent-hkg3-1.xx&oh=ad0e3246c662cb7d6a341ad8196978b8&oe=5EB2B1C2",
     "廣告詳情": {
       "ad_creative_body": "「藥不藥‧一念間」反毒行動博物館巡迴特展自10月29日起至11月29日在彰化盛大展出，本次巡迴特展由法務部、教育部、衛福部食藥署及科博館，結合民間資源共同打造，巡迴各縣市。展覽內容包含「藥到命除」、「真藥命」、「不藥臉」、「藥損大腦」、「藥損人體」、「藥害影片」、「藥你上當」、「藥命的謊言」、「不藥，千萬不藥」、「藥害的陰影」8大主題展區。\n\n秀芳今天特別邀請曾經擔任醫師的行政院 陳其邁 Chen Chi-Mai 副院長到彰化一同參觀反毒行動博物館，秀芳表示，反毒是個不分年齡、不分立場、不分中央地方的重要議題，非常感謝陳其邁副院長跟她一樣關心毒品可能帶來的危害，也願意答應她的邀請到彰化來一起為反毒盡一分力。\n\n「藥不藥‧一念間」 黃秀芳、陳其邁參觀反毒行動博物館<台灣好新聞>\nhttps://ppt.cc/fM1p5x\n\n陳其邁看藍營立委布局「一頭霧水」：候選人有反毒也有毒品前科犯< ETTODAY>\nhttps://www.ettoday.net/news/20191113/1578815.htm\n\n吳敦義列國民黨不分區第8 陳其邁：只有驚奇和一頭霧水<聯合新聞網>\nhttps://video.udn.com/news/1160370\n\n吳敦義列不分區第8超安全名單 陳其邁：實在很奇怪<自由時報>\nhttps://m.ltn.com.tw/news/politics/breakingnews/2976255",
       "ad_creation_time": "2019-11-14T04:55:48+0000",
@@ -3179,7 +3202,8 @@
       "spend": {
         "lower_bound": "1000",
         "upper_bound": "1499"
-      }
+      },
+      "ad_id": "1152891441570630"
     }
   },
   {
@@ -3190,7 +3214,7 @@
     "開始日期": "2019-11-17",
     "結束日期": "2019-11-27",
     "廣告內容": "【 護國會 保台灣｜全記錄 】彰化要贏 第 2 選區 黃秀芳 　 「用心聽，認真做」- 黃秀芳，關心幼兒教育、長照政策，致力減輕家長負擔，主張捍衛食品安全，提升在地觀光品質，也是公督盟評鑑的社福衛環優秀立委，請大家繼續支持立法委員黃秀芳！ 　 黃秀芳🔺彰化第 2 選區：彰化市、花壇鄉、芬園鄉 　 ✅ 捍衛食安杜絕黑心 ✅ 觀光加值健康活力 　 #護國會保台灣 #2020台灣要贏 　 📍︱出席黃秀芳競總成立 卓榮泰：國會北中南東四大戰區 守住中部 就不會輸中國︱ 📎 http://bit.ly/2pk1GLp 　 📢 印有護國神獸台灣獅與客家獅的超限量掃街文宣品「台灣好浴皂」，即日起將由民進黨籍 70 個選區立委參選人發送，敬請關注在地候選人最新動態！ 　 👉保台三步驟　你我一起做： 1️⃣ 2020總統選蔡英文 Tsai Ing-wen 　 2️⃣ 政黨票選民主進步黨 　 3️⃣ #立委選民進黨提名推薦的候選人 - ＃彰化縣立委參選人 🈶 陳秀寳（鹿港福興、秀水和美、伸港線西） 🈶 黃秀芳（彰化市、花壇、芬園） 🈶 洪宗熠（北斗埤頭、溪洲二林、竹塘大城、芳苑溪湖、埔心埔鹽） 🈶 陳素月（員林市、田中鎮、大村、永靖、社頭、二水、田尾）",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78075742_450503065650583_4286097432619515904_n.jpg?_nc_cat=100&_nc_ohc=Wm90Uj1VrEgAQkmipDk-NbKUupDkIyeU8PI65O31Q-j4d6A2PUapsH1YA&_nc_ht=scontent-hkg3-1.xx&oh=29a0398b9416673bf2d1a6dfb3b5ce5d&oe=5E8C0320",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78075742_450503065650583_4286097432619515904_n.jpg?_nc_cat=100&_nc_ohc=vwS7xzsFoVYAQkVU2NS6gvm6uKlUeMStwzv-QjqXlg5f-ZuNVI_GlCh9w&_nc_ht=scontent-hkg3-1.xx&oh=d356c69c0e011227d888808be0bc2a6c&oe=5EB39020",
     "廣告詳情": {
       "ad_creative_body": "【 護國會 保台灣｜全記錄 】彰化要贏 第 2 選區 黃秀芳\n　\n「用心聽，認真做」- 黃秀芳，關心幼兒教育、長照政策，致力減輕家長負擔，主張捍衛食品安全，提升在地觀光品質，也是公督盟評鑑的社福衛環優秀立委，請大家繼續支持立法委員黃秀芳！\n　\n黃秀芳🔺彰化第 2 選區：彰化市、花壇鄉、芬園鄉\n　\n✅ 捍衛食安杜絕黑心\n✅ 觀光加值健康活力\n　\n#護國會保台灣\n#2020台灣要贏\n　\n📍︱出席黃秀芳競總成立 卓榮泰：國會北中南東四大戰區 守住中部 就不會輸中國︱\n📎 http://bit.ly/2pk1GLp\n　\n📢 印有護國神獸台灣獅與客家獅的超限量掃街文宣品「台灣好浴皂」，即日起將由民進黨籍 70 個選區立委參選人發送，敬請關注在地候選人最新動態！\n　\n👉保台三步驟　你我一起做：\n1️⃣ 2020總統選蔡英文 Tsai Ing-wen 　\n2️⃣ 政黨票選民主進步黨 　\n3️⃣ #立委選民進黨提名推薦的候選人\n\n-\n＃彰化縣立委參選人\n🈶 陳秀寳（鹿港福興、秀水和美、伸港線西）\n🈶 黃秀芳（彰化市、花壇、芬園）\n🈶 洪宗熠（北斗埤頭、溪洲二林、竹塘大城、芳苑溪湖、埔心埔鹽）\n🈶 陳素月（員林市、田中鎮、大村、永靖、社頭、二水、田尾）",
       "ad_creation_time": "2019-11-18T07:34:43+0000",
@@ -3306,7 +3330,8 @@
       "spend": {
         "lower_bound": "2000",
         "upper_bound": "2499"
-      }
+      },
+      "ad_id": "450503048983918"
     }
   },
   {
@@ -3317,7 +3342,7 @@
     "開始日期": "2019-11-17",
     "結束日期": "2019-11-20",
     "廣告內容": "今天早上黃秀芳、洪宗熠、陳素月、陳秀寶正式前往選委會登記，民進黨秘書長羅文嘉特地來到彰化與四位立委參選人手持布條一起從成功活動中心步行到彰化選委會。 熱情的支持者們一路陪同參選人踏著穩健的步伐前進，黃秀芳委員強調，這次的選舉十分重要，彰化的每一席立委都是關鍵，希望支持者們可以將手中的票投給民進黨的候選人，政黨票投民進黨，用選票支持蔡英文、黃秀芳連任，繼續為台灣、彰化打拼！ 2020 台灣要贏，總統連任．立委全上！ #2020台灣要贏 #彰化芬園花壇 #第二選區 #立法委員 #黃秀芳  快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家🎉https://line.me/R/ti/p/%40smilefang",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/75246802_1061226600875520_2869524855127015424_n.jpg?_nc_cat=100&_nc_ohc=Nhb1eW-fk2wAQn2cz1lm4JKCWBK5pNODaNG3UE_frZPhaxtAi05M2iTPw&_nc_ht=scontent-hkg3-1.xx&oh=53c6202bf7da9791ec11a738ced1fa28&oe=5E78FA62",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/75246802_1061226600875520_2869524855127015424_n.jpg?_nc_cat=100&_nc_ohc=J8fhNj6H3pUAQn6hnysxPEPV-WjoQ2sn-6qhaaMC-qevQoAQv1Q4DF19Q&_nc_ht=scontent-hkg3-1.xx&oh=b25f9174bd4387c1f4818b4dd0110c61&oe=5E78FA62",
     "廣告詳情": {
       "ad_creative_body": "今天早上黃秀芳、洪宗熠、陳素月、陳秀寶正式前往選委會登記，民進黨秘書長羅文嘉特地來到彰化與四位立委參選人手持布條一起從成功活動中心步行到彰化選委會。\n\n熱情的支持者們一路陪同參選人踏著穩健的步伐前進，黃秀芳委員強調，這次的選舉十分重要，彰化的每一席立委都是關鍵，希望支持者們可以將手中的票投給民進黨的候選人，政黨票投民進黨，用選票支持蔡英文、黃秀芳連任，繼續為台灣、彰化打拼！\n\n2020 台灣要贏，總統連任．立委全上！\n\n#2020台灣要贏 #彰化芬園花壇 #第二選區 #立法委員 #黃秀芳 \n\n快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家🎉\nhttps://line.me/R/ti/p/%40smilefang",
       "ad_creation_time": "2019-11-18T07:18:00+0000",
@@ -3407,7 +3432,8 @@
       "spend": {
         "lower_bound": "600",
         "upper_bound": "699"
-      }
+      },
+      "ad_id": "476247743238271"
     }
   },
   {
@@ -3418,7 +3444,7 @@
     "開始日期": "2019-11-21",
     "結束日期": "2019-11-26",
     "廣告內容": "「藥不藥‧一念間」反毒行動博物館巡迴特展目前正在彰化盛大展出，本次巡迴特展由法務部、教育部、衛福部食藥署及科博館，結合民間資源共同打造，巡迴各縣市，近日行政院副院長 陳其邁 Chen Chi-Mai到彰化特地前往視察，並親自體驗反毒行動博物館各項宣導設備。 ★展出期間：108年10月29日(二) ~ 11月29日(五)  【每週一休館】 ★展出時間：平日 9:30-16:30 / 週末 10:00-16:00 ★展出地點：彰化縣立圖書館前廣場 (彰化縣彰化市中山路二段500號)",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78212319_531342960750059_3130066264316182528_n.jpg?_nc_cat=110&_nc_ohc=RGP-SLZZEU8AQmysE1ZNaUZszuaoOI5W7cp9WCPeYNszysqLUVPSmT9Vw&_nc_ht=scontent-hkg3-1.xx&oh=7fa593d3925f61c175c76d41abe98352&oe=5E8BA247",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/78212319_531342960750059_3130066264316182528_n.jpg?_nc_cat=110&_nc_ohc=g4V0o3HJn2AAQnV4Mytmx0_--Y1tRp8rf0FT3FhuFnI7SkZ7aHEF45sRQ&_nc_ht=scontent-hkg3-2.xx&oh=be1c5b347c2ac2025b5d519f2b20a023&oe=5EB32F47",
     "廣告詳情": {
       "ad_creative_body": "「藥不藥‧一念間」反毒行動博物館巡迴特展目前正在彰化盛大展出，本次巡迴特展由法務部、教育部、衛福部食藥署及科博館，結合民間資源共同打造，巡迴各縣市，近日行政院副院長 陳其邁 Chen Chi-Mai到彰化特地前往視察，並親自體驗反毒行動博物館各項宣導設備。\n\n★展出期間：108年10月29日(二) ~ 11月29日(五)  【每週一休館】\n★展出時間：平日 9:30-16:30 / 週末 10:00-16:00\n★展出地點：彰化縣立圖書館前廣場 (彰化縣彰化市中山路二段500號)",
       "ad_creation_time": "2019-11-22T03:33:03+0000",
@@ -3534,7 +3560,8 @@
       "spend": {
         "lower_bound": "1000",
         "upper_bound": "1499"
-      }
+      },
+      "ad_id": "531342844083404"
     }
   },
   {
@@ -3545,7 +3572,7 @@
     "開始日期": "2019-11-20",
     "結束日期": "2019-11-22",
     "廣告內容": "這三年來，無論是在轉型正義、社會住宅、青年就業又或者是各個層面社會體質的健全，綠色執政都秉持著認真打拼的精神，腳踏實地的做事。 尤其是面對到紅色勢力的打壓，蔡英文總統所領導的政府更堅守台灣主權，從未退讓，讓台灣人民習以為常的自由民主繼續延續下去。 11月24日，歡迎所有鄉親朋友在這一天來到彰化市永安夜市(自強路與永安街口)共襄盛舉，一起支持會做事的人、一起支持台灣隊。 秀芳將會和各位分享這三年多來的努力和接下來的願景👍🏻 期待11/17與您相見👀 👉懇請 #小額捐款挺秀芳https://n.gomypay.asia/Hsiu_fang.aspx #黃秀芳政治獻金專戶 帳戶名稱：109年立法委員擬參選人黃秀芳政治獻金專戶 合作金庫 彰化分行 0230 717 148075 快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家👍https://line.me/R/ti/p/%40smilefang #彰化 #花壇 #芬園 #立法委員 #黃秀芳 #蔡英文 #2020台灣要贏 #第二選區",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76706776_1063938093937704_6224524861746708480_n.jpg?_nc_cat=108&_nc_ohc=O1HBpxojMBUAQk1Ywf7QoxGxNblYTAsOYMrrCUw7OiGgTfKH6YpcEdFwQ&_nc_ht=scontent-hkg3-1.xx&oh=c14ffc5d3c5578301f014fcc29b1b7e5&oe=5E86FE69",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76706776_1063938093937704_6224524861746708480_n.jpg?_nc_cat=108&_nc_ohc=WOjgzZ03d60AQk1sBdwBln-1zXTgDoJnMkIlpEFLypVauHL8EnbqXcIwg&_nc_ht=scontent-hkg3-1.xx&oh=9a611258cf874a07856e622214bb155a&oe=5EAE8B69",
     "廣告詳情": {
       "ad_creative_body": "這三年來，無論是在轉型正義、社會住宅、青年就業又或者是各個層面社會體質的健全，綠色執政都秉持著認真打拼的精神，腳踏實地的做事。\n\n尤其是面對到紅色勢力的打壓，蔡英文總統所領導的政府更堅守台灣主權，從未退讓，讓台灣人民習以為常的自由民主繼續延續下去。\n\n11月24日，歡迎所有鄉親朋友在這一天來到彰化市永安夜市(自強路與永安街口)共襄盛舉，一起支持會做事的人、一起支持台灣隊。\n\n秀芳將會和各位分享這三年多來的努力和接下來的願景👍🏻\n期待11/17與您相見👀\n👉懇請 #小額捐款挺秀芳\nhttps://n.gomypay.asia/Hsiu_fang.aspx\n#黃秀芳政治獻金專戶\n帳戶名稱：109年立法委員擬參選人黃秀芳政治獻金專戶\n合作金庫 彰化分行 0230 717 148075\n快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家👍\nhttps://line.me/R/ti/p/%40smilefang\n#彰化 #花壇 #芬園 #立法委員 #黃秀芳 #蔡英文 #2020台灣要贏 #第二選區",
       "ad_creation_time": "2019-11-21T05:00:38+0000",
@@ -3640,7 +3667,8 @@
       "spend": {
         "lower_bound": "500",
         "upper_bound": "599"
-      }
+      },
+      "ad_id": "460980764555578"
     }
   },
   {
@@ -3651,7 +3679,7 @@
     "開始日期": "2019-11-22",
     "結束日期": "2019-11-27",
     "廣告內容": "秀芳今天晚上跟著服務團隊一起到彰化市東區，跟大家問候請安👋👋👋 選舉剩下53天，秀芳會認真努力💪 讓正向的力量留在立法院，繼續為大家服務🙏🙏 #2020台灣要贏 #護國會保台灣 #彰化芬園花壇 #第二選區 #立法委員 #黃秀芳",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76916309_1062407664090747_6257909569524072448_n.jpg?_nc_cat=102&_nc_ohc=sQOcLIBxa7sAQm95JjrnrVpbOGlqi20R827XvNO1oRs6CkzirZBTL3weQ&_nc_ht=scontent-hkg3-1.xx&oh=a2d29f944f29b06e11e70770d21c61ec&oe=5E82A2D1",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76916309_1062407664090747_6257909569524072448_n.jpg?_nc_cat=102&_nc_ohc=6pa3klHkAJcAQmBivVq2f9vU8VDtzJ8kGEc0KYGOm6lo6SfTc8J4IqGDw&_nc_ht=scontent-hkg3-1.xx&oh=7c66875952507cb02b267b6bf2dd2e91&oe=5EAA2FD1",
     "廣告詳情": {
       "ad_creative_body": "秀芳今天晚上跟著服務團隊一起到彰化市東區，跟大家問候請安👋👋👋\n選舉剩下53天，秀芳會認真努力💪\n讓正向的力量留在立法院，繼續為大家服務🙏🙏\n\n#2020台灣要贏 #護國會保台灣 #彰化芬園花壇 #第二選區 #立法委員 #黃秀芳",
       "ad_creation_time": "2019-11-23T02:51:58+0000",
@@ -3751,7 +3779,8 @@
       "spend": {
         "lower_bound": "500",
         "upper_bound": "599"
-      }
+      },
+      "ad_id": "444153012967838"
     }
   },
   {
@@ -3762,7 +3791,7 @@
     "開始日期": "2019-11-22",
     "結束日期": "2019-11-27",
     "廣告內容": "秀芳現在在延平公園與長輩、好朋友們座談，歡迎大家一起來參加💪💪💪 快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家🎉https://line.me/R/ti/p/%40smilefang",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/75627561_1064203590577821_6340085934712684544_n.jpg?_nc_cat=100&_nc_ohc=6ksZ6ragdfwAQl6tXBMBthXyO4vVnF82ntQ1aOkLFlBiD72k8gxH18E2g&_nc_ht=scontent-hkg3-1.xx&oh=89cc05056d87b26e4132f683b9f2de9d&oe=5E80F2AF",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/75627561_1064203590577821_6340085934712684544_n.jpg?_nc_cat=100&_nc_ohc=L2OUUG3SYIAAQmy5JeYdnAXdW5h1X4rJNA1WY-gUNeZUrBzUcmdlzGL3g&_nc_ht=scontent-hkg3-1.xx&oh=e448be269d8e5a91688bd876c9470f26&oe=5EA87FAF",
     "廣告詳情": {
       "ad_creative_body": "秀芳現在在延平公園與長輩、好朋友們座談，歡迎大家一起來參加💪💪💪\n\n快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家🎉\nhttps://line.me/R/ti/p/%40smilefang",
       "ad_creation_time": "2019-11-23T02:51:32+0000",
@@ -3862,7 +3891,8 @@
       "spend": {
         "lower_bound": "500",
         "upper_bound": "599"
-      }
+      },
+      "ad_id": "1005062599848794"
     }
   },
   {
@@ -3873,7 +3903,7 @@
     "開始日期": "2019-11-22",
     "結束日期": "2019-11-27",
     "廣告內容": "秀芳與市民代表屈炳秋、周平，晚上在西區跟好朋友們請安問好👋👋👋 明天西區後援會（自強南路停車場旁）成立，秀芳邀請大家一起來參加，立法院副院長 蔡其昌 、衛福部部長陳時中、民進黨不分區第一位 立法委員吳玉琴都會來幫秀芳贊聲🎤🎤 現場備有風味餐、充氣溜滑梯，期待您一同參與🥰 快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家🎉https://line.me/R/ti/p/%40smilefang",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78770988_1065139970484183_4004202734524825600_n.jpg?_nc_cat=107&_nc_ohc=bH7KZ7lMsNEAQkUSBvlOLanNpsJVGswMvJnSsBU6YLGu-oMJgYqj7sYiQ&_nc_ht=scontent-hkg3-1.xx&oh=ba7bbdba8ebb2b690f751f8dc0feed19&oe=5E72E21D",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/78770988_1065139970484183_4004202734524825600_n.jpg?_nc_cat=107&_nc_ohc=sVJafej6HqgAQlo4gCMTU3VJaudqYQnG9WnxXlCdB1KKYDhACy5jksR5A&_nc_ht=scontent-hkg3-2.xx&oh=24542e0f5fad19fee2e82b7e593c9fdd&oe=5E72E21D",
     "廣告詳情": {
       "ad_creative_body": "秀芳與市民代表屈炳秋、周平，晚上在西區跟好朋友們請安問好👋👋👋\n\n明天西區後援會（自強南路停車場旁）成立，秀芳邀請大家一起來參加，立法院副院長 蔡其昌 、衛福部部長陳時中、民進黨不分區第一位 立法委員吳玉琴都會來幫秀芳贊聲🎤🎤\n\n現場備有風味餐、充氣溜滑梯，期待您一同參與🥰\n\n快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家🎉\nhttps://line.me/R/ti/p/%40smilefang",
       "ad_creation_time": "2019-11-23T02:51:05+0000",
@@ -3968,7 +3998,8 @@
       "spend": {
         "lower_bound": "500",
         "upper_bound": "599"
-      }
+      },
+      "ad_id": "579333756228913"
     }
   },
   {
@@ -3979,7 +4010,7 @@
     "開始日期": "2019-11-22",
     "結束日期": "2019-11-27",
     "廣告內容": "總統蔡英文、立法委員黃秀芳西區後援會（自強南路停車場）成立👍👍 現場備有風味餐、充氣溜滑梯！！ 歡迎大家一起來參加💪",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/77063940_1065813117083535_5094377687514873856_n.jpg?_nc_cat=104&_nc_ohc=jDqbJzxYq1QAQkci1x53AB0Zw36EmqijyiJ1PxFKEUX8V7oELb0TdMsXw&_nc_ht=scontent-hkg3-1.xx&oh=4ef6069045ca9df80bffdd92ce2ecac5&oe=5E40C876",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/77063940_1065813117083535_5094377687514873856_n.jpg?_nc_cat=104&_nc_ohc=xiPAyd92twAAQnDir_p_XzYySPoKZangP1ZZ9r5ZCHkLzVQAbMw4QjN_A&_nc_ht=scontent-hkg3-1.xx&oh=5b6ef5e93ad20afecde37883a6aa6c64&oe=5E685576",
     "廣告詳情": {
       "ad_creative_body": "總統蔡英文、立法委員黃秀芳西區後援會（自強南路停車場）成立👍👍\n現場備有風味餐、充氣溜滑梯！！\n歡迎大家一起來參加💪",
       "ad_creation_time": "2019-11-23T02:50:41+0000",
@@ -4084,7 +4115,8 @@
       "spend": {
         "lower_bound": "500",
         "upper_bound": "599"
-      }
+      },
+      "ad_id": "560732574725320"
     }
   },
   {
@@ -4095,7 +4127,7 @@
     "開始日期": "2019-11-24",
     "結束日期": "2019-12-04",
     "廣告內容": "秀芳和小英總統的競選總部成立，圓滿成功🎉🎉 感謝今天到現場、網路上看直播幫秀芳、小英總統加油打氣的好朋友，謝謝你們頂住炎熱的太陽☀你們的熱情秀芳都有收到，選舉剩下48天，讓我們一起努力💪一起為台灣加油、彰化打拼👊👊 我們都是台灣隊✊✊ 最後要謝謝今天辛苦的志工、工作人員，有你們的大力協助、活動場地的善後，才有今天圓滿的活動❤謝謝你們 👉懇請 #小額捐款挺秀芳https://n.gomypay.asia/Hsiu_fang.aspx #黃秀芳政治獻金專戶 帳戶名稱：109年立法委員擬參選人黃秀芳政治獻金專戶 合作金庫 彰化分行 0230 717 148075 快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家👍https://line.me/R/ti/p/%40smilefang #2020台灣要贏 #護國會保台灣 #彰化芬園花壇 #第二選區 #立法委員 #黃秀芳 #台灣隊 蔡英文 Tsai Ing-wen",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/72266546_1067098753621638_551035172976328704_n.jpg?_nc_cat=104&_nc_ohc=OvHPXdI9Jl4AQk59kQJ-zux5DEIf-dJdWw2-Aiu8nLYQlAMb8s8B23I1w&_nc_ht=scontent-hkg3-1.xx&oh=199fda3a392a018acd10ad98801d5a00&oe=5E828370",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/72266546_1067098753621638_551035172976328704_n.jpg?_nc_cat=104&_nc_ohc=4-kJzG1fiKgAQnGYLsWMR6gc8iKjZE6_qxTaXJisZQft8Aso3QqC9teVA&_nc_ht=scontent-hkg3-1.xx&oh=45f12bbd18d8685634fc6a12d37b4548&oe=5EAA1070",
     "廣告詳情": {
       "ad_creative_body": "秀芳和小英總統的競選總部成立，圓滿成功🎉🎉\n\n感謝今天到現場、網路上看直播幫秀芳、小英總統加油打氣的好朋友，謝謝你們頂住炎熱的太陽☀你們的熱情秀芳都有收到，選舉剩下48天，讓我們一起努力💪一起為台灣加油、彰化打拼👊👊\n我們都是台灣隊✊✊\n\n最後要謝謝今天辛苦的志工、工作人員，有你們的大力協助、活動場地的善後，才有今天圓滿的活動❤謝謝你們\n\n👉懇請 #小額捐款挺秀芳\nhttps://n.gomypay.asia/Hsiu_fang.aspx\n#黃秀芳政治獻金專戶\n帳戶名稱：109年立法委員擬參選人黃秀芳政治獻金專戶\n合作金庫 彰化分行 0230 717 148075\n\n快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家👍\nhttps://line.me/R/ti/p/%40smilefang\n\n#2020台灣要贏 #護國會保台灣 #彰化芬園花壇 #第二選區 #立法委員 #黃秀芳 #台灣隊 蔡英文 Tsai Ing-wen",
       "ad_creation_time": "2019-11-24T09:15:01+0000",
@@ -4286,7 +4318,8 @@
       "spend": {
         "lower_bound": "2000",
         "upper_bound": "2499"
-      }
+      },
+      "ad_id": "2458392241115662"
     }
   },
   {
@@ -4297,7 +4330,7 @@
     "開始日期": "2019-11-25",
     "結束日期": "2019-11-29",
     "廣告內容": "大家趕快看過來，11月30日也就是本周六的下午，秀芳要在金馬公園舉辦一個足球派對嘉年華⚽⚽ 我們設計了12個趣味關卡賽🏆 想要趁假日來點適度運動伸展筋骨的朋友們千萬別錯過👀👀 也歡迎各位爸爸媽媽帶著孩子們一起來挑戰💪 闖關成功者，可獲得精美小禮品一份，期待11/30與您見面 讓我們一同踢出 2020 WIN！ 👉活動資訊： 11/30(六)下午15:00→彰化市金馬公園(彰化市安平街96號) 👉活動報到時間： 🔺11/30報到時間–下午14:30 活動費用:免費❗❗ 1.請務必確認聯絡資訊正確認性，如門號有阻擋企業簡訊者，請來電或私訊粉絲專頁詢問 2.活動當天，請幫家中小寶貝穿著適合戶外運動之服裝 3.為避免浪費資源，報名後請務必出席，無故取消者，未來將不再受理後續活動報名。 4.如報名後不便前來參加活動，請私訊粉專頁 5.活動簡訊請勿轉傳，轉傳無效 6.本活動如遇雨將取消。 👉聯絡方式： ☎️電話：04-7280980（黃秀芳立委服務處） 黃秀芳立委粉絲專頁：https://www.facebook.com/smilefangfang/?ref=bookmarks 黃秀芳立委Line好友連結：https://line.me/R/ti/p/%40smilefang",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78497606_709187299491128_203494639951413248_n.jpg?_nc_cat=109&_nc_ohc=2XjyeC1XLZ4AQlkFPKwtxpgwqpHy84a6BqGaykSkkzMcG4N6HPn5anQrg&_nc_ht=scontent-hkg3-1.xx&oh=0030432b003d8d77619ec2d4687b1242&oe=5E87C7EE",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/s600x600/78497606_709187299491128_203494639951413248_n.jpg?_nc_cat=109&_nc_ohc=ehERCi1VviIAQm22QasLbr3xtJ2HkjGL2-aPK1_5GTcScxVal9meJoUmg&_nc_ht=scontent-hkg3-2.xx&oh=6d53112eb09ceab19cbc5ed31c773c77&oe=5EAF54EE",
     "廣告詳情": {
       "ad_creative_body": "大家趕快看過來，11月30日也就是本周六的下午，秀芳要在金馬公園舉辦一個足球派對嘉年華⚽⚽\n\n我們設計了12個趣味關卡賽🏆\n想要趁假日來點適度運動伸展筋骨的朋友們千萬別錯過👀👀\n也歡迎各位爸爸媽媽帶著孩子們一起來挑戰💪\n闖關成功者，可獲得精美小禮品一份，期待11/30與您見面\n\n讓我們一同踢出 2020 WIN！\n\n👉活動資訊：\n11/30(六)下午15:00→彰化市金馬公園(彰化市安平街96號)\n👉活動報到時間：\n🔺11/30報到時間–下午14:30\n活動費用:免費❗❗\n\n1.請務必確認聯絡資訊正確認性，如門號有阻擋企業簡訊者，請來電或私訊粉絲專頁詢問\n2.活動當天，請幫家中小寶貝穿著適合戶外運動之服裝\n3.為避免浪費資源，報名後請務必出席，無故取消者，未來將不再受理後續活動報名。\n4.如報名後不便前來參加活動，請私訊粉專頁\n5.活動簡訊請勿轉傳，轉傳無效\n6.本活動如遇雨將取消。\n\n👉聯絡方式：\n☎️電話：04-7280980（黃秀芳立委服務處）\n黃秀芳立委粉絲專頁：https://www.facebook.com/smilefangfang/?ref=bookmarks\n黃秀芳立委Line好友連結：https://line.me/R/ti/p/%40smilefang",
       "ad_creation_time": "2019-11-25T09:44:19+0000",
@@ -4415,7 +4448,8 @@
       "spend": {
         "lower_bound": "1000",
         "upper_bound": "1499"
-      }
+      },
+      "ad_id": "709187286157796"
     }
   },
   {
@@ -4426,7 +4460,7 @@
     "開始日期": "2019-11-25",
     "結束日期": "2019-11-30",
     "廣告內容": "蔡英文指出，「彰化隊」所提名的黃秀芳、陳素月、洪宗熠與陳秀寶，都是專業、清廉、服務有口碑，經得起檢驗的參選人，反觀國民黨提名的人選當中，二個有前科，一個是財力雄厚的政治大家族，這種名單跟我們比起來，當然是我們比較好、比較強。 蔡英文強調，要讓彰化不一樣，讓彰化更進步，就要把壟斷的地方派系、舊的政治文化，全都「砍掉重練」，支持蔡英文，支持「彰化隊」，就是支持「彰化重生」。 蔡英文︰彰化重生 舊政治文化砍掉重練<自由時報>https://news.ltn.com.tw/news/politics/paper/1334390?fbclid=IwAR3vcYHG0ghH62E8ykYrLfDGU3yIRMaos1Ya5cy53V--FKxScFIvlrW9p5o 蔡英文彰化縣聯合競總成立 眾多支持者到場<中時電子報>https://www.chinatimes.com/realtimenews/20191124002084-260407?chdtv 對比國民黨人選 蔡英文讚「彰化隊」經得起檢驗<自由時報>https://news.ltn.com.tw/news/politics/breakingnews/2988279 蔡英文、黃秀芳彰化縣競選總部成立　當選聲不絕於耳<今日新聞>https://www.nownews.com/news/20191124/3775839/",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78694298_2569281103291176_1776212823664230400_n.jpg?_nc_cat=107&_nc_ohc=vBtyNIkMxLEAQnuy30ob6SxO89P3aL04SlpGn_jGogfXwLn2lAIIYFsWg&_nc_ht=scontent-hkg3-1.xx&oh=f2c41c834b3b3bf3a5967944dc195293&oe=5E3FB88C",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/s600x600/78694298_2569281103291176_1776212823664230400_n.jpg?_nc_cat=107&_nc_ohc=yopENinSubYAQlOhA1gvaQboXnShNjU3Xyfw59uyJrCV9SLaxXA3yB8nw&_nc_ht=scontent-hkg3-2.xx&oh=06a4e5d361e39a4114195423972e0bed&oe=5E67458C",
     "廣告詳情": {
       "ad_creative_body": "蔡英文指出，「彰化隊」所提名的黃秀芳、陳素月、洪宗熠與陳秀寶，都是專業、清廉、服務有口碑，經得起檢驗的參選人，反觀國民黨提名的人選當中，二個有前科，一個是財力雄厚的政治大家族，這種名單跟我們比起來，當然是我們比較好、比較強。\n\n蔡英文強調，要讓彰化不一樣，讓彰化更進步，就要把壟斷的地方派系、舊的政治文化，全都「砍掉重練」，支持蔡英文，支持「彰化隊」，就是支持「彰化重生」。\n\n蔡英文︰彰化重生 舊政治文化砍掉重練<自由時報>\nhttps://news.ltn.com.tw/news/politics/paper/1334390?fbclid=IwAR3vcYHG0ghH62E8ykYrLfDGU3yIRMaos1Ya5cy53V--FKxScFIvlrW9p5o\n\n蔡英文彰化縣聯合競總成立 眾多支持者到場<中時電子報>\nhttps://www.chinatimes.com/realtimenews/20191124002084-260407?chdtv\n\n對比國民黨人選 蔡英文讚「彰化隊」經得起檢驗<自由時報>\nhttps://news.ltn.com.tw/news/politics/breakingnews/2988279\n\n蔡英文、黃秀芳彰化縣競選總部成立　當選聲不絕於耳<今日新聞>\nhttps://www.nownews.com/news/20191124/3775839/",
       "ad_creation_time": "2019-11-25T08:37:23+0000",
@@ -4514,7 +4548,8 @@
       "spend": {
         "lower_bound": "0",
         "upper_bound": "99"
-      }
+      },
+      "ad_id": "2569274333291853"
     }
   },
   {
@@ -4525,7 +4560,7 @@
     "開始日期": "2019-11-26",
     "結束日期": "2019-11-30",
     "廣告內容": "秀芳邀請知名兒童劇團-蘋果劇團 12/1（日）15：00 在南郭國小(彰化市中興路98號) 演出「球球龜反毒大作戰」 秀芳期待與您一起欣賞精彩的表演👏👏 活動當天完成✅神秘任務，可兌換精美小禮物，數量有限，送完為止😁 本次活動開放網路報名，優先報名者，安排搖滾熱區座位 報名網址如下:https://forms.gle/XoXZKFEWn2Tj7jry5 #蘋果劇團 #南郭國小 #兒童劇 #立法委員 #黃秀芳 #彰化 快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家👍https://line.me/R/ti/p/%40smilefang",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/69885360_1069096520088528_5213865795108470784_n.jpg?_nc_cat=100&_nc_ohc=-k3S9SWGS0AAQnO_znCN3ZyoC_y-FcRSOXXP9_Zhd11mH0fAGEb1wY7mg&_nc_ht=scontent-hkg3-1.xx&oh=ab014a15a0f95a003ace7f708b6197bf&oe=5E6AEE22",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/69885360_1069096520088528_5213865795108470784_n.jpg?_nc_cat=100&_nc_ohc=TNI3OE6CIzkAQkqT684k8Xw65IVqRetODaiPWTk3iMfH6YQSg2FPeLBvA&_nc_ht=scontent-hkg3-1.xx&oh=6f51073f87618d1bc000336b6226ee3d&oe=5E6AEE22",
     "廣告詳情": {
       "ad_creative_body": "秀芳邀請知名兒童劇團-蘋果劇團\n12/1（日）15：00\n在南郭國小(彰化市中興路98號)\n演出「球球龜反毒大作戰」\n秀芳期待與您一起欣賞精彩的表演👏👏\n活動當天完成✅神秘任務，可兌換精美小禮物，數量有限，送完為止😁\n\n本次活動開放網路報名，優先報名者，安排搖滾熱區座位\n報名網址如下:\nhttps://forms.gle/XoXZKFEWn2Tj7jry5\n\n#蘋果劇團 #南郭國小 #兒童劇 #立法委員 #黃秀芳 #彰化\n\n快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家👍\nhttps://line.me/R/ti/p/%40smilefang",
       "ad_creation_time": "2019-11-26T09:17:36+0000",
@@ -4615,7 +4650,8 @@
       "spend": {
         "lower_bound": "1000",
         "upper_bound": "1499"
-      }
+      },
+      "ad_id": "459698508019503"
     }
   },
   {
@@ -4626,7 +4662,7 @@
     "開始日期": "2019-11-27",
     "結束日期": "2019-11-30",
     "廣告內容": "星期日(12/1)秀芳與小英總統的南區聯合後援會要成立了👍 歡迎各位好朋友星期日上午09:30彰化市埔陽街50號 一起為秀芳加油💪💪 現場邀請行政院副院長 陳其邁 Chen Chi-Mai  、經濟部部長 沈榮津 為秀芳贊聲🗣 還有精彩社區團體演出並準備在地美食佳餚😍 秀芳將會和各位分享這三年多來的努力和接下來的願景👍🏻 期待12/1與您相見👀 👉懇請 #小額捐款挺秀芳https://n.gomypay.asia/Hsiu_fang.aspx #黃秀芳政治獻金專戶 帳戶名稱：109年立法委員擬參選人黃秀芳政治獻金專戶 合作金庫 彰化分行 0230 717 148075 快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家👍https://line.me/R/ti/p/%40smilefang #彰化 #花壇 #芬園 #立法委員 #黃秀芳 #蔡英文 #2020台灣要贏 #第二選區",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78505589_1070091443322369_3170307324740894720_n.jpg?_nc_cat=105&_nc_ohc=Z9w5vgeZkRQAQk5Tl6ulTCYEhZx5vETecgAOuTk-zfRX_-Z3nQKmvpHjw&_nc_ht=scontent-hkg3-1.xx&oh=df910be463ecf2b8fbe0ea0f30b3a39e&oe=5E867191",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78505589_1070091443322369_3170307324740894720_n.jpg?_nc_cat=105&_nc_ohc=Jyb35yd9uA4AQkg3kM8JdxRBdh-cJGmNSi1ERojlSPsFb2U09hsgsLRhw&_nc_ht=scontent-hkg3-1.xx&oh=e70d83a21baa9463d7a31876350ccda1&oe=5EADFE91",
     "廣告詳情": {
       "ad_creative_body": "星期日(12/1)秀芳與小英總統的南區聯合後援會要成立了👍\n歡迎各位好朋友星期日上午09:30彰化市埔陽街50號\n一起為秀芳加油💪💪\n現場邀請行政院副院長 陳其邁 Chen Chi-Mai  、經濟部部長 沈榮津 為秀芳贊聲🗣\n還有精彩社區團體演出並準備在地美食佳餚😍\n秀芳將會和各位分享這三年多來的努力和接下來的願景👍🏻\n期待12/1與您相見👀\n\n👉懇請 #小額捐款挺秀芳\nhttps://n.gomypay.asia/Hsiu_fang.aspx\n#黃秀芳政治獻金專戶\n帳戶名稱：109年立法委員擬參選人黃秀芳政治獻金專戶\n合作金庫 彰化分行 0230 717 148075\n\n快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家👍\nhttps://line.me/R/ti/p/%40smilefang\n\n#彰化 #花壇 #芬園 #立法委員 #黃秀芳 #蔡英文 #2020台灣要贏 #第二選區",
       "ad_creation_time": "2019-11-27T10:05:07+0000",
@@ -4721,7 +4757,8 @@
       "spend": {
         "lower_bound": "1000",
         "upper_bound": "1499"
-      }
+      },
+      "ad_id": "534523507104111"
     }
   },
   {
@@ -4732,7 +4769,7 @@
     "開始日期": "2019-11-26",
     "結束日期": "2019-11-29",
     "廣告內容": "足球派對嘉年華  踢出2020 WIN 大家趕快看過來，11月30日也就是本周六的下午，秀芳要在金馬公園舉辦一個足球派對嘉年華⚽⚽ 我們設計了12個趣味關卡賽🏆 想要趁假日來點適度運動伸展筋骨的朋友們千萬別錯過👀👀 歡迎各位爸爸媽媽帶著孩子們一起來挑戰💪 網路報名者可優先領取闖關卡，趕快幫家中寶貝報名✊ 闖關成功者，可獲得精美小禮品一份，期待11/30與您見面💕 讓我們一同踢出 2020 WIN！ 報名網址:https://forms.gle/vJ1bA4FWZ6tALK4BA 👉活動資訊： 11/30(六)下午15:00→彰化市金馬公園(彰化市安平街96號) 👉活動報到時間： 🔺11/30報到時間–下午14:30 活動費用: 免費❗❗ 1.請務必確認聯絡資訊正確認性，如門號有阻擋企業簡訊者，請來電或私訊粉絲專頁詢問 2.活動當天，請幫家中小寶貝穿著適合戶外運動之服裝 3.為避免浪費資源，報名後請務必出席，無故取消者，未來將不再受理後續活動報名。 4.如報名後不便前來參加活動，請私訊粉專頁 5.活動簡訊請勿轉傳，轉傳無效 6.本活動如遇雨將取消。 👉聯絡方式： ☎️電話：04-7280980（黃秀芳立委服務處） 黃秀芳立委粉絲專頁：https://www.facebook.com/smilefangfang/?ref=bookmarks 黃秀芳立委Line好友連結：https://line.me/R/ti/p/%40smilefang",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/77279951_1068117780186402_5108552913542709248_n.jpg?_nc_cat=104&_nc_ohc=hTHNeuQ3tOEAQn2BrDTULKIFKrvhMTgD1Xb9nXoSn_b_afjMUuEWptUcQ&_nc_ht=scontent-hkg3-1.xx&oh=01da1eb693c7328e620dd8e85070c14b&oe=5E7D660C",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/77279951_1068117780186402_5108552913542709248_n.jpg?_nc_cat=104&_nc_ohc=YCSorJKS5FUAQlYPYVwFlwW3Gp2c-wSjGKUdbnByY1hRyLCYTEFy_9OBA&_nc_ht=scontent-hkg3-1.xx&oh=22a3e02ea1ffdce9563446fae4e9381c&oe=5EA4F30C",
     "廣告詳情": {
       "ad_creative_body": "足球派對嘉年華  踢出2020 WIN\n\n大家趕快看過來，11月30日也就是本周六的下午，秀芳要在金馬公園舉辦一個足球派對嘉年華⚽⚽\n\n我們設計了12個趣味關卡賽🏆\n想要趁假日來點適度運動伸展筋骨的朋友們千萬別錯過👀👀\n歡迎各位爸爸媽媽帶著孩子們一起來挑戰💪\n網路報名者可優先領取闖關卡，趕快幫家中寶貝報名✊\n闖關成功者，可獲得精美小禮品一份，期待11/30與您見面💕\n\n讓我們一同踢出 2020 WIN！\n\n報名網址:https://forms.gle/vJ1bA4FWZ6tALK4BA\n\n👉活動資訊：\n11/30(六)下午15:00→彰化市金馬公園(彰化市安平街96號)\n👉活動報到時間：\n🔺11/30報到時間–下午14:30\n活動費用: 免費❗❗\n\n1.請務必確認聯絡資訊正確認性，如門號有阻擋企業簡訊者，請來電或私訊粉絲專頁詢問\n2.活動當天，請幫家中小寶貝穿著適合戶外運動之服裝\n3.為避免浪費資源，報名後請務必出席，無故取消者，未來將不再受理後續活動報名。\n4.如報名後不便前來參加活動，請私訊粉專頁\n5.活動簡訊請勿轉傳，轉傳無效\n6.本活動如遇雨將取消。\n\n👉聯絡方式：\n☎️電話：04-7280980（黃秀芳立委服務處）\n黃秀芳立委粉絲專頁：https://www.facebook.com/smilefangfang/?ref=bookmarks\n黃秀芳立委Line好友連結：https://line.me/R/ti/p/%40smilefang",
       "ad_creation_time": "2019-11-26T10:11:52+0000",
@@ -4822,7 +4859,8 @@
       "spend": {
         "lower_bound": "1000",
         "upper_bound": "1499"
-      }
+      },
+      "ad_id": "3838884619471207"
     }
   },
   {
@@ -4833,7 +4871,7 @@
     "開始日期": "2019-12-02",
     "結束日期": "2019-12-06",
     "廣告內容": "報告各位鄉親🗣🗣 余天來了   余天來了   余天來了 秀芳邀請長青歌王🎤余天、陳隨意、潘芳烈樂團、謝宜君、金曲歌王施文彬來到彰化芬園囉💪💪 12/7（六）18：00芬園社口夜市（彰化縣芬園鄉清水路） 秀芳、余天邀請您一同來聽歌👂🎼🎤🎹",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/77330657_1074793202852193_3213046887900774400_n.jpg?_nc_cat=106&_nc_ohc=4VQ88I4Zb0oAQmphnYCKkX6vvtqAfBiPl8ndKiHsBlVA3NSYXpHL3egpw&_nc_ht=scontent-hkg3-1.xx&oh=b97a3e2c0e047395b91d0bfa40e2caa6&oe=5E404D0F",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/77330657_1074793202852193_3213046887900774400_n.jpg?_nc_cat=106&_nc_ohc=0qfUHzuSp6sAQk7ndp6p8KCzs4JLNeLWy38L-R_FTXi_sN-GRt7WT_QwQ&_nc_ht=scontent-hkg3-1.xx&oh=872c4ee1d56b231804e19d3ed0760a35&oe=5E67DA0F",
     "廣告詳情": {
       "ad_creative_body": "報告各位鄉親🗣🗣\n\n余天來了   余天來了   余天來了\n\n秀芳邀請長青歌王🎤余天、陳隨意、潘芳烈樂團、謝宜君、金曲歌王施文彬來到彰化芬園囉💪💪\n\n12/7（六）18：00芬園社口夜市（彰化縣芬園鄉清水路）\n\n秀芳、余天邀請您一同來聽歌👂🎼🎤🎹",
       "ad_creation_time": "2019-12-02T10:50:57+0000",
@@ -4842,80 +4880,85 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.00023",
+          "percentage": "0.000215",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.113338",
+          "percentage": "0.000215",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.112355",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.142133",
+          "percentage": "0.140551",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.21654",
+          "percentage": "0.214378",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.048146",
+          "percentage": "0.047783",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.185211",
+          "percentage": "0.187904",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.036397",
+          "percentage": "0.037021",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.063349",
+          "percentage": "0.06328",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.086155",
+          "percentage": "0.086741",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.042156",
+          "percentage": "0.041756",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.000461",
+          "percentage": "0.00043",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.043538",
+          "percentage": "0.043263",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.009675",
+          "percentage": "0.010331",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.01267",
+          "percentage": "0.013775",
           "age": "25-34",
           "gender": "female"
         }
       ],
       "funding_entity": "家鈞 陳",
       "impressions": {
-        "lower_bound": "7000",
-        "upper_bound": "7999"
+        "lower_bound": "8000",
+        "upper_bound": "8999"
       },
       "page_id": "197493393915516",
       "page_name": "黃秀芳",
@@ -4926,9 +4969,10 @@
         }
       ],
       "spend": {
-        "lower_bound": "700",
-        "upper_bound": "799"
-      }
+        "lower_bound": "800",
+        "upper_bound": "899"
+      },
+      "ad_id": "557030701507900"
     }
   },
   {
@@ -4939,7 +4983,7 @@
     "開始日期": "2019-12-02",
     "結束日期": "2019-12-06",
     "廣告內容": "報告各位鄉親🗣🗣 余天來了   余天來了   余天來了 秀芳邀請長青歌王🎤余天、陳隨意、潘芳烈樂團、謝宜君、金曲歌王施文彬來到彰化花壇囉💪💪 12/7（六）18：50 花壇夜市（彰化縣花壇鄉忠孝街） 秀芳、余天邀請您一同來聽歌👂🎼🎤🎹",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/77328842_1074783799519800_5244348707016540160_n.jpg?_nc_cat=107&_nc_ohc=a-6hjDv3ScUAQnX1e8Pr-c84YsjbRlIjXCZ0LP2kEi0DljJ5vkRPiUj8Q&_nc_ht=scontent-hkg3-1.xx&oh=2596820dca13c5220f35e42856588da4&oe=5E6D9763",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/77328842_1074783799519800_5244348707016540160_n.jpg?_nc_cat=107&_nc_ohc=ts-u7SuzYk0AQk5EEf0bTwxBH2ip9K16TxPaNaeApufSXjLeSFMb4AkRA&_nc_ht=scontent-hkg3-2.xx&oh=23316506b55aa5755d963877e8867ef8&oe=5E6D9763",
     "廣告詳情": {
       "ad_creative_body": "報告各位鄉親🗣🗣\n\n余天來了   余天來了   余天來了\n\n秀芳邀請長青歌王🎤余天、陳隨意、潘芳烈樂團、謝宜君、金曲歌王施文彬來到彰化花壇囉💪💪\n12/7（六）18：50 花壇夜市（彰化縣花壇鄉忠孝街）\n\n秀芳、余天邀請您一同來聽歌👂🎼🎤🎹",
       "ad_creation_time": "2019-12-02T10:50:34+0000",
@@ -4948,73 +4992,663 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.100134",
+          "percentage": "0.10271",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.200712",
+          "percentage": "0.198068",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.038496",
+          "percentage": "0.037807",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.146862",
+          "percentage": "0.143247",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.210725",
+          "percentage": "0.21277",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.087227",
+          "percentage": "0.088217",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.068091",
+          "percentage": "0.067843",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.034713",
+          "percentage": "0.035077",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.050957",
+          "percentage": "0.05104",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.037606",
+          "percentage": "0.038437",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.015799",
+          "percentage": "0.016173",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.007788",
+          "percentage": "0.007771",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.000445",
+          "percentage": "0.00042",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000445",
+          "percentage": "0.00042",
           "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "家鈞 陳",
+      "impressions": {
+        "lower_bound": "8000",
+        "upper_bound": "8999"
+      },
+      "page_id": "197493393915516",
+      "page_name": "黃秀芳",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Changhua"
+        }
+      ],
+      "spend": {
+        "lower_bound": "800",
+        "upper_bound": "899"
+      },
+      "ad_id": "1354721588054122"
+    }
+  },
+  {
+    "選區": "彰化縣第二選舉區",
+    "參選人": "黃秀芳",
+    "AD_ID": "1486566001481930",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-05",
+    "結束日期": "2019-12-15",
+    "廣告內容": "💕幸福芳城市💕 秀芳成功爭取💪大埔截水溝堤岸道路拓寬工程🚧 成功爭取26億經費，全長4.5公里預計3年後竣工通車🚗 為了改善彰化市南區及花壇鄉通往彰化交流道交通雍塞現象，秀芳向中央爭取優先納入「生活圈道路交通系統建設計畫」，內政部營建署也同意補助經費，將大埔截水溝堤岸道路拓寬改建成彰化市南外環，並多次會同相關單位進行會勘。 ⭕彰化市南西區 交通大躍進⭕ 快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家🎉https://line.me/R/ti/p/%40smilefang ➡秀芳到你家 客廳會強力募集🙋‍♂🙋‍♀https://forms.gle/tu8wYSGuk3BR1XMEA",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/74599586_1077629029235277_5043756219416707072_n.jpg?_nc_cat=101&_nc_ohc=h-socwbJwH0AQlk-j7Aqo9OKmuc5NJUXGBLhK8S4XySQiy_EgkKdLzw7g&_nc_ht=scontent-hkg3-1.xx&oh=70154aadf249ce74d75fe9bc7be4c6fb&oe=5EB2359D",
+    "廣告詳情": {
+      "ad_creative_body": "💕幸福芳城市💕\n\n秀芳成功爭取💪大埔截水溝堤岸道路拓寬工程🚧\n成功爭取26億經費，全長4.5公里預計3年後竣工通車🚗\n\n為了改善彰化市南區及花壇鄉通往彰化交流道交通雍塞現象，秀芳向中央爭取優先納入「生活圈道路交通系統建設計畫」，內政部營建署也同意補助經費，將大埔截水溝堤岸道路拓寬改建成彰化市南外環，並多次會同相關單位進行會勘。\n\n⭕彰化市南西區 交通大躍進⭕\n\n快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家🎉\nhttps://line.me/R/ti/p/%40smilefang\n\n➡秀芳到你家 客廳會強力募集🙋‍♂🙋‍♀\nhttps://forms.gle/tu8wYSGuk3BR1XMEA",
+      "ad_creation_time": "2019-12-05T14:37:44+0000",
+      "ad_delivery_start_time": "2019-12-05T14:37:44+0000",
+      "ad_delivery_stop_time": "2019-12-15T14:37:27+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000199",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000199",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000199",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000199",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.084177",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.154457",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.130435",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.023824",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.039111",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.180465",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.019655",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.177288",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.041294",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.057772",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.078817",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.011912",
+          "age": "18-24",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "家鈞 陳",
+      "impressions": {
+        "lower_bound": "9000",
+        "upper_bound": "9999"
+      },
+      "page_id": "197493393915516",
+      "page_name": "黃秀芳",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Changhua"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "1486566001481930"
+    }
+  },
+  {
+    "選區": "彰化縣第二選舉區",
+    "參選人": "黃秀芳",
+    "AD_ID": "962084824162873",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-04",
+    "結束日期": "2019-12-09",
+    "廣告內容": "水牛伯游錫堃前院長今天特地陪秀芳在彰化掃街，逐戶拜訪，好朋友都非常的熱情❤️還有長輩聽到院長來，不畏風雨撐著雨傘☔️走了三個路口，就是要跟院長、委員加油打氣💪 2020真的非常的重要✊✊選舉剩下37天 努力拼努力做👍為台灣也為彰化✅ #護國會保台灣 #2020台灣要贏  快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家🎉https://line.me/R/ti/p/%40smilefang",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78530081_1077392049258975_7179588621870039040_n.jpg?_nc_cat=106&_nc_ohc=rr77kpgFVOgAQmsXHShIpPWlZBeuaouks06yvlnapGpbj2tWkPanJcPMw&_nc_ht=scontent-hkg3-1.xx&oh=960687e32177f0e5740b4e683e428655&oe=5E7A5496",
+    "廣告詳情": {
+      "ad_creative_body": "水牛伯游錫堃前院長今天特地陪秀芳在彰化掃街，逐戶拜訪，好朋友都非常的熱情❤️還有長輩聽到院長來，不畏風雨撐著雨傘☔️走了三個路口，就是要跟院長、委員加油打氣💪\n\n2020真的非常的重要✊✊選舉剩下37天\n努力拼努力做👍為台灣也為彰化✅\n#護國會保台灣 #2020台灣要贏 \n\n快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家🎉\nhttps://line.me/R/ti/p/%40smilefang",
+      "ad_creation_time": "2019-12-05T04:39:40+0000",
+      "ad_delivery_start_time": "2019-12-05T04:39:40+0000",
+      "ad_delivery_stop_time": "2019-12-10T04:39:19+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000165",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00033",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.127147",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.023283",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.081407",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.232497",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.160007",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.139201",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.042602",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.048712",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.053005",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00033",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.012715",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.021466",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.056803",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00033",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "家鈞 陳",
+      "impressions": {
+        "lower_bound": "8000",
+        "upper_bound": "8999"
+      },
+      "page_id": "197493393915516",
+      "page_name": "黃秀芳",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Changhua"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "962084824162873"
+    }
+  },
+  {
+    "選區": "彰化縣第二選舉區",
+    "參選人": "黃秀芳",
+    "AD_ID": "2613919262055407",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-04",
+    "結束日期": "2019-12-09",
+    "廣告內容": "秀芳晚上跟服務團隊在東區逐戶跟好朋友請安問好👋👋 秀芳很感動，有熱情的支持者特地找到隊伍，拿著一碗熱熱的飯菜，叫秀芳要加油，真的非常的窩心❤️ 選舉剩下38天，秀芳會持續努力💪 為彰化為台灣✊✊ 快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家🎉https://line.me/R/ti/p/%40smilefang",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79179408_1076715205993326_3083879156677607424_n.jpg?_nc_cat=102&_nc_ohc=22ppIxfKvrEAQlRVg1zOw0_3EI8yc28MSilI0nL7pryLR9sRC7ConSZ7g&_nc_ht=scontent-hkg3-1.xx&oh=c48720d1b6757e70d8ff9c8cc090d46c&oe=5E732C1A",
+    "廣告詳情": {
+      "ad_creative_body": "秀芳晚上跟服務團隊在東區逐戶跟好朋友請安問好👋👋\n秀芳很感動，有熱情的支持者特地找到隊伍，拿著一碗熱熱的飯菜，叫秀芳要加油，真的非常的窩心❤️\n選舉剩下38天，秀芳會持續努力💪\n為彰化為台灣✊✊\n\n快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家🎉\nhttps://line.me/R/ti/p/%40smilefang",
+      "ad_creation_time": "2019-12-05T01:03:18+0000",
+      "ad_delivery_start_time": "2019-12-05T01:03:18+0000",
+      "ad_delivery_stop_time": "2019-12-10T01:02:59+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000185",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000554",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000185",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000554",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.107255",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.210633",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.072365",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.150083",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.057596",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.148422",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.035813",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.057227",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.046336",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.026952",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.069596",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.016245",
+          "age": "18-24",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "家鈞 陳",
+      "impressions": {
+        "lower_bound": "7000",
+        "upper_bound": "7999"
+      },
+      "page_id": "197493393915516",
+      "page_name": "黃秀芳",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Changhua"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "2613919262055407"
+    }
+  },
+  {
+    "選區": "彰化縣第二選舉區",
+    "參選人": "黃秀芳",
+    "AD_ID": "1398893100276887",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-04",
+    "結束日期": "2019-12-09",
+    "廣告內容": "民主進步黨「行動中常會」第一站來到彰化💪💪 一同宣示✊反毒🚫、反黑🚫、反滲透🚫 秀芳現在跟黨主席卓榮泰、秘書長羅文嘉、副秘書長林飛帆及彰化四個選區立委候選人在彰化市跟好朋友們請安問好👋 #2020台灣要贏 #護國會保台灣 #立法委員 #黃秀芳 #第二選區",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78621692_1076601966004650_6966471820656508928_n.jpg?_nc_cat=108&_nc_ohc=zvfK6S_xK-0AQlXxQjm6UTeLXASUzccfFNqG_F84XtC7Crr17B13k3rMA&_nc_ht=scontent-hkg3-1.xx&oh=8a806fa8fd12843cee691dc6094826da&oe=5EA4ADEB",
+    "廣告詳情": {
+      "ad_creative_body": "民主進步黨「行動中常會」第一站來到彰化💪💪\n一同宣示✊反毒🚫、反黑🚫、反滲透🚫\n\n秀芳現在跟黨主席卓榮泰、秘書長羅文嘉、副秘書長林飛帆及彰化四個選區立委候選人在彰化市跟好朋友們請安問好👋\n\n#2020台灣要贏 #護國會保台灣 #立法委員 #黃秀芳 #第二選區",
+      "ad_creation_time": "2019-12-05T01:02:53+0000",
+      "ad_delivery_start_time": "2019-12-05T01:02:53+0000",
+      "ad_delivery_stop_time": "2019-12-10T01:02:33+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000354",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.22847",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.019982",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.060654",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.009372",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.04527",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.031653",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000177",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.184439",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000177",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.133156",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.028824",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.1542",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.087533",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000354",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000177",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.015208",
+          "age": "25-34",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "家鈞 陳",
+      "impressions": {
+        "lower_bound": "7000",
+        "upper_bound": "7999"
+      },
+      "page_id": "197493393915516",
+      "page_name": "黃秀芳",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Changhua"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "1398893100276887"
+    }
+  },
+  {
+    "選區": "彰化縣第二選舉區",
+    "參選人": "黃秀芳",
+    "AD_ID": "3251472614924574",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-05",
+    "結束日期": "2019-12-06",
+    "廣告內容": "對108課綱“霧煞煞”🤔️歡迎來聆聽解析👂 12年國教新課綱將於108學年度實施，今年上小一、國一和高一的學生將是首屆適用新課綱的學生。然而，新課綱要怎麼學、如何教？ 尤其，新課綱牽動未來升學考招，因此，很多家長與師生都十分關切，更擔心孩子是否又變成新課綱的白老鼠？ 為了幫學子及家長解惑，秀芳特別邀請教育部專業人員，一起來面對老師及家長的提問，並且好好溝通解惑。 108新課綱全面解析👀 12/8（日）早上09:30 地點：介壽生活藝文館（彰化市民生路259號） 參加者均可獲贈一本「新課綱親子手冊」 如有事不能參加也沒關係💪線上填寫表單，並加入黃秀芳官方LINE@，會後回訊「108」會後將當天簡報連結傳給您👍 ✅表單網址如下:https://forms.gle/qoNLWiQz8DycBwNK7 課綱即將上路，由衷希望幫助家長減輕焦慮、更增了解！ #彰化 #立法委員 #黃秀芳 #108年新課綱 #教育部",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80076263_1078264182505095_171675525062852608_n.jpg?_nc_cat=106&_nc_ohc=80om_uoV6BoAQnNLgJQt04dxxSUljt3G6Lke95trgKVJP_slzEDGhqBuQ&_nc_ht=scontent-hkg3-1.xx&oh=a3f60464e7a98549c5c7296354c7ec66&oe=5E79413A",
+    "廣告詳情": {
+      "ad_creative_body": "對108課綱“霧煞煞”🤔️歡迎來聆聽解析👂\n12年國教新課綱將於108學年度實施，今年上小一、國一和高一的學生將是首屆適用新課綱的學生。然而，新課綱要怎麼學、如何教？\n\n尤其，新課綱牽動未來升學考招，因此，很多家長與師生都十分關切，更擔心孩子是否又變成新課綱的白老鼠？\n\n為了幫學子及家長解惑，秀芳特別邀請教育部專業人員，一起來面對老師及家長的提問，並且好好溝通解惑。\n\n108新課綱全面解析👀\n12/8（日）早上09:30\n地點：介壽生活藝文館（彰化市民生路259號）\n參加者均可獲贈一本「新課綱親子手冊」\n\n如有事不能參加也沒關係💪線上填寫表單，並加入黃秀芳官方LINE@，會後回訊「108」會後將當天簡報連結傳給您👍\n✅表單網址如下:\nhttps://forms.gle/qoNLWiQz8DycBwNK7\n課綱即將上路，由衷希望幫助家長減輕焦慮、更增了解！\n\n#彰化 #立法委員 #黃秀芳 #108年新課綱 #教育部",
+      "ad_creation_time": "2019-12-06T02:23:25+0000",
+      "ad_delivery_start_time": "2019-12-06T02:23:25+0000",
+      "ad_delivery_stop_time": "2019-12-07T02:23:10+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.109073",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.151407",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.181191",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.072256",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.032129",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.156371",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.075427",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.044264",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.063293",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.068671",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.029509",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.01503",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000414",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000414",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000276",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000276",
+          "age": "65+",
           "gender": "unknown"
         }
       ],
@@ -5032,92 +5666,248 @@
         }
       ],
       "spend": {
-        "lower_bound": "700",
-        "upper_bound": "799"
-      }
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "3251472614924574"
     }
   },
   {
     "選區": "彰化縣第二選舉區",
     "參選人": "黃秀芳",
-    "AD_ID": "962084824162873",
-    "登錄為政治廣告": "是",
-    "開始日期": "2019-12-04",
-    "結束日期": "2019-12-06",
-    "廣告內容": "水牛伯游錫堃前院長今天特地陪秀芳在彰化掃街，逐戶拜訪，好朋友都非常的熱情❤️還有長輩聽到院長來，不畏風雨撐著雨傘☔️走了三個路口，就是要跟院長、委員加油打氣💪 2020真的非常的重要✊✊選舉剩下37天 努力拼努力做👍為台灣也為彰化✅ #護國會保台灣 #2020台灣要贏  快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家🎉https://line.me/R/ti/p/%40smilefang",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78530081_1077392049258975_7179588621870039040_n.jpg?_nc_cat=106&_nc_ohc=mpO2SsmF0XQAQn9uESiSXPrSaLbWnyiyVCQRa2gPh89Z_igXRWSbTB5KQ&_nc_ht=scontent-hkg3-1.xx&oh=1b9a700c225170ae272f94a06bac73a7&oe=5E7A5496",
+    "AD_ID": "2402122630054399",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-07",
+    "結束日期": "2019-11-30",
+    "廣告內容": "按讚接收國會最新資訊👍 懇請支持彰化、芬園、花壇立法委員 黃秀芳",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74293907_697228067457979_5933691237197414400_n.jpg?_nc_cat=106&_nc_ohc=rHs9lpLLxk8AQmxpVvRqQcnf5sm5JunTOJAb9LFsvcxscumJcNLD9WqQQ&_nc_ht=scontent-hkg3-1.xx&oh=c2d897424a2e151866c7343d822bfbb8&oe=5E80EF05",
     "廣告詳情": {
-      "ad_creative_body": "水牛伯游錫堃前院長今天特地陪秀芳在彰化掃街，逐戶拜訪，好朋友都非常的熱情❤️還有長輩聽到院長來，不畏風雨撐著雨傘☔️走了三個路口，就是要跟院長、委員加油打氣💪\n\n2020真的非常的重要✊✊選舉剩下37天\n努力拼努力做👍為台灣也為彰化✅\n#護國會保台灣 #2020台灣要贏 \n\n快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家🎉\nhttps://line.me/R/ti/p/%40smilefang",
-      "ad_creation_time": "2019-12-05T04:39:40+0000",
-      "ad_delivery_start_time": "2019-12-05T04:39:40+0000",
-      "ad_delivery_stop_time": "2019-12-10T04:39:19+0000",
+      "ad_creative_body": "按讚接收國會最新資訊👍\n懇請支持彰化、芬園、花壇立法委員 黃秀芳",
+      "ad_creation_time": "2019-10-18T09:23:40+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "我是秀芳，用心聽、認真做。\n讓青年世代 有機會表現",
+      "ad_creative_link_title": "黃秀芳",
+      "ad_delivery_start_time": "2019-10-18T09:23:40+0000",
+      "ad_delivery_stop_time": "2019-11-30T15:55:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.053922",
+          "percentage": "0.000141",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.033686",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000141",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000282",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000282",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000141",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.005779",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.038337",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.061875",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.187879",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.030021",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.022692",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.085553",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.171569",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.196078",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.02451",
+          "percentage": "0.017195",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.093137",
+          "percentage": "0.193094",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.073529",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.053922",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.073529",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.161765",
+          "percentage": "0.105567",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.014706",
-          "age": "18-24",
-          "gender": "female"
+          "percentage": "0.217195",
+          "age": "45-54",
+          "gender": "male"
         },
         {
-          "percentage": "0.063725",
+          "percentage": "0.000141",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "9000",
+        "upper_bound": "9999"
+      },
+      "page_id": "197493393915516",
+      "page_name": "黃秀芳",
+      "region_distribution": [
+        {
+          "percentage": "0.446433",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.422121",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.004007",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.061448",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.06599",
+          "region": "Yunlin"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1500",
+        "upper_bound": "1999"
+      },
+      "ad_id": "2402122630054399"
+    }
+  },
+  {
+    "選區": "彰化縣第二選舉區",
+    "參選人": "黃秀芳",
+    "AD_ID": "483257658962450",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-09",
+    "結束日期": "2019-12-19",
+    "廣告內容": "💕幸福芳城市💕 秀芳成功爭取900萬預算💪興建花壇國中風雨球場🏀 秀芳向體育屬爭取補助500萬元預算，加上縣府補助400餘萬，花壇國中校友也共同挹注30幾萬，興建完成花壇國中的風雨球場，不僅下雨天可以提供學生體育活動使用，還可以讓學校有好的空間舉辦各項比賽，更期許能培養更多基層且優秀的運動好手👏👏 快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家🎉https://line.me/R/ti/p/%40smilefang ➡秀芳到你家 客廳會強力募集🙋‍♂🙋‍♀https://forms.gle/tu8wYSGuk3BR1XMEA",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/78257298_1082280438770136_4192565981354131456_n.jpg?_nc_cat=110&_nc_ohc=dhAS83v3teEAQlB8cknXJ5VLPrn-dZN_sIvwJahS3m7lcOX6VDMRmv-BQ&_nc_ht=scontent-hkg3-2.xx&oh=c047907561bc5f0021634899fc316408&oe=5EA647C1",
+    "廣告詳情": {
+      "ad_creative_body": "💕幸福芳城市💕\n\n秀芳成功爭取900萬預算💪興建花壇國中風雨球場🏀\n\n秀芳向體育屬爭取補助500萬元預算，加上縣府補助400餘萬，花壇國中校友也共同挹注30幾萬，興建完成花壇國中的風雨球場，不僅下雨天可以提供學生體育活動使用，還可以讓學校有好的空間舉辦各項比賽，更期許能培養更多基層且優秀的運動好手👏👏\n\n快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家🎉\nhttps://line.me/R/ti/p/%40smilefang\n\n➡秀芳到你家 客廳會強力募集🙋‍♂🙋‍♀\nhttps://forms.gle/tu8wYSGuk3BR1XMEA",
+      "ad_creation_time": "2019-12-10T03:44:52+0000",
+      "ad_delivery_start_time": "2019-12-10T03:44:52+0000",
+      "ad_delivery_stop_time": "2019-12-20T03:44:36+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000228",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000228",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.097945",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.150228",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.073288",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.019608",
+          "percentage": "0.169178",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.017123",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.046575",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.179224",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.098402",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.042466",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.070091",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.018037",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.036986",
           "age": "65+",
           "gender": "female"
         }
       ],
       "funding_entity": "家鈞 陳",
       "impressions": {
-        "lower_bound": "0",
-        "upper_bound": "999"
+        "lower_bound": "7000",
+        "upper_bound": "7999"
       },
       "page_id": "197493393915516",
       "page_name": "黃秀芳",
@@ -5128,102 +5918,103 @@
         }
       ],
       "spend": {
-        "lower_bound": "0",
-        "upper_bound": "99"
-      }
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "483257658962450"
     }
   },
   {
     "選區": "彰化縣第二選舉區",
     "參選人": "黃秀芳",
-    "AD_ID": "2613919262055407",
+    "AD_ID": "2212440795522398",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-12-04",
-    "結束日期": "2019-12-06",
-    "廣告內容": "秀芳晚上跟服務團隊在東區逐戶跟好朋友請安問好👋👋 秀芳很感動，有熱情的支持者特地找到隊伍，拿著一碗熱熱的飯菜，叫秀芳要加油，真的非常的窩心❤️ 選舉剩下38天，秀芳會持續努力💪 為彰化為台灣✊✊ 快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家🎉https://line.me/R/ti/p/%40smilefang",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79179408_1076715205993326_3083879156677607424_n.jpg?_nc_cat=102&_nc_ohc=1JVAQojJXV8AQnD1v66ofVUdFX8vbfM0-wJ4ILR7Nq7pmFG5RsMktAAdQ&_nc_ht=scontent-hkg3-1.xx&oh=ea5da9838c5c9d7ade024fe097654971&oe=5E732C1A",
+    "開始日期": "2019-12-09",
+    "結束日期": "2019-12-14",
+    "廣告內容": "大家早安大家好👋👋 秀芳現在與「彰化秀秀」、縣議員莊陞漢、市民代表楊雅鈞、市民代表江炳輝及服務團隊，在中正路二段、曉陽路口，跟好朋友們問好❤️ 快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家🎉https://line.me/R/ti/p/%40smilefang",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/80256783_1082118382119675_158552793655803904_n.jpg?_nc_cat=110&_nc_ohc=wIOeatTeT4sAQmCYAXH4KrX9z2tw91_P5JNdimGJK0K8xp7S7iwdHk7qg&_nc_ht=scontent-hkg3-2.xx&oh=45b0143d2d187ce71fcf6bdab1c8f5a4&oe=5E6C0C4A",
     "廣告詳情": {
-      "ad_creative_body": "秀芳晚上跟服務團隊在東區逐戶跟好朋友請安問好👋👋\n秀芳很感動，有熱情的支持者特地找到隊伍，拿著一碗熱熱的飯菜，叫秀芳要加油，真的非常的窩心❤️\n選舉剩下38天，秀芳會持續努力💪\n為彰化為台灣✊✊\n\n快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家🎉\nhttps://line.me/R/ti/p/%40smilefang",
-      "ad_creation_time": "2019-12-05T01:03:18+0000",
-      "ad_delivery_start_time": "2019-12-05T01:03:18+0000",
-      "ad_delivery_stop_time": "2019-12-10T01:02:59+0000",
+      "ad_creative_body": "大家早安大家好👋👋\n秀芳現在與「彰化秀秀」、縣議員莊陞漢、市民代表楊雅鈞、市民代表江炳輝及服務團隊，在中正路二段、曉陽路口，跟好朋友們問好❤️\n\n快來跟秀芳LINE在一起，已經加入的好朋友，記得分享給大家🎉\nhttps://line.me/R/ti/p/%40smilefang",
+      "ad_creation_time": "2019-12-10T03:12:16+0000",
+      "ad_delivery_start_time": "2019-12-10T03:12:16+0000",
+      "ad_delivery_stop_time": "2019-12-15T03:11:54+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.2386",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.043478",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.208908",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.136797",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.092259",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.040297",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.037116",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.060445",
+          "percentage": "0.092181",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.014846",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.075292",
-          "age": "18-24",
+          "percentage": "0.111215",
+          "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.032874",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.016967",
-          "age": "65+",
+          "percentage": "0.050569",
+          "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.00106",
+          "percentage": "0.224855",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.199851",
           "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.081732",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.066617",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.051689",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.023512",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.048703",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.030416",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.0181",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000373",
+          "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00106",
-          "age": "45-54",
+          "percentage": "0.000187",
+          "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "家鈞 陳",
       "impressions": {
-        "lower_bound": "0",
-        "upper_bound": "999"
+        "lower_bound": "7000",
+        "upper_bound": "7999"
       },
       "page_id": "197493393915516",
       "page_name": "黃秀芳",
@@ -5234,89 +6025,1365 @@
         }
       ],
       "spend": {
-        "lower_bound": "0",
-        "upper_bound": "99"
-      }
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "2212440795522398"
     }
   },
   {
     "選區": "彰化縣第二選舉區",
     "參選人": "黃秀芳",
-    "AD_ID": "1398893100276887",
+    "AD_ID": "701179823740104",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-12-04",
-    "結束日期": "2019-12-06",
-    "廣告內容": "民主進步黨「行動中常會」第一站來到彰化💪💪 一同宣示✊反毒🚫、反黑🚫、反滲透🚫 秀芳現在跟黨主席卓榮泰、秘書長羅文嘉、副秘書長林飛帆及彰化四個選區立委候選人在彰化市跟好朋友們請安問好👋 #2020台灣要贏 #護國會保台灣 #立法委員 #黃秀芳 #第二選區",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78621692_1076601966004650_6966471820656508928_n.jpg?_nc_cat=108&_nc_ohc=P0QeL-3YRhYAQlJ2QReLFBK1wNnRlU6D46pQVEbBNmp1BfMh2CqOgDs6w&_nc_ht=scontent-hkg3-1.xx&oh=79ef45b751909a7ec267b82b9b83fc03&oe=5E7D20EB",
+    "開始日期": "2019-12-09",
+    "結束日期": "2019-12-14",
+    "廣告內容": "【民視即時新聞】立委黃秀芳，週六（7日）晚間舉辦老歌音樂會，請來金曲歌王施文彬和立委余天站台，自己也上台和施文彬，男女對唱 秀芳強調，這些都是與民眾的生活息息相關的建設，也是民眾最需要的，比起華而不實的選舉口號，這些實實在在的建設才是大家最想看見的。黃秀芳說，立委任期的三年多來，她每一天都一步一腳印，用心的聽取民眾的意見，認真的在國會為彰化的建設爭取經費，希望大家能肯定她的表現。 黃秀芳向現場的民眾喊話，明年的大選，請一定要支持用心聽，認真做的黃秀芳，再給黃秀芳四年，彰化的建設一定會更進步。",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79773168_701179983740088_288389616359178240_n.jpg?_nc_cat=100&_nc_ohc=3tfDz074qxUAQkqiJvn_vxZKBMNQf8kKqqkAaUldNUphQ5zaxu11qgvdA&_nc_ht=scontent-hkg3-1.xx&oh=e647f8067eb650faf0293875fe3bfa1e&oe=5E733BDB",
     "廣告詳情": {
-      "ad_creative_body": "民主進步黨「行動中常會」第一站來到彰化💪💪\n一同宣示✊反毒🚫、反黑🚫、反滲透🚫\n\n秀芳現在跟黨主席卓榮泰、秘書長羅文嘉、副秘書長林飛帆及彰化四個選區立委候選人在彰化市跟好朋友們請安問好👋\n\n#2020台灣要贏 #護國會保台灣 #立法委員 #黃秀芳 #第二選區",
-      "ad_creation_time": "2019-12-05T01:02:53+0000",
-      "ad_delivery_start_time": "2019-12-05T01:02:53+0000",
-      "ad_delivery_stop_time": "2019-12-10T01:02:33+0000",
+      "ad_creative_body": "【民視即時新聞】立委黃秀芳，週六（7日）晚間舉辦老歌音樂會，請來金曲歌王施文彬和立委余天站台，自己也上台和施文彬，男女對唱\n\n秀芳強調，這些都是與民眾的生活息息相關的建設，也是民眾最需要的，比起華而不實的選舉口號，這些實實在在的建設才是大家最想看見的。黃秀芳說，立委任期的三年多來，她每一天都一步一腳印，用心的聽取民眾的意見，認真的在國會為彰化的建設爭取經費，希望大家能肯定她的表現。\n \n黃秀芳向現場的民眾喊話，明年的大選，請一定要支持用心聽，認真做的黃秀芳，再給黃秀芳四年，彰化的建設一定會更進步。",
+      "ad_creation_time": "2019-12-10T03:10:58+0000",
+      "ad_creative_link_title": "黃秀芳舉辦老歌音樂會 余天、施文彬助陣",
+      "ad_delivery_start_time": "2019-12-10T03:10:58+0000",
+      "ad_delivery_stop_time": "2019-12-15T03:10:38+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.189106",
+          "percentage": "0.233896",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.028994",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.129129",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.271708",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.109102",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.087132",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002989",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.041698",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.051113",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.065776",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.156218",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.226105",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.032888",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.107914",
+          "percentage": "0.029592",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.034943",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.120247",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.027749",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.015416",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.006166",
+          "percentage": "0.004035",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.017472",
+          "percentage": "0.010462",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000149",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "家鈞 陳",
+      "impressions": {
+        "lower_bound": "9000",
+        "upper_bound": "9999"
+      },
+      "page_id": "197493393915516",
+      "page_name": "黃秀芳",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Changhua"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "701179823740104"
+    }
+  },
+  {
+    "選區": "彰化縣第二選舉區",
+    "參選人": "黃秀芳",
+    "AD_ID": "2424324064491188",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-10",
+    "結束日期": "2019-12-14",
+    "廣告內容": "廣受好評的足球嘉年華，宣布加場😀 好多人跟秀芳說，很想參加足球嘉年華，大家的心聲秀芳聽到了👂 這次還邀請重量級嘉賓 「小英總統」一起同樂🎉🎉 大家趕快看過來，12月15日也就是本周日的下午，秀芳要在南北管戲曲館舉辦一個足球派對嘉年華⚽⚽ 我們設計了12個趣味關卡賽🏆 想要趁假日來點適度運動伸展筋骨的朋友們千萬別錯過👀👀 也歡迎各位爸爸媽媽帶著孩子們一起來挑戰💪 闖關成功者，可獲得精美小禮品一份 現場還有「鹿港特色麵線糊」🤤，期待12/15與您見面 讓我們一同踢出 2020 WIN！ 活動報名網址:https://forms.gle/eodF3qxkPHhvQU7q6 👉活動資訊： 12/15(日)下午13:30→彰化市南北管戲曲館(彰化市平和七街66號) 👉活動報到時間： 🔺12/15報到時間–下午13:30 1.請務必確認聯絡資訊正確認性，如門號有阻擋企業簡訊者，請來電或私訊粉絲專頁詢問 2.活動當天，請幫家中小寶貝穿著適合戶外運動之服裝 3.為避免浪費資源，報名後請務必出席，無故取消者，未來將不再受理後續活動報名。 4.如報名後不便前來參加活動，請私訊粉專頁 5.活動簡訊請勿轉傳，轉傳無效 6.本活動如遇雨將取消。 7.活動報名成功簡訊將於12/14號晚上8點發送 👉聯絡方式： ☎️電話：04-7280980（黃秀芳立委服務處） 黃秀芳立委粉絲專頁：https://www.facebook.com/smilefangfang/?ref=bookmarks 黃秀芳立委Line好友連結：https://line.me/R/ti/p/%40smilefang",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/80132113_2424324084491186_9194190328238702592_n.jpg?_nc_cat=100&_nc_ohc=HfY80BFwWycAQnPiVR2CibJSpvkos36TWH7Dk0-JO_5Bi4nQO6_s0xObA&_nc_ht=scontent-hkg3-1.xx&oh=60ece150b97884eb2ba60f1a9e9b2c67&oe=5E713F91",
+    "廣告詳情": {
+      "ad_creative_body": "廣受好評的足球嘉年華，宣布加場😀\n好多人跟秀芳說，很想參加足球嘉年華，大家的心聲秀芳聽到了👂\n這次還邀請重量級嘉賓 「小英總統」一起同樂🎉🎉\n\n大家趕快看過來，12月15日也就是本周日的下午，秀芳要在南北管戲曲館舉辦一個足球派對嘉年華⚽⚽\n\n我們設計了12個趣味關卡賽🏆\n想要趁假日來點適度運動伸展筋骨的朋友們千萬別錯過👀👀\n也歡迎各位爸爸媽媽帶著孩子們一起來挑戰💪\n闖關成功者，可獲得精美小禮品一份\n現場還有「鹿港特色麵線糊」🤤，期待12/15與您見面\n\n讓我們一同踢出 2020 WIN！\n\n活動報名網址:https://forms.gle/eodF3qxkPHhvQU7q6\n\n👉活動資訊：\n12/15(日)下午13:30→彰化市南北管戲曲館(彰化市平和七街66號)\n👉活動報到時間：\n🔺12/15報到時間–下午13:30\n\n1.請務必確認聯絡資訊正確認性，如門號有阻擋企業簡訊者，請來電或私訊粉絲專頁詢問\n2.活動當天，請幫家中小寶貝穿著適合戶外運動之服裝\n3.為避免浪費資源，報名後請務必出席，無故取消者，未來將不再受理後續活動報名。\n4.如報名後不便前來參加活動，請私訊粉專頁\n5.活動簡訊請勿轉傳，轉傳無效\n6.本活動如遇雨將取消。\n7.活動報名成功簡訊將於12/14號晚上8點發送\n\n👉聯絡方式：\n☎️電話：04-7280980（黃秀芳立委服務處）\n黃秀芳立委粉絲專頁：https://www.facebook.com/smilefangfang/?ref=bookmarks\n黃秀芳立委Line好友連結：https://line.me/R/ti/p/%40smilefang",
+      "ad_creation_time": "2019-12-10T09:04:34+0000",
+      "ad_creative_link_caption": "足球派對嘉年華 踢出2020 WIN 之小英來了!",
+      "ad_creative_link_description": "南北戲曲館",
+      "ad_creative_link_title": "足球派對嘉年華 踢出2020 WIN 之小英來了!",
+      "ad_delivery_start_time": "2019-12-10T09:04:34+0000",
+      "ad_delivery_stop_time": "2019-12-14T09:04:20+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.00011",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.052295",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00022",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00022",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00011",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00022",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.019267",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.061764",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.062424",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.093471",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.116041",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.112078",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.036882",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.071672",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.152813",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.105582",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.114279",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00055",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "家鈞 陳",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "197493393915516",
+      "page_name": "黃秀芳",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Changhua"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2000",
+        "upper_bound": "2499"
+      },
+      "ad_id": "2424324064491188"
+    }
+  },
+  {
+    "選區": "彰化縣第二選舉區",
+    "參選人": "黃秀芳",
+    "AD_ID": "479051366073074",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-10",
+    "結束日期": "2019-12-14",
+    "廣告內容": "廣受好評的足球嘉年華，宣布加場😀 好多人跟秀芳說，很想參加足球嘉年華，大家的心聲秀芳聽到了👂 這次還邀請重量級嘉賓 「小英總統」一起同樂🎉🎉 大家趕快看過來，12月15日也就是本周日的下午，秀芳要在南北管戲曲館舉辦一個足球派對嘉年華⚽⚽ 我們設計了12個趣味關卡賽🏆 想要趁假日來點適度運動伸展筋骨的朋友們千萬別錯過👀👀 也歡迎各位爸爸媽媽帶著孩子們一起來挑戰💪 闖關成功者，可獲得精美小禮品一份 現場還有「鹿港特色麵線糊」🤤，期待12/15與您見面 讓我們一同踢出 2020 WIN！ 活動報名網址:https://forms.gle/eodF3qxkPHhvQU7q6 👉活動資訊： 12/15(日)下午13:30→彰化市南北管戲曲館(彰化市平和七街66號) 👉活動報到時間： 🔺12/15報到時間–下午13:30 1.請務必確認聯絡資訊正確認性，如門號有阻擋企業簡訊者，請來電或私訊粉絲專頁詢問 2.活動當天，請幫家中小寶貝穿著適合戶外運動之服裝 3.為避免浪費資源，報名後請務必出席，無故取消者，未來將不再受理後續活動報名。 4.如報名後不便前來參加活動，請私訊粉專頁 5.活動簡訊請勿轉傳，轉傳無效 6.本活動如遇雨將取消。 7.活動報名成功簡訊將於12/14號晚上8點發送 👉聯絡方式： ☎️電話：04-7280980（黃秀芳立委服務處） 黃秀芳立委粉絲專頁：https://www.facebook.com/smilefangfang/?ref=bookmarks 黃秀芳立委Line好友連結：https://line.me/R/ti/p/%40smilefang",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/78546333_1082444848753695_7872622208290390016_n.jpg?_nc_cat=110&_nc_ohc=BW2vHTxpYtQAQmj-o8NsR_Jqvmwxt3ciOTfKVBycXSsTgK10NNvJoJVDQ&_nc_ht=scontent-hkg3-2.xx&oh=21c4d09dcd0ec788f2b1a3857e5302b6&oe=5EA521FB",
+    "廣告詳情": {
+      "ad_creative_body": "廣受好評的足球嘉年華，宣布加場😀\n好多人跟秀芳說，很想參加足球嘉年華，大家的心聲秀芳聽到了👂\n這次還邀請重量級嘉賓 「小英總統」一起同樂🎉🎉\n\n大家趕快看過來，12月15日也就是本周日的下午，秀芳要在南北管戲曲館舉辦一個足球派對嘉年華⚽⚽\n\n我們設計了12個趣味關卡賽🏆\n想要趁假日來點適度運動伸展筋骨的朋友們千萬別錯過👀👀\n也歡迎各位爸爸媽媽帶著孩子們一起來挑戰💪\n闖關成功者，可獲得精美小禮品一份\n現場還有「鹿港特色麵線糊」🤤，期待12/15與您見面\n\n讓我們一同踢出 2020 WIN！\n\n活動報名網址:https://forms.gle/eodF3qxkPHhvQU7q6\n\n👉活動資訊：\n12/15(日)下午13:30→彰化市南北管戲曲館(彰化市平和七街66號)\n👉活動報到時間：\n🔺12/15報到時間–下午13:30\n\n1.請務必確認聯絡資訊正確認性，如門號有阻擋企業簡訊者，請來電或私訊粉絲專頁詢問\n2.活動當天，請幫家中小寶貝穿著適合戶外運動之服裝\n3.為避免浪費資源，報名後請務必出席，無故取消者，未來將不再受理後續活動報名。\n4.如報名後不便前來參加活動，請私訊粉專頁\n5.活動簡訊請勿轉傳，轉傳無效\n6.本活動如遇雨將取消。\n7.活動報名成功簡訊將於12/14號晚上8點發送\n\n👉聯絡方式：\n☎️電話：04-7280980（黃秀芳立委服務處）\n黃秀芳立委粉絲專頁：https://www.facebook.com/smilefangfang/?ref=bookmarks\n黃秀芳立委Line好友連結：https://line.me/R/ti/p/%40smilefang",
+      "ad_creation_time": "2019-12-10T08:21:31+0000",
+      "ad_delivery_start_time": "2019-12-10T08:21:31+0000",
+      "ad_delivery_stop_time": "2019-12-14T08:21:15+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.053061",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.064167",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "9.5E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "9.5E-5",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "9.5E-5",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00019",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.023256",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.021262",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.052017",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.050214",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.164404",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.141149",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.160513",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.091694",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.074893",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.1028",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "9.5E-5",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "家鈞 陳",
+      "impressions": {
+        "lower_bound": "20000",
+        "upper_bound": "24999"
+      },
+      "page_id": "197493393915516",
+      "page_name": "黃秀芳",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Changhua"
+        }
+      ],
+      "spend": {
+        "lower_bound": "3000",
+        "upper_bound": "3499"
+      },
+      "ad_id": "479051366073074"
+    }
+  },
+  {
+    "選區": "彰化縣第二選舉區",
+    "參選人": "黃秀芳",
+    "AD_ID": "1733579320105475",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-16",
+    "結束日期": "2019-12-20",
+    "廣告內容": "小朋友最喜歡的YOYO家族-香蕉哥哥、浣熊哥哥、天竺鼠姐姐、番茄姐姐、YOYO MAN來囉🥳🥳🥳 12/21（六）親子同歡FUN起來~聖誕嘉年華 14：00～17：00 彰化玉皇宮-(彰化市彰南路1段福山街168號) 現場準備🛒 充氣溜滑梯🎠、充氣遊樂園🏰免費遊玩、親子互動闖關、爆米花 YoYo家族哥哥姐姐現場帶動唱表演💃🏻🕺🏻💃🏻🕺🏻 秀芳邀請各位大朋友小朋友，一起同歡慶聖誕❤️ 當天完成✅神秘任務，可兌換精美小禮物，數量有限，換完為止💪💪 優先報名者，安排搖滾熱區 熱區座位有限，以報到順序安排，如報名超過熱區座位人數，請另找座位，不辨之處請多多見諒",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/80724974_1733579333438807_5290254863664414720_n.jpg?_nc_cat=100&_nc_ohc=M9bCxHVOep0AQmPGYJOHUu0WOAepGNV5nAmZ9GApP2KoGskjBsWRAyi4w&_nc_ht=scontent-hkg3-1.xx&oh=30c6bcee948ba2ee2a44ae39679678f8&oe=5EA660E0",
+    "廣告詳情": {
+      "ad_creative_body": "小朋友最喜歡的YOYO家族-香蕉哥哥、浣熊哥哥、天竺鼠姐姐、番茄姐姐、YOYO MAN來囉🥳🥳🥳\n\n12/21（六）親子同歡FUN起來~聖誕嘉年華\n14：00～17：00 彰化玉皇宮-(彰化市彰南路1段福山街168號)\n\n現場準備🛒\n充氣溜滑梯🎠、充氣遊樂園🏰免費遊玩、親子互動闖關、爆米花\nYoYo家族哥哥姐姐現場帶動唱表演💃🏻🕺🏻💃🏻🕺🏻\n\n秀芳邀請各位大朋友小朋友，一起同歡慶聖誕❤️\n當天完成✅神秘任務，可兌換精美小禮物，數量有限，換完為止💪💪\n\n優先報名者，安排搖滾熱區\n熱區座位有限，以報到順序安排，如報名超過熱區座位人數，請另找座位，不辨之處請多多見諒",
+      "ad_creation_time": "2019-12-16T10:35:52+0000",
+      "ad_creative_link_caption": "親子同歡fun起來~聖誕嘉年華",
+      "ad_creative_link_description": "彰化玉皇宮",
+      "ad_creative_link_title": "親子同歡fun起來~聖誕嘉年華",
+      "ad_delivery_start_time": "2019-12-16T10:35:52+0000",
+      "ad_delivery_stop_time": "2019-12-20T10:35:40+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000134",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.018499",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.062735",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.314477",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.224263",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.044638",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.117024",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.015013",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.043029",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.032038",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.060054",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.02319",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.044102",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000268",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000402",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000134",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "家鈞 陳",
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "197493393915516",
+      "page_name": "黃秀芳",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Changhua"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "1733579320105475"
+    }
+  },
+  {
+    "選區": "彰化縣第二選舉區",
+    "參選人": "黃秀芳",
+    "AD_ID": "443573786320796",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-16",
+    "結束日期": "2019-12-20",
+    "廣告內容": "小朋友最喜歡的YOYO家族-香蕉哥哥、浣熊哥哥、天竺鼠姐姐、番茄姐姐、YOYO MAN來囉🥳🥳🥳 12/21（六）親子同歡FUN起來~聖誕嘉年華 14：00～17：00 彰化玉皇宮-(彰化市彰南路1段福山街168號) 現場準備🛒 充氣溜滑梯🎠、充氣遊樂園🏰免費遊玩、親子互動闖關、爆米花 YoYo家族哥哥姐姐現場帶動唱表演💃🏻🕺🏻💃🏻🕺🏻 秀芳邀請各位大朋友小朋友，一起同歡慶聖誕❤️ 當天完成✅神秘任務，可兌換精美小禮物，數量有限，換完為止💪💪 搖滾區報名網址:https://forms.gle/gj4NpjfTJcP185TG9 優先報名者，安排搖滾熱區 熱區座位有限，以報到順序安排，如報名超過熱區座位人數，請另找座位，不辨之處請多多見諒",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80261781_1088241544840692_5241050644579614720_n.jpg?_nc_cat=102&_nc_ohc=gfRyFeUpNNcAQlTU0ACMrNHDfhoppG4AwuK4nkO_-04AMTAQxOlwTuaPw&_nc_ht=scontent-hkg3-1.xx&oh=09f2f3a64764008aff1fd2aa44f711f9&oe=5EAF9048",
+    "廣告詳情": {
+      "ad_creative_body": "小朋友最喜歡的YOYO家族-香蕉哥哥、浣熊哥哥、天竺鼠姐姐、番茄姐姐、YOYO MAN來囉🥳🥳🥳\n\n12/21（六）親子同歡FUN起來~聖誕嘉年華\n14：00～17：00 彰化玉皇宮-(彰化市彰南路1段福山街168號)\n\n現場準備🛒\n充氣溜滑梯🎠、充氣遊樂園🏰免費遊玩、親子互動闖關、爆米花\nYoYo家族哥哥姐姐現場帶動唱表演💃🏻🕺🏻💃🏻🕺🏻\n\n秀芳邀請各位大朋友小朋友，一起同歡慶聖誕❤️\n當天完成✅神秘任務，可兌換精美小禮物，數量有限，換完為止💪💪\n\n搖滾區報名網址:https://forms.gle/gj4NpjfTJcP185TG9\n\n優先報名者，安排搖滾熱區\n熱區座位有限，以報到順序安排，如報名超過熱區座位人數，請另找座位，不辨之處請多多見諒",
+      "ad_creation_time": "2019-12-16T10:27:04+0000",
+      "ad_delivery_start_time": "2019-12-16T10:27:04+0000",
+      "ad_delivery_stop_time": "2019-12-20T10:26:49+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.119351",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.065119",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000205",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000103",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000103",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000103",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.02917",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.031841",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.087305",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.07426",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.100349",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.080937",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.040879",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.16742",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.148932",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.053615",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000308",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "家鈞 陳",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "197493393915516",
+      "page_name": "黃秀芳",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Changhua"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1500",
+        "upper_bound": "1999"
+      },
+      "ad_id": "443573786320796"
+    }
+  },
+  {
+    "選區": "彰化縣第二選舉區",
+    "參選人": "黃秀芳",
+    "AD_ID": "440047223604947",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-17",
+    "結束日期": "1970-01-01",
+    "廣告內容": "立法委員黃秀芳這次選舉抽到2號！ 秀芳對2號感到很滿意，今天開始也會繼續掃街拜票，一步一腳印的爭取民眾的支持，明年的1/11請一定要投用心聽、認真做的黃秀芳！ 彰化建設我來扛，請投2號黃秀芳！ #2020台灣要贏 #護國會保台灣 #票投2號黃秀芳 #彰化芬園花壇 #彰化縣 #第二選區 #立法委員 #黃秀芳",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79644729_1089773908020789_3810409983313444864_n.jpg?_nc_cat=111&_nc_ohc=vGWESE06oowAQmYj1cpBepCGg84izfoGWF-CtiavOFbVNpxtt_zGMJymw&_nc_ht=scontent-hkg3-2.xx&oh=a88614dceeea555b189efe11b5186352&oe=5E733979",
+    "廣告詳情": {
+      "ad_creative_body": "立法委員黃秀芳這次選舉抽到2號！\n\n秀芳對2號感到很滿意，今天開始也會繼續掃街拜票，一步一腳印的爭取民眾的支持，明年的1/11請一定要投用心聽、認真做的黃秀芳！\n\n彰化建設我來扛，請投2號黃秀芳！\n\n#2020台灣要贏 #護國會保台灣 #票投2號黃秀芳\n#彰化芬園花壇 #彰化縣 #第二選區 #立法委員 #黃秀芳",
+      "ad_creation_time": "2019-12-18T01:37:06+0000",
+      "ad_delivery_start_time": "2019-12-18T01:37:06+0000",
+      "ad_delivery_stop_time": "2019-12-28T01:36:55+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000181",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.17841",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.170984",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.086397",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.095091",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.076979",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.047455",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.157761",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.050715",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.017932",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.023909",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.036225",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.057598",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000362",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "家鈞 陳",
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "197493393915516",
+      "page_name": "黃秀芳",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Changhua"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "440047223604947"
+    }
+  },
+  {
+    "選區": "彰化縣第二選舉區",
+    "參選人": "黃秀芳",
+    "AD_ID": "2452180351691668",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-18",
+    "結束日期": "2019-12-21",
+    "廣告內容": "🌻泡泡是療癒人心的小物， 讓所有大小朋友在泡泡世界裡變成好朋友🤝 連秀芳阿姨的心也被可愛又夢幻的泡泡融化✨✨ 這次我們邀請泡泡達人來帶我們度過歡樂的假日時光💓 讓秀芳跟泡泡先生帶大家進入泡泡的聖誕夢幻世界🌈 屬於大人小孩最歡樂的親子時光，快來報名喔❤️❤️ 現場有泡泡哥哥的表演、充氣遊樂園🙆‍♂🙆‍♀ 這次還有親子互動闖關、歡樂帶動唱❤❤ 當天穿著紅綠白元素可兌換精美小禮品 👉報名網址:https://forms.gle/j1TLH761WVN3otCm8 活動費用：免費❗❗ 活動資訊： 12/22(日)上午09:00→彰化市延平公園(彰化縣彰化市文心街) 當天穿著紅綠白元素可兌換精美小禮品 活動報到時間： 報到時間  上午09:00-09:30，09:45未報到即開放現場補位 活動費用：免費❗❗ 活動注意事項： 1.本活動將以簡訊發送錄取通知，請務必確認聯絡資訊的正確性❗❗ 名額有限，收到簡訊者才算報名成功 （12/22場次簡訊發送時間12/21 晚上6：00）🔺 2.國中以下小朋友，家長須全程陪同參加。 3.一張表單為一組器材借用，請勿重複填寫。 4.為避免浪費資源，報名後請務必出席，無故取消者，未來將不再受理後續活動報名。 5.活動簡訊請勿轉傳，轉傳無效 6.本活動如遇雨將取消。 👉聯絡方式： ☎️電話：04-7280980（黃秀芳立委服務處） 黃秀芳立委粉絲專頁：https://www.facebook.com/smilefangfang/?ref=bookmarks 黃秀芳立委Line好友連結：https://line.me/R/ti/p/%40smilefang",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/80578174_1090119414652905_4594040802421768192_n.jpg?_nc_cat=111&_nc_ohc=RbJsf4q4V2oAQng6f6oFoux-A8zrZM1Yz3sabIdqvFhreJ2Cd6U9_WcKA&_nc_ht=scontent-hkg3-2.xx&oh=91ac9daacd9183da39b5e9d232d41887&oe=5EAFA926",
+    "廣告詳情": {
+      "ad_creative_body": "🌻泡泡是療癒人心的小物，\n讓所有大小朋友在泡泡世界裡變成好朋友🤝\n連秀芳阿姨的心也被可愛又夢幻的泡泡融化✨✨\n這次我們邀請泡泡達人來帶我們度過歡樂的假日時光💓\n讓秀芳跟泡泡先生帶大家進入泡泡的聖誕夢幻世界🌈\n屬於大人小孩最歡樂的親子時光，快來報名喔❤️❤️\n\n現場有泡泡哥哥的表演、充氣遊樂園🙆‍♂🙆‍♀\n這次還有親子互動闖關、歡樂帶動唱❤❤\n當天穿著紅綠白元素可兌換精美小禮品\n\n👉報名網址:https://forms.gle/j1TLH761WVN3otCm8\n活動費用：免費❗❗\n活動資訊：\n12/22(日)上午09:00→彰化市延平公園(彰化縣彰化市文心街)\n當天穿著紅綠白元素可兌換精美小禮品\n活動報到時間：\n報到時間\n 上午09:00-09:30，09:45未報到即開放現場補位\n活動費用：免費❗❗\n活動注意事項：\n1.本活動將以簡訊發送錄取通知，請務必確認聯絡資訊的正確性❗❗\n名額有限，收到簡訊者才算報名成功\n（12/22場次簡訊發送時間12/21 晚上6：00）🔺\n2.國中以下小朋友，家長須全程陪同參加。\n3.一張表單為一組器材借用，請勿重複填寫。\n4.為避免浪費資源，報名後請務必出席，無故取消者，未來將不再受理後續活動報名。\n5.活動簡訊請勿轉傳，轉傳無效\n6.本活動如遇雨將取消。\n\n👉聯絡方式：\n☎️電話：04-7280980（黃秀芳立委服務處）\n黃秀芳立委粉絲專頁：https://www.facebook.com/smilefangfang/?ref=bookmarks\n黃秀芳立委Line好友連結：https://line.me/R/ti/p/%40smilefang",
+      "ad_creation_time": "2019-12-18T10:53:22+0000",
+      "ad_delivery_start_time": "2019-12-18T10:53:22+0000",
+      "ad_delivery_stop_time": "2019-12-21T10:53:08+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.047321",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.130179",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.137912",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.157798",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.071994",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.118947",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.078807",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.042534",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.096115",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.065734",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.030934",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.021175",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000184",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000184",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000184",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "家鈞 陳",
+      "impressions": {
+        "lower_bound": "9000",
+        "upper_bound": "9999"
+      },
+      "page_id": "197493393915516",
+      "page_name": "黃秀芳",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Changhua"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "2452180351691668"
+    }
+  },
+  {
+    "選區": "彰化縣第二選舉區",
+    "參選人": "黃秀芳",
+    "AD_ID": "2574122812655085",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-07",
+    "結束日期": "2019-11-30",
+    "廣告內容": "按讚接收國會最新資訊👍 懇請支持彰化、芬園、花壇立法委員 黃秀芳",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74293907_697228067457979_5933691237197414400_n.jpg?_nc_cat=106&_nc_ohc=rHs9lpLLxk8AQmxpVvRqQcnf5sm5JunTOJAb9LFsvcxscumJcNLD9WqQQ&_nc_ht=scontent-hkg3-1.xx&oh=c2d897424a2e151866c7343d822bfbb8&oe=5E80EF05",
+    "廣告詳情": {
+      "ad_creative_body": "按讚接收國會最新資訊👍\n懇請支持彰化、芬園、花壇立法委員 黃秀芳",
+      "ad_creation_time": "2019-11-01T04:14:58+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "我是秀芳，用心聽、認真做。\n讓青年世代 有機會表現",
+      "ad_creative_link_title": "黃秀芳",
+      "ad_delivery_start_time": "2019-11-01T04:14:58+0000",
+      "ad_delivery_stop_time": "2019-11-16T09:51:15+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.115108",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.028777",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.215827",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.165468",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.079137",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.179856",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.079137",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.035971",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.043165",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.028777",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.007194",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.021583",
           "age": "25-34",
           "gender": "female"
         }
       ],
-      "funding_entity": "家鈞 陳",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "197493393915516",
+      "page_name": "黃秀芳",
+      "region_distribution": [
+        {
+          "percentage": "0.597122",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.280576",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.043165",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.079137",
+          "region": "Yunlin"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "2574122812655085"
+    }
+  },
+  {
+    "選區": "彰化縣第二選舉區",
+    "參選人": "黃秀芳",
+    "AD_ID": "524178568369073",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-07",
+    "結束日期": "2019-11-30",
+    "廣告內容": "按讚接收國會最新資訊👍 懇請支持彰化、芬園、花壇立法委員 黃秀芳",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74293907_697228067457979_5933691237197414400_n.jpg?_nc_cat=106&_nc_ohc=rHs9lpLLxk8AQmxpVvRqQcnf5sm5JunTOJAb9LFsvcxscumJcNLD9WqQQ&_nc_ht=scontent-hkg3-1.xx&oh=c2d897424a2e151866c7343d822bfbb8&oe=5E80EF05",
+    "廣告詳情": {
+      "ad_creative_body": "按讚接收國會最新資訊👍\n懇請支持彰化、芬園、花壇立法委員 黃秀芳",
+      "ad_creation_time": "2019-10-18T09:22:19+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "我是秀芳，用心聽、認真做。\n讓青年世代 有機會表現",
+      "ad_creative_link_title": "黃秀芳",
+      "ad_delivery_start_time": "2019-10-18T09:22:19+0000",
+      "ad_delivery_stop_time": "2019-11-30T15:55:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.218905",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.049751",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.174129",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.049751",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.069652",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.124378",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.119403",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.0199",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.004975",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.084577",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.039801",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.044776",
+          "age": "18-24",
+          "gender": "male"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "197493393915516",
+      "page_name": "黃秀芳",
+      "region_distribution": [
+        {
+          "percentage": "0.467662",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.383085",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.00995",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.069652",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.069652",
+          "region": "Yunlin"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "524178568369073"
+    }
+  },
+  {
+    "選區": "彰化縣第二選舉區",
+    "參選人": "黃秀芳",
+    "AD_ID": "482746018982898",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-07",
+    "結束日期": "2019-11-30",
+    "廣告內容": "按讚接收國會最新資訊👍 懇請支持彰化、芬園、花壇立法委員 黃秀芳",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74293907_697228067457979_5933691237197414400_n.jpg?_nc_cat=106&_nc_ohc=rHs9lpLLxk8AQmxpVvRqQcnf5sm5JunTOJAb9LFsvcxscumJcNLD9WqQQ&_nc_ht=scontent-hkg3-1.xx&oh=c2d897424a2e151866c7343d822bfbb8&oe=5E80EF05",
+    "廣告詳情": {
+      "ad_creative_body": "按讚接收國會最新資訊👍\n懇請支持彰化、芬園、花壇立法委員 黃秀芳",
+      "ad_creation_time": "2019-10-16T10:15:03+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "我是秀芳，用心聽、認真做。\n讓青年世代 有機會表現",
+      "ad_creative_link_title": "黃秀芳",
+      "ad_delivery_start_time": "2019-10-16T10:15:03+0000",
+      "ad_delivery_stop_time": "2019-11-30T15:55:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.012712",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.059322",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.016949",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.012712",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.254237",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.118644",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.033898",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.067797",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.207627",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.033898",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.050847",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.131356",
+          "age": "55-64",
+          "gender": "male"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "197493393915516",
+      "page_name": "黃秀芳",
+      "region_distribution": [
+        {
+          "percentage": "0.063025",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.058824",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.415966",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.462185",
+          "region": "Changhua"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "482746018982898"
+    }
+  },
+  {
+    "選區": "彰化縣第二選舉區",
+    "參選人": "黃秀芳",
+    "AD_ID": "742250746198847",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-07",
+    "結束日期": "2019-11-30",
+    "廣告內容": "按讚接收國會最新資訊👍 懇請支持彰化、芬園、花壇立法委員 黃秀芳",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74293907_697228067457979_5933691237197414400_n.jpg?_nc_cat=106&_nc_ohc=rHs9lpLLxk8AQmxpVvRqQcnf5sm5JunTOJAb9LFsvcxscumJcNLD9WqQQ&_nc_ht=scontent-hkg3-1.xx&oh=c2d897424a2e151866c7343d822bfbb8&oe=5E80EF05",
+    "廣告詳情": {
+      "ad_creative_body": "按讚接收國會最新資訊👍\n懇請支持彰化、芬園、花壇立法委員 黃秀芳",
+      "ad_creation_time": "2019-10-16T10:03:36+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "我是秀芳，用心聽、認真做。\n讓青年世代 有機會表現",
+      "ad_creative_link_title": "黃秀芳",
+      "ad_delivery_start_time": "2019-10-16T10:03:36+0000",
+      "ad_delivery_stop_time": "2019-11-30T15:55:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.195965",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.059078",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.142651",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.17147",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.043228",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.139769",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.06196",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.060519",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.066282",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.024496",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.014409",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.020173",
+          "age": "18-24",
+          "gender": "female"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "197493393915516",
+      "page_name": "黃秀芳",
+      "region_distribution": [
+        {
+          "percentage": "0.441926",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.393768",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.004249",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.065156",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.094901",
+          "region": "Yunlin"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "199"
+      },
+      "ad_id": "742250746198847"
+    }
+  },
+  {
+    "選區": "彰化縣第二選舉區",
+    "參選人": "黃秀芳",
+    "AD_ID": "947548178955815",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-07",
+    "結束日期": "2019-11-30",
+    "廣告內容": "按讚接收國會最新資訊👍 懇請支持彰化、芬園、花壇立法委員 黃秀芳",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74293907_697228067457979_5933691237197414400_n.jpg?_nc_cat=106&_nc_ohc=rHs9lpLLxk8AQmxpVvRqQcnf5sm5JunTOJAb9LFsvcxscumJcNLD9WqQQ&_nc_ht=scontent-hkg3-1.xx&oh=c2d897424a2e151866c7343d822bfbb8&oe=5E80EF05",
+    "廣告詳情": {
+      "ad_creative_body": "按讚接收國會最新資訊👍\n懇請支持彰化、芬園、花壇立法委員 黃秀芳",
+      "ad_creation_time": "2019-10-16T10:03:36+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "我是秀芳，用心聽、認真做。\n讓青年世代 有機會表現",
+      "ad_creative_link_title": "黃秀芳",
+      "ad_delivery_start_time": "2019-10-16T10:03:36+0000",
+      "ad_delivery_stop_time": "2019-11-30T15:55:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.14715",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.053886",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.187565",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.132642",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.218653",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.025907",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.027979",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.065285",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.078756",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.011399",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.019689",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.030052",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001036",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
       "impressions": {
         "lower_bound": "1000",
         "upper_bound": "1999"
@@ -5325,14 +7392,156 @@
       "page_name": "黃秀芳",
       "region_distribution": [
         {
-          "percentage": "1",
+          "percentage": "0.484168",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.366701",
           "region": "Changhua"
+        },
+        {
+          "percentage": "0.005107",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.061287",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.082737",
+          "region": "Yunlin"
         }
       ],
       "spend": {
-        "lower_bound": "0",
-        "upper_bound": "99"
-      }
+        "lower_bound": "100",
+        "upper_bound": "199"
+      },
+      "ad_id": "947548178955815"
+    }
+  },
+  {
+    "選區": "彰化縣第二選舉區",
+    "參選人": "黃秀芳",
+    "AD_ID": "1022647781400287",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-11-07",
+    "結束日期": "2019-11-30",
+    "廣告內容": "按讚接收國會最新資訊👍 懇請支持彰化、芬園、花壇立法委員 黃秀芳",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/74293907_697228067457979_5933691237197414400_n.jpg?_nc_cat=106&_nc_ohc=rHs9lpLLxk8AQmxpVvRqQcnf5sm5JunTOJAb9LFsvcxscumJcNLD9WqQQ&_nc_ht=scontent-hkg3-1.xx&oh=c2d897424a2e151866c7343d822bfbb8&oe=5E80EF05",
+    "廣告詳情": {
+      "ad_creative_body": "按讚接收國會最新資訊👍\n懇請支持彰化、芬園、花壇立法委員 黃秀芳",
+      "ad_creation_time": "2019-10-16T10:03:36+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "我是秀芳，用心聽、認真做。\n讓青年世代 有機會表現",
+      "ad_creative_link_title": "黃秀芳",
+      "ad_delivery_start_time": "2019-10-16T10:03:36+0000",
+      "ad_delivery_stop_time": "2019-11-30T15:55:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000563",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000188",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.206677",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.164854",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.035446",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.037134",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.217929",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.088897",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.099587",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.017629",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.074644",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.014629",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.035446",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.006377",
+          "age": "18-24",
+          "gender": "female"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "7000",
+        "upper_bound": "7999"
+      },
+      "page_id": "197493393915516",
+      "page_name": "黃秀芳",
+      "region_distribution": [
+        {
+          "percentage": "0.473592",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.389822",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.003323",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.065233",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.068031",
+          "region": "Yunlin"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "1022647781400287"
     }
   }
 ]

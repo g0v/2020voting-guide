@@ -32,8 +32,8 @@ data = [
         **d,
         "currentLegislator": True if d["currentLegislator"] == "Y" else False,
         "beenLegislator": True if d["beenLegislator"] == "Y" else False,
-        "education": d["education"].replace(";", "\n").replace("\n\n", "\n").strip() if d["education"] else None,
-        "experience": d["experience"].replace(";", "\n").replace("\n\n", "\n").strip() if d["experience"] else None,
+        "education": d["education"].replace("；", "\n").replace(";", "\n").replace("\n\n", "\n").strip() if d["education"] else None,
+        "experience": d["experience"].replace("；", "\n").replace(";", "\n").replace("\n\n", "\n").strip() if d["experience"] else None,
     }
     for d in data
 ]

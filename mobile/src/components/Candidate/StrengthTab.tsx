@@ -4,37 +4,12 @@ import Alert from '../Alert';
 import AdCard from './AdCard';
 import CompareBarChart from './CompareBarChart';
 import ContributionChart from './ContributionChart';
+import { AdCardProp } from './AdCard';
 
 const candidateFBDefault = {
     name: '',
     fbPage: ''
 };
-
-interface AD {
-    開始日期: string;
-    結束日期: string;
-    圖片: string;
-    廣告內容: string;
-    廣告詳情: {
-        ad_creative_body: string;
-        ad_creation_time: string;
-        ad_creative_link_caption: string;
-        ad_creative_link_description: string;
-        ad_creative_link_title: string;
-        ad_delivery_start_time: string;
-        ad_delivery_stop_time: string;
-        currency: string;
-        demographic_distribution: string;
-        impressions: {
-            lower_bound: string;
-            upper_bound: string;
-        };
-        spend: {
-            lower_bound: string;
-            upper_bound: string;
-        };
-    };
-}
 
 const Payment: {
     candidate: {
@@ -219,8 +194,8 @@ const StrengthTab = ({
                     </Box>
                 )}
                 <Box px={1} pb={1}>
-                    {ads.map((ad: AD) => (
-                        <AdCard {...ad} />
+                    {ads.map((ad: AdCardProp) => (
+                        <AdCard {...ad} key={ad.AD_ID} />
                     ))}
                 </Box>
             </Box>

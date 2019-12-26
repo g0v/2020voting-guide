@@ -1,0 +1,401 @@
+[
+  {
+    "選區": "桃園市第四選舉區",
+    "參選人": "萬美玲",
+    "AD_ID": "527379424517417",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-21",
+    "結束日期": "1970-01-01",
+    "廣告內容": "桃園縣第15、16、17屆縣議員 桃園市第1、2屆市議員",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/80972826_527379441184082_2865199866009616384_n.jpg?_nc_cat=105&_nc_ohc=ef-rJ7Dbr0MAQmf8K-1QEzwN1pPj0Yiwk_MLNR_D1Sv1QbcYRg3m3mrkQ&_nc_ht=scontent-hkg3-1.xx&oh=52c42ab072cf44ea8e468ea2c722f5e3&oe=5EA73E84",
+    "廣告詳情": {
+      "ad_creative_body": "桃園縣第15、16、17屆縣議員\n桃園市第1、2屆市議員",
+      "ad_creation_time": "2019-12-21T22:37:55+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "桃園縣第15、16、17屆縣議員\n桃園市第1、2屆市議員",
+      "ad_creative_link_title": "萬美玲",
+      "ad_delivery_start_time": "2019-12-21T22:38:12+0000",
+      "ad_delivery_stop_time": "2019-12-26T22:38:12+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.039072",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.020757",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.169719",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.202686",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.04884",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.014652",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.257631",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.039072",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.028083",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.136752",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.03663",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.004884",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001221",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "美玲 萬",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "119465751469140",
+      "page_name": "萬美玲",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taoyuan City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "199"
+      },
+      "ad_id": "527379424517417"
+    }
+  },
+  {
+    "選區": "桃園市第四選舉區",
+    "參選人": "萬美玲",
+    "AD_ID": "529953590928797",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-21",
+    "結束日期": "1970-01-01",
+    "廣告內容": "今天是嘉義同鄉會一年一度的會員大會，我是嘉義水上鄕的女兒，在現場有2000多位鄉親全力力挺美玲當選立委，創會長黃主文部長也說：「嘉義人就是要挺嘉義的女兒，一定要送美玲進國會！」 特別感謝陳建安理事長、輔導理事長陳萬得，以及榮譽理事長侯科男、章平祥、何良鴻、何大俊、柳楷書、劉八郎、張棟樑的支持，給美玲最大的信心，我們團結一致往勝利邁進。",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79744335_2773747939374228_7630819771478441984_n.jpg?_nc_cat=102&_nc_ohc=OFf3DchY25IAQkyK1FSkEwF0ThI9TibJqa6tHCfk20gr63Trx0u3pCDAg&_nc_ht=scontent-hkg3-1.xx&oh=3597a57cac15e348b0ff2e04a5544ee2&oe=5EB30F14",
+    "廣告詳情": {
+      "ad_creative_body": "今天是嘉義同鄉會一年一度的會員大會，我是嘉義水上鄕的女兒，在現場有2000多位鄉親全力力挺美玲當選立委，創會長黃主文部長也說：「嘉義人就是要挺嘉義的女兒，一定要送美玲進國會！」\n\n特別感謝陳建安理事長、輔導理事長陳萬得，以及榮譽理事長侯科男、章平祥、何良鴻、何大俊、柳楷書、劉八郎、張棟樑的支持，給美玲最大的信心，我們團結一致往勝利邁進。",
+      "ad_creation_time": "2019-12-21T13:59:08+0000",
+      "ad_delivery_start_time": "2019-12-21T13:59:08+0000",
+      "ad_delivery_stop_time": "2019-12-22T13:58:56+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.114462",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.104866",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.017135",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.248115",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.114805",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.078478",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.242289",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.024332",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.053119",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001714",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000343",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000343",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "美玲 萬",
+      "impressions": {
+        "lower_bound": "3000",
+        "upper_bound": "3999"
+      },
+      "page_id": "119465751469140",
+      "page_name": "萬美玲",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taoyuan City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "400",
+        "upper_bound": "499"
+      },
+      "ad_id": "529953590928797"
+    }
+  },
+  {
+    "選區": "桃園市第四選舉區",
+    "參選人": "萬美玲",
+    "AD_ID": "818727245226773",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-20",
+    "結束日期": "2019-12-21",
+    "廣告內容": "萬美玲姐姐的大型氣墊城堡在12/21、12/22兩天來到中正公園了！ 現場有6座大型氣墊滑梯、城堡跳跳床等遊樂設施，一定會讓小寶貝們嗨翻天，各位爸爸媽媽準備好帶家裡的小寶貝一起來Happy喔！ 12/21還有momo家族的哈密瓜哥哥及糖果姐姐歡樂帶動跳，歡迎各位爸爸媽媽帶著孩子來中正公園享受一個親子同樂的週末。 #桃園富足孩子幸福 #孩子的未來你我的希望",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/80197901_2771253559623666_8230169912035770368_n.jpg?_nc_cat=107&_nc_ohc=r-fyiSpDK8UAQljUpPXIu0zTDUQh2efN8EWvxZCG0LRftXIp7BwA5pzUg&_nc_ht=scontent-hkg3-2.xx&oh=44c51c14794aed464de4b3a3d1f58b81&oe=5E67179B",
+    "廣告詳情": {
+      "ad_creative_body": "萬美玲姐姐的大型氣墊城堡在12/21、12/22兩天來到中正公園了！\n\n現場有6座大型氣墊滑梯、城堡跳跳床等遊樂設施，一定會讓小寶貝們嗨翻天，各位爸爸媽媽準備好帶家裡的小寶貝一起來Happy喔！\n\n12/21還有momo家族的哈密瓜哥哥及糖果姐姐歡樂帶動跳，歡迎各位爸爸媽媽帶著孩子來中正公園享受一個親子同樂的週末。\n\n#桃園富足孩子幸福\n#孩子的未來你我的希望",
+      "ad_creation_time": "2019-12-20T22:34:33+0000",
+      "ad_delivery_start_time": "2019-12-20T22:34:33+0000",
+      "ad_delivery_stop_time": "2019-12-21T22:34:22+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000458",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000458",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000305",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.031746",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.085317",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.073871",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.154151",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.065324",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.186966",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.196581",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.103022",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.044567",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.057234",
+          "age": "45-54",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "美玲 萬",
+      "impressions": {
+        "lower_bound": "7000",
+        "upper_bound": "7999"
+      },
+      "page_id": "119465751469140",
+      "page_name": "萬美玲",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taoyuan City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "818727245226773"
+    }
+  },
+  {
+    "選區": "桃園市第四選舉區",
+    "參選人": "萬美玲",
+    "AD_ID": "3195273067155949",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-21",
+    "結束日期": "1970-01-01",
+    "廣告內容": "桃園縣第15、16、17屆縣議員 桃園市第1、2屆市議員",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/80972826_527379441184082_2865199866009616384_n.jpg?_nc_cat=105&_nc_ohc=ef-rJ7Dbr0MAQmf8K-1QEzwN1pPj0Yiwk_MLNR_D1Sv1QbcYRg3m3mrkQ&_nc_ht=scontent-hkg3-1.xx&oh=52c42ab072cf44ea8e468ea2c722f5e3&oe=5EA73E84",
+    "廣告詳情": {
+      "ad_creative_body": "桃園縣第15、16、17屆縣議員\n桃園市第1、2屆市議員",
+      "ad_creation_time": "2019-12-20T22:26:21+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "桃園縣第15、16、17屆縣議員\n桃園市第1、2屆市議員",
+      "ad_creative_link_title": "萬美玲",
+      "ad_delivery_start_time": "2019-12-20T22:26:39+0000",
+      "ad_delivery_stop_time": "2019-12-25T22:26:39+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.232816",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.046563",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.281596",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.119734",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.02439",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.16408",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.015521",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.013304",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.031042",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.031042",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.039911",
+          "age": "65+",
+          "gender": "male"
+        }
+      ],
+      "funding_entity": "美玲 萬",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "119465751469140",
+      "page_name": "萬美玲",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taoyuan City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "3195273067155949"
+    }
+  }
+]

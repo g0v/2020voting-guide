@@ -5,9 +5,9 @@
     "AD_ID": "965530837143067",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-11",
-    "結束日期": "2019-12-06",
+    "結束日期": "1970-01-01",
     "廣告內容": "本粉絲頁為一邊一國行動黨官方粉絲頁，由黨部直接經營與回應。",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/77891030_965530953809722_5127609472981663744_n.jpg?_nc_cat=103&_nc_ohc=LlG1EcPX3wIAQl7BBLe0O2AOuODomP_Zs52n3RWaGP1Fu_AVK0ueVFMlQ&_nc_ht=scontent-hkg3-1.xx&oh=5ad0a8c04cde8ef6b04e85d64a4a5f54&oe=5E70AA54",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/77891030_965530953809722_5127609472981663744_n.jpg?_nc_cat=103&_nc_ohc=2agxnONyBAcAQktFQZRI66PYW5V4OGEd9uLuhinUH4XkOFYJFvImIFVEQ&_nc_ht=scontent-hkg3-1.xx&oh=07c3a5baee3abf9c3524d40ad9275357&oe=5E70AA54",
     "廣告詳情": {
       "ad_creative_body": "本粉絲頁為一邊一國行動黨官方粉絲頁，由黨部直接經營與回應。",
       "ad_creation_time": "2019-11-11T13:58:08+0000",
@@ -95,7 +95,8 @@
       "spend": {
         "lower_bound": "2000",
         "upper_bound": "2499"
-      }
+      },
+      "ad_id": "965530837143067"
     }
   },
   {
@@ -103,10 +104,10 @@
     "參選人": "一邊一國行動黨",
     "AD_ID": "504467010161854",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-12-04",
-    "結束日期": "2019-12-06",
+    "開始日期": "2019-12-16",
+    "結束日期": "1970-01-01",
     "廣告內容": "支持阿扁，請將政黨票投給一邊一國行動黨",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79155629_504467023495186_6303971908362698752_n.jpg?_nc_cat=109&_nc_ohc=YovoD-EP40oAQmcLTuRDoQ2hZHLz0KfRNSTGaWs4YgtLvUlCh6i9psRuA&_nc_ht=scontent-hkg3-1.xx&oh=63e30e1431c779ccc11e1208307c6037&oe=5E88B4EE",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79976560_460414978235172_8690431625521004544_n.jpg?_nc_cat=101&_nc_ohc=6P5z50O8eq8AQnSN7lGt3XH7LsRhWQRPH8telcW3po0TZwoXsO6LGkC9w&_nc_ht=scontent-hkg3-1.xx&oh=ab58e04307a0a80a576ae28fd8346c53&oe=5E756E75",
     "廣告詳情": {
       "ad_creative_body": "支持阿扁，請將政黨票投給一邊一國行動黨",
       "ad_creation_time": "2019-12-04T10:21:22+0000",
@@ -116,79 +117,1119 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.242739",
+          "percentage": "0.232538",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.447651",
+          "percentage": "0.454883",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.086052",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.192542",
+          "percentage": "0.198878",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.002151",
+          "percentage": "0.017304",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.086204",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.007427",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002212",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.020796",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.007888",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000179",
+          "percentage": "0.000553",
           "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "一邊一國行動黨",
       "impressions": {
-        "lower_bound": "6000",
-        "upper_bound": "6999"
+        "lower_bound": "20000",
+        "upper_bound": "24999"
       },
       "page_id": "101909061180405",
       "page_name": "一邊一國行動黨",
       "region_distribution": [
         {
-          "percentage": "0.389892",
+          "percentage": "0.384759",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.349819",
+          "percentage": "0.358249",
           "region": "Tainan"
         },
         {
-          "percentage": "0.01444",
+          "percentage": "0.012079",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.10343",
+          "percentage": "0.100689",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.142419",
+          "percentage": "0.144224",
+          "region": "Yunlin"
+        }
+      ],
+      "spend": {
+        "lower_bound": "600",
+        "upper_bound": "699"
+      },
+      "ad_id": "504467010161854"
+    }
+  },
+  {
+    "選區": "政黨",
+    "參選人": "一邊一國行動黨",
+    "AD_ID": "2649678355318811",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-16",
+    "結束日期": "1970-01-01",
+    "廣告內容": "支持阿扁，請將政黨票投給一邊一國行動黨",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79976560_460414978235172_8690431625521004544_n.jpg?_nc_cat=101&_nc_ohc=6P5z50O8eq8AQnSN7lGt3XH7LsRhWQRPH8telcW3po0TZwoXsO6LGkC9w&_nc_ht=scontent-hkg3-1.xx&oh=ab58e04307a0a80a576ae28fd8346c53&oe=5E756E75",
+    "廣告詳情": {
+      "ad_creative_body": "支持阿扁，請將政黨票投給一邊一國行動黨",
+      "ad_creation_time": "2019-12-10T14:32:25+0000",
+      "ad_creative_link_caption": "tapa.tw",
+      "ad_creative_link_title": "一邊一國行動黨",
+      "ad_delivery_start_time": "2019-12-10T14:32:25+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.477119",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.075519",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.176544",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.24081",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00175",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.008002",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.020005",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00025",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "一邊一國行動黨",
+      "impressions": {
+        "lower_bound": "4000",
+        "upper_bound": "4999"
+      },
+      "page_id": "101909061180405",
+      "page_name": "一邊一國行動黨",
+      "region_distribution": [
+        {
+          "percentage": "0.406448",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.349835",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.010409",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.102056",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.131252",
           "region": "Yunlin"
         }
       ],
       "spend": {
         "lower_bound": "100",
         "upper_bound": "199"
-      }
+      },
+      "ad_id": "2649678355318811"
+    }
+  },
+  {
+    "選區": "政黨",
+    "參選人": "一邊一國行動黨",
+    "AD_ID": "460414961568507",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-16",
+    "結束日期": "1970-01-01",
+    "廣告內容": "支持阿扁，請將政黨票投給一邊一國行動黨",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79976560_460414978235172_8690431625521004544_n.jpg?_nc_cat=101&_nc_ohc=6P5z50O8eq8AQnSN7lGt3XH7LsRhWQRPH8telcW3po0TZwoXsO6LGkC9w&_nc_ht=scontent-hkg3-1.xx&oh=ab58e04307a0a80a576ae28fd8346c53&oe=5E756E75",
+    "廣告詳情": {
+      "ad_creative_body": "支持阿扁，請將政黨票投給一邊一國行動黨",
+      "ad_creation_time": "2019-12-12T03:37:18+0000",
+      "ad_creative_link_caption": "tapa.tw",
+      "ad_creative_link_title": "一邊一國行動黨",
+      "ad_delivery_start_time": "2019-12-12T03:37:18+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.469589",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.225479",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.186393",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.019361",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.087306",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001918",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.009498",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000457",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "一邊一國行動黨",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "101909061180405",
+      "page_name": "一邊一國行動黨",
+      "region_distribution": [
+        {
+          "percentage": "0.402661",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.349526",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.007656",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.106544",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.133613",
+          "region": "Yunlin"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "460414961568507"
+    }
+  },
+  {
+    "選區": "政黨",
+    "參選人": "一邊一國行動黨",
+    "AD_ID": "2441570729434457",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-12",
+    "結束日期": "1970-01-01",
+    "廣告內容": "《向中選會之政黨差別待遇，提出嚴正抗議》 由政黨提名的不分區立委，與區域立委都是民代，職權亦完全相同，基於政治平等原則，政府理應比照區域立委，針對不分區部份舉辦公辦政見發表會，以提供民眾充分的資訊作為政黨票投票的參考。而且，中選會向每位候選人皆收取20萬登記費，包括區域立委與不分區立委，為何出現兩者權利與義務之落差？ 現行的公職人員選罷法第46條明訂「公職人員選舉，除全國不分區及僑居國外國民立法委員選舉外，選舉委員會應於競選活動期間內舉辦公辦政見發表會」，本黨認為不合時宜，應進行修法，以確保人民知的權利，同時保障候選人以及政黨之間的公平競爭。 本黨因此不排除根據公職人員選罷法第104條規定，追究中選會的法律責任，也盼中選會能秉持公平公正公開原則舉辦政黨辯論。 召集人 楊其文 新聞聯絡 發言人  陳昭姿 副發言人  詹祥威",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80783280_2509583972652353_1577422225168924672_n.jpg?_nc_cat=106&_nc_ohc=v8ZnI43F3GEAQlQ7zFwrxtSPHzoU1DHCZpWf_VovGgYnkxCygvek654xA&_nc_ht=scontent-hkg3-1.xx&oh=a780f5d1be8d7ded889a991f73f6bb59&oe=5E7B49B8",
+    "廣告詳情": {
+      "ad_creative_body": "《向中選會之政黨差別待遇，提出嚴正抗議》\n\n由政黨提名的不分區立委，與區域立委都是民代，職權亦完全相同，基於政治平等原則，政府理應比照區域立委，針對不分區部份舉辦公辦政見發表會，以提供民眾充分的資訊作為政黨票投票的參考。而且，中選會向每位候選人皆收取20萬登記費，包括區域立委與不分區立委，為何出現兩者權利與義務之落差？\n\n現行的公職人員選罷法第46條明訂「公職人員選舉，除全國不分區及僑居國外國民立法委員選舉外，選舉委員會應於競選活動期間內舉辦公辦政見發表會」，本黨認為不合時宜，應進行修法，以確保人民知的權利，同時保障候選人以及政黨之間的公平競爭。\n\n本黨因此不排除根據公職人員選罷法第104條規定，追究中選會的法律責任，也盼中選會能秉持公平公正公開原則舉辦政黨辯論。\n\n召集人 楊其文\n\n新聞聯絡\n發言人  陳昭姿\n副發言人  詹祥威",
+      "ad_creation_time": "2019-12-13T02:46:13+0000",
+      "ad_delivery_start_time": "2019-12-13T02:46:13+0000",
+      "ad_delivery_stop_time": "2020-01-10T08:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.110253",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.172051",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.179775",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.030899",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.180478",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000702",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.035815",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.032303",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.025983",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.022472",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.142556",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.051264",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.01264",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001404",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001404",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "一邊一國行動黨",
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "1999"
+      },
+      "page_id": "101909061180405",
+      "page_name": "一邊一國行動黨",
+      "region_distribution": [
+        {
+          "percentage": "0.017718",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.013466",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.002126",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.026931",
+          "region": "Hsinchu City"
+        },
+        {
+          "percentage": "0.017718",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.024096",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.009213",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.00567",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.024096",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.00567",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.013466",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.163005",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.006378",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.009213",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.034727",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.105599",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.149539",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.085046",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.087172",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.198441",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.000709",
+          "region": "Hsinchu"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "2441570729434457"
+    }
+  },
+  {
+    "選區": "政黨",
+    "參選人": "一邊一國行動黨",
+    "AD_ID": "494945587782837",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-16",
+    "結束日期": "1970-01-01",
+    "廣告內容": "政黨票投一邊一國行動黨，讓台灣正常國家化！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80542757_2682026785198679_6883526690681651200_n.jpg?_nc_cat=100&_nc_ohc=Y-erVEnuQtwAQmkqOawSRnOvN0FgM1ytvrs5fFrU__lgFo3l3FU7qyDQg&_nc_ht=scontent-hkg3-1.xx&oh=a3adaddd151614610adcd5481d31cdef&oe=5EB4647F",
+    "廣告詳情": {
+      "ad_creative_body": "政黨票投一邊一國行動黨，讓台灣正常國家化！",
+      "ad_creation_time": "2019-12-14T02:31:16+0000",
+      "ad_delivery_start_time": "2019-12-14T02:31:16+0000",
+      "ad_delivery_stop_time": "2020-01-10T08:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.122776",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000593",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001186",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001779",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001186",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.062871",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.01898",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.023725",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.024911",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.170819",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.043891",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.17497",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.134045",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.14828",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.033215",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.035587",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001186",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "一邊一國行動黨",
+      "impressions": {
+        "lower_bound": "2000",
+        "upper_bound": "2999"
+      },
+      "page_id": "101909061180405",
+      "page_name": "一邊一國行動黨",
+      "region_distribution": [
+        {
+          "percentage": "0.020106",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.011236",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.002957",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.025429",
+          "region": "Hsinchu City"
+        },
+        {
+          "percentage": "0.010053",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.029568",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.011236",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.007096",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.028386",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.006505",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.00887",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.180367",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.001774",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.01715",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.035482",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.120639",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.122413",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.089888",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.115316",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.154938",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.000591",
+          "region": "Hsinchu"
+        }
+      ],
+      "spend": {
+        "lower_bound": "600",
+        "upper_bound": "699"
+      },
+      "ad_id": "494945587782837"
+    }
+  },
+  {
+    "選區": "政黨",
+    "參選人": "一邊一國行動黨",
+    "AD_ID": "573068176821819",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-16",
+    "結束日期": "1970-01-01",
+    "廣告內容": "政黨票投一邊一國行動黨，讓台灣正常國家化！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80542757_2682026785198679_6883526690681651200_n.jpg?_nc_cat=100&_nc_ohc=Y-erVEnuQtwAQmkqOawSRnOvN0FgM1ytvrs5fFrU__lgFo3l3FU7qyDQg&_nc_ht=scontent-hkg3-1.xx&oh=a3adaddd151614610adcd5481d31cdef&oe=5EB4647F",
+    "廣告詳情": {
+      "ad_creative_body": "政黨票投一邊一國行動黨，讓台灣正常國家化！",
+      "ad_creation_time": "2019-12-17T04:00:40+0000",
+      "ad_delivery_start_time": "2019-12-17T04:00:40+0000",
+      "ad_delivery_stop_time": "2020-01-10T08:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.032491",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.334958",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.402477",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.126206",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.088334",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.013098",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001929",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000508",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "一邊一國行動黨",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "101909061180405",
+      "page_name": "一邊一國行動黨",
+      "region_distribution": [
+        {
+          "percentage": "0.656476",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.219947",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.055704",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.067874",
+          "region": "Nantou"
+        }
+      ],
+      "spend": {
+        "lower_bound": "7000",
+        "upper_bound": "7999"
+      },
+      "ad_id": "573068176821819"
+    }
+  },
+  {
+    "選區": "政黨",
+    "參選人": "一邊一國行動黨",
+    "AD_ID": "537561296825446",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-16",
+    "結束日期": "1970-01-01",
+    "廣告內容": "支持阿扁，請將政黨票投給一邊一國行動黨",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79976560_460414978235172_8690431625521004544_n.jpg?_nc_cat=101&_nc_ohc=6P5z50O8eq8AQnSN7lGt3XH7LsRhWQRPH8telcW3po0TZwoXsO6LGkC9w&_nc_ht=scontent-hkg3-1.xx&oh=ab58e04307a0a80a576ae28fd8346c53&oe=5E756E75",
+    "廣告詳情": {
+      "ad_creative_body": "支持阿扁，請將政黨票投給一邊一國行動黨",
+      "ad_creation_time": "2019-12-17T03:50:59+0000",
+      "ad_creative_link_caption": "tapa.tw",
+      "ad_creative_link_title": "一邊一國行動黨",
+      "ad_delivery_start_time": "2019-12-17T03:50:59+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.007972",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.227076",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.457755",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.192488",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.095749",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.016844",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001621",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000495",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "一邊一國行動黨",
+      "impressions": {
+        "lower_bound": "30000",
+        "upper_bound": "34999"
+      },
+      "page_id": "101909061180405",
+      "page_name": "一邊一國行動黨",
+      "region_distribution": [
+        {
+          "percentage": "0.485593",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.39331",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.121097",
+          "region": "Pingtung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "537561296825446"
+    }
+  },
+  {
+    "選區": "政黨",
+    "參選人": "一邊一國行動黨",
+    "AD_ID": "2418947021566873",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-20",
+    "結束日期": "1970-01-01",
+    "廣告內容": "經歷過不能集會遊行，沒有人權自由的年代，台灣的危急在政治板塊移動，藍變紅，綠向藍移，台灣國家正常化，是台灣唯一的出路！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81139057_2418947051566870_3170656509877026816_n.jpg?_nc_cat=100&_nc_ohc=2z7H-bk5zrYAQmMwz9kv02_60J-fnhX5iYxsM1UmMptjLTrm-y8zFO37g&_nc_ht=scontent-hkg3-1.xx&oh=2058f0a7fbde34724f7e0170be5da79b&oe=5E691B1C",
+    "廣告詳情": {
+      "ad_creative_body": "經歷過不能集會遊行，沒有人權自由的年代，台灣的危急在政治板塊移動，藍變紅，綠向藍移，台灣國家正常化，是台灣唯一的出路！",
+      "ad_creation_time": "2019-12-20T05:39:21+0000",
+      "ad_creative_link_title": "台灣中國，一邊一國，讓台灣正常國家化！",
+      "ad_delivery_start_time": "2019-12-20T16:00:00+0000",
+      "ad_delivery_stop_time": "2020-01-10T15:59:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.408342",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.248095",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.105213",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.208973",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.014565",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.009497",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.003863",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001347",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000106",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "一邊一國行動黨",
+      "impressions": {
+        "lower_bound": "25000",
+        "upper_bound": "29999"
+      },
+      "page_id": "101909061180405",
+      "page_name": "一邊一國行動黨",
+      "region_distribution": [
+        {
+          "percentage": "0.360377",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.339138",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.267176",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.001203",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.032105",
+          "region": "Keelung City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "700",
+        "upper_bound": "799"
+      },
+      "ad_id": "2418947021566873"
+    }
+  },
+  {
+    "選區": "政黨",
+    "參選人": "一邊一國行動黨",
+    "AD_ID": "563577101042175",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-16",
+    "結束日期": "1970-01-01",
+    "廣告內容": "政黨票投一邊一國行動黨，讓台灣正常國家化！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80542757_2682026785198679_6883526690681651200_n.jpg?_nc_cat=100&_nc_ohc=Y-erVEnuQtwAQmkqOawSRnOvN0FgM1ytvrs5fFrU__lgFo3l3FU7qyDQg&_nc_ht=scontent-hkg3-1.xx&oh=a3adaddd151614610adcd5481d31cdef&oe=5EB4647F",
+    "廣告詳情": {
+      "ad_creative_body": "政黨票投一邊一國行動黨，讓台灣正常國家化！",
+      "ad_creation_time": "2019-12-17T03:54:23+0000",
+      "ad_delivery_start_time": "2019-12-17T03:54:23+0000",
+      "ad_delivery_stop_time": "2020-01-10T08:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.323607",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.404727",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.130727",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.010797",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.096221",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.030128",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.003064",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00073",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "一邊一國行動黨",
+      "impressions": {
+        "lower_bound": "25000",
+        "upper_bound": "29999"
+      },
+      "page_id": "101909061180405",
+      "page_name": "一邊一國行動黨",
+      "region_distribution": [
+        {
+          "percentage": "0.404323",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.266052",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.295252",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.000992",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.033381",
+          "region": "Keelung City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "ad_id": "563577101042175"
+    }
+  },
+  {
+    "選區": "政黨",
+    "參選人": "一邊一國行動黨",
+    "AD_ID": "473191663402388",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-16",
+    "結束日期": "1970-01-01",
+    "廣告內容": "政黨票投一邊一國行動黨，讓台灣正常國家化！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80542757_2682026785198679_6883526690681651200_n.jpg?_nc_cat=100&_nc_ohc=Y-erVEnuQtwAQmkqOawSRnOvN0FgM1ytvrs5fFrU__lgFo3l3FU7qyDQg&_nc_ht=scontent-hkg3-1.xx&oh=a3adaddd151614610adcd5481d31cdef&oe=5EB4647F",
+    "廣告詳情": {
+      "ad_creative_body": "政黨票投一邊一國行動黨，讓台灣正常國家化！",
+      "ad_creation_time": "2019-12-17T03:49:04+0000",
+      "ad_delivery_start_time": "2019-12-17T03:49:04+0000",
+      "ad_delivery_stop_time": "2020-01-10T08:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000722",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "7.2E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.413405",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.318792",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.124874",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.011411",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.100751",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.02795",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.002022",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "一邊一國行動黨",
+      "impressions": {
+        "lower_bound": "25000",
+        "upper_bound": "29999"
+      },
+      "page_id": "101909061180405",
+      "page_name": "一邊一國行動黨",
+      "region_distribution": [
+        {
+          "percentage": "0.539438",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.341554",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.119008",
+          "region": "Pingtung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "ad_id": "473191663402388"
     }
   }
 ]

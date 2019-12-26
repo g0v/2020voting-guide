@@ -7,7 +7,7 @@
     "開始日期": "2019-11-10",
     "結束日期": "2019-11-12",
     "廣告內容": "質疑離岸風電是否會成為慶富2.0？",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/77649911_465800427389872_3538366411187421184_n.jpg?_nc_cat=103&_nc_ohc=57oUm82VpPAAQmaUbn1ioID8mX_CmjOjDWzH07Ghr4ZE1k5mCJKTH7f-Q&_nc_ht=scontent-hkg3-1.xx&oh=312f3dd26f76685807424810e849f800&oe=5E7E8CC7",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/77649911_465800427389872_3538366411187421184_n.jpg?_nc_cat=103&_nc_ohc=nG6PLTwFx-gAQlqw3EhCVGrCUXtnuubp7w0VzNrzu4WU9U4xz7bCEaJqg&_nc_ht=scontent-hkg3-1.xx&oh=5e6145ef58910ea916352328eee2b7fd&oe=5E7E8CC7",
     "廣告詳情": {
       "ad_creative_body": "質疑離岸風電是否會成為慶富2.0？",
       "ad_creation_time": "2019-11-11T03:42:03+0000",
@@ -156,7 +156,8 @@
       "spend": {
         "lower_bound": "0",
         "upper_bound": "99"
-      }
+      },
+      "ad_id": "465800400723208"
     }
   },
   {
@@ -167,7 +168,7 @@
     "開始日期": "2019-11-18",
     "結束日期": "2019-11-20",
     "廣告內容": "文山小吃美食之旅--在景美集應廟，請大家踴躍出席，為韓市長加油打氣！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78222769_474262406781892_2470320267872698368_n.jpg?_nc_cat=107&_nc_ohc=uzYt4UzIWSoAQkdYd-EQh3W_UrNhslIC4lx30xIJypQJabAe01866v4kg&_nc_ht=scontent-hkg3-1.xx&oh=71c2522cf5fd65b353be2e62c6b65969&oe=5E71EA9F",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78222769_474262406781892_2470320267872698368_n.jpg?_nc_cat=107&_nc_ohc=xueVRjVavJ8AQmQJh9jii6VxUOwRzPRLMTpJ6ZpiV9hwuvbjDQDdnpaww&_nc_ht=scontent-hkg3-1.xx&oh=778450f84a16e36d0d9e4f970c5ae3b1&oe=5E71EA9F",
     "廣告詳情": {
       "ad_creative_body": "文山小吃美食之旅--在景美集應廟，請大家踴躍出席，為韓市長加油打氣！",
       "ad_creation_time": "2019-11-19T07:35:42+0000",
@@ -327,7 +328,8 @@
       "spend": {
         "lower_bound": "1500",
         "upper_bound": "1999"
-      }
+      },
+      "ad_id": "474262226781910"
     }
   },
   {
@@ -335,10 +337,10 @@
     "參選人": "賴士葆",
     "AD_ID": "1025916667774902",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-11-24",
-    "結束日期": "2019-11-25",
+    "開始日期": "2019-12-04",
+    "結束日期": "2019-12-06",
     "廣告內容": "財政委員會質詢",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78719712_467972930516519_3727503460799610880_n.jpg?_nc_cat=106&_nc_ohc=KovpSQdbixEAQkP7VuvIo9D4Jl7p7RjfWC70httiwWKBJJCm0o_9dJ0KQ&_nc_ht=scontent-hkg3-1.xx&oh=d339bf937b27cfdcaf92716dc3d0aa45&oe=5E79EE71",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79759474_596165057799302_7152480686673231872_n.jpg?_nc_cat=101&_nc_ohc=Xm6OPu6Ux64AQlqw0xOPFNk-9EeRMLvGLUzk6sRobaKL_RJB9ZjAzW86g&_nc_ht=scontent-hkg3-1.xx&oh=2df15bde34c2e646c5610293782d3042&oe=5EAF7046",
     "廣告詳情": {
       "ad_creative_body": "財政委員會質詢",
       "ad_creation_time": "2019-11-25T02:10:36+0000",
@@ -503,7 +505,8 @@
       "spend": {
         "lower_bound": "1000",
         "upper_bound": "1499"
-      }
+      },
+      "ad_id": "1025916667774902"
     }
   },
   {
@@ -514,7 +517,7 @@
     "開始日期": "2019-11-24",
     "結束日期": "2019-11-29",
     "廣告內容": "韓國瑜、賴士葆聯合兢選總部將於11月30日(星期六)上午成立，八點半開始進場，歡迎大家蒞臨指導！ 地點：￼羅斯福路五段111號￼ 電話：2935-5358， 23588166",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/77272602_2491893251025035_7419716511062818816_n.jpg?_nc_cat=110&_nc_ohc=B_q0XE8_3G8AQmQpgKM0tVjzcp7wRVPbmboFTpBn_27nRd3EBPt0n44RQ&_nc_ht=scontent-hkg3-1.xx&oh=a67856f02fead3f0ef7019c62d03f366&oe=5E417D2E",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/77272602_2491893251025035_7419716511062818816_n.jpg?_nc_cat=110&_nc_ohc=zgS89Q8z65gAQmZG1F64xj6lXOovGHGesoQtfaJi-EO4XJeTjNQMnqeTg&_nc_ht=scontent-hkg3-1.xx&oh=4c436fe1e1f1690de6b826e62ed97e9d&oe=5E690A2E",
     "廣告詳情": {
       "ad_creative_body": "韓國瑜、賴士葆聯合兢選總部將於11月30日(星期六)上午成立，八點半開始進場，歡迎大家蒞臨指導！\n地點：￼羅斯福路五段111號￼\n電話：2935-5358， 23588166",
       "ad_creation_time": "2019-11-24T11:23:56+0000",
@@ -679,7 +682,8 @@
       "spend": {
         "lower_bound": "15000",
         "upper_bound": "19999"
-      }
+      },
+      "ad_id": "549674709160239"
     }
   },
   {
@@ -690,7 +694,7 @@
     "開始日期": "2019-11-22",
     "結束日期": "2019-11-23",
     "廣告內容": "經濟部次長的國會老實說，戳破了膨風水雞幾個月以來的唬爛，府院黨全力動員滅火！ 一堆\"資金回流\"的報導歷歷在目，如果從銀行搬優惠貸款減少稅收也不該監督，那放假消息的蔡總統總該向全民道歉吧！ ＃教育部長擔心學生套利 ＃經濟部長不管資金來源 ＃中選會和臉書攜手合作打造公平選舉",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78306140_2607766932592679_647108025110233088_n.jpg?_nc_cat=110&_nc_ohc=j3_ZaIc99rIAQkWo5M_4R0AAFb6mjdizEdHA1PXjMaLH_ucL6FFawQEHQ&_nc_ht=scontent-hkg3-1.xx&oh=150f38b92857bd583e907fe884c8c916&oe=5E7A5EE8",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78306140_2607766932592679_647108025110233088_n.jpg?_nc_cat=110&_nc_ohc=ndtoIOrhsVwAQnk3jePwbWyht4UrS7GRw2W07x0obFA_4wuoIJC1sBQIQ&_nc_ht=scontent-hkg3-1.xx&oh=1eb26a3686f6524f7f546c6c97bdd1a6&oe=5E7A5EE8",
     "廣告詳情": {
       "ad_creative_body": "經濟部次長的國會老實說，戳破了膨風水雞幾個月以來的唬爛，府院黨全力動員滅火！\n一堆\"資金回流\"的報導歷歷在目，如果從銀行搬優惠貸款減少稅收也不該監督，那放假消息的蔡總統總該向全民道歉吧！\n＃教育部長擔心學生套利\n＃經濟部長不管資金來源\n＃中選會和臉書攜手合作打造公平選舉",
       "ad_creation_time": "2019-11-23T04:29:12+0000",
@@ -851,7 +855,8 @@
       "spend": {
         "lower_bound": "1000",
         "upper_bound": "1499"
-      }
+      },
+      "ad_id": "2607766865926019"
     }
   },
   {
@@ -862,7 +867,7 @@
     "開始日期": "2019-11-21",
     "結束日期": "2019-11-22",
     "廣告內容": "蔡政府講7千億資金回流的謊言被搓破之後，經濟部道歉，但繼續硬拗，蔡英文改口說是審核，然而蔡英文不僅沒有為她製造假新聞欺矇社會感到羞愧，還指責國民黨唱衰台灣。身為在野黨，我們巴不得有7千億的資金進來投資，挹注經濟發展，但是沒有就是沒有，不能為了拚選舉到飢不擇食、口不擇言。經濟部次長林全能在立法院備詢說了誠實話，卻變成做錯事的人被關禁閉，人間蒸發被封口，只因搓破執政團隊的謊言。蔡英文抓住握有話語權的機會繼續催眠全台灣民眾說：「台商回流，投資大爆發是千真萬確的事實。」真相只有一個，假的硬拗到底不會變成真的，總統是人不是神，也會犯錯，但是承認錯誤對蔡英文就是不可能，因為她把自己神化了。https://udn.com/news/amp/story/12702/4178140",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78351287_2556463854639445_3260087379771260928_n.jpg?_nc_cat=102&_nc_ohc=NrozAbok81AAQm5dmyXtLytxmSzfGcouY6f3s-3Hpcngmyhi67SmBBW8Q&_nc_ht=scontent-hkg3-1.xx&oh=181e3127fac3826764e5b262b4ab8f55&oe=5E7ED8A0",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/78351287_2556463854639445_3260087379771260928_n.jpg?_nc_cat=102&_nc_ohc=Yzg3ceBFRyoAQl_ExZd_SzsCsRBRTA4FmXJhLvDYOG_SqOoMLQcjUJL7g&_nc_ht=scontent-hkg3-1.xx&oh=93508fee4b0ee5b75e5e703e310a4872&oe=5E7ED8A0",
     "廣告詳情": {
       "ad_creative_body": "蔡政府講7千億資金回流的謊言被搓破之後，經濟部道歉，但繼續硬拗，蔡英文改口說是審核，然而蔡英文不僅沒有為她製造假新聞欺矇社會感到羞愧，還指責國民黨唱衰台灣。身為在野黨，我們巴不得有7千億的資金進來投資，挹注經濟發展，但是沒有就是沒有，不能為了拚選舉到飢不擇食、口不擇言。經濟部次長林全能在立法院備詢說了誠實話，卻變成做錯事的人被關禁閉，人間蒸發被封口，只因搓破執政團隊的謊言。蔡英文抓住握有話語權的機會繼續催眠全台灣民眾說：「台商回流，投資大爆發是千真萬確的事實。」真相只有一個，假的硬拗到底不會變成真的，總統是人不是神，也會犯錯，但是承認錯誤對蔡英文就是不可能，因為她把自己神化了。\n\nhttps://udn.com/news/amp/story/12702/4178140",
       "ad_creation_time": "2019-11-22T06:57:56+0000",
@@ -1030,7 +1035,8 @@
       "spend": {
         "lower_bound": "1000",
         "upper_bound": "1499"
-      }
+      },
+      "ad_id": "2556463824639448"
     }
   },
   {
@@ -1041,7 +1047,7 @@
     "開始日期": "2019-11-20",
     "結束日期": "2019-11-21",
     "廣告內容": "「蔡政府靠攏財團，減稅補助騙小民」記者會",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78054778_710177406058939_3581792327301070848_n.jpg?_nc_cat=111&_nc_ohc=XFtHZr-s0agAQm_s_9x61gmV9byB1Mc8tDk1a-v3eA_Ja1iA5uVrQbfvQ&_nc_ht=scontent-hkg3-1.xx&oh=9e3ac72a05a834f18bbdd3ff09413c34&oe=5E8AAAC3",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78054778_710177406058939_3581792327301070848_n.jpg?_nc_cat=111&_nc_ohc=dWSAkqDWFlAAQkNS0LDaon31VbtNYyQ41B_xuCWITCyvWmrKuYxJP5x3Q&_nc_ht=scontent-hkg3-1.xx&oh=098613367c62d7d4797f3345cbb74fc2&oe=5EB237C3",
     "廣告詳情": {
       "ad_creative_body": "「蔡政府靠攏財團，減稅補助騙小民」記者會",
       "ad_creation_time": "2019-11-21T05:34:30+0000",
@@ -1201,7 +1207,8 @@
       "spend": {
         "lower_bound": "1000",
         "upper_bound": "1499"
-      }
+      },
+      "ad_id": "710177166058963"
     }
   },
   {
@@ -1209,10 +1216,10 @@
     "參選人": "賴士葆",
     "AD_ID": "547646346074119",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-11-19",
-    "結束日期": "2019-11-26",
+    "開始日期": "2019-12-04",
+    "結束日期": "2019-12-06",
     "廣告內容": "財政委員會質詢",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78190916_547646556074098_4829765577042034688_n.jpg?_nc_cat=108&_nc_ohc=VCSr6Z8RNvwAQnMKWZG8AwOB2vhnwFBKfJCV-IAnJWtTYoiJ93_QWbbzg&_nc_ht=scontent-hkg3-1.xx&oh=2d4dc2e3c4c71c7e0eec7079e8ace551&oe=5E861F4B",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79759474_596165057799302_7152480686673231872_n.jpg?_nc_cat=101&_nc_ohc=Xm6OPu6Ux64AQlqw0xOPFNk-9EeRMLvGLUzk6sRobaKL_RJB9ZjAzW86g&_nc_ht=scontent-hkg3-1.xx&oh=2df15bde34c2e646c5610293782d3042&oe=5EAF7046",
     "廣告詳情": {
       "ad_creative_body": "財政委員會質詢",
       "ad_creation_time": "2019-11-20T03:01:23+0000",
@@ -1372,7 +1379,8 @@
       "spend": {
         "lower_bound": "1000",
         "upper_bound": "1499"
-      }
+      },
+      "ad_id": "547646346074119"
     }
   },
   {
@@ -1383,7 +1391,7 @@
     "開始日期": "2019-11-19",
     "結束日期": "2019-11-26",
     "廣告內容": "「台商回流資金零零零，小英吹破牛皮騙騙騙」記者會",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/77999429_465127240799068_9159809647610167296_n.jpg?_nc_cat=100&_nc_ohc=RjrLFVaoxYcAQlDWKRpeeHJzqnhFxC_mx5OLU6yMT2tiPblQIb8nvJF_Q&_nc_ht=scontent-hkg3-1.xx&oh=5bffdbb969b4f63052ad951b3bd0cc05&oe=5E77F132",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/77999429_465127240799068_9159809647610167296_n.jpg?_nc_cat=100&_nc_ohc=cqozMPG1gK0AQmPPohsVshWNNAhZN-iU-NIl1-d_XwugBPBjMWCP2clSA&_nc_ht=scontent-hkg3-1.xx&oh=f1501d90b33adc166473ce0b1a2fbf35&oe=5E77F132",
     "廣告詳情": {
       "ad_creative_body": "「台商回流資金零零零，小英吹破牛皮騙騙騙」記者會",
       "ad_creation_time": "2019-11-20T02:45:51+0000",
@@ -1543,7 +1551,8 @@
       "spend": {
         "lower_bound": "800",
         "upper_bound": "899"
-      }
+      },
+      "ad_id": "465127034132422"
     }
   },
   {
@@ -1554,7 +1563,7 @@
     "開始日期": "2019-11-26",
     "結束日期": "2019-11-27",
     "廣告內容": "「揭開台商回台投資真相，蔡英文別再混淆視聽」記者會",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78550449_3032789330065230_7156573996664750080_n.jpg?_nc_cat=100&_nc_ohc=f66PfJf1D8kAQkRSZVXIrE3PHZAz7tF1aTVHTt9-q9NIinF6SB5d5moLA&_nc_ht=scontent-hkg3-1.xx&oh=ee91b866a72ee474d7619026f8b6e7a2&oe=5E7D7D18",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78550449_3032789330065230_7156573996664750080_n.jpg?_nc_cat=100&_nc_ohc=JQA3A4DI4u4AQl-qErZqt1NAbnQFEm4OI2ScIWA-AebMi2y3P47p5grzQ&_nc_ht=scontent-hkg3-1.xx&oh=5a46e18a6ecaf8098ae3e27750f8a1c0&oe=5E7D7D18",
     "廣告詳情": {
       "ad_creative_body": "「揭開台商回台投資真相，蔡英文別再混淆視聽」記者會",
       "ad_creation_time": "2019-11-26T15:06:01+0000",
@@ -1719,7 +1728,8 @@
       "spend": {
         "lower_bound": "1000",
         "upper_bound": "1499"
-      }
+      },
+      "ad_id": "1053304928173573"
     }
   },
   {
@@ -1730,7 +1740,7 @@
     "開始日期": "2019-11-26",
     "結束日期": "2019-11-28",
     "廣告內容": "前兩天，內政部長徐國勇接受記者訪問表示：該掌握的決不會漏掉 但在國會接受質詢時，卻又以偵查不公開為藉口，拒絕說明王立強是否有其他入境紀錄 而且小編還記得之前徐國勇部長和黃承國國策顧問不知道管牧師身分的事 #如果出口轉內銷算不算洗產地 #偵查不公開比不予置評還萬用 #原來立法權監督行政權像虛設",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78828951_1376014435905701_4259436564863516672_n.jpg?_nc_cat=107&_nc_ohc=MQBV9013UeEAQm2PJCjzjucieCQXxckHMQ0x0Iz0ASVLYnuIccw-RRb0Q&_nc_ht=scontent-hkg3-1.xx&oh=b46ac7273f21f700864c2218f23de6aa&oe=5E80A454",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78828951_1376014435905701_4259436564863516672_n.jpg?_nc_cat=107&_nc_ohc=bu3kVczPipQAQmKsAn_9dVgsep8w6mg9WX81KnHgaoXdWCcgl_eTZ_2hg&_nc_ht=scontent-hkg3-1.xx&oh=c2962c7d3758fd9980a23571ab52cf93&oe=5E80A454",
     "廣告詳情": {
       "ad_creative_body": "前兩天，內政部長徐國勇接受記者訪問表示：該掌握的決不會漏掉\n但在國會接受質詢時，卻又以偵查不公開為藉口，拒絕說明王立強是否有其他入境紀錄\n而且小編還記得之前徐國勇部長和黃承國國策顧問不知道管牧師身分的事\n#如果出口轉內銷算不算洗產地\n#偵查不公開比不予置評還萬用\n#原來立法權監督行政權像虛設",
       "ad_creation_time": "2019-11-27T05:42:25+0000",
@@ -1896,7 +1906,8 @@
       "spend": {
         "lower_bound": "1000",
         "upper_bound": "1499"
-      }
+      },
+      "ad_id": "1376014419239036"
     }
   },
   {
@@ -1907,7 +1918,7 @@
     "開始日期": "2019-11-25",
     "結束日期": "2019-11-28",
     "廣告內容": "國安局及調查局應儘速調查所謂共諜案的真相",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78427767_2590706707882990_7097647904357089280_n.jpg?_nc_cat=106&_nc_ohc=zic5V9wJM48AQkft3UJIBm4DHOWJ5r7itpnBftErkCCvDOwRn5Aeg6Tbw&_nc_ht=scontent-hkg3-1.xx&oh=b1741f0f8a63c73ac931f06fa28cf4ac&oe=5E735044",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78427767_2590706707882990_7097647904357089280_n.jpg?_nc_cat=106&_nc_ohc=AleQf7HfdLwAQmBGCkNC74hjxKbQDPabus1B7XPN45FgfHIKfxdD0TAfw&_nc_ht=scontent-hkg3-1.xx&oh=5b57db9cd9c41a7bbfca89f228cd2fdd&oe=5E735044",
     "廣告詳情": {
       "ad_creative_body": "國安局及調查局應儘速調查所謂共諜案的真相",
       "ad_creation_time": "2019-11-25T13:32:54+0000",
@@ -2067,7 +2078,8 @@
       "spend": {
         "lower_bound": "1000",
         "upper_bound": "1499"
-      }
+      },
+      "ad_id": "2590706461216348"
     }
   },
   {
@@ -2078,7 +2090,7 @@
     "開始日期": "2019-11-27",
     "結束日期": "2019-11-29",
     "廣告內容": "軍方介入選舉是民主國家之恥！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78778238_608522849892371_3759647142071762944_n.jpg?_nc_cat=107&_nc_ohc=Ppy4niKkKRcAQmrBxkwlWy_m_BllX7GczrqDMQJEXyPKA6LSunUL2KBoA&_nc_ht=scontent-hkg3-1.xx&oh=9373e8a44450437686b276792cabbc2a&oe=5E88C3DD",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78778238_608522849892371_3759647142071762944_n.jpg?_nc_cat=107&_nc_ohc=c9dDDxDWSHYAQlLE-LZf9xY56_jyXsbQcdJgh6ScTcShZ8ZRTeWXmr_FA&_nc_ht=scontent-hkg3-1.xx&oh=c291478b9ff57c7b7d1e2f0a067a95dc&oe=5EB050DD",
     "廣告詳情": {
       "ad_creative_body": "軍方介入選舉是民主國家之恥！",
       "ad_creation_time": "2019-11-28T06:33:58+0000",
@@ -2243,7 +2255,8 @@
       "spend": {
         "lower_bound": "1000",
         "upper_bound": "1499"
-      }
+      },
+      "ad_id": "608522769892379"
     }
   },
   {
@@ -2254,7 +2267,7 @@
     "開始日期": "2019-11-27",
     "結束日期": "2019-11-28",
     "廣告內容": "蔡政府可能平時養案(如果真有共諜案)，選舉再來出操作，手法齷齪，應受全民譴責！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78532396_2495704197310607_7324012180007813120_n.jpg?_nc_cat=110&_nc_ohc=nzcIrTkY86sAQneRaGRRWM7lnKrxPb-0ER-UpNLNgzS4cNsbRH0df3KgQ&_nc_ht=scontent-hkg3-1.xx&oh=6cb3839bbdcef27505dca1c443f277b9&oe=5E3F9A3C",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78532396_2495704197310607_7324012180007813120_n.jpg?_nc_cat=110&_nc_ohc=zoIF2wbY_5EAQn6lyElwDaPUNKW-eEo1y4gqyngekB3IB9-zB_66aMX8Q&_nc_ht=scontent-hkg3-1.xx&oh=b2fb7738010da7594298c56cdff69199&oe=5E67273C",
     "廣告詳情": {
       "ad_creative_body": "蔡政府可能平時養案(如果真有共諜案)，選舉再來出操作，手法齷齪，應受全民譴責！",
       "ad_creation_time": "2019-11-28T06:32:54+0000",
@@ -2419,7 +2432,8 @@
       "spend": {
         "lower_bound": "1000",
         "upper_bound": "1499"
-      }
+      },
+      "ad_id": "975372709501362"
     }
   },
   {
@@ -2430,7 +2444,7 @@
     "開始日期": "2019-11-30",
     "結束日期": "2019-12-02",
     "廣告內容": "今天賴士葆競選總部成立，陽光普照，很多貴賓及 4千多位支持賴士葆的好朋友來到現場加油打氣，三個小時加油當選聲不斷，跟周邊的鄰居說聲對不起，打擾大家了，感謝200多位志工好友的幫忙協助諸多繁雜的工作，還有徹夜未眠的賴士葆服務團隊的伙伴們，大家辛苦了，很多貴賓來到現場，士葆忙著台上台下穿梭，無法一一接待與致意，有所怠慢之處敬請見諒。還剩四十天，大家一起努力向前衝，go go go！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78100273_2497899983757695_7725693515987943424_n.jpg?_nc_cat=103&_nc_ohc=hR7ejfv8LgUAQn2Anxiu3Rdj9wwsGeaCDEEBD1WDSYpKb4scDDruk8rug&_nc_ht=scontent-hkg3-1.xx&oh=a551bdfead29aa0b45dcbfea121f77f7&oe=5E7EE9C4",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78100273_2497899983757695_7725693515987943424_n.jpg?_nc_cat=103&_nc_ohc=Rb3y5GXWlsEAQmUWQ1DbaLPCcTsPcRWJLt-METYwScp71seZIwLUbiXiw&_nc_ht=scontent-hkg3-1.xx&oh=892b9518f00735d94a0e8bd0525decfc&oe=5E7EE9C4",
     "廣告詳情": {
       "ad_creative_body": "今天賴士葆競選總部成立，陽光普照，很多貴賓及 4千多位支持賴士葆的好朋友來到現場加油打氣，三個小時加油當選聲不斷，跟周邊的鄰居說聲對不起，打擾大家了，感謝200多位志工好友的幫忙協助諸多繁雜的工作，還有徹夜未眠的賴士葆服務團隊的伙伴們，大家辛苦了，很多貴賓來到現場，士葆忙著台上台下穿梭，無法一一接待與致意，有所怠慢之處敬請見諒。還剩四十天，大家一起努力向前衝，go go go！",
       "ad_creation_time": "2019-11-30T10:44:41+0000",
@@ -2595,7 +2609,8 @@
       "spend": {
         "lower_bound": "3000",
         "upper_bound": "3499"
-      }
+      },
+      "ad_id": "579166239514802"
     }
   },
   {
@@ -2606,7 +2621,7 @@
     "開始日期": "2019-12-02",
     "結束日期": "2019-12-03",
     "廣告內容": "抨擊民進黨派系內鬥，手伸進官股董座人事！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79017294_752006141932502_488326142193827840_n.jpg?_nc_cat=110&_nc_ohc=am9dF0x4V7sAQmFCRzn02UoGi1NDQVHBaRJ1rKp94-zzOL_9Nyxp3peMA&_nc_ht=scontent-hkg3-1.xx&oh=d71b26198078deee7f1efba0d2187922&oe=5E7C7501",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79017294_752006141932502_488326142193827840_n.jpg?_nc_cat=110&_nc_ohc=d0cT2e7d8j4AQlFcKoV60EALI7SUXu_usS3MiGHWR2K_tUymIyFaL2Gew&_nc_ht=scontent-hkg3-1.xx&oh=dc7be26741c1ed2c88f8e40f0365f63b&oe=5E7C7501",
     "廣告詳情": {
       "ad_creative_body": "抨擊民進黨派系內鬥，手伸進官股董座人事！",
       "ad_creation_time": "2019-12-02T14:05:03+0000",
@@ -2771,7 +2786,8 @@
       "spend": {
         "lower_bound": "1000",
         "upper_bound": "1499"
-      }
+      },
+      "ad_id": "429734651307065"
     }
   },
   {
@@ -2782,7 +2798,7 @@
     "開始日期": "2019-12-01",
     "結束日期": "2019-12-03",
     "廣告內容": "大家在2020年一月十一日一起用選票來捍衛中華民國！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78910487_486944618601556_2941351968334938112_n.jpg?_nc_cat=107&_nc_ohc=riDaD6nGFhEAQnXItNGZWqd76GXm4pu-lXpAg1KvZZQ28SGarhWU5wPUA&_nc_ht=scontent-hkg3-1.xx&oh=86d17c4e42e21bd868c7ce7582745d84&oe=5E77ED93",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78910487_486944618601556_2941351968334938112_n.jpg?_nc_cat=107&_nc_ohc=NiEjHIece1kAQmFzYHB6XkpK9ZEJ1xsCe3ppGGHpnZvkTA3iu46Ha9L7Q&_nc_ht=scontent-hkg3-1.xx&oh=637e8cda4f3260090f0467630a224c40&oe=5E77ED93",
     "廣告詳情": {
       "ad_creative_body": "大家在2020年一月十一日一起用選票來捍衛中華民國！",
       "ad_creation_time": "2019-12-01T13:19:03+0000",
@@ -2948,7 +2964,8 @@
       "spend": {
         "lower_bound": "4000",
         "upper_bound": "4499"
-      }
+      },
+      "ad_id": "486944565268228"
     }
   },
   {
@@ -2959,7 +2976,7 @@
     "開始日期": "2019-12-03",
     "結束日期": "2019-12-04",
     "廣告內容": "貧富差距連網軍界都大得嚇人，有的可以拿標案領1450萬，有人卻只能固定月領一萬？ #助日代表出來面對 #蟑螂也要討生活 #請檢調追查金流找出幕後黑手",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78847985_585780038823924_4555449765352964096_n.jpg?_nc_cat=107&_nc_ohc=SIk8YWimGNUAQnEPoPpktu_C7Ycfv2eGpBwPmxJOJw6n3HBhg4RbvcCyw&_nc_ht=scontent-hkg3-1.xx&oh=2ca9ef6ba4f36cc6beb1cbbcfe3fd1b5&oe=5E6C7F03",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78847985_585780038823924_4555449765352964096_n.jpg?_nc_cat=107&_nc_ohc=oRxehFqoDwgAQkn93NX6CJOmmLt0sOeWsyQUHyrUvqaICUiI11BXj7MdA&_nc_ht=scontent-hkg3-1.xx&oh=97a3f76427bfa673e7635198d0c96ee1&oe=5E6C7F03",
     "廣告詳情": {
       "ad_creative_body": "貧富差距連網軍界都大得嚇人，有的可以拿標案領1450萬，有人卻只能固定月領一萬？\n#助日代表出來面對\n#蟑螂也要討生活\n#請檢調追查金流找出幕後黑手",
       "ad_creation_time": "2019-12-03T15:01:13+0000",
@@ -3125,7 +3142,8 @@
       "spend": {
         "lower_bound": "1000",
         "upper_bound": "1499"
-      }
+      },
+      "ad_id": "585780005490594"
     }
   },
   {
@@ -3136,7 +3154,7 @@
     "開始日期": "2019-12-03",
     "結束日期": "2019-12-04",
     "廣告內容": "『1458逼死大阪處長，蔡英文謝長廷沒責任？』記者會",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79025544_576972916207094_5751816053864792064_n.jpg?_nc_cat=109&_nc_ohc=yxDR8vXw04sAQmOyoJ3lHILpO5w75hFrd1h-7qqcsU4mlax6r2Li7hhyQ&_nc_ht=scontent-hkg3-1.xx&oh=0648d1d8cc2408bfaa1167869bed5ff7&oe=5E8B931C",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79025544_576972916207094_5751816053864792064_n.jpg?_nc_cat=109&_nc_ohc=13KVfUVpSMIAQmSm7Ep4p-_XNu4Ke8gruZw4IwnePZvkuM6NHQ4BQ5qoQ&_nc_ht=scontent-hkg3-1.xx&oh=4feff84cd7f6cef50fed752a6d19f662&oe=5EB3201C",
     "廣告詳情": {
       "ad_creative_body": "『1458逼死大阪處長，蔡英文謝長廷沒責任？』記者會",
       "ad_creation_time": "2019-12-03T15:00:06+0000",
@@ -3301,7 +3319,8 @@
       "spend": {
         "lower_bound": "600",
         "upper_bound": "699"
-      }
+      },
+      "ad_id": "576972636207122"
     }
   },
   {
@@ -3310,9 +3329,9 @@
     "AD_ID": "596164824465992",
     "登錄為政治廣告": "是",
     "開始日期": "2019-12-04",
-    "結束日期": "2019-12-05",
+    "結束日期": "2019-12-06",
     "廣告內容": "財政委員會質詢",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79759474_596165057799302_7152480686673231872_n.jpg?_nc_cat=101&_nc_ohc=KvnoMnXza6cAQkX7QhUhliJW-jL026kgpYGDm-VZbiHHwXznYGZJqqXuQ&_nc_ht=scontent-hkg3-1.xx&oh=cab008992b05d3b0d61b65c9b827645c&oe=5E87E346",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79759474_596165057799302_7152480686673231872_n.jpg?_nc_cat=101&_nc_ohc=Xm6OPu6Ux64AQlqw0xOPFNk-9EeRMLvGLUzk6sRobaKL_RJB9ZjAzW86g&_nc_ht=scontent-hkg3-1.xx&oh=2df15bde34c2e646c5610293782d3042&oe=5EAF7046",
     "廣告詳情": {
       "ad_creative_body": "財政委員會質詢",
       "ad_creation_time": "2019-12-04T17:12:52+0000",
@@ -3321,167 +3340,1143 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.540719",
+          "percentage": "0.539251",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.070791",
+          "percentage": "0.072558",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.230216",
+          "percentage": "0.226861",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.073381",
+          "percentage": "0.077422",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.015827",
+          "percentage": "0.015809",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.042734",
+          "percentage": "0.042697",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.017698",
+          "percentage": "0.017025",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.006043",
+          "percentage": "0.005945",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.001295",
+          "percentage": "0.001216",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001007",
+          "percentage": "0.000946",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000144",
+          "percentage": "0.000135",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000144",
+          "percentage": "0.000135",
           "age": "55-64",
           "gender": "unknown"
         }
       ],
       "funding_entity": "賴士葆",
       "impressions": {
-        "lower_bound": "8000",
-        "upper_bound": "8999"
+        "lower_bound": "9000",
+        "upper_bound": "9999"
       },
       "page_id": "1573873889493647",
       "page_name": "賴士葆",
       "region_distribution": [
         {
-          "percentage": "0.026512",
+          "percentage": "0.028121",
           "region": "Unknown"
         },
         {
-          "percentage": "0.000439",
+          "percentage": "0.000412",
           "region": "Lienchiang"
         },
         {
-          "percentage": "0.0104",
+          "percentage": "0.010837",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.037059",
+          "percentage": "0.037311",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.004687",
+          "percentage": "0.005761",
           "region": "Yilan"
         },
         {
-          "percentage": "0.012451",
+          "percentage": "0.012346",
           "region": "Taitung"
         },
         {
-          "percentage": "0.043064",
+          "percentage": "0.041838",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.008496",
+          "percentage": "0.008505",
           "region": "Penghu"
         },
         {
-          "percentage": "0.020067",
+          "percentage": "0.019204",
           "region": "Nantou"
         },
         {
-          "percentage": "0.022704",
+          "percentage": "0.022771",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.006152",
+          "percentage": "0.00631",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.14179",
+          "percentage": "0.139369",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.018163",
+          "percentage": "0.018107",
           "region": "Hualien"
         },
         {
-          "percentage": "0.002783",
+          "percentage": "0.002743",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.001758",
+          "percentage": "0.001783",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.053171",
+          "percentage": "0.053086",
           "region": "Changhua"
         },
         {
-          "percentage": "0.102827",
+          "percentage": "0.10096",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.14179",
+          "percentage": "0.141152",
           "region": "Taichung"
         },
         {
-          "percentage": "0.1185",
+          "percentage": "0.118793",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.083053",
+          "percentage": "0.083813",
           "region": "Tainan"
         },
         {
-          "percentage": "0.112641",
+          "percentage": "0.115638",
           "region": "Taipei"
         },
         {
-          "percentage": "0.031493",
+          "percentage": "0.031139",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "700",
-        "upper_bound": "799"
-      }
+        "lower_bound": "800",
+        "upper_bound": "899"
+      },
+      "ad_id": "596164824465992"
+    }
+  },
+  {
+    "選區": "臺北市第八選舉區",
+    "參選人": "賴士葆",
+    "AD_ID": "3544710045569193",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-10",
+    "結束日期": "2019-12-11",
+    "廣告內容": "嚴厲譴責外交部公然說謊！ 外交部是說謊部，外交部長是說謊部長。針對外交部今天(12/10)有關提告藍委的說明，本人嚴正駁斥如下： 1.外交部派層層警衛霸佔電梯，不讓我上樓，我沒有本事霸佔電梯，因而欲改走樓梯，外交部則派員警違法限制我的人身自由，阻止我上樓。 2.外交部長是立委監督的對象，要求見部長居然要填申請單，我也填寫了，20分鐘之後，外交部長下令不見。如今竟然顛倒是非，說我公開羞辱國家文官，事實是吳釗燮仗勢全面執政的顢頇，羞辱監督他的立法委員。 3.吳釗燮以捍衛同仁尊嚴與安全為由告6位立委和議員，一位大阪外交官被假新聞霸凌自縊冤死，請問外交部吳部長替他捍衛了什麼？ 按照行政程序法第169條規定，陳情不用書面提出，不管有沒有道理，受理機關外交部就應配合作成記錄、積極處理，沒有權力關門拒絕。 當天本人的求見部長，主要希望部長派員出來接受抬棺民眾陳情，安撫抗議的民眾，但是部長高傲的回絕，竟然還說謊混淆視聽，這樣的部長創下中華民國政治史上最羞辱的紀錄，在他任內丟掉五個邦交國，還賴著不走，真是可恥！",
+    "圖片": "",
+    "廣告詳情": {
+      "ad_creative_body": "嚴厲譴責外交部公然說謊！\n\n外交部是說謊部，外交部長是說謊部長。針對外交部今天(12/10)有關提告藍委的說明，本人嚴正駁斥如下：\n\n1.外交部派層層警衛霸佔電梯，不讓我上樓，我沒有本事霸佔電梯，因而欲改走樓梯，外交部則派員警違法限制我的人身自由，阻止我上樓。\n\n2.外交部長是立委監督的對象，要求見部長居然要填申請單，我也填寫了，20分鐘之後，外交部長下令不見。如今竟然顛倒是非，說我公開羞辱國家文官，事實是吳釗燮仗勢全面執政的顢頇，羞辱監督他的立法委員。\n\n3.吳釗燮以捍衛同仁尊嚴與安全為由告6位立委和議員，一位大阪外交官被假新聞霸凌自縊冤死，請問外交部吳部長替他捍衛了什麼？\n \n按照行政程序法第169條規定，陳情不用書面提出，不管有沒有道理，受理機關外交部就應配合作成記錄、積極處理，沒有權力關門拒絕。\n當天本人的求見部長，主要希望部長派員出來接受抬棺民眾陳情，安撫抗議的民眾，但是部長高傲的回絕，竟然還說謊混淆視聽，這樣的部長創下中華民國政治史上最羞辱的紀錄，在他任內丟掉五個邦交國，還賴著不走，真是可恥！",
+      "ad_creation_time": "2019-12-11T01:52:51+0000",
+      "ad_delivery_start_time": "2019-12-11T01:52:51+0000",
+      "ad_delivery_stop_time": "2019-12-11T16:00:15+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.035019",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.205397",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.514104",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.034145",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.061305",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.11833",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.020435",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.009519",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000961",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000699",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "8.7E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "賴士葆",
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "1573873889493647",
+      "page_name": "賴士葆",
+      "region_distribution": [
+        {
+          "percentage": "0.026583",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.000174",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.013552",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.03501",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.00973",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.011294",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.036487",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.003562",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.017635",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.021631",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.003649",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.162627",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.014073",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.003301",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001042",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.045609",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.101903",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.135349",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.115194",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.079924",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.131353",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.030319",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1500",
+        "upper_bound": "1999"
+      },
+      "ad_id": "3544710045569193"
+    }
+  },
+  {
+    "選區": "臺北市第八選舉區",
+    "參選人": "賴士葆",
+    "AD_ID": "573376166813850",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-05",
+    "結束日期": "2019-12-06",
+    "廣告內容": "全國人民都支持檢調認真查出楊蕙如網軍的背後金主！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79415119_2502790886601938_6191613150127718400_n.jpg?_nc_cat=108&_nc_ohc=dZDKJnr9GHMAQlAFTe9kidkioAQXXxQKx6a7RLfyCDtOoCkvP_0g3aaBQ&_nc_ht=scontent-hkg3-1.xx&oh=544902026eb74e0a7cf6fdb4423d9d50&oe=5EADB0D1",
+    "廣告詳情": {
+      "ad_creative_body": "全國人民都支持檢調認真查出楊蕙如網軍的背後金主！",
+      "ad_creation_time": "2019-12-05T10:09:36+0000",
+      "ad_delivery_start_time": "2019-12-05T10:09:36+0000",
+      "ad_delivery_stop_time": "2019-12-06T15:00:30+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.333333",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.416667",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.083333",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.083333",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.083333",
+          "age": "35-44",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "賴士葆",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "1573873889493647",
+      "page_name": "賴士葆",
+      "region_distribution": [
+        {
+          "percentage": "0.166667",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.166667",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.083333",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.166667",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.166667",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.083333",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.083333",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.083333",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "573376166813850"
+    }
+  },
+  {
+    "選區": "臺北市第八選舉區",
+    "參選人": "賴士葆",
+    "AD_ID": "535441813971696",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-12",
+    "結束日期": "2019-12-13",
+    "廣告內容": "要求金管會對於未來銀行開放手機門號可辦信用卡及信貸等業務，要嚴格控管風險，以避免2004卡債風暴再現！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80164755_535442010638343_7004449394661523456_n.jpg?_nc_cat=106&_nc_ohc=3svwx0pMzdoAQnHndgndeAm0_4xIYQlkwVCkDxJ4TEKPeFbU45Ns5j0ig&_nc_ht=scontent-hkg3-1.xx&oh=cb34152fdeb36a3a853d4d3daf6f4424&oe=5E7913B5",
+    "廣告詳情": {
+      "ad_creative_body": "要求金管會對於未來銀行開放手機門號可辦信用卡及信貸等業務，要嚴格控管風險，以避免2004卡債風暴再現！",
+      "ad_creation_time": "2019-12-12T08:06:15+0000",
+      "ad_delivery_start_time": "2019-12-12T08:06:15+0000",
+      "ad_delivery_stop_time": "2019-12-14T04:00:44+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000126",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.19137",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.589102",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.087685",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000756",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.060409",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.004094",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.041197",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.012031",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000567",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.012661",
+          "age": "55-64",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "賴士葆",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "1573873889493647",
+      "page_name": "賴士葆",
+      "region_distribution": [
+        {
+          "percentage": "0.036349",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.000507",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.011609",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.049353",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.010974",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.013195",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.049987",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.008944",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.019475",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.02068",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.006344",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.1551",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.01662",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.002664",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.00184",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.060835",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.093504",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.137529",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.100482",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.092997",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.087287",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.023725",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "535441813971696"
+    }
+  },
+  {
+    "選區": "臺北市第八選舉區",
+    "參選人": "賴士葆",
+    "AD_ID": "801811473565207",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-11",
+    "結束日期": "2019-12-13",
+    "廣告內容": "網軍東廠之事迄今蔡政府只會切割閃躲，還沒給人民清楚交待！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79519897_2509660695914957_3883786012052160512_n.jpg?_nc_cat=106&_nc_ohc=xcmMYITbfhYAQnWMvpLI-IYsbxmW9mid1jh8yq1RyD0cTDl6YAjcFRQIw&_nc_ht=scontent-hkg3-1.xx&oh=0dcd4bb09f703e328dc53d0c8968ee3e&oe=5E77BC6F",
+    "廣告詳情": {
+      "ad_creative_body": "網軍東廠之事迄今蔡政府只會切割閃躲，還沒給人民清楚交待！",
+      "ad_creation_time": "2019-12-12T07:10:06+0000",
+      "ad_delivery_start_time": "2019-12-12T07:10:06+0000",
+      "ad_delivery_stop_time": "2019-12-14T04:00:44+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.511819",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.195944",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.124409",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.020901",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.039313",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.01045",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.034835",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.060712",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000871",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000249",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000498",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "賴士葆",
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "1573873889493647",
+      "page_name": "賴士葆",
+      "region_distribution": [
+        {
+          "percentage": "0.027462",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.000495",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.014844",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.035379",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.009278",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.011381",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.038966",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.003835",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.017566",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.019668",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.003587",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.168234",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.013112",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.003587",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001113",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.045275",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.098219",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.140277",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.118506",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.077684",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.119866",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.031667",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "801811473565207"
+    }
+  },
+  {
+    "選區": "臺北市第八選舉區",
+    "參選人": "賴士葆",
+    "AD_ID": "442498196668315",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-12",
+    "結束日期": "2019-12-13",
+    "廣告內容": "蔡英文快四年來幾乎沒啥政績，選舉只會用芒果乾來騙選票，人民的荷包不漲最有FU、最有感，那就是「還是沒多賺錢」！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79322668_2510749185806108_2009802548566818816_n.jpg?_nc_cat=103&_nc_ohc=h5IryV7zLDoAQkobIjpTNdV3UT30pihmx5o8NfgYpZxbNjfsL1On-ZNgg&_nc_ht=scontent-hkg3-1.xx&oh=3c3b6bdadfe075a4a835dcaaf6e26165&oe=5EAC5140",
+    "廣告詳情": {
+      "ad_creative_body": "蔡英文快四年來幾乎沒啥政績，選舉只會用芒果乾來騙選票，人民的荷包不漲最有FU、最有感，那就是「還是沒多賺錢」！",
+      "ad_creation_time": "2019-12-13T02:37:58+0000",
+      "ad_delivery_start_time": "2019-12-13T02:37:58+0000",
+      "ad_delivery_stop_time": "2019-12-14T04:00:44+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.10306",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.047021",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.483414",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.06087",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.240258",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.017713",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.033172",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.011594",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000644",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001288",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000966",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "賴士葆",
+      "impressions": {
+        "lower_bound": "3000",
+        "upper_bound": "3999"
+      },
+      "page_id": "1573873889493647",
+      "page_name": "賴士葆",
+      "region_distribution": [
+        {
+          "percentage": "0.027181",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.000316",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.01201",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.031606",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.007269",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.007585",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.034134",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.004109",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.017067",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.022124",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.002528",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.157712",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.014539",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.003793",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.000632",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.042984",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.108407",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.137484",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.121681",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.07775",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.136852",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.032238",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "600",
+        "upper_bound": "699"
+      },
+      "ad_id": "442498196668315"
+    }
+  },
+  {
+    "選區": "臺北市第八選舉區",
+    "參選人": "賴士葆",
+    "AD_ID": "1173274719541346",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-17",
+    "結束日期": "1970-01-01",
+    "廣告內容": "文山木柵區大家引頸期企盼的捷運南環線終於在明年底要完成細部規劃且預計民國117年中可通車，這需要地方與中央的合作，終於看到成果！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80472586_2514122522135441_6868694454916612096_n.jpg?_nc_cat=102&_nc_ohc=u0OiTnedl_sAQn7lUfPTi8W1q8L_GP-MQ1gs1EJMK7PGrB2oAs75aZ0zA&_nc_ht=scontent-hkg3-1.xx&oh=4b9dcaded88822ab0b5e819bab2e5dc2&oe=5E772CB4",
+    "廣告詳情": {
+      "ad_creative_body": "文山木柵區大家引頸期企盼的捷運南環線終於在明年底要完成細部規劃且預計民國117年中可通車，這需要地方與中央的合作，終於看到成果！",
+      "ad_creation_time": "2019-12-17T14:33:09+0000",
+      "ad_delivery_start_time": "2019-12-17T14:33:09+0000",
+      "ad_delivery_stop_time": "2019-12-19T04:00:27+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000164",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.057562",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.475968",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.062966",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.210595",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.118071",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.021944",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.012773",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.037747",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001146",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "8.2E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000983",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "賴士葆",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "1573873889493647",
+      "page_name": "賴士葆",
+      "region_distribution": [
+        {
+          "percentage": "8.2E-5",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.003527",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.014435",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.029607",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.009432",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.011564",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.033134",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.003609",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.014845",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.016157",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.014845",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.027393",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.003855",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.00082",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.046338",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.103666",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.135324",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.111375",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.073239",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.153203",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.161404",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.03215",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2000",
+        "upper_bound": "2499"
+      },
+      "ad_id": "1173274719541346"
     }
   }
 ]

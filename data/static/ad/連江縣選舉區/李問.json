@@ -4,10 +4,10 @@
     "參選人": "李問",
     "AD_ID": "2419823481638496",
     "登錄為政治廣告": "否",
-    "開始日期": "2019-10-29",
-    "結束日期": "2019-11-03",
+    "開始日期": "2019-11-03",
+    "結束日期": "2019-12-03",
     "廣告內容": "🔥🔥🔥政治獻金‧線上捐款🔥🔥🔥 最近有很多熱情支持者詢問有沒有信用卡線上捐款的功能，我們團隊最近終於設定完相關程序，可以上線囉！ 連結在這：https://donate.newebpay.com/wen1949matsu/donatewen 不看海有多險，只 #問 愛有多深。邀請您一起投放銀彈挺李問！ ＿＿＿＿＿＿＿＿＿＿＿＿＿ 習慣ATM或臨櫃轉帳的朋友們請看以下資訊，李問與競選團隊感謝各位的支持與鼓勵！ 戶名：109年立法委員擬參選人李問政治獻金專戶 銀行：臺灣銀行（004 城中分行） 帳號：045 001 008 781 捐款後，煩請提供以下資訊，寄送到李問團隊電子信箱： wen1949matsu@gmail.com 電子郵件主旨：政治獻金 1️⃣ 姓名 2️⃣ 捐款金額 3️⃣ 帳號末五碼 4️⃣ 地址 5️⃣ 電話 6️⃣ 身分證字號（金額三萬塊以上者） #馬祖新世代 #快樂向前走",
-    "圖片": "https://scontent-nrt1-1.xx.fbcdn.net/v/t1.6435-0/s600x600/72275760_139437884091394_683346781605462016_n.jpg?_nc_cat=106&_nc_oc=AQlaY8D-X0CvD2BjgR7Wh21ChRGB3y23ep_bEsFpWBYTyo73iCzYgJaMS8kFxIdSkrE&_nc_ht=scontent-nrt1-1.xx&oh=9082202bd7be1ee4c58ff79ba248075a&oe=5E57555D",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/72275760_139437884091394_683346781605462016_n.jpg?_nc_cat=106&_nc_ohc=EWI5QEeicLEAQkmTFgyVDU2uUCFR-F3IfVuN28-Oq1Ry9swgZswaA9NjA&_nc_ht=scontent-hkg3-1.xx&oh=1bb958c917bfbea06828298b007bcdfc&oe=5EA66F5D",
     "廣告詳情": {
       "ad_creative_body": "🔥🔥🔥政治獻金‧線上捐款🔥🔥🔥\n\n最近有很多熱情支持者詢問有沒有信用卡線上捐款的功能，我們團隊最近終於設定完相關程序，可以上線囉！\n\n連結在這：https://donate.newebpay.com/wen1949matsu/donatewen\n\n不看海有多險，只 #問 愛有多深。邀請您一起投放銀彈挺李問！\n\n＿＿＿＿＿＿＿＿＿＿＿＿＿\n\n習慣ATM或臨櫃轉帳的朋友們請看以下資訊，李問與競選團隊感謝各位的支持與鼓勵！\n\n戶名：109年立法委員擬參選人李問政治獻金專戶\n銀行：臺灣銀行（004 城中分行）\n帳號：045 001 008 781\n\n捐款後，煩請提供以下資訊，寄送到李問團隊電子信箱： wen1949matsu@gmail.com\n電子郵件主旨：政治獻金\n1️⃣ 姓名\n2️⃣ 捐款金額\n3️⃣ 帳號末五碼\n4️⃣ 地址\n5️⃣ 電話\n6️⃣ 身分證字號（金額三萬塊以上者）\n\n#馬祖新世代 #快樂向前走",
       "ad_creation_time": "2019-10-29T10:48:09+0000",
@@ -201,7 +201,8 @@
       "spend": {
         "lower_bound": "500",
         "upper_bound": "599"
-      }
+      },
+      "ad_id": "2419823481638496"
     }
   },
   {
@@ -212,7 +213,7 @@
     "開始日期": "2019-11-03",
     "結束日期": "2019-12-03",
     "廣告內容": "🔥🔥🔥政治獻金‧線上捐款🔥🔥🔥 最近有很多熱情支持者詢問有沒有信用卡線上捐款的功能，我們團隊最近終於設定完相關程序，可以上線囉！ 連結在這：https://donate.newebpay.com/wen1949matsu/donatewen 不看海有多險，只 #問 愛有多深。邀請您一起投放銀彈挺李問！ ＿＿＿＿＿＿＿＿＿＿＿＿＿ 習慣ATM或臨櫃轉帳的朋友們請看以下資訊，李問與競選團隊感謝各位的支持與鼓勵！ 戶名：109年立法委員擬參選人李問政治獻金專戶 銀行：臺灣銀行（004 城中分行） 帳號：045 001 008 781 捐款後，煩請提供以下資訊，寄送到李問團隊電子信箱： wen1949matsu@gmail.com 電子郵件主旨：政治獻金 1️⃣ 姓名 2️⃣ 捐款金額 3️⃣ 帳號末五碼 4️⃣ 地址 5️⃣ 電話 6️⃣ 身分證字號（金額三萬塊以上者） #馬祖新世代 #快樂向前走",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/72275760_139437884091394_683346781605462016_n.jpg?_nc_cat=106&_nc_ohc=q_Tb9BoU2H8AQl5VhtRhrPajq1jfR5aK-hlURu_qnSFHiCjCBURo5yhBA&_nc_ht=scontent-hkg3-1.xx&oh=1552265c6a462a30782b3af0f2d240ed&oe=5E7EE25D",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/72275760_139437884091394_683346781605462016_n.jpg?_nc_cat=106&_nc_ohc=EWI5QEeicLEAQkmTFgyVDU2uUCFR-F3IfVuN28-Oq1Ry9swgZswaA9NjA&_nc_ht=scontent-hkg3-1.xx&oh=1bb958c917bfbea06828298b007bcdfc&oe=5EA66F5D",
     "廣告詳情": {
       "ad_creative_body": "🔥🔥🔥政治獻金‧線上捐款🔥🔥🔥\n\n最近有很多熱情支持者詢問有沒有信用卡線上捐款的功能，我們團隊最近終於設定完相關程序，可以上線囉！\n\n連結在這：https://donate.newebpay.com/wen1949matsu/donatewen\n\n不看海有多險，只 #問 愛有多深。邀請您一起投放銀彈挺李問！\n\n＿＿＿＿＿＿＿＿＿＿＿＿＿\n\n習慣ATM或臨櫃轉帳的朋友們請看以下資訊，李問與競選團隊感謝各位的支持與鼓勵！\n\n戶名：109年立法委員擬參選人李問政治獻金專戶\n銀行：臺灣銀行（004 城中分行）\n帳號：045 001 008 781\n\n捐款後，煩請提供以下資訊，寄送到李問團隊電子信箱： wen1949matsu@gmail.com\n電子郵件主旨：政治獻金\n1️⃣ 姓名\n2️⃣ 捐款金額\n3️⃣ 帳號末五碼\n4️⃣ 地址\n5️⃣ 電話\n6️⃣ 身分證字號（金額三萬塊以上者）\n\n#馬祖新世代 #快樂向前走",
       "ad_creation_time": "2019-11-04T06:30:45+0000",
@@ -406,7 +407,8 @@
       "spend": {
         "lower_bound": "700",
         "upper_bound": "799"
-      }
+      },
+      "ad_id": "526698031507993"
     }
   },
   {
@@ -417,7 +419,7 @@
     "開始日期": "2019-11-24",
     "結束日期": "2019-12-04",
     "廣告內容": "很高興邀請來自日本東京的攝影師鈴木康真（Yasu），來馬祖拍攝觀光短片，讓更多日本朋友認識馬祖的美！🇯🇵🇯🇵🇯🇵 国境の最北に位置する島、馬祖。 今回この島に来ることができたのはそこに住む友人からの誘いだった。",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78458890_2658386824184599_6043016520160772096_n.jpg?_nc_cat=111&_nc_ohc=NHM6ElsvLXQAQk2ff4ek_legScqZdBHbcUCIIQDvfh2-jnw6bX1XE65Og&_nc_ht=scontent-hkg3-1.xx&oh=55f04e035b09cde6f1eec0ee6a578081&oe=5E3F886A",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/78458890_2658386824184599_6043016520160772096_n.jpg?_nc_cat=111&_nc_ohc=nty_1SdHO54AQkVrPBfMMud3XrvXg146cuDX60ACVfkR6g15YwUKFzFYA&_nc_ht=scontent-hkg3-2.xx&oh=a290150adedc34c321181e6204ef8c44&oe=5E67156A",
     "廣告詳情": {
       "ad_creative_body": "很高興邀請來自日本東京的攝影師鈴木康真（Yasu），來馬祖拍攝觀光短片，讓更多日本朋友認識馬祖的美！🇯🇵🇯🇵🇯🇵\n\n国境の最北に位置する島、馬祖。\n今回この島に来ることができたのはそこに住む友人からの誘いだった。",
       "ad_creation_time": "2019-11-24T15:58:34+0000",
@@ -580,7 +582,8 @@
       "spend": {
         "lower_bound": "0",
         "upper_bound": "99"
-      }
+      },
+      "ad_id": "416879279192071"
     }
   },
   {
@@ -588,10 +591,10 @@
     "參選人": "李問",
     "AD_ID": "437883693589647",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-11-25",
-    "結束日期": "2019-11-30",
+    "開始日期": "2019-11-30",
+    "結束日期": "2019-12-06",
     "廣告內容": "很高興邀請來自日本東京的攝影師鈴木康真（Yasu），來馬祖拍攝觀光短片，讓更多日本朋友認識馬祖的美！🇯🇵🇯🇵🇯🇵 国境の最北に位置する島、馬祖。 今回この島に来ることができたのはそこに住む友人からの誘いだった。 台湾本土では見られない伝統的な建物がたくさんあり、また彼らが話す言葉も台湾本土とは違う。 この島には戦争での軍事要塞や伝統的な閩東スタイルの建築集落が残されている。 僕たちは南竿島を歩き回り、場所によって様々な顔を持つ海岸線を見て自然の力強さを感じた。 自分にとって全てが違った雰囲気で、ここを訪れるすべての人に、この美しい風景をそしてこの美しい島で経験してもらいたい。 ___________________________________ Yasu聽說我在馬祖選立委，熱愛旅遊攝影的Yasu，也希望來紀錄馬祖的旖旎風光。 我們徒步走遍南竿島，看過一片片海洋與自然景觀，踏進軍事據點改建的咖啡店。對Yasu來說，一切都與眾不同，歡迎大家來這座美麗的島嶼體驗不一樣的美麗景緻！ 讓我們透過Yasu的鏡頭📷，一起穿梭在閩東式建築與軍事據點交相輝映，自然與文化資產豐富的馬祖吧！ 讓更多國際友人認識馬祖、親近馬祖，也是我這次參選立委重要的任務！ 【讓世界看見馬祖，與馬祖走向世界】 #點開高畫質觀賞品質會更好喔！ #馬祖初上陸 #馬祖訪問  🔗Yasu的粉絲專頁： Wasabi Production 芥末出品  📸Yasu的Youtube頻道：https://pse.is/MX9D3 🔗Yasu的Instagarm：https://www.instagram.com/yasuzki/",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78358545_561384377955884_8405495497875259392_n.jpg?_nc_cat=111&_nc_ohc=DBG7wDsE0icAQk8cmOvGARdB4mSeusKKWmH2s9Mq0ki0zwqj5KaT1tzSw&_nc_ht=scontent-hkg3-1.xx&oh=947c185c05953fa2a82caf573ec906ac&oe=5E412590",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/78358545_561384377955884_8405495497875259392_n.jpg?_nc_cat=111&_nc_ohc=gMIoLXrRDvwAQlfO3_NXE819rE4qAI0KKKGZDFfQftb5xFts7I41BaDkw&_nc_ht=scontent-hkg3-2.xx&oh=5ef23e192bc2e9a408a6feb50cb69b50&oe=5E68B290",
     "廣告詳情": {
       "ad_creative_body": "很高興邀請來自日本東京的攝影師鈴木康真（Yasu），來馬祖拍攝觀光短片，讓更多日本朋友認識馬祖的美！🇯🇵🇯🇵🇯🇵\n\n国境の最北に位置する島、馬祖。\n今回この島に来ることができたのはそこに住む友人からの誘いだった。\n台湾本土では見られない伝統的な建物がたくさんあり、また彼らが話す言葉も台湾本土とは違う。\n\nこの島には戦争での軍事要塞や伝統的な閩東スタイルの建築集落が残されている。\n\n僕たちは南竿島を歩き回り、場所によって様々な顔を持つ海岸線を見て自然の力強さを感じた。\n\n自分にとって全てが違った雰囲気で、ここを訪れるすべての人に、この美しい風景をそしてこの美しい島で経験してもらいたい。\n___________________________________\n\nYasu聽說我在馬祖選立委，熱愛旅遊攝影的Yasu，也希望來紀錄馬祖的旖旎風光。\n\n我們徒步走遍南竿島，看過一片片海洋與自然景觀，踏進軍事據點改建的咖啡店。對Yasu來說，一切都與眾不同，歡迎大家來這座美麗的島嶼體驗不一樣的美麗景緻！\n\n讓我們透過Yasu的鏡頭📷，一起穿梭在閩東式建築與軍事據點交相輝映，自然與文化資產豐富的馬祖吧！\n\n讓更多國際友人認識馬祖、親近馬祖，也是我這次參選立委重要的任務！\n【讓世界看見馬祖，與馬祖走向世界】\n\n#點開高畫質觀賞品質會更好喔！\n#馬祖初上陸 #馬祖訪問 \n\n🔗Yasu的粉絲專頁： Wasabi Production 芥末出品 \n📸Yasu的Youtube頻道：https://pse.is/MX9D3\n🔗Yasu的Instagarm：https://www.instagram.com/yasuzki/",
       "ad_creation_time": "2019-11-25T15:43:58+0000",
@@ -718,7 +721,8 @@
       "spend": {
         "lower_bound": "1000",
         "upper_bound": "1499"
-      }
+      },
+      "ad_id": "437883693589647"
     }
   },
   {
@@ -729,7 +733,7 @@
     "開始日期": "2019-11-30",
     "結束日期": "2019-12-06",
     "廣告內容": "很高興邀請來自日本東京的攝影師鈴木康真（Yasu），來馬祖拍攝觀光短片，讓更多日本朋友認識馬祖的美！🇯🇵🇯🇵🇯🇵 国境の最北に位置する島、馬祖。 今回この島に来ることができたのはそこに住む友人からの誘いだった。 台湾本土では見られない伝統的な建物がたくさんあり、また彼らが話す言葉も台湾本土とは違う。 この島には戦争での軍事要塞や伝統的な閩東スタイルの建築集落が残されている。 僕たちは南竿島を歩き回り、場所によって様々な顔を持つ海岸線を見て自然の力強さを感じた。 自分にとって全てが違った雰囲気で、ここを訪れるすべての人に、この美しい風景をそしてこの美しい島で経験してもらいたい。 ___________________________________ Yasu聽說我在馬祖選立委，熱愛旅遊攝影的Yasu，也希望來紀錄馬祖的旖旎風光。 我們徒步走遍南竿島，看過一片片海洋與自然景觀，踏進軍事據點改建的咖啡店。對Yasu來說，一切都與眾不同，歡迎大家來這座美麗的島嶼體驗不一樣的美麗景緻！ 讓我們透過Yasu的鏡頭📷，一起穿梭在閩東式建築與軍事據點交相輝映，自然與文化資產豐富的馬祖吧！ 讓更多國際友人認識馬祖、親近馬祖，也是我這次參選立委重要的任務！ 【讓世界看見馬祖，與馬祖走向世界】 #點開高畫質觀賞品質會更好喔！ #馬祖初上陸 #馬祖訪問  🔗Yasu的粉絲專頁： Wasabi Production 芥末出品  📸Yasu的Youtube頻道：https://pse.is/MX9D3 🔗Yasu的Instagarm：https://www.instagram.com/yasuzki/",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/78358545_561384377955884_8405495497875259392_n.jpg?_nc_cat=111&_nc_ohc=eQn1UDB18lYAQk_pwIIyhj5RAngIXpASDUocw7Dzyw7ufn-hGxGAYRnSA&_nc_ht=scontent-hkg3-1.xx&oh=21c78eec42564588b9c77e1007573e6f&oe=5E412590",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/78358545_561384377955884_8405495497875259392_n.jpg?_nc_cat=111&_nc_ohc=gMIoLXrRDvwAQlfO3_NXE819rE4qAI0KKKGZDFfQftb5xFts7I41BaDkw&_nc_ht=scontent-hkg3-2.xx&oh=5ef23e192bc2e9a408a6feb50cb69b50&oe=5E68B290",
     "廣告詳情": {
       "ad_creative_body": "很高興邀請來自日本東京的攝影師鈴木康真（Yasu），來馬祖拍攝觀光短片，讓更多日本朋友認識馬祖的美！🇯🇵🇯🇵🇯🇵\n\n国境の最北に位置する島、馬祖。\n今回この島に来ることができたのはそこに住む友人からの誘いだった。\n台湾本土では見られない伝統的な建物がたくさんあり、また彼らが話す言葉も台湾本土とは違う。\n\nこの島には戦争での軍事要塞や伝統的な閩東スタイルの建築集落が残されている。\n\n僕たちは南竿島を歩き回り、場所によって様々な顔を持つ海岸線を見て自然の力強さを感じた。\n\n自分にとって全てが違った雰囲気で、ここを訪れるすべての人に、この美しい風景をそしてこの美しい島で経験してもらいたい。\n___________________________________\n\nYasu聽說我在馬祖選立委，熱愛旅遊攝影的Yasu，也希望來紀錄馬祖的旖旎風光。\n\n我們徒步走遍南竿島，看過一片片海洋與自然景觀，踏進軍事據點改建的咖啡店。對Yasu來說，一切都與眾不同，歡迎大家來這座美麗的島嶼體驗不一樣的美麗景緻！\n\n讓我們透過Yasu的鏡頭📷，一起穿梭在閩東式建築與軍事據點交相輝映，自然與文化資產豐富的馬祖吧！\n\n讓更多國際友人認識馬祖、親近馬祖，也是我這次參選立委重要的任務！\n【讓世界看見馬祖，與馬祖走向世界】\n\n#點開高畫質觀賞品質會更好喔！\n#馬祖初上陸 #馬祖訪問 \n\n🔗Yasu的粉絲專頁： Wasabi Production 芥末出品 \n📸Yasu的Youtube頻道：https://pse.is/MX9D3\n🔗Yasu的Instagarm：https://www.instagram.com/yasuzki/",
       "ad_creation_time": "2019-11-30T15:35:54+0000",
@@ -739,129 +743,130 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.173434",
+          "percentage": "0.171673",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.03235",
+          "percentage": "0.033221",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.000332",
+          "percentage": "0.000315",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000399",
+          "percentage": "0.000375",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000651",
+          "percentage": "0.000629",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000173",
+          "percentage": "0.000169",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000678",
+          "percentage": "0.000654",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.024575",
+          "percentage": "0.025657",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.028722",
+          "percentage": "0.028659",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.142745",
+          "percentage": "0.141126",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.018621",
+          "percentage": "0.018626",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.023472",
+          "percentage": "0.023721",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.045907",
+          "percentage": "0.045094",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.024296",
+          "percentage": "0.026117",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.19458",
+          "percentage": "0.194401",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.100081",
+          "percentage": "0.099325",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.188878",
+          "percentage": "0.190141",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.000106",
+          "percentage": "9.7E-5",
           "age": "55-64",
           "gender": "unknown"
         }
       ],
       "funding_entity": "李問",
       "impressions": {
-        "lower_bound": "70000",
-        "upper_bound": "79999"
+        "lower_bound": "80000",
+        "upper_bound": "89999"
       },
       "page_id": "104674337567749",
       "page_name": "李問",
       "region_distribution": [
         {
-          "percentage": "0.532481",
+          "percentage": "0.531664",
           "region": "Taipei"
         },
         {
-          "percentage": "0.218348",
+          "percentage": "0.218126",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.217212",
+          "percentage": "0.21833",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.002801",
+          "percentage": "0.002746",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.029158",
+          "percentage": "0.029135",
           "region": "Keelung City"
         }
       ],
       "spend": {
-        "lower_bound": "2000",
-        "upper_bound": "2499"
-      }
+        "lower_bound": "2500",
+        "upper_bound": "2999"
+      },
+      "ad_id": "2485420408396029"
     }
   },
   {
@@ -872,7 +877,7 @@
     "開始日期": "2019-12-01",
     "結束日期": "2019-12-05",
     "廣告內容": "我今天是一顆淡菜🤣 好開心呦！ 在馬祖吃飯要吃健康又營養的淡菜，在馬祖投票要投健康又營養的李問🎈🎈🎈 昨天的淡菜男孩初登場，讓市場的依伯依姆們笑不攏嘴～ 也與市場內的淡菜本菜相見歡，歡迎大家來馬祖與淡菜男孩拍照打卡，品嚐道地好淡菜！ #淡菜男孩 #馬祖新世代 #快樂向前行",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79027973_493790694565995_2426965296028844032_n.jpg?_nc_cat=108&_nc_ohc=H_RHYBUKaS4AQmTqUMG-z9fpAh9NdENt5Sz7eStEV6LQ3fMIwedCqL3Qw&_nc_ht=scontent-hkg3-1.xx&oh=50c7a15e81e1d6d0f1e0c77bc13138c5&oe=5E859FEC",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79027973_493790694565995_2426965296028844032_n.jpg?_nc_cat=108&_nc_ohc=Y12rsKdpU8EAQkDNNQbyEzR5rk9tvX7MzluEkmnCVse9XGtm6RlYxlViQ&_nc_ht=scontent-hkg3-1.xx&oh=a6cac4d081085384ecada7b3f19ddcb4&oe=5EAD2CEC",
     "廣告詳情": {
       "ad_creative_body": "我今天是一顆淡菜🤣 好開心呦！\n\n在馬祖吃飯要吃健康又營養的淡菜，在馬祖投票要投健康又營養的李問🎈🎈🎈\n\n昨天的淡菜男孩初登場，讓市場的依伯依姆們笑不攏嘴～\n也與市場內的淡菜本菜相見歡，歡迎大家來馬祖與淡菜男孩拍照打卡，品嚐道地好淡菜！\n\n#淡菜男孩 #馬祖新世代 #快樂向前行",
       "ad_creation_time": "2019-12-02T03:00:04+0000",
@@ -1004,7 +1009,670 @@
       "spend": {
         "lower_bound": "2000",
         "upper_bound": "2499"
-      }
+      },
+      "ad_id": "921177231616498"
+    }
+  },
+  {
+    "選區": "連江縣選舉區",
+    "參選人": "李問",
+    "AD_ID": "1262887347229203",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-08",
+    "結束日期": "2019-12-15",
+    "廣告內容": "【 立委選擇新世代 馬祖迎向新希望 】 　 在馬祖，你可曾注意過有一個人獨自揹著氣球走在街道上，看見行人他箭步招呼，遇見店家他熱情拜訪，他就是「＃李問」！ 　李問 🔺連江縣（馬祖） 　 從歷史文化出發，他了解馬祖的獨特性， 從溝通互動開始，他深知馬祖民眾需求， 　 因此，李問決定投入選戰，要替馬祖付出與奉獻！ ✅ 兒童宜居島嶼教育文化啟航 ✅ 支持青年創業幫您安家立業 ✅ 交通建設不停歇守護海洋資源 ✅ 島島有特色村村有驚喜 ✅ 土地正義與中央組織強化 ✅ 醫療長照溫暖您的心 ✅ 發揚馬祖精神爭取最後勝利 　 李問走向馬祖，讓馬祖看見李問 馬祖走向世界，讓世界看見馬祖！ 　 #護國會挺馬祖 #2020馬祖要贏台灣要贏",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80100396_2400154626967307_1801254067842842624_n.jpg?_nc_cat=101&_nc_ohc=qO0RDi5X9zEAQkEvMoyZ0V0VqD1VVdxcV03rP9QgjjRudLBAR8RmOSrCA&_nc_ht=scontent-hkg3-1.xx&oh=b206becf23fb108e705d2167372ab87a&oe=5EAE5FC8",
+    "廣告詳情": {
+      "ad_creative_body": "【 立委選擇新世代 馬祖迎向新希望 】\n　\n在馬祖，你可曾注意過有一個人獨自揹著氣球走在街道上，看見行人他箭步招呼，遇見店家他熱情拜訪，他就是「＃李問」！\n　\n李問 🔺連江縣（馬祖）\n　\n從歷史文化出發，他了解馬祖的獨特性，\n從溝通互動開始，他深知馬祖民眾需求，\n　\n因此，李問決定投入選戰，要替馬祖付出與奉獻！\n\n✅ 兒童宜居島嶼教育文化啟航\n✅ 支持青年創業幫您安家立業\n✅ 交通建設不停歇守護海洋資源\n✅ 島島有特色村村有驚喜\n✅ 土地正義與中央組織強化\n✅ 醫療長照溫暖您的心\n✅ 發揚馬祖精神爭取最後勝利\n　\n李問走向馬祖，讓馬祖看見李問\n馬祖走向世界，讓世界看見馬祖！\n　\n#護國會挺馬祖\n#2020馬祖要贏台灣要贏",
+      "ad_creation_time": "2019-12-08T12:48:54+0000",
+      "ad_creative_link_title": "【 護國會 挺馬祖︱全記錄】馬祖要贏 李問",
+      "ad_delivery_start_time": "2019-12-08T13:40:17+0000",
+      "ad_delivery_stop_time": "2019-12-15T12:27:17+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "2.4E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.009501",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000168",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000577",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000553",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000312",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.011639",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.028059",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.017885",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.209112",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.016937",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.023711",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.052239",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.180861",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.107012",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.316125",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.025165",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00012",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "李問",
+      "impressions": {
+        "lower_bound": "100000",
+        "upper_bound": "124999"
+      },
+      "page_id": "104674337567749",
+      "page_name": "李問",
+      "region_distribution": [
+        {
+          "percentage": "0.414786",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.323794",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.207243",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.001695",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.000443",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.022789",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.029193",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "5.5E-5",
+          "region": "Fujian"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2000",
+        "upper_bound": "2499"
+      },
+      "ad_id": "1262887347229203"
+    }
+  },
+  {
+    "選區": "連江縣選舉區",
+    "參選人": "李問",
+    "AD_ID": "447113296180202",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-18",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【發揚馬祖精神2020】競選歌曲MV #搖滾馬祖 #全球首播🎈 這首歌改編自過去在馬祖傳誦的軍歌《發揚馬祖精神歌》。雷開瑄將軍擔任馬祖司令官時期（民國54到58年），把這首前任長官任內寫的歌，普及傳唱於軍民。 最近我們在市場掃街時，播放這首歌曲，許多長輩聽到，想起以前在民防隊的回憶，紛紛說已經超過30年沒聽到這首歌了。 在冷戰時期國共對峙的年代，馬祖的防衛是一項艱鉅的任務。但軍民共同努力與犧牲奉獻之下，馬祖成為「海上長城」，守住國家的主權。 我這次參選，堅持正面選舉訴求、維護乾淨選風，更無意加入政治惡鬥；但願用年輕世代的創意與正能量，融合歷史資產和現代的行銷方式，向馬祖軍民前輩表達敬意。 謹以這首歌，向馬祖人致敬。 ：：： 《發揚馬祖精神2020》曲風的選擇融入搖滾龐克，做出有別於傳統競選歌曲的新樣態，將年輕人的新思維注入馬祖，一起打造活力新馬祖！ 音樂錄影帶的拍攝橫跨四鄉五島：南竿、北竿、東莒、西莒與東引，蒐羅馬祖美景🎥 拍攝過程，團隊動用的交通工具橫跨陸海空，絕對精彩可期！ 大家在觀賞的同時，記得細數畫面出現了哪些景點，一定要看到最後面喔！ ：：： 《發揚馬祖精神2020》歌詞 馬祖精神，是團結一致的精神 要做到三軍一體 馬祖精神，是永不屈服的精神 要爭取最後勝利 軍民一家 同島一命 乘風破浪 不忘家鄉 發揚馬祖精神 讓世界看見馬祖 發揚馬祖精神 與馬祖走向世界 ：：： 原曲軍歌：發揚馬祖精神歌 原曲作詞：華年 改編作詞：李問 原曲作曲：張世傑 製作：戰鬥音樂學  工作室 編曲： 亞歷さん 和聲：亞歷さん 錄音： 量子影創   錄音師： 張倫嘉 配唱製作： 楊瑞韻 混音： 彭敬之 母帶後期處理：彭敬之 跳島樂團：李問 楊力 林果 氣球手：陳嘉汶 攝影：施郡欽 賴謙暉 總監：謝雨利 #發揚馬祖精神2020",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/80631595_447113319513533_180162479223996416_n.jpg?_nc_cat=107&_nc_ohc=BV-XLtsIYvQAQkpbaYYyoCuJTXKGu-oDzAqisnGtmoHdA5ZoGg1mcZL0g&_nc_ht=scontent-hkg3-2.xx&oh=61b384fa3fc2d72b260712d576dd9e2d&oe=5E76AD22",
+    "廣告詳情": {
+      "ad_creative_body": "【發揚馬祖精神2020】競選歌曲MV\n#搖滾馬祖 #全球首播🎈\n\n這首歌改編自過去在馬祖傳誦的軍歌《發揚馬祖精神歌》。雷開瑄將軍擔任馬祖司令官時期（民國54到58年），把這首前任長官任內寫的歌，普及傳唱於軍民。\n\n最近我們在市場掃街時，播放這首歌曲，許多長輩聽到，想起以前在民防隊的回憶，紛紛說已經超過30年沒聽到這首歌了。\n\n在冷戰時期國共對峙的年代，馬祖的防衛是一項艱鉅的任務。但軍民共同努力與犧牲奉獻之下，馬祖成為「海上長城」，守住國家的主權。\n\n我這次參選，堅持正面選舉訴求、維護乾淨選風，更無意加入政治惡鬥；但願用年輕世代的創意與正能量，融合歷史資產和現代的行銷方式，向馬祖軍民前輩表達敬意。\n\n謹以這首歌，向馬祖人致敬。\n\n：：：\n\n《發揚馬祖精神2020》曲風的選擇融入搖滾龐克，做出有別於傳統競選歌曲的新樣態，將年輕人的新思維注入馬祖，一起打造活力新馬祖！\n\n音樂錄影帶的拍攝橫跨四鄉五島：南竿、北竿、東莒、西莒與東引，蒐羅馬祖美景🎥\n\n拍攝過程，團隊動用的交通工具橫跨陸海空，絕對精彩可期！\n\n大家在觀賞的同時，記得細數畫面出現了哪些景點，一定要看到最後面喔！\n\n：：：\n\n《發揚馬祖精神2020》歌詞\n\n馬祖精神，是團結一致的精神\n要做到三軍一體\n\n馬祖精神，是永不屈服的精神\n要爭取最後勝利\n\n軍民一家 同島一命\n乘風破浪 不忘家鄉\n\n發揚馬祖精神\n讓世界看見馬祖\n發揚馬祖精神\n與馬祖走向世界\n\n：：：\n\n原曲軍歌：發揚馬祖精神歌\n原曲作詞：華年\n改編作詞：李問\n原曲作曲：張世傑\n\n製作：戰鬥音樂學  工作室\n編曲： 亞歷さん\n和聲：亞歷さん\n錄音： 量子影創  \n錄音師： 張倫嘉\n配唱製作： 楊瑞韻\n混音： 彭敬之\n母帶後期處理：彭敬之\n\n跳島樂團：李問 楊力 林果\n氣球手：陳嘉汶\n攝影：施郡欽 賴謙暉\n總監：謝雨利\n\n#發揚馬祖精神2020",
+      "ad_creation_time": "2019-12-18T12:56:17+0000",
+      "ad_creative_link_title": "《發揚馬祖精神2020》李問立委競選ＭＶ",
+      "ad_delivery_start_time": "2019-12-18T13:00:04+0000",
+      "ad_delivery_stop_time": "2019-12-25T12:52:04+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.048777",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.020321",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000257",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000322",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000643",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.008199",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.0009",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000257",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.039484",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.170605",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.012122",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.026526",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.068744",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.005273",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.097007",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.272499",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.227935",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000129",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "李問",
+      "impressions": {
+        "lower_bound": "40000",
+        "upper_bound": "44999"
+      },
+      "page_id": "104674337567749",
+      "page_name": "李問",
+      "region_distribution": [
+        {
+          "percentage": "0.474712",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.243319",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.210289",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.002302",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001465",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.029144",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.038411",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.000359",
+          "region": "Fujian"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2000",
+        "upper_bound": "2499"
+      },
+      "ad_id": "447113296180202"
+    }
+  },
+  {
+    "選區": "連江縣選舉區",
+    "參選人": "李問",
+    "AD_ID": "750684902064304",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-30",
+    "結束日期": "2019-12-06",
+    "廣告內容": "很高興邀請來自日本東京的攝影師鈴木康真（Yasu），來馬祖拍攝觀光短片，讓更多日本朋友認識馬祖的美！🇯🇵🇯🇵🇯🇵 国境の最北に位置する島、馬祖。 今回この島に来ることができたのはそこに住む友人からの誘いだった。 台湾本土では見られない伝統的な建物がたくさんあり、また彼らが話す言葉も台湾本土とは違う。 この島には戦争での軍事要塞や伝統的な閩東スタイルの建築集落が残されている。 僕たちは南竿島を歩き回り、場所によって様々な顔を持つ海岸線を見て自然の力強さを感じた。 自分にとって全てが違った雰囲気で、ここを訪れるすべての人に、この美しい風景をそしてこの美しい島で経験してもらいたい。 ___________________________________ Yasu聽說我在馬祖選立委，熱愛旅遊攝影的Yasu，也希望來紀錄馬祖的旖旎風光。 我們徒步走遍南竿島，看過一片片海洋與自然景觀，踏進軍事據點改建的咖啡店。對Yasu來說，一切都與眾不同，歡迎大家來這座美麗的島嶼體驗不一樣的美麗景緻！ 讓我們透過Yasu的鏡頭📷，一起穿梭在閩東式建築與軍事據點交相輝映，自然與文化資產豐富的馬祖吧！ 讓更多國際友人認識馬祖、親近馬祖，也是我這次參選立委重要的任務！ 【讓世界看見馬祖，與馬祖走向世界】 #點開高畫質觀賞品質會更好喔！ #馬祖初上陸 #馬祖訪問  🔗Yasu的粉絲專頁： Wasabi Production 芥末出品  📸Yasu的Youtube頻道：https://pse.is/MX9D3 🔗Yasu的Instagarm：https://www.instagram.com/yasuzki/",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/78358545_561384377955884_8405495497875259392_n.jpg?_nc_cat=111&_nc_ohc=gMIoLXrRDvwAQlfO3_NXE819rE4qAI0KKKGZDFfQftb5xFts7I41BaDkw&_nc_ht=scontent-hkg3-2.xx&oh=5ef23e192bc2e9a408a6feb50cb69b50&oe=5E68B290",
+    "廣告詳情": {
+      "ad_creative_body": "很高興邀請來自日本東京的攝影師鈴木康真（Yasu），來馬祖拍攝觀光短片，讓更多日本朋友認識馬祖的美！🇯🇵🇯🇵🇯🇵\n\n国境の最北に位置する島、馬祖。\n今回この島に来ることができたのはそこに住む友人からの誘いだった。\n台湾本土では見られない伝統的な建物がたくさんあり、また彼らが話す言葉も台湾本土とは違う。\n\nこの島には戦争での軍事要塞や伝統的な閩東スタイルの建築集落が残されている。\n\n僕たちは南竿島を歩き回り、場所によって様々な顔を持つ海岸線を見て自然の力強さを感じた。\n\n自分にとって全てが違った雰囲気で、ここを訪れるすべての人に、この美しい風景をそしてこの美しい島で経験してもらいたい。\n___________________________________\n\nYasu聽說我在馬祖選立委，熱愛旅遊攝影的Yasu，也希望來紀錄馬祖的旖旎風光。\n\n我們徒步走遍南竿島，看過一片片海洋與自然景觀，踏進軍事據點改建的咖啡店。對Yasu來說，一切都與眾不同，歡迎大家來這座美麗的島嶼體驗不一樣的美麗景緻！\n\n讓我們透過Yasu的鏡頭📷，一起穿梭在閩東式建築與軍事據點交相輝映，自然與文化資產豐富的馬祖吧！\n\n讓更多國際友人認識馬祖、親近馬祖，也是我這次參選立委重要的任務！\n【讓世界看見馬祖，與馬祖走向世界】\n\n#點開高畫質觀賞品質會更好喔！\n#馬祖初上陸 #馬祖訪問 \n\n🔗Yasu的粉絲專頁： Wasabi Production 芥末出品 \n📸Yasu的Youtube頻道：https://pse.is/MX9D3\n🔗Yasu的Instagarm：https://www.instagram.com/yasuzki/",
+      "ad_creation_time": "2019-11-25T15:43:28+0000",
+      "ad_creative_link_title": "国境の最北：馬祖，Matsu【日文觀光宣傳短片】",
+      "ad_delivery_start_time": "2019-11-25T16:12:44+0000",
+      "ad_delivery_stop_time": "2019-12-05T16:12:44+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000252",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.061019",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000756",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000252",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000756",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001261",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.01765",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.03177",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.043873",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.047403",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.089007",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.086485",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.180535",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.206757",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.094049",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.012859",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.123298",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002017",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "李問",
+      "impressions": {
+        "lower_bound": "7000",
+        "upper_bound": "7999"
+      },
+      "page_id": "104674337567749",
+      "page_name": "李問",
+      "region_distribution": [
+        {
+          "percentage": "0.138666",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.365803",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.068302",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.105432",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.118726",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.136374",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.023837",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.000688",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.004584",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.004584",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.023608",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.009397",
+          "region": "Keelung City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "750684902064304"
+    }
+  },
+  {
+    "選區": "連江縣選舉區",
+    "參選人": "李問",
+    "AD_ID": "428429834509118",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-11-24",
+    "結束日期": "2019-12-04",
+    "廣告內容": "很高興邀請來自日本東京的攝影師鈴木康真（Yasu），來馬祖拍攝觀光短片，讓更多日本朋友認識馬祖的美！🇯🇵🇯🇵🇯🇵 国境の最北に位置する島、馬祖。 今回この島に来ることができたのはそこに住む友人からの誘いだった。",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/78458890_2658386824184599_6043016520160772096_n.jpg?_nc_cat=111&_nc_ohc=nty_1SdHO54AQkVrPBfMMud3XrvXg146cuDX60ACVfkR6g15YwUKFzFYA&_nc_ht=scontent-hkg3-2.xx&oh=a290150adedc34c321181e6204ef8c44&oe=5E67156A",
+    "廣告詳情": {
+      "ad_creative_body": "很高興邀請來自日本東京的攝影師鈴木康真（Yasu），來馬祖拍攝觀光短片，讓更多日本朋友認識馬祖的美！🇯🇵🇯🇵🇯🇵\n\n国境の最北に位置する島、馬祖。\n今回この島に来ることができたのはそこに住む友人からの誘いだった。",
+      "ad_creation_time": "2019-11-24T15:58:32+0000",
+      "ad_delivery_start_time": "2019-11-24T16:50:56+0000",
+      "ad_delivery_stop_time": "2019-12-04T16:50:56+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.342707",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.038664",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.343585",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.086116",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.074692",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.034271",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.007909",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.051845",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.011424",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.005272",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001757",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000879",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000879",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "李問",
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "1999"
+      },
+      "page_id": "104674337567749",
+      "page_name": "李問",
+      "region_distribution": [
+        {
+          "percentage": "0.027217",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.006146",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.011414",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.036874",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.014047",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.04302",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.005268",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.00878",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.014047",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.017559",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.159789",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.003512",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.000878",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.03863",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.102722",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.122037",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.078139",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.129061",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.154522",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.026339",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "428429834509118"
     }
   }
 ]

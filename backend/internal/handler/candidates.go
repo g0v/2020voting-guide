@@ -55,7 +55,7 @@ func GetCandidateByNameHandler(c *gin.Context) {
 		candidate.Experience = manualCandidateDb.Experience
 		candidate.ExperienceConnection = manualCandidateDb.ExperienceConnection
 	}
-	if manualCandidateDb.PoliticsConnection != "" {
+	if manualCandidateDb.PoliticsConnection != "" && manualCandidateDb.PoliticsConnection != "暫無" {
 		candidate.Politic = manualCandidateDb.Politics
 		candidate.PoliticsConnection = manualCandidateDb.PoliticsConnection
 	}

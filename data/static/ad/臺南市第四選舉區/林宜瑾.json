@@ -7,7 +7,7 @@
     "開始日期": "2019-11-07",
     "結束日期": "2019-11-11",
     "廣告內容": "賴清德院長肯定宜瑾擔任議員22年的問政表現，也肯定宜瑾用30年青春澆灌台灣，在1990年野百合學運擔任幹部，包含鄭文燦市長、林佳龍部長、鄭麗君部長、翁章梁縣長和我們台南的王定宇委員都是當時戰友，並肩作戰廢除萬年國大、國會全面改選及促成總統直選。 請大家與賴院長同心，全力動員拉票，總統支持蔡英文、立委支持林宜瑾、政黨票投民進黨！拜託大家！ #2020台灣要贏 #新選區新願景 #未來交給林宜瑾 #總統凍蒜 #國會過半 #立委全壘打",
-    "圖片": "https://scontent-nrt1-1.xx.fbcdn.net/v/t39.16868-6/75331500_1552175554925509_3484994325773811712_n.jpg?_nc_cat=110&_nc_oc=AQkR3GD7hx-tqsq6LGh2nO-76VmR6DG5c3QMGLw6fEEja1B_9IWkpkg_5an-P4sGgLQ&_nc_ht=scontent-nrt1-1.xx&oh=664cd875faf0639af23f34632e73d0a0&oe=5E3E6FCE",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/75331500_1552175554925509_3484994325773811712_n.jpg?_nc_cat=110&_nc_ohc=oaCbOKczkpAAQlYVc0DlT2g7l0p_dy-1q_-vRM2mJefQfLHGTF2ig5XjQ&_nc_ht=scontent-hkg3-2.xx&oh=ddf110bf9f992fdafdc0a59fd26ce0ca&oe=5E65FCCE",
     "廣告詳情": {
       "ad_creative_body": "賴清德院長肯定宜瑾擔任議員22年的問政表現，也肯定宜瑾用30年青春澆灌台灣，在1990年野百合學運擔任幹部，包含鄭文燦市長、林佳龍部長、鄭麗君部長、翁章梁縣長和我們台南的王定宇委員都是當時戰友，並肩作戰廢除萬年國大、國會全面改選及促成總統直選。\n\n請大家與賴院長同心，全力動員拉票，總統支持蔡英文、立委支持林宜瑾、政黨票投民進黨！拜託大家！\n\n#2020台灣要贏\n#新選區新願景 #未來交給林宜瑾\n#總統凍蒜 #國會過半 #立委全壘打",
       "ad_creation_time": "2019-11-08T03:18:28+0000",
@@ -112,7 +112,357 @@
       "spend": {
         "lower_bound": "900",
         "upper_bound": "999"
-      }
+      },
+      "ad_id": "1552175534925511"
+    }
+  },
+  {
+    "選區": "臺南市第四選舉區",
+    "參選人": "林宜瑾",
+    "AD_ID": "446072046332192",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-13",
+    "結束日期": "2019-12-17",
+    "廣告內容": "「一起來看看候選人的一天！」 大家晚安！想知道宜瑾的選舉日常嗎？ 早出晚歸，就是要努力拚，爭取鄉親支持。 選舉倒數41天，拜託大家給我信心！ 幫宜瑾加油，1/11出門投票給宜瑾！ #2020台灣要贏 #未來交給林宜瑾",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80439834_989703148066352_750979550011195392_n.jpg?_nc_cat=105&_nc_ohc=VPxX1hZrrnAAQnUURG_cEo18vV5bnEE4Rit1wwp8ASUSlRLD5RjWgPG5g&_nc_ht=scontent-hkg3-1.xx&oh=3356d50eece12613849715d60ddf8ec5&oe=5E6E850A",
+    "廣告詳情": {
+      "ad_creative_body": "「一起來看看候選人的一天！」\n\n大家晚安！想知道宜瑾的選舉日常嗎？\n早出晚歸，就是要努力拚，爭取鄉親支持。\n\n選舉倒數41天，拜託大家給我信心！\n幫宜瑾加油，1/11出門投票給宜瑾！\n\n#2020台灣要贏\n#未來交給林宜瑾",
+      "ad_creation_time": "2019-12-14T02:40:17+0000",
+      "ad_creative_link_title": "【宜瑾video｜一窺候選人的一天】",
+      "ad_delivery_start_time": "2019-12-14T02:40:18+0000",
+      "ad_delivery_stop_time": "2019-12-18T02:40:17+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.089758",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000623",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "6.9E-5",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000484",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000208",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.018893",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.032595",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.054187",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.008166",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.026367",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.157578",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.201661",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.063322",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.053218",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.213495",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.079239",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000138",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "丞閔 吳",
+      "impressions": {
+        "lower_bound": "25000",
+        "upper_bound": "29999"
+      },
+      "page_id": "147484398657964",
+      "page_name": "林宜瑾",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Tainan"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2000",
+        "upper_bound": "2499"
+      },
+      "ad_id": "446072046332192"
+    }
+  },
+  {
+    "選區": "臺南市第四選舉區",
+    "參選人": "林宜瑾",
+    "AD_ID": "752181135285806",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-18",
+    "結束日期": "2019-12-20",
+    "廣告內容": "大朋友小朋友最愛的 #紙風車劇團 來了！ 蕃薯國的國王生病了，只有蕃薯森林裡一位神祕的好朋友才有辦法，最後到底誰可以代表蕃薯國王去找那位神秘的好朋友？國王的病能不能治好呢？ 故事的結局，就等12月27日晚上，大家一起到南大附中廣場一探究竟囉！宜瑾姐姐也會陪大家一起找出神秘的好朋友，治好國王的病喔～ 12月27日，晚上七點，免費入場，南大附中廣場準時開演喔！ #孩子的未來交給林宜瑾",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79292515_3306747502731622_1751956566363340800_n.jpg?_nc_cat=110&_nc_ohc=S9tT9RZKLGsAQn47DBwjIRxLh6pgszTmBKDOP2xfN491eo14oufeC2QrA&_nc_ht=scontent-hkg3-2.xx&oh=08d00508ec7f1a9ba812ee569b0c8b86&oe=5E727C29",
+    "廣告詳情": {
+      "ad_creative_body": "大朋友小朋友最愛的 #紙風車劇團 來了！\n\n蕃薯國的國王生病了，只有蕃薯森林裡一位神祕的好朋友才有辦法，最後到底誰可以代表蕃薯國王去找那位神秘的好朋友？國王的病能不能治好呢？\n\n故事的結局，就等12月27日晚上，大家一起到南大附中廣場一探究竟囉！宜瑾姐姐也會陪大家一起找出神秘的好朋友，治好國王的病喔～\n\n12月27日，晚上七點，免費入場，南大附中廣場準時開演喔！\n\n#孩子的未來交給林宜瑾",
+      "ad_creation_time": "2019-12-18T09:09:07+0000",
+      "ad_delivery_start_time": "2019-12-18T09:09:07+0000",
+      "ad_delivery_stop_time": "2019-12-20T08:41:04+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.251586",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.029774",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.115046",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.405215",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.180761",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.014447",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002467",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000529",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000176",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "丞閔 吳",
+      "impressions": {
+        "lower_bound": "7000",
+        "upper_bound": "7999"
+      },
+      "page_id": "147484398657964",
+      "page_name": "林宜瑾",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Tainan"
+        }
+      ],
+      "spend": {
+        "lower_bound": "800",
+        "upper_bound": "899"
+      },
+      "ad_id": "752181135285806"
+    }
+  },
+  {
+    "選區": "臺南市第四選舉區",
+    "參選人": "林宜瑾",
+    "AD_ID": "434002234169569",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-20",
+    "結束日期": "1970-01-01",
+    "廣告內容": "看過來看過來～ 紙風車劇團到永康巡迴演出囉！ 12月27日晚上，紙風車劇團為我們帶來精彩的【蕃薯森林奇遇記】！ 蕃薯島上有個蕃薯國，蕃薯國王生病失去了笑容，只有蕃薯森林裡的幸福鳥才能讓國王重拾笑容，誰能幫國王去蕃薯森林探險？國王最後能不能找到幸福鳥呢？ #12月27日晚上七點，宜瑾姊姊與大家相約 #南大附中廣場，我們一起去蕃薯森林尋找幸福鳥！",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79894168_3316204105119295_2670185634689187840_n.jpg?_nc_cat=111&_nc_ohc=NQ46aM7CojwAQkEEAloq78kAuIDONEvybHJpVqoflCOzkWmpMbK_Q7krg&_nc_ht=scontent-hkg3-2.xx&oh=c6ed7a64831ffd13757839a65a462b84&oe=5E780F1B",
+    "廣告詳情": {
+      "ad_creative_body": "看過來看過來～ 紙風車劇團到永康巡迴演出囉！\n\n12月27日晚上，紙風車劇團為我們帶來精彩的【蕃薯森林奇遇記】！\n\n蕃薯島上有個蕃薯國，蕃薯國王生病失去了笑容，只有蕃薯森林裡的幸福鳥才能讓國王重拾笑容，誰能幫國王去蕃薯森林探險？國王最後能不能找到幸福鳥呢？\n\n#12月27日晚上七點，宜瑾姊姊與大家相約 #南大附中廣場，我們一起去蕃薯森林尋找幸福鳥！",
+      "ad_creation_time": "2019-12-20T15:37:54+0000",
+      "ad_delivery_start_time": "2019-12-20T15:37:59+0000",
+      "ad_delivery_stop_time": "2019-12-27T15:37:54+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.001101",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.090609",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.162142",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.448643",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.240646",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.038518",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.016508",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001834",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "丞閔 吳",
+      "impressions": {
+        "lower_bound": "4000",
+        "upper_bound": "4999"
+      },
+      "page_id": "147484398657964",
+      "page_name": "林宜瑾",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Tainan"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "434002234169569"
+    }
+  },
+  {
+    "選區": "臺南市第四選舉區",
+    "參選人": "林宜瑾",
+    "AD_ID": "547707055811502",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-18",
+    "結束日期": "2019-12-20",
+    "廣告內容": "大朋友小朋友最愛的 #紙風車劇團 來了！ 蕃薯國的國王生病了，只有蕃薯森林裡一位神祕的好朋友才有辦法，最後到底誰可以代表蕃薯國王去找那位神秘的好朋友？國王的病能不能治好呢？ 故事的結局，就等12月27日晚上，大家一起到南大附中廣場一探究竟囉！宜瑾姐姐也會陪大家一起找出神秘的好朋友，治好國王的病喔～ 12月27日，晚上七點，免費入場，南大附中廣場準時開演喔！ #孩子的未來交給林宜瑾",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79292515_3306747502731622_1751956566363340800_n.jpg?_nc_cat=110&_nc_ohc=S9tT9RZKLGsAQn47DBwjIRxLh6pgszTmBKDOP2xfN491eo14oufeC2QrA&_nc_ht=scontent-hkg3-2.xx&oh=08d00508ec7f1a9ba812ee569b0c8b86&oe=5E727C29",
+    "廣告詳情": {
+      "ad_creative_body": "大朋友小朋友最愛的 #紙風車劇團 來了！\n\n蕃薯國的國王生病了，只有蕃薯森林裡一位神祕的好朋友才有辦法，最後到底誰可以代表蕃薯國王去找那位神秘的好朋友？國王的病能不能治好呢？\n\n故事的結局，就等12月27日晚上，大家一起到南大附中廣場一探究竟囉！宜瑾姐姐也會陪大家一起找出神秘的好朋友，治好國王的病喔～\n\n12月27日，晚上七點，免費入場，南大附中廣場準時開演喔！\n\n#孩子的未來交給林宜瑾",
+      "ad_creation_time": "2019-12-18T08:40:58+0000",
+      "ad_delivery_start_time": "2019-12-18T08:41:04+0000",
+      "ad_delivery_stop_time": "2019-12-20T08:41:04+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.230769",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.384615",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.192308",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.076923",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.076923",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.038462",
+          "age": "25-34",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "丞閔 吳",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "147484398657964",
+      "page_name": "林宜瑾",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Tainan"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "547707055811502"
     }
   }
 ]
