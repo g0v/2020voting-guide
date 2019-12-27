@@ -33,6 +33,7 @@ export interface CandidateType {
     billnumcategory: string;
     politicalcontribution: string;
     othercandidate: string;
+    fbPage: string;
 }
 
 const CandidateDefault = {
@@ -58,7 +59,8 @@ const CandidateDefault = {
     billnumcategory: [],
     politicalcontribution: '',
     othercandidate: '',
-    bills: []
+    bills: [],
+    fbPage: ''
 };
 
 interface CandidatePage {
@@ -159,11 +161,7 @@ const CandidatePage = ({ match }: CandidatePage) => {
                     <NoInfoTab name={candidate.name} from="issueBill" />
                 )
             ) : tab === 1 ? (
-                <StrengthTab
-                    name={name}
-                    constituency={constituency}
-                    padding={desktopPadding}
-                />
+                <StrengthTab {...candidate} padding={desktopPadding} />
             ) : tab === 2 ? (
                 candidate.currentLegislator ? (
                     <PassPerformanceTab

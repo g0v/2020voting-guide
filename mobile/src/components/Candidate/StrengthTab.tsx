@@ -6,11 +6,6 @@ import CompareBarChart from './CompareBarChart';
 import ContributionChart from './ContributionChart';
 import { AdCardProp } from './AdCard';
 
-const candidateFBDefault = {
-    name: '',
-    fbPage: ''
-};
-
 const Payment: {
     candidate: {
         finance_data: {
@@ -36,20 +31,15 @@ const Payment: {
 const StrengthTab = ({
     constituency,
     name,
+    fbPage,
     padding
 }: {
     constituency: string;
     name: string;
+    fbPage: string;
     padding?: object;
 }) => {
     const width = window.screen.width > 425 ? 425 : window.screen.width;
-
-    const [candidateFB, setCandidateFB] = React.useState(candidateFBDefault);
-    React.useEffect(() => {
-        fetch(`/api/fb/${constituency}/${name}`)
-            .then(res => res.json())
-            .then(setCandidateFB);
-    }, [name, constituency]);
 
     const [ads, setAds] = React.useState([]);
     React.useEffect(() => {
@@ -160,12 +150,12 @@ const StrengthTab = ({
                         候選人在臉書粉絲團上的花費及廣告內容
                     </Typography>
                 </Box>
-                {candidateFB.fbPage.length ? (
+                {fbPage.length ? (
                     <Box textAlign="center" maxHeight={130}>
                         <iframe
                             src={
                                 'https://www.facebook.com/plugins/page.php?' +
-                                `href=${candidateFB.fbPage}` +
+                                `href=${fbPage}` +
                                 `&width=${width}&adapt_container_width=true` +
                                 '&show_facepile=false&hide_cta=true'
                             }
