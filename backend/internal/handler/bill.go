@@ -20,10 +20,10 @@ func ListRelatedBillsByParty(c *gin.Context) {
 
 	var bills []models.Bill
 
-	personalBills := *getPersonalBills(name)
+	personalBills := getPersonalBills(name)
 	bills = append(bills, personalBills...)
 
-	partyBills := *getPartyBills(party)
+	partyBills := getPartyBills(party)
 	bills = append(bills, partyBills...)
 
 	c.JSON(http.StatusOK, bills)
@@ -47,32 +47,32 @@ func ListRelatedBillsByConstituency(c *gin.Context) {
 		return
 	}
 
-	personalBills := *getPersonalBills(name)
+	personalBills := getPersonalBills(name)
 	bills = append(bills, personalBills...)
 
-	candidateInfo := *getRegionalCandidate(name, constituency)
-	partyBills := *getPartyBills(candidateInfo.Party)
+	candidateInfo := getRegionalCandidate(name, constituency)
+	partyBills := getPartyBills(candidateInfo.Party)
 	bills = append(bills, partyBills...)
 
 	c.JSON(http.StatusOK, bills)
 }
 
-func getRegionalCandidate(name string, constituency string) (c *db.ManualCandidate) {
-	db.MySQL.Where("name = ? AND constituency = ?", name, constituency).Last(c)
+func getRegionalCandidate(name string, constituency string) (c db.ManualCandidate) {
+	db.MySQL.Where("name = ? AND constituency = ?", name, constituency).Last(&c)
 	return
 }
 
-func getPersonalBills(name string) *[]models.Bill {
+func getPersonalBills(name string) []models.Bill {
 	bills := []db.Bill{}
 	db.MySQL.Where("billNo IN (?) AND term = 09", db.MySQL.Table("proposercosignatory").Select("billNo").Where("name = ? AND role = 'proposer'", name).QueryExpr()).Find(&bills)
 	mBills := []models.Bill{}
 	for _, bill := range bills {
 		mBills = append(mBills, bill.ToModelBill("立委提案"))
 	}
-	return &mBills
+	return mBills
 }
 
-func getPartyBills(party string) *[]models.Bill {
+func getPartyBills(party string) []models.Bill {
 	var orgBillsDb []db.Bill
 	caucusFilter := "本院" + getCaucusName(party)
 	db.MySQL.Where("billOrg LIKE ? AND term = ?", caucusFilter, "09").Find(&orgBillsDb)
@@ -80,7 +80,7 @@ func getPartyBills(party string) *[]models.Bill {
 	for _, bill := range orgBillsDb {
 		mBills = append(mBills, bill.ToModelBill("黨團提案"))
 	}
-	return &mBills
+	return mBills
 }
 
 // GetBillHandler get bill info and bill description
