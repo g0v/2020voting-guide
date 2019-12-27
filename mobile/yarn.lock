@@ -1298,6 +1298,11 @@
   version "7.0.3"
   resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.3.tgz#bdfd69d61e464dcc81b25159c270d75a73c1a636"
 
+"@types/lodash@^4.14.149":
+  version "4.14.149"
+  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.149.tgz#1342d63d948c6062838fbf961012f74d4e638440"
+  integrity sha512-ijGqzZt/b7BfzcK9vTrS6MFljQRPn5BFWOx8oE0GYxribu6uV+aA9zZuXI1zc/etK9E8nrgdoF2+LgUw7+9tJQ==
+
 "@types/node@12.7.4":
   version "12.7.4"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-12.7.4.tgz#64db61e0359eb5a8d99b55e05c729f130a678b04"
@@ -1339,6 +1344,13 @@
   resolved "https://registry.yarnpkg.com/@types/react-router/-/react-router-5.1.3.tgz#7c7ca717399af64d8733d8cb338dd43641b96f2d"
   dependencies:
     "@types/history" "*"
+    "@types/react" "*"
+
+"@types/react-scroll@^1.5.4":
+  version "1.5.4"
+  resolved "https://registry.yarnpkg.com/@types/react-scroll/-/react-scroll-1.5.4.tgz#c151b8e5320ba90dbb0adfbdfaa0823d57571746"
+  integrity sha512-EYJt9wDvyrcDZpZqI19eb2UlAzCoXBeoFu3yMkrBDC8zkwFXOhb8lv3tD9V9UAqptora096M7qWYktsWq1guEg==
+  dependencies:
     "@types/react" "*"
 
 "@types/react-transition-group@^4.2.0":
@@ -3007,6 +3019,11 @@ cssstyle@^1.0.0, cssstyle@^1.1.1:
 csstype@^2.2.0, csstype@^2.5.2, csstype@^2.6.5, csstype@^2.6.7:
   version "2.6.7"
   resolved "https://registry.yarnpkg.com/csstype/-/csstype-2.6.7.tgz#20b0024c20b6718f4eda3853a1f5a1cce7f5e4a5"
+
+csvjson-csv2json@^5.0.6:
+  version "5.0.6"
+  resolved "https://registry.yarnpkg.com/csvjson-csv2json/-/csvjson-csv2json-5.0.6.tgz#b056f77dd3c13a2f550ada1c31f05072aad6ff3a"
+  integrity sha512-to9QlVI4yQFPzSqi6XZ97lULKs5m3K8hlE/UkbvKSw81FfDwgV9MUtSbHFJ4SRT4IA7UPkuW2EqsH/MWN5YRow==
 
 currently-unhandled@^0.4.1:
   version "0.4.1"
@@ -7638,7 +7655,7 @@ prompts@^2.0.1:
     kleur "^3.0.3"
     sisteransi "^1.0.3"
 
-prop-types@^15.6.0, prop-types@^15.6.1, prop-types@^15.6.2, prop-types@^15.7.2:
+prop-types@^15.5.8, prop-types@^15.6.0, prop-types@^15.6.1, prop-types@^15.6.2, prop-types@^15.7.2:
   version "15.7.2"
   resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.7.2.tgz#52c41e75b8c87e72b9d9360e0206b99dcbffa6c5"
   dependencies:
@@ -7956,6 +7973,14 @@ react-scripts@3.2.0:
     workbox-webpack-plugin "4.3.1"
   optionalDependencies:
     fsevents "2.0.7"
+
+react-scroll@^1.7.14:
+  version "1.7.15"
+  resolved "https://registry.yarnpkg.com/react-scroll/-/react-scroll-1.7.15.tgz#90da4a1e953e620ae37be42747e0835b473158db"
+  integrity sha512-4AtQ/4GZmTW7CIQrVQhLvt3pMkITDvyXz6F3DZS3IOoux3fmccBRUR/x9wORupLbuKFlzOX1CoceDMpMgY7Tig==
+  dependencies:
+    lodash.throttle "^4.1.1"
+    prop-types "^15.5.8"
 
 react-smooth@^1.0.5:
   version "1.0.5"
