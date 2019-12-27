@@ -323,14 +323,19 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
+          "percentage": "0.000343",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
           "percentage": "0.000128",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000343",
-          "age": "45-54",
-          "gender": "unknown"
+          "percentage": "0.355959",
+          "age": "35-44",
+          "gender": "male"
         },
         {
           "percentage": "0.051989",
@@ -346,11 +351,6 @@
           "percentage": "0.06201",
           "age": "35-44",
           "gender": "female"
-        },
-        {
-          "percentage": "0.355959",
-          "age": "35-44",
-          "gender": "male"
         },
         {
           "percentage": "0.027965",
