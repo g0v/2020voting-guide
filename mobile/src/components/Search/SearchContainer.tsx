@@ -6,11 +6,12 @@ import SearchResults from './SearchResult'
 import useFetchData from './functions/useFetchData'
 import { useChangeInput } from './functions/useChangeInput'
 import filterSearchResults from './functions/filterSearchResults'
+import { useFnsByKeyCode } from './functions/useFnsByKeyCode'
 
 const useStyles = makeStyles((theme: Theme) => (
   createStyles({
     root: {
-      padding: theme.spacing(2)
+      // padding: theme.spacing(2)
     }
   })
 ))
@@ -30,6 +31,17 @@ const SearchContainer = () => {
     const filterFn = filterSearchResults(searchInput)
     queryData(filterFn)
   }, [searchInput])
+  
+  const {
+    setConfirmFn
+  } = useFnsByKeyCode({
+    lastIndex: 0,
+    confirmFn: handleSearch,
+    escapeFn: () => {}
+  })
+  useEffect(() => {
+    setConfirmFn(() => handleSearch)
+  }, [handleSearch])
 
   return (
     <Box className={classes.root}>

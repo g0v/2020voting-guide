@@ -5,7 +5,6 @@ interface PartyColor {
   secondary?: string;
   text?: string;
 }
-
 export const partiesColors: {
     [key: string]: PartyColor;
 } = {
@@ -30,5 +29,17 @@ export const partiesColors: {
     其他: { main: '#AEAEAE' }
 };
 
+export const MODAL_MAX_WIDTH = 980
+
 export const API_CONSTITUENCY = (constituency: string) => `/api/constituency/${constituency}`
 export const API_ALL_REGIONAL_CANDIDATES = '/api/data/regional_candidates.json'
+
+export const KEYCODE = {
+  ENTER: 13 as 13,
+  ESCAPE: 27 as 27,
+
+  ARROW_UP: 38 as 38,
+  ARROW_RIGHT: 39 as 39,
+  ARROW_DOWN: 40 as 40,
+  ARROW_LEFT: 37 as 37,
+}

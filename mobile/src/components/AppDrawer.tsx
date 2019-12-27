@@ -10,6 +10,8 @@ import ChevronRightIcon from '@material-ui/icons/ChevronRight';
 import React from 'react';
 import countyConstituency from '../data/county_constituency.json';
 import SearchContainer from './Search/SearchContainer';
+import { useOpenClose } from '../hooks/useOpenClose';
+import SearchContainerWithDialog from './Search/SearchContainerWithDialog';
 
 const drawerWidth = 315;
 const useStyles = makeStyles((theme: Theme) =>
@@ -106,7 +108,9 @@ const counties = countyConstituency.map(county => county.name);
 
 const AppDrawer = ({ open, handleDrawerClose }: AppDrawer) => {
     const classes = useStyles();
-
+    const {
+        open: searchDialogIsOpen, handleOpen, handleClose
+    } = useOpenClose()
     return (
         <>
             <Drawer
@@ -124,17 +128,24 @@ const AppDrawer = ({ open, handleDrawerClose }: AppDrawer) => {
                     </IconButton>
                 </div>
                 <Divider />
-                <SearchContainer />
+                <ListItem
+                    button
+                    key={'搜尋立委/政黨'}
+                    className={classes.listItemLink}
+                    onClick={handleOpen}
+                >
+                    <Typography variant="h3">{'搜尋立委/政黨'}</Typography>
+                </ListItem>
                 <List>
                 <ListItem
-                        button
-                        key="區域立委候選人"
-                        component="a"
-                        href="/regional"
-                        className={classes.listItemLink}
-                    >
-                        <Typography variant="h3">區域立委候選人</Typography>
-                    </ListItem>
+                    button
+                    key="區域立委候選人"
+                    component="a"
+                    href="/regional"
+                    className={classes.listItemLink}
+                >
+                    <Typography variant="h3">區域立委候選人</Typography>
+                </ListItem>
                 {counties.map(county => (
                     <ListItem
                         key={county}
@@ -201,6 +212,9 @@ const AppDrawer = ({ open, handleDrawerClose }: AppDrawer) => {
                     </ListItem>
                 </List>
             </Drawer>
+            {searchDialogIsOpen && (
+                <SearchContainerWithDialog open={searchDialogIsOpen} onClose={handleClose} />
+            )}
         </>
     );
 };

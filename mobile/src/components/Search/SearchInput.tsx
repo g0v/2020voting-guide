@@ -36,6 +36,7 @@ const SearchInput = ({
         name={'search'}
         className={classes.input}
         variant={'outlined'}
+        placeholder={'搜尋立委/政黨'}
         value={searchInput}
         onChange={changeInput} />
       <Button 
