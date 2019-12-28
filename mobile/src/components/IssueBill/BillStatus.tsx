@@ -24,7 +24,7 @@ const BillStatus = ({ status }: { status: string }) =>
             />
         </>
     ) : (
-        <Typography variant="h5" color="textPrimary">
+        <Typography variant="h5" color="primary">
             尚在立法院審查協商
         </Typography>
     );
