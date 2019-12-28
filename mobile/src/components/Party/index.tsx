@@ -6,7 +6,8 @@ import React, { useEffect } from 'react';
 import { RouteComponentProps } from 'react-router';
 import partyInfos from '../../data/party.json';
 import partyCandidates from '../../data/party_candidates.json';
-import partyPolitics from '../../data/party_politics.json';
+import partyPolitics2016 from '../../data/party_politics_2016.json';
+import partyPolitics2020 from '../../data/party_politics_2020.json';
 import partyPositions from '../../data/party_positions.json';
 import { Bill } from '../IssueBill';
 import IssueBillTab from '../IssueBillTab';
@@ -53,7 +54,13 @@ const Party = ({ match }: RouteComponentProps<{ party: string }>) => {
         p => p.party === party
     );
 
-    const politics = partyPolitics.find(p => p.name === party);
+    const lastPartyPolitics = partyPolitics2016.find(p => p.name === party);
+    const lastPolitics = lastPartyPolitics ? lastPartyPolitics.politics : '';
+
+    const currentPartyPolitics = partyPolitics2020.find(p => p.name === party);
+    const currentPolitics = currentPartyPolitics
+        ? currentPartyPolitics.politics
+        : '';
 
     return (
         <Box color="background" pt="60px">
@@ -117,7 +124,8 @@ const Party = ({ match }: RouteComponentProps<{ party: string }>) => {
             {tab === 2 && (
                 <BasicInfoTab
                     party={party}
-                    lastPolitics={politics ? politics.politics : ''}
+                    lastPolitics={lastPolitics}
+                    currentPolitics={currentPolitics}
                     positions={positions}
                 />
             )}
