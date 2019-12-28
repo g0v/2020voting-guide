@@ -4,6 +4,7 @@ import React from 'react';
 import { simplifyCaseOfAction } from '../../utils';
 import Card from '../Card';
 import BillDialog from './BillDialog';
+import BillStatus from './BillStatus';
 
 const useStyles = makeStyles({
     billInfo: {
@@ -29,7 +30,8 @@ const PersonalBillCard = ({
     vernacular,
     billProposerString,
     billCosignatoryString,
-    proposerType
+    proposerType,
+    billStatus
 }: {
     name: string;
     billNo: string;
@@ -38,6 +40,7 @@ const PersonalBillCard = ({
     billProposerString: string;
     billCosignatoryString: string;
     proposerType: string;
+    billStatus: string;
 }) => {
     const [open, setOpen] = React.useState(false);
     const classes = useStyles(open);
@@ -49,9 +52,14 @@ const PersonalBillCard = ({
                     setOpen(!open);
                 }}
             >
-                <Typography variant="h5" color="textSecondary">
-                    立委提案
-                </Typography>
+                <Box display="flex">
+                    <Box flexGrow={1}>
+                        <Typography variant="h5" color="textSecondary">
+                            立委提案
+                        </Typography>
+                    </Box>
+                    <BillStatus status={billStatus} />
+                </Box>
                 <Box height={12} />
                 <Typography variant="h3" className={classes.cardName}>
                     {vernacular ? vernacular : name}
