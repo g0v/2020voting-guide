@@ -55,7 +55,9 @@ const StrengthTab = ({
         candidate: {
             finance_data: { income, outcome }
         },
-        constituency: { candidates: othercandidates }
+        constituency: {
+            candidates: othercandidates
+        }
     } = payment;
 
     const incomeDetail = income.items.map(
@@ -84,6 +86,7 @@ const StrengthTab = ({
     const otherCandidates = othercandidates.map(
         (candidate: {
             name: string;
+            isElected: boolean;
             finance: {
                 income: {
                     total: number;
@@ -95,6 +98,7 @@ const StrengthTab = ({
         }) => {
             return {
                 name: candidate.name,
+                isElected: candidate.isElected,
                 totalIncome: candidate.finance
                     ? candidate.finance.income.total
                     : 0,
@@ -238,7 +242,9 @@ const StrengthTab = ({
                         <Typography variant="h5" color="textSecondary">
                             2016 區域立委選舉 {constituency} 其他候選人收支
                         </Typography>
-                        <CompareBarChart name={name} data={otherCandidates} />
+                        <CompareBarChart
+                            name={name}
+                            data={otherCandidates} />
                         <Box my={2}>
                             <Typography variant="h5" color="textSecondary">
                                 {`資料來源：`}
