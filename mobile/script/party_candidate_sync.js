@@ -2,6 +2,7 @@
 //  usage:
 //  $ cd mobile
 //  $ node script/party_candidate_sync.js
+//  prettier src/data/party_candidates.json manually
 //
 const fs = require('fs');
 const csv2json = require('csvjson-csv2json');
