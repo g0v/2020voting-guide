@@ -1,5 +1,5 @@
 export interface Candidate {
-    avatar: string;
+    photo: string;
     party: string;
     name: string;
     rank: number;
