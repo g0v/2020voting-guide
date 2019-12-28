@@ -61,7 +61,6 @@ const PoliticsCard: FunctionComponent<{
     const [open, setOpen] = useState(false);
     return (
         <>
-            <Title name="政見" />
             <Box p={1} onClick={() => setOpen(true)}>
                 <Card>
                     <Box mb={1}>
@@ -105,6 +104,7 @@ const BasicInfoTab: FunctionComponent<Props> = ({
                     <PositionCard {...p} />
                 ))}
             </FullCard>
+            <Title name="政見" />
             {currentPolitics && (
                 <PoliticsCard
                     num={11}
