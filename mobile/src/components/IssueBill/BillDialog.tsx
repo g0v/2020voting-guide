@@ -1,10 +1,17 @@
-import { Box, DialogTitle, DialogContent, Link, Typography } from '@material-ui/core';
+import {
+    Box,
+    DialogTitle,
+    DialogContent,
+    Link,
+    Typography
+} from '@material-ui/core';
 import React from 'react';
 import { simplifyCaseOfAction } from '../../utils';
 import Alert from '../Alert';
 import ChangedBill from '../Bill/ChangedBill';
 import Dialog from '../Dialog';
 import { CircleIcon } from '../PartyIcon';
+import BillStatus from './BillStatus';
 
 const defaultInfo = {
     bill: {
@@ -17,7 +24,8 @@ const defaultInfo = {
         billCosignatory: [],
         caseOfAction: '',
         proposerType: '',
-        vernacular: ''
+        vernacular: '',
+        billStatus: ''
     },
     descriptions: []
 };
@@ -120,26 +128,31 @@ const BillDialog = ({
     return !open ? null : (
         <Dialog handleCloseClick={handleClose}>
             <DialogTitle disableTypography>
-                <Typography variant="h3">
-                    {bill.name}
-                </Typography>
+                <Typography variant="h3">{bill.name}</Typography>
             </DialogTitle>
             <DialogContent>
                 <Typography variant="h5" color="textSecondary" gutterBottom>
                     {bill.vernacular}
                 </Typography>
-                <Box my={bill.vernacular ? 2 : 0}>
-                    <Typography variant="h4" color="textSecondary" gutterBottom>
-                        {bill.billNo
-                            ? bill.billNo.substring(0, 3) +
-                              '/' +
-                              bill.billNo.substring(3, 5) +
-                              '/' +
-                              bill.billNo.substring(5, 7) +
-                              ' ' +
-                              '提案'
-                            : ''}
-                    </Typography>
+                <Box my={bill.vernacular ? 2 : 0} display="flex">
+                    <Box flexGrow={1}>
+                        <Typography
+                            variant="h4"
+                            color="textSecondary"
+                            gutterBottom
+                        >
+                            {bill.billNo
+                                ? bill.billNo.substring(0, 3) +
+                                  '/' +
+                                  bill.billNo.substring(3, 5) +
+                                  '/' +
+                                  bill.billNo.substring(5, 7) +
+                                  ' ' +
+                                  '提案'
+                                : ''}
+                        </Typography>
+                    </Box>
+                    <BillStatus status={bill.billStatus} />
                 </Box>
 
                 <Box my={3}>

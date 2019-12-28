@@ -18,6 +18,7 @@ export interface Bill {
     billCosignatory: string;
     billProposerString: string;
     billCosignatoryString: string;
+    billStatus: string;
     pdfUrl: string;
     vernacular: string;
 }
