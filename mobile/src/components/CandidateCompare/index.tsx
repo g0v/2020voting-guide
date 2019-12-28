@@ -19,6 +19,7 @@ interface Route {
         params: {
             constituency: string;
             names: string;
+            county: string;
         };
     };
 }
@@ -27,7 +28,7 @@ interface Route {
  * 不分區候選人比較
  */
 const CandidateCompare = ({ match }: Route) => {
-    const { constituency, names } = match.params;
+    const { county, constituency, names } = match.params;
     const [candidateNames, setCandidateNames] = React.useState<string[]>(
         names.split(',')
     );
@@ -116,7 +117,7 @@ const CandidateCompare = ({ match }: Route) => {
             <Box m={1} className="page-candidate-compare-nav">
                 <Box display="flex" alignItems="center" my={1}>
                     <Link
-                        href={`/regional/台北市/${constituency}?select=${names}`}
+                        href={`/regional/${county}/${constituency}?select=${names}`}
                     >
                         <KeyboardArrowLeft fontSize="large" />
                     </Link>
