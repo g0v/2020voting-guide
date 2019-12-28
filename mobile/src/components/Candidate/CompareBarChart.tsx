@@ -4,6 +4,7 @@ import { Bar, BarChart, XAxis, YAxis, Tooltip, Legend, CartesianGrid, Responsive
 interface CompareBarChart {
 	data: {
 		name: string;
+		isElected: boolean;
 		totalIncome: number;
 		totalExpense: number
 	}[];
@@ -46,16 +47,30 @@ const CustomTooltip = ({active, label, payload}: BaseTooltip) => {
   return null;
 };
 
-const CustomizedAxisTick = ({x, y, stroke, payload, name}:
-	{x?: number; y?: number; stroke?: string; name: string; payload?: { value: string; }}) => {
-	const isCurrent = payload && payload.value === name
+const CustomizedAxisTick = ({x, y, payload, data}:
+	{x?: number; y?: number;
+		payload?: { value: string; };
+		data: {
+			name: string;
+			isElected: boolean;
+			totalIncome: number;
+			totalExpense: number
+		}[];
+	}) => {
+
+		const candidate: {
+				name?: string;
+				isElected?: boolean;
+				totalIncome?: number;
+				totalExpense?: number;
+		} = data.find(e => e.name === (payload && payload.value)) || {}
 
 	return (
 		<g transform={`translate(${x},${y})`}>
-			<text x={0} y={0} dy={16} textAnchor="middle" fill={isCurrent ? '#3199BA' : '#666'}>
+			<text x={0} y={0} dy={16} textAnchor="middle" fill={candidate.isElected ? '#3199BA' : '#666'}>
 			{payload && payload.value}
 			</text>
-			{isCurrent ? (
+			{candidate.isElected ? (
 				<text x={0} y={20} dy={16} textAnchor="middle" fill='#666'>
 				（當選）
 				</text>
@@ -69,6 +84,7 @@ const CompareBarChart = ({ data, name }: CompareBarChart) => {
 	const normalizeData = data.map(val => {
 		return {
 			name: val.name,
+			isElected: val.isElected,
 			totalIncome: val.totalIncome / 1000000,
 			totalExpense: val.totalExpense / 1000000
 		}
@@ -83,9 +99,11 @@ const CompareBarChart = ({ data, name }: CompareBarChart) => {
 					}}>
 
 					<CartesianGrid strokeDasharray="3 3" />
-					<XAxis dataKey="name" height={60} tick={<CustomizedAxisTick name={name} />} />
-					<YAxis label={{ value: '百萬', angle: 0, position: 'top', offset: 20, fontSize: 14, fill: 'rgba(0, 0, 0, 0.54)' }}/>
-					<Tooltip content={<CustomTooltip/>}/>
+					<XAxis dataKey="name" height={60} tick={
+						<CustomizedAxisTick data={normalizeData} />} />
+					<YAxis label={{ value: '百萬',
+					 angle: 0, position: 'top', offset: 20, fontSize: 14, fill: 'rgba(0, 0, 0, 0.54)' }}/>
+					<Tooltip content={<CustomTooltip />}/>
         	<Legend formatter={renderColorfulLegendText} />
 					<Bar dataKey="totalIncome" fill="#3199BA" barSize={17} />
 					<Bar dataKey="totalExpense" fill="#D4AF37" barSize={17} />
