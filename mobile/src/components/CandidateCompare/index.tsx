@@ -160,7 +160,7 @@ const CandidateCompare = ({ match }: Route) => {
                             <div className="candidate-compare-card">
                                 <a
                                     className="btn btn-rounded candidate-compare-add-btn"
-                                    href={`/regional/台北市/${constituency}?select=${names}`}
+                                    href={`/regional/${county}/${constituency}?select=${names}`}
                                 >
                                     +
                                 </a>
@@ -220,7 +220,7 @@ const CandidateCompare = ({ match }: Route) => {
                         <div className="candidate-compare-card">
                             <a
                                 className="btn btn-rounded candidate-compare-add-btn"
-                                href={`/regional/台北市/${constituency}?select=${names}`}
+                                href={`/regional/${county}/${constituency}?select=${names}`}
                             >
                                 +
                             </a>
