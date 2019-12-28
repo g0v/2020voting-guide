@@ -1,3 +1,8 @@
+//
+//  usage:
+//  $ cd mobile
+//  $ node script/party_candidate_sync.js
+//
 const fs = require('fs');
 const csv2json = require('csvjson-csv2json');
 
