@@ -39,11 +39,15 @@ const Nav = ({
         county.area.includes(constituency)
     );
     const county = county_list.length ? county_list[0].name : '';
+    const isRegional = constituency !== '不分區';
+    const previousLink = isRegional
+        ? `/regional/${county}/${constituency}`
+        : `/party/${party}`;
     return (
         <div style={padding}>
             <Box m={1}>
                 <Box display="flex" alignItems="center" my={1}>
-                    <Link href={`/regional/${county}/${constituency}`}>
+                    <Link href={previousLink}>
                         <KeyboardArrowLeft fontSize="large" />
                     </Link>
                     <Box>
