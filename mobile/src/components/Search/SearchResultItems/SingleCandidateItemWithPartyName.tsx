@@ -1,16 +1,8 @@
-import React from 'react';
-import SingleCandidateItem from '../../Party/SingleCandidateItem';
-import { Candidate } from '../../Party/types';
-import {
-    ListItem,
-    Card,
-    Typography,
-    Divider,
-    Box,
-    makeStyles,
-    Theme
-} from '@material-ui/core';
-import ResultItemCardWrapper from './ResultItemCardWrapper';
+import React from 'react'
+import SingleCandidateItem from '../../Party/SingleCandidateItem'
+import { Candidate } from '../../Party/types'
+import { ListItem, Typography, Divider, Box, makeStyles, Theme } from '@material-ui/core'
+import ResultItemCardWrapper from './ResultItemCardWrapper'
 
 const useStyles = makeStyles((theme: Theme) => ({
     outer: {

@@ -4,7 +4,7 @@ export type SingleCandidateInParty = {
   party: string
   rank: number
   name: string
-  isCurrent: boolean
+  currentLegislator: boolean
   isPast: boolean
   birth: string
   age: number | string
