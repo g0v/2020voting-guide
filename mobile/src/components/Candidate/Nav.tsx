@@ -8,6 +8,12 @@ import county_constituency from '../../data/county_constituency.json';
 import { RectangleIcon } from '../PartyIcon';
 
 const useStyles = makeStyles({
+    nav: {
+        position: 'sticky',
+        top: '56px',
+        background: '#fff',
+        zIndex: 1
+    },
     photo: {
         width: 76,
         height: 76,
@@ -23,6 +29,7 @@ interface Nav {
     party?: string;
     age?: number;
     padding?: object;
+    isScroll: boolean;
 }
 
 const Nav = ({
@@ -31,7 +38,8 @@ const Nav = ({
     photo = '',
     age = 0,
     party = '',
-    padding = {}
+    padding = {},
+    isScroll
 }: Nav) => {
     const classes = useStyles();
     const ageDisplay = age === 0 ? '未知年齡' : `${age} 歲`;
@@ -39,10 +47,11 @@ const Nav = ({
         county.area.includes(constituency)
     );
     const county = county_list.length ? county_list[0].name : '';
+
     return (
-        <div style={padding}>
+        <div className={classes.nav} style={padding}>
             <Box m={1}>
-                <Box display="flex" alignItems="center" my={1}>
+                <Box display="flex" alignItems="center" py={1}>
                     <Link href={`/regional/${county}/${constituency}`}>
                         <KeyboardArrowLeft fontSize="large" />
                     </Link>
@@ -63,35 +72,37 @@ const Nav = ({
                         </Typography>
                     </Box>
                 </Box>
-                <Box px={1} py={1}>
-                    <Grid container alignItems="center" spacing={2}>
-                        <Grid item>
-                            {photo ? (
-                                <Avatar src={photo} className={classes.photo} />
-                            ) : (
-                                <Avatar className={classes.photo}>
-                                    {name.charAt(0)}
-                                </Avatar>
-                            )}
-                        </Grid>
-                        <Grid item>
-                            <Grid container direction="column">
-                                <Grid item>
-                                    <RectangleIcon party={party} />
-                                </Grid>
-                                <Box height={8} />
-                                <Grid item>
-                                    <Typography
-                                        variant="h5"
-                                        color="textSecondary"
-                                    >
-                                        {ageDisplay}
-                                    </Typography>
+                {isScroll && (
+                    <Box px={1} py={1} style={{ height: 'auto'}}>
+                        <Grid container alignItems="center" spacing={2}>
+                            <Grid item>
+                                {photo ? (
+                                    <Avatar src={photo} className={classes.photo} />
+                                ) : (
+                                    <Avatar className={classes.photo}>
+                                        {name.charAt(0)}
+                                    </Avatar>
+                                )}
+                            </Grid>
+                            <Grid item>
+                                <Grid container direction="column">
+                                    <Grid item>
+                                        <RectangleIcon party={party} />
+                                    </Grid>
+                                    <Box height={8} />
+                                    <Grid item>
+                                        <Typography
+                                            variant="h5"
+                                            color="textSecondary"
+                                        >
+                                            {ageDisplay}
+                                        </Typography>
+                                    </Grid>
                                 </Grid>
                             </Grid>
                         </Grid>
-                    </Grid>
-                </Box>
+                    </Box>
+                )}
             </Box>
         </div>
     );

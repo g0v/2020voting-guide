@@ -1,4 +1,5 @@
 import { Link, Typography } from '@material-ui/core';
+import useScrollTrigger from '@material-ui/core/useScrollTrigger';
 import Tab from '@material-ui/core/Tab';
 import Tabs from '@material-ui/core/Tabs';
 import React, { FunctionComponent, useEffect, useState } from 'react';
@@ -94,6 +95,7 @@ const IssueBillTabAlert: FunctionComponent<{
 const caucusParty = ['民主進步黨', '中國國民黨', '親民黨', '時代力量'];
 
 const isDesktop = !/Mobi|Android/i.test(navigator.userAgent);
+
 const desktopPadding = isDesktop
     ? {
           padding: '20px 8% 0 8%',
@@ -127,11 +129,22 @@ const CandidatePage = ({ match }: CandidatePage) => {
             .then(setBills);
     }, [name, constituency]);
 
+    const scrollTrigger = useScrollTrigger({
+        disableHysteresis: true, // 忽略滾動方向
+        threshold: 0
+    });
+
+    const tabStyle = (isDesktop:boolean) => ({
+        'top': isDesktop ? '136px' : '96px',
+        'background': '#fff',
+        'zIndex': 1
+    })
+
     return (
         <>
-            <Nav {...candidate} padding={desktopPadding} />
+            <Nav isScroll={!scrollTrigger} {...candidate} padding={desktopPadding} />
             <Tabs
-                style={desktopPadding}
+                style={{...desktopPadding, ...tabStyle(isDesktop), position: 'sticky'}}
                 value={tab}
                 indicatorColor="primary"
                 textColor="primary"
