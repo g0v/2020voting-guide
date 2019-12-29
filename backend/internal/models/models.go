@@ -30,6 +30,7 @@ type Candidate struct {
 	EducationConnection  string `json:"educationConnection"`
 	ExperienceConnection string `json:"experienceConnection"`
 	PoliticsConnection   string `json:"politicsConnection"`
+	FbPage               string `json:"fbPage"`
 	// SittingRate            string `json:"sittingRate"`
 	// InterpellationRate     string `json:"interpellationRate"`
 	// InterpellationNum      string `json:"interpellationNum"`

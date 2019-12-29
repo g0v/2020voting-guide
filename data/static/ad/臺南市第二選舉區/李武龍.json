@@ -699,81 +699,81 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "7.5E-5",
+          "percentage": "6.9E-5",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.50183",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.085755",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.053485",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.272503",
+          "percentage": "0.273046",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.045791",
+          "percentage": "0.494573",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.085932",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.058181",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.044718",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.019945",
+          "percentage": "0.021775",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.011578",
+          "percentage": "0.011952",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.006349",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.002017",
+          "percentage": "0.001992",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000672",
+          "percentage": "0.007006",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000756",
           "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "邦瑜陳",
       "impressions": {
-        "lower_bound": "20000",
-        "upper_bound": "24999"
+        "lower_bound": "25000",
+        "upper_bound": "29999"
       },
       "page_id": "654895755026475",
       "page_name": "李武龍",
       "region_distribution": [
         {
-          "percentage": "0.38448",
+          "percentage": "0.378839",
           "region": "Taipei"
         },
         {
-          "percentage": "0.61552",
+          "percentage": "0.621161",
           "region": "Tainan"
         }
       ],
       "spend": {
-        "lower_bound": "1500",
-        "upper_bound": "1999"
+        "lower_bound": "2000",
+        "upper_bound": "2499"
       },
       "ad_id": "543563673154044"
     }

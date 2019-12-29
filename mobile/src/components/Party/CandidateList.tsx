@@ -87,7 +87,7 @@ const Item: FunctionComponent<{ candidate: Candidate }> = ({ candidate }) => {
         <ListItem divider disableGutters>
             <Box width="100%" display="flex" alignItems="center">
                 <Box m={1}>
-                    <Avatar className={classes.avatar}>
+                    <Avatar className={classes.avatar} src={candidate.photo}>
                         {candidate.name.charAt(0)}
                     </Avatar>
                 </Box>

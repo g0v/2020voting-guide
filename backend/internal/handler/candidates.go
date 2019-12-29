@@ -32,8 +32,12 @@ func ListCandidatesByConstituencyHandler(c *gin.Context) {
 }
 
 func GetCandidateByNameHandler(c *gin.Context) {
-	name := c.Param("name")
 	constituency := c.Param("constituency")
+	name := c.Param("name")
+
+	if constituency == "" || name == "" {
+		c.JSON(http.StatusNotFound, nil)
+	}
 
 	var candidate models.Candidate
 
@@ -46,6 +50,7 @@ func GetCandidateByNameHandler(c *gin.Context) {
 	candidate.Age = manualCandidateDb.Age
 	candidate.Party = manualCandidateDb.Party
 	candidate.Constituency = manualCandidateDb.Constituency
+	candidate.FbPage = manualCandidateDb.FbPage
 
 	if manualCandidateDb.EducationConnection != "" {
 		candidate.Education = manualCandidateDb.Education

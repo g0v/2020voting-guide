@@ -632,94 +632,94 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.134138",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.044791",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000353",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "5.9E-5",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000235",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000412",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000353",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.022013",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.135197",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.070983",
+          "percentage": "0.070118",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.076457",
+          "percentage": "0.000401",
           "age": "45-54",
-          "gender": "female"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.091289",
+          "percentage": "0.104059",
           "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.134446",
+          "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.039906",
+          "percentage": "0.000172",
           "age": "18-24",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.103473",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.031077",
+          "percentage": "0.000401",
           "age": "25-34",
-          "gender": "female"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.092584",
+          "percentage": "5.7E-5",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000229",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000344",
           "age": "35-44",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.156504",
+          "percentage": "0.156347",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.000177",
+          "percentage": "0.021958",
           "age": "18-24",
-          "gender": "unknown"
+          "gender": "female"
+        },
+        {
+          "percentage": "0.044433",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.135822",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.076253",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.040305",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.030788",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.092191",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.091675",
+          "age": "65+",
+          "gender": "female"
         }
       ],
       "funding_entity": "德福 林",
@@ -731,11 +731,11 @@
       "page_name": "林德福",
       "region_distribution": [
         {
-          "percentage": "0.260704",
+          "percentage": "0.261231",
           "region": "Taipei"
         },
         {
-          "percentage": "0.739296",
+          "percentage": "0.738769",
           "region": "New Taipei City"
         }
       ],

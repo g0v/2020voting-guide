@@ -3134,95 +3134,95 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000861",
+          "percentage": "0.000939",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.027902",
-          "age": "45-54",
-          "gender": "female"
+          "percentage": "0.119368",
+          "age": "18-24",
+          "gender": "male"
         },
         {
-          "percentage": "0.000689",
-          "age": "45-54",
+          "percentage": "0.000156",
+          "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.006373",
+          "percentage": "0.006258",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.000172",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.016362",
+          "percentage": "0.015488",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.056149",
-          "age": "35-44",
+          "percentage": "0.12234",
+          "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.018257",
+          "percentage": "0.028004",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.017835",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.099208",
-          "age": "45-54",
+          "percentage": "0.047247",
+          "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.000344",
+          "percentage": "0.000313",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.116087",
-          "age": "25-34",
+          "percentage": "0.056164",
+          "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.086462",
-          "age": "18-24",
-          "gender": "female"
+          "percentage": "0.001721",
+          "age": "35-44",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.047365",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.119876",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.171547",
+          "percentage": "0.166302",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.230623",
+          "percentage": "0.098091",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.093242",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.225907",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.001722",
-          "age": "35-44",
+          "percentage": "0.000626",
+          "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "渝江張",
       "impressions": {
-        "lower_bound": "15000",
-        "upper_bound": "19999"
+        "lower_bound": "20000",
+        "upper_bound": "24999"
       },
       "page_id": "1096260013752554",
       "page_name": "張渝江",
@@ -3233,8 +3233,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "4500",
-        "upper_bound": "4999"
+        "lower_bound": "5000",
+        "upper_bound": "5999"
       },
       "ad_id": "536171983608967"
     }
@@ -5277,7 +5277,7 @@
     "開始日期": "2019-12-04",
     "結束日期": "2019-12-11",
     "廣告內容": "台中空氣爛二十年，票投藍與綠？ 政黨票給綠營補助金十億，錢僱害死外交官的網軍？ 票投民眾黨，票投張渝江技師章魚哥",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79743325_728625737650200_6721409885918986240_n.jpg?_nc_cat=110&_nc_ohc=4aUpbGdLbX8AQm-fQPcofoQ9fMLgbJh6xOpp9tBxVA2iMkwciV4U0MfYw&_nc_ht=scontent-hkg3-1.xx&oh=4a80164723bcf8e7d724a675aaa0563d&oe=5E6E853E",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/79743325_728625737650200_6721409885918986240_n.jpg?_nc_cat=110&_nc_oc=AQnINqft5KuBKK5S2hB7C7wFZsTJc9bUoxnvIyZxUohnDmr08KOHMY-NYdaCsJ7Q3A8&_nc_ht=scontent-hkg3-2.xx&oh=29da8ec665284cc86b6022c90ba0c3ee&oe=5E6E853E",
     "廣告詳情": {
       "ad_creative_body": "台中空氣爛二十年，票投藍與綠？\n\n政黨票給綠營補助金十億，錢僱害死外交官的網軍？\n\n票投民眾黨，票投張渝江技師章魚哥",
       "ad_creation_time": "2019-12-04T12:27:50+0000",
@@ -5384,7 +5384,7 @@
     "開始日期": "2019-12-04",
     "結束日期": "2019-12-09",
     "廣告內容": "柯主席比誰都認真 #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉，2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #柯文哲 #ResetTaiwan #台灣民眾黨",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79218682_2885164281528776_5578022358305734656_n.jpg?_nc_cat=103&_nc_ohc=phX8On8TRKkAQlFHBvdJJPNQGuxMj97Q_Nid0RJ0kqdE60xAf_t1dR2xw&_nc_ht=scontent-hkg3-1.xx&oh=3c90e56e2afbf26d7e5a09971321595f&oe=5E7574C6",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79218682_2885164281528776_5578022358305734656_n.jpg?_nc_cat=103&_nc_oc=AQkk7pxW6I669AKQoqv6JhtQSINle7XcN-cxE2GJxv7RsdAro15jpj1ezJegN2m01Qc&_nc_ht=scontent-hkg3-1.xx&oh=9ec73c659ef21823ce68d1593b853a81&oe=5E7574C6",
     "廣告詳情": {
       "ad_creative_body": "柯主席比誰都認真\n\n#婦幼補助電動車貯電抗空污\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥\n#西屯區南屯區\n#台中第四選區\n我們捐款來註記這次選舉，2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n\n#柯文哲\n#ResetTaiwan\n#台灣民眾黨",
       "ad_creation_time": "2019-12-04T12:38:24+0000",
@@ -5486,7 +5486,7 @@
     "開始日期": "2019-12-04",
     "結束日期": "2019-12-09",
     "廣告內容": "與 #民眾黨不分區立委候選人 #學姐 #黃瀞瑩 在 #民眾黨區域立委候選人 #謝文卿 競辦成立大會 她說她看不出來我整整大她二十歲，謝謝學姐 #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉， 2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #ResetTaiwan #台灣民眾黨",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79216321_2889460157765855_46345063650820096_n.jpg?_nc_cat=103&_nc_ohc=Lt2HJKDVP_IAQmB9vYRIIuG4Ow3SUV4TF8gGohbCbhDmCjvtrQamYt5hw&_nc_ht=scontent-hkg3-1.xx&oh=aee8b619c08a292b2a405721faf43a28&oe=5E7645FB",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79216321_2889460157765855_46345063650820096_n.jpg?_nc_cat=103&_nc_oc=AQmLG3XlQw-ju_WqnLyX9B4uaP2Xlfi4mUPvuLTKjv8CuiVqiiwXr1mUZKqfVYui8e4&_nc_ht=scontent-hkg3-1.xx&oh=aea78dfad7d474dca545a8b196aabd4b&oe=5E7645FB",
     "廣告詳情": {
       "ad_creative_body": "與 #民眾黨不分區立委候選人 #學姐 #黃瀞瑩 在 #民眾黨區域立委候選人 #謝文卿 競辦成立大會\n\n她說她看不出來我整整大她二十歲，謝謝學姐\n\n#婦幼補助電動車貯電抗空污\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥\n#西屯區南屯區\n#台中第四選區\n我們捐款來註記這次選舉，\n2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n#ResetTaiwan\n#台灣民眾黨",
       "ad_creation_time": "2019-12-04T12:37:04+0000",
@@ -5593,7 +5593,7 @@
     "開始日期": "2019-12-04",
     "結束日期": "2019-12-09",
     "廣告內容": "聯合報比較偏藍我平衡論述一下，年輕人首投跟我說 「朋友們說要投蔡英文，不然今日香港明日台灣」 成功的網路操作。 其實投了也不保證台灣明天會比今天的香港好到那去，為何？因為用情感治國，沒有國家治理的思維，選舉是一切，台灣不會好。 這之間香港的年化經濟成長率是-2.9%，雖台灣是+2.9%，但印尼5% 菲律賓6.2%，台灣經濟在區域上來比，很差。 你可以考慮票投民眾黨，理性力量，今日新加坡瑞士，明日台灣。 #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉，2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #ResetTaiwan #台灣民眾黨https://udn.com/news/story/11321/4201383",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/79602074_431553964432490_5133066744327307264_n.jpg?_nc_cat=110&_nc_ohc=G95MQwpojpQAQnVF1gcWSOli3ukxahTmCXoFWfk-eer4FbYy7HDmo1cLg&_nc_ht=scontent-hkg3-1.xx&oh=00d1fa9ef04eba7d85fbb04bf09960c9&oe=5E75668A",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/s600x600/79602074_431553964432490_5133066744327307264_n.jpg?_nc_cat=110&_nc_oc=AQnVtw1tn9fo45g2fLmwXdg7d3dPEi5G4EsRHeGkLm9_oXUTjE4AzzBE_RM6Av21WcE&_nc_ht=scontent-hkg3-2.xx&oh=ee6ad0910e857d411c98edff639f6caf&oe=5E75668A",
     "廣告詳情": {
       "ad_creative_body": "聯合報比較偏藍我平衡論述一下，年輕人首投跟我說\n「朋友們說要投蔡英文，不然今日香港明日台灣」\n\n成功的網路操作。\n\n其實投了也不保證台灣明天會比今天的香港好到那去，為何？因為用情感治國，沒有國家治理的思維，選舉是一切，台灣不會好。\n\n這之間香港的年化經濟成長率是-2.9%，雖台灣是+2.9%，但印尼5% 菲律賓6.2%，台灣經濟在區域上來比，很差。\n\n你可以考慮票投民眾黨，理性力量，今日新加坡瑞士，明日台灣。\n\n#婦幼補助電動車貯電抗空污\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥\n#西屯區南屯區\n#台中第四選區\n我們捐款來註記這次選舉，2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n\n#ResetTaiwan\n#台灣民眾黨\n\nhttps://udn.com/news/story/11321/4201383",
       "ad_creation_time": "2019-12-04T12:35:16+0000",
@@ -5718,7 +5718,7 @@
     "開始日期": "2019-12-04",
     "結束日期": "2019-12-09",
     "廣告內容": "小編吶喊: 有標點符號了，大家快來看!!!! 政黨票投民眾黨，育成理性台灣  - 兼論政黨運作的商業模式(!?) 老實說，我原來不是柯粉，但後來因為參加立委選舉，我認識很多柯粉，柯粉很有趣，他們很理性，他們先會懷疑你，一旦確認你的理念之後，會很熱情支持你，這是台灣的希望，理性的力量。 柯粉不盲從，他們思想理性獨立，你有料，他們就會支持你，你嘩眾，拿不到他們的支持。 依選罷法§43，票過過 3.5%門檻，每票50元每年給, 一給四年(共200元)。 也就是你投的政黨票如果過門檻，每一票該政黨四年共會得到200元 政黨運作要花錢，肥皂不管一個多少錢，選舉送人都要花錢，面紙也一樣，面紙不貴，但發面紙的工錢才是貴的，你可以說發的人都是志工。 網軍也要錢。 你的一票化成50元四年200元，不可不慎。這四年民進黨拿了10億。 因為市長不能請假，柯P用肉身在每個假日，不眠不休，為民眾黨未來四年的糧草努力，我們看了相當不忍，他是堅持也努路認真的人。 民眾黨是台灣理性的力量，請讓它育成茁壯下去， 就算你立委不知要投誰，也請給台灣一個理性的機會， 下面這個連結算出這四年各黨拿多少錢，民進黨拿了10億，國6億，親民時力各約1億5https://docs.google.com/spreadsheets/d/1rnuAgv9Qc9u-WFD0OB0uKGL-lM0ojR2PgOw7oudAAHw/edit?usp=sharinghttps://docs.google.com/spreadsheets/d/1rnuAgv9Qc9u-WFD0OB0uKGL-lM0ojR2PgOw7oudAAHw/edit?folder=1crSS4CLgDMIn16rjBOIH2cpP8YIJm_kt#gid=0 #政黨票投民眾黨 #婦幼補助電動車貯電抗空 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉，2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #ResetTaiwan #台灣民眾黨",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/79123731_2220733051559467_3599517631561859072_n.jpg?_nc_cat=106&_nc_ohc=lY7gUG2PTWcAQkiiqJkYm2xxknFssVr9Y2dFFh9bbh007R3RKugAvfMiw&_nc_ht=scontent-hkg3-1.xx&oh=0f1c2f068f2ee6bd2d2c459f231cccfc&oe=5E7C13E5",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/79123731_2220733051559467_3599517631561859072_n.jpg?_nc_cat=106&_nc_oc=AQn_vOnd5vlEOxGVXdEp2TZrMxmJ7_qA4YDQ2ZOIrLw3E0QLfRSYBaHDTTxI39WSo8U&_nc_ht=scontent-hkg3-1.xx&oh=539b8be96a01765afec946d83a901a58&oe=5EA3A0E5",
     "廣告詳情": {
       "ad_creative_body": "小編吶喊: 有標點符號了，大家快來看!!!!\n\n政黨票投民眾黨，育成理性台灣\n - 兼論政黨運作的商業模式(!?)\n\n老實說，我原來不是柯粉，但後來因為參加立委選舉，我認識很多柯粉，柯粉很有趣，他們很理性，他們先會懷疑你，一旦確認你的理念之後，會很熱情支持你，這是台灣的希望，理性的力量。\n\n柯粉不盲從，他們思想理性獨立，你有料，他們就會支持你，你嘩眾，拿不到他們的支持。\n\n依選罷法§43，票過過 3.5%門檻，每票50元每年給, 一給四年(共200元)。\n也就是你投的政黨票如果過門檻，每一票該政黨四年共會得到200元\n\n政黨運作要花錢，肥皂不管一個多少錢，選舉送人都要花錢，面紙也一樣，面紙不貴，但發面紙的工錢才是貴的，你可以說發的人都是志工。\n\n網軍也要錢。\n\n你的一票化成50元四年200元，不可不慎。這四年民進黨拿了10億。\n\n因為市長不能請假，柯P用肉身在每個假日，不眠不休，為民眾黨未來四年的糧草努力，我們看了相當不忍，他是堅持也努路認真的人。\n\n民眾黨是台灣理性的力量，請讓它育成茁壯下去，\n\n就算你立委不知要投誰，也請給台灣一個理性的機會，\n\n下面這個連結算出這四年各黨拿多少錢，民進黨拿了10億，國6億，親民時力各約1億5\nhttps://docs.google.com/spreadsheets/d/1rnuAgv9Qc9u-WFD0OB0uKGL-lM0ojR2PgOw7oudAAHw/edit?usp=sharing\n\nhttps://docs.google.com/spreadsheets/d/1rnuAgv9Qc9u-WFD0OB0uKGL-lM0ojR2PgOw7oudAAHw/edit?folder=1crSS4CLgDMIn16rjBOIH2cpP8YIJm_kt#gid=0\n\n#政黨票投民眾黨\n\n#婦幼補助電動車貯電抗空\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥\n#西屯區南屯區\n#台中第四選區\n我們捐款來註記這次選舉，2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n\n#ResetTaiwan\n#台灣民眾黨",
       "ad_creation_time": "2019-12-04T12:34:09+0000",
@@ -5848,7 +5848,7 @@
     "開始日期": "2019-12-04",
     "結束日期": "2019-12-09",
     "廣告內容": "「楊蕙如風評不佳，二○一八地方大選期間，已傳出楊蕙如不停找候選人開價，宣稱候選人只要每月花費五百萬元，她便可動員手上五百至一千個ＰＴＴ人頭帳號「帶風向」」 這些人和當年市場上的混混小流氓一樣，你不給錢半夜就砸你的店， 「台北市長柯文哲粉專出現按讚數異常飆升，結果發現都是來自「阿拉伯」的人頭帳號」 她更可能是買阿拉伯人頭帳號來灌柯P粉專再跳出來說「有阿拉伯人」的人，當事人跳到黃河洗不清… 我們要怎麼杜絕這種事？ #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉，2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #ResetTaiwan #台灣民眾黨https://money.udn.com/money/story/7307/4201411 #楊蕙如",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/79662449_993928097634924_92955569165434880_n.jpg?_nc_cat=106&_nc_ohc=cLGbaETaUlsAQmIa45UoxLF5u8sr1_tettraCD7lIWwcqxtURIOQEw1wg&_nc_ht=scontent-hkg3-1.xx&oh=c072ea8cf00248ec84adfea491e0a335&oe=5EB133B4",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/79662449_993928097634924_92955569165434880_n.jpg?_nc_cat=106&_nc_oc=AQmE7gdMb64pYL1fWHhK8h0ifvAhph4TS_yQROxwab2fV7awSqfVD3yVCGDjEZ3NS2c&_nc_ht=scontent-hkg3-1.xx&oh=8adc1a7815180eb8474a0dce990a0e75&oe=5EB133B4",
     "廣告詳情": {
       "ad_creative_body": "「楊蕙如風評不佳，二○一八地方大選期間，已傳出楊蕙如不停找候選人開價，宣稱候選人只要每月花費五百萬元，她便可動員手上五百至一千個ＰＴＴ人頭帳號「帶風向」」\n\n這些人和當年市場上的混混小流氓一樣，你不給錢半夜就砸你的店，\n\n「台北市長柯文哲粉專出現按讚數異常飆升，結果發現都是來自「阿拉伯」的人頭帳號」\n她更可能是買阿拉伯人頭帳號來灌柯P粉專再跳出來說「有阿拉伯人」的人，當事人跳到黃河洗不清…\n\n我們要怎麼杜絕這種事？\n\n#婦幼補助電動車貯電抗空污\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥\n#西屯區南屯區\n#台中第四選區\n我們捐款來註記這次選舉，2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n\n#ResetTaiwan\n#台灣民眾黨\n\nhttps://money.udn.com/money/story/7307/4201411\n#楊蕙如",
       "ad_creation_time": "2019-12-04T12:32:18+0000",
@@ -5968,7 +5968,7 @@
     "開始日期": "2019-12-08",
     "結束日期": "2019-12-13",
     "廣告內容": "鹹湯圓 其實在菜市場拜票真的很有趣， 因為我也很喜歡買菜,  在 #大隆黃昏市場拜票 買的 #鹹湯圓 是攤商的姐姐親自作的，一般好吃的麵食不能冷凍，在超商較難買到不冷凍的食材 #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉，2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #ResetTaiwan #台灣民眾黨",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79868435_2903369339708270_6782366179202695168_n.jpg?_nc_cat=104&_nc_ohc=5jS7ZeZQKrIAQlhRlYYJA4EWvgV8xlo4Oy-EzRrNusUJqPJqreXQuqNBw&_nc_ht=scontent-hkg3-1.xx&oh=bda72cf8e867c9e70e014e2c097f71fc&oe=5E804625",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79868435_2903369339708270_6782366179202695168_n.jpg?_nc_cat=104&_nc_oc=AQmXHl_KfwU60rcN2_-yO-Nj8hAwdG4h8xLpHC7wHh02wUQMssu_HFDdTqIAcy_F9XU&_nc_ht=scontent-hkg3-1.xx&oh=aa6bdf185cda85c15cd483a42ff2a833&oe=5EA7D325",
     "廣告詳情": {
       "ad_creative_body": "鹹湯圓\n\n其實在菜市場拜票真的很有趣，\n因為我也很喜歡買菜, \n在 #大隆黃昏市場拜票\n\n買的 #鹹湯圓 是攤商的姐姐親自作的，一般好吃的麵食不能冷凍，在超商較難買到不冷凍的食材\n\n#婦幼補助電動車貯電抗空污\n\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥\n#西屯區南屯區\n#台中第四選區\n我們捐款來註記這次選舉，2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n\n#ResetTaiwan\n#台灣民眾黨",
       "ad_creation_time": "2019-12-08T11:27:14+0000",
@@ -6080,7 +6080,7 @@
     "開始日期": "2019-12-11",
     "結束日期": "2019-12-16",
     "廣告內容": "沒有行動，沒有好空氣， 就是多花錢買空氣清淨機也要參加訴訟 #中部空污受害者集體訴訟 還我好健康，還我好空氣 中彰投空氣污染嚴重，這不是一天兩天的事，經相關研究與中火每日發電燃煤有高度關係，畢竟較其它工業排放多很多， 台電中火係為空污，PM2.5逾WHO標準(10 e-6 gram/cubic meter)之主因，依消保法舉證責任轉換之法理，歡迎中火台電證明空污與其無關，司法將會尊重。 台灣肺癌罹患率經WHO發現為亞洲第二高，國家衛生研究院報告(2018懸浮微粒特徵對民眾健康影響之研究)台中每四年有多六千人得中風心臟病肺癌等疾病。 沒有行動，沒有好空氣， 我們要請求賠償，因空污過敏，生病之支出與損失，為使生活工作的空間PM2.5降至WHO合格標準比如買空氣清淨機等所支付之費用， 依民法§184條之法理，向台電(依民法§184，消保法§7)，向中市府(依環境基本法§34，國家賠償法§2)請求損害賠償。 我們開放登記，你只要留下email等(由google表單)，我們不時公告登記人數啟動法律行動！https://docs.google.com/forms/d/1TfDkdYvPm3M56jF5F83S4seHiKCrHNmK9-8kPaR8-ZM/edit #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉， 2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #ResetTaiwan #台灣民眾黨",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/79941408_566486650595078_4413879396939595776_n.jpg?_nc_cat=111&_nc_ohc=n7IB4OP1u1EAQmqlAVa3EsGHkwv6l8R_4DEKuGiA2Yt5cnesrHnOpsTvg&_nc_ht=scontent-hkg3-1.xx&oh=72d1261765650b5fd1b491d42b7079f3&oe=5EAC8626",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/s600x600/79941408_566486650595078_4413879396939595776_n.jpg?_nc_cat=111&_nc_oc=AQnZomUOjZJ_BtVrEfGOzlrwXXjzWZzOFTDA4Q_GPNK36O5OIzxzWlP6q5p6CkuGvKg&_nc_ht=scontent-hkg3-2.xx&oh=1fcd38211a8ebfa454b91e5a7061126d&oe=5EAC8626",
     "廣告詳情": {
       "ad_creative_body": "沒有行動，沒有好空氣，\n就是多花錢買空氣清淨機也要參加訴訟\n\n#中部空污受害者集體訴訟\n\n還我好健康，還我好空氣\n\n中彰投空氣污染嚴重，這不是一天兩天的事，經相關研究與中火每日發電燃煤有高度關係，畢竟較其它工業排放多很多，\n\n台電中火係為空污，PM2.5逾WHO標準(10 e-6 gram/cubic meter)之主因，依消保法舉證責任轉換之法理，歡迎中火台電證明空污與其無關，司法將會尊重。\n\n台灣肺癌罹患率經WHO發現為亞洲第二高，國家衛生研究院報告(2018懸浮微粒特徵對民眾健康影響之研究)台中每四年有多六千人得中風心臟病肺癌等疾病。\n\n沒有行動，沒有好空氣，\n\n我們要請求賠償，因空污過敏，生病之支出與損失，為使生活工作的空間PM2.5降至WHO合格標準比如買空氣清淨機等所支付之費用，\n\n依民法§184條之法理，向台電(依民法§184，消保法§7)，向中市府(依環境基本法§34，國家賠償法§2)請求損害賠償。\n\n我們開放登記，你只要留下email等(由google表單)，我們不時公告登記人數啟動法律行動！\n\nhttps://docs.google.com/forms/d/1TfDkdYvPm3M56jF5F83S4seHiKCrHNmK9-8kPaR8-ZM/edit\n\n#婦幼補助電動車貯電抗空污\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥\n#西屯區南屯區\n#台中第四選區\n我們捐款來註記這次選舉，\n2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n#ResetTaiwan\n#台灣民眾黨",
       "ad_creation_time": "2019-12-11T14:34:27+0000",
@@ -6134,7 +6134,7 @@
     "開始日期": "2019-12-10",
     "結束日期": "2019-12-14",
     "廣告內容": "按讚 即時收到直播通知",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/80393672_600550434020313_6123235187716259840_n.jpg?_nc_cat=101&_nc_ohc=Dm1QyrYnwtgAQnlsET0vmdGSUg2IJc9F-ymnhHnwSUQeo4p0lwrO4nd0g&_nc_ht=scontent-hkg3-1.xx&oh=b38a03530b0490fb8ddc7a7adad170d2&oe=5E75FA44",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/80393672_600550434020313_6123235187716259840_n.jpg?_nc_cat=101&_nc_oc=AQnvFS0ja0s3vdUDRGGwRD25a2rWWcbpohdyatzx6Fm849Mkp-ob35esd4_HhQNBZ10&_nc_ht=scontent-hkg3-1.xx&oh=6a3195da17d50afc51e4dc75ca8c0676&oe=5E75FA44",
     "廣告詳情": {
       "ad_creative_body": "按讚\n即時收到直播通知",
       "ad_creation_time": "2019-12-11T07:05:13+0000",
@@ -6234,7 +6234,7 @@
     "開始日期": "2019-12-10",
     "結束日期": "2019-12-14",
     "廣告內容": "按讚 即時收到直播通知",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/80393672_600550434020313_6123235187716259840_n.jpg?_nc_cat=101&_nc_ohc=Dm1QyrYnwtgAQnlsET0vmdGSUg2IJc9F-ymnhHnwSUQeo4p0lwrO4nd0g&_nc_ht=scontent-hkg3-1.xx&oh=b38a03530b0490fb8ddc7a7adad170d2&oe=5E75FA44",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/80393672_600550434020313_6123235187716259840_n.jpg?_nc_cat=101&_nc_oc=AQnvFS0ja0s3vdUDRGGwRD25a2rWWcbpohdyatzx6Fm849Mkp-ob35esd4_HhQNBZ10&_nc_ht=scontent-hkg3-1.xx&oh=6a3195da17d50afc51e4dc75ca8c0676&oe=5E75FA44",
     "廣告詳情": {
       "ad_creative_body": "按讚\n即時收到直播通知",
       "ad_creation_time": "2019-12-11T07:05:16+0000",
@@ -6349,7 +6349,7 @@
     "開始日期": "2019-12-11",
     "結束日期": "1970-01-01",
     "廣告內容": "沒有行動，沒有好空氣，登記中部空污受害者集體訴訟！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/79828095_710579869436187_273273019399405568_n.jpg?_nc_cat=104&_nc_ohc=nnOHHO1ZTf4AQkWYPlzHeofD96_jQqdgHtC6b5vaJtbFHbCs62Kt9Dlug&_nc_ht=scontent-hkg3-1.xx&oh=be1dd9c98594f63aad93cdffbd1715c6&oe=5EB2CE6F",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/79828095_710579869436187_273273019399405568_n.jpg?_nc_cat=104&_nc_oc=AQnkcgiWrDjXQrZlSdQZX7juU7OdQInpWSEq_L7J1bQ67euDV5K8Ih8BBtiFxuWs39M&_nc_ht=scontent-hkg3-1.xx&oh=c7705317985ada9260d0f5199b4b9f2a&oe=5EB2CE6F",
     "廣告詳情": {
       "ad_creative_body": "沒有行動，沒有好空氣，登記中部空污受害者集體訴訟！",
       "ad_creation_time": "2019-12-10T23:23:14+0000",
@@ -6475,7 +6475,7 @@
     "開始日期": "2019-12-09",
     "結束日期": "1970-01-01",
     "廣告內容": "",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/79541666_2281667255457178_6348991905883226112_n.jpg?_nc_cat=102&_nc_ohc=QalhS7B1QlQAQlC4KaFexel3cAKQPvjQj-tTCEfCMQHwRxndVvjLaj1ow&_nc_ht=scontent-hkg3-1.xx&oh=5e82dd56b3d9c6f9fb0b16d8f6205ac3&oe=5EB0532B",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/79541666_2281667255457178_6348991905883226112_n.jpg?_nc_cat=102&_nc_oc=AQkoXDF48zmIt_FtqsT_nErOVzPpjBRmC0U_bzmhnBs5YlsSPPPRp_FCDcn5X8BlFcw&_nc_ht=scontent-hkg3-1.xx&oh=565883232b3c5cb73cb83bc71c72f603&oe=5EB0532B",
     "廣告詳情": {
       "ad_creative_body": "沒有行動，沒有好空氣，登記中部空污受害者集體訴訟！",
       "ad_creation_time": "2019-12-09T11:26:09+0000",
@@ -6596,7 +6596,7 @@
     "開始日期": "2019-12-12",
     "結束日期": "2019-12-17",
     "廣告內容": "市場大姐説，這湯圓今天才送來的，超好吃 我的經驗是要煮五分鐘才會熟 料真的飽満又好香 你可以考慮票投民眾黨，理性力量，今日新加坡瑞士，明日台灣。 #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉，2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #ResetTaiwan #民眾黨",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79357892_2903284789716725_8991000850008637440_n.jpg?_nc_cat=110&_nc_ohc=KlgpHtVyLL4AQnvRW9KMxh3VuoR9zr-fPdOsAD9BTUl0FKLaYhcXBqMgQ&_nc_ht=scontent-hkg3-1.xx&oh=5be5917ae699d514d7c10eefe0ce7544&oe=5E81325C",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79357892_2903284789716725_8991000850008637440_n.jpg?_nc_cat=110&_nc_ohc=yY2I0smHt6cAQlWrb5j0qNTBNbbPpknMPp274WGOCIKqeRmO6OI9AsFZg&_nc_ht=scontent-hkg3-2.xx&oh=97889833ac0d87d70eb1a5bee91919bf&oe=5EA8BF5C",
     "廣告詳情": {
       "ad_creative_body": "市場大姐説，這湯圓今天才送來的，超好吃\n我的經驗是要煮五分鐘才會熟\n料真的飽満又好香\n\n你可以考慮票投民眾黨，理性力量，今日新加坡瑞士，明日台灣。\n\n#婦幼補助電動車貯電抗空污\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥\n#西屯區南屯區\n#台中第四選區\n我們捐款來註記這次選舉，2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n\n#ResetTaiwan\n#民眾黨",
       "ad_creation_time": "2019-12-12T23:48:07+0000",
@@ -6698,7 +6698,7 @@
     "開始日期": "2019-12-12",
     "結束日期": "2019-12-17",
     "廣告內容": "志工們在西川家餃子前合照， 你找得到學姐在那裡嗎？ #西川家~燒き餃子 #黃瀞瑩 #張渝江政見http://bit.ly/36n6AY2 #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉， 2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #ResetTaiwan #台灣民眾黨",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79125621_2906505836061287_7145239878618316800_n.jpg?_nc_cat=103&_nc_ohc=rsX4ma1mShMAQngLN8ttoLYli1Oa2LGvNuI45qOLFyzhizc3QPbqkHnLQ&_nc_ht=scontent-hkg3-1.xx&oh=c281fc41619b3daa167acb629450d5f1&oe=5E7F5A46",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79125621_2906505836061287_7145239878618316800_n.jpg?_nc_cat=103&_nc_ohc=WSO2xaRLEgMAQmdTZ9fetkb6RR_0_43fmyZU62nGk2eALlUuhdLHajyCw&_nc_ht=scontent-hkg3-1.xx&oh=1b732063042d8fafe6f976e64648e736&oe=5EA6E746",
     "廣告詳情": {
       "ad_creative_body": "志工們在西川家餃子前合照，\n你找得到學姐在那裡嗎？\n\n#西川家~燒き餃子\n#黃瀞瑩\n\n#張渝江政見\nhttp://bit.ly/36n6AY2\n\n#婦幼補助電動車貯電抗空污\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥\n#西屯區南屯區\n#台中第四選區\n我們捐款來註記這次選舉，\n2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n\n#ResetTaiwan\n#台灣民眾黨",
       "ad_creation_time": "2019-12-12T23:45:54+0000",
@@ -6815,7 +6815,7 @@
     "開始日期": "2019-12-12",
     "結束日期": "2019-12-17",
     "廣告內容": "民眾黨節目「眾議院」我上節目影片20191204上線創單日最多人看的記錄https://youtu.be/sG2OOTmt5-E 有朋友要我擷空污部份下來好供大家了解台中這個問題的嚴重。",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80759206_1481304718699380_6903752615096483840_n.jpg?_nc_cat=110&_nc_ohc=ozi9Ho-sVOIAQkll4Sqn7kRGEI4HIybtruIGS0nj0E-OK2CyU4B8zOfeA&_nc_ht=scontent-hkg3-1.xx&oh=0be9c11442642eddcb2b2b13eaa4d219&oe=5E6ACADB",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/80759206_1481304718699380_6903752615096483840_n.jpg?_nc_cat=110&_nc_ohc=u4fMtrU-wIkAQn7XdAq1LUGDiNx2Xsf6QcFTMkJWXCnQ-3pyGCHQTPo4w&_nc_ht=scontent-hkg3-2.xx&oh=42d631f9364764adde7336b5475b1e4a&oe=5E6ACADB",
     "廣告詳情": {
       "ad_creative_body": "民眾黨節目「眾議院」我上節目影片20191204上線創單日最多人看的記錄\nhttps://youtu.be/sG2OOTmt5-E\n有朋友要我擷空污部份下來好供大家了解台中這個問題的嚴重。",
       "ad_creation_time": "2019-12-12T23:49:16+0000",
@@ -6929,7 +6929,7 @@
     "開始日期": "2019-12-12",
     "結束日期": "2019-12-17",
     "廣告內容": "還好菜市場買菜兼拜票很意思 還可以認識菜名和煮法 你可以考慮票投民眾黨，理性力量。 #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉，2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #ResetTaiwan #台灣民眾黨https://udn.com/news/story/11321/4201383",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78624906_2903308803047657_7234810635597381632_n.jpg?_nc_cat=106&_nc_ohc=fJOJ3yrxCx8AQl2ZZsuA5d5hTZ_mZykH4A3F-mlDoetkIiBfRcC6JM7VA&_nc_ht=scontent-hkg3-1.xx&oh=66c2349904d8c760237673a1c06b1c97&oe=5EABA4A8",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78624906_2903308803047657_7234810635597381632_n.jpg?_nc_cat=106&_nc_ohc=LJPw6KEcwekAQnms92nv5GtfYLJq_BZ-VSTMfa33THy4yrtZ6pK3zSnqA&_nc_ht=scontent-hkg3-1.xx&oh=826fdafad21e04068aa32a2757666afd&oe=5EABA4A8",
     "廣告詳情": {
       "ad_creative_body": "還好菜市場買菜兼拜票很意思\n還可以認識菜名和煮法\n\n你可以考慮票投民眾黨，理性力量。\n\n#婦幼補助電動車貯電抗空污\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥\n#西屯區南屯區\n#台中第四選區\n我們捐款來註記這次選舉，2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n\n#ResetTaiwan\n#台灣民眾黨\n\nhttps://udn.com/news/story/11321/4201383",
       "ad_creation_time": "2019-12-12T23:47:42+0000",
@@ -7046,7 +7046,7 @@
     "開始日期": "2019-12-12",
     "結束日期": "2019-12-17",
     "廣告內容": "每個市場都有自己特色 水湳市場車水馬龍，來不及買菜就被人群淹沒了 #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉， 2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #ResetTaiwan #台灣民眾黨",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76767449_2905799636131907_8938775778561097728_n.jpg?_nc_cat=109&_nc_ohc=2L0VDugmJJgAQkWsOb4gYU1d1MsYHKXFa1FEguv2sbAPB7PE-25qx7jEg&_nc_ht=scontent-hkg3-1.xx&oh=df643283558d08f23ed025f676390fda&oe=5E684B76",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/76767449_2905799636131907_8938775778561097728_n.jpg?_nc_cat=109&_nc_ohc=vcpdtZdcrPIAQkThHo9ErLEqT0z5oBQK1jckIr9862wiExHh9-mScTJqg&_nc_ht=scontent-hkg3-2.xx&oh=d18fb025173d01b04ea72ba4566f4b68&oe=5E684B76",
     "廣告詳情": {
       "ad_creative_body": "每個市場都有自己特色\n水湳市場車水馬龍，來不及買菜就被人群淹沒了\n\n#婦幼補助電動車貯電抗空污\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥\n#西屯區南屯區\n#台中第四選區\n我們捐款來註記這次選舉，\n2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n\n#ResetTaiwan\n#台灣民眾黨",
       "ad_creation_time": "2019-12-12T23:46:37+0000",
@@ -7148,7 +7148,7 @@
     "開始日期": "2019-12-12",
     "結束日期": "2019-12-17",
     "廣告內容": "Bruce是我的好戰友 他常常犧牲與家人和孩子相處的時間 陪伴我去走市場拜票 即使參加完志工活動後 我們還是會討論明天的工作 還有一群默默支持我，沒有露臉的志工，我在這裡謝謝你們了 #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉， 2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #ResetTaiwan #台灣民眾黨",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79798197_2908220539223150_4699072806011273216_n.jpg?_nc_cat=109&_nc_ohc=2Y5w80KjU0MAQk9SRu_KoibuXxkXnqE3Pwu4DuGsgIyQZujnCEkRGWB0Q&_nc_ht=scontent-hkg3-1.xx&oh=3f924ee911ffa798cdb44071648d4ffe&oe=5E6BFF7A",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79798197_2908220539223150_4699072806011273216_n.jpg?_nc_cat=109&_nc_ohc=xSRwjTeCZlcAQnPv4rpT6xKGSSHKS4jSzbFX_pX22o7jNoI7V45kGub6Q&_nc_ht=scontent-hkg3-2.xx&oh=966450b48a421f8946a99a590c51c6a3&oe=5E6BFF7A",
     "廣告詳情": {
       "ad_creative_body": "Bruce是我的好戰友\n他常常犧牲與家人和孩子相處的時間\n陪伴我去走市場拜票\n即使參加完志工活動後\n我們還是會討論明天的工作\n\n還有一群默默支持我，沒有露臉的志工，我在這裡謝謝你們了\n\n#婦幼補助電動車貯電抗空污\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥\n#西屯區南屯區\n#台中第四選區\n我們捐款來註記這次選舉，\n2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n\n#ResetTaiwan\n#台灣民眾黨",
       "ad_creation_time": "2019-12-12T23:44:56+0000",
@@ -7250,7 +7250,7 @@
     "開始日期": "2019-12-12",
     "結束日期": "2019-12-17",
     "廣告內容": "小編想了很久， 網軍對我來說，還是有些可怕滴， 我們老闆又沒有甚麼油 他的體脂肪很規矩 一隻螞蟻不可怕， 來個10000隻都要咬我們， 我又沒有殺蟲劑，拍都來不及了 還好我們有個無敵的開關，一瞬間他們全部退散 這讓我想到冰雪奇緣2 (你們帶小朋友去看了嗎?) 其中有一幕是浪一波波的淹沒ELSA 但她並沒有被擊退 對我們來說，網軍已經是過去式了 在現實的生活中， 空氣汙染或者電動車環保的議題 更應該令我們關注 不知道冰雪奇緣二裡面的籠罩魔森林的迷霧，是不是就是我們世界的空污 懇請支持  只有 一張人家贊助看板的 #張渝江 西屯南屯區立委候選人 小編和志工們鞠躬 #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉， 2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #ResetTaiwan #台灣民眾黨",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78818481_2908487852529752_9008766587091550208_n.jpg?_nc_cat=104&_nc_ohc=e0nkgyknksgAQm6XVxhYwRE805Zioi9dPEpjz2XgV8Xj7ndL_Y6TkWnww&_nc_ht=scontent-hkg3-1.xx&oh=435d21876d734323633e9867b39c77f1&oe=5EACEBFF",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78818481_2908487852529752_9008766587091550208_n.jpg?_nc_cat=104&_nc_ohc=gIaE43hPS4MAQnNfehLVM2ry4Fs_ff6QMsv7CtONAco2bm7Y10XQ-zM6A&_nc_ht=scontent-hkg3-1.xx&oh=3541101444527be1f6232ba97b368dda&oe=5EACEBFF",
     "廣告詳情": {
       "ad_creative_body": "小編想了很久，\n網軍對我來說，還是有些可怕滴，\n我們老闆又沒有甚麼油\n他的體脂肪很規矩\n\n一隻螞蟻不可怕，\n來個10000隻都要咬我們，\n我又沒有殺蟲劑，拍都來不及了\n還好我們有個無敵的開關，一瞬間他們全部退散\n\n這讓我想到冰雪奇緣2 (你們帶小朋友去看了嗎?)\n其中有一幕是浪一波波的淹沒ELSA\n但她並沒有被擊退\n\n對我們來說，網軍已經是過去式了\n在現實的生活中，\n空氣汙染或者電動車環保的議題\n更應該令我們關注\n\n不知道冰雪奇緣二裡面的籠罩魔森林的迷霧，是不是就是我們世界的空污\n\n懇請支持 \n只有 一張人家贊助看板的 #張渝江 西屯南屯區立委候選人\n\n小編和志工們鞠躬\n\n#婦幼補助電動車貯電抗空污\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥\n#西屯區南屯區\n#台中第四選區\n我們捐款來註記這次選舉，\n2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n\n#ResetTaiwan\n#台灣民眾黨",
       "ad_creation_time": "2019-12-12T23:44:34+0000",
@@ -7372,7 +7372,7 @@
     "開始日期": "2019-12-12",
     "結束日期": "2019-12-17",
     "廣告內容": "原本空汚就是我非常關心的議題 人和植物一樣，需要陽光丶空氣丶水 日前到魏嘉慶醫師的診所 請教空污可能會引起的身體問題 一般常見是皮膚丶眼睛丶鼻子過敏呼吸道疾病 但嚴重的有肺腺癌⋯⋯ 意思是我們的皮膚會變差丶眼睛癢丶狂打噴涕丶咳嗽⋯⋯ 魏醫師在這個領域提供很多建議 PM2.5 其實必需戴N95口罩 但如果我們戴不住，至少戴著一般口罩 經濟能力允許，就在家中添置空氣清淨機 先保護自己和家人 和渝江一起抗空污 訪談影片https://youtu.be/y6EAGwIDp3k 政黨票投民眾黨，理性力量 #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉， 2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #ResetTaiwan #台灣民眾黨",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79342851_2908470905864780_5688637295394029568_n.jpg?_nc_cat=101&_nc_ohc=6aczrZWkaQkAQlAFN_1CvVBrTqWzQh_sX8DigrSPNbG1GXlNipFll2ZRA&_nc_ht=scontent-hkg3-1.xx&oh=7859e219415aae42411ae715228bfa27&oe=5E6BE8F0",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79342851_2908470905864780_5688637295394029568_n.jpg?_nc_cat=101&_nc_ohc=zGZe01j4g90AQlV5UFwM2-oXDYgvV5oDvFnGuyC-MDfLfgqxChpKphhyQ&_nc_ht=scontent-hkg3-1.xx&oh=7888c90986b9f836597e03c699de2bfa&oe=5E6BE8F0",
     "廣告詳情": {
       "ad_creative_body": "原本空汚就是我非常關心的議題\n人和植物一樣，需要陽光丶空氣丶水\n日前到魏嘉慶醫師的診所\n請教空污可能會引起的身體問題\n一般常見是皮膚丶眼睛丶鼻子過敏呼吸道疾病\n但嚴重的有肺腺癌⋯⋯\n意思是我們的皮膚會變差丶眼睛癢丶狂打噴涕丶咳嗽⋯⋯\n魏醫師在這個領域提供很多建議\nPM2.5 其實必需戴N95口罩\n但如果我們戴不住，至少戴著一般口罩\n經濟能力允許，就在家中添置空氣清淨機\n先保護自己和家人\n\n和渝江一起抗空污\n訪談影片\nhttps://youtu.be/y6EAGwIDp3k\n\n政黨票投民眾黨，理性力量\n\n#婦幼補助電動車貯電抗空污\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥\n#西屯區南屯區\n#台中第四選區\n我們捐款來註記這次選舉，\n2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n\n#ResetTaiwan\n#台灣民眾黨",
       "ad_creation_time": "2019-12-12T23:44:07+0000",
@@ -7479,7 +7479,7 @@
     "開始日期": "2019-12-12",
     "結束日期": "2019-12-17",
     "廣告內容": "2019/12/4首播的眾議院帶來網軍對我猛烈的攻擊，我在節目中的政見反被忽略，網軍沒有政見(他們大多像詐騙集團的車手只是小孩)，只會受命抹/黑別人傑出的政見，我們需要你的票治網軍。 這是我們對空污的政見與解決的方法，電動車貯電抗空污。",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80003311_944227995970478_8814936907751358464_n.jpg?_nc_cat=109&_nc_ohc=Yua1R2iTabIAQk_nrf0qp1IMOfTBGNJgWCGz1CgQNZf-0PdzIHt109_rA&_nc_ht=scontent-hkg3-1.xx&oh=b45228a247cc08ffe544a97a016a6468&oe=5E763002",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/80003311_944227995970478_8814936907751358464_n.jpg?_nc_cat=109&_nc_ohc=MEyVg48vzCIAQnhzbsXG02bYdjm1pKl2uAYy6TH8pMKgaTLYMSnfaT4kQ&_nc_ht=scontent-hkg3-2.xx&oh=c701722f437160c01b6065aa989b0747&oe=5E763002",
     "廣告詳情": {
       "ad_creative_body": "2019/12/4首播的眾議院帶來網軍對我猛烈的攻擊，我在節目中的政見反被忽略，網軍沒有政見(他們大多像詐騙集團的車手只是小孩)，只會受命抹/黑別人傑出的政見，我們需要你的票治網軍。\n\n這是我們對空污的政見與解決的方法，電動車貯電抗空污。",
       "ad_creation_time": "2019-12-12T23:43:07+0000",
@@ -7598,7 +7598,7 @@
     "開始日期": "2019-12-12",
     "結束日期": "2019-12-17",
     "廣告內容": "燒臘店老闆給我特別大份 他説他兒子也唸台大 特別打電話回來叫他一定要投民眾黨 謝謝這些支持我們的民眾 #渝江抗空污 我是素人，請多支持我的政見 #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉， 2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #ResetTaiwan #台灣民眾黨",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79316232_2909687425743128_619993651757449216_n.jpg?_nc_cat=108&_nc_ohc=eJEmWP-KyNQAQnTcSSMKOhtMj7R6_tDXZz88xB_y9UkeJRwTylhAdqLqA&_nc_ht=scontent-hkg3-1.xx&oh=e726d2d65b1bcde99b717993b3a43ed8&oe=5EAFC438",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79316232_2909687425743128_619993651757449216_n.jpg?_nc_cat=108&_nc_ohc=ylcxttjAlxsAQmJ_ySbEaCbdxlzk90XVEwIP5Rc75uSJBvSOaqbK1mLyA&_nc_ht=scontent-hkg3-1.xx&oh=54d52d006b1537657bd1d9a4ec9e694c&oe=5EAFC438",
     "廣告詳情": {
       "ad_creative_body": "燒臘店老闆給我特別大份\n他説他兒子也唸台大\n特別打電話回來叫他一定要投民眾黨\n謝謝這些支持我們的民眾\n\n#渝江抗空污\n\n我是素人，請多支持我的政見\n\n#婦幼補助電動車貯電抗空污\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥\n#西屯區南屯區\n#台中第四選區\n我們捐款來註記這次選舉，\n2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n\n#ResetTaiwan\n#台灣民眾黨",
       "ad_creation_time": "2019-12-12T23:40:44+0000",
@@ -7715,7 +7715,7 @@
     "開始日期": "2019-12-12",
     "結束日期": "2019-12-17",
     "廣告內容": "遠距工作 在家上班 昨天晚上，小編和朋友聊天， 他的妹妹是高齡產婦而且因為種種原因， 必須卧床安胎， 但如果因此辭去工作， 將來將更加難照顧養育両個孩子 於是他勇敢地向公司提出《在家上班》， 因為工作是logistic， 所以要處理的是報單丶文件⋯很多電話溝通。 其實，也許不是每一種工作都可以在家上班，但如果能讓爸爸媽媽們也照看到年幼的孩子，陪伴成長，也挺不錯的。 其實我老闆也是這樣交待我工作的 如果他打電話來，要不是關心你為什麼不能來辦公室開會？你就皮蹦緊一點 #張渝江政見 #遠距上班 Zapier軟體公司專注在自動化的工具，比如你叫Ubereats會自動發訊給同事家人等等。 他們的公司的員工都在家上班，員工從加州，丹麥，新加坡到南半球都有。 如果不能在家上班，最少各區的區公所可以讓住該區的公務員，不管是在中央地方，不必移動到另一區去上班，設一個「統一」的共享辦公室就可以，要處理的問題是「老闆要有資訊能力，資訊安全能力，管理人員能力」，最忌諱的是，「啊那天我們『在台北一起』開會你沒來所以沒聽到」，你要讓在家，遠距，與在現場的人，「都有一樣的資訊存取」權力，散會後不要再聊天，因為這影響到遠距的人。 可省下什麼？油錢？車錢？最核心的是，可省下時間陪家人，這就是，又有生產力，又有幸福經濟 #張渝江政見http://bit.ly/36n6AY2",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78628489_2910739678971236_2758322314973020160_n.jpg?_nc_cat=102&_nc_ohc=TV5jba1a9cYAQnM7sbPprxYJ7Oow9M1OU5SMp-Bgko5MnzDwvZvQZNiWQ&_nc_ht=scontent-hkg3-1.xx&oh=58fa76cc107cec81bcc340294b14b378&oe=5E7F6D06",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78628489_2910739678971236_2758322314973020160_n.jpg?_nc_cat=102&_nc_ohc=txuRHEgZM_oAQnwyXHVw4jMBiwhWQzEbeyMEkh2tBOXhmvGFxYo4Md8og&_nc_ht=scontent-hkg3-1.xx&oh=c3c2021c04dc05f9a05887c7813001b9&oe=5EA6FA06",
     "廣告詳情": {
       "ad_creative_body": "遠距工作 在家上班\n\n昨天晚上，小編和朋友聊天，\n他的妹妹是高齡產婦而且因為種種原因，\n必須卧床安胎，\n但如果因此辭去工作，\n將來將更加難照顧養育両個孩子\n於是他勇敢地向公司提出《在家上班》，\n因為工作是logistic，\n所以要處理的是報單丶文件⋯很多電話溝通。\n\n其實，也許不是每一種工作都可以在家上班，但如果能讓爸爸媽媽們也照看到年幼的孩子，陪伴成長，也挺不錯的。\n\n其實我老闆也是這樣交待我工作的\n如果他打電話來，要不是關心你為什麼不能來辦公室開會？你就皮蹦緊一點\n\n#張渝江政見 #遠距上班\n\nZapier軟體公司專注在自動化的工具，比如你叫Ubereats會自動發訊給同事家人等等。\n\n他們的公司的員工都在家上班，員工從加州，丹麥，新加坡到南半球都有。\n\n如果不能在家上班，最少各區的區公所可以讓住該區的公務員，不管是在中央地方，不必移動到另一區去上班，設一個「統一」的共享辦公室就可以，要處理的問題是「老闆要有資訊能力，資訊安全能力，管理人員能力」，最忌諱的是，「啊那天我們『在台北一起』開會你沒來所以沒聽到」，你要讓在家，遠距，與在現場的人，「都有一樣的資訊存取」權力，散會後不要再聊天，因為這影響到遠距的人。\n\n可省下什麼？油錢？車錢？最核心的是，可省下時間陪家人，這就是，又有生產力，又有幸福經濟\n\n#張渝江政見\nhttp://bit.ly/36n6AY2",
       "ad_creation_time": "2019-12-12T23:40:00+0000",
@@ -7822,7 +7822,7 @@
     "開始日期": "2019-12-12",
     "結束日期": "2019-12-17",
     "廣告內容": "在逢甲夜市拜票時， 大家都很驚訝我和我們的志工們都這麼年輕 他們更驚訝我很素 我不太擅長拜票 還好民眾都大方地對我們笑 減少我的尷尬 謝謝這些支持我們的民眾 我是素人，請多支持我的政見 #張渝江政見http://bit.ly/36n6AY2 #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉， 2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #ResetTaiwan #台灣民眾黨",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79201343_2910792245632646_1330118953158049792_n.jpg?_nc_cat=101&_nc_ohc=YA2XxLXa5swAQlzaPetYpEYPv_t_7ES5HWtJJQ2SELEJPSplvqvRWb9Wg&_nc_ht=scontent-hkg3-1.xx&oh=0743df7bee5e28988c1317e16a3715d7&oe=5E6B1129",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79201343_2910792245632646_1330118953158049792_n.jpg?_nc_cat=101&_nc_ohc=n5EQAKN8vEsAQl0H4rsiQKPRCTGt2QFYsPJpQLl_4ogUyj6_yxmTS3-HQ&_nc_ht=scontent-hkg3-1.xx&oh=e217debd41fb5b4f1b0c16c1f01fcdef&oe=5E6B1129",
     "廣告詳情": {
       "ad_creative_body": "在逢甲夜市拜票時，\n大家都很驚訝我和我們的志工們都這麼年輕\n他們更驚訝我很素\n我不太擅長拜票\n還好民眾都大方地對我們笑\n減少我的尷尬\n\n謝謝這些支持我們的民眾\n我是素人，請多支持我的政見\n#張渝江政見\nhttp://bit.ly/36n6AY2\n\n#婦幼補助電動車貯電抗空污\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥\n#西屯區南屯區\n#台中第四選區\n我們捐款來註記這次選舉，\n2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n\n#ResetTaiwan\n#台灣民眾黨",
       "ad_creation_time": "2019-12-12T23:37:36+0000",
@@ -7939,7 +7939,7 @@
     "開始日期": "2019-12-12",
     "結束日期": "2019-12-17",
     "廣告內容": "偶有認真企拜票，不然布魯斯會唸偶 偶們拜票也是會餓的 剛好附近有Costco  點一大盆雞肉莎拉 布魯斯是吃泰式炸雞漢堡補一下 他每天都陪我走好多路，這樣下去一定會瘦的 所以，選舉的副作用可能是減肥？ 所以，如果他還胖了，一定不是偶害的 是Costco漢堡害的 歡迎贊助#Costco G肉莎拉https://epec.work/fp1 #張渝江政見http://bit.ly/36n6AY2 我是素人，請多支持我的政見 #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉， 2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #ResetTaiwan #台灣民眾黨",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79893176_2912896008755603_2388317393593040896_n.jpg?_nc_cat=105&_nc_ohc=FfeN6rMYie0AQm_n3O4mqjH-fSIKAkvI3y1nNGyIClzEOm-lgrRwixY6Q&_nc_ht=scontent-hkg3-1.xx&oh=3bcbbbdb167af04992f3c47c9bd4f0df&oe=5EAFE0EA",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79893176_2912896008755603_2388317393593040896_n.jpg?_nc_cat=105&_nc_ohc=N4eRpiK0ubYAQl9p2fkwhUTd9ckgSmNF8UTVnuEtWr5WcheDqA6w-shLw&_nc_ht=scontent-hkg3-1.xx&oh=59e94da57deefcdd71d3e8d4dc518e4f&oe=5EAFE0EA",
     "廣告詳情": {
       "ad_creative_body": "偶有認真企拜票，不然布魯斯會唸偶\n偶們拜票也是會餓的\n剛好附近有Costco \n點一大盆雞肉莎拉\n布魯斯是吃泰式炸雞漢堡補一下\n他每天都陪我走好多路，這樣下去一定會瘦的\n所以，選舉的副作用可能是減肥？\n所以，如果他還胖了，一定不是偶害的\n是Costco漢堡害的\n\n歡迎贊助#Costco G肉莎拉\nhttps://epec.work/fp1\n\n#張渝江政見\nhttp://bit.ly/36n6AY2\n我是素人，請多支持我的政見\n\n#婦幼補助電動車貯電抗空污\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥\n#西屯區南屯區\n#台中第四選區\n我們捐款來註記這次選舉，\n2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n\n#ResetTaiwan\n#台灣民眾黨",
       "ad_creation_time": "2019-12-12T23:36:38+0000",
@@ -8016,7 +8016,7 @@
     "開始日期": "2019-12-12",
     "結束日期": "2019-12-17",
     "廣告內容": "雖然柯P本尊不在 但我們還是帶他的分身來參加台中精密協進會活動 外面還是要穿西裝🤵，尊重一下 阿北有來喔 #張渝江政見http://bit.ly/36n6AY2 我是素人，請多支持我的政見 #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉， 2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #ResetTaiwan #台灣民眾黨",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78983442_2913042575407613_3480999568101867520_n.jpg?_nc_cat=106&_nc_ohc=IlJ2Av5PgPkAQnn7aZfHXYMLo-Xw8efKHWG-BboFPBindA9Dlgc-3gT8w&_nc_ht=scontent-hkg3-1.xx&oh=7f375032884cf4c036f74d4c2c8db0f2&oe=5E6853A6",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/78983442_2913042575407613_3480999568101867520_n.jpg?_nc_cat=106&_nc_ohc=_NstYuN7MQQAQk7jeKEeug3pzS-_JDUy05cHZyu7nhs2YtPltxmrtt4TA&_nc_ht=scontent-hkg3-1.xx&oh=34e14447a43009cd878561549bb15501&oe=5E6853A6",
     "廣告詳情": {
       "ad_creative_body": "雖然柯P本尊不在\n但我們還是帶他的分身來參加台中精密協進會活動\n外面還是要穿西裝🤵，尊重一下\n\n阿北有來喔\n\n#張渝江政見\nhttp://bit.ly/36n6AY2\n我是素人，請多支持我的政見\n\n#婦幼補助電動車貯電抗空污\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥\n#西屯區南屯區\n#台中第四選區\n我們捐款來註記這次選舉，\n2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n\n#ResetTaiwan\n#台灣民眾黨",
       "ad_creation_time": "2019-12-12T23:35:42+0000",
@@ -8118,7 +8118,7 @@
     "開始日期": "2019-12-12",
     "結束日期": "2019-12-17",
     "廣告內容": "晚上，和布魯斯一起去台中精機的活動 有人自備隨身空氣清淨機 你說中彰投空氣差不差？ 中火空污該不該改善？ 我是素人，請多支持我的政見，政見在下面連結 #張渝江政見http://bit.ly/36n6AY2 #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉， 2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #ResetTaiwan #台灣民眾黨",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79372451_2913172655394605_4916416104152170496_n.jpg?_nc_cat=109&_nc_ohc=LueJxYXPSbkAQnvpa1QVRr8R1Zo6sP1ANJfC2dRt578r6EYOtsO630_zA&_nc_ht=scontent-hkg3-1.xx&oh=c9aa226c0b029dc80f9de2813a0f2de8&oe=5E7DB9BC",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79372451_2913172655394605_4916416104152170496_n.jpg?_nc_cat=109&_nc_oc=AQnatvY1Zfa6kIjDNir81kgzoKcFTslGmaLPJxA4X1R_Y4pJOabbfAcqud31wNh2iUA&_nc_ht=scontent-hkg3-2.xx&oh=e5aaf78efd54f4a54c9d7a1c05e67d79&oe=5EA546BC",
     "廣告詳情": {
       "ad_creative_body": "晚上，和布魯斯一起去台中精機的活動\n有人自備隨身空氣清淨機\n你說中彰投空氣差不差？\n\n中火空污該不該改善？\n\n我是素人，請多支持我的政見，政見在下面連結\n#張渝江政見\nhttp://bit.ly/36n6AY2\n\n#婦幼補助電動車貯電抗空污\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥\n#西屯區南屯區\n#台中第四選區\n我們捐款來註記這次選舉，\n2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n#ResetTaiwan\n#台灣民眾黨",
       "ad_creation_time": "2019-12-12T23:34:39+0000",
@@ -8220,7 +8220,7 @@
     "開始日期": "2019-12-12",
     "結束日期": "2019-12-17",
     "廣告內容": "|       －－－－－這是張渝江 這是我的政見：https://docs.google.com/spreadsheets/d/19g9Pgn7KUSPEdMoqXqAxI9ojVdtrKaGGUpUinfCg8-8/htmlview?fbclid=IwAR3UTh-K0T3HJzk1Q5EQDbIPTxQXR2-oSy4FkQ3mUxMHjGZZ8BE_W_F3btk 這是我的捐款專線﹕https://epec.work/fp1 這是我的開機時間：０５：００－２２：００ 這是我的休眠時間：２２：００－０５：００ 這是我的飲食習慣：無糖、無澱粉 歡迎餵食：ＥＸＰＲＥＳＳＯ、肉類、草類 我是素人， 我是土木工程技師，爸爸，詩人，老闆，業務，貓奴﹐作家，比特幣專家，我會飛無人機 但現在，我要懇請支持素人張渝江 #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉， 2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #ResetTaiwan #台灣民眾黨 #ResetTaiwan #台灣民眾黨",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80571509_1234902046702214_4828407864865325056_n.jpg?_nc_cat=103&_nc_ohc=vQ3Yv-xFy7oAQmwuWs6ov4aSOI3Do9RojJtMAMtWoCh1RM000ywniVlKw&_nc_ht=scontent-hkg3-1.xx&oh=c8dadadb866e74a5bdc2204d9ffe73e0&oe=5EB216E9",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80571509_1234902046702214_4828407864865325056_n.jpg?_nc_cat=103&_nc_oc=AQnSz3kAOn5jjcpOMpKTcaUjs8t4-pEmZoh6NVockzcHZFw5ESesjpQNH28cNqPfMqs&_nc_ht=scontent-hkg3-1.xx&oh=172c2127bcb2282af945b72974af4ce9&oe=5EB216E9",
     "廣告詳情": {
       "ad_creative_body": "|\n      －－－－－這是張渝江\n\n這是我的政見：https://docs.google.com/spreadsheets/d/19g9Pgn7KUSPEdMoqXqAxI9ojVdtrKaGGUpUinfCg8-8/htmlview?fbclid=IwAR3UTh-K0T3HJzk1Q5EQDbIPTxQXR2-oSy4FkQ3mUxMHjGZZ8BE_W_F3btk\n\n這是我的捐款專線﹕https://epec.work/fp1\n這是我的開機時間：０５：００－２２：００\n這是我的休眠時間：２２：００－０５：００\n這是我的飲食習慣：無糖、無澱粉\n歡迎餵食：ＥＸＰＲＥＳＳＯ、肉類、草類\n\n我是素人，\n我是土木工程技師，爸爸，詩人，老闆，業務，貓奴﹐作家，比特幣專家，我會飛無人機\n\n但現在，我要懇請支持素人張渝江\n\n#婦幼補助電動車貯電抗空污\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥\n#西屯區南屯區\n#台中第四選區\n我們捐款來註記這次選舉，\n2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n#ResetTaiwan\n#台灣民眾黨\n#ResetTaiwan\n#台灣民眾黨",
       "ad_creation_time": "2019-12-12T23:22:13+0000",
@@ -8333,7 +8333,7 @@
     "開始日期": "2019-12-11",
     "結束日期": "1970-01-01",
     "廣告內容": "沒有行動，沒有好空氣，登記中部空污受害者集體訴訟！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/79828095_710579869436187_273273019399405568_n.jpg?_nc_cat=104&_nc_ohc=nnOHHO1ZTf4AQkWYPlzHeofD96_jQqdgHtC6b5vaJtbFHbCs62Kt9Dlug&_nc_ht=scontent-hkg3-1.xx&oh=be1dd9c98594f63aad93cdffbd1715c6&oe=5EB2CE6F",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/79828095_710579869436187_273273019399405568_n.jpg?_nc_cat=104&_nc_oc=AQnkcgiWrDjXQrZlSdQZX7juU7OdQInpWSEq_L7J1bQ67euDV5K8Ih8BBtiFxuWs39M&_nc_ht=scontent-hkg3-1.xx&oh=c7705317985ada9260d0f5199b4b9f2a&oe=5EB2CE6F",
     "廣告詳情": {
       "ad_creative_body": "沒有行動，沒有好空氣，登記中部空污受害者集體訴訟！",
       "ad_creation_time": "2019-12-12T07:28:30+0000",
@@ -8344,126 +8344,2506 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000101",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.008145",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000503",
+          "percentage": "0.1545",
           "age": "45-54",
-          "gender": "unknown"
+          "gender": "male"
         },
         {
-          "percentage": "0.000503",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000503",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.001508",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.020211",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.015686",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.005631",
+          "percentage": "0.006187",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.138562",
+          "percentage": "0.000577",
           "age": "45-54",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.050075",
+          "percentage": "0.000412",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000165",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001402",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00066",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.045863",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.215988",
-          "age": "18-24",
+          "percentage": "0.016003",
+          "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.164806",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.038813",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.087481",
+          "percentage": "0.092551",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.101156",
-          "age": "25-34",
+          "percentage": "0.037614",
+          "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.149925",
+          "percentage": "0.14922",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.007754",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.182463",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.17273",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.000402",
+          "percentage": "0.110864",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.020622",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000412",
           "age": "65+",
           "gender": "unknown"
         }
       ],
       "funding_entity": "渝江張",
       "impressions": {
-        "lower_bound": "10000",
-        "upper_bound": "14999"
+        "lower_bound": "15000",
+        "upper_bound": "19999"
       },
       "page_id": "1096260013752554",
       "page_name": "張渝江",
       "region_distribution": [
         {
-          "percentage": "0.739812",
+          "percentage": "0.744754",
           "region": "Taichung"
         },
         {
-          "percentage": "0.155627",
+          "percentage": "0.151238",
           "region": "Changhua"
         },
         {
-          "percentage": "0.05319",
+          "percentage": "0.053402",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.05137",
+          "percentage": "0.050605",
           "region": "Nantou"
         }
       ],
       "spend": {
-        "lower_bound": "2000",
-        "upper_bound": "2499"
+        "lower_bound": "2500",
+        "upper_bound": "2999"
       },
       "ad_id": "2166383476990429"
+    }
+  },
+  {
+    "選區": "臺中市第四選舉區",
+    "參選人": "張渝江",
+    "AD_ID": "425983274951594",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-22",
+    "結束日期": "1970-01-01",
+    "廣告內容": "看到自己的選舉氣球和阿北的氣球 心情是很複雜的 我們有五顆喔！YAHOOOOO!!! 小編的ps 是早一點遇到菜市場阿姨就好了 我是素人，請多支持我的政見，政見在下面連結 #張渝江政見　http://bit.ly/36n6AY2 ＃張渝江捐款連結　https://epec.work/fp1 #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉 2020民眾黨國會黨團，你的事就是我們的事 #ResetTaiwan #台灣民眾黨",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79765340_2921040121274525_4516009892422615040_n.jpg?_nc_cat=111&_nc_ohc=FHHlJNDr2FkAQlZAwrkadwniexOrJ1ZQ8DOzsFYW1Fm63Uf5FHdHZgAIA&_nc_ht=scontent-hkg3-2.xx&oh=f62d589e08e7116ab44e415bf8f34428&oe=5EA8AD75",
+    "廣告詳情": {
+      "ad_creative_body": "看到自己的選舉氣球和阿北的氣球\n心情是很複雜的\n我們有五顆喔！YAHOOOOO!!!\n\n小編的ps 是早一點遇到菜市場阿姨就好了\n\n我是素人，請多支持我的政見，政見在下面連結\n#張渝江政見　http://bit.ly/36n6AY2\n＃張渝江捐款連結　https://epec.work/fp1\n\n#婦幼補助電動車貯電抗空污\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥\n#西屯區南屯區\n#台中第四選區\n我們捐款來註記這次選舉\n2020民眾黨國會黨團，你的事就是我們的事\n#ResetTaiwan\n#台灣民眾黨",
+      "ad_creation_time": "2019-12-23T00:13:37+0000",
+      "ad_delivery_start_time": "2019-12-23T00:13:37+0000",
+      "ad_delivery_stop_time": "2019-12-30T00:13:23+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.168234",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.190178",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.188088",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.037618",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.138976",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.051202",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.034483",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.083595",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.020899",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.027168",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.028213",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.029258",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001045",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001045",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "渝江張",
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "1999"
+      },
+      "page_id": "1096260013752554",
+      "page_name": "張渝江",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "200",
+        "upper_bound": "299"
+      },
+      "ad_id": "425983274951594"
+    }
+  },
+  {
+    "選區": "臺中市第四選舉區",
+    "參選人": "張渝江",
+    "AD_ID": "459162545004643",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-22",
+    "結束日期": "2019-12-25",
+    "廣告內容": "揹氣球是一個體力活， 那不是一個球而已 還有打氣機，我們Bruce揹完都要貼五塊酸痛藥布 再派老婆和小孩在身上踩一踩 五顆氣球中有一顆是台大生化碩士的志工， 熱情的背負與參與 年輕人是台灣的希望！！ 請給他們一個理性的台灣 我是素人，請多支持我的政見，政見在下面連結 #張渝江政見　http://bit.ly/36n6AY2 ＃張渝江捐款連結　https://epec.work/fp1 #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉 2020民眾黨國會黨團，你的事就是我們的事 #ResetTaiwan #台灣民眾黨",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79810434_2923605451017992_1430103906318286848_n.jpg?_nc_cat=108&_nc_ohc=8hRUMggvrw8AQlV7N8AXt3sJmemdptA3co8YF5ln6VjrFitIxd0TyyZMw&_nc_ht=scontent-hkg3-1.xx&oh=14d28d365aa559689e1631cf6c990148&oe=5EA6B7F1",
+    "廣告詳情": {
+      "ad_creative_body": "揹氣球是一個體力活，\n那不是一個球而已\n還有打氣機，我們Bruce揹完都要貼五塊酸痛藥布\n再派老婆和小孩在身上踩一踩\n\n五顆氣球中有一顆是台大生化碩士的志工，\n熱情的背負與參與\n年輕人是台灣的希望！！\n請給他們一個理性的台灣\n\n我是素人，請多支持我的政見，政見在下面連結\n#張渝江政見　http://bit.ly/36n6AY2\n＃張渝江捐款連結　https://epec.work/fp1\n\n#婦幼補助電動車貯電抗空污\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥\n#西屯區南屯區\n#台中第四選區\n我們捐款來註記這次選舉\n2020民眾黨國會黨團，你的事就是我們的事\n#ResetTaiwan\n#台灣民眾黨",
+      "ad_creation_time": "2019-12-23T00:11:32+0000",
+      "ad_delivery_start_time": "2019-12-23T00:11:32+0000",
+      "ad_delivery_stop_time": "2019-12-26T00:11:19+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.363636",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.045455",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.136364",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.090909",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.090909",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.227273",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.045455",
+          "age": "25-34",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "渝江張",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "1096260013752554",
+      "page_name": "張渝江",
+      "region_distribution": [
+        {
+          "percentage": "0.045455",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.590909",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.136364",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.045455",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.045455",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.045455",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.090909",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "459162545004643"
+    }
+  },
+  {
+    "選區": "臺中市第四選舉區",
+    "參選人": "張渝江",
+    "AD_ID": "2668863796522790",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-22",
+    "結束日期": "1970-01-01",
+    "廣告內容": "路人問我，我是不是柯P那一黨的？ 我馬上遞上面紙⋯⋯ 說哇布恩郎！！ 我是素人，請多支持我的政見，政見在下面連結 #張渝江政見　http://bit.ly/36n6AY2 ＃張渝江捐款連結　https://epec.work/fp1 #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉 2020民眾黨國會黨團，你的事就是我們的事 #ResetTaiwan #台灣民眾黨",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/81076657_2925810337464170_7930866259791446016_n.jpg?_nc_cat=101&_nc_ohc=H7yI5yC9YwQAQkDjBXapsZPROSlxJRJ620OT2X1Cj5hw35cwooQGrKnRA&_nc_ht=scontent-hkg3-1.xx&oh=a24778640a8a6f2565ee9478bf3cbb5d&oe=5E6C6AAB",
+    "廣告詳情": {
+      "ad_creative_body": "路人問我，我是不是柯P那一黨的？\n我馬上遞上面紙⋯⋯\n說哇布恩郎！！\n\n我是素人，請多支持我的政見，政見在下面連結\n#張渝江政見　http://bit.ly/36n6AY2\n＃張渝江捐款連結　https://epec.work/fp1\n\n#婦幼補助電動車貯電抗空污\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥\n#西屯區南屯區\n#台中第四選區\n我們捐款來註記這次選舉\n2020民眾黨國會黨團，你的事就是我們的事\n#ResetTaiwan\n#台灣民眾黨",
+      "ad_creation_time": "2019-12-23T00:09:38+0000",
+      "ad_delivery_start_time": "2019-12-23T00:09:38+0000",
+      "ad_delivery_stop_time": "2019-12-30T00:09:24+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000604",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.042271",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.115338",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.205918",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.161836",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.267512",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.025966",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.01087",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.040459",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.050725",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.019928",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.025966",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.032609",
+          "age": "35-44",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "渝江張",
+      "impressions": {
+        "lower_bound": "2000",
+        "upper_bound": "2999"
+      },
+      "page_id": "1096260013752554",
+      "page_name": "張渝江",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "200",
+        "upper_bound": "299"
+      },
+      "ad_id": "2668863796522790"
+    }
+  },
+  {
+    "選區": "臺中市第四選舉區",
+    "參選人": "張渝江",
+    "AD_ID": "2240723999567037",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-22",
+    "結束日期": "1970-01-01",
+    "廣告內容": "你們猜身高185和180差在那裡？ 就是差你投(5)號啦！ 謝謝大家 我是素人，請多支持我的政見，政見在下面連結 #張渝江政見　http://bit.ly/36n6AY2 ＃張渝江捐款連結　https://epec.work/fp1 #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉 2020民眾黨國會黨團，你的事就是我們的事 #ResetTaiwan #台灣民眾黨",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/80123183_2926940620684475_92953048019632128_n.jpg?_nc_cat=107&_nc_ohc=Wc9u-uVfgmIAQmr_1oyQ5XgknbKUTmLD9NVFKMrdLv_SwclaltXMyzMPQ&_nc_ht=scontent-hkg3-2.xx&oh=18c8d9140b627037978bf35c14d2f1f9&oe=5EAFFF8E",
+    "廣告詳情": {
+      "ad_creative_body": "你們猜身高185和180差在那裡？\n\n就是差你投(5)號啦！\n\n謝謝大家\n\n我是素人，請多支持我的政見，政見在下面連結\n#張渝江政見　http://bit.ly/36n6AY2\n＃張渝江捐款連結　https://epec.work/fp1\n\n#婦幼補助電動車貯電抗空污\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥\n#西屯區南屯區\n#台中第四選區\n我們捐款來註記這次選舉\n2020民眾黨國會黨團，你的事就是我們的事\n#ResetTaiwan\n#台灣民眾黨",
+      "ad_creation_time": "2019-12-23T00:08:46+0000",
+      "ad_delivery_start_time": "2019-12-23T00:08:46+0000",
+      "ad_delivery_stop_time": "2019-12-30T00:08:32+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.069712",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.265385",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.054327",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.246635",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.115865",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000481",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.037981",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.028365",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.027885",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.054327",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.025962",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.057212",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.015865",
+          "age": "65+",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "渝江張",
+      "impressions": {
+        "lower_bound": "2000",
+        "upper_bound": "2999"
+      },
+      "page_id": "1096260013752554",
+      "page_name": "張渝江",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "200",
+        "upper_bound": "299"
+      },
+      "ad_id": "2240723999567037"
+    }
+  },
+  {
+    "選區": "臺中市第四選舉區",
+    "參選人": "張渝江",
+    "AD_ID": "485478472390796",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-22",
+    "結束日期": "2019-12-24",
+    "廣告內容": "這是阿北對PM 2.5的看法，藍綠綁架的台中人的悲哀 選藍選綠選不到好空氣，票投五號張渝江，十五號民眾黨 註冊連署抗空污 #柯文哲 這是一場硬仗，我們都要堅持下去 年輕人是台灣的希望！！ 請給他們一個理性的台灣 #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 5號 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉， 2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #ResetTaiwan #台灣民眾黨 Google表單 中部空污受害者集體訴訟登記連署http://bit.ly/38j3mqc fb 中部空污受害者集體訴訟登記http://bit.ly/2LZcaYZ 張渝江政見http://bit.ly/36n6AY2 張渝江政見圖示flyerhttp://bit.ly/2qOAgOw 民眾黨後援會line官方帳號，DTV Martin Lin寫的一個AI，登記參加志工可看到全台活動http://line.me/ti/p/@tppfans",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80470751_2474014466149480_8139325521159782400_n.jpg?_nc_cat=105&_nc_ohc=g06657phmugAQnCteJyfyH3httW0fFbPnPcLvTRHaFb9byPXEev9bChyw&_nc_ht=scontent-hkg3-1.xx&oh=df4393c9aa053712ffa57b5f8e8930f9&oe=5E67C6A5",
+    "廣告詳情": {
+      "ad_creative_body": "這是阿北對PM 2.5的看法，藍綠綁架的台中人的悲哀\n選藍選綠選不到好空氣，票投五號張渝江，十五號民眾黨\n註冊連署抗空污\n\n#柯文哲\n這是一場硬仗，我們都要堅持下去\n\n年輕人是台灣的希望！！\n請給他們一個理性的台灣\n\n#婦幼補助電動車貯電抗空污\n\n#土木技師工程法律財經專業\n\n#立委候選人張渝江章魚哥 5號\n\n#西屯區南屯區\n\n#台中第四選區\n\n我們捐款來註記這次選舉，\n2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n\n#ResetTaiwan\n\n#台灣民眾黨\n\nGoogle表單 中部空污受害者集體訴訟登記連署\nhttp://bit.ly/38j3mqc\n\nfb 中部空污受害者集體訴訟登記\nhttp://bit.ly/2LZcaYZ\n\n張渝江政見\nhttp://bit.ly/36n6AY2\n\n張渝江政見圖示flyer\nhttp://bit.ly/2qOAgOw\n\n民眾黨後援會line官方帳號，DTV Martin Lin寫的一個AI，登記參加志工可看到全台活動\nhttp://line.me/ti/p/@tppfans",
+      "ad_creation_time": "2019-12-23T00:07:43+0000",
+      "ad_creative_link_caption": "http://bit.ly/38j3mqc",
+      "ad_creative_link_title": "市長柯文哲20191025受邀出席修憲論壇活動演說關於空污",
+      "ad_delivery_start_time": "2019-12-23T00:07:43+0000",
+      "ad_delivery_stop_time": "2019-12-25T00:07:32+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.028169",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.007042",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.021127",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.126761",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.225352",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.211268",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.06338",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.098592",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.15493",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.028169",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.035211",
+          "age": "18-24",
+          "gender": "male"
+        }
+      ],
+      "funding_entity": "渝江張",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "1096260013752554",
+      "page_name": "張渝江",
+      "region_distribution": [
+        {
+          "percentage": "0.007042",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.070423",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.014085",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.014085",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.035211",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.119718",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.049296",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.450704",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.007042",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.056338",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.007042",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.007042",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.014085",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.014085",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.014085",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.014085",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.06338",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.042254",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "485478472390796"
+    }
+  },
+  {
+    "選區": "臺中市第四選舉區",
+    "參選人": "張渝江",
+    "AD_ID": "2642699759287185",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-22",
+    "結束日期": "2019-12-24",
+    "廣告內容": "學姊像是我女兒 柯媽媽是個慈善的長輩 和他聊過天之後，你會理解他如何教養孩子 選舉真的覺得很辛苦，作為一個母親， 看到自己的孩子（柯文哲）這麼辛苦， 真的很不捨 他跟小編説，但是他只能支持孩子的選擇 80多歲的他，膝蓋不好，能做的事他盡量 那怕只能分擔一點點 5號的老闆 你可要爭氣一點 #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥5號 #西屯區南屯區 5號 #台中第四選區 5號 我們捐款來註記這次選舉， 2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #ResetTaiwan #台灣民眾黨 Google表單 中部空污受害者集體訴訟登記連署http://bit.ly/38j3mqc fb 中部空污受害者集體訴訟登記http://bit.ly/2LZcaYZ 張渝江政見http://bit.ly/36n6AY2 張渝江政見圖示flyerhttp://bit.ly/2qOAgOw 民眾黨後援會line官方帳號，DTV Martin Lin寫的一個AI，登記參加志工可看到全台活動http://line.me/ti/p/@tppfans",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/81204439_2642699772620517_3277898974219993088_n.jpg?_nc_cat=110&_nc_ohc=TqSzsubz_fgAQlgrOK5MGTg5XPIOqgCPve2Z7WK15wgz_BXf1PKRVDVvw&_nc_ht=scontent-hkg3-2.xx&oh=d8ed849b9c97e7a32ef4019092693e2f&oe=5E74221C",
+    "廣告詳情": {
+      "ad_creative_body": "學姊像是我女兒\n柯媽媽是個慈善的長輩\n和他聊過天之後，你會理解他如何教養孩子\n\n選舉真的覺得很辛苦，作為一個母親，\n看到自己的孩子（柯文哲）這麼辛苦，\n真的很不捨\n他跟小編説，但是他只能支持孩子的選擇\n80多歲的他，膝蓋不好，能做的事他盡量\n那怕只能分擔一點點\n\n5號的老闆\n你可要爭氣一點\n\n#婦幼補助電動車貯電抗空污\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥5號\n#西屯區南屯區 5號\n#台中第四選區 5號\n\n我們捐款來註記這次選舉，\n2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n\n#ResetTaiwan\n#台灣民眾黨\n\nGoogle表單 中部空污受害者集體訴訟登記連署\nhttp://bit.ly/38j3mqc\n\nfb 中部空污受害者集體訴訟登記\nhttp://bit.ly/2LZcaYZ\n\n張渝江政見\nhttp://bit.ly/36n6AY2\n\n張渝江政見圖示flyer\nhttp://bit.ly/2qOAgOw\n\n民眾黨後援會line官方帳號，DTV Martin Lin寫的一個AI，登記參加志工可看到全台活動\nhttp://line.me/ti/p/@tppfans",
+      "ad_creation_time": "2019-12-23T00:01:52+0000",
+      "ad_creative_link_caption": "epec.work",
+      "ad_delivery_start_time": "2019-12-23T00:01:52+0000",
+      "ad_delivery_stop_time": "2019-12-25T00:01:41+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.035461",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.021277",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.184397",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.191489",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.184397",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.070922",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.141844",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.078014",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.070922",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.021277",
+          "age": "18-24",
+          "gender": "male"
+        }
+      ],
+      "funding_entity": "渝江張",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "1096260013752554",
+      "page_name": "張渝江",
+      "region_distribution": [
+        {
+          "percentage": "0.021277",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.007092",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.007092",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.007092",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.028369",
+          "region": "Hsinchu City"
+        },
+        {
+          "percentage": "0.021277",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.021277",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.007092",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.028369",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.070922",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.007092",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.007092",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.085106",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.099291",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.028369",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.035461",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.510638",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.007092",
+          "region": "Lienchiang"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "2642699759287185"
+    }
+  },
+  {
+    "選區": "臺中市第四選舉區",
+    "參選人": "張渝江",
+    "AD_ID": "448338322510490",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-22",
+    "結束日期": "2019-12-24",
+    "廣告內容": "他們斷章說我要把PTT關了， 但它是台灣僅存惟一非國際上市公司的純文字社群平台，它不是要關，它該是轉變成另一個享譽國際的臉書，且不是用教育部的預算， 雖被斷章說要關PTT有一堆人罵我，但我不經意發現也有用心把我的訪談作成逐字稿，很詳細，謝謝大家。 Google表單 中部抗空污集體訴訟登記連署http://bit.ly/38j3mqc fb 中部抗空污集體訴訟登記http://bit.ly/2LZcaYZ #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉，2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #ResetTaiwan #台灣民眾黨 政見http://bit.ly/36n6AY2 張渝江政見圖示flyerhttp://bit.ly/2qOAgOw 民眾黨後援會line官方帳號，DTV Martin Lin寫的一個AI，登記參加志工可看到全台活動http://line.me/ti/p/@tppfanshttps://www.ptt.cc/bbs/HatePolitics/M.1576680288.A.3F8.html",
+    "圖片": "",
+    "廣告詳情": {
+      "ad_creative_body": "他們斷章說我要把PTT關了，\n\n但它是台灣僅存惟一非國際上市公司的純文字社群平台，它不是要關，它該是轉變成另一個享譽國際的臉書，且不是用教育部的預算，\n\n雖被斷章說要關PTT有一堆人罵我，但我不經意發現也有用心把我的訪談作成逐字稿，很詳細，謝謝大家。\n\nGoogle表單 中部抗空污集體訴訟登記連署\nhttp://bit.ly/38j3mqc\nfb 中部抗空污集體訴訟登記\nhttp://bit.ly/2LZcaYZ\n#婦幼補助電動車貯電抗空污\n\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥\n#西屯區南屯區\n#台中第四選區\n我們捐款來註記這次選舉，2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n\n#ResetTaiwan\n#台灣民眾黨\n政見http://bit.ly/36n6AY2\n\n張渝江政見圖示flyer\nhttp://bit.ly/2qOAgOw\n\n民眾黨後援會line官方帳號，DTV Martin Lin寫的一個AI，登記參加志工可看到全台活動http://line.me/ti/p/@tppfans\n\nhttps://www.ptt.cc/bbs/HatePolitics/M.1576680288.A.3F8.html",
+      "ad_creation_time": "2019-12-23T00:00:04+0000",
+      "ad_creative_link_caption": "ptt.cc",
+      "ad_creative_link_description": "191101 我家阿北啦TV 張渝江專訪逐字稿 https://www.youtube.com/watch?v=uqiKH6Ij3E8 閱讀本文前以下有幾點告知 1.聽不出來的地方會忽略 2.明顯贅詞，在不影響語意表達時會忽略，不惡意刪減字",
+      "ad_creative_link_title": "[討論] 191101 我家阿北啦TV 張渝江專訪逐字稿",
+      "ad_delivery_start_time": "2019-12-23T00:00:04+0000",
+      "ad_delivery_stop_time": "2019-12-24T23:59:53+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.194915",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.110169",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.016949",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.008475",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.033898",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.211864",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.186441",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.084746",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.042373",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.059322",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.050847",
+          "age": "18-24",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "渝江張",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "1096260013752554",
+      "page_name": "張渝江",
+      "region_distribution": [
+        {
+          "percentage": "0.016807",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.02521",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.008403",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.008403",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.008403",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.008403",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.016807",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.05042",
+          "region": "Hsinchu City"
+        },
+        {
+          "percentage": "0.008403",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.067227",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.016807",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.008403",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.008403",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.05042",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.042017",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.07563",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.571429",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.008403",
+          "region": "Keelung City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "448338322510490"
+    }
+  },
+  {
+    "選區": "臺中市第四選舉區",
+    "參選人": "張渝江",
+    "AD_ID": "2526209654323637",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-22",
+    "結束日期": "2019-12-24",
+    "廣告內容": "我是土木技師，專業問政讓沒專業的要更優秀 後選人抽籤的現場 有時候充滿了各種引人注意的技巧 有的人會脫衣服  有的人是奇裝異服 我們用土木技師公會的帽子 呈現我們的專業跟背景跟形象 章魚哥從來不嘩眾取寵 他只是處女座而已 請支持西屯丶南屯區5號候選人張渝江 Google表單 中部空污受害者集體訴訟登記連署http://bit.ly/38j3mqc fb 中部空污受害者集體訴訟登記http://bit.ly/2LZcaYZ #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉， 2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #ResetTaiwan #台灣民眾黨 政見http://bit.ly/36n6AY2 張渝江政見圖示flyerhttp://bit.ly/2qOAgOw 民眾黨後援會line官方帳號，DTV Martin Lin寫的一個AI，登記參加志工可看到全台活動http://line.me/ti/p/@tppfans",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80085295_2935604046484799_7922889324406767616_n.jpg?_nc_cat=101&_nc_ohc=4wnx4tL1hWUAQlscAm6_L-o3uF7flrp_-n_fXPF7-zTFNOVFCq6p8OZTA&_nc_ht=scontent-hkg3-1.xx&oh=5bf0edffd11c9eec94e1760f276a179e&oe=5EB42452",
+    "廣告詳情": {
+      "ad_creative_body": "我是土木技師，專業問政讓沒專業的要更優秀\n\n後選人抽籤的現場\n有時候充滿了各種引人注意的技巧\n有的人會脫衣服 \n有的人是奇裝異服\n我們用土木技師公會的帽子\n呈現我們的專業跟背景跟形象\n章魚哥從來不嘩眾取寵\n\n他只是處女座而已\n\n請支持西屯丶南屯區5號候選人張渝江\n\nGoogle表單 中部空污受害者集體訴訟登記連署\nhttp://bit.ly/38j3mqc\n\nfb 中部空污受害者集體訴訟登記\nhttp://bit.ly/2LZcaYZ\n\n#婦幼補助電動車貯電抗空污\n\n#土木技師工程法律財經專業\n\n#立委候選人張渝江章魚哥\n\n#西屯區南屯區\n\n#台中第四選區\n\n我們捐款來註記這次選舉，\n2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n\n#ResetTaiwan\n\n#台灣民眾黨\n\n政見\nhttp://bit.ly/36n6AY2\n\n張渝江政見圖示flyer\nhttp://bit.ly/2qOAgOw\n\n民眾黨後援會line官方帳號，DTV Martin Lin寫的一個AI，登記參加志工可看到全台活動\nhttp://line.me/ti/p/@tppfans",
+      "ad_creation_time": "2019-12-22T23:58:05+0000",
+      "ad_delivery_start_time": "2019-12-22T23:58:05+0000",
+      "ad_delivery_stop_time": "2019-12-24T23:57:54+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.105263",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.105263",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.157895",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.157895",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.157895",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.052632",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.157895",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.105263",
+          "age": "25-34",
+          "gender": "male"
+        }
+      ],
+      "funding_entity": "渝江張",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "1096260013752554",
+      "page_name": "張渝江",
+      "region_distribution": [
+        {
+          "percentage": "0.210526",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.473684",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.052632",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.105263",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.052632",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.105263",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "2526209654323637"
+    }
+  },
+  {
+    "選區": "臺中市第四選舉區",
+    "參選人": "張渝江",
+    "AD_ID": "450991138895653",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-22",
+    "結束日期": "1970-01-01",
+    "廣告內容": "我就借用阿北說的話了 我只想為下一代做點事 我氣的是買的是《空氣品質感測器》， 而不是空氣清淨機！！！ 買了我們空氣會變好，變安全？ 這是《安慰》作用？？ 這就好像這𥚃有50000隻蟑螂 買了感測器算出大約有50000隻蟑螂 然後叫大家快跑 幹嘛不直接買抓蟑螂的盒子啊！？ 至少也發個拖鞋⋯⋯⋯ 我們可以把濾網丶集塵盒拿出來洗 但我們可以洗肺嗎！ 氣死我了⋯⋯ 選藍選綠選不到好空氣 Google表單 中部空污受害者集體訴訟登記連署http://bit.ly/38j3mqc fb 中部空污受害者集體訴訟登記http://bit.ly/2LZcaYZ #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉，2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #ResetTaiwan #台灣民眾黨 政見http://bit.ly/36n6AY2 張渝江政見圖示flyerhttp://bit.ly/2qOAgOw 民眾黨後援會line官方帳號，DTV Martin Lin寫的一個AI，登記參加志工可看到全台活動http://line.me/ti/p/@tppfanshttps://tw.news.yahoo.com/抗空汙-布建校園空氣感測器-160000365.html",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/80116546_2930895846955619_5393192138689216512_n.jpg?_nc_cat=109&_nc_ohc=QkB_barXUGEAQmR9xIBibIHqRm7N0x6E_PzaK8goUPDuFsDQ93mvRDYPA&_nc_ht=scontent-hkg3-2.xx&oh=0632e5d0aaf7be35457378ec3af53cf0&oe=5EADD629",
+    "廣告詳情": {
+      "ad_creative_body": "我就借用阿北說的話了\n我只想為下一代做點事\n\n我氣的是買的是《空氣品質感測器》，\n而不是空氣清淨機！！！\n買了我們空氣會變好，變安全？\n這是《安慰》作用？？\n\n這就好像這𥚃有50000隻蟑螂\n買了感測器算出大約有50000隻蟑螂\n然後叫大家快跑\n幹嘛不直接買抓蟑螂的盒子啊！？\n至少也發個拖鞋⋯⋯⋯\n\n我們可以把濾網丶集塵盒拿出來洗\n但我們可以洗肺嗎！\n氣死我了⋯⋯\n\n選藍選綠選不到好空氣\nGoogle表單 中部空污受害者集體訴訟登記連署\nhttp://bit.ly/38j3mqc\n\nfb 中部空污受害者集體訴訟登記\nhttp://bit.ly/2LZcaYZ\n\n#婦幼補助電動車貯電抗空污\n\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥\n#西屯區南屯區\n#台中第四選區\n我們捐款來註記這次選舉，2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n\n#ResetTaiwan\n#台灣民眾黨\n\n政見http://bit.ly/36n6AY2\n\n張渝江政見圖示flyer\nhttp://bit.ly/2qOAgOw\n\n民眾黨後援會line官方帳號，DTV Martin Lin寫的一個AI，登記參加志工可看到全台活動http://line.me/ti/p/@tppfans\n\nhttps://tw.news.yahoo.com/%E6%8A%97%E7%A9%BA%E6%B1%99-%E5%B8%83%E5%BB%BA%E6%A0%A1%E5%9C%92%E7%A9%BA%E6%B0%A3%E6%84%9F%E6%B8%AC%E5%99%A8-160000365.html",
+      "ad_creation_time": "2019-12-22T23:55:00+0000",
+      "ad_delivery_start_time": "2019-12-22T23:55:00+0000",
+      "ad_delivery_stop_time": "2019-12-29T23:54:45+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.054201",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001355",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001355",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.093496",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.186992",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.036585",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.181572",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.233062",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.02168",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.073171",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.028455",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.042005",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.031165",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001355",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.01355",
+          "age": "18-24",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "渝江張",
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "1999"
+      },
+      "page_id": "1096260013752554",
+      "page_name": "張渝江",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "200",
+        "upper_bound": "299"
+      },
+      "ad_id": "450991138895653"
+    }
+  },
+  {
+    "選區": "臺中市第四選舉區",
+    "參選人": "張渝江",
+    "AD_ID": "2490445094566449",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-22",
+    "結束日期": "1970-01-01",
+    "廣告內容": "我在台中市工程技術商業同業公會年會致詞 我也激勵專業技師，律師，效法柯醫師投入政治，因為你不投入也是他們去投入，你不必有執照才能參選，但參選的人有執照，沒執照的要很優秀才能選上。 Google表單 中部抗空污集體訴訟登記連署http://bit.ly/38j3mqc fb 中部抗空污集體訴訟登記http://bit.ly/2LZcaYZ #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉，2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #ResetTaiwan #台灣民眾黨 政見http://bit.ly/36n6AY2 張渝江政見圖示flyerhttp://bit.ly/2qOAgOw 民眾黨後援會line官方帳號，DTV Martin Lin寫的一個AI，登記參加志工可看到全台活動http://line.me/ti/p/@tppfans",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/81356121_2490445144566444_7937801790160896000_n.jpg?_nc_cat=107&_nc_ohc=CaAesxhgeccAQlBibBNeH3bmxD16NuxuvcwTc5kFMC9SKdL7_tGd7098A&_nc_ht=scontent-hkg3-2.xx&oh=ad5d9d72775320acbfd9511af40a7fec&oe=5EA54F9F",
+    "廣告詳情": {
+      "ad_creative_body": "我在台中市工程技術商業同業公會年會致詞\n\n我也激勵專業技師，律師，效法柯醫師投入政治，因為你不投入也是他們去投入，你不必有執照才能參選，但參選的人有執照，沒執照的要很優秀才能選上。\n\nGoogle表單 中部抗空污集體訴訟登記連署\nhttp://bit.ly/38j3mqc\n\nfb 中部抗空污集體訴訟登記\nhttp://bit.ly/2LZcaYZ\n#婦幼補助電動車貯電抗空污\n\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥\n#西屯區南屯區\n#台中第四選區\n我們捐款來註記這次選舉，2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n\n#ResetTaiwan\n#台灣民眾黨\n政見http://bit.ly/36n6AY2\n\n張渝江政見圖示flyer\nhttp://bit.ly/2qOAgOw\n\n民眾黨後援會line官方帳號，DTV Martin Lin寫的一個AI，登記參加志工可看到全台活動http://line.me/ti/p/@tppfans",
+      "ad_creation_time": "2019-12-22T23:35:04+0000",
+      "ad_creative_link_caption": "epec.work",
+      "ad_creative_link_title": "台中市工程技術商業同業公會年會致詞",
+      "ad_delivery_start_time": "2019-12-22T23:35:04+0000",
+      "ad_delivery_stop_time": "2019-12-29T23:34:51+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000781",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000391",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.053906",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.2625",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.315234",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.133594",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.130078",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.032422",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.034766",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.016016",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.013281",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.004297",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000391",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001563",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000781",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "渝江張",
+      "impressions": {
+        "lower_bound": "3000",
+        "upper_bound": "3999"
+      },
+      "page_id": "1096260013752554",
+      "page_name": "張渝江",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "200",
+        "upper_bound": "299"
+      },
+      "ad_id": "2490445094566449"
+    }
+  },
+  {
+    "選區": "臺中市第四選舉區",
+    "參選人": "張渝江",
+    "AD_ID": "2677851938972665",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-23",
+    "結束日期": "1970-01-01",
+    "廣告內容": "台中火力發電廠是中彰投PM2.5濃度高的原因， 經過三個月，我有台大學碩士芝加哥碩士，和我們的志工，有一個博士三五個碩士，在網路上找被政府遮蔽的資料，努力三個月後的結果， 今天我們證實了台中火力發電廠的發電量和中部PM2.5濃度，存在「正相關」 (Pearson correlation coefficient greater than 0 below 1) 我不擅選舉語言，我該說，「你們不要再騙了啦！就是你！還我和孩子的健康來！」？ 但我說， 我們冷靜理性思考為什麼會有這個結果，怎麼協助台電解決這個問題，我們和孩子們在沉積的高濃度毒性物質中生活，要怎麼解決。 先正視這個問題，這是我錄的一段影片說明我和我的志工怎麼統計分析數據，一般中學以上程度就可看懂，你也可以用我的數字算一次比對。 台中火力發電廠是中彰投PM2.5濃度高的原因。",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/81025965_619530338852433_5040618264770641920_n.jpg?_nc_cat=107&_nc_ohc=LVY4WGvoDr0AQnN_VcX65iTEN6WDnkY4_azlxBaLxz0v_eGKyl9jXb9yA&_nc_ht=scontent-hkg3-2.xx&oh=6413d629f351f0bb5bc1b1565e3cce14&oe=5E6EAEBD",
+    "廣告詳情": {
+      "ad_creative_body": "台中火力發電廠是中彰投PM2.5濃度高的原因，\n\n經過三個月，我有台大學碩士芝加哥碩士，和我們的志工，有一個博士三五個碩士，在網路上找被政府遮蔽的資料，努力三個月後的結果，\n\n今天我們證實了台中火力發電廠的發電量和中部PM2.5濃度，存在「正相關」\n(Pearson correlation coefficient greater than 0 below 1)\n\n我不擅選舉語言，我該說，「你們不要再騙了啦！就是你！還我和孩子的健康來！」？\n\n但我說，\n\n我們冷靜理性思考為什麼會有這個結果，怎麼協助台電解決這個問題，我們和孩子們在沉積的高濃度毒性物質中生活，要怎麼解決。\n\n先正視這個問題，這是我錄的一段影片說明我和我的志工怎麼統計分析數據，一般中學以上程度就可看懂，你也可以用我的數字算一次比對。\n\n台中火力發電廠是中彰投PM2.5濃度高的原因。",
+      "ad_creation_time": "2019-12-24T05:44:59+0000",
+      "ad_creative_link_caption": "bit.ly",
+      "ad_creative_link_title": "台中火力發電廠是中彰投PM2.5濃度高的原因",
+      "ad_delivery_start_time": "2019-12-24T05:44:59+0000",
+      "ad_delivery_stop_time": "2019-12-31T05:44:48+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.001063",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000531",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001063",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.255579",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.121679",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.236451",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.142402",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.026036",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.024442",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.038789",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.055792",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.033475",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.04729",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.004782",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.010627",
+          "age": "25-34",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "渝江張",
+      "impressions": {
+        "lower_bound": "2000",
+        "upper_bound": "2999"
+      },
+      "page_id": "1096260013752554",
+      "page_name": "張渝江",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "200",
+        "upper_bound": "299"
+      },
+      "ad_id": "2677851938972665"
+    }
+  },
+  {
+    "選區": "臺中市第四選舉區",
+    "參選人": "張渝江",
+    "AD_ID": "1767285076738607",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-23",
+    "結束日期": "2019-12-25",
+    "廣告內容": "中彰投空氣污染嚴重，經相關研究和我的分析，就是與中火每日發電燃煤有關！ 沒有行動，沒有好空氣， 我們要請求賠償，因空污過敏，生病之支出與損失，為使生活工作的空間PM2.5降至WHO合格標準比如買空氣清淨機等所支付之費用， 請大家支持連署！http://bit.ly/343j59t",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/81788870_1445185742305826_7902218110667587584_n.jpg?_nc_cat=106&_nc_ohc=JC9l3fz8l38AQl3f7q_MTZJ3_kaZYSTdQWpITQwiNMMD0ITYioInc0WJQ&_nc_ht=scontent-hkg3-1.xx&oh=582d293bb93103c972fc251c466ff3bf&oe=5E9F80B3",
+    "廣告詳情": {
+      "ad_creative_body": "中彰投空氣污染嚴重，經相關研究和我的分析，就是與中火每日發電燃煤有關！\n\n沒有行動，沒有好空氣，\n\n我們要請求賠償，因空污過敏，生病之支出與損失，為使生活工作的空間PM2.5降至WHO合格標準比如買空氣清淨機等所支付之費用，\n\n請大家支持連署！\n\nhttp://bit.ly/343j59t",
+      "ad_creation_time": "2019-12-24T05:42:09+0000",
+      "ad_creative_link_caption": "pe-chang.blogspot.com",
+      "ad_creative_link_description": "中彰投空氣污染嚴重 ，經相關研究和我的分析，就是與中火每日發電燃煤有關！ 台電中火係為空污，PM2.5逾WHO標準(10 e-6 gram/cubic meter)之主因。 台灣肺癌罹患率經WHO發現為亞洲第二高 ，國家衛生研究院報告(2018懸浮微粒特徵...",
+      "ad_creative_link_title": "中部空污受害者集體訴訟",
+      "ad_delivery_start_time": "2019-12-24T05:42:09+0000",
+      "ad_delivery_stop_time": "2019-12-26T05:41:57+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.127273",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.163636",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.190909",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.2",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.127273",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.081818",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.045455",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.018182",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.027273",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.009091",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.009091",
+          "age": "55-64",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "渝江張",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "1096260013752554",
+      "page_name": "張渝江",
+      "region_distribution": [
+        {
+          "percentage": "0.027273",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.009091",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.027273",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.063636",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.045455",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.527273",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.054545",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.009091",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.018182",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.036364",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.018182",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.027273",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.009091",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.009091",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.009091",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.009091",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.054545",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.045455",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "1767285076738607"
+    }
+  },
+  {
+    "選區": "臺中市第四選舉區",
+    "參選人": "張渝江",
+    "AD_ID": "297142964535690",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-22",
+    "結束日期": "1970-01-01",
+    "廣告內容": "台中市第4選區民眾黨立委參選人張渝江承租七期辦公大樓內3坪大的共享辦公室當競選總部 記者報導中立，但也是個媽媽的記者對我們提的抗空污與區塊鏈的政見很有感，以下是2019/11/18訪談全文， === 為何你會把競選總部設在辦公大樓裏？ 我們最早是評估租空地放小木屋，因為木屋公司和我先前就有往來，後來因為水電廁所(木屋內有衛浴)時間上不易處理，後來考慮租透天店面和共享空間的辦公室，結果要租的店面成本不會比我們租的共享空間辦公室來得便宜，且我們只是短租，這個商務中心很彈性可租一二個月都行，後來我們在成本與便利性的考量選在這裏，剛好這也是台中七期很有指標性的大樓，雖然我們租的空間只有三坪，但外面看起來還是很體面。 你為什麼會出來競選立委？ 我是台中市土木技師公會的副理事長，我在過去主要是在技師公會內部協助會員開發更多的執業空間，我的經驗是選舉的過程你的聲音會很容易被聽到。台中與台灣我看來有不少核心的問題，但最迫切的是空污與能源政策。台中的空氣從台中火力發電廠開始運轉就開始變差，這曾經是這麼宜居的城市變成我三個小孩每個都過敏，他們這幾年都解決不了這個問題，所以我想我下海來競選是最快能讓大家聽到我的方案快速解決空污的方法，當然我有選上會更快速解決。 你要主的政見是抗空污嗎？為什麼你那麼有信心這空污的問題可以解決？ 對。因為我有專業，不是政治那一種。 台電壟斷台灣的電力市場，資訊不對稱下，你若沒有一定的工程專業，你很難解讀這麼多似是而非的資訊。台電說「沒辦法」就是缺電所以要一直燒煤，因為資訊不對稱所以很難反駁他說的「沒辦法」。但我簡單給你們看一下這二天的用電，這是星期一凌晨和星期一下午四點的用電量，其中你可以發現「燃氣」光是民營的發電量就差4倍(下午是半夜的4倍)，然後火力燃媒一直「尖峰」地燒，為何台電不多用天然氣發電而要「多用」可能致癌的燃媒火力發電？就是他們懶且不想花錢，燒煤的「健康成本是你的」，但燒天然氣的「瓦斯成本是我的」，你無法解讀台電的資訊不對稱露出少少的資料，你「永遠」不能解決問題，因為我是專業的工程技師，這些資料我一眼就可解讀。 我的解決方案是用電動車貯電，平衡尖離峰的用電，把燃煤降下來，等再生能源上來這些貯電的車子可讓風力太陽能更穩定供電，車子本身是賺錢」的，從尖離峰放充電不同的電價去自償，車子給婦幼家庭免費開，謝謝他們生小孩養小孩。 除了空污外你其它主要政見是什麼？ 因為我本身是結構專業，台灣從921 到四川汶川地震到去年花蓮0206地震我都有投入勘災。台灣的房子不耐震，要重建也難中南部對危老重建容積獎勵興趣缺缺，我的方案是擴大危老重建讓容積獎勵可以移轉賣出拿錢來重建，對不耐震的房子可以賣出容積拿錢來補強，核心的問題除了解決房子老舊不耐震外，還增加了樓板的供給，讓房價穩定甚至下跌，實現真正的居住正義。 === #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉，2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #ResetTaiwan #台灣民眾黨 表單2019 on 中部空污受害者集體訴訟登記http://bit.ly/38j3mqc 政見http://bit.ly/36n6AY2 張渝江政見圖示flyerhttp://bit.ly/2qOAgOw 民眾黨後援會line官方帳號，D.TV Martin Lin寫的一個AI，登記參加志工可看到全台活動http://line.me/ti/p/@tppfanshttps://udn.com/vote2020/story/7548/4206002",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80540018_2922513221127215_1754836913165959168_n.jpg?_nc_cat=105&_nc_ohc=AtDefljiApwAQmoCBGMgA4kCQ2q5DhcodbtAOgC0CLryi4CcGA8zU0-zA&_nc_ht=scontent-hkg3-1.xx&oh=57ad154d6cf884487624f3b58c89d722&oe=5EA4D07D",
+    "廣告詳情": {
+      "ad_creative_body": "台中市第4選區民眾黨立委參選人張渝江承租七期辦公大樓內3坪大的共享辦公室當競選總部\n\n記者報導中立，但也是個媽媽的記者對我們提的抗空污與區塊鏈的政見很有感，以下是2019/11/18訪談全文，\n===\n為何你會把競選總部設在辦公大樓裏？\n我們最早是評估租空地放小木屋，因為木屋公司和我先前就有往來，後來因為水電廁所(木屋內有衛浴)時間上不易處理，後來考慮租透天店面和共享空間的辦公室，結果要租的店面成本不會比我們租的共享空間辦公室來得便宜，且我們只是短租，這個商務中心很彈性可租一二個月都行，後來我們在成本與便利性的考量選在這裏，剛好這也是台中七期很有指標性的大樓，雖然我們租的空間只有三坪，但外面看起來還是很體面。\n\n你為什麼會出來競選立委？\n我是台中市土木技師公會的副理事長，我在過去主要是在技師公會內部協助會員開發更多的執業空間，我的經驗是選舉的過程你的聲音會很容易被聽到。台中與台灣我看來有不少核心的問題，但最迫切的是空污與能源政策。台中的空氣從台中火力發電廠開始運轉就開始變差，這曾經是這麼宜居的城市變成我三個小孩每個都過敏，他們這幾年都解決不了這個問題，所以我想我下海來競選是最快能讓大家聽到我的方案快速解決空污的方法，當然我有選上會更快速解決。\n\n你要主的政見是抗空污嗎？為什麼你那麼有信心這空污的問題可以解決？\n對。因為我有專業，不是政治那一種。\n台電壟斷台灣的電力市場，資訊不對稱下，你若沒有一定的工程專業，你很難解讀這麼多似是而非的資訊。台電說「沒辦法」就是缺電所以要一直燒煤，因為資訊不對稱所以很難反駁他說的「沒辦法」。但我簡單給你們看一下這二天的用電，這是星期一凌晨和星期一下午四點的用電量，其中你可以發現「燃氣」光是民營的發電量就差4倍(下午是半夜的4倍)，然後火力燃媒一直「尖峰」地燒，為何台電不多用天然氣發電而要「多用」可能致癌的燃媒火力發電？就是他們懶且不想花錢，燒煤的「健康成本是你的」，但燒天然氣的「瓦斯成本是我的」，你無法解讀台電的資訊不對稱露出少少的資料，你「永遠」不能解決問題，因為我是專業的工程技師，這些資料我一眼就可解讀。\n我的解決方案是用電動車貯電，平衡尖離峰的用電，把燃煤降下來，等再生能源上來這些貯電的車子可讓風力太陽能更穩定供電，車子本身是賺錢」的，從尖離峰放充電不同的電價去自償，車子給婦幼家庭免費開，謝謝他們生小孩養小孩。\n\n除了空污外你其它主要政見是什麼？\n因為我本身是結構專業，台灣從921 到四川汶川地震到去年花蓮0206地震我都有投入勘災。台灣的房子不耐震，要重建也難中南部對危老重建容積獎勵興趣缺缺，我的方案是擴大危老重建讓容積獎勵可以移轉賣出拿錢來重建，對不耐震的房子可以賣出容積拿錢來補強，核心的問題除了解決房子老舊不耐震外，還增加了樓板的供給，讓房價穩定甚至下跌，實現真正的居住正義。\n===\n\n#婦幼補助電動車貯電抗空污\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥\n#西屯區南屯區\n#台中第四選區\n我們捐款來註記這次選舉，2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n\n#ResetTaiwan\n#台灣民眾黨\n表單2019 on 中部空污受害者集體訴訟登記\nhttp://bit.ly/38j3mqc\n\n政見http://bit.ly/36n6AY2\n\n張渝江政見圖示flyer\nhttp://bit.ly/2qOAgOw\n\n民眾黨後援會line官方帳號，D.TV Martin Lin寫的一個AI，登記參加志工可看到全台活動http://line.me/ti/p/@tppfans\n\nhttps://udn.com/vote2020/story/7548/4206002",
+      "ad_creation_time": "2019-12-23T00:13:03+0000",
+      "ad_delivery_start_time": "2019-12-23T00:13:03+0000",
+      "ad_delivery_stop_time": "2019-12-30T00:12:50+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.257813",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.161458",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.075521",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.028646",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.171875",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.088542",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.101563",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.072917",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.023438",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.005208",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.013021",
+          "age": "65+",
+          "gender": "male"
+        }
+      ],
+      "funding_entity": "渝江張",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "1096260013752554",
+      "page_name": "張渝江",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "297142964535690"
+    }
+  },
+  {
+    "選區": "臺中市第四選舉區",
+    "參選人": "張渝江",
+    "AD_ID": "619530332185767",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-23",
+    "結束日期": "1970-01-01",
+    "廣告內容": "台中火力發電廠是中彰投PM2.5濃度高的原因， 經過三個月，我有台大學碩士芝加哥碩士，和我們的志工，有一個博士三五個碩士，在網路上找被政府遮蔽的資料，努力三個月後的結果， 今天我們證實了台中火力發電廠的發電量和中部PM2.5濃度，存在「正相關」 (Pearson correlation coefficient greater than 0 below 1) 我不擅選舉語言，我該說，「你們不要再騙了啦！就是你！還我和孩子的健康來！」？ 但我說， 我們冷靜理性思考為什麼會有這個結果，怎麼協助台電解決這個問題，我們和孩子們在沉積的高濃度毒性物質中生活，要怎麼解決。 先正視這個問題，這是我錄的一段影片說明我和我的志工怎麼統計分析數據，一般中學以上程度就可看懂，你也可以用我的數字算一次比對。 台中火力發電廠是中彰投PM2.5濃度高的原因。",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/81025965_619530338852433_5040618264770641920_n.jpg?_nc_cat=107&_nc_ohc=LVY4WGvoDr0AQnN_VcX65iTEN6WDnkY4_azlxBaLxz0v_eGKyl9jXb9yA&_nc_ht=scontent-hkg3-2.xx&oh=6413d629f351f0bb5bc1b1565e3cce14&oe=5E6EAEBD",
+    "廣告詳情": {
+      "ad_creative_body": "台中火力發電廠是中彰投PM2.5濃度高的原因，\n\n經過三個月，我有台大學碩士芝加哥碩士，和我們的志工，有一個博士三五個碩士，在網路上找被政府遮蔽的資料，努力三個月後的結果，\n\n今天我們證實了台中火力發電廠的發電量和中部PM2.5濃度，存在「正相關」\n(Pearson correlation coefficient greater than 0 below 1)\n\n我不擅選舉語言，我該說，「你們不要再騙了啦！就是你！還我和孩子的健康來！」？\n\n但我說，\n\n我們冷靜理性思考為什麼會有這個結果，怎麼協助台電解決這個問題，我們和孩子們在沉積的高濃度毒性物質中生活，要怎麼解決。\n\n先正視這個問題，這是我錄的一段影片說明我和我的志工怎麼統計分析數據，一般中學以上程度就可看懂，你也可以用我的數字算一次比對。\n\n台中火力發電廠是中彰投PM2.5濃度高的原因。",
+      "ad_creation_time": "2019-12-24T05:43:53+0000",
+      "ad_creative_link_caption": "bit.ly",
+      "ad_creative_link_title": "台中火力發電廠是中彰投PM2.5濃度高的原因",
+      "ad_delivery_start_time": "2019-12-24T05:43:53+0000",
+      "ad_delivery_stop_time": "2019-12-26T05:43:42+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.104",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.224",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.152",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.232",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.096",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.04",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.008",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.032",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.064",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.016",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.032",
+          "age": "18-24",
+          "gender": "male"
+        }
+      ],
+      "funding_entity": "渝江張",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "1096260013752554",
+      "page_name": "張渝江",
+      "region_distribution": [
+        {
+          "percentage": "0.016",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.088",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.056",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.056",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.008",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.008",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.016",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.032",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.008",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.016",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.064",
+          "region": "Hsinchu City"
+        },
+        {
+          "percentage": "0.008",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.424",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.072",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.112",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.016",
+          "region": "Yunlin"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "619530332185767"
+    }
+  },
+  {
+    "選區": "臺中市第四選舉區",
+    "參選人": "張渝江",
+    "AD_ID": "1445185725639161",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-23",
+    "結束日期": "2019-12-25",
+    "廣告內容": "中彰投空氣污染嚴重，經相關研究和我的分析，就是與中火每日發電燃煤有關！ 沒有行動，沒有好空氣， 我們要請求賠償，因空污過敏，生病之支出與損失，為使生活工作的空間PM2.5降至WHO合格標準比如買空氣清淨機等所支付之費用， 請大家支持連署！http://bit.ly/343j59t",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/81788870_1445185742305826_7902218110667587584_n.jpg?_nc_cat=106&_nc_ohc=JC9l3fz8l38AQl3f7q_MTZJ3_kaZYSTdQWpITQwiNMMD0ITYioInc0WJQ&_nc_ht=scontent-hkg3-1.xx&oh=582d293bb93103c972fc251c466ff3bf&oe=5E9F80B3",
+    "廣告詳情": {
+      "ad_creative_body": "中彰投空氣污染嚴重，經相關研究和我的分析，就是與中火每日發電燃煤有關！\n\n沒有行動，沒有好空氣，\n\n我們要請求賠償，因空污過敏，生病之支出與損失，為使生活工作的空間PM2.5降至WHO合格標準比如買空氣清淨機等所支付之費用，\n\n請大家支持連署！\n\nhttp://bit.ly/343j59t",
+      "ad_creation_time": "2019-12-24T05:41:00+0000",
+      "ad_creative_link_caption": "pe-chang.blogspot.com",
+      "ad_creative_link_description": "中彰投空氣污染嚴重 ，經相關研究和我的分析，就是與中火每日發電燃煤有關！ 台電中火係為空污，PM2.5逾WHO標準(10 e-6 gram/cubic meter)之主因。 台灣肺癌罹患率經WHO發現為亞洲第二高 ，國家衛生研究院報告(2018懸浮微粒特徵...",
+      "ad_creative_link_title": "中部空污受害者集體訴訟",
+      "ad_delivery_start_time": "2019-12-24T05:41:00+0000",
+      "ad_delivery_stop_time": "2019-12-31T05:40:45+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.00354",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.230973",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.068142",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.520354",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.123894",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.015929",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.010619",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.004425",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00708",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00531",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.002655",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00708",
+          "age": "45-54",
+          "gender": "male"
+        }
+      ],
+      "funding_entity": "渝江張",
+      "impressions": {
+        "lower_bound": "2000",
+        "upper_bound": "2999"
+      },
+      "page_id": "1096260013752554",
+      "page_name": "張渝江",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "200",
+        "upper_bound": "299"
+      },
+      "ad_id": "1445185725639161"
+    }
+  },
+  {
+    "選區": "臺中市第四選舉區",
+    "參選人": "張渝江",
+    "AD_ID": "441123646771295",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-22",
+    "結束日期": "2019-12-25",
+    "廣告內容": "揹氣球是一個體力活， 那不是一個球而已 還有打氣機，我們Bruce揹完都要貼五塊酸痛藥布 再派老婆和小孩在身上踩一踩 五顆氣球中有一顆是台大生化碩士的志工， 熱情的背負與參與 年輕人是台灣的希望！！ 請給他們一個理性的台灣 我是素人，請多支持我的政見，政見在下面連結 #張渝江政見　http://bit.ly/36n6AY2 ＃張渝江捐款連結　https://epec.work/fp1 #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉 2020民眾黨國會黨團，你的事就是我們的事 #ResetTaiwan #台灣民眾黨",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79810434_2923605451017992_1430103906318286848_n.jpg?_nc_cat=108&_nc_ohc=8hRUMggvrw8AQlV7N8AXt3sJmemdptA3co8YF5ln6VjrFitIxd0TyyZMw&_nc_ht=scontent-hkg3-1.xx&oh=14d28d365aa559689e1631cf6c990148&oe=5EA6B7F1",
+    "廣告詳情": {
+      "ad_creative_body": "揹氣球是一個體力活，\n那不是一個球而已\n還有打氣機，我們Bruce揹完都要貼五塊酸痛藥布\n再派老婆和小孩在身上踩一踩\n\n五顆氣球中有一顆是台大生化碩士的志工，\n熱情的背負與參與\n年輕人是台灣的希望！！\n請給他們一個理性的台灣\n\n我是素人，請多支持我的政見，政見在下面連結\n#張渝江政見　http://bit.ly/36n6AY2\n＃張渝江捐款連結　https://epec.work/fp1\n\n#婦幼補助電動車貯電抗空污\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥\n#西屯區南屯區\n#台中第四選區\n我們捐款來註記這次選舉\n2020民眾黨國會黨團，你的事就是我們的事\n#ResetTaiwan\n#台灣民眾黨",
+      "ad_creation_time": "2019-12-23T00:11:05+0000",
+      "ad_delivery_start_time": "2019-12-23T00:11:05+0000",
+      "ad_delivery_stop_time": "2019-12-30T00:10:51+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.095875",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.16165",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.185061",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.156076",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.054627",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.102564",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.035674",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.040134",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.050167",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.043478",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.037904",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.036789",
+          "age": "65+",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "渝江張",
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "1999"
+      },
+      "page_id": "1096260013752554",
+      "page_name": "張渝江",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "200",
+        "upper_bound": "299"
+      },
+      "ad_id": "441123646771295"
+    }
+  },
+  {
+    "選區": "臺中市第四選舉區",
+    "參選人": "張渝江",
+    "AD_ID": "1354589718055936",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-22",
+    "結束日期": "2019-12-24",
+    "廣告內容": "這是阿北對PM 2.5的看法，藍綠綁架的台中人的悲哀 選藍選綠選不到好空氣，票投五號張渝江，十五號民眾黨 註冊連署抗空污 #柯文哲 這是一場硬仗，我們都要堅持下去 年輕人是台灣的希望！！ 請給他們一個理性的台灣 #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 5號 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉， 2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #ResetTaiwan #台灣民眾黨 Google表單 中部空污受害者集體訴訟登記連署http://bit.ly/38j3mqc fb 中部空污受害者集體訴訟登記http://bit.ly/2LZcaYZ 張渝江政見http://bit.ly/36n6AY2 張渝江政見圖示flyerhttp://bit.ly/2qOAgOw 民眾黨後援會line官方帳號，DTV Martin Lin寫的一個AI，登記參加志工可看到全台活動http://line.me/ti/p/@tppfans",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80470751_2474014466149480_8139325521159782400_n.jpg?_nc_cat=105&_nc_ohc=g06657phmugAQnCteJyfyH3httW0fFbPnPcLvTRHaFb9byPXEev9bChyw&_nc_ht=scontent-hkg3-1.xx&oh=df4393c9aa053712ffa57b5f8e8930f9&oe=5E67C6A5",
+    "廣告詳情": {
+      "ad_creative_body": "這是阿北對PM 2.5的看法，藍綠綁架的台中人的悲哀\n選藍選綠選不到好空氣，票投五號張渝江，十五號民眾黨\n註冊連署抗空污\n\n#柯文哲\n這是一場硬仗，我們都要堅持下去\n\n年輕人是台灣的希望！！\n請給他們一個理性的台灣\n\n#婦幼補助電動車貯電抗空污\n\n#土木技師工程法律財經專業\n\n#立委候選人張渝江章魚哥 5號\n\n#西屯區南屯區\n\n#台中第四選區\n\n我們捐款來註記這次選舉，\n2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n\n#ResetTaiwan\n\n#台灣民眾黨\n\nGoogle表單 中部空污受害者集體訴訟登記連署\nhttp://bit.ly/38j3mqc\n\nfb 中部空污受害者集體訴訟登記\nhttp://bit.ly/2LZcaYZ\n\n張渝江政見\nhttp://bit.ly/36n6AY2\n\n張渝江政見圖示flyer\nhttp://bit.ly/2qOAgOw\n\n民眾黨後援會line官方帳號，DTV Martin Lin寫的一個AI，登記參加志工可看到全台活動\nhttp://line.me/ti/p/@tppfans",
+      "ad_creation_time": "2019-12-23T00:07:11+0000",
+      "ad_creative_link_caption": "http://bit.ly/38j3mqc",
+      "ad_creative_link_title": "市長柯文哲20191025受邀出席修憲論壇活動演說關於空污",
+      "ad_delivery_start_time": "2019-12-23T00:07:11+0000",
+      "ad_delivery_stop_time": "2019-12-30T00:06:59+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000348",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.115746",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.2374",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.043448",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.058047",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.160584",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.289538",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.017032",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.030935",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.014599",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.022245",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.003823",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.005214",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000348",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000695",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "渝江張",
+      "impressions": {
+        "lower_bound": "3000",
+        "upper_bound": "3999"
+      },
+      "page_id": "1096260013752554",
+      "page_name": "張渝江",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "200",
+        "upper_bound": "299"
+      },
+      "ad_id": "1354589718055936"
+    }
+  },
+  {
+    "選區": "臺中市第四選舉區",
+    "參選人": "張渝江",
+    "AD_ID": "469178273741731",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-22",
+    "結束日期": "2019-12-24",
+    "廣告內容": "學姊像是我女兒 柯媽媽是個慈善的長輩 和他聊過天之後，你會理解他如何教養孩子 選舉真的覺得很辛苦，作為一個母親， 看到自己的孩子（柯文哲）這麼辛苦， 真的很不捨 他跟小編説，但是他只能支持孩子的選擇 80多歲的他，膝蓋不好，能做的事他盡量 那怕只能分擔一點點 5號的老闆 你可要爭氣一點 #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥5號 #西屯區南屯區 5號 #台中第四選區 5號 我們捐款來註記這次選舉， 2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #ResetTaiwan #台灣民眾黨 Google表單 中部空污受害者集體訴訟登記連署http://bit.ly/38j3mqc fb 中部空污受害者集體訴訟登記http://bit.ly/2LZcaYZ 張渝江政見http://bit.ly/36n6AY2 張渝江政見圖示flyerhttp://bit.ly/2qOAgOw 民眾黨後援會line官方帳號，DTV Martin Lin寫的一個AI，登記參加志工可看到全台活動http://line.me/ti/p/@tppfans",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/81204439_2642699772620517_3277898974219993088_n.jpg?_nc_cat=110&_nc_ohc=TqSzsubz_fgAQlgrOK5MGTg5XPIOqgCPve2Z7WK15wgz_BXf1PKRVDVvw&_nc_ht=scontent-hkg3-2.xx&oh=d8ed849b9c97e7a32ef4019092693e2f&oe=5E74221C",
+    "廣告詳情": {
+      "ad_creative_body": "學姊像是我女兒\n柯媽媽是個慈善的長輩\n和他聊過天之後，你會理解他如何教養孩子\n\n選舉真的覺得很辛苦，作為一個母親，\n看到自己的孩子（柯文哲）這麼辛苦，\n真的很不捨\n他跟小編説，但是他只能支持孩子的選擇\n80多歲的他，膝蓋不好，能做的事他盡量\n那怕只能分擔一點點\n\n5號的老闆\n你可要爭氣一點\n\n#婦幼補助電動車貯電抗空污\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥5號\n#西屯區南屯區 5號\n#台中第四選區 5號\n\n我們捐款來註記這次選舉，\n2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n\n#ResetTaiwan\n#台灣民眾黨\n\nGoogle表單 中部空污受害者集體訴訟登記連署\nhttp://bit.ly/38j3mqc\n\nfb 中部空污受害者集體訴訟登記\nhttp://bit.ly/2LZcaYZ\n\n張渝江政見\nhttp://bit.ly/36n6AY2\n\n張渝江政見圖示flyer\nhttp://bit.ly/2qOAgOw\n\n民眾黨後援會line官方帳號，DTV Martin Lin寫的一個AI，登記參加志工可看到全台活動\nhttp://line.me/ti/p/@tppfans",
+      "ad_creation_time": "2019-12-23T00:01:14+0000",
+      "ad_creative_link_caption": "epec.work",
+      "ad_delivery_start_time": "2019-12-23T00:01:14+0000",
+      "ad_delivery_stop_time": "2019-12-30T00:00:56+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000536",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000536",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.130901",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.138412",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.116953",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.046674",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.027897",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.03809",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.121245",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.066524",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.073498",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.094957",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.101395",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.042382",
+          "age": "65+",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "渝江張",
+      "impressions": {
+        "lower_bound": "2000",
+        "upper_bound": "2999"
+      },
+      "page_id": "1096260013752554",
+      "page_name": "張渝江",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "200",
+        "upper_bound": "299"
+      },
+      "ad_id": "469178273741731"
+    }
+  },
+  {
+    "選區": "臺中市第四選舉區",
+    "參選人": "張渝江",
+    "AD_ID": "3310970488972946",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-22",
+    "結束日期": "2019-12-24",
+    "廣告內容": "他們斷章說我要把PTT關了， 但它是台灣僅存惟一非國際上市公司的純文字社群平台，它不是要關，它該是轉變成另一個享譽國際的臉書，且不是用教育部的預算， 雖被斷章說要關PTT有一堆人罵我，但我不經意發現也有用心把我的訪談作成逐字稿，很詳細，謝謝大家。 Google表單 中部抗空污集體訴訟登記連署http://bit.ly/38j3mqc fb 中部抗空污集體訴訟登記http://bit.ly/2LZcaYZ #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉，2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #ResetTaiwan #台灣民眾黨 政見http://bit.ly/36n6AY2 張渝江政見圖示flyerhttp://bit.ly/2qOAgOw 民眾黨後援會line官方帳號，DTV Martin Lin寫的一個AI，登記參加志工可看到全台活動http://line.me/ti/p/@tppfanshttps://www.ptt.cc/bbs/HatePolitics/M.1576680288.A.3F8.html",
+    "圖片": "",
+    "廣告詳情": {
+      "ad_creative_body": "他們斷章說我要把PTT關了，\n\n但它是台灣僅存惟一非國際上市公司的純文字社群平台，它不是要關，它該是轉變成另一個享譽國際的臉書，且不是用教育部的預算，\n\n雖被斷章說要關PTT有一堆人罵我，但我不經意發現也有用心把我的訪談作成逐字稿，很詳細，謝謝大家。\n\nGoogle表單 中部抗空污集體訴訟登記連署\nhttp://bit.ly/38j3mqc\nfb 中部抗空污集體訴訟登記\nhttp://bit.ly/2LZcaYZ\n#婦幼補助電動車貯電抗空污\n\n#土木技師工程法律財經專業\n#立委候選人張渝江章魚哥\n#西屯區南屯區\n#台中第四選區\n我們捐款來註記這次選舉，2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n\n#ResetTaiwan\n#台灣民眾黨\n政見http://bit.ly/36n6AY2\n\n張渝江政見圖示flyer\nhttp://bit.ly/2qOAgOw\n\n民眾黨後援會line官方帳號，DTV Martin Lin寫的一個AI，登記參加志工可看到全台活動http://line.me/ti/p/@tppfans\n\nhttps://www.ptt.cc/bbs/HatePolitics/M.1576680288.A.3F8.html",
+      "ad_creation_time": "2019-12-22T23:59:42+0000",
+      "ad_creative_link_caption": "ptt.cc",
+      "ad_creative_link_description": "191101 我家阿北啦TV 張渝江專訪逐字稿 https://www.youtube.com/watch?v=uqiKH6Ij3E8 閱讀本文前以下有幾點告知 1.聽不出來的地方會忽略 2.明顯贅詞，在不影響語意表達時會忽略，不惡意刪減字",
+      "ad_creative_link_title": "[討論] 191101 我家阿北啦TV 張渝江專訪逐字稿",
+      "ad_delivery_start_time": "2019-12-22T23:59:42+0000",
+      "ad_delivery_stop_time": "2019-12-29T23:59:30+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000448",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.163832",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.388093",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.240376",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.021038",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.021486",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.087735",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.015219",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.036705",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.008057",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.004476",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000448",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000448",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.005372",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.005819",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000448",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "渝江張",
+      "impressions": {
+        "lower_bound": "3000",
+        "upper_bound": "3999"
+      },
+      "page_id": "1096260013752554",
+      "page_name": "張渝江",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "200",
+        "upper_bound": "299"
+      },
+      "ad_id": "3310970488972946"
+    }
+  },
+  {
+    "選區": "臺中市第四選舉區",
+    "參選人": "張渝江",
+    "AD_ID": "2500483376938721",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-22",
+    "結束日期": "2019-12-24",
+    "廣告內容": "我是土木技師，專業問政讓沒專業的要更優秀 後選人抽籤的現場 有時候充滿了各種引人注意的技巧 有的人會脫衣服  有的人是奇裝異服 我們用土木技師公會的帽子 呈現我們的專業跟背景跟形象 章魚哥從來不嘩眾取寵 他只是處女座而已 請支持西屯丶南屯區5號候選人張渝江 Google表單 中部空污受害者集體訴訟登記連署http://bit.ly/38j3mqc fb 中部空污受害者集體訴訟登記http://bit.ly/2LZcaYZ #婦幼補助電動車貯電抗空污 #土木技師工程法律財經專業 #立委候選人張渝江章魚哥 #西屯區南屯區 #台中第四選區 我們捐款來註記這次選舉， 2020民眾黨國會黨團，你的事就是我們的事，捐款連結https://epec.work/fp1 #ResetTaiwan #台灣民眾黨 政見http://bit.ly/36n6AY2 張渝江政見圖示flyerhttp://bit.ly/2qOAgOw 民眾黨後援會line官方帳號，DTV Martin Lin寫的一個AI，登記參加志工可看到全台活動http://line.me/ti/p/@tppfans",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80085295_2935604046484799_7922889324406767616_n.jpg?_nc_cat=101&_nc_ohc=4wnx4tL1hWUAQlscAm6_L-o3uF7flrp_-n_fXPF7-zTFNOVFCq6p8OZTA&_nc_ht=scontent-hkg3-1.xx&oh=5bf0edffd11c9eec94e1760f276a179e&oe=5EB42452",
+    "廣告詳情": {
+      "ad_creative_body": "我是土木技師，專業問政讓沒專業的要更優秀\n\n後選人抽籤的現場\n有時候充滿了各種引人注意的技巧\n有的人會脫衣服 \n有的人是奇裝異服\n我們用土木技師公會的帽子\n呈現我們的專業跟背景跟形象\n章魚哥從來不嘩眾取寵\n\n他只是處女座而已\n\n請支持西屯丶南屯區5號候選人張渝江\n\nGoogle表單 中部空污受害者集體訴訟登記連署\nhttp://bit.ly/38j3mqc\n\nfb 中部空污受害者集體訴訟登記\nhttp://bit.ly/2LZcaYZ\n\n#婦幼補助電動車貯電抗空污\n\n#土木技師工程法律財經專業\n\n#立委候選人張渝江章魚哥\n\n#西屯區南屯區\n\n#台中第四選區\n\n我們捐款來註記這次選舉，\n2020民眾黨國會黨團，你的事就是我們的事，捐款連結\nhttps://epec.work/fp1\n\n#ResetTaiwan\n\n#台灣民眾黨\n\n政見\nhttp://bit.ly/36n6AY2\n\n張渝江政見圖示flyer\nhttp://bit.ly/2qOAgOw\n\n民眾黨後援會line官方帳號，DTV Martin Lin寫的一個AI，登記參加志工可看到全台活動\nhttp://line.me/ti/p/@tppfans",
+      "ad_creation_time": "2019-12-22T23:33:40+0000",
+      "ad_delivery_start_time": "2019-12-22T23:33:40+0000",
+      "ad_delivery_stop_time": "2019-12-29T23:33:25+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000893",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.163393",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.1125",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.11875",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.019643",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000893",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.1375",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.020536",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.277679",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.03125",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.052679",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.044643",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.013393",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00625",
+          "age": "65+",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "渝江張",
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "1999"
+      },
+      "page_id": "1096260013752554",
+      "page_name": "張渝江",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taichung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "200",
+        "upper_bound": "299"
+      },
+      "ad_id": "2500483376938721"
     }
   },
   {

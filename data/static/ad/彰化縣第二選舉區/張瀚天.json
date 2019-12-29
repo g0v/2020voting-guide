@@ -2891,17 +2891,7 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000264",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000264",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.0145",
+          "percentage": "0.014497",
           "age": "65+",
           "gender": "female"
         },
@@ -2911,57 +2901,67 @@
           "gender": "unknown"
         },
         {
-          "percentage": "0.155022",
+          "percentage": "0.000264",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000264",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.0398",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.154982",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.313999",
+          "percentage": "0.313917",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.039547",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.26628",
+          "percentage": "0.26621",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.03401",
+          "percentage": "0.034001",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.008437",
+          "percentage": "0.008434",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.105457",
+          "percentage": "0.10543",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.019773",
+          "percentage": "0.019768",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.0174",
+          "percentage": "0.017396",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.012655",
+          "percentage": "0.012652",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.0116",
+          "percentage": "0.011597",
           "age": "55-64",
           "gender": "male"
         }

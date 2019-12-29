@@ -4,7 +4,7 @@ import re
 
 from peewee import fn
 
-from db import Bill, Candidate, Legislator, ManualCandidate, ProposerCosignatory, Sitting, mysql_db
+from db import Bill, Candidate, Legislator, ManualCandidate, ProposerCosignatory, Sitting
 from util import roc_to_common_era
 
 
@@ -97,23 +97,6 @@ def store_bill_proposer_cosignatory():
     ProposerCosignatory.insert_many(data).execute()
 
 
-def update_vernacular():
-    cursor = mysql_db.execute_sql(
-        """SELECT
-        v1.id,
-        v2.bill_no,
-        v2.vernacular
-        FROM
-        (SELECT max(id) id
-        FROM `vernacular`
-        GROUP BY bill_no) v1
-        JOIN vernacular v2 ON v1.id = v2.id"""
-    )
-    for id, billNo, vernacular in cursor.fetchall():
-        print(vernacular.replace("\n", ""))
-        Bill.update(vernacular=vernacular).where(Bill.billNo == billNo).execute()
-
-
 def store_all_candidates():
     def get_county(constituency):
         if constituency[2:5] == "原住民":
@@ -146,5 +129,4 @@ if __name__ == "__main__":
     # update_sitting_rate()
 
     # store_bill_proposer_cosignatory()
-    update_vernacular()
     store_all_candidates()

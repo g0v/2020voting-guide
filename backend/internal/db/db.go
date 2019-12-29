@@ -5,10 +5,12 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/g0v/2020voting-guide/backend/internal/config"
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/mysql" // standard usage
+
+	"github.com/g0v/2020voting-guide/backend/internal/config"
+	"github.com/g0v/2020voting-guide/backend/internal/models"
 )
 
 // MySQL is db object to connect MySQL
@@ -58,6 +60,28 @@ type Bill struct {
 	PdfURL          string `gorm:"column:pdfUrl"`
 	CaseOfAction    string `gorm:"column:caseOfAction"`
 	Vernacular      string
+}
+
+func (b *Bill) ToModelBill(proposerType string) models.Bill {
+	if b.Category == "" {
+		b.Category = "其他"
+	}
+
+	return models.Bill{
+		Name:                  b.Name,
+		BillNo:                b.BillNo,
+		ProposerType:          proposerType,
+		Description:           "",
+		Date:                  b.BillNo[0:3] + "-" + b.BillNo[3:5] + "-" + b.BillNo[5:7],
+		Category:              b.Category,
+		BillOrg:               b.BillOrg,
+		BillProposerString:    b.BillProposer,
+		BillCosignatoryString: b.BillCosignatory,
+		BillStatus:            b.BillStatus,
+		PdfURL:                b.PdfURL,
+		CaseOfAction:          b.CaseOfAction,
+		Vernacular:            b.Vernacular,
+	}
 }
 
 // BillDescription is some description for bill
@@ -110,6 +134,7 @@ type ManualCandidate struct {
 	EducationConnection  string `gorm:"column:educationConn"`
 	ExperienceConnection string `gorm:"column:experienceConn"`
 	PoliticsConnection   string `gorm:"column:politicsConn"`
+	FbPage               string `gorm:"column:fbPage"`
 }
 
 func (ManualCandidate) TableName() string {

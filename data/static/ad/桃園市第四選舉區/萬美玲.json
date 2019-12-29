@@ -5,9 +5,9 @@
     "AD_ID": "527379424517417",
     "登錄為政治廣告": "是",
     "開始日期": "2019-12-21",
-    "結束日期": "1970-01-01",
+    "結束日期": "2019-12-26",
     "廣告內容": "桃園縣第15、16、17屆縣議員 桃園市第1、2屆市議員",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/80972826_527379441184082_2865199866009616384_n.jpg?_nc_cat=105&_nc_ohc=ef-rJ7Dbr0MAQmf8K-1QEzwN1pPj0Yiwk_MLNR_D1Sv1QbcYRg3m3mrkQ&_nc_ht=scontent-hkg3-1.xx&oh=52c42ab072cf44ea8e468ea2c722f5e3&oe=5EA73E84",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/80972826_527379441184082_2865199866009616384_n.jpg?_nc_cat=105&_nc_ohc=ULtjdNb9pOwAQkZQt_SF-8JvbV9IKn3BRyiaWIqBS3jf3SNBJN8XO6LmQ&_nc_ht=scontent-hkg3-1.xx&oh=bdb3b59be38ea5d4d58934a074bc2ee2&oe=5EA73E84",
     "廣告詳情": {
       "ad_creative_body": "桃園縣第15、16、17屆縣議員\n桃園市第1、2屆市議員",
       "ad_creation_time": "2019-12-21T22:37:55+0000",
@@ -19,75 +19,95 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.039072",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.020757",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.169719",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.202686",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.04884",
+          "percentage": "9.9E-5",
           "age": "65+",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.014652",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.257631",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.039072",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.028083",
+          "percentage": "0.026172",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.136752",
-          "age": "55-64",
-          "gender": "male"
+          "percentage": "0.000397",
+          "age": "35-44",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.03663",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.004884",
+          "percentage": "0.005353",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.001221",
+          "percentage": "0.059879",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.030237",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.056608",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.027065",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.156142",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "9.9E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.046991",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.104887",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.225835",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.198077",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.061564",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "9.9E-5",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000496",
           "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "美玲 萬",
       "impressions": {
-        "lower_bound": "0",
-        "upper_bound": "999"
+        "lower_bound": "15000",
+        "upper_bound": "19999"
       },
       "page_id": "119465751469140",
       "page_name": "萬美玲",
@@ -98,8 +118,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "100",
-        "upper_bound": "199"
+        "lower_bound": "2500",
+        "upper_bound": "2999"
       },
       "ad_id": "527379424517417"
     }
@@ -110,9 +130,9 @@
     "AD_ID": "529953590928797",
     "登錄為政治廣告": "是",
     "開始日期": "2019-12-21",
-    "結束日期": "1970-01-01",
+    "結束日期": "2019-12-22",
     "廣告內容": "今天是嘉義同鄉會一年一度的會員大會，我是嘉義水上鄕的女兒，在現場有2000多位鄉親全力力挺美玲當選立委，創會長黃主文部長也說：「嘉義人就是要挺嘉義的女兒，一定要送美玲進國會！」 特別感謝陳建安理事長、輔導理事長陳萬得，以及榮譽理事長侯科男、章平祥、何良鴻、何大俊、柳楷書、劉八郎、張棟樑的支持，給美玲最大的信心，我們團結一致往勝利邁進。",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79744335_2773747939374228_7630819771478441984_n.jpg?_nc_cat=102&_nc_ohc=OFf3DchY25IAQkyK1FSkEwF0ThI9TibJqa6tHCfk20gr63Trx0u3pCDAg&_nc_ht=scontent-hkg3-1.xx&oh=3597a57cac15e348b0ff2e04a5544ee2&oe=5EB30F14",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79744335_2773747939374228_7630819771478441984_n.jpg?_nc_cat=102&_nc_ohc=V-stdrdbO4AAQkm0Is-Bl2zeReSxcLiigD9374Vt8URfyUS7U6EaBBChA&_nc_ht=scontent-hkg3-1.xx&oh=9f82c5cccd8307d7d81550435d09d47c&oe=5EB30F14",
     "廣告詳情": {
       "ad_creative_body": "今天是嘉義同鄉會一年一度的會員大會，我是嘉義水上鄕的女兒，在現場有2000多位鄉親全力力挺美玲當選立委，創會長黃主文部長也說：「嘉義人就是要挺嘉義的女兒，一定要送美玲進國會！」\n\n特別感謝陳建安理事長、輔導理事長陳萬得，以及榮譽理事長侯科男、章平祥、何良鴻、何大俊、柳楷書、劉八郎、張棟樑的支持，給美玲最大的信心，我們團結一致往勝利邁進。",
       "ad_creation_time": "2019-12-21T13:59:08+0000",
@@ -121,70 +141,75 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.114462",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.104866",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.017135",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.248115",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.114805",
+          "percentage": "0.113434",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.078478",
+          "percentage": "0.242508",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.236369",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.01681",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.094431",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.082006",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.242289",
-          "age": "45-54",
-          "gender": "male"
+          "percentage": "0.130975",
+          "age": "55-64",
+          "gender": "female"
         },
         {
-          "percentage": "0.024332",
+          "percentage": "0.023388",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.053119",
+          "percentage": "0.056863",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.001714",
+          "percentage": "0.002631",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.000343",
+          "percentage": "0.000292",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000343",
+          "percentage": "0.000146",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000146",
           "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "美玲 萬",
       "impressions": {
-        "lower_bound": "3000",
-        "upper_bound": "3999"
+        "lower_bound": "7000",
+        "upper_bound": "7999"
       },
       "page_id": "119465751469140",
       "page_name": "萬美玲",
@@ -195,8 +220,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "400",
-        "upper_bound": "499"
+        "lower_bound": "1000",
+        "upper_bound": "1499"
       },
       "ad_id": "529953590928797"
     }
@@ -209,7 +234,7 @@
     "開始日期": "2019-12-20",
     "結束日期": "2019-12-21",
     "廣告內容": "萬美玲姐姐的大型氣墊城堡在12/21、12/22兩天來到中正公園了！ 現場有6座大型氣墊滑梯、城堡跳跳床等遊樂設施，一定會讓小寶貝們嗨翻天，各位爸爸媽媽準備好帶家裡的小寶貝一起來Happy喔！ 12/21還有momo家族的哈密瓜哥哥及糖果姐姐歡樂帶動跳，歡迎各位爸爸媽媽帶著孩子來中正公園享受一個親子同樂的週末。 #桃園富足孩子幸福 #孩子的未來你我的希望",
-    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/80197901_2771253559623666_8230169912035770368_n.jpg?_nc_cat=107&_nc_ohc=r-fyiSpDK8UAQljUpPXIu0zTDUQh2efN8EWvxZCG0LRftXIp7BwA5pzUg&_nc_ht=scontent-hkg3-2.xx&oh=44c51c14794aed464de4b3a3d1f58b81&oe=5E67179B",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/80197901_2771253559623666_8230169912035770368_n.jpg?_nc_cat=107&_nc_ohc=9hbr0pKB2YcAQkxprDLq4IRtgLz5eVCD4uHx7xCSVcI95UFtG3G53tuEA&_nc_ht=scontent-hkg3-2.xx&oh=2beb9b8281ecd0296a68b7ef210e6276&oe=5E67179B",
     "廣告詳情": {
       "ad_creative_body": "萬美玲姐姐的大型氣墊城堡在12/21、12/22兩天來到中正公園了！\n\n現場有6座大型氣墊滑梯、城堡跳跳床等遊樂設施，一定會讓小寶貝們嗨翻天，各位爸爸媽媽準備好帶家裡的小寶貝一起來Happy喔！\n\n12/21還有momo家族的哈密瓜哥哥及糖果姐姐歡樂帶動跳，歡迎各位爸爸媽媽帶著孩子來中正公園享受一個親子同樂的週末。\n\n#桃園富足孩子幸福\n#孩子的未來你我的希望",
       "ad_creation_time": "2019-12-20T22:34:33+0000",
@@ -309,9 +334,9 @@
     "AD_ID": "3195273067155949",
     "登錄為政治廣告": "是",
     "開始日期": "2019-12-21",
-    "結束日期": "1970-01-01",
+    "結束日期": "2019-12-26",
     "廣告內容": "桃園縣第15、16、17屆縣議員 桃園市第1、2屆市議員",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/80972826_527379441184082_2865199866009616384_n.jpg?_nc_cat=105&_nc_ohc=ef-rJ7Dbr0MAQmf8K-1QEzwN1pPj0Yiwk_MLNR_D1Sv1QbcYRg3m3mrkQ&_nc_ht=scontent-hkg3-1.xx&oh=52c42ab072cf44ea8e468ea2c722f5e3&oe=5EA73E84",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/80972826_527379441184082_2865199866009616384_n.jpg?_nc_cat=105&_nc_ohc=ULtjdNb9pOwAQkZQt_SF-8JvbV9IKn3BRyiaWIqBS3jf3SNBJN8XO6LmQ&_nc_ht=scontent-hkg3-1.xx&oh=bdb3b59be38ea5d4d58934a074bc2ee2&oe=5EA73E84",
     "廣告詳情": {
       "ad_creative_body": "桃園縣第15、16、17屆縣議員\n桃園市第1、2屆市議員",
       "ad_creation_time": "2019-12-20T22:26:21+0000",
@@ -323,65 +348,70 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.232816",
+          "percentage": "0.05654",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.220708",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.229564",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.046563",
+          "percentage": "0.003406",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.143733",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.029292",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.281596",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.119734",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.02439",
+          "percentage": "0.03406",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.16408",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.015521",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.013304",
+          "percentage": "0.050409",
           "age": "65+",
-          "gender": "female"
+          "gender": "male"
         },
         {
-          "percentage": "0.031042",
+          "percentage": "0.132834",
           "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.025886",
+          "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.031042",
+          "percentage": "0.04564",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.039911",
+          "percentage": "0.027929",
           "age": "65+",
-          "gender": "male"
+          "gender": "female"
         }
       ],
       "funding_entity": "美玲 萬",
       "impressions": {
-        "lower_bound": "0",
-        "upper_bound": "999"
+        "lower_bound": "1000",
+        "upper_bound": "1999"
       },
       "page_id": "119465751469140",
       "page_name": "萬美玲",
@@ -392,10 +422,985 @@
         }
       ],
       "spend": {
-        "lower_bound": "0",
-        "upper_bound": "99"
+        "lower_bound": "200",
+        "upper_bound": "299"
       },
       "ad_id": "3195273067155949"
+    }
+  },
+  {
+    "選區": "桃園市第四選舉區",
+    "參選人": "萬美玲",
+    "AD_ID": "450236032585692",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-22",
+    "結束日期": "2019-12-23",
+    "廣告內容": "今天是我在後站大樹林競選總部成立大會，謝謝現場非常多的鄉親好朋友擠滿了延平公園來為我加油。 感謝主任委員副議長李曉鐘、後援會會長蘇家明、前代表會主席楊春風、游財登，大樹林總部後援會會長簡士強里長及副會長牛阡源、徐揚帆、鄭西元、彭俊衡、李瑞航里長的全力支持。 後站因為鐵路地下化工程延宕，造成前後站發展不均，未來我到立法院後，一定要強力監督工程進度，最重要的是把看得到、用得到的經費爭取回來，讓工程早日完成，讓後站大樹林地區能夠迅速發展。 #4號萬美玲勢在必行一定贏 #教育不能亂建設不能慢",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/80315625_2775847202497635_1194468355348627456_n.jpg?_nc_cat=110&_nc_ohc=dxTJ_ORdIWsAQlTVH0BTmqLZ2RsLjUrFcXom_N0wf1OKPcDsY4ZmbdQbA&_nc_ht=scontent-hkg3-2.xx&oh=d5f975ab1d240899d769aee26ac4c69e&oe=5EA2CC15",
+    "廣告詳情": {
+      "ad_creative_body": "今天是我在後站大樹林競選總部成立大會，謝謝現場非常多的鄉親好朋友擠滿了延平公園來為我加油。\n\n感謝主任委員副議長李曉鐘、後援會會長蘇家明、前代表會主席楊春風、游財登，大樹林總部後援會會長簡士強里長及副會長牛阡源、徐揚帆、鄭西元、彭俊衡、李瑞航里長的全力支持。\n\n後站因為鐵路地下化工程延宕，造成前後站發展不均，未來我到立法院後，一定要強力監督工程進度，最重要的是把看得到、用得到的經費爭取回來，讓工程早日完成，讓後站大樹林地區能夠迅速發展。\n\n#4號萬美玲勢在必行一定贏\n#教育不能亂建設不能慢",
+      "ad_creation_time": "2019-12-22T09:33:40+0000",
+      "ad_delivery_start_time": "2019-12-22T09:33:40+0000",
+      "ad_delivery_stop_time": "2019-12-23T09:33:28+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.102586",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.057414",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.038276",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.087586",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.188966",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.213448",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.186034",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.026724",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.018621",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.070345",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.004138",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.005172",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000345",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000172",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000172",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "美玲 萬",
+      "impressions": {
+        "lower_bound": "6000",
+        "upper_bound": "6999"
+      },
+      "page_id": "119465751469140",
+      "page_name": "萬美玲",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taoyuan City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "450236032585692"
+    }
+  },
+  {
+    "選區": "桃園市第四選舉區",
+    "參選人": "萬美玲",
+    "AD_ID": "1780156652120616",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-23",
+    "結束日期": "2019-12-24",
+    "廣告內容": "12/24早上8：30，謝龍介要來陪美玲到力行市場向大家請託，歡迎大家一起來幫美玲加油，也來逛逛有很多好吃、好買的力行市場，幫在地攤商拼業績！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/81136624_2777826905632998_6249206896335519744_n.jpg?_nc_cat=100&_nc_ohc=fRtSRq10of0AQn7AMOkLorpmDwzMRDT6A8UW6CMKV9YePvopPp7C0xGOw&_nc_ht=scontent-hkg3-1.xx&oh=efb0cfd62362dfb18c59fc62eb663789&oe=5EB30D87",
+    "廣告詳情": {
+      "ad_creative_body": "12/24早上8：30，謝龍介要來陪美玲到力行市場向大家請託，歡迎大家一起來幫美玲加油，也來逛逛有很多好吃、好買的力行市場，幫在地攤商拼業績！",
+      "ad_creation_time": "2019-12-23T09:22:45+0000",
+      "ad_delivery_start_time": "2019-12-23T09:22:45+0000",
+      "ad_delivery_stop_time": "2019-12-24T09:22:31+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.243813",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.145233",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.262475",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.081542",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.02069",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.102231",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.022515",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.058215",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.059026",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.003245",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000406",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000406",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000203",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "美玲 萬",
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "page_id": "119465751469140",
+      "page_name": "萬美玲",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taoyuan City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "700",
+        "upper_bound": "799"
+      },
+      "ad_id": "1780156652120616"
+    }
+  },
+  {
+    "選區": "桃園市第四選舉區",
+    "參選人": "萬美玲",
+    "AD_ID": "555282028355356",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-24",
+    "結束日期": "2019-12-25",
+    "廣告內容": "【選戰倒數17天】 桃園區婦女後援會成立！ 這份溫柔而堅定的力量，大家一起站出來，只為了能給長輩好的退休生活，讓孩子免於敎改的壓力，快樂成長，讓年輕人有競爭力，看的到未來。 歡迎妳也一起加入我們的行列！ #桃園富足孩子幸福 #敎育不能亂建設不能慢",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80278321_2781451675270521_1488432061868933120_n.jpg?_nc_cat=106&_nc_ohc=NaIlgyXs9egAQn3BiYPMabm3qP7o-P_AIlrBs9UnAv6vsb19jSSCHAEBQ&_nc_ht=scontent-hkg3-1.xx&oh=c67d6de5544cb73e93cb80d21461563d&oe=5E6AFD47",
+    "廣告詳情": {
+      "ad_creative_body": "【選戰倒數17天】\n桃園區婦女後援會成立！\n這份溫柔而堅定的力量，大家一起站出來，只為了能給長輩好的退休生活，讓孩子免於敎改的壓力，快樂成長，讓年輕人有競爭力，看的到未來。\n\n歡迎妳也一起加入我們的行列！\n\n#桃園富足孩子幸福\n#敎育不能亂建設不能慢",
+      "ad_creation_time": "2019-12-24T22:41:12+0000",
+      "ad_delivery_start_time": "2019-12-24T22:41:12+0000",
+      "ad_delivery_stop_time": "2019-12-25T22:41:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.097129",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.098502",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.009363",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.184769",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.148439",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.034457",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.06779",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.022097",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.054682",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.216604",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.0598",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.005493",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000499",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00025",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000125",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "美玲 萬",
+      "impressions": {
+        "lower_bound": "9000",
+        "upper_bound": "9999"
+      },
+      "page_id": "119465751469140",
+      "page_name": "萬美玲",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taoyuan City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "555282028355356"
+    }
+  },
+  {
+    "選區": "桃園市第四選舉區",
+    "參選人": "萬美玲",
+    "AD_ID": "2454953284821693",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-24",
+    "結束日期": "2019-12-25",
+    "廣告內容": "剛剛結束了一天的行程，今晚是平安夜，祝福大家平安喜樂！ 聖誕節快樂 Merry Christmas",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/80451247_2780587878690234_2130705113445040128_n.jpg?_nc_cat=110&_nc_ohc=NRlTjpooXXgAQlUoZwk1MiUk97pbnOXuHSYTom7sovHleEEErC9XPAq9g&_nc_ht=scontent-hkg3-2.xx&oh=a9ef33fb5ec4c6fe8530c8d44009529a&oe=5E696BEE",
+    "廣告詳情": {
+      "ad_creative_body": "剛剛結束了一天的行程，今晚是平安夜，祝福大家平安喜樂！\n\n聖誕節快樂\nMerry Christmas",
+      "ad_creation_time": "2019-12-24T13:55:22+0000",
+      "ad_delivery_start_time": "2019-12-24T13:55:22+0000",
+      "ad_delivery_stop_time": "2019-12-25T13:55:07+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.006065",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.005351",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000357",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000357",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.24224",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.104174",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.058152",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.252943",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.018552",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.099179",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.104174",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.019622",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.02533",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.063503",
+          "age": "65+",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "美玲 萬",
+      "impressions": {
+        "lower_bound": "3000",
+        "upper_bound": "3999"
+      },
+      "page_id": "119465751469140",
+      "page_name": "萬美玲",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taoyuan City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "2454953284821693"
+    }
+  },
+  {
+    "選區": "桃園市第四選舉區",
+    "參選人": "萬美玲",
+    "AD_ID": "523868881671162",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-24",
+    "結束日期": "2019-12-25",
+    "廣告內容": "【選戰倒數18天】 今天早上謝龍介陪美玲掃力行市場，現場攤商和買菜的民眾非常支持，凍蒜聲不斷，足足走了三個小時才結束這場熱情的市場請託行程。 謝龍介說，市場是地方脈動的情報站，他向來最了解市場，今天看到力行市場人氣這麼高、互動這麼熱絡，就知道美玲18年來深耕基層非常紮實。 大家一起做最後衝刺，贏得最後的勝利，讓敎育不亂、孩子有未來，讓建設不慢、桃園有發展！",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/80094988_2780160002066355_5813441172340736000_n.jpg?_nc_cat=111&_nc_ohc=NAq-aY2QzN4AQkGSW5UOe-ywZbGPjOjzwli5rALiCFWu-4UsVgpQbr2Uw&_nc_ht=scontent-hkg3-2.xx&oh=3c7cab4172c250ae995ed8d041e81c88&oe=5E662A79",
+    "廣告詳情": {
+      "ad_creative_body": "【選戰倒數18天】\n今天早上謝龍介陪美玲掃力行市場，現場攤商和買菜的民眾非常支持，凍蒜聲不斷，足足走了三個小時才結束這場熱情的市場請託行程。\n\n謝龍介說，市場是地方脈動的情報站，他向來最了解市場，今天看到力行市場人氣這麼高、互動這麼熱絡，就知道美玲18年來深耕基層非常紮實。\n\n大家一起做最後衝刺，贏得最後的勝利，讓敎育不亂、孩子有未來，讓建設不慢、桃園有發展！",
+      "ad_creation_time": "2019-12-24T09:29:18+0000",
+      "ad_delivery_start_time": "2019-12-24T09:29:18+0000",
+      "ad_delivery_stop_time": "2019-12-25T09:28:57+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000133",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "6.7E-5",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.050473",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.142086",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.124083",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.190025",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.058608",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.176424",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.037138",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.019603",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.05334",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.108948",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.033004",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.005467",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000533",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "6.7E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "美玲 萬",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "119465751469140",
+      "page_name": "萬美玲",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taoyuan City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "523868881671162"
+    }
+  },
+  {
+    "選區": "桃園市第四選舉區",
+    "參選人": "萬美玲",
+    "AD_ID": "2433299656781932",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-25",
+    "結束日期": "2019-12-26",
+    "廣告內容": "【選戰倒數16天】 早晨美玲在路口向上班上學的民眾問好，拜託大家全力支持，祝福大家行車平安事事如意！ #4在必行一定贏 #教育不能亂建設不能慢",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/81107550_2784019478347074_6504075285086863360_n.jpg?_nc_cat=104&_nc_ohc=hPOrdiakYfgAQkP6HtzzbFjlfxANjCoe25AMqatSWjRlng5_1E1wXoMSQ&_nc_ht=scontent-hkg3-1.xx&oh=3966014324c2c11baf512b7e1bf6bef6&oe=5EA6D285",
+    "廣告詳情": {
+      "ad_creative_body": "【選戰倒數16天】\n早晨美玲在路口向上班上學的民眾問好，拜託大家全力支持，祝福大家行車平安事事如意！\n\n#4在必行一定贏\n#教育不能亂建設不能慢",
+      "ad_creation_time": "2019-12-25T23:52:57+0000",
+      "ad_delivery_start_time": "2019-12-25T23:52:57+0000",
+      "ad_delivery_stop_time": "2019-12-26T23:52:41+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.159533",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.074752",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.234905",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.093672",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.198201",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.053557",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.074442",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.056658",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.020161",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.021712",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.008478",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002998",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000414",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00031",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000103",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000103",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "美玲 萬",
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "119465751469140",
+      "page_name": "萬美玲",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taoyuan City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "2433299656781932"
+    }
+  },
+  {
+    "選區": "桃園市第四選舉區",
+    "參選人": "萬美玲",
+    "AD_ID": "452309705693365",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-26",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【龍介仙的台語教室】 我的媽媽是雲林人，我的爸爸是江西老兵，我在嘉義出生，因為從小在眷村長大，沒有什麼機會講台語，所以也說的不輪轉，這次難得有機會向台語超厲害的謝龍介來請教，大家幫我看看有沒有進步一點了呢… 我這個「芋仔番薯」，真的很感謝大家多年的支持，讓我能夠連任五屆的議員，我很珍惜感恩這份信任和託付，沒有族群的隔閡，沒有身份的差別，更沒有顔色的差別，每一個人都是我最在乎的好朋友！",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/81264372_452309715693364_1549261417394208768_n.jpg?_nc_cat=111&_nc_ohc=RTDfM4guM2YAQmBXX3jqzHb_qwqZsXPZZzGWKUDSqIq18SK1_jzpgwlSg&_nc_ht=scontent-hkg3-2.xx&oh=95159cd63f6b758e81ad2854cb3f39fe&oe=5E66D954",
+    "廣告詳情": {
+      "ad_creative_body": "【龍介仙的台語教室】\n我的媽媽是雲林人，我的爸爸是江西老兵，我在嘉義出生，因為從小在眷村長大，沒有什麼機會講台語，所以也說的不輪轉，這次難得有機會向台語超厲害的謝龍介來請教，大家幫我看看有沒有進步一點了呢…\n\n我這個「芋仔番薯」，真的很感謝大家多年的支持，讓我能夠連任五屆的議員，我很珍惜感恩這份信任和託付，沒有族群的隔閡，沒有身份的差別，更沒有顔色的差別，每一個人都是我最在乎的好朋友！",
+      "ad_creation_time": "2019-12-26T10:54:22+0000",
+      "ad_creative_link_title": "【龍介仙的台語教室】",
+      "ad_delivery_start_time": "2019-12-26T10:54:22+0000",
+      "ad_delivery_stop_time": "2019-12-29T10:54:10+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.019235",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.214902",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.281008",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.078046",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.030069",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.049525",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000442",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.016803",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.038249",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.191908",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.070086",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00398",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.003759",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001548",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000221",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000221",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "美玲 萬",
+      "impressions": {
+        "lower_bound": "4000",
+        "upper_bound": "4999"
+      },
+      "page_id": "119465751469140",
+      "page_name": "萬美玲",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taoyuan City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "300",
+        "upper_bound": "399"
+      },
+      "ad_id": "452309705693365"
+    }
+  },
+  {
+    "選區": "桃園市第四選舉區",
+    "參選人": "萬美玲",
+    "AD_ID": "2922792714421947",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-25",
+    "結束日期": "1970-01-01",
+    "廣告內容": "萬美玲姐姐的大型氣墊城堡在12/28、12/29兩天來到風禾公園了！ 現場有6座大型氣墊滑梯、城堡跳跳床等遊樂設施，12/28還有犀牛劇團-地球保衛戰演出，歡迎各位爸爸媽媽帶著孩子來風禾公園享受一個親子同樂的週末。 #桃園富足孩子幸福 #孩子的未來你我的希望",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80803211_2784533568295665_5918875979438096384_n.jpg?_nc_cat=106&_nc_ohc=rD5kQK7NUgYAQkRfG4HCZWeHcQ8kV2RrREW1t7cxn40_lQq_N1fOYKC2Q&_nc_ht=scontent-hkg3-1.xx&oh=6327f2435417cc12ad1989b176687c8a&oe=5E69E28A",
+    "廣告詳情": {
+      "ad_creative_body": "萬美玲姐姐的大型氣墊城堡在12/28、12/29兩天來到風禾公園了！\n\n現場有6座大型氣墊滑梯、城堡跳跳床等遊樂設施，12/28還有犀牛劇團-地球保衛戰演出，歡迎各位爸爸媽媽帶著孩子來風禾公園享受一個親子同樂的週末。\n\n#桃園富足孩子幸福\n#孩子的未來你我的希望",
+      "ad_creation_time": "2019-12-26T07:18:08+0000",
+      "ad_delivery_start_time": "2019-12-26T07:18:08+0000",
+      "ad_delivery_stop_time": "2019-12-29T07:17:54+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.114683",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.246161",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.059021",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.241363",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.088292",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.025432",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.03167",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.117562",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.071017",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.004798",
+          "age": "25-34",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "美玲 萬",
+      "impressions": {
+        "lower_bound": "2000",
+        "upper_bound": "2999"
+      },
+      "page_id": "119465751469140",
+      "page_name": "萬美玲",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taoyuan City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "300",
+        "upper_bound": "399"
+      },
+      "ad_id": "2922792714421947"
+    }
+  },
+  {
+    "選區": "桃園市第四選舉區",
+    "參選人": "萬美玲",
+    "AD_ID": "535367020384121",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-25",
+    "結束日期": "1970-01-01",
+    "廣告內容": "珍惜每一個託付，十八年不曾改變，謝謝你們的肯定，未來，我會繼續努力，做的更多，做的更好！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81405791_2780138825357558_5507133115631403008_n.jpg?_nc_cat=100&_nc_ohc=qY6rsTBkHn8AQnVnu80iaxa_dP58vA842aA92tSU67mJudlxUaArTFaiQ&_nc_ht=scontent-hkg3-1.xx&oh=25112dba15e749c75477df713ff05efe&oe=5E660C73",
+    "廣告詳情": {
+      "ad_creative_body": "珍惜每一個託付，十八年不曾改變，謝謝你們的肯定，未來，我會繼續努力，做的更多，做的更好！",
+      "ad_creation_time": "2019-12-26T02:06:44+0000",
+      "ad_creative_link_title": "那些年的 萬美玲",
+      "ad_delivery_start_time": "2019-12-26T02:06:44+0000",
+      "ad_delivery_stop_time": "2019-12-28T02:06:33+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.061392",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.139154",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.180082",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.141883",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.314461",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000682",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.010232",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.107094",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.019782",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.015689",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.005457",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002046",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002046",
+          "age": "18-24",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "美玲 萬",
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "1999"
+      },
+      "page_id": "119465751469140",
+      "page_name": "萬美玲",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taoyuan City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "199"
+      },
+      "ad_id": "535367020384121"
     }
   }
 ]

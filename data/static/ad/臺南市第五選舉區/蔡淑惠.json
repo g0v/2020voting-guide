@@ -1,0 +1,125 @@
+[
+  {
+    "選區": "臺南市第五選舉區",
+    "參選人": "蔡淑惠",
+    "AD_ID": "534084977178455",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-22",
+    "結束日期": "1970-01-01",
+    "廣告內容": "10000個日子，從政的歷程到現在 連任7屆台南市議員 累積的歲月數字、究竟是怎麼樣的一個心境 讓淑惠用影像來跟你們說 也請親愛的朋友們幫我大力轉發 明年1/11跟淑惠一起努力 #台南市第五選區立法委員候選人蔡淑惠  #幸福不等待 #改變趁現在",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81009708_534084987178454_9159156864120782848_n.jpg?_nc_cat=100&_nc_ohc=xTBgQrnVsqoAQn7y7WIqua9jC0yPFZ93ho7m9fHVIdHNx5h_gZ5SsQHPw&_nc_ht=scontent-hkg3-1.xx&oh=90739a78fed5cc1a2da6f85ad9860f4c&oe=5EAFA06C",
+    "廣告詳情": {
+      "ad_creative_body": "10000個日子，從政的歷程到現在\n連任7屆台南市議員\n累積的歲月數字、究竟是怎麼樣的一個心境\n讓淑惠用影像來跟你們說\n也請親愛的朋友們幫我大力轉發\n明年1/11跟淑惠一起努力\n#台南市第五選區立法委員候選人蔡淑惠 \n#幸福不等待 #改變趁現在",
+      "ad_creation_time": "2019-12-22T18:34:52+0000",
+      "ad_creative_link_title": "走過10000個日子,接下來我們一起努力",
+      "ad_delivery_start_time": "2019-12-22T18:34:52+0000",
+      "ad_delivery_stop_time": "2019-12-29T18:30:11+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.133966",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.040388",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000441",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000441",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000441",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000662",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.010594",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.024939",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.05341",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.18539",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.083646",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.067535",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.053851",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.012139",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.193997",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.137939",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000221",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "邦瑜陳",
+      "impressions": {
+        "lower_bound": "6000",
+        "upper_bound": "6999"
+      },
+      "page_id": "1342400169240057",
+      "page_name": "蔡淑惠",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Tainan"
+        }
+      ],
+      "spend": {
+        "lower_bound": "600",
+        "upper_bound": "699"
+      },
+      "ad_id": "534084977178455"
+    }
+  }
+]

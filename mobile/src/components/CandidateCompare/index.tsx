@@ -1,6 +1,5 @@
 import React from 'react';
-import { Link, Box, Card, IconButton } from '@material-ui/core';
-import CloseIcon from '@material-ui/icons/Close';
+import { Link, Box, Card } from '@material-ui/core';
 import Typography from '@material-ui/core/Typography';
 import KeyboardArrowLeft from '@material-ui/icons/KeyboardArrowLeft';
 import CandidateCompareCardHeader from './CandidateCompareCardHeader';
@@ -10,7 +9,6 @@ import CandidateCompareCardIssueBill from './CandidateCompareCardIssueBill';
 import CandidateCompareCardEducation from './CandidateCompareCardEducation';
 import CandidateCompareCardPolitical from './CandidateCompareCardPolitical';
 import CandidateCompareCardHeaderFixed from './CandidateCompareCardHeaderFixed';
-import DeleteButton from './DeleteButton';
 import clsx from 'clsx';
 import './CandidateCompare.scss';
 
@@ -21,6 +19,7 @@ interface Route {
         params: {
             constituency: string;
             names: string;
+            county: string;
         };
     };
 }
@@ -29,7 +28,7 @@ interface Route {
  * 不分區候選人比較
  */
 const CandidateCompare = ({ match }: Route) => {
-    const { constituency, names } = match.params;
+    const { county, constituency, names } = match.params;
     const [candidateNames, setCandidateNames] = React.useState<string[]>(
         names.split(',')
     );
@@ -53,8 +52,11 @@ const CandidateCompare = ({ match }: Route) => {
         const swiper = new window.Swiper(swiperContainer.current, {
             slidesPerView: 'auto',
             freeMode: true,
+            scrollbarHide: false,
+            // mousewheel: true,
             scrollbar: {
-                el: '.swiper-scrollbar'
+                el: '.swiper-scrollbar',
+                draggable: true
             },
             on: {
                 transitionStart() {
@@ -115,7 +117,7 @@ const CandidateCompare = ({ match }: Route) => {
             <Box m={1} className="page-candidate-compare-nav">
                 <Box display="flex" alignItems="center" my={1}>
                     <Link
-                        href={`/regional/台北市/${constituency}?select=${names}`}
+                        href={`/regional/${county}/${constituency}?select=${names}`}
                     >
                         <KeyboardArrowLeft fontSize="large" />
                     </Link>
@@ -155,6 +157,14 @@ const CandidateCompare = ({ match }: Route) => {
                                     />
                                 );
                             })}
+                            <div className="candidate-compare-card">
+                                <a
+                                    className="btn btn-rounded candidate-compare-add-btn"
+                                    href={`/regional/${county}/${constituency}?select=${names}`}
+                                >
+                                    +
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -210,7 +220,7 @@ const CandidateCompare = ({ match }: Route) => {
                         <div className="candidate-compare-card">
                             <a
                                 className="btn btn-rounded candidate-compare-add-btn"
-                                href={`/regional/台北市/${constituency}?select=${names}`}
+                                href={`/regional/${county}/${constituency}?select=${names}`}
                             >
                                 +
                             </a>
