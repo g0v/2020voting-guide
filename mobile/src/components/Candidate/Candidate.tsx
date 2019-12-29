@@ -117,7 +117,7 @@ const CandidatePage = ({ match }: CandidatePage) => {
 
     const [candidate, setCandidate] = useState<CandidateType>(CandidateDefault);
     const [bills, setBills] = useState<Bill[]>([]);
-    const isRegional = constituency !== '不分區';
+    const isRegional = constituency !== undefined;
 
     const billsURL = isRegional
         ? `/api/bills/${constituency}/${name}`
@@ -136,6 +136,7 @@ const CandidatePage = ({ match }: CandidatePage) => {
             const candidate = candidateList.find(
                 candidate => candidate.name === name
             );
+            console.log(candidate);
             setCandidate(candidate || CandidateDefault);
         }
     }, [name, constituency]);

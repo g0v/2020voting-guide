@@ -17,10 +17,6 @@ import VernacularPage from './components/Vernacular/VernacularPage';
 import About from './components/About';
 import CandidateCompare from './components/CandidateCompare';
 
-interface State {
-    visible: boolean;
-}
-
 const App = () => {
     const [open, setOpen] = React.useState(false);
 
@@ -39,6 +35,10 @@ const App = () => {
               <Switch>
                   <Route exact path="/" component={Home} />
                   <Route path="/parties" component={PartyCandidates} />
+                  <Route
+                      path="/party/:party/candidate/:name"
+                      component={Candidate}
+                  />
                   <Route path="/party/:party" component={Party} />
 
                   {/* 候選人 /candidate/選舉區/候選人名字 */}
