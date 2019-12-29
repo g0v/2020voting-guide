@@ -4,6 +4,7 @@ import clsx from 'clsx';
 import groupBy from 'lodash/groupBy';
 import omit from 'lodash/omit';
 import take from 'lodash/take';
+import sortBy from 'lodash/sortBy';
 import Alert from '../Alert';
 
 import { pipe } from '../../utils';
@@ -22,6 +23,8 @@ interface CandidateCompareIssueProp {
     list: Bill[];
     type: 'person' | 'party';
 }
+type KeyValue = { [key: string]: Bill[] };
+
 const areCandidateCompareIssueEquals = (
     prevProps: CandidateCompareIssueProp,
     nextProps: CandidateCompareIssueProp
@@ -35,15 +38,15 @@ const CandidateCompareIssue = ({ list, type }: CandidateCompareIssueProp) => {
     }
     const issueCategories: ReactNode = pipe(
         list,
-        (_: any) => groupBy(_, 'category'),
-        (_: any) => omit(_, ['其他']),
-        (_: any) => {
-            const o = _ as Map<string, Bill[]>;
-            return Object.keys(o).map((key: string) => {
-                const bill: Bill[] = _[key];
+        (_: Bill[]) => groupBy(_, 'category'),
+        (_: KeyValue) => omit(_, ['其他']),
+        (_: KeyValue) => {
+            const sortList: string[] = Object.keys(_);
+            sortList.sort((a: string, b: string) => _[b].length - _[a].length);
+            return sortList.map((key: string) => {
                 return (
                     <div key={key}>
-                        {key} {bill.length} 項
+                        {key} {_[key].length} 項
                     </div>
                 );
             });
