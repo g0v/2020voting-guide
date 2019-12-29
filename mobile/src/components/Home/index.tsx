@@ -126,7 +126,7 @@ const Home = (props: Props) => {
                     </Typography>
                 </Box>
             </Box>
-            <Box className="page-home__inclusion" py="50px" px="70px" mb={5}>
+            <Box className="page-home__inclusion" py="50px" px="45px" mb={5}>
                 <Box mb="28px" className="page-home__inclusion-text">
                     <Typography variant="h2" align="center">
                         選前大補帖收錄了
@@ -145,6 +145,11 @@ const Home = (props: Props) => {
                     </div>
                     <div className="page-home__inclusion-box">
                         <Typography variant="h3">監察院 陽光法令</Typography>
+                    </div>
+                    <div className="page-home__inclusion-box">
+                        <Typography variant="h3">
+                            Facebook 廣告檔案庫
+                        </Typography>
                     </div>
                     <div className="page-home__inclusion-box">
                         <Typography variant="h3">維基百科</Typography>
