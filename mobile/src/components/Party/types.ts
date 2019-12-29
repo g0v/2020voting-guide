@@ -4,7 +4,7 @@ export interface Candidate {
     name: string;
     rank: number;
     age: string;
-    isCurrent: boolean;
+    currentLegislator: boolean;
     experience: string;
 }
 

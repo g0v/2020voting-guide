@@ -96,7 +96,7 @@ const Item: FunctionComponent<{ candidate: Candidate }> = ({ candidate }) => {
                         <Rank rank={candidate.rank} />
                         <Name name={candidate.name} />
                         <Age age={candidate.age} />
-                        {candidate.isCurrent && <Current />}
+                        {candidate.currentLegislator && <Current />}
                     </Box>
                     <Description
                         description={filterExperience(candidate.experience)}

@@ -1,7 +1,6 @@
 //
 //  usage:
-//  $ cd mobile
-//  $ node script/party_candidate_sync.js
+//  $ cd mobile $ node script/party_candidate_sync.js
 //  prettier src/data/party_candidates.json manually
 //
 const fs = require('fs');
@@ -28,22 +27,23 @@ const csv2json = require('csvjson-csv2json');
 
 function toEnvKey(item) {
     return {
-        party: item['政黨'],
-        rank: item['順位'],
         name: item['姓名'],
-        isCurrent: item['現任立委'] == 'Y' ? true : false,
+        photo: item['照片'],
+        party: item['政黨'],
+        constituency: '不分區',
+        rank: item['順位'],
+        currentLegislator: item['現任立委'] == 'Y' ? true : false,
         isPast: item['曾任立委（次要）'] == 'Y' ? true : false,
         birth: item['生日'],
         age: item['年齡'],
-        photo: item['照片'],
         wiki: item['wiki'],
-        fb: item['FB 粉絲專頁'],
+        fbPage: item['FB 粉絲專頁'],
         education: item['學歷'],
-        educationLink: item['經歷連結'],
+        educationConnection: item['經歷連結'],
         experience: item['經歷'],
-        experienceLink: item['經歷連結'],
+        experienceConnection: item['經歷連結'],
         politics: item['政見'],
-        politicsLink: item['政見連結'],
+        politicsConnection: item['政見連結'],
         others: item['其他'],
         unvarifiedEducation: item['(\b封存) 缺少來源的學歷'],
         unvarifiedPolitics: item['(\b封存) 缺少來源的政見']

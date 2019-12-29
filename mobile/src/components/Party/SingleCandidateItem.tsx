@@ -4,12 +4,9 @@ import { makeStyles } from '@material-ui/styles';
 import {
     Typography,
     Avatar,
-    List,
     ListItem,
-    Link,
     Box
 } from '@material-ui/core';
-import Alert from '../Alert';
 import { Candidate } from './types';
 
 const useStyles = makeStyles({
@@ -79,7 +76,7 @@ const SingleCandidateItem: FunctionComponent<{ candidate: Candidate }> = ({ cand
                       <Rank rank={candidate.rank} />
                       <Name name={candidate.name} />
                       <Age age={candidate.age} />
-                      {candidate.isCurrent && <Current />}
+                      {candidate.currentLegislator && <Current />}
                   </Box>
                   <Description
                       description={filterExperience(candidate.experience)}
