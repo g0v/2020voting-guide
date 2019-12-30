@@ -193,7 +193,11 @@ const CandidatePage = ({ match }: CandidatePage) => {
             ) : candidate.education ||
               candidate.experience ||
               candidate.politic ? (
-                <BasicInfoTab {...candidate} padding={desktopPadding} />
+                <BasicInfoTab
+                    {...candidate}
+                    isRegional={isRegional}
+                    padding={desktopPadding}
+                />
             ) : (
                 <NoInfoTab name={candidate.name} from="basicInfo" />
             )}

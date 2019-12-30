@@ -85,9 +85,11 @@ const EduExp = ({
 );
 
 const Politic = ({
+    isRegional,
     politic,
     politicsConnection
 }: {
+    isRegional: boolean;
     politic: string;
     politicsConnection: string;
 }) => (
@@ -95,7 +97,19 @@ const Politic = ({
         <Box px={1.5} pt={2}>
             <Issue name="政見" />
         </Box>
-        {politic ? (
+        {isRegional == false ? (
+            <>
+                <Alert>
+                    <Typography variant="h4" color="textPrimary" gutterBottom>
+                        沒有個人政見
+                    </Typography>
+                    <Typography variant="h5" color="textSecondary">
+                        這位是不分區候選人，所以沒有個人政見，請參考提名政黨的政見
+                    </Typography>
+                </Alert>
+                <Box bgcolor="#F7F7F7" height={72} />
+            </>
+        ) : politic ? (
             <>
                 <Alert>
                     <Typography variant="h5">
@@ -152,7 +166,8 @@ const BasicInfoTab = ({
     politic,
     educationConnection,
     experienceConnection,
-    politicsConnection
+    politicsConnection,
+    isRegional
 }: {
     experience: string;
     education: string;
@@ -160,6 +175,7 @@ const BasicInfoTab = ({
     educationConnection: string;
     experienceConnection: string;
     politicsConnection: string;
+    isRegional: boolean;
     padding?: object;
 }) => {
     return (
@@ -173,6 +189,7 @@ const BasicInfoTab = ({
                 />
             )}
             <Politic
+                isRegional={isRegional}
                 politic={politic}
                 politicsConnection={politicsConnection}
             />
