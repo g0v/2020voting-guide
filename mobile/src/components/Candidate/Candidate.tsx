@@ -1,7 +1,8 @@
-import { Link, Typography } from '@material-ui/core';
+import { Link, Typography, Box } from '@material-ui/core';
 import useScrollTrigger from '@material-ui/core/useScrollTrigger';
 import Tab from '@material-ui/core/Tab';
 import Tabs from '@material-ui/core/Tabs';
+import KeyboardArrowLeft from '@material-ui/icons/KeyboardArrowLeft';
 import React, { FunctionComponent, useEffect, useState } from 'react';
 import Alert from '../Alert';
 import { Bill } from '../IssueBill';
@@ -12,6 +13,7 @@ import PassPerformanceTab from './PassPerformanceTab';
 import StrengthTab from './StrengthTab';
 import BasicInfoTab from './BasicInfoTab';
 
+import county_constituency from '../../data/county_constituency.json';
 export interface CandidateType {
     name: string;
     photo: string;
@@ -98,8 +100,7 @@ const isDesktop = !/Mobi|Android/i.test(navigator.userAgent);
 
 const desktopPadding = isDesktop
     ? {
-          padding: '20px 8% 0 8%',
-          marginTop: '1px'
+        padding: '0 8%'
       }
     : {};
 
@@ -129,33 +130,60 @@ const CandidatePage = ({ match }: CandidatePage) => {
             .then(setBills);
     }, [name, constituency]);
 
-    const scrollTrigger = useScrollTrigger({
-        disableHysteresis: true, // 忽略滾動方向
-        threshold: 0
-    });
-
-    const tabStyle = (isDesktop:boolean) => ({
-        'top': isDesktop ? '136px' : '96px',
-        'background': '#fff',
-        'zIndex': 1
-    })
+    const county_list = county_constituency.filter(county =>
+        county.area.includes(constituency)
+    );
+    const county = county_list.length ? county_list[0].name : '';
 
     return (
-        <>
-            <Nav isScroll={!scrollTrigger} {...candidate} padding={desktopPadding} />
-            <Tabs
-                style={{...desktopPadding, ...tabStyle(isDesktop), position: 'sticky'}}
-                value={tab}
-                indicatorColor="primary"
-                textColor="primary"
-                variant="fullWidth"
-                onChange={switchTab}
-            >
-                <Tab label="議題法案" />
-                <Tab label="競選戰力" />
-                <Tab label="過去表現" />
-                <Tab label="經歷政見" />
-            </Tabs>
+        <Box color="background"
+            pt={isDesktop ? '48px': '60px'}>
+            <Box
+                bgcolor="white"
+                position="fixed"
+                width="100%"
+                top={isDesktop ? '64px': '45px'}
+                display="flex"
+                alignItems="center"
+                zIndex="500"
+                px={isDesktop ? '8%': 0}
+                pt={isDesktop ? 1 : 3}>
+                <Link href={`/regional/${county}/${constituency}`}>
+                    <KeyboardArrowLeft fontSize="large" />
+                </Link>
+                <Box>
+                    <Typography
+                        variant="h3"
+                        display="inline"
+                        color="textPrimary"
+                    >
+                        {`${name} `}
+                    </Typography>
+                    <Typography
+                        variant="h5"
+                        display="inline"
+                        color="textSecondary"
+                    >
+                        {constituency}
+                    </Typography>
+                </Box>
+            </Box>
+            <Nav {...candidate} padding={desktopPadding} />
+            <Box zIndex={499} position="sticky" bgcolor="white" top="100px">
+                <Tabs
+                    style={desktopPadding}
+                    value={tab}
+                    indicatorColor="primary"
+                    textColor="primary"
+                    variant="fullWidth"
+                    onChange={switchTab}
+                >
+                    <Tab label="議題法案" />
+                    <Tab label="競選戰力" />
+                    <Tab label="過去表現" />
+                    <Tab label="經歷政見" />
+                </Tabs>
+            </Box>
 
             {tab === 0 ? (
                 candidate.currentLegislator ||
@@ -191,7 +219,8 @@ const CandidatePage = ({ match }: CandidatePage) => {
             ) : (
                 <NoInfoTab name={candidate.name} from="basicInfo" />
             )}
-        </>
+
+        </Box>
     );
 };
 
