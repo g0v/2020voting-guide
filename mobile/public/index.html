@@ -30,7 +30,12 @@
     <link
         href="https://fonts.googleapis.com/css?family=Noto+Sans+TC:400,500,700&display=swap&subset=chinese-traditional"
         rel="stylesheet">
-
+    <script>
+        var NODE_ENV = '%NODE_ENV%';
+        if (NODE_ENV === 'production' && window.location.protocol !== 'https:') {
+            window.location.href = 'https:' + window.location.href.substring(window.location.protocol.length);
+        }
+    </script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-148908600-1"></script>
     <script>
