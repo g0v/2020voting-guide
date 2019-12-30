@@ -9,7 +9,7 @@ interface DeleteButtonProps {
 const DeleteButton = ({ name, onDelete }: DeleteButtonProps) => {
     const onClick = React.useCallback(() => {
         onDelete(name);
-    }, []);
+    }, [name, onDelete]);
     return <CloseIcon onClick={onClick} />;
 };
 

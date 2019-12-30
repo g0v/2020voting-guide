@@ -97,7 +97,7 @@ const Politic = ({
         <Box px={1.5} pt={2}>
             <Issue name="政見" />
         </Box>
-        {isRegional == false ? (
+        {isRegional === false ? (
             <>
                 <Alert>
                     <Typography variant="h4" color="textPrimary" gutterBottom>

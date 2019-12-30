@@ -9,7 +9,6 @@ import Typography from '@material-ui/core/Typography';
 import ChevronRightIcon from '@material-ui/icons/ChevronRight';
 import React from 'react';
 import countyConstituency from '../data/county_constituency.json';
-import SearchContainer from './Search/SearchContainer';
 import { useOpenClose } from '../hooks/useOpenClose';
 import SearchContainerWithDialog from './Search/SearchContainerWithDialog';
 
@@ -109,8 +108,10 @@ const counties = countyConstituency.map(county => county.name);
 const AppDrawer = ({ open, handleDrawerClose }: AppDrawer) => {
     const classes = useStyles();
     const {
-        open: searchDialogIsOpen, handleOpen, handleClose
-    } = useOpenClose()
+        open: searchDialogIsOpen,
+        handleOpen,
+        handleClose
+    } = useOpenClose();
     return (
         <>
             <Drawer
@@ -137,26 +138,26 @@ const AppDrawer = ({ open, handleDrawerClose }: AppDrawer) => {
                     <Typography variant="h3">{'搜尋立委/政黨'}</Typography>
                 </ListItem>
                 <List>
-                <ListItem
-                    button
-                    key="區域立委候選人"
-                    component="a"
-                    href="/regional"
-                    className={classes.listItemLink}
-                >
-                    <Typography variant="h3">區域立委候選人</Typography>
-                </ListItem>
-                {counties.map(county => (
                     <ListItem
-                        key={county}
                         button
+                        key="區域立委候選人"
                         component="a"
-                        href={`/regional/${county}`}
-                        className={classes.countyListItem}
+                        href="/regional"
+                        className={classes.listItemLink}
                     >
-                        <ListItemText primary={county}></ListItemText>
+                        <Typography variant="h3">區域立委候選人</Typography>
                     </ListItem>
-                ))}
+                    {counties.map(county => (
+                        <ListItem
+                            key={county}
+                            button
+                            component="a"
+                            href={`/regional/${county}`}
+                            className={classes.countyListItem}
+                        >
+                            <ListItemText primary={county}></ListItemText>
+                        </ListItem>
+                    ))}
                 </List>
                 <List>
                     <ListItem
@@ -165,8 +166,8 @@ const AppDrawer = ({ open, handleDrawerClose }: AppDrawer) => {
                         component="a"
                         href="/#立委的工作是什麼"
                         className={classes.listItemLink}
-                        onClick={()=> handleDrawerClose}
-                        >
+                        onClick={() => handleDrawerClose}
+                    >
                         <Typography variant="h3">立委在做什麼？</Typography>
                     </ListItem>
                     <ListItem
@@ -175,7 +176,7 @@ const AppDrawer = ({ open, handleDrawerClose }: AppDrawer) => {
                         component="a"
                         href="/#為什麼有兩張票"
                         className={classes.listItemLink}
-                        onClick={()=> handleDrawerClose}
+                        onClick={() => handleDrawerClose}
                     >
                         <Typography variant="h3">為什麼有兩張票？</Typography>
                     </ListItem>
@@ -194,26 +195,29 @@ const AppDrawer = ({ open, handleDrawerClose }: AppDrawer) => {
                 </List>
                 <List>
                     <ListItem
-                    button
-                    component="a"
-                    href="/about"
-                    className={classes.aboutListItem}
+                        button
+                        component="a"
+                        href="/about"
+                        className={classes.aboutListItem}
                     >
                         <ListItemText primary="關於我們" />
                     </ListItem>
                     <ListItem
-                    button
-                    component="a"
-                    target="_blank"
-                    href="https://docs.google.com/forms/d/e/1FAIpQLSfc_MGy-ImXbukLWk-YsA3a96ZDf9etHF0TmSLPHPniTxaMxw/viewform"
-                    className={classes.aboutListItem}
+                        button
+                        component="a"
+                        target="_blank"
+                        href="https://docs.google.com/forms/d/e/1FAIpQLSfc_MGy-ImXbukLWk-YsA3a96ZDf9etHF0TmSLPHPniTxaMxw/viewform"
+                        className={classes.aboutListItem}
                     >
                         <ListItemText primary="問題回報" />
                     </ListItem>
                 </List>
             </Drawer>
             {searchDialogIsOpen && (
-                <SearchContainerWithDialog open={searchDialogIsOpen} onClose={handleClose} />
+                <SearchContainerWithDialog
+                    open={searchDialogIsOpen}
+                    onClose={handleClose}
+                />
             )}
         </>
     );

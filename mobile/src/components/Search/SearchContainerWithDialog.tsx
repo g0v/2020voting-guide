@@ -1,24 +1,24 @@
-import React from 'react'
-import { Box, Dialog, DialogContent, makeStyles } from '@material-ui/core'
-import SearchContainer from './SearchContainer'
-import { MODAL_MAX_WIDTH } from '../../config'
-import { Callback } from './types'
+import { Dialog, DialogContent } from '@material-ui/core';
+import React from 'react';
+import SearchContainer from './SearchContainer';
+import { Callback } from './types';
 
 type SearchContainerWithDialogProps = {
-  open: boolean
-  onClose?: Callback
-}
+    open: boolean;
+    onClose?: Callback;
+};
 
 const SearchContainerWithDialog = ({
-  open, onClose
+    open,
+    onClose
 }: SearchContainerWithDialogProps) => {
-  return (
-    <Dialog open={open} fullWidth maxWidth={'lg'} onClose={onClose}>
-      <DialogContent>
-        <SearchContainer />
-      </DialogContent>
-    </Dialog>
-  )
-}
+    return (
+        <Dialog open={open} fullWidth maxWidth={'lg'} onClose={onClose}>
+            <DialogContent>
+                <SearchContainer />
+            </DialogContent>
+        </Dialog>
+    );
+};
 
-export default SearchContainerWithDialog
+export default SearchContainerWithDialog;

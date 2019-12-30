@@ -138,13 +138,13 @@ const CandidatePage = ({ match }: CandidatePage) => {
             );
             setCandidate(candidate || CandidateDefault);
         }
-    }, [name, constituency]);
+    }, [name, constituency, isRegional, party]);
 
     useEffect(() => {
         fetch(billsURL)
             .then(res => res.json())
             .then(setBills);
-    }, [name, constituency]);
+    }, [billsURL]);
 
     return (
         <>

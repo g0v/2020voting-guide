@@ -1,15 +1,15 @@
+import { Box, Grid, Typography } from '@material-ui/core';
 import React, { ReactNode } from 'react';
-import { Box, Typography, Grid } from '@material-ui/core';
-import { AllCandidatesAndParties } from './functions/getAllCandidatesAndParties';
-import PartyCard from '../PartyCandidates/PartyCard';
-import SingleConstituencyCadidateItem from './SearchResultItems/SingleConstituencyCadidateItem';
-import LoadingAndError from '../CommonComponents/LoadingAndError';
 import DecoratedTitle from '../CommonComponents/DecoratedTitle';
-import { SingleCandidateInParty } from './functions/getPartyCandidated';
+import LoadingAndError from '../CommonComponents/LoadingAndError';
+import PartyCard from '../PartyCandidates/PartyCard';
+import { AllCandidatesAndParties } from './functions/getAllCandidatesAndParties';
 import { SingleConstituencyCandidate } from './functions/getAllConstituencyCandidates';
 import { SingleParty } from './functions/getAllParties';
-import SingleCandidateItemWithPartyName from './SearchResultItems/SingleCandidateItemWithPartyName';
+import { SingleCandidateInParty } from './functions/getPartyCandidated';
 import ResultItemCardWrapper from './SearchResultItems/ResultItemCardWrapper';
+import SingleCandidateItemWithPartyName from './SearchResultItems/SingleCandidateItemWithPartyName';
+import SingleConstituencyCadidateItem from './SearchResultItems/SingleConstituencyCadidateItem';
 
 type Props = {
     loading: boolean;
@@ -52,22 +52,22 @@ export const PartyCandidatesSearchResults = ({
 }: {
     partyCandidates: SingleCandidateInParty[];
 }) => {
-  const isEmpty = partyCandidates.length === 0
-  if(isEmpty) {
-    return <></>
-  }
-  return (
-    <SearchResultGridWrapper>
-      <DecoratedTitle 
-        title={'不分區立委'} />
-      {partyCandidates.map((c, i) => (
-        <SingleCandidateItemWithPartyName
-          key={i}  
-          candidate={{...c, age: String(c.age) }} />
-      ))}
-    </SearchResultGridWrapper>
-  )
-}
+    const isEmpty = partyCandidates.length === 0;
+    if (isEmpty) {
+        return <></>;
+    }
+    return (
+        <SearchResultGridWrapper>
+            <DecoratedTitle title={'不分區立委'} />
+            {partyCandidates.map((c, i) => (
+                <SingleCandidateItemWithPartyName
+                    key={i}
+                    candidate={{ ...c, age: String(c.age) }}
+                />
+            ))}
+        </SearchResultGridWrapper>
+    );
+};
 
 export const PartiesSearchResults = ({
     parties

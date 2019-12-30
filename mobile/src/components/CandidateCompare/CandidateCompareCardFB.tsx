@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, Link, Typography } from '@material-ui/core';
+import { Typography } from '@material-ui/core';
 import useFetch from '../../hooks/useFetch';
 import Alert from '../Alert';
 

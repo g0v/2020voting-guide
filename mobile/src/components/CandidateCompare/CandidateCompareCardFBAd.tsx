@@ -1,10 +1,10 @@
 import React from 'react';
-import { Box, Link, Typography } from '@material-ui/core';
+import { Typography } from '@material-ui/core';
 import get from 'lodash/get';
 import useFetch from '../../hooks/useFetch';
 import Alert from '../Alert';
 import { AdCardProp } from '../Candidate/AdCard';
-import { pipe, numberWithCommas } from '../../utils';
+import { numberWithCommas } from '../../utils';
 
 interface Props {
     name: string;
@@ -49,16 +49,20 @@ export default function CandidateCompareCardFBAd({
             ] = responseData.reduce(
                 (prev: number[], curr: AdCardProp) => {
                     // eslint-disable-next-line
-                    let lowerBound: number = get(curr, '廣告詳情.spend.lower_bound', 0 ) / 1;
+                    let lowerBound: number =
+                        get(curr, '廣告詳情.spend.lower_bound', 0) / 1;
                     // eslint-disable-next-line
-                    let upperBound: number = get(curr, '廣告詳情.spend.upper_bound', 0 ) / 1;
+                    let upperBound: number =
+                        get(curr, '廣告詳情.spend.upper_bound', 0) / 1;
                     prev[0] += lowerBound;
                     prev[1] += upperBound;
 
                     // eslint-disable-next-line
-                    lowerBound = get(curr, '廣告詳情.impressions.lower_bound', 0 ) / 1;
+                    lowerBound =
+                        get(curr, '廣告詳情.impressions.lower_bound', 0) / 1;
                     // eslint-disable-next-line
-                    upperBound = get(curr, '廣告詳情.impressions.upper_bound', 0 ) / 1;
+                    upperBound =
+                        get(curr, '廣告詳情.impressions.upper_bound', 0) / 1;
                     prev[2] += lowerBound;
                     prev[3] += upperBound;
 
