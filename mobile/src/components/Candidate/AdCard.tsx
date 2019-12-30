@@ -50,6 +50,16 @@ const AdCard = (ad: AdCardProp) => {
     const [open, setOpen] = React.useState(false);
     const detail = ad['廣告詳情'];
     const content = ad['廣告詳情'].ad_creative_body;
+
+    let spentUpperBound = parseInt(detail.spend['upper_bound']);
+    let spentLowerBound = parseInt(detail.spend['lower_bound']);
+    let currency = detail.currency;
+    if (currency === 'USD') {
+        spentUpperBound = spentUpperBound * 30;
+        spentLowerBound = spentLowerBound * 30;
+        currency = 'TWD';
+    }
+
     const generateCardTextHtml = (fullText: string) => {
         const adLines = fullText.split('\n');
 
@@ -90,7 +100,7 @@ const AdCard = (ad: AdCardProp) => {
                             <Box width={4} />
                             <Typography variant="h5">
                                 花費：
-                                {`${detail.spend['lower_bound']}-${detail.spend['upper_bound']} ${detail.currency}`}
+                                {`${spentLowerBound}-${spentUpperBound} ${currency}`}
                             </Typography>
                         </Box>
                         <Box width={16} />
