@@ -136,7 +136,6 @@ const CandidatePage = ({ match }: CandidatePage) => {
             const candidate = candidateList.find(
                 candidate => candidate.name === name
             );
-            console.log(candidate);
             setCandidate(candidate || CandidateDefault);
         }
     }, [name, constituency]);
