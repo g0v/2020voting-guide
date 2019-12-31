@@ -7,13 +7,14 @@ import pandas as pd
 import numpy as np
 
 
-def set_rate_labels(df, rate_col, session):
+def set_rate_labels(df, rate_col, session, rate_type):
     """[用於產生 A1~A4 等評鑑名稱列表]
 
     Arguments:
         df {[DataFrame]} -- [特定會期，特定評鑑種類之 DataFrame, 透過 sheet.py 之 get_sheet() 產生]
         rate_col {[type]} -- [description]
         session {[int]} -- [第幾會期]
+        rate_type {[string]} -- [用於辨識是否為 "黨團幹部" 類別]
 
     Returns:
         [type] -- [description]
@@ -50,12 +51,19 @@ def set_rate_labels(df, rate_col, session):
             new_rate_labels.append(f"{rate_label}_Max+1")
 
     # 補充： 額外評鑑項目
-    if session in [2]:
-        new_rate_labels += ['E黨團幹部加扣分', '備註']
-    elif session in [3, 4, 5, 6, 7]:
-        new_rate_labels += ['備註']
-    elif session in [1]:
-        new_rate_labels += ['身分／其他', '評鑑結果']
+    print(rate_type)
+    if rate_type == '黨團幹部':
+        if session in [3]:
+            new_rate_labels += ['E1', 'E2', 'F1']
+        elif session in [7]:
+            new_rate_labels += ['E1', 'E2', '備註']
+    else:
+        if session in [2]:
+            new_rate_labels += ['E黨團幹部加扣分', '備註']
+        elif session in [3, 4, 5, 6, 7]:
+            new_rate_labels += ['備註']
+        elif session in [1]:
+            new_rate_labels += ['身分／其他', '評鑑結果']
 
     return new_rate_labels
 
@@ -84,7 +92,7 @@ def generate_json(df, rate_type, session):
     people_col = columns[5:] if rate_col == 'Unnamed: 4' else columns[4:]
 
     # 取得： 評鑑項目列表
-    new_rate_labels = set_rate_labels(df, rate_col, session)
+    new_rate_labels = set_rate_labels(df, rate_col, session, rate_type)
     print(new_rate_labels)
 
     # 移除： B2 ~ B4 的資料，基於 B 僅有單一分數
@@ -120,7 +128,7 @@ def generate_json(df, rate_type, session):
                 count += 1
             # 因應備註有兩列的情況，將第二列備註合併至第一列 e.g. 第四年
             elif pd.notnull(rate):
-                # print(new_rate_labels[count-1], rate)
+                print(new_rate_labels[count-1], rate)
                 data[new_rate_labels[count-1]] += ',' + rate
 
         people_list.append(info)
