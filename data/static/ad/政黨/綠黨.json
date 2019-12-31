@@ -2833,93 +2833,93 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.119671",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.034588",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000409",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.00025",
+          "percentage": "0.000246",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001045",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000977",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000205",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.06304",
+          "percentage": "0.063691",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.072084",
-          "age": "35-44",
-          "gender": "female"
+          "percentage": "0.000985",
+          "age": "25-34",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.151509",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.044178",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.127261",
+          "percentage": "0.000201",
           "age": "55-64",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.073175",
+          "percentage": "0.000134",
           "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001052",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.0347",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.069758",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.119277",
+          "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.062972",
+          "percentage": "0.129687",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.150977",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.072354",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.050102",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.04446",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.062616",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.04995",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.06863",
+          "percentage": "0.126531",
           "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.12992",
-          "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.000136",
+          "percentage": "0.072802",
           "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000425",
+          "age": "45-54",
           "gender": "unknown"
         }
       ],
@@ -4447,7 +4447,7 @@
     "開始日期": "2019-12-10",
     "結束日期": "2019-12-14",
     "廣告內容": "＃分享支持  【我們的國會，值得鄧醫生嗎？】 　 決定參選後，鄧醫師放下手邊的所有工作，上節目、受訪、準備政策，幾乎沒日沒夜的工作，常常忙到連三餐都沒時間吃。 儘管我們都已經那麼努力，但根據綠黨本週最新的民調，還是有高達80%的民眾 ＃不知道鄧醫師參選立委。 為了讓大家知道鄧醫師參選，我們希望選前10天在鄧醫師常上的節目，例如新聞挖挖挖等節目廣告時段曝光，並在全國購買LED電視牆、廣播聯播網的廣告，搭配已經購買的公車廣告。 經過這幾天的募款，我們距離161.7萬元的廣告預算目標，還有大概30萬左右的距離，邀請大家跟我們一起，送鄧醫師進國會！ 線上捐款支持鄧醫師進國會 》http://goo.gl/dmZ94R ＃不只是抗中護台 ＃別讓台灣錯過鄧醫師",
-    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/78363727_10158132737826159_2337313377052786688_n.jpg?_nc_cat=110&_nc_ohc=EZpxr8_rLvoAQkw31MNEXk2HgDeWxSQ_7EIF1LAmVnthEugUL0pm4U8wA&_nc_ht=scontent-hkg3-2.xx&oh=05e5ff54585d34090facfa70a7370b8d&oe=5E73917E",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/78363727_10158132737826159_2337313377052786688_n.jpg?_nc_cat=110&_nc_ohc=Ckeq10v8PUwAQkASVUk4FZkUWKGnU54zBhBc1OI1FJDZqPr_vY1ExalQw&_nc_ht=scontent-hkg3-2.xx&oh=b0c7007187a0c44417c97cc95736cfbd&oe=5E9B1E7E",
     "廣告詳情": {
       "ad_creative_body": "＃分享支持  【我們的國會，值得鄧醫生嗎？】\n　\n決定參選後，鄧醫師放下手邊的所有工作，上節目、受訪、準備政策，幾乎沒日沒夜的工作，常常忙到連三餐都沒時間吃。\n\n儘管我們都已經那麼努力，但根據綠黨本週最新的民調，還是有高達80%的民眾 ＃不知道鄧醫師參選立委。\n\n為了讓大家知道鄧醫師參選，我們希望選前10天在鄧醫師常上的節目，例如新聞挖挖挖等節目廣告時段曝光，並在全國購買LED電視牆、廣播聯播網的廣告，搭配已經購買的公車廣告。\n\n經過這幾天的募款，我們距離161.7萬元的廣告預算目標，還有大概30萬左右的距離，邀請大家跟我們一起，送鄧醫師進國會！\n\n線上捐款支持鄧醫師進國會 》http://goo.gl/dmZ94R\n\n＃不只是抗中護台\n＃別讓台灣錯過鄧醫師",
       "ad_creation_time": "2019-12-05T10:30:39+0000",
@@ -4667,196 +4667,196 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000277",
+          "percentage": "0.000364",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.014584",
+          "percentage": "0.01781",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.001077",
+          "percentage": "0.001093",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000308",
+          "percentage": "0.000251",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000523",
+          "percentage": "0.000501",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000769",
+          "percentage": "0.000774",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.023938",
+          "percentage": "0.03143",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.030307",
+          "percentage": "0.032068",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.045968",
+          "percentage": "0.055185",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.184364",
+          "percentage": "0.173799",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.049568",
+          "percentage": "0.049696",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.053906",
+          "percentage": "0.056278",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.101105",
+          "percentage": "0.10003",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.08849",
+          "percentage": "0.082902",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.04046",
+          "percentage": "0.046166",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.196886",
+          "percentage": "0.194753",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.167226",
+          "percentage": "0.156627",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.000246",
+          "percentage": "0.000273",
           "age": "65+",
           "gender": "unknown"
         }
       ],
       "funding_entity": "浩宇 王",
       "impressions": {
-        "lower_bound": "50000",
-        "upper_bound": "59999"
+        "lower_bound": "70000",
+        "upper_bound": "79999"
       },
       "page_id": "282353111158",
       "page_name": "綠黨",
       "region_distribution": [
         {
-          "percentage": "9.2E-5",
+          "percentage": "9.1E-5",
           "region": "Lienchiang"
         },
         {
-          "percentage": "0.000709",
+          "percentage": "0.000727",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.01405",
+          "percentage": "0.014457",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.025173",
+          "percentage": "0.024686",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.011092",
+          "percentage": "0.010138",
           "region": "Yilan"
         },
         {
-          "percentage": "0.005669",
+          "percentage": "0.00566",
           "region": "Taitung"
         },
         {
-          "percentage": "0.027392",
+          "percentage": "0.028596",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.003235",
+          "percentage": "0.003114",
           "region": "Penghu"
         },
         {
-          "percentage": "0.01405",
+          "percentage": "0.013343",
           "region": "Nantou"
         },
         {
-          "percentage": "0.010137",
+          "percentage": "0.009615",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.009213",
+          "percentage": "0.008615",
           "region": "Hualien"
         },
         {
-          "percentage": "0.025451",
+          "percentage": "0.024345",
           "region": "Unknown"
         },
         {
-          "percentage": "0.002681",
+          "percentage": "0.002796",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.002157",
+          "percentage": "0.002182",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.033308",
+          "percentage": "0.032188",
           "region": "Changhua"
         },
         {
-          "percentage": "0.116654",
+          "percentage": "0.120022",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.133724",
+          "percentage": "0.130842",
           "region": "Taichung"
         },
         {
-          "percentage": "0.09524",
+          "percentage": "0.100336",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.0888",
+          "percentage": "0.093903",
           "region": "Tainan"
         },
         {
-          "percentage": "0.18253",
+          "percentage": "0.172577",
           "region": "Taipei"
         },
         {
-          "percentage": "0.171961",
+          "percentage": "0.177873",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.026683",
+          "percentage": "0.023891",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "4500",
-        "upper_bound": "4999"
+        "lower_bound": "6000",
+        "upper_bound": "6999"
       },
       "ad_id": "2573938509348924"
     }
@@ -4869,7 +4869,7 @@
     "開始日期": "2019-12-10",
     "結束日期": "2019-12-14",
     "廣告內容": "＃分享支持  【我們的國會，值得鄧醫生嗎？】 　 決定參選後，鄧醫師放下手邊的所有工作，上節目、受訪、準備政策，幾乎沒日沒夜的工作，常常忙到連三餐都沒時間吃。 儘管我們都已經那麼努力，但根據綠黨本週最新的民調，還是有高達80%的民眾 ＃不知道鄧醫師參選立委。 為了讓大家知道鄧醫師參選，我們希望選前10天在鄧醫師常上的節目，例如新聞挖挖挖等節目廣告時段曝光，並在全國購買LED電視牆、廣播聯播網的廣告，搭配已經購買的公車廣告。 經過這幾天的募款，我們距離161.7萬元的廣告預算目標，還有大概30萬左右的距離，邀請大家跟我們一起，送鄧醫師進國會！ 線上捐款支持鄧醫師進國會 》http://goo.gl/dmZ94R ＃不只是抗中護台 ＃別讓台灣錯過鄧醫師",
-    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/78363727_10158132737826159_2337313377052786688_n.jpg?_nc_cat=110&_nc_ohc=EZpxr8_rLvoAQkw31MNEXk2HgDeWxSQ_7EIF1LAmVnthEugUL0pm4U8wA&_nc_ht=scontent-hkg3-2.xx&oh=05e5ff54585d34090facfa70a7370b8d&oe=5E73917E",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/78363727_10158132737826159_2337313377052786688_n.jpg?_nc_cat=110&_nc_ohc=Ckeq10v8PUwAQkASVUk4FZkUWKGnU54zBhBc1OI1FJDZqPr_vY1ExalQw&_nc_ht=scontent-hkg3-2.xx&oh=b0c7007187a0c44417c97cc95736cfbd&oe=5E9B1E7E",
     "廣告詳情": {
       "ad_creative_body": "＃分享支持  【我們的國會，值得鄧醫生嗎？】\n　\n決定參選後，鄧醫師放下手邊的所有工作，上節目、受訪、準備政策，幾乎沒日沒夜的工作，常常忙到連三餐都沒時間吃。\n\n儘管我們都已經那麼努力，但根據綠黨本週最新的民調，還是有高達80%的民眾 ＃不知道鄧醫師參選立委。\n\n為了讓大家知道鄧醫師參選，我們希望選前10天在鄧醫師常上的節目，例如新聞挖挖挖等節目廣告時段曝光，並在全國購買LED電視牆、廣播聯播網的廣告，搭配已經購買的公車廣告。\n\n經過這幾天的募款，我們距離161.7萬元的廣告預算目標，還有大概30萬左右的距離，邀請大家跟我們一起，送鄧醫師進國會！\n\n線上捐款支持鄧醫師進國會 》http://goo.gl/dmZ94R\n\n＃不只是抗中護台\n＃別讓台灣錯過鄧醫師",
       "ad_creation_time": "2019-12-06T07:45:45+0000",
@@ -4878,196 +4878,196 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.023645",
+          "percentage": "0.020937",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.056718",
+          "percentage": "0.05572",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.000464",
+          "percentage": "0.000356",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000714",
+          "percentage": "0.000664",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000286",
+          "percentage": "0.000261",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.006679",
+          "percentage": "0.00626",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.01393",
+          "percentage": "0.013207",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.001214",
+          "percentage": "0.000901",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.059433",
+          "percentage": "0.060842",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.21673",
+          "percentage": "0.216171",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.168691",
+          "percentage": "0.173278",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.105722",
+          "percentage": "0.108002",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.033288",
+          "percentage": "0.033859",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.0005",
+          "percentage": "0.000356",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.236053",
+          "percentage": "0.231417",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.034145",
+          "percentage": "0.034665",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.041574",
+          "percentage": "0.04294",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.000214",
+          "percentage": "0.000166",
           "age": "18-24",
           "gender": "unknown"
         }
       ],
       "funding_entity": "浩宇 王",
       "impressions": {
-        "lower_bound": "40000",
-        "upper_bound": "44999"
+        "lower_bound": "60000",
+        "upper_bound": "69999"
       },
       "page_id": "282353111158",
       "page_name": "綠黨",
       "region_distribution": [
         {
-          "percentage": "0.028338",
+          "percentage": "0.027151",
           "region": "Unknown"
         },
         {
-          "percentage": "0.010279",
-          "region": "Miaoli"
+          "percentage": "9.4E-5",
+          "region": "Lienchiang"
         },
         {
-          "percentage": "0.025661",
-          "region": "Hsinchu City"
-        },
-        {
-          "percentage": "0.015989",
+          "percentage": "0.015932",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.027196",
+          "percentage": "0.028447",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.011492",
+          "percentage": "0.011171",
           "region": "Yilan"
         },
         {
-          "percentage": "0.006032",
+          "percentage": "0.006104",
           "region": "Taitung"
         },
         {
-          "percentage": "0.02509",
+          "percentage": "0.028447",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.004033",
+          "percentage": "0.003818",
           "region": "Penghu"
         },
         {
-          "percentage": "0.014133",
+          "percentage": "0.01407",
           "region": "Nantou"
         },
         {
-          "percentage": "0.000857",
+          "percentage": "0.010276",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.000896",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.161176",
+          "percentage": "0.166533",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.00985",
+          "percentage": "0.009027",
           "region": "Hualien"
         },
         {
-          "percentage": "0.002927",
+          "percentage": "0.003064",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.002356",
+          "percentage": "0.002168",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.035155",
+          "percentage": "0.035093",
           "region": "Changhua"
         },
         {
-          "percentage": "0.112709",
+          "percentage": "0.118477",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.138228",
+          "percentage": "0.134622",
           "region": "Taichung"
         },
         {
-          "percentage": "0.097327",
+          "percentage": "0.098115",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.088083",
+          "percentage": "0.094296",
           "region": "Tainan"
         },
         {
-          "percentage": "0.182983",
+          "percentage": "0.168254",
           "region": "Taipei"
         },
         {
-          "percentage": "0.000107",
-          "region": "Lienchiang"
+          "percentage": "0.023945",
+          "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "4000",
-        "upper_bound": "4499"
+        "lower_bound": "6000",
+        "upper_bound": "6999"
       },
       "ad_id": "1263322707189651"
     }
@@ -5080,7 +5080,7 @@
     "開始日期": "2019-12-05",
     "結束日期": "2019-12-09",
     "廣告內容": "【忍受孤獨，是政治的必修課程】 五年前，面對砸下百萬、千萬選舉的對手，王浩宇選擇在路口站了320天，風吹雨淋、冷嘲熱諷，在桃園最深藍的選區，成為台灣第一個當選的綠黨籍直轄市議員。 那年，他只有26歲。 去年，他還是一樣、一樣站在路口、一次次的跟民眾訴說理念，在沒有選舉活動的狀況下就順利連任，大家都說，王浩宇是中壢最穩的議員，就算躺著也能連任議員，只要不要罵國民黨就好。 但是，他還是選擇說真話。 在中壢的眷村，曾經有那種地方，國民黨可以拿下95%以上的選票，這幾個里的選票就足以讓他被罷免。在韓國瑜支持度達到70%的中壢，面對下屆連任的壓力，他還是選擇說真話、勇敢告訴大家韓國瑜的真面目。 從街頭開始，一天、兩天、一個人、兩個人、一百個人、一千個人、一萬個人，走遍基層，他花了整整一年用上百次的街頭短講翻轉了深藍的中壢，市民終於從懷疑到相信他、相信他說的都是真的，韓國瑜的支持度終於在中壢崩盤，連眷村周邊都快要守不住。 現在，韓國瑜民調低了、欣賞度崩盤，中壢人不再討厭他，到了可以搶功勞的時候，他反而安靜了許多，因為他知道，他已經說了該說的話、盡了該盡的責任。 當大家都已經知道真相，就不用來收割了。 ＃政黨票投綠黨 ＃對抗吳斯懷一票",
-    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/78482712_10158122716406159_7810001580819742720_n.jpg?_nc_cat=111&_nc_ohc=0PL3MzajuLEAQnskxVmgh9WWMQYdOIpdxPTNFFhNjeGZIZ5K-Z-6AZ9ng&_nc_ht=scontent-hkg3-2.xx&oh=5de76f954acce7c90a785414853c78c0&oe=5EAE7F82",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/78482712_10158122716406159_7810001580819742720_n.jpg?_nc_cat=111&_nc_ohc=H8_QJ45vHgMAQnI1UqpFcUUWt6pAsgdOSEcVYXWt41HTY-zH0QD_QBIGA&_nc_ht=scontent-hkg3-2.xx&oh=538da204aa710cb78474c7a97695813f&oe=5EAE7F82",
     "廣告詳情": {
       "ad_creative_body": "【忍受孤獨，是政治的必修課程】\n\n五年前，面對砸下百萬、千萬選舉的對手，王浩宇選擇在路口站了320天，風吹雨淋、冷嘲熱諷，在桃園最深藍的選區，成為台灣第一個當選的綠黨籍直轄市議員。\n\n那年，他只有26歲。\n\n去年，他還是一樣、一樣站在路口、一次次的跟民眾訴說理念，在沒有選舉活動的狀況下就順利連任，大家都說，王浩宇是中壢最穩的議員，就算躺著也能連任議員，只要不要罵國民黨就好。\n\n但是，他還是選擇說真話。\n\n在中壢的眷村，曾經有那種地方，國民黨可以拿下95%以上的選票，這幾個里的選票就足以讓他被罷免。在韓國瑜支持度達到70%的中壢，面對下屆連任的壓力，他還是選擇說真話、勇敢告訴大家韓國瑜的真面目。\n\n從街頭開始，一天、兩天、一個人、兩個人、一百個人、一千個人、一萬個人，走遍基層，他花了整整一年用上百次的街頭短講翻轉了深藍的中壢，市民終於從懷疑到相信他、相信他說的都是真的，韓國瑜的支持度終於在中壢崩盤，連眷村周邊都快要守不住。\n\n現在，韓國瑜民調低了、欣賞度崩盤，中壢人不再討厭他，到了可以搶功勞的時候，他反而安靜了許多，因為他知道，他已經說了該說的話、盡了該盡的責任。\n\n當大家都已經知道真相，就不用來收割了。\n\n＃政黨票投綠黨\n＃對抗吳斯懷一票",
       "ad_creation_time": "2019-12-06T07:45:14+0000",
@@ -5223,7 +5223,7 @@
     "開始日期": "2019-12-08",
     "結束日期": "2019-12-11",
     "廣告內容": "【 綠黨的辦公室，讓記者大驚？！ 】 　 「什麼！？這真的是綠黨的辦公室嗎？」 前幾天，記者來到綠黨辦公室採訪鄧惠文醫師，卻發現綠黨的辦公室不但陽春、簡陋、沒有會議室，連大門壞掉都沒錢修。 是的，這就是綠黨。 2016年到現在，綠黨從負債幾百萬到慢慢改善財務，我們很努力地透過關心社會議題到民調，慢慢的讓這個政黨被看見。夥伴們幾乎都是上班整天，下班後花自己的時間來開會、關心議題。 雖然辛苦，但是我們持續努力，守護台灣、捍衛土地。 ＃捐款支持綠黨進國會》http://goo.gl/dmZ94R ＃綠黨Youtube官方》https://reurl.cc/W4M0aO ＃綠黨instagram官方》https://www.instagram.com/greenparty_tw鄧惠文X綠黨張竹芩 ㄑㄧㄣˊ",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79499613_740414523108522_6257803625565782016_n.jpg?_nc_cat=106&_nc_ohc=7Oejrk_PgYMAQnJjqAPtDyi_Sgvde6m9M68dwAH9Pm2gfa26RkDmP_5WQ&_nc_ht=scontent-hkg3-1.xx&oh=f0d2b5b8a16b687aa70f1ac849a03827&oe=5EAC5423",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/79499613_740414523108522_6257803625565782016_n.jpg?_nc_cat=106&_nc_ohc=KHLB4bCV0cYAQnqERV3sidQmueSxoOEKO94DqizNE6Sd5PNk2RuYy8htw&_nc_ht=scontent-hkg3-1.xx&oh=7d8e00479eb6472b9c4e3eef8840a2ca&oe=5EAC5423",
     "廣告詳情": {
       "ad_creative_body": "【 綠黨的辦公室，讓記者大驚？！ 】\n　\n「什麼！？這真的是綠黨的辦公室嗎？」\n\n前幾天，記者來到綠黨辦公室採訪鄧惠文醫師，卻發現綠黨的辦公室不但陽春、簡陋、沒有會議室，連大門壞掉都沒錢修。\n\n是的，這就是綠黨。\n\n2016年到現在，綠黨從負債幾百萬到慢慢改善財務，我們很努力地透過關心社會議題到民調，慢慢的讓這個政黨被看見。夥伴們幾乎都是上班整天，下班後花自己的時間來開會、關心議題。\n\n雖然辛苦，但是我們持續努力，守護台灣、捍衛土地。\n＃捐款支持綠黨進國會》http://goo.gl/dmZ94R\n\n＃綠黨Youtube官方》https://reurl.cc/W4M0aO\n＃綠黨instagram官方》https://www.instagram.com/greenparty_tw\n\n鄧惠文X綠黨\n張竹芩 ㄑㄧㄣˊ",
       "ad_creation_time": "2019-12-09T03:13:11+0000",
@@ -5434,7 +5434,7 @@
     "開始日期": "2019-12-10",
     "結束日期": "2019-12-14",
     "廣告內容": "＃分享支持  【我們的國會，值得鄧醫生嗎？】 　 決定參選後，鄧醫師放下手邊的所有工作，上節目、受訪、準備政策，幾乎沒日沒夜的工作，常常忙到連三餐都沒時間吃。 儘管我們都已經那麼努力，但根據綠黨本週最新的民調，還是有高達80%的民眾 ＃不知道鄧醫師參選立委。 為了讓大家知道鄧醫師參選，我們希望選前10天在鄧醫師常上的節目，例如新聞挖挖挖等節目廣告時段曝光，並在全國購買LED電視牆、廣播聯播網的廣告，搭配已經購買的公車廣告。 經過這幾天的募款，我們距離161.7萬元的廣告預算目標，還有大概30萬左右的距離，邀請大家跟我們一起，送鄧醫師進國會！ 線上捐款支持鄧醫師進國會 》http://goo.gl/dmZ94R ＃不只是抗中護台 ＃別讓台灣錯過鄧醫師",
-    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/78363727_10158132737826159_2337313377052786688_n.jpg?_nc_cat=110&_nc_ohc=EZpxr8_rLvoAQkw31MNEXk2HgDeWxSQ_7EIF1LAmVnthEugUL0pm4U8wA&_nc_ht=scontent-hkg3-2.xx&oh=05e5ff54585d34090facfa70a7370b8d&oe=5E73917E",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/78363727_10158132737826159_2337313377052786688_n.jpg?_nc_cat=110&_nc_ohc=Ckeq10v8PUwAQkASVUk4FZkUWKGnU54zBhBc1OI1FJDZqPr_vY1ExalQw&_nc_ht=scontent-hkg3-2.xx&oh=b0c7007187a0c44417c97cc95736cfbd&oe=5E9B1E7E",
     "廣告詳情": {
       "ad_creative_body": "＃分享支持  【我們的國會，值得鄧醫生嗎？】\n　\n決定參選後，鄧醫師放下手邊的所有工作，上節目、受訪、準備政策，幾乎沒日沒夜的工作，常常忙到連三餐都沒時間吃。\n\n儘管我們都已經那麼努力，但根據綠黨本週最新的民調，還是有高達80%的民眾 ＃不知道鄧醫師參選立委。\n\n為了讓大家知道鄧醫師參選，我們希望選前10天在鄧醫師常上的節目，例如新聞挖挖挖等節目廣告時段曝光，並在全國購買LED電視牆、廣播聯播網的廣告，搭配已經購買的公車廣告。\n\n經過這幾天的募款，我們距離161.7萬元的廣告預算目標，還有大概30萬左右的距離，邀請大家跟我們一起，送鄧醫師進國會！\n\n線上捐款支持鄧醫師進國會 》http://goo.gl/dmZ94R\n\n＃不只是抗中護台\n＃別讓台灣錯過鄧醫師",
       "ad_creation_time": "2019-12-10T10:40:57+0000",
@@ -5585,7 +5585,7 @@
     "開始日期": "2019-12-09",
     "結束日期": "2019-12-10",
     "廣告內容": "【台德建交，持續努力】 謝謝德國綠黨，讓台德建交成為可能❤️ 德國國會昨天舉行請願委員會，討論一個中國政策以及與德國與台灣建交的可能。 ✅ 德國綠黨支持台德建交 事實上，與台灣建交請願提案最初曾被請願委員會駁回，後來在德國綠黨的協助下，才在今年9月開放連署，並且突破5萬人連署門檻，召開公聽會。而綠黨前主席、現任國會議員厄茲德米爾(Cem Özdemir)等綠黨成員，昨天也特別到場為台灣發聲，支持德國與台灣建交！ ✅ 投台灣綠黨就是支持拓展國際空間 台灣綠黨，是台灣唯一的國際性政黨，與德國綠黨同為Global Greens的成員，綠黨在歐洲為主要政黨，未來如果進入國會，我們將與各國綠黨合作發揮在全球的影響力，替台灣拓展珍貴的國際空間。 ＃政黨票投綠黨 ＃不只是抗中護台 Thank you! BÜNDNIS 90/DIE GRÜNEN",
-    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79327333_10158151586126159_4545358585072189440_n.jpg?_nc_cat=109&_nc_ohc=w9LHmzkMVOkAQkz_jPtyjZjxjFRu-NL6nDEXe3sQwj1GYQ5xNt9lJqSNw&_nc_ht=scontent-hkg3-2.xx&oh=5c9392a06a325c244c867dece6d12530&oe=5EAC411E",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79327333_10158151586126159_4545358585072189440_n.jpg?_nc_cat=109&_nc_ohc=AljjVPeiyBYAQnFEjiQ3ge194G19loiiRgznBCmGFzOOC74e9HnmhUaPA&_nc_ht=scontent-hkg3-2.xx&oh=bb1e56ea7b7a17498d35890d97ff5492&oe=5EAC411E",
     "廣告詳情": {
       "ad_creative_body": "【台德建交，持續努力】\n\n謝謝德國綠黨，讓台德建交成為可能❤️\n\n德國國會昨天舉行請願委員會，討論一個中國政策以及與德國與台灣建交的可能。\n\n✅ 德國綠黨支持台德建交\n\n事實上，與台灣建交請願提案最初曾被請願委員會駁回，後來在德國綠黨的協助下，才在今年9月開放連署，並且突破5萬人連署門檻，召開公聽會。而綠黨前主席、現任國會議員厄茲德米爾(Cem Özdemir)等綠黨成員，昨天也特別到場為台灣發聲，支持德國與台灣建交！\n\n✅ 投台灣綠黨就是支持拓展國際空間\n\n台灣綠黨，是台灣唯一的國際性政黨，與德國綠黨同為Global Greens的成員，綠黨在歐洲為主要政黨，未來如果進入國會，我們將與各國綠黨合作發揮在全球的影響力，替台灣拓展珍貴的國際空間。\n\n＃政黨票投綠黨\n＃不只是抗中護台\n\nThank you! BÜNDNIS 90/DIE GRÜNEN",
       "ad_creation_time": "2019-12-10T02:58:43+0000",
@@ -5796,7 +5796,7 @@
     "開始日期": "2019-12-11",
     "結束日期": "2019-12-12",
     "廣告內容": "請問王炳忠，你在中國有事業投資嗎？ 根據最新公職人員財產申報，新黨不分區立委參選人王炳忠不但申報的現金、存款均為0元，也沒有申報任何事業投資。 但綠黨調查發現，王炳忠與女友合作在中國網站開設「忠文創」網路商店，販售鼓吹兩岸統一的T-Shirt、帽T、帽子等文創商品，王炳忠還在「微博」上自己親自穿著唱歌推銷相關商品。 除此之外，王炳忠還在中國出版銷售《我是台湾人 更是中国人》一書，據說銷售量相當不錯，卻沒有申報在中國的相關資產？ ＃中國的資產投資也必須公開申報 我們想請問王炳忠先生，您沒有申報任何的資產與事業投資，那請問「忠文創」是誰經營的？ 您在中國有任何資產嗎？ 是否應該透明申報？ ＃公開透明 ＃清楚說明",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79437387_10158155188361159_8556903394390835200_n.jpg?_nc_cat=105&_nc_ohc=u_Y2DIpjEzUAQmQYNM1aI4cX-FnqQZG0jpPqBy8Oy3RVwsTVr4P_STTOQ&_nc_ht=scontent-hkg3-1.xx&oh=70a998ed646ad88dc2bdc57fcd49f527&oe=5EAFAC85",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79437387_10158155188361159_8556903394390835200_n.jpg?_nc_cat=105&_nc_ohc=Xh1y8xS7hnUAQlJmjo6hi2gPX8XVPFjBnyhHHDEwNOK7BkBD7yTB3Ux3g&_nc_ht=scontent-hkg3-1.xx&oh=c6a4fb7b75e4dbc2f3db8a82190bfb28&oe=5EAFAC85",
     "廣告詳情": {
       "ad_creative_body": "請問王炳忠，你在中國有事業投資嗎？\n\n根據最新公職人員財產申報，新黨不分區立委參選人王炳忠不但申報的現金、存款均為0元，也沒有申報任何事業投資。\n\n但綠黨調查發現，王炳忠與女友合作在中國網站開設「忠文創」網路商店，販售鼓吹兩岸統一的T-Shirt、帽T、帽子等文創商品，王炳忠還在「微博」上自己親自穿著唱歌推銷相關商品。\n\n除此之外，王炳忠還在中國出版銷售《我是台湾人 更是中国人》一書，據說銷售量相當不錯，卻沒有申報在中國的相關資產？\n\n＃中國的資產投資也必須公開申報\n\n我們想請問王炳忠先生，您沒有申報任何的資產與事業投資，那請問「忠文創」是誰經營的？ 您在中國有任何資產嗎？ 是否應該透明申報？\n\n＃公開透明\n＃清楚說明",
       "ad_creation_time": "2019-12-11T09:17:11+0000",
@@ -6003,7 +6003,7 @@
     "開始日期": "2019-12-12",
     "結束日期": "2019-12-15",
     "廣告內容": "鄧惠文 代表綠黨參選立委，綠黨支持度上升，首度超越親民黨，在政黨排名中上升至第五位。 ＃政黨票投綠黨 ＃我們繼續努力",
-    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/s600x600/80928067_3170234472991429_350984602875068416_n.jpg?_nc_cat=110&_nc_ohc=Vw5IzAsZt0QAQm2r6yA21VwFdKG4G5PjvOx3PM2XHALSQnTXUyAkIicuw&_nc_ht=scontent-hkg3-2.xx&oh=5dbc6a6f67edf6b4fe323941e15fe1d2&oe=5EA81187",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/s600x600/80928067_3170234472991429_350984602875068416_n.jpg?_nc_cat=110&_nc_ohc=wjMlsajk7GoAQl_Iual-YjLWEYQV7oeABTdifvjFdT5LUteqGkglxQn7A&_nc_ht=scontent-hkg3-2.xx&oh=d76929a17ee42c477246ab6b79905b20&oe=5EA81187",
     "廣告詳情": {
       "ad_creative_body": "鄧惠文 代表綠黨參選立委，綠黨支持度上升，首度超越親民黨，在政黨排名中上升至第五位。\n\n＃政黨票投綠黨\n＃我們繼續努力",
       "ad_creation_time": "2019-12-13T07:11:24+0000",
@@ -6217,7 +6217,7 @@
     "開始日期": "2019-12-13",
     "結束日期": "2019-12-16",
     "廣告內容": "台灣的溫度，讓鄧惠文顧。 鄧醫師的限量面紙來了！ 歡迎 ＃主動索取發給身邊的朋友，告訴他們只要把 ＃政黨票投綠黨 就能跟我們一起送鄧惠文醫師進入國會，讓鄧醫師在國會推動更多專業、溫暖的法案！ ＃歡迎私訊綠黨索取 因為數量有限，也邀請您 ＃贊助1元助印1包：https://www.greenparty.org.tw/civicrm/contribute/transact?reset=1&id=4",
-    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79348994_10158164382001159_8610327053771735040_n.jpg?_nc_cat=111&_nc_ohc=2HdehrLRqC0AQm5v0GTC8vvPNb2ZR6jtkAXwwUyrnympJuiEZ2ypIJLkw&_nc_ht=scontent-hkg3-2.xx&oh=c0d15c07734f30ee354deba8a06d7295&oe=5EB217C9",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79348994_10158164382001159_8610327053771735040_n.jpg?_nc_cat=111&_nc_ohc=QHvec1U1KCcAQlizeSORVBErx7mDfL0qByJMU5e5G1ZRTCR0ptxjl72Sg&_nc_ht=scontent-hkg3-2.xx&oh=8d3e26db5f79ee4a9e88033384d925ec&oe=5EB217C9",
     "廣告詳情": {
       "ad_creative_body": "台灣的溫度，讓鄧惠文顧。\n\n鄧醫師的限量面紙來了！ 歡迎 ＃主動索取發給身邊的朋友，告訴他們只要把 ＃政黨票投綠黨 就能跟我們一起送鄧惠文醫師進入國會，讓鄧醫師在國會推動更多專業、溫暖的法案！\n\n＃歡迎私訊綠黨索取\n\n因為數量有限，也邀請您 ＃贊助1元助印1包：https://www.greenparty.org.tw/civicrm/contribute/transact?reset=1&id=4",
       "ad_creation_time": "2019-12-14T07:11:12+0000",
@@ -6428,7 +6428,7 @@
     "開始日期": "2019-12-13",
     "結束日期": "2019-12-20",
     "廣告內容": "【民眾黨，支持吳斯懷當國防召委嗎？】 桃園市議員王浩宇在今天的政論節目上問了民眾黨發言人這個問題，他連不支持吳斯懷都不敢表態！請幫忙把這個影片分享出去，讓大家知道什麼叫做搖擺投機的政黨！ #一定要幫忙分享￼ #投給他們真的很危險",
-    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/80376884_511293673062804_7674224126856265728_n.jpg?_nc_cat=110&_nc_ohc=wPTtsk5TrLkAQllSc_CxCNR5iGbM8G_S9VatVWrOI8_BXNt4H_zAqaCvw&_nc_ht=scontent-hkg3-2.xx&oh=29f52e58345ef1ca6a16ae78aaa07ddc&oe=5EABD520",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/80376884_511293673062804_7674224126856265728_n.jpg?_nc_cat=110&_nc_ohc=nmz9Q7vphZ8AQkzmOOiWNeja7YHiPTO8H4AHfJD0WM89lmy_w2dEB4ygA&_nc_ht=scontent-hkg3-2.xx&oh=656630e7abcd652ea8e989db469fdaed&oe=5EABD520",
     "廣告詳情": {
       "ad_creative_body": "【民眾黨，支持吳斯懷當國防召委嗎？】\n\n桃園市議員王浩宇在今天的政論節目上問了民眾黨發言人這個問題，他連不支持吳斯懷都不敢表態！請幫忙把這個影片分享出去，讓大家知道什麼叫做搖擺投機的政黨！\n\n#一定要幫忙分享￼\n#投給他們真的很危險",
       "ad_creation_time": "2019-12-13T18:25:29+0000",
@@ -6640,7 +6640,7 @@
     "開始日期": "2019-12-18",
     "結束日期": "2019-12-22",
     "廣告內容": "【 你辛苦了！請跟我一起站出來，拿回合理的生活。】 鄧惠文醫師：「今天謝謝所有看完辯論的、關心台灣的你，但是看了三個小時，你們是否一樣失望？如果你們跟我一樣，我們不是原本就在這個政治圈子的人，你一定會覺得說，台灣還要再亂到什麼時候？ 如果一個黨告訴你，他任職的時候做了什麼事，你要想想那是不是之前另外一黨做的時候已經規劃好，他只是乘涼；又有沒有一些黨，他自己執政很久，他做不到的事情，換黨了之後，他就大聲批評別人，所以各位如果你也累了，請投小黨，在小黨裡面要怎麼選擇？請選擇有核心理念的政黨。 綠黨不會有財團的奧援，但綠黨用心推行好政策的動能不減，像是在台灣人權促進會的每月一問政策評比中，皆名列前茅，最終更以最高的平均得分，贏過拿了好幾億政黨補助款的民進黨、國民黨、親民黨、時代力量、新黨，也贏過民眾黨、基進黨等新興小黨，獲得所有政黨中『最佳政策第一名』。綠黨目前的政黨補助款是0，但是動能滿分，希望大家將政黨票投給綠黨，讓我們的優良政見變成真正可以改善生活的法案。」",
-    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/80405637_981326585576913_5676630533929435136_n.jpg?_nc_cat=109&_nc_ohc=6xWtIvAZi6oAQnsQ0_xClyEywtNYJZ0Xly7ctJM42KoHB-3l52SmMM4AA&_nc_ht=scontent-hkg3-2.xx&oh=d7da2d3c3f2b617da145cf19d68fb0e2&oe=5EA07D29",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/80405637_981326585576913_5676630533929435136_n.jpg?_nc_cat=109&_nc_ohc=gXSajRpvdm4AQm3VeQOOavOMSy0-LrgY-XMDgwswgPcyDqWSlIotXgU2w&_nc_ht=scontent-hkg3-2.xx&oh=2db45baf73bbc968f41ee6a7c445af74&oe=5EA07D29",
     "廣告詳情": {
       "ad_creative_body": "【 你辛苦了！請跟我一起站出來，拿回合理的生活。】\n\n鄧惠文醫師：「今天謝謝所有看完辯論的、關心台灣的你，但是看了三個小時，你們是否一樣失望？如果你們跟我一樣，我們不是原本就在這個政治圈子的人，你一定會覺得說，台灣還要再亂到什麼時候？\n\n如果一個黨告訴你，他任職的時候做了什麼事，你要想想那是不是之前另外一黨做的時候已經規劃好，他只是乘涼；又有沒有一些黨，他自己執政很久，他做不到的事情，換黨了之後，他就大聲批評別人，所以各位如果你也累了，請投小黨，在小黨裡面要怎麼選擇？請選擇有核心理念的政黨。\n\n綠黨不會有財團的奧援，但綠黨用心推行好政策的動能不減，像是在台灣人權促進會的每月一問政策評比中，皆名列前茅，最終更以最高的平均得分，贏過拿了好幾億政黨補助款的民進黨、國民黨、親民黨、時代力量、新黨，也贏過民眾黨、基進黨等新興小黨，獲得所有政黨中『最佳政策第一名』。綠黨目前的政黨補助款是0，但是動能滿分，希望大家將政黨票投給綠黨，讓我們的優良政見變成真正可以改善生活的法案。」",
       "ad_creation_time": "2019-12-15T12:21:51+0000",
@@ -6852,7 +6852,7 @@
     "開始日期": "2019-12-18",
     "結束日期": "2019-12-22",
     "廣告內容": "「我想，作為一個醫師、心理治療師已經二十幾年了，我看到太多的人很認真、很美好，但是在生活的壓力下過得並不快樂。 許多法令和政策沒有照顧到這些在現實中打拼的好人，那是因為對於人心、需求不夠了解。 如果你想給孩子乾淨的環境、如果你愛孩子，知道要教他努力，但是也希望社會給他公平的機會，那麼請支持綠黨。我們和你同心，重新打造最合理的生活。 希望我們可以一起攜手前行，讓夢想實現。」 　 ------ 我是鄧惠文，每天都有人問我：「為什麼要參選？」 我想，作為一個醫師、心理治療師已經二十幾年了，我看到太多的人 很認真、很美好，但是在生活的壓力下過得並不快樂。許多法令和政策沒有照顧到這些在現實中打拼的好人，那是因為對於人心、需求不夠瞭解。 我們需要的不是爭鬥，也不只是經濟。 臺灣現在需要的是從我們到我們的下一代，讓每個人都可以幸福、可以自主。 綠黨從20多年前就堅持土地的環保，現在我們也重視心靈的環保。所以我們一定會消除岐視，推動自由跟平等，讓所有的人怎麼生活，怎麼愛都可以自由選擇。 如果你想給孩子乾淨的環境，如果你愛孩子，知道要教他努力，但是也希望社會給他公平的機會。 那麼請支持綠黨，我們和你同心，重新打造最合理的生活，希望我們可以一起攜手前行、讓夢想實現。 無論如何我們珍惜你的理想，讓臺灣人一起自主、自由、幸福。 ＃政黨票投綠黨 讓了解你的人，改變立法院。 ＠鄧惠文X綠黨",
-    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/80546862_1603246866484136_5714160847220113408_n.jpg?_nc_cat=111&_nc_ohc=FHfQv9tOsLMAQnbTFt9t2H9QwaCzQ7SBJNniIqDl7-TWDM1oO_PoE7s3g&_nc_ht=scontent-hkg3-2.xx&oh=72530de4e46b6b89d19eb11dd49ae9bf&oe=5E66EEDB",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/80546862_1603246866484136_5714160847220113408_n.jpg?_nc_cat=111&_nc_ohc=8JgfK_znZh0AQlyCShOF1qt8KhTNioU_pnohhXJfWnVyLPYSS1Yl5X64g&_nc_ht=scontent-hkg3-2.xx&oh=9f61705f222a7afff95b85e327c44e65&oe=5E66EEDB",
     "廣告詳情": {
       "ad_creative_body": "「我想，作為一個醫師、心理治療師已經二十幾年了，我看到太多的人很認真、很美好，但是在生活的壓力下過得並不快樂。\n\n許多法令和政策沒有照顧到這些在現實中打拼的好人，那是因為對於人心、需求不夠了解。\n\n如果你想給孩子乾淨的環境、如果你愛孩子，知道要教他努力，但是也希望社會給他公平的機會，那麼請支持綠黨。我們和你同心，重新打造最合理的生活。\n\n希望我們可以一起攜手前行，讓夢想實現。」\n　\n------\n我是鄧惠文，每天都有人問我：「為什麼要參選？」\n\n我想，作為一個醫師、心理治療師已經二十幾年了，我看到太多的人 很認真、很美好，但是在生活的壓力下過得並不快樂。許多法令和政策沒有照顧到這些在現實中打拼的好人，那是因為對於人心、需求不夠瞭解。\n\n我們需要的不是爭鬥，也不只是經濟。\n臺灣現在需要的是從我們到我們的下一代，讓每個人都可以幸福、可以自主。\n\n綠黨從20多年前就堅持土地的環保，現在我們也重視心靈的環保。所以我們一定會消除岐視，推動自由跟平等，讓所有的人怎麼生活，怎麼愛都可以自由選擇。\n\n如果你想給孩子乾淨的環境，如果你愛孩子，知道要教他努力，但是也希望社會給他公平的機會。\n\n那麼請支持綠黨，我們和你同心，重新打造最合理的生活，希望我們可以一起攜手前行、讓夢想實現。\n\n無論如何我們珍惜你的理想，讓臺灣人一起自主、自由、幸福。\n\n＃政黨票投綠黨\n讓了解你的人，改變立法院。\n\n＠鄧惠文X綠黨",
       "ad_creation_time": "2019-12-17T15:07:49+0000",
@@ -7065,7 +7065,7 @@
     "開始日期": "2019-12-17",
     "結束日期": "2019-12-18",
     "廣告內容": "【扯！違停被取締竟抹黑林智堅？ 高鈺婷踹共！】　 時代力量立委參選人高鈺婷在網紅「館長」直播，控訴自己的宣傳車停在停車格、路邊遭到新竹市府打壓，館長聽了相當氣憤，要新竹市長林智堅出面踹共，怒嗆：「如果你新竹市市長要當成這樣話，我他媽我真的看不起你。」林智堅臉書也瞬間被館粉洗爆，辱罵流言不斷。 但我們接獲網友爆料指出，高鈺婷的宣傳車不但長期違規停車，還停在轉角、人行道、路旁空間不夠寬的白線佔據道路，根本不符合交通法規，持續造成行人危險。此外，宣傳車本來就不能停在「停車格」內，反控高鈺婷自己違規在先，卻惡人先告狀抹黑林智堅。 違規停車在先的高鈺婷，不但沒有自我檢討，還在館長節目裝可憐、控訴遭到林智堅打壓，讓林智堅臉書被館粉洗版。 難道這就是新政治？",
-    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79704963_10158177385191159_7085834794377936896_n.jpg?_nc_cat=107&_nc_ohc=K4IkV-F1D98AQlPNkCxKW853o5Dk_BJ00-BWAUY138uxlBCuPJmXk30Lg&_nc_ht=scontent-hkg3-2.xx&oh=c5fb7871d2639d7e7913dbb163a24747&oe=5E6FE388",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79704963_10158177385191159_7085834794377936896_n.jpg?_nc_cat=107&_nc_ohc=FT04buI06wkAQkkstvGsYxGVg6Lp-b9cURb7KZOcaUbRaNk4fLEvDvPUA&_nc_ht=scontent-hkg3-2.xx&oh=d0c93aac8a56c22f0c5997999b8c83dd&oe=5E6FE388",
     "廣告詳情": {
       "ad_creative_body": "【扯！違停被取締竟抹黑林智堅？ 高鈺婷踹共！】　\n\n時代力量立委參選人高鈺婷在網紅「館長」直播，控訴自己的宣傳車停在停車格、路邊遭到新竹市府打壓，館長聽了相當氣憤，要新竹市長林智堅出面踹共，怒嗆：「如果你新竹市市長要當成這樣話，我他媽我真的看不起你。」林智堅臉書也瞬間被館粉洗爆，辱罵流言不斷。\n\n但我們接獲網友爆料指出，高鈺婷的宣傳車不但長期違規停車，還停在轉角、人行道、路旁空間不夠寬的白線佔據道路，根本不符合交通法規，持續造成行人危險。此外，宣傳車本來就不能停在「停車格」內，反控高鈺婷自己違規在先，卻惡人先告狀抹黑林智堅。\n\n違規停車在先的高鈺婷，不但沒有自我檢討，還在館長節目裝可憐、控訴遭到林智堅打壓，讓林智堅臉書被館粉洗版。\n\n難道這就是新政治？",
       "ad_creation_time": "2019-12-18T06:39:52+0000",
@@ -7274,9 +7274,9 @@
     "AD_ID": "1787243631410207",
     "登錄為政治廣告": "是",
     "開始日期": "2019-12-19",
-    "結束日期": "1970-01-01",
+    "結束日期": "2019-12-30",
     "廣告內容": "換上特效框，我支持12號綠黨!! 鄧惠文進國會 #鄧惠文 #宣告我的投票意志 #2020台灣要贏 總統票👉🏻3號蔡英文、賴清德 立委票👉🏻不親中立委 政黨票👉🏻12號綠黨",
-    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79510643_10158181333066159_1500190466849636352_n.jpg?_nc_cat=111&_nc_ohc=c6YygByYT08AQl36AofCvrw1ossBX8-Z-EHEqBgl0KSicn3pnlpr1xDsQ&_nc_ht=scontent-hkg3-2.xx&oh=2ecc73ee1dae3026a338104e87d6bcf2&oe=5EAF42F2",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79510643_10158181333066159_1500190466849636352_n.jpg?_nc_cat=111&_nc_ohc=Lf727a6t1a8AQmdD9x0gpBi5TOMoaYFCNa-7h6yOBjybCX1xh_vDhApFQ&_nc_ht=scontent-hkg3-2.xx&oh=a27344eb450936b2acef483963772b58&oe=5EAF42F2",
     "廣告詳情": {
       "ad_creative_body": "換上特效框，我支持12號綠黨!!\n鄧惠文進國會\n#鄧惠文\n#宣告我的投票意志\n#2020台灣要贏\n總統票👉🏻3號蔡英文、賴清德\n立委票👉🏻不親中立委\n政黨票👉🏻12號綠黨",
       "ad_creation_time": "2019-12-19T15:42:02+0000",
@@ -7285,196 +7285,196 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.032686",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.076073",
+          "percentage": "0.074649",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.000967",
+          "percentage": "0.03893",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000268",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00087",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.002668",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000704",
+          "percentage": "0.000647",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00041",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.002433",
+          "percentage": "0.00223",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.036146",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.089265",
+          "percentage": "0.002854",
           "age": "25-34",
-          "gender": "female"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.181109",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.043445",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.045614",
+          "percentage": "0.038841",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.080705",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.119078",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.189376",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.017061",
+          "percentage": "0.016343",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.081995",
+          "percentage": "0.032821",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.041984",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.071304",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.000264",
-          "age": "55-64",
+          "percentage": "0.178528",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.193378",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.113668",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.105128",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.087224",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000334",
+          "age": "65+",
           "gender": "unknown"
         }
       ],
       "funding_entity": "浩宇 王",
       "impressions": {
-        "lower_bound": "100000",
-        "upper_bound": "124999"
+        "lower_bound": "175000",
+        "upper_bound": "199999"
       },
       "page_id": "282353111158",
       "page_name": "綠黨",
       "region_distribution": [
         {
-          "percentage": "0.017874",
+          "percentage": "0.017332",
           "region": "Unknown"
         },
         {
-          "percentage": "0.000115",
+          "percentage": "0.000108",
           "region": "Lienchiang"
         },
         {
-          "percentage": "0.010724",
+          "percentage": "0.010269",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.017442",
+          "percentage": "0.017354",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.009831",
+          "percentage": "0.009771",
           "region": "Yilan"
         },
         {
-          "percentage": "0.006198",
+          "percentage": "0.005958",
           "region": "Taitung"
         },
         {
-          "percentage": "0.022919",
+          "percentage": "0.022185",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.002249",
+          "percentage": "0.002123",
           "region": "Penghu"
         },
         {
-          "percentage": "0.009715",
+          "percentage": "0.009186",
           "region": "Nantou"
         },
         {
-          "percentage": "0.007351",
+          "percentage": "0.006846",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.001268",
+          "percentage": "0.001278",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.147519",
+          "percentage": "0.142492",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.010926",
+          "percentage": "0.010508",
           "region": "Hualien"
         },
         {
-          "percentage": "0.004209",
+          "percentage": "0.004528",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.00147",
+          "percentage": "0.001582",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.023294",
+          "percentage": "0.022012",
           "region": "Changhua"
         },
         {
-          "percentage": "0.104938",
+          "percentage": "0.108716",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.115259",
+          "percentage": "0.115714",
           "region": "Taichung"
         },
         {
-          "percentage": "0.095338",
+          "percentage": "0.103841",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.086891",
+          "percentage": "0.085621",
           "region": "Tainan"
         },
         {
-          "percentage": "0.274137",
+          "percentage": "0.27335",
           "region": "Taipei"
         },
         {
-          "percentage": "0.030328",
+          "percentage": "0.029226",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "10000",
-        "upper_bound": "14999"
+        "lower_bound": "15000",
+        "upper_bound": "19999"
       },
       "ad_id": "1787243631410207"
     }
@@ -7487,7 +7487,7 @@
     "開始日期": "2019-12-18",
     "結束日期": "2019-12-22",
     "廣告內容": "【 你辛苦了！請跟我一起站出來，拿回合理的生活。】 鄧惠文醫師：「今天謝謝所有看完辯論的、關心台灣的你，但是看了三個小時，你們是否一樣失望？如果你們跟我一樣，我們不是原本就在這個政治圈子的人，你一定會覺得說，台灣還要再亂到什麼時候？ 如果一個黨告訴你，他任職的時候做了什麼事，你要想想那是不是之前另外一黨做的時候已經規劃好，他只是乘涼；又有沒有一些黨，他自己執政很久，他做不到的事情，換黨了之後，他就大聲批評別人，所以各位如果你也累了，請投小黨，在小黨裡面要怎麼選擇？請選擇有核心理念的政黨。 綠黨不會有財團的奧援，但綠黨用心推行好政策的動能不減，像是在台灣人權促進會的每月一問政策評比中，皆名列前茅，最終更以最高的平均得分，贏過拿了好幾億政黨補助款的民進黨、國民黨、親民黨、時代力量、新黨，也贏過民眾黨、基進黨等新興小黨，獲得所有政黨中『最佳政策第一名』。綠黨目前的政黨補助款是0，但是動能滿分，希望大家將政黨票投給綠黨，讓我們的優良政見變成真正可以改善生活的法案。」",
-    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/80405637_981326585576913_5676630533929435136_n.jpg?_nc_cat=109&_nc_ohc=6xWtIvAZi6oAQnsQ0_xClyEywtNYJZ0Xly7ctJM42KoHB-3l52SmMM4AA&_nc_ht=scontent-hkg3-2.xx&oh=d7da2d3c3f2b617da145cf19d68fb0e2&oe=5EA07D29",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/80405637_981326585576913_5676630533929435136_n.jpg?_nc_cat=109&_nc_ohc=gXSajRpvdm4AQm3VeQOOavOMSy0-LrgY-XMDgwswgPcyDqWSlIotXgU2w&_nc_ht=scontent-hkg3-2.xx&oh=2db45baf73bbc968f41ee6a7c445af74&oe=5EA07D29",
     "廣告詳情": {
       "ad_creative_body": "【 你辛苦了！請跟我一起站出來，拿回合理的生活。】\n\n鄧惠文醫師：「今天謝謝所有看完辯論的、關心台灣的你，但是看了三個小時，你們是否一樣失望？如果你們跟我一樣，我們不是原本就在這個政治圈子的人，你一定會覺得說，台灣還要再亂到什麼時候？\n\n如果一個黨告訴你，他任職的時候做了什麼事，你要想想那是不是之前另外一黨做的時候已經規劃好，他只是乘涼；又有沒有一些黨，他自己執政很久，他做不到的事情，換黨了之後，他就大聲批評別人，所以各位如果你也累了，請投小黨，在小黨裡面要怎麼選擇？請選擇有核心理念的政黨。\n\n綠黨不會有財團的奧援，但綠黨用心推行好政策的動能不減，像是在台灣人權促進會的每月一問政策評比中，皆名列前茅，最終更以最高的平均得分，贏過拿了好幾億政黨補助款的民進黨、國民黨、親民黨、時代力量、新黨，也贏過民眾黨、基進黨等新興小黨，獲得所有政黨中『最佳政策第一名』。綠黨目前的政黨補助款是0，但是動能滿分，希望大家將政黨票投給綠黨，讓我們的優良政見變成真正可以改善生活的法案。」",
       "ad_creation_time": "2019-12-19T06:30:54+0000",
@@ -7699,7 +7699,7 @@
     "開始日期": "2019-12-18",
     "結束日期": "2019-12-22",
     "廣告內容": "親民黨過去四年，在國會立了哪些法？ 秦明明就有參加解放軍閱兵，為什麼不能說？ 平常都沒有存在感，到了選舉才出現，用所謂的中道理性來隱藏親中的政黨立場。 就讓這場仗，成為親民黨的終局之戰吧！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80634454_684344918759745_9210907221423030272_n.jpg?_nc_cat=103&_nc_ohc=p83bRh72OjcAQn6yyzpDSAuzt-wM2n3puH77SotMRz4bmmFRpVIwICTQw&_nc_ht=scontent-hkg3-1.xx&oh=575eec509a5f682395e253e3f61290c6&oe=5EA851D8",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80634454_684344918759745_9210907221423030272_n.jpg?_nc_cat=103&_nc_ohc=M3QTsdsPcPwAQlYgHlkkqG2EvS98ljfLWOuCjO9ibcSzWMC96E_CuJstQ&_nc_ht=scontent-hkg3-1.xx&oh=2b8f4816fb85fad14f859140cc43839a&oe=5EA851D8",
     "廣告詳情": {
       "ad_creative_body": "親民黨過去四年，在國會立了哪些法？\n秦明明就有參加解放軍閱兵，為什麼不能說？\n\n平常都沒有存在感，到了選舉才出現，用所謂的中道理性來隱藏親中的政黨立場。\n\n就讓這場仗，成為親民黨的終局之戰吧！",
       "ad_creation_time": "2019-12-19T06:29:22+0000",
@@ -7843,7 +7843,7 @@
     "開始日期": "2019-12-18",
     "結束日期": "2019-12-22",
     "廣告內容": "「我想，作為一個醫師、心理治療師已經二十幾年了，我看到太多的人很認真、很美好，但是在生活的壓力下過得並不快樂。 許多法令和政策沒有照顧到這些在現實中打拼的好人，那是因為對於人心、需求不夠了解。 如果你想給孩子乾淨的環境、如果你愛孩子，知道要教他努力，但是也希望社會給他公平的機會，那麼請支持綠黨。我們和你同心，重新打造最合理的生活。 希望我們可以一起攜手前行，讓夢想實現。」 　 ------ 我是鄧惠文，每天都有人問我：「為什麼要參選？」 我想，作為一個醫師、心理治療師已經二十幾年了，我看到太多的人 很認真、很美好，但是在生活的壓力下過得並不快樂。許多法令和政策沒有照顧到這些在現實中打拼的好人，那是因為對於人心、需求不夠瞭解。 我們需要的不是爭鬥，也不只是經濟。 臺灣現在需要的是從我們到我們的下一代，讓每個人都可以幸福、可以自主。 綠黨從20多年前就堅持土地的環保，現在我們也重視心靈的環保。所以我們一定會消除岐視，推動自由跟平等，讓所有的人怎麼生活，怎麼愛都可以自由選擇。 如果你想給孩子乾淨的環境，如果你愛孩子，知道要教他努力，但是也希望社會給他公平的機會。 那麼請支持綠黨，我們和你同心，重新打造最合理的生活，希望我們可以一起攜手前行、讓夢想實現。 無論如何我們珍惜你的理想，讓臺灣人一起自主、自由、幸福。 ＃政黨票投綠黨 讓了解你的人，改變立法院。 ＠鄧惠文X綠黨",
-    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/80546862_1603246866484136_5714160847220113408_n.jpg?_nc_cat=111&_nc_ohc=FHfQv9tOsLMAQnbTFt9t2H9QwaCzQ7SBJNniIqDl7-TWDM1oO_PoE7s3g&_nc_ht=scontent-hkg3-2.xx&oh=72530de4e46b6b89d19eb11dd49ae9bf&oe=5E66EEDB",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/80546862_1603246866484136_5714160847220113408_n.jpg?_nc_cat=111&_nc_ohc=8JgfK_znZh0AQlyCShOF1qt8KhTNioU_pnohhXJfWnVyLPYSS1Yl5X64g&_nc_ht=scontent-hkg3-2.xx&oh=9f61705f222a7afff95b85e327c44e65&oe=5E66EEDB",
     "廣告詳情": {
       "ad_creative_body": "「我想，作為一個醫師、心理治療師已經二十幾年了，我看到太多的人很認真、很美好，但是在生活的壓力下過得並不快樂。\n\n許多法令和政策沒有照顧到這些在現實中打拼的好人，那是因為對於人心、需求不夠了解。\n\n如果你想給孩子乾淨的環境、如果你愛孩子，知道要教他努力，但是也希望社會給他公平的機會，那麼請支持綠黨。我們和你同心，重新打造最合理的生活。\n\n希望我們可以一起攜手前行，讓夢想實現。」\n　\n------\n我是鄧惠文，每天都有人問我：「為什麼要參選？」\n\n我想，作為一個醫師、心理治療師已經二十幾年了，我看到太多的人 很認真、很美好，但是在生活的壓力下過得並不快樂。許多法令和政策沒有照顧到這些在現實中打拼的好人，那是因為對於人心、需求不夠瞭解。\n\n我們需要的不是爭鬥，也不只是經濟。\n臺灣現在需要的是從我們到我們的下一代，讓每個人都可以幸福、可以自主。\n\n綠黨從20多年前就堅持土地的環保，現在我們也重視心靈的環保。所以我們一定會消除岐視，推動自由跟平等，讓所有的人怎麼生活，怎麼愛都可以自由選擇。\n\n如果你想給孩子乾淨的環境，如果你愛孩子，知道要教他努力，但是也希望社會給他公平的機會。\n\n那麼請支持綠黨，我們和你同心，重新打造最合理的生活，希望我們可以一起攜手前行、讓夢想實現。\n\n無論如何我們珍惜你的理想，讓臺灣人一起自主、自由、幸福。\n\n＃政黨票投綠黨\n讓了解你的人，改變立法院。\n\n＠鄧惠文X綠黨",
       "ad_creation_time": "2019-12-19T06:27:08+0000",
@@ -7996,7 +7996,7 @@
     "開始日期": "2019-12-18",
     "結束日期": "2019-12-22",
     "廣告內容": "今天，我們抽到12號。 ＃政黨投12綠黨  ＃總統3蔡英文  綠黨不用假中立欺騙選票，我們選擇清楚表態，沒有模糊空間。這就是綠黨，很清楚、很進步。 我們的價值，非常明確。 2020年1月11日投綠黨、投蔡英文：我們一起 ＃抗中保台，一起 ＃支持鄧惠文進國會。 最後，請捐款支持綠黨：＃走完關鍵選戰https://www.greenparty.org.tw/civicrm/contribute/transact?reset=1&id=4",
-    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79751394_10158177608106159_3013824533523070976_n.jpg?_nc_cat=111&_nc_ohc=MFJ5TchboW0AQkYLd-EGiJDCo3czGSrOKE04HawhvaQ6fYpBrWUrjw65Q&_nc_ht=scontent-hkg3-2.xx&oh=10f2e78d8649896828afc4ee37a7f743&oe=5E73844C",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79751394_10158177608106159_3013824533523070976_n.jpg?_nc_cat=111&_nc_ohc=fRYdl0VIgRYAQl2HvBarcfRMOd406CUjzWeKqq2nu5x6xdWVf7JPczjQA&_nc_ht=scontent-hkg3-2.xx&oh=cc93abb6ad0d18ec70ef2f1b43da9fe6&oe=5E9B114C",
     "廣告詳情": {
       "ad_creative_body": "今天，我們抽到12號。\n\n＃政黨投12綠黨 \n＃總統3蔡英文 \n\n綠黨不用假中立欺騙選票，我們選擇清楚表態，沒有模糊空間。這就是綠黨，很清楚、很進步。\n\n我們的價值，非常明確。\n\n2020年1月11日投綠黨、投蔡英文：我們一起 ＃抗中保台，一起 ＃支持鄧惠文進國會。\n\n最後，請捐款支持綠黨：＃走完關鍵選戰\nhttps://www.greenparty.org.tw/civicrm/contribute/transact?reset=1&id=4",
       "ad_creation_time": "2019-12-19T06:25:41+0000",
@@ -8147,7 +8147,7 @@
     "開始日期": "2019-12-20",
     "結束日期": "2019-12-22",
     "廣告內容": "＃最後關鍵 捐款幫助綠黨，送鄧醫師進國會！ 這段時間，綠黨全面開展選舉活動，除了 ＃拜票電話 ＃廣播廣告 ＃LED電視牆 ＃公車廣告 及 ＃週週民調 外，今天開始，您也可能在電視上看到鄧醫師的廣告，沒有大家的幫忙，這一切都不可能。 為了讓更多人知道鄧醫師參選，我們計算了女性最喜歡觀看的幾個節目，平就可能的接觸人數，希望能在幾個節目時段播放廣告。 但這筆電視廣告預算，需要50萬。 因為預算有限，我們最後只能減少檔次到33萬元，而這筆預算必須在五天內到位，而綠黨的選舉經費極為拮据，所有的花費都在最後這幾天必須支付，我們真的需要大家的幫忙，跟我們一起達成目標。 四年的努力，就看最後這二十幾天，如果你肯定綠黨的努力、肯定我們抗中護台，請幫助綠黨、幫助鄧醫師，希望我們有機會能把進步價值帶入國會。 ＃線上捐款支持鄧醫師進國會 》http://goo.gl/dmZ94R ＃不錯過鄧醫師",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80371594_10158184169011159_3233193419845140480_n.jpg?_nc_cat=108&_nc_ohc=XCAAR0qDFcEAQm2MjuQV8wq_SEdli3icb2WwQ8WnmExQTTzAG8bGVQaQg&_nc_ht=scontent-hkg3-1.xx&oh=7ccb0b45dd4aca3bec3026c4b648ac86&oe=5EA2BBEA",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80371594_10158184169011159_3233193419845140480_n.jpg?_nc_cat=108&_nc_ohc=Cjrae6pWl-QAQkn6YYkt8QucKmr_DBowCbdgnyJKXofKcm_d9LzrzmuBg&_nc_ht=scontent-hkg3-1.xx&oh=1bd887462ba85482c88d97c78c54d061&oe=5EA2BBEA",
     "廣告詳情": {
       "ad_creative_body": "＃最後關鍵 捐款幫助綠黨，送鄧醫師進國會！\n\n這段時間，綠黨全面開展選舉活動，除了 ＃拜票電話 ＃廣播廣告 ＃LED電視牆 ＃公車廣告 及 ＃週週民調 外，今天開始，您也可能在電視上看到鄧醫師的廣告，沒有大家的幫忙，這一切都不可能。\n\n為了讓更多人知道鄧醫師參選，我們計算了女性最喜歡觀看的幾個節目，平就可能的接觸人數，希望能在幾個節目時段播放廣告。\n\n但這筆電視廣告預算，需要50萬。\n\n因為預算有限，我們最後只能減少檔次到33萬元，而這筆預算必須在五天內到位，而綠黨的選舉經費極為拮据，所有的花費都在最後這幾天必須支付，我們真的需要大家的幫忙，跟我們一起達成目標。\n\n四年的努力，就看最後這二十幾天，如果你肯定綠黨的努力、肯定我們抗中護台，請幫助綠黨、幫助鄧醫師，希望我們有機會能把進步價值帶入國會。\n\n＃線上捐款支持鄧醫師進國會 》http://goo.gl/dmZ94R\n\n＃不錯過鄧醫師",
       "ad_creation_time": "2019-12-20T10:53:32+0000",
@@ -8358,7 +8358,7 @@
     "開始日期": "2019-12-19",
     "結束日期": "2019-12-20",
     "廣告內容": "【歷史新高！綠黨政黨認同達3.8%。】 　 最近，你可能會發現身邊支持綠黨的朋友變多了！是的！根據綠黨本週委託展新執行的最新民調，在 ＃提示政黨選項 的調查方式下，綠黨政黨認同度達 3.8%，再創24年新高。 根據民調推估未表態民眾計算，綠黨已經非常有機會突破 5%門檻，邀請大家接到電話民調 ＃勇敢支持綠黨。 1月11日  ＃政黨票投綠黨 跟我們一起，送鄧醫師進國會！ 捐款讓更多人知道鄧醫師參選：https://www.greenparty.org.tw/civicrm/contribute/transact?reset=1&id=4",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80316292_10158183598301159_7626051503081390080_n.jpg?_nc_cat=105&_nc_ohc=QGJAobaNlZkAQmPTFB_hyAmeEgH0jhWS9Xr4QGqDZVP3HqExwyt5E14BA&_nc_ht=scontent-hkg3-1.xx&oh=df03821026a4ce1a8ac463d2ef2729f9&oe=5E759271",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80316292_10158183598301159_7626051503081390080_n.jpg?_nc_cat=105&_nc_ohc=d78bvbCrwAMAQkUQ1E8EkeZCrN4iQu7YIU1-YU0FYLlbREbajWK6U0yPA&_nc_ht=scontent-hkg3-1.xx&oh=6c85824a0cb52ac1f59c651168d3a2d9&oe=5E9D1F71",
     "廣告詳情": {
       "ad_creative_body": "【歷史新高！綠黨政黨認同達3.8%。】\n　\n最近，你可能會發現身邊支持綠黨的朋友變多了！是的！根據綠黨本週委託展新執行的最新民調，在 ＃提示政黨選項 的調查方式下，綠黨政黨認同度達 3.8%，再創24年新高。\n\n根據民調推估未表態民眾計算，綠黨已經非常有機會突破 5%門檻，邀請大家接到電話民調 ＃勇敢支持綠黨。\n\n1月11日  ＃政黨票投綠黨\n跟我們一起，送鄧醫師進國會！\n\n捐款讓更多人知道鄧醫師參選：\nhttps://www.greenparty.org.tw/civicrm/contribute/transact?reset=1&id=4",
       "ad_creation_time": "2019-12-20T04:49:31+0000",
@@ -8565,7 +8565,7 @@
     "開始日期": "2019-12-19",
     "結束日期": "2019-12-21",
     "廣告內容": "【綠黨回應柯文哲『綠黨是太監』】 柯文哲嗆：『綠黨就是皇帝不急，急死太監』 　 聽聽 鄧惠文X綠黨 醫師的回應： 「綠黨是真的很急，綠黨之所以急，是因為綠黨看到不公不義的事情無法坐視不管，從張善政、吳敦義到邱毅種種性別歧視的發言，綠黨都在第一時間說明自身的理念價值並唾棄這樣的言論，反觀民眾黨，對於如此離譜行徑卻都沒有特別的積極作為，更令民眾困惑也搞不清楚民眾黨與柯主席的核心價值是什麼？綠黨更要嚴正表達柯主席就是心中沒有進步價值，臺灣並沒有皇帝，是否因為內心有封建極權的意識形態，才會總以如此言詞評論他人。」 綠黨捍衛的不僅是可以帶領台灣往正確方向前進的總統，對於性別平權、消除歧視與反對霸凌等核心價值更有不能退讓的堅持，這就是綠黨與民眾黨之間最大的差異。",
-    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/80783345_1359210097594413_116585676069142528_n.jpg?_nc_cat=109&_nc_ohc=7VrUE4-N43gAQldKjBxkEDxHrRV1SeqcSA1EslUnJ5Tpu_Bb_lD4obYKg&_nc_ht=scontent-hkg3-2.xx&oh=f9e9db60fb91007810734101f2b08e72&oe=5E66910A",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/80783345_1359210097594413_116585676069142528_n.jpg?_nc_cat=109&_nc_ohc=8jS88CdhjOoAQmnxmDznX14wWy4NThhemK6cgT36eoP_i2uwBEwfiuzXQ&_nc_ht=scontent-hkg3-2.xx&oh=089a18ecf6462515e0af84c105872280&oe=5E66910A",
     "廣告詳情": {
       "ad_creative_body": "【綠黨回應柯文哲『綠黨是太監』】\n柯文哲嗆：『綠黨就是皇帝不急，急死太監』\n　\n聽聽 鄧惠文X綠黨 醫師的回應：\n\n「綠黨是真的很急，綠黨之所以急，是因為綠黨看到不公不義的事情無法坐視不管，從張善政、吳敦義到邱毅種種性別歧視的發言，綠黨都在第一時間說明自身的理念價值並唾棄這樣的言論，反觀民眾黨，對於如此離譜行徑卻都沒有特別的積極作為，更令民眾困惑也搞不清楚民眾黨與柯主席的核心價值是什麼？綠黨更要嚴正表達柯主席就是心中沒有進步價值，臺灣並沒有皇帝，是否因為內心有封建極權的意識形態，才會總以如此言詞評論他人。」\n\n綠黨捍衛的不僅是可以帶領台灣往正確方向前進的總統，對於性別平權、消除歧視與反對霸凌等核心價值更有不能退讓的堅持，這就是綠黨與民眾黨之間最大的差異。",
       "ad_creation_time": "2019-12-20T03:27:12+0000",
@@ -8778,7 +8778,7 @@
     "開始日期": "2019-12-19",
     "結束日期": "2019-12-20",
     "廣告內容": "【我們在綠黨最弱的時候撐起他】 　 讓我們花點時間，跟大家談談綠黨這幾年的處境，跟綠黨過去的路線差異，也請大家，繼續支持綠黨。 ＃浩宇",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81182304_2563059920597997_3593343680498368512_n.jpg?_nc_cat=106&_nc_ohc=DjXeW18MiyUAQm3oCwpjU7D2T11W1E_b9Ps7KCPyLg52RzU249DSFQbfw&_nc_ht=scontent-hkg3-1.xx&oh=366c8245555f2b8a46a97bbe947acdfe&oe=5EA1E42C",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81182304_2563059920597997_3593343680498368512_n.jpg?_nc_cat=106&_nc_ohc=s1d4Non9zHwAQm4Xk1wU0pn5i-9IoubQRC9Bk4EvMmhNxKWqdE--Jmlew&_nc_ht=scontent-hkg3-1.xx&oh=d6a7ca93fbbb0a8bb230edd77dab4720&oe=5EA1E42C",
     "廣告詳情": {
       "ad_creative_body": "【我們在綠黨最弱的時候撐起他】\n　\n讓我們花點時間，跟大家談談綠黨這幾年的處境，跟綠黨過去的路線差異，也請大家，繼續支持綠黨。\n\n＃浩宇",
       "ad_creation_time": "2019-12-19T18:29:05+0000",
@@ -8990,7 +8990,7 @@
     "開始日期": "2019-12-22",
     "結束日期": "2019-12-25",
     "廣告內容": "「有錢做民調，幹嘛裝窮？」 這段時間，很多人批評綠黨，批評我們裝窮。我們不管是做民調、買廣告，這些人都能批評我們，說我們裝可憐、裝窮...。 現實是殘酷的，雖然我們很努力的拼上四席、捐款增加幾倍，但比起四年領走1.48億政黨補助款的時代力量、有行政資源的民眾黨，綠黨的資源還是非常有限，只能用在最關鍵的地方。 過去四年，不只是影片中的陳冠宇代表，綠黨的每一個夥伴都是自掏腰包、燃燒青春、犧牲自己家庭、事業，綠黨才能繼續存在。 透支、募款、再透支、再募款。 這四年，撐不下去的夥伴離開，到更有資源的政黨發展，而我們沒有薪水、自掏腰包，下班後來到綠黨開會、加班做一個不一定會有未來的工作，支撐我們的就是理想兩個字。 而你，可以用政黨票幫助綠黨。 距離選舉只剩20幾天，你的那一張政黨票或許渺小，卻可以支撐一個努力的小黨繼續走下去，只要你願意 ＃投自己相信的價值 ，那張選票就沒有浪費、就能支撐台灣的民主前進。 最後，邀請您在最後的關鍵時刻捐款支持綠黨！ ＃捐款支持綠黨 》 http://goo.gl/dmZ94R",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81302799_1225801864474310_101615159537041408_n.jpg?_nc_cat=101&_nc_ohc=4by0qLV4gX0AQkEQyHDIG4U6jYRwRvMWF5ECrSYHSjpef3hZ1VFBoUl3Q&_nc_ht=scontent-hkg3-1.xx&oh=808782451722f5afb136cc364f2dc7be&oe=5E671F6D",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81302799_1225801864474310_101615159537041408_n.jpg?_nc_cat=101&_nc_ohc=ACuoq_v9pLsAQnTDFr7rSKTPuLu0tv0fe-HLuezfFJfXCoIRrmsISWzcA&_nc_ht=scontent-hkg3-1.xx&oh=ea17c513c30c40a18243687d985e4abb&oe=5E671F6D",
     "廣告詳情": {
       "ad_creative_body": "「有錢做民調，幹嘛裝窮？」\n\n這段時間，很多人批評綠黨，批評我們裝窮。我們不管是做民調、買廣告，這些人都能批評我們，說我們裝可憐、裝窮...。\n\n現實是殘酷的，雖然我們很努力的拼上四席、捐款增加幾倍，但比起四年領走1.48億政黨補助款的時代力量、有行政資源的民眾黨，綠黨的資源還是非常有限，只能用在最關鍵的地方。\n\n過去四年，不只是影片中的陳冠宇代表，綠黨的每一個夥伴都是自掏腰包、燃燒青春、犧牲自己家庭、事業，綠黨才能繼續存在。\n\n透支、募款、再透支、再募款。\n\n這四年，撐不下去的夥伴離開，到更有資源的政黨發展，而我們沒有薪水、自掏腰包，下班後來到綠黨開會、加班做一個不一定會有未來的工作，支撐我們的就是理想兩個字。\n\n而你，可以用政黨票幫助綠黨。\n\n距離選舉只剩20幾天，你的那一張政黨票或許渺小，卻可以支撐一個努力的小黨繼續走下去，只要你願意 ＃投自己相信的價值 ，那張選票就沒有浪費、就能支撐台灣的民主前進。\n\n最後，邀請您在最後的關鍵時刻捐款支持綠黨！\n＃捐款支持綠黨 》 http://goo.gl/dmZ94R",
       "ad_creation_time": "2019-12-22T09:38:08+0000",
@@ -9202,7 +9202,7 @@
     "開始日期": "2019-12-23",
     "結束日期": "2019-12-24",
     "廣告內容": "【為什麼鄧醫師會加入綠黨？】 這個問題我們被問了100次，外界有很多揣測，今天鄧醫師終於給了最明確的答案：「總統要選誰，不明確表態的黨，我不敢參加。」 #因為綠黨挺小英 #那些政黨還在迴避",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81131791_461895887850255_6671330030376714240_n.jpg?_nc_cat=102&_nc_ohc=8sZAyW9gHYsAQm0bKCjj3oS6SRRb_08-c734MnWnlGXeMDYYykzKBgrWg&_nc_ht=scontent-hkg3-1.xx&oh=98e127b5d5783dc53e2bb7cd1b55c118&oe=5EA00DD5",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81131791_461895887850255_6671330030376714240_n.jpg?_nc_cat=102&_nc_ohc=8GLQtU8VcV4AQlfDO-FWr3GAlYMQO97vRwUT0eNuyLs4ei1mWAd6bDVmA&_nc_ht=scontent-hkg3-1.xx&oh=187de39849e805cfb7672f2381cccc25&oe=5EA00DD5",
     "廣告詳情": {
       "ad_creative_body": "【為什麼鄧醫師會加入綠黨？】\n\n這個問題我們被問了100次，外界有很多揣測，今天鄧醫師終於給了最明確的答案：「總統要選誰，不明確表態的黨，我不敢參加。」\n\n#因為綠黨挺小英\n#那些政黨還在迴避",
       "ad_creation_time": "2019-12-23T18:17:06+0000",
@@ -9413,7 +9413,7 @@
     "開始日期": "2019-12-23",
     "結束日期": "2019-12-24",
     "廣告內容": "＃給支持者的一封信  真實面對綠黨過去四年困境。 我是浩宇， 首先，我想跟過去支持綠黨的朋友說聲抱歉，很抱歉我們沒有辦法符合大家對綠黨的期待，讓很多過去支持綠黨的朋友失望。 這部分，我感到非常抱歉。 這幾年，大家對於綠黨這幾年的經營方向感到疑惑，認為綠黨不再是過去那個綠黨。針對這些懷疑、批評，我想用幾個關鍵數字讓讓大家理解綠黨在過去四年面臨的生存發展困境： ＃黨員人數減少80% 2014年後，因為太陽花學運，綠黨的黨員數增加到400多人的歷史新高，但2016選舉後時代力量跨越門檻，短短兩年，綠黨的黨員人數跌破百人。 ＃沒有政黨補助捐款流失 選舉負債、加上沒有獲得政黨補助，綠黨的捐款從最高一年1000萬，到最低點時一年只有不到100萬的捐款。面對一年有1.48億政黨補助款的時代力量，我們真的難以競爭。￼￼￼ ＃綠社盟支持者流失 選後社運路線的選票，流失到時代力量那邊，根據我們的年初的調查，75%以上的綠社盟支持者，在過去幾年已轉支持時代力量或是民進黨。 ----  現實是，過去那個不被討厭、雲端上、跟社運友好但不黯政治操作經營的綠黨，在現實中早已沒有生存的可能。 就像我們過去的夥伴社民黨一樣，不但早已沒有資源能租下黨辦，這次選舉連提出自己不分區名單都有困難。 在我擔任召集人的那一年，綠黨負債累累、捐款減少，連辦公室都快要租不起，但我們一起撐下來。 但我們同時必須改變，否則必然被歷史淘汰。 過去那種只管社運、不談藍綠、迴避統獨議題，甚至是在總統選戰缺席、不表態、假中立的路線已經行不通。 我們嘗試著改變路線，卻因為短時間難以培養更多參政夥伴，讓綠黨被稱為浩宇黨，還得面對過去社運派的冷嘲熱諷。 但我們還是堅定的改革綠黨，真實面對政治議題、更深入的參與政治、關心台灣的主權議題、站在第一線對抗傷害台灣的人。 唯一不變的，是我們的核心價值。 未來，無論結果如何，我深愛綠黨、我跟綠黨的夥伴，以及新加入我們的鄧惠文醫師，我們都會繼續堅持全球綠黨的進步價值，繼續帶領台灣前進。 謝謝你們，還挺綠黨。 王浩宇 捐款支持：http://goo.gl/dmZ94R",
-    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79999821_10158194053251159_6637710770140348416_n.jpg?_nc_cat=109&_nc_ohc=gbukWcNl8pEAQmISrVibFtRIit3zxxg9QvXI7JklwPP-z9-4ddCdSCSAA&_nc_ht=scontent-hkg3-2.xx&oh=3adaefba162fdaa59b71c3f3d7b2227b&oe=5E6B06FA",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79999821_10158194053251159_6637710770140348416_n.jpg?_nc_cat=109&_nc_ohc=7IO68rPWCEIAQnvIe6DMzw2bZLqGcPg5sPgD798OyjBjDpRGXq6WypRBQ&_nc_ht=scontent-hkg3-2.xx&oh=d1351d54efefafc617e12b4592b47b39&oe=5E6B06FA",
     "廣告詳情": {
       "ad_creative_body": "＃給支持者的一封信 \n真實面對綠黨過去四年困境。\n\n我是浩宇，\n首先，我想跟過去支持綠黨的朋友說聲抱歉，很抱歉我們沒有辦法符合大家對綠黨的期待，讓很多過去支持綠黨的朋友失望。\n\n這部分，我感到非常抱歉。\n\n這幾年，大家對於綠黨這幾年的經營方向感到疑惑，認為綠黨不再是過去那個綠黨。針對這些懷疑、批評，我想用幾個關鍵數字讓讓大家理解綠黨在過去四年面臨的生存發展困境：\n\n＃黨員人數減少80%\n\n2014年後，因為太陽花學運，綠黨的黨員數增加到400多人的歷史新高，但2016選舉後時代力量跨越門檻，短短兩年，綠黨的黨員人數跌破百人。\n\n＃沒有政黨補助捐款流失\n\n選舉負債、加上沒有獲得政黨補助，綠黨的捐款從最高一年1000萬，到最低點時一年只有不到100萬的捐款。面對一年有1.48億政黨補助款的時代力量，我們真的難以競爭。￼￼￼\n\n＃綠社盟支持者流失\n\n選後社運路線的選票，流失到時代力量那邊，根據我們的年初的調查，75%以上的綠社盟支持者，在過去幾年已轉支持時代力量或是民進黨。\n\n---- \n\n現實是，過去那個不被討厭、雲端上、跟社運友好但不黯政治操作經營的綠黨，在現實中早已沒有生存的可能。\n\n就像我們過去的夥伴社民黨一樣，不但早已沒有資源能租下黨辦，這次選舉連提出自己不分區名單都有困難。\n\n在我擔任召集人的那一年，綠黨負債累累、捐款減少，連辦公室都快要租不起，但我們一起撐下來。\n\n但我們同時必須改變，否則必然被歷史淘汰。\n\n過去那種只管社運、不談藍綠、迴避統獨議題，甚至是在總統選戰缺席、不表態、假中立的路線已經行不通。\n\n我們嘗試著改變路線，卻因為短時間難以培養更多參政夥伴，讓綠黨被稱為浩宇黨，還得面對過去社運派的冷嘲熱諷。\n\n但我們還是堅定的改革綠黨，真實面對政治議題、更深入的參與政治、關心台灣的主權議題、站在第一線對抗傷害台灣的人。\n\n唯一不變的，是我們的核心價值。\n\n未來，無論結果如何，我深愛綠黨、我跟綠黨的夥伴，以及新加入我們的鄧惠文醫師，我們都會繼續堅持全球綠黨的進步價值，繼續帶領台灣前進。\n\n謝謝你們，還挺綠黨。\n\n王浩宇\n\n捐款支持：http://goo.gl/dmZ94R",
       "ad_creation_time": "2019-12-23T09:28:10+0000",
@@ -9546,6 +9546,2272 @@
         "upper_bound": "3499"
       },
       "ad_id": "1578897772258185"
+    }
+  },
+  {
+    "選區": "政黨",
+    "參選人": "綠黨",
+    "AD_ID": "2678543598905641",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-27",
+    "結束日期": "1970-01-01",
+    "廣告內容": "3.6%，歷史新高！ 美麗島電子報封關民調出爐！綠黨預估得票達3.6%（四年前僅2.2％)，再創綠黨創黨24年以來新高紀錄。以選票估計，我們只差1.4%，也就是15萬票左右，就能送鄧惠文醫師進國會！成為東亞第一個進國會的綠黨！ 我們一起，朝國會前進吧！ ＃一戶一票投綠黨 ＃進步國會一起贏",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/80816070_10158208472131159_4993913334400024576_n.png?_nc_cat=111&_nc_ohc=ugTTUBDFVE4AQkRPvWTqeQ3eabfsU3DnRVVlhVzhBWJj-gkEDxg2gGjZQ&_nc_ht=scontent-hkg3-2.xx&oh=835c47da3fc23d5966aae3fabff1b34b&oe=5E664BD9",
+    "廣告詳情": {
+      "ad_creative_body": "3.6%，歷史新高！\n\n美麗島電子報封關民調出爐！綠黨預估得票達3.6%（四年前僅2.2％)，再創綠黨創黨24年以來新高紀錄。以選票估計，我們只差1.4%，也就是15萬票左右，就能送鄧惠文醫師進國會！成為東亞第一個進國會的綠黨！\n\n我們一起，朝國會前進吧！\n\n＃一戶一票投綠黨\n＃進步國會一起贏",
+      "ad_creation_time": "2019-12-27T17:26:34+0000",
+      "ad_delivery_start_time": "2019-12-27T17:26:37+0000",
+      "ad_delivery_stop_time": "2019-12-31T08:27:14+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.100243",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.211058",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000357",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.003191",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001048",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000595",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.002405",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.039097",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.06317",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.088028",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.115196",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.178985",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.04055",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.03374",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.025668",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.013524",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.082885",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000262",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "浩宇 王",
+      "impressions": {
+        "lower_bound": "100000",
+        "upper_bound": "124999"
+      },
+      "page_id": "282353111158",
+      "page_name": "綠黨",
+      "region_distribution": [
+        {
+          "percentage": "0.015098",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.000188",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.010496",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.016201",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.008805",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.005377",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.021179",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.002184",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.008876",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.006081",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.001362",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.135293",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.011317",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.005166",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001385",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.018808",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.10977",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.112118",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.101129",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.086595",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.295405",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.027167",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "ad_id": "2678543598905641"
+    }
+  },
+  {
+    "選區": "政黨",
+    "參選人": "綠黨",
+    "AD_ID": "2440700036246436",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-27",
+    "結束日期": "1970-01-01",
+    "廣告內容": "這一次，送鄧惠文進國會！ 綠黨，是台灣唯一的國際政黨，我們堅守進步價值，與全球綠黨共同努力，捍衛台灣的國際空間！ ＃政黨票投12號綠黨 ＃送鄧惠文醫師進國會",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/s600x600/82212130_2440700092913097_7402327249338236928_n.jpg?_nc_cat=107&_nc_ohc=5LkVNPI2smEAQlqecyvH3CPDehKtmrdFIQjSt6Y6q_ViMyQ0rkAgeeTeA&_nc_ht=scontent-hkg3-2.xx&oh=46456c8f246c67c04e10d15202cb3eb0&oe=5EA4FF5D",
+    "廣告詳情": {
+      "ad_creative_body": "這一次，送鄧惠文進國會！\n\n綠黨，是台灣唯一的國際政黨，我們堅守進步價值，與全球綠黨共同努力，捍衛台灣的國際空間！\n\n＃政黨票投12號綠黨\n＃送鄧惠文醫師進國會",
+      "ad_creation_time": "2019-12-27T17:25:06+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "全球近百個國家的綠黨皆以非暴力、社會正義、多元、草根民主、生態智慧與永續作為核心價值，推動政治改革！\n挺好的人選 ，挺好的政黨！",
+      "ad_creative_link_title": "綠黨",
+      "ad_delivery_start_time": "2019-12-27T17:25:36+0000",
+      "ad_delivery_stop_time": "2020-01-06T17:25:36+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.348976",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.418073",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.134706",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.052555",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.04569",
+          "age": "55-64",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "浩宇 王",
+      "impressions": {
+        "lower_bound": "25000",
+        "upper_bound": "29999"
+      },
+      "page_id": "282353111158",
+      "page_name": "綠黨",
+      "region_distribution": [
+        {
+          "percentage": "0.01836",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.000334",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.009514",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.019695",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.008735",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.00573",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.024535",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.002837",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.007455",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.009625",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.001725",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.151385",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.010738",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.007121",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.000835",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.023145",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.096862",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.133415",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.090297",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.094692",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.25025",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.032714",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "3000",
+        "upper_bound": "3499"
+      },
+      "ad_id": "2440700036246436"
+    }
+  },
+  {
+    "選區": "政黨",
+    "參選人": "綠黨",
+    "AD_ID": "517177868894606",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-27",
+    "結束日期": "2019-12-29",
+    "廣告內容": "【沒有核心價值的政黨、是不會吸引人才的】 「沒有明確表態總統挺誰的政黨，我不敢加入。」 鄧惠文醫師昨晚在公視有話好說分享自己為什麼思考8年終於願意從政，又為什麼最後選擇綠黨。 　 ＃政黨票選綠黨 　 捐款支持綠黨進國會》https://gp_tw.pse.is/gp_donate",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81578597_517177885561271_5276225984352223232_n.jpg?_nc_cat=104&_nc_ohc=1pYG5NTxrhUAQn6HyTxxtMrhNJK8BvmsRFrEPnfr8csLfDEk9uc3HXRUQ&_nc_ht=scontent-hkg3-1.xx&oh=cf7d82f1deac50b980faee9ec6f9af72&oe=5E989A90",
+    "廣告詳情": {
+      "ad_creative_body": "【沒有核心價值的政黨、是不會吸引人才的】\n\n「沒有明確表態總統挺誰的政黨，我不敢加入。」\n\n鄧惠文醫師昨晚在公視有話好說分享自己為什麼思考8年終於願意從政，又為什麼最後選擇綠黨。\n　\n＃政黨票選綠黨\n　\n捐款支持綠黨進國會》\nhttps://gp_tw.pse.is/gp_donate",
+      "ad_creation_time": "2019-12-27T10:44:38+0000",
+      "ad_creative_link_caption": "www.greenparty.org.tw",
+      "ad_creative_link_title": "【沒有核心價值的政黨、是不會吸引人才的】",
+      "ad_delivery_start_time": "2019-12-27T10:44:40+0000",
+      "ad_delivery_stop_time": "2019-12-29T10:44:38+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.246877",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.007407",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00036",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "9.9E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000199",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000645",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001055",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.009392",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.028971",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.041204",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.051291",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.091304",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.029901",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.094455",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.045733",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.218638",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.13221",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000261",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "浩宇 王",
+      "impressions": {
+        "lower_bound": "90000",
+        "upper_bound": "99999"
+      },
+      "page_id": "282353111158",
+      "page_name": "綠黨",
+      "region_distribution": [
+        {
+          "percentage": "0.030269",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.000338",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.013496",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.033596",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.011432",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.011332",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.038749",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.005716",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.018136",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.014984",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.002902",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.151845",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.013358",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.004253",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.002064",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.036598",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.118937",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.127367",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.10479",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.098937",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.137824",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.023077",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "6000",
+        "upper_bound": "6999"
+      },
+      "ad_id": "517177868894606"
+    }
+  },
+  {
+    "選區": "政黨",
+    "參選人": "綠黨",
+    "AD_ID": "498054637486342",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-27",
+    "結束日期": "2019-12-29",
+    "廣告內容": "【柯市長請不用擔心！】 　 「會不會，選後第一個辦我？」 反滲透法的規範對象，只有收受中共資金的人，如果沒有收受中共資金，真的不用害怕。 🙄",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/81454264_498054660819673_617939467684020224_n.jpg?_nc_cat=106&_nc_ohc=WxfBwbp0klYAQn2COq55R4NQtgGt0fS0yIgfUQllJjXd8V7VP7r8ngQrg&_nc_ht=scontent-hkg3-1.xx&oh=c91d00e90cdbccd6073ad7fd1ee5a162&oe=5EB367A4",
+    "廣告詳情": {
+      "ad_creative_body": "【柯市長請不用擔心！】\n　\n「會不會，選後第一個辦我？」\n\n反滲透法的規範對象，只有收受中共資金的人，如果沒有收受中共資金，真的不用害怕。\n\n🙄",
+      "ad_creation_time": "2019-12-27T10:41:21+0000",
+      "ad_creative_link_caption": "udn.com",
+      "ad_creative_link_description": "反滲透法爭議不斷，台北市長柯文哲今晚接受TVBS《國民大會》專訪，被問到對於反滲透法的看法，認為在那個標題下，沒有人敢去...",
+      "ad_creative_link_title": "談反滲透法 柯文哲自嘲：會不會選後第一個辦我 | 聯合新聞網",
+      "ad_delivery_start_time": "2019-12-27T10:41:26+0000",
+      "ad_delivery_stop_time": "2019-12-29T10:41:21+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.205981",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.098384",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000234",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000937",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000156",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.003514",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.021082",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.003279",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.084563",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.044663",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.022097",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.02116",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.118373",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.253689",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.013196",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.041618",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.066292",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000781",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "浩宇 王",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "282353111158",
+      "page_name": "綠黨",
+      "region_distribution": [
+        {
+          "percentage": "0.000155",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.00147",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.007738",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.013463",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.008589",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.004565",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.015243",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.002321",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.006886",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.0065",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.011142",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.01269",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.006113",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.000774",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.017255",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.098344",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.10554",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.10585",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.079774",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.345791",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.114903",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.034896",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "498054637486342"
+    }
+  },
+  {
+    "選區": "政黨",
+    "參選人": "綠黨",
+    "AD_ID": "1216571338528492",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-27",
+    "結束日期": "2019-12-29",
+    "廣告內容": "民進黨秘書長羅文嘉日前說出「不要投小黨」後，有部分綠黨支持者感到不滿，揚言「只投綠黨政黨票，不投總統、立委。」綠黨支持者在民調中支持蔡英文總統連任的比例，也略有流失。 我們能體會大家的情緒， 但我們想拜託大家別做親痛仇快的事。 2020年1月11日的選舉，是決定台灣未來的關鍵選戰。 但因為投票意願的不確定性，到目前為止我們還無法確定韓國瑜一定不會贏，因此，每一票都會是關鍵。 我們特別呼籲綠黨支持者放下情緒、堅定把總統選票投給蔡英文、區域立委選票投給該選區的台派立委。 讓我們一起，守住台灣。 ＃政黨票12綠黨 ＃總統3蔡英文",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/80399650_10158201751336159_8774186958126579712_n.jpg?_nc_cat=110&_nc_ohc=OG7o8z3ZpkgAQnWvLMITUDI54RC-TwHVeZeWNHXGOFlDbihqaUhsx6LJA&_nc_ht=scontent-hkg3-2.xx&oh=7157765456c434a3716f0451276d267c&oe=5EB0BC5A",
+    "廣告詳情": {
+      "ad_creative_body": "民進黨秘書長羅文嘉日前說出「不要投小黨」後，有部分綠黨支持者感到不滿，揚言「只投綠黨政黨票，不投總統、立委。」綠黨支持者在民調中支持蔡英文總統連任的比例，也略有流失。\n\n我們能體會大家的情緒，\n但我們想拜託大家別做親痛仇快的事。\n\n2020年1月11日的選舉，是決定台灣未來的關鍵選戰。 但因為投票意願的不確定性，到目前為止我們還無法確定韓國瑜一定不會贏，因此，每一票都會是關鍵。\n\n我們特別呼籲綠黨支持者放下情緒、堅定把總統選票投給蔡英文、區域立委選票投給該選區的台派立委。\n\n讓我們一起，守住台灣。\n\n＃政黨票12綠黨\n＃總統3蔡英文",
+      "ad_creation_time": "2019-12-27T10:40:13+0000",
+      "ad_delivery_start_time": "2019-12-27T10:40:19+0000",
+      "ad_delivery_stop_time": "2019-12-29T10:40:13+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000111",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.030464",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000482",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001186",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.016862",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000556",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000334",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.05774",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.048994",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.154171",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.177371",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.030056",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.173628",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.078494",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.061743",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.101657",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.065782",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000371",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "浩宇 王",
+      "impressions": {
+        "lower_bound": "35000",
+        "upper_bound": "39999"
+      },
+      "page_id": "282353111158",
+      "page_name": "綠黨",
+      "region_distribution": [
+        {
+          "percentage": "0.022585",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "7.4E-5",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.015553",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.021841",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.00826",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.004242",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.029766",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.002679",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.012427",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.008446",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.000558",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.19136",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.007628",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.003572",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.002009",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.030176",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.12993",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.129037",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.107047",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.09302",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.161966",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.017823",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "3000",
+        "upper_bound": "3499"
+      },
+      "ad_id": "1216571338528492"
+    }
+  },
+  {
+    "選區": "政黨",
+    "參選人": "綠黨",
+    "AD_ID": "2157681761193221",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-27",
+    "結束日期": "2019-12-29",
+    "廣告內容": "＃綠黨推動延後上學政策 平時睡不飽，寒假補眠睡到中午的情形，即將有解套。桃園市從9月開始延後半小時上學。關鍵推動人是一位小黨年輕議員的堅持。綠黨27歲市議員王浩宇，你或許不認識，但是他推動的政策將影響桃園20萬名中小學生的家庭。 11月開始，王浩宇在議會推動教學正常化，其中最受人矚目的，便是「延後上學」，主張將國小的到校時間延後到8點半，國中、高中則為8點，希望讓學生多睡一點，「睡飽才有助於學習」。",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/s600x600/82110034_2157681781193219_4146264472966660096_n.jpg?_nc_cat=111&_nc_ohc=XR-eTHXsa78AQnaZWo3_Q8yU07obd7ZOG4amPKpYJ4-Ao_nDHRmrSFw4Q&_nc_ht=scontent-hkg3-2.xx&oh=82a6312a5b7622b0d502235621e5701e&oe=5E6BC82D",
+    "廣告詳情": {
+      "ad_creative_body": "＃綠黨推動延後上學政策\n\n平時睡不飽，寒假補眠睡到中午的情形，即將有解套。桃園市從9月開始延後半小時上學。關鍵推動人是一位小黨年輕議員的堅持。綠黨27歲市議員王浩宇，你或許不認識，但是他推動的政策將影響桃園20萬名中小學生的家庭。\n\n11月開始，王浩宇在議會推動教學正常化，其中最受人矚目的，便是「延後上學」，主張將國小的到校時間延後到8點半，國中、高中則為8點，希望讓學生多睡一點，「睡飽才有助於學習」。",
+      "ad_creation_time": "2019-12-27T08:00:29+0000",
+      "ad_creative_link_caption": "parenting.com.tw",
+      "ad_creative_link_description": "平時睡不飽，寒假補眠睡到中午的情形，即將有解套。桃園市最快將從9月開始，延後半小時上學。關鍵推動人是一位小黨年輕議員的堅持。綠黨27歲市議員王浩宇，你或許不認識，但是他推動的政策將影響桃園20萬名...",
+      "ad_creative_link_title": "20萬國中小生晚半小時上學　幕後功臣27歲新科議員/親子天下",
+      "ad_delivery_start_time": "2019-12-27T08:00:33+0000",
+      "ad_delivery_stop_time": "2019-12-29T08:00:29+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.208459",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001286",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000132",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.004154",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000231",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001319",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.02034",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.029851",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.089436",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.201207",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.076431",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.026323",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.029801",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.117853",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.058283",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.059025",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.07559",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00028",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "浩宇 王",
+      "impressions": {
+        "lower_bound": "60000",
+        "upper_bound": "69999"
+      },
+      "page_id": "282353111158",
+      "page_name": "綠黨",
+      "region_distribution": [
+        {
+          "percentage": "0.028581",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.000454",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.01211",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.02482",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.013131",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.007198",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.023864",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.005123",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.01151",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.01699",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.003372",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.11661",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.011283",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.008511",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001686",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.040205",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.091985",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.126013",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.136372",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.112509",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.1645",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.043172",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "6000",
+        "upper_bound": "6999"
+      },
+      "ad_id": "2157681761193221"
+    }
+  },
+  {
+    "選區": "政黨",
+    "參選人": "綠黨",
+    "AD_ID": "468310730543930",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-28",
+    "結束日期": "2019-12-29",
+    "廣告內容": "【這是綠黨第一次贏時代力量】 　 從四月到現在，綠黨執行了幾十份的民調，這是我們第一次超越時代力量，這讓最近壓力很大的我們，突然感到非常振奮。 　 分析此民調，最主要的原因有以下兩個： ✅ 綠黨的女性支持度達5.4%。 ✅ 綠黨在台北市、桃園市支持度提升。 　 民調有隨機性、會造成抽樣誤差，雖然這樣的結果很可能只是抽樣誤差造成的偶然結果，但我們還是會持續努力，繼續朝國會前進。 　 一起，送鄧醫師進國會！",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/80032026_10158201630421159_4108046629901172736_n.jpg?_nc_cat=109&_nc_ohc=gHHBaSwwFZQAQk0WCpTFucaillS-3CbBZR20RPQU6eLjI8AxxmhOs0rqQ&_nc_ht=scontent-hkg3-2.xx&oh=7c003e742270060f0ea08c999f251a17&oe=5EA7782B",
+    "廣告詳情": {
+      "ad_creative_body": "【這是綠黨第一次贏時代力量】\n　\n從四月到現在，綠黨執行了幾十份的民調，這是我們第一次超越時代力量，這讓最近壓力很大的我們，突然感到非常振奮。\n　\n分析此民調，最主要的原因有以下兩個：\n✅ 綠黨的女性支持度達5.4%。\n✅ 綠黨在台北市、桃園市支持度提升。\n　\n民調有隨機性、會造成抽樣誤差，雖然這樣的結果很可能只是抽樣誤差造成的偶然結果，但我們還是會持續努力，繼續朝國會前進。\n　\n一起，送鄧醫師進國會！",
+      "ad_creation_time": "2019-12-28T16:46:16+0000",
+      "ad_delivery_start_time": "2019-12-28T16:46:20+0000",
+      "ad_delivery_stop_time": "2019-12-29T16:46:16+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.05352",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.021483",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000302",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001131",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000377",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000905",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001281",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.044625",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.030303",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.049827",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.100482",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.078697",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.028192",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.060606",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.151138",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.179331",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.197573",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000226",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "浩宇 王",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "282353111158",
+      "page_name": "綠黨",
+      "region_distribution": [
+        {
+          "percentage": "0.020313",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.007599",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.023623",
+          "region": "Hsinchu City"
+        },
+        {
+          "percentage": "0.014144",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.02272",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.007298",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.005642",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.023473",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.00316",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.010081",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.000903",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.183795",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.008802",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.004965",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.00173",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.025655",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.122104",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.126166",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.107132",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.095245",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.185299",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.00015",
+          "region": "Lienchiang"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "468310730543930"
+    }
+  },
+  {
+    "選區": "政黨",
+    "參選人": "綠黨",
+    "AD_ID": "490796358233458",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-28",
+    "結束日期": "2019-12-29",
+    "廣告內容": "猜猜鄧醫師本人在哪？",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81850484_490796448233449_4914252282448576512_n.jpg?_nc_cat=100&_nc_ohc=1f4c8E13TfkAQleNhy8d32aPLsOYwBda2-6Sg-r_bHtyIfzsB2JZdQj6g&_nc_ht=scontent-hkg3-1.xx&oh=0e549b49d2bc176c5a5112998954fb56&oe=5E68B1C0",
+    "廣告詳情": {
+      "ad_creative_body": "猜猜鄧醫師本人在哪？",
+      "ad_creation_time": "2019-12-28T16:42:17+0000",
+      "ad_creative_link_caption": "www.greenparty.org.tw",
+      "ad_delivery_start_time": "2019-12-28T16:42:18+0000",
+      "ad_delivery_stop_time": "2019-12-29T16:42:17+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.083114",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.029729",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000206",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00016",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "6.9E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000321",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.005272",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000344",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.008183",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.161047",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.018498",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.224081",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.084145",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.018406",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.195819",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.080569",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.089784",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000252",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "浩宇 王",
+      "impressions": {
+        "lower_bound": "45000",
+        "upper_bound": "49999"
+      },
+      "page_id": "282353111158",
+      "page_name": "綠黨",
+      "region_distribution": [
+        {
+          "percentage": "0.039551",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.000255",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.016431",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.040407",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.013215",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.010553",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.045221",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.006781",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.021222",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.016593",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.002985",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.133071",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.012081",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.004119",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.002499",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.055982",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.145452",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.125341",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.108424",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.090002",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.086415",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.023397",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2000",
+        "upper_bound": "2499"
+      },
+      "ad_id": "490796358233458"
+    }
+  },
+  {
+    "選區": "政黨",
+    "參選人": "綠黨",
+    "AD_ID": "605911606904899",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-27",
+    "結束日期": "2019-12-29",
+    "廣告內容": "【鄧醫師神解又來啦！】 　 韓國瑜為何要膝蓋走路?鄧惠文超深透分析！ －－－－ 綠黨與鄧惠文◆官方社群 《FB、IG、YouTube、Line、17直播》https://greenparty.soci.vip/ ＃韓國瑜　＃膝蓋走路　＃鄧惠文　＃伯恩夜夜秀",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81389765_605911616904898_528437434476658688_n.jpg?_nc_cat=100&_nc_ohc=b7JZgpX87tYAQmo-Qy5DRUms3g1UdYZBM8nRlAUEU-ZaL717346248Q1w&_nc_ht=scontent-hkg3-1.xx&oh=ad876ac6cf210520eef7a3fcb817c20a&oe=5EAC625D",
+    "廣告詳情": {
+      "ad_creative_body": "【鄧醫師神解又來啦！】\n　\n韓國瑜為何要膝蓋走路?鄧惠文超深透分析！\n－－－－\n綠黨與鄧惠文◆官方社群\n《FB、IG、YouTube、Line、17直播》\nhttps://greenparty.soci.vip\n\n＃韓國瑜　＃膝蓋走路　＃鄧惠文　＃伯恩夜夜秀",
+      "ad_creation_time": "2019-12-27T17:29:42+0000",
+      "ad_creative_link_caption": "www.greenparty.org.tw",
+      "ad_creative_link_title": "韓國瑜為何要膝蓋走路?鄧惠文超深透分析！",
+      "ad_delivery_start_time": "2019-12-27T17:29:44+0000",
+      "ad_delivery_stop_time": "2019-12-29T17:29:42+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.210655",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.030143",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000147",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000245",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000637",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001176",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000392",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.01539",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.04617",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.049306",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.071362",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.088173",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.081214",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.054943",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.193844",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.015831",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.140126",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000245",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "浩宇 王",
+      "impressions": {
+        "lower_bound": "20000",
+        "upper_bound": "24999"
+      },
+      "page_id": "282353111158",
+      "page_name": "綠黨",
+      "region_distribution": [
+        {
+          "percentage": "0.031161",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.000343",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.015385",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.031896",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.010093",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.010436",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.036404",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.00583",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.017638",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.01514",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.002156",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.14635",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.013719",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.00392",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.002744",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.041842",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.109848",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.129299",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.094463",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.109946",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.150073",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.021313",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2000",
+        "upper_bound": "2499"
+      },
+      "ad_id": "605911606904899"
+    }
+  },
+  {
+    "選區": "政黨",
+    "參選人": "綠黨",
+    "AD_ID": "1499377653558254",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-29",
+    "結束日期": "1970-01-01",
+    "廣告內容": "這是今晚，韓國瑜造勢的空拍照。 很多人說：蔡英文穩贏了，幹嘛回家投票？ 但綠黨想拜託大家，務必一定要回家投票。 因為，面對鋼鐵般的韓粉，我們只有投下每一張選票才能確定，去年的悲劇不會再次重演。 回家投票吧，為了台灣！ ＃政黨12綠黨 ＃總統03蔡英文",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80807717_10158215152526159_1257391464481030144_n.png?_nc_cat=100&_nc_ohc=pqMenLTsgJ0AQkqcZTAzZj0gHGqBmTBZ7NiZJmlhopMIQsD5IKZa0VyqA&_nc_ht=scontent-hkg3-1.xx&oh=0ab4e535e5345a21a1f90486d525195e&oe=5EA2976E",
+    "廣告詳情": {
+      "ad_creative_body": "這是今晚，韓國瑜造勢的空拍照。\n\n很多人說：蔡英文穩贏了，幹嘛回家投票？ 但綠黨想拜託大家，務必一定要回家投票。\n\n因為，面對鋼鐵般的韓粉，我們只有投下每一張選票才能確定，去年的悲劇不會再次重演。\n\n回家投票吧，為了台灣！\n\n＃政黨12綠黨\n＃總統03蔡英文",
+      "ad_creation_time": "2019-12-30T07:12:41+0000",
+      "ad_delivery_start_time": "2019-12-30T07:12:46+0000",
+      "ad_delivery_stop_time": "2019-12-31T07:12:41+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.019546",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.217191",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000679",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000264",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001547",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000226",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000868",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.101124",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.033205",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.052034",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.072787",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.18059",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.063844",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.027847",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.049128",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.054298",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.124481",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00034",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "浩宇 王",
+      "impressions": {
+        "lower_bound": "25000",
+        "upper_bound": "29999"
+      },
+      "page_id": "282353111158",
+      "page_name": "綠黨",
+      "region_distribution": [
+        {
+          "percentage": "0.023127",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "7.7E-5",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.013507",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.022473",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.008504",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.005811",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.0309",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.003502",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.013122",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.007196",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.000731",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.199561",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.008119",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.003771",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001655",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.027822",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.108208",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.123254",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.110017",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.100435",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.166968",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.021241",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2000",
+        "upper_bound": "2499"
+      },
+      "ad_id": "1499377653558254"
+    }
+  },
+  {
+    "選區": "政黨",
+    "參選人": "綠黨",
+    "AD_ID": "309523846609795",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-29",
+    "結束日期": "1970-01-01",
+    "廣告內容": "＃合照四小時拍不完！ 綠黨北市拼10萬票 選戰倒數！鄧惠文醫師展開全台拜票行程，週末來到市府轉運站、信義誠品、建國花市、玉市等地拜票，才剛出發就吸引許多支持者要求合照，面對長長拍照人龍，不得不中斷掃街行程，最後連拍四小時都拍不完。 鄧惠文人氣爆棚，也連帶拉抬綠黨不分區立委選情，根據綠黨委託山水最新民調，綠黨在北市支持度達4.9%，預估得票達6.1%，可望拿下7~10萬選票，有利於綠黨突破5%門檻。 未來一週，鄧惠文醫師除也將前往中山站、西門町等地短講、拜票掃街，希望衝高北市得票，送綠黨進入國會。",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80799170_10158216594226159_4788306408057602048_n.jpg?_nc_cat=103&_nc_ohc=XPUpiMKU_yEAQlQwBVNwE1yTg0zEvmagtlUwEZpGStwoVQpMmTIT_OTVw&_nc_ht=scontent-hkg3-1.xx&oh=1a6568dc77379b86d30b099315f98ec9&oe=5EA3446D",
+    "廣告詳情": {
+      "ad_creative_body": "＃合照四小時拍不完！ 綠黨北市拼10萬票\n\n選戰倒數！鄧惠文醫師展開全台拜票行程，週末來到市府轉運站、信義誠品、建國花市、玉市等地拜票，才剛出發就吸引許多支持者要求合照，面對長長拍照人龍，不得不中斷掃街行程，最後連拍四小時都拍不完。\n\n鄧惠文人氣爆棚，也連帶拉抬綠黨不分區立委選情，根據綠黨委託山水最新民調，綠黨在北市支持度達4.9%，預估得票達6.1%，可望拿下7~10萬選票，有利於綠黨突破5%門檻。\n\n未來一週，鄧惠文醫師除也將前往中山站、西門町等地短講、拜票掃街，希望衝高北市得票，送綠黨進入國會。",
+      "ad_creation_time": "2019-12-30T07:11:22+0000",
+      "ad_delivery_start_time": "2019-12-30T07:11:27+0000",
+      "ad_delivery_stop_time": "2019-12-31T07:11:22+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.034357",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000716",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "8.0E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000239",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001193",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.008828",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000756",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.024256",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.199459",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.024336",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.172698",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.052807",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.062828",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.204271",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.080961",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.051734",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.080205",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000278",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "浩宇 王",
+      "impressions": {
+        "lower_bound": "25000",
+        "upper_bound": "29999"
+      },
+      "page_id": "282353111158",
+      "page_name": "綠黨",
+      "region_distribution": [
+        {
+          "percentage": "0.021566",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.001156",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.016463",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.021925",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.008291",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.006019",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.028582",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.003269",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.013195",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.008969",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.00873",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.188113",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.004305",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001714",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.030376",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.119828",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.12509",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.106633",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.095631",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.169178",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.020968",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2000",
+        "upper_bound": "2499"
+      },
+      "ad_id": "309523846609795"
     }
   }
 ]

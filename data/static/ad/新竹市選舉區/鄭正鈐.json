@@ -8160,90 +8160,90 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000282",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000282",
+          "percentage": "0.000251",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000282",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000563",
+          "percentage": "0.000501",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.056041",
+          "percentage": "0.000251",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000251",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.150589",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.196191",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.150338",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.086194",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.033325",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.069907",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.049862",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.069657",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.095465",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.028063",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.057379",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.199662",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.099127",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.090397",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.052943",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.067023",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.156576",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.060828",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.144466",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.012672",
+          "percentage": "0.011776",
           "age": "18-24",
           "gender": "female"
-        },
-        {
-          "percentage": "0.030696",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.028161",
-          "age": "18-24",
-          "gender": "male"
         }
       ],
       "funding_entity": "正鈐 鄭",
       "impressions": {
-        "lower_bound": "9000",
-        "upper_bound": "9999"
+        "lower_bound": "10000",
+        "upper_bound": "14999"
       },
       "page_id": "186612874691719",
       "page_name": "鄭正鈐",
@@ -8277,80 +8277,85 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000265",
+          "percentage": "0.000244",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000244",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.137977",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.042638",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.192267",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.068326",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.042638",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.036811",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.119174",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.182468",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.086335",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.07786",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.009004",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.003972",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000265",
+          "percentage": "0.000244",
           "age": "55-64",
           "gender": "unknown"
+        },
+        {
+          "percentage": "0.191474",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.116443",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.183678",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.137637",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.071376",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.085993",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.043362",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.036541",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.042144",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.07771",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.004141",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00877",
+          "age": "18-24",
+          "gender": "male"
         }
       ],
       "funding_entity": "正鈐 鄭",
       "impressions": {
-        "lower_bound": "15000",
-        "upper_bound": "19999"
+        "lower_bound": "20000",
+        "upper_bound": "24999"
       },
       "page_id": "186612874691719",
       "page_name": "鄭正鈐",
@@ -9411,80 +9416,90 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000832",
+          "percentage": "0.000277",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000277",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00083",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.053245",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.130616",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.1198",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.058236",
+          "percentage": "0.000277",
           "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.033694",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.105241",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.138519",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.172629",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.086106",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.061148",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.015391",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.024126",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000416",
-          "age": "45-54",
           "gender": "unknown"
+        },
+        {
+          "percentage": "0.012732",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.111265",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.022973",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.182674",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.145032",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.130916",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.088569",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.053695",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.035704",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.089399",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.071132",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.054249",
+          "age": "65+",
+          "gender": "male"
         }
       ],
       "funding_entity": "正鈐 鄭",
       "impressions": {
-        "lower_bound": "3000",
-        "upper_bound": "3999"
+        "lower_bound": "8000",
+        "upper_bound": "8999"
       },
       "page_id": "186612874691719",
       "page_name": "鄭正鈐",
@@ -9495,8 +9510,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "600",
-        "upper_bound": "699"
+        "lower_bound": "1500",
+        "upper_bound": "1999"
       },
       "ad_id": "2619397124812979"
     }
@@ -12234,35 +12249,35 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.298044",
+          "percentage": "0.261111",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.405063",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.090909",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.196778",
+          "percentage": "0.212698",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.009206",
+          "percentage": "0.396032",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.112698",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.01746",
           "age": "25-34",
           "gender": "female"
         }
       ],
       "funding_entity": "正鈐 鄭",
       "impressions": {
-        "lower_bound": "1000",
-        "upper_bound": "1999"
+        "lower_bound": "2000",
+        "upper_bound": "2999"
       },
       "page_id": "186612874691719",
       "page_name": "鄭正鈐",
@@ -12273,8 +12288,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "600",
-        "upper_bound": "699"
+        "lower_bound": "1000",
+        "upper_bound": "1499"
       },
       "ad_id": "798193850603309"
     }
@@ -12287,7 +12302,7 @@
     "開始日期": "2019-12-22",
     "結束日期": "2019-12-23",
     "廣告內容": "【倒數19天，藍軍團結拚未來！】 新竹的鄉親朋友們，大家早安！ 感謝東區議員李國璋，經常陪同正鈐一起在大菜市場拜票，國璋曾任農產運銷公司總經理，對民生需求相當了解！市場裡的叔叔阿姨也與國璋熟識，有親切的互動，對正鈐深耕地方有相當大的幫助，非常感謝國璋，希望大家有個美好的一天！ 地方中央，齊心打拼！ 正鈐努力，新竹前行！ ㊣小額捐款，相挺正鈐>>https://p.ecpay.com.tw/01A08  ㊣匿名捐獻>>https://pay.ecpay.com.tw/CreditPayment/ExpressCredit?MerchantID=3166483 ㊣正能量馬克杯捐款>>https://ccchsinchu.cashier.ecpay.com.tw/",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80118961_2901250546561258_7343617095101317120_n.jpg?_nc_cat=104&_nc_ohc=SnVnjtS0hTkAQlHlDCooQ_7jsOVNKcZxsXieBuXf8TuV0iYkm7kYEk0rw&_nc_ht=scontent-hkg3-1.xx&oh=60d73140d0b1d3444e3a05332817bca7&oe=5E6AD870",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80118961_2901250546561258_7343617095101317120_n.jpg?_nc_cat=104&_nc_oc=AQnoFGRlgJBe3BcEQvvgu6SskUlhaJHB83YbSGed6oYn1EGujYZ8gPRePYhv40h5kmw&_nc_ht=scontent-hkg3-1.xx&oh=e1cd70feba1f733b4ae1ac86bca6bb65&oe=5E6AD870",
     "廣告詳情": {
       "ad_creative_body": "【倒數19天，藍軍團結拚未來！】\n新竹的鄉親朋友們，大家早安！\n感謝東區議員李國璋，經常陪同正鈐一起在大菜市場拜票，國璋曾任農產運銷公司總經理，對民生需求相當了解！市場裡的叔叔阿姨也與國璋熟識，有親切的互動，對正鈐深耕地方有相當大的幫助，非常感謝國璋，希望大家有個美好的一天！\n\n地方中央，齊心打拼！\n正鈐努力，新竹前行！\n\n㊣小額捐款，相挺正鈐>>https://p.ecpay.com.tw/01A08 \n㊣匿名捐獻>>https://pay.ecpay.com.tw/CreditPayment/ExpressCredit?MerchantID=3166483\n㊣正能量馬克杯捐款>>https://ccchsinchu.cashier.ecpay.com.tw",
       "ad_creation_time": "2019-12-22T13:32:12+0000",
@@ -12388,7 +12403,7 @@
     "開始日期": "2019-12-21",
     "結束日期": "2019-12-26",
     "廣告內容": "【就是要正能量☆謝文進真摯力挺】 不管是為了我們的國家，不管是為了我們自己，不管是為了我們下一代，我們都在站出來，為正義而戰 !",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81363007_453661558555053_7750205607310786560_n.jpg?_nc_cat=100&_nc_ohc=WdovlsQnFKMAQmKc-tHa4sLC2_0gJTKPFcMTIpj002wwordvS2tm5B_iQ&_nc_ht=scontent-hkg3-1.xx&oh=c47c4ce4939379af40d827c4df5bea23&oe=5E6FA2BF",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81363007_453661558555053_7750205607310786560_n.jpg?_nc_cat=100&_nc_ohc=AdUZZHnS53gAQno5OSb1Z2-O8XW-KEsUZR-t3DeaKpvUd896VPRkqlClQ&_nc_ht=scontent-hkg3-1.xx&oh=e9a9864e3c1ea28e4bde9705d054f8a3&oe=5E6FA2BF",
     "廣告詳情": {
       "ad_creative_body": "【就是要正能量☆謝文進真摯力挺】\n不管是為了我們的國家，不管是為了我們自己，不管是為了我們下一代，我們都在站出來，為正義而戰 !",
       "ad_creation_time": "2019-12-21T16:15:25+0000",
@@ -12588,7 +12603,7 @@
     "開始日期": "2019-12-23",
     "結束日期": "2019-12-26",
     "廣告內容": "【張善政X鄭正鈐X議會黨團，與您來尬聊！歡迎大家線上一起來】LIVE直播📹 #台灣安全人民有錢2號韓國瑜張善政 #就是要正能量1號鄭正鈐",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81113949_2436386796578376_8652962352305537024_n.jpg?_nc_cat=108&_nc_ohc=cMhfmwd2t-4AQmZJgvICRIBdhEivn8rUZBmnsoKUMajpexT_PWGp5_sJA&_nc_ht=scontent-hkg3-1.xx&oh=2046920d2590042e061167adf44bf0c8&oe=5EA4080B",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81113949_2436386796578376_8652962352305537024_n.jpg?_nc_cat=108&_nc_oc=AQmjJaYlftEsobsc7wyA66bkfZgJpN6lpOLnan0QCymHKLc_vbQ0w_YUmjVis5ar9WU&_nc_ht=scontent-hkg3-1.xx&oh=10ff92d255e75a509aa6fa8968948ae0&oe=5EA4080B",
     "廣告詳情": {
       "ad_creative_body": "【張善政X鄭正鈐X議會黨團，與您來尬聊！歡迎大家線上一起來】LIVE直播📹\n\n#台灣安全人民有錢2號韓國瑜張善政\n#就是要正能量1號鄭正鈐",
       "ad_creation_time": "2019-12-23T09:26:40+0000",
@@ -12713,9 +12728,9 @@
     "AD_ID": "509122356371371",
     "登錄為政治廣告": "是",
     "開始日期": "2019-12-23",
-    "結束日期": "1970-01-01",
+    "結束日期": "2019-12-27",
     "廣告內容": "【挺韓大遊行，新竹①定贏】 高雄挺韓大遊行反應熱烈，新竹南區造勢活動也是熱鬧強強滾！ 新竹天氣不若南部溫暖，但庶民同樂會大家依然熱情相挺、逗陣來做伙，許多市民朋友不畏風寒，穿著雨衣手拿國旗，來給正鈐鼓勵和支持，讓我相當感動，滿心感謝。現場滿滿的青天白日滿地紅，更是我們的驕傲！ 民主自由無須遮羞布遮掩，我們熱愛這片土地，關懷我們的故鄉，捍衛中華民國，我們無所畏懼！正鈐懇請大家，立委票投①號鄭正鈐，揭開遮羞布，讓我們抬頭挺胸往前邁進－－",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80532082_2912202985466014_5244649805698826240_n.jpg?_nc_cat=104&_nc_ohc=Q--v1KmajOoAQnri7S6orIi2Bgy1wasAOb27Qwy9Phg_x1zPuOCECtNjA&_nc_ht=scontent-hkg3-1.xx&oh=e9bfe846d1597b476788b98c013b27c1&oe=5EA5FCAB",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80532082_2912202985466014_5244649805698826240_n.jpg?_nc_cat=104&_nc_oc=AQltRyvwEHtXSF7yiqUINp10Exc0RH9AOSmS_mBKos2ssYJ3Bq80siSfbZ-xxdsmGAU&_nc_ht=scontent-hkg3-1.xx&oh=c41b8784531669ba0119cb64f25f1e76&oe=5EA5FCAB",
     "廣告詳情": {
       "ad_creative_body": "【挺韓大遊行，新竹①定贏】\n\n高雄挺韓大遊行反應熱烈，新竹南區造勢活動也是熱鬧強強滾！\n新竹天氣不若南部溫暖，但庶民同樂會大家依然熱情相挺、逗陣來做伙，許多市民朋友不畏風寒，穿著雨衣手拿國旗，來給正鈐鼓勵和支持，讓我相當感動，滿心感謝。現場滿滿的青天白日滿地紅，更是我們的驕傲！\n民主自由無須遮羞布遮掩，我們熱愛這片土地，關懷我們的故鄉，捍衛中華民國，我們無所畏懼！正鈐懇請大家，立委票投①號鄭正鈐，揭開遮羞布，讓我們抬頭挺胸往前邁進－－",
       "ad_creation_time": "2019-12-23T09:25:30+0000",
@@ -12724,82 +12739,82 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000665",
+          "percentage": "0.000637",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000222",
+          "percentage": "0.000318",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000222",
+          "percentage": "0.000318",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.032344",
+          "percentage": "0.032583",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.179663",
+          "percentage": "0.180641",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.098028",
+          "percentage": "0.100509",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.04918",
+          "percentage": "0.049989",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.142003",
+          "percentage": "0.140098",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.159947",
+          "percentage": "0.158883",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.058706",
+          "percentage": "0.059966",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.048405",
+          "percentage": "0.048079",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.11132",
+          "percentage": "0.110486",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.052171",
+          "percentage": "0.051475",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.01152",
+          "percentage": "0.011144",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.055494",
+          "percentage": "0.054765",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.000111",
+          "percentage": "0.000106",
           "age": "65+",
           "gender": "unknown"
         }
@@ -12818,8 +12833,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "1000",
-        "upper_bound": "1499"
+        "lower_bound": "1500",
+        "upper_bound": "1999"
       },
       "ad_id": "509122356371371"
     }
@@ -12830,9 +12845,9 @@
     "AD_ID": "808605716274286",
     "登錄為政治廣告": "是",
     "開始日期": "2019-12-22",
-    "結束日期": "1970-01-01",
+    "結束日期": "2019-12-27",
     "廣告內容": "【就是要正能量☆林政則真摯力挺】 一個人的快樂，不在於他擁有的多，而是在於他計較的少。",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80782357_808605749607616_8635287333521850368_n.jpg?_nc_cat=108&_nc_ohc=3lM4jUk_3IsAQmtuhkS6dhYr3J89RE_TNltv0yDU4FKp58LfxEeeusLnA&_nc_ht=scontent-hkg3-1.xx&oh=c6661adc39d165d02af3d4812de5c2df&oe=5EABA6A2",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80782357_808605749607616_8635287333521850368_n.jpg?_nc_cat=108&_nc_oc=AQlwJJYL9oQmm2EQmXhsawOId8FuZseWg0tJiN41PMRk8vC2Dqs3qw3pfOCpYBxApCo&_nc_ht=scontent-hkg3-1.xx&oh=3e969122040754f2cebf7d06d447f9b6&oe=5EABA6A2",
     "廣告詳情": {
       "ad_creative_body": "【就是要正能量☆林政則真摯力挺】\n一個人的快樂，不在於他擁有的多，而是在於他計較的少。",
       "ad_creation_time": "2019-12-22T13:31:08+0000",
@@ -12842,95 +12857,95 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "5.7E-5",
+          "percentage": "5.1E-5",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.090347",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000172",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.014428",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000229",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.103687",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.045116",
+          "percentage": "0.043245",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.139814",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.130539",
+          "percentage": "0.000354",
           "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "5.7E-5",
-          "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.03962",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.06298",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.049067",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.0955",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.01981",
+          "percentage": "0.019372",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.207718",
+          "percentage": "0.014314",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.091953",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.038288",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.093824",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.14319",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "5.1E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.062263",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.047898",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.20788",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.000859",
+          "percentage": "0.102676",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.133681",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000202",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000759",
           "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "正鈐 鄭",
       "impressions": {
-        "lower_bound": "20000",
-        "upper_bound": "24999"
+        "lower_bound": "25000",
+        "upper_bound": "29999"
       },
       "page_id": "186612874691719",
       "page_name": "鄭正鈐",
@@ -12941,8 +12956,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "4000",
-        "upper_bound": "4499"
+        "lower_bound": "5000",
+        "upper_bound": "5999"
       },
       "ad_id": "808605716274286"
     }
@@ -12953,9 +12968,9 @@
     "AD_ID": "391116455000710",
     "登錄為政治廣告": "是",
     "開始日期": "2019-12-24",
-    "結束日期": "1970-01-01",
+    "結束日期": "2019-12-27",
     "廣告內容": "【就是要正能量☆歷史哥真摯力挺】 人因夢想而偉大，更因築夢而踏實；懷抱著夢想，更有實現夢想的勇氣 !",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81226450_391116465000709_1449415333411553280_n.jpg?_nc_cat=105&_nc_ohc=VdxG1VvnyWwAQlPgBEQuEXpnQa55tsm9148K8YVz3QjYetTKJHTrFwLRw&_nc_ht=scontent-hkg3-1.xx&oh=91db322be9b7886f8616f15e56fe377e&oe=5E688F0E",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81226450_391116465000709_1449415333411553280_n.jpg?_nc_cat=105&_nc_ohc=EV7wRKkNS9cAQnkLIuRUPjezwu-DUtvMiGnWEwjf9rCjwYu0RbyKLt3DA&_nc_ht=scontent-hkg3-1.xx&oh=6de1f92704e026b75b4f6e04c4b1229d&oe=5E688F0E",
     "廣告詳情": {
       "ad_creative_body": "【就是要正能量☆歷史哥真摯力挺】\n人因夢想而偉大，更因築夢而踏實；懷抱著夢想，更有實現夢想的勇氣 !",
       "ad_creation_time": "2019-12-24T08:01:16+0000",
@@ -12965,90 +12980,90 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.1825",
-          "age": "35-44",
-          "gender": "female"
+          "percentage": "0.00032",
+          "age": "25-34",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.147",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.0744",
+          "percentage": "8.0E-5",
           "age": "45-54",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.0076",
-          "age": "65+",
-          "gender": "male"
+          "percentage": "8.0E-5",
+          "age": "18-24",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.0679",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.1753",
+          "percentage": "0.167427",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.1039",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.1091",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.066",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.0277",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.0089",
+          "percentage": "0.009604",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.0283",
+          "percentage": "0.082273",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.1507",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.102041",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.030812",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.077311",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.187195",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.029212",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.0004",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.0008",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.0001",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.0001",
+          "percentage": "0.056182",
           "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.096919",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.008804",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00104",
+          "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "正鈐 鄭",
       "impressions": {
-        "lower_bound": "10000",
-        "upper_bound": "14999"
+        "lower_bound": "15000",
+        "upper_bound": "19999"
       },
       "page_id": "186612874691719",
       "page_name": "鄭正鈐",
@@ -13059,8 +13074,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "2000",
-        "upper_bound": "2499"
+        "lower_bound": "3000",
+        "upper_bound": "3499"
       },
       "ad_id": "391116455000710"
     }
@@ -13073,7 +13088,7 @@
     "開始日期": "2019-12-24",
     "結束日期": "2019-12-25",
     "廣告內容": "【叮叮噹、叮叮噹， 正鈐祝福大家 #聖誕快樂！】 聖誕節、耶誕夜，從早到晚每一場活動，都有聖誕老人、聖誕樹相隨～ 正鈐很高興在這個溫馨的日子裡，和大家一起同歡，市民朋友的創意，讓我相當驚豔！不論是服裝還是佈置，甚至是彼此交換禮物，都好用心；聖誕禮物拿到糖果，小朋友大方的跟正鈐分享，充滿愛的表現，是我們的驕傲－－ 我們能為下一代做的事情太多，正鈐主張0到6歲國家養、國民義務教育向下延伸、增設國小課後照護職缺，減輕家長接送負擔。 正鈐會全力為孩童爭取，讓快樂成長，成為孩子最棒的聖誕禮物！ ps.聖誕節滿滿的行程，我開始懂當聖誕老人的感覺了😂",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80013976_2916590351693944_6868673465411436544_n.jpg?_nc_cat=102&_nc_ohc=digv652AbLsAQnQ9pFjNJO5JvIc3FqtVb3qSkwr2etoBCKle5NWYJNu_A&_nc_ht=scontent-hkg3-1.xx&oh=bacfa341a9f369c88960aa1a0b0e65fe&oe=5EA433E0",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80013976_2916590351693944_6868673465411436544_n.jpg?_nc_cat=102&_nc_ohc=E8y18Qd-3YkAQno56z_ZC-2bayHewpTqCU1stRPF5ocz1a1VJQQXRztvw&_nc_ht=scontent-hkg3-1.xx&oh=e57aa553e31ae1bea22f7a46cffbfd9f&oe=5EA433E0",
     "廣告詳情": {
       "ad_creative_body": "【叮叮噹、叮叮噹， 正鈐祝福大家 #聖誕快樂！】\n\n聖誕節、耶誕夜，從早到晚每一場活動，都有聖誕老人、聖誕樹相隨～\n正鈐很高興在這個溫馨的日子裡，和大家一起同歡，市民朋友的創意，讓我相當驚豔！不論是服裝還是佈置，甚至是彼此交換禮物，都好用心；聖誕禮物拿到糖果，小朋友大方的跟正鈐分享，充滿愛的表現，是我們的驕傲－－\n我們能為下一代做的事情太多，正鈐主張0到6歲國家養、國民義務教育向下延伸、增設國小課後照護職缺，減輕家長接送負擔。\n正鈐會全力為孩童爭取，讓快樂成長，成為孩子最棒的聖誕禮物！\n\nps.聖誕節滿滿的行程，我開始懂當聖誕老人的感覺了😂",
       "ad_creation_time": "2019-12-24T15:42:02+0000",
@@ -13178,9 +13193,9 @@
     "AD_ID": "2210085929297749",
     "登錄為政治廣告": "是",
     "開始日期": "2019-12-24",
-    "結束日期": "1970-01-01",
+    "結束日期": "2019-12-29",
     "廣告內容": "感謝中天新聞報導，請民進黨鄭宏輝出來說明白，不要兩套標準！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81344261_2210086045964404_6995691118826356736_n.jpg?_nc_cat=102&_nc_ohc=PY6JgyCf5GQAQnRO4K5sGWBJANgjoy0-M8vPrTT6a0JqYOU7dDlNkyVMw&_nc_ht=scontent-hkg3-1.xx&oh=e8dc87822dc880f78ac3a4b532026200&oe=5E6D8F41",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81344261_2210086045964404_6995691118826356736_n.jpg?_nc_cat=102&_nc_ohc=4PaG-i6ixtEAQlX8YSg7_Vo1-V7aGsdcW7zjxoymngr1F6DxZFtHhH06Q&_nc_ht=scontent-hkg3-1.xx&oh=07e4d154cbaf2e139e3f24ace290e37b&oe=5E6D8F41",
     "廣告詳情": {
       "ad_creative_body": "感謝中天新聞報導，請民進黨鄭宏輝出來說明白，不要兩套標準！",
       "ad_creation_time": "2019-12-24T13:30:15+0000",
@@ -13262,7 +13277,7 @@
     "開始日期": "2019-12-24",
     "結束日期": "1970-01-01",
     "廣告內容": "【抓到了 !! 鄭宏輝在中國開公司】 《民進黨》去大陸就是合理做生意， 《民進黨》以外的人，去大陸就是被抹紅、統戰。 按照《民進黨的神邏輯》，正鈐想要請問鄭宏輝 (一) 為什麼你左手台灣掏錢補助，右手卻「錢進大陸」？ (二) 為什麼你如此積極配合中國的國家政策，在大陸湖北省傾力打造的「武漢國家生物產業基地」獨資成立公司？ (三) 你到底送了多少錢到大陸，賺了多少人民幣，又拿了中共多少好處？",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/81468125_2916532031699776_4477446403274047488_n.png?_nc_cat=101&_nc_ohc=MYRWv9DGUtgAQnGUV9rGYQ4zaSraD8StSg3J9PiiiBs9kl353lqF4rMag&_nc_ht=scontent-hkg3-1.xx&oh=af768d5bd1b63dffceb3462e9fcb2d1a&oe=5E9E9F99",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/81468125_2916532031699776_4477446403274047488_n.png?_nc_cat=101&_nc_ohc=vDWWIwMVd2QAQmELNf6Py1LFwwSn-7eicUUvQvHDOz693byYG9WOmr-iQ&_nc_ht=scontent-hkg3-1.xx&oh=ab2a1d4db0b18332ed16b27c73a50172&oe=5E9E9F99",
     "廣告詳情": {
       "ad_creative_body": "【抓到了 !! 鄭宏輝在中國開公司】\n\n《民進黨》去大陸就是合理做生意，\n《民進黨》以外的人，去大陸就是被抹紅、統戰。\n\n按照《民進黨的神邏輯》，正鈐想要請問鄭宏輝\n(一) 為什麼你左手台灣掏錢補助，右手卻「錢進大陸」？\n\n(二) 為什麼你如此積極配合中國的國家政策，在大陸湖北省傾力打造的「武漢國家生物產業基地」獨資成立公司？\n\n(三) 你到底送了多少錢到大陸，賺了多少人民幣，又拿了中共多少好處？",
       "ad_creation_time": "2019-12-24T08:41:45+0000",
@@ -13271,40 +13286,40 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.230243",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.343497",
+          "percentage": "0.315954",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.013068",
+          "percentage": "0.074731",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.015641",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.212197",
+          "percentage": "0.224192",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.140012",
+          "percentage": "0.180744",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.060983",
-          "age": "25-34",
+          "percentage": "0.188738",
+          "age": "65+",
           "gender": "female"
         }
       ],
       "funding_entity": "正鈐 鄭",
       "impressions": {
-        "lower_bound": "3000",
-        "upper_bound": "3999"
+        "lower_bound": "7000",
+        "upper_bound": "7999"
       },
       "page_id": "186612874691719",
       "page_name": "鄭正鈐",
@@ -13315,8 +13330,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "1000",
-        "upper_bound": "1499"
+        "lower_bound": "2500",
+        "upper_bound": "2999"
       },
       "ad_id": "2372184616427451"
     }
@@ -13327,9 +13342,9 @@
     "AD_ID": "631818877557759",
     "登錄為政治廣告": "是",
     "開始日期": "2019-12-24",
-    "結束日期": "1970-01-01",
+    "結束日期": "2019-12-28",
     "廣告內容": "【新竹①定挺鄭正鈐！國政創新，＃張善政來宣誓！】 副總統候選人張善政來新竹集結藍軍士氣，堅定信念，要吸引外資來台，提高薪資水準，帶動就業機會。 善政在擔任國科會企劃考核處處長期間，撰寫台灣第一部「科技白皮書」，奠定臺灣科技發展藍圖，相信大家對善政在高科技、長照領域的專業都給予極高的肯定。 正鈐很開心，今天與善政暢談科技政策的推動，許多議員朋友們都提出自己的想法！其中包含黃美慧議員擔心反滲透法，讓台商鄉親不敢回台。李國璋議員主張，用大數據推動長照。 善政回應，全力支持正鈐，一定要讓正鈐進到立法院，推動對台灣有利的法案。善政更有十足把握科學園區會支持韓國瑜。 非常感謝副總統候選人張善政，陪同正鈐一起展開新竹市車隊掃街遊行，經過街道有許多熱情的民眾回應，要正鈐一定要打贏這場選戰，來為市民朋友服務，在城隍廟正鈐與大家一同宣誓，要為新竹市民朋友的福祉全力以赴，爭取最有利政策。 正鈐懇請大家，總統票選2號韓國瑜、立委票選1號鄭正鈐，政黨票請選9號國民黨！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80563647_2912893328730313_3751906017571504128_n.jpg?_nc_cat=103&_nc_ohc=S72eQLB7hzEAQnV7R1MZrLYNrZobEjRkoczzphPCso-WemOToCZbrjaew&_nc_ht=scontent-hkg3-1.xx&oh=b7934044ded6c728380faff3f24d7cc1&oe=5EB38836",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80563647_2912893328730313_3751906017571504128_n.jpg?_nc_cat=103&_nc_ohc=EB5GAToR1hwAQkBTPkjjkk5rW8GraCKb1jiEPqrVe9td1zE59pYs337Nw&_nc_ht=scontent-hkg3-1.xx&oh=63e19fc32e2c1a543f0265fc161d92b8&oe=5EB38836",
     "廣告詳情": {
       "ad_creative_body": "【新竹①定挺鄭正鈐！國政創新，＃張善政來宣誓！】\n副總統候選人張善政來新竹集結藍軍士氣，堅定信念，要吸引外資來台，提高薪資水準，帶動就業機會。\n\n善政在擔任國科會企劃考核處處長期間，撰寫台灣第一部「科技白皮書」，奠定臺灣科技發展藍圖，相信大家對善政在高科技、長照領域的專業都給予極高的肯定。\n正鈐很開心，今天與善政暢談科技政策的推動，許多議員朋友們都提出自己的想法！其中包含黃美慧議員擔心反滲透法，讓台商鄉親不敢回台。李國璋議員主張，用大數據推動長照。\n善政回應，全力支持正鈐，一定要讓正鈐進到立法院，推動對台灣有利的法案。善政更有十足把握科學園區會支持韓國瑜。\n\n非常感謝副總統候選人張善政，陪同正鈐一起展開新竹市車隊掃街遊行，經過街道有許多熱情的民眾回應，要正鈐一定要打贏這場選戰，來為市民朋友服務，在城隍廟正鈐與大家一同宣誓，要為新竹市民朋友的福祉全力以赴，爭取最有利政策。\n\n正鈐懇請大家，總統票選2號韓國瑜、立委票選1號鄭正鈐，政黨票請選9號國民黨！",
       "ad_creation_time": "2019-12-24T08:46:05+0000",
@@ -13338,161 +13353,69 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000255",
+          "percentage": "0.000177",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00051",
+          "percentage": "0.000354",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000255",
+          "percentage": "0.000354",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.191386",
+          "percentage": "0.188859",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.018094",
+          "percentage": "0.025818",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.220948",
+          "percentage": "0.208311",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.171254",
+          "percentage": "0.16092",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.058614",
+          "percentage": "0.06366",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.091743",
+          "percentage": "0.083643",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.08894",
+          "percentage": "0.098497",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.05683",
+          "percentage": "0.051636",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.037717",
+          "percentage": "0.049691",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.063456",
+          "percentage": "0.068081",
           "age": "45-54",
           "gender": "female"
-        }
-      ],
-      "funding_entity": "正鈐 鄭",
-      "impressions": {
-        "lower_bound": "5000",
-        "upper_bound": "5999"
-      },
-      "page_id": "186612874691719",
-      "page_name": "鄭正鈐",
-      "region_distribution": [
-        {
-          "percentage": "1",
-          "region": "Hsinchu City"
-        }
-      ],
-      "spend": {
-        "lower_bound": "800",
-        "upper_bound": "899"
-      },
-      "ad_id": "631818877557759"
-    }
-  },
-  {
-    "選區": "新竹市選舉區",
-    "參選人": "鄭正鈐",
-    "AD_ID": "449874749289961",
-    "登錄為政治廣告": "是",
-    "開始日期": "2019-12-24",
-    "結束日期": "1970-01-01",
-    "廣告內容": "【市民熱情支持，改變新竹正開始】 天氣冷颼颼，民眾送暖正鈐好感動。 東區和北區接連舉辦同樂會活動，分別由 #余邦彥 副議長、#黃文政 議員舉辦逗陣冬至吃湯圓與前 #議長謝文進、#議員吳青山、#黃美慧、#蕭志潔、#顏政德 舉辦過冬至、吃湯圓親子同樂會，許多市民朋友熱情聲援，相當溫暖。 黨團夥伴更是從早到晚，用行動支持正鈐，同時對執政黨的私煙案、一例一休、卡神案、公投案提出質疑，民進黨執政以來的諸多缺失，我們一定要用選票支持國民黨，換下無能的政府。 建設新竹、保衛中華民國，讓國家安全人民有錢，我們會做得更好！ 感謝大家在冬至送暖，正鈐會繼續努力，力拼到底！ 鄭正鈐特別感謝 #議長許修睿 抱病到現場懇託鄉親，也非常感謝到場力挺的議會同仁和眾多里長！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80015093_2914333985252914_2251904147030802432_n.jpg?_nc_cat=101&_nc_ohc=AmapwOjilLMAQkV6aGkThJAegw3tHeCE7dFnu_y-Krqil6RSOuScfi0UA&_nc_ht=scontent-hkg3-1.xx&oh=4e11a1b66aa769d89b7c6b14518a14f6&oe=5EB1A421",
-    "廣告詳情": {
-      "ad_creative_body": "【市民熱情支持，改變新竹正開始】\n\n天氣冷颼颼，民眾送暖正鈐好感動。\n東區和北區接連舉辦同樂會活動，分別由 #余邦彥 副議長、#黃文政 議員舉辦逗陣冬至吃湯圓與前 #議長謝文進、#議員吳青山、#黃美慧、#蕭志潔、#顏政德 舉辦過冬至、吃湯圓親子同樂會，許多市民朋友熱情聲援，相當溫暖。\n\n黨團夥伴更是從早到晚，用行動支持正鈐，同時對執政黨的私煙案、一例一休、卡神案、公投案提出質疑，民進黨執政以來的諸多缺失，我們一定要用選票支持國民黨，換下無能的政府。\n\n建設新竹、保衛中華民國，讓國家安全人民有錢，我們會做得更好！\n感謝大家在冬至送暖，正鈐會繼續努力，力拼到底！\n\n鄭正鈐特別感謝 #議長許修睿 抱病到現場懇託鄉親，也非常感謝到場力挺的議會同仁和眾多里長！",
-      "ad_creation_time": "2019-12-24T08:45:11+0000",
-      "ad_delivery_start_time": "2019-12-24T08:45:11+0000",
-      "ad_delivery_stop_time": "2019-12-28T08:45:00+0000",
-      "currency": "TWD",
-      "demographic_distribution": [
-        {
-          "percentage": "0.000335",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000168",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.265672",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.207509",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.114482",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.067885",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.125377",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.049782",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.115823",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.052129",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000838",
-          "age": "35-44",
-          "gender": "unknown"
         }
       ],
       "funding_entity": "正鈐 鄭",
@@ -13509,8 +13432,105 @@
         }
       ],
       "spend": {
-        "lower_bound": "800",
-        "upper_bound": "899"
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "631818877557759"
+    }
+  },
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "鄭正鈐",
+    "AD_ID": "449874749289961",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-24",
+    "結束日期": "2019-12-28",
+    "廣告內容": "【市民熱情支持，改變新竹正開始】 天氣冷颼颼，民眾送暖正鈐好感動。 東區和北區接連舉辦同樂會活動，分別由 #余邦彥 副議長、#黃文政 議員舉辦逗陣冬至吃湯圓與前 #議長謝文進、#議員吳青山、#黃美慧、#蕭志潔、#顏政德 舉辦過冬至、吃湯圓親子同樂會，許多市民朋友熱情聲援，相當溫暖。 黨團夥伴更是從早到晚，用行動支持正鈐，同時對執政黨的私煙案、一例一休、卡神案、公投案提出質疑，民進黨執政以來的諸多缺失，我們一定要用選票支持國民黨，換下無能的政府。 建設新竹、保衛中華民國，讓國家安全人民有錢，我們會做得更好！ 感謝大家在冬至送暖，正鈐會繼續努力，力拼到底！ 鄭正鈐特別感謝 #議長許修睿 抱病到現場懇託鄉親，也非常感謝到場力挺的議會同仁和眾多里長！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80015093_2914333985252914_2251904147030802432_n.jpg?_nc_cat=101&_nc_ohc=GfgJx9baCr0AQlhsJqpGPmZMVAwwsPsttNZRuBUlw5mxWfKrn-V3k-Ebg&_nc_ht=scontent-hkg3-1.xx&oh=d4e8ae01a1198cd4b831383927f6e4cb&oe=5EB1A421",
+    "廣告詳情": {
+      "ad_creative_body": "【市民熱情支持，改變新竹正開始】\n\n天氣冷颼颼，民眾送暖正鈐好感動。\n東區和北區接連舉辦同樂會活動，分別由 #余邦彥 副議長、#黃文政 議員舉辦逗陣冬至吃湯圓與前 #議長謝文進、#議員吳青山、#黃美慧、#蕭志潔、#顏政德 舉辦過冬至、吃湯圓親子同樂會，許多市民朋友熱情聲援，相當溫暖。\n\n黨團夥伴更是從早到晚，用行動支持正鈐，同時對執政黨的私煙案、一例一休、卡神案、公投案提出質疑，民進黨執政以來的諸多缺失，我們一定要用選票支持國民黨，換下無能的政府。\n\n建設新竹、保衛中華民國，讓國家安全人民有錢，我們會做得更好！\n感謝大家在冬至送暖，正鈐會繼續努力，力拼到底！\n\n鄭正鈐特別感謝 #議長許修睿 抱病到現場懇託鄉親，也非常感謝到場力挺的議會同仁和眾多里長！",
+      "ad_creation_time": "2019-12-24T08:45:11+0000",
+      "ad_delivery_start_time": "2019-12-24T08:45:11+0000",
+      "ad_delivery_stop_time": "2019-12-28T08:45:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000116",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000116",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.250145",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.208086",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.11235",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.137098",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.057163",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.103404",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.080051",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.049727",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000813",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000929",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "正鈐 鄭",
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "186612874691719",
+      "page_name": "鄭正鈐",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
       },
       "ad_id": "449874749289961"
     }
@@ -13523,7 +13543,7 @@
     "開始日期": "2019-12-23",
     "結束日期": "2019-12-25",
     "廣告內容": "【爆卦民進黨鄭宏輝】記者會LIVE直播📹 📌鄭宏輝請你出來說清楚、講明白！ 📌鄭宏輝在大陸湖北武漢獨資成立公司！ 📌鄭宏輝左手「台灣掏錢」、右手「錢進大陸」? 📌鄭宏輝到底送了多少錢到大陸？賺了多少人民幣？拿了中共多少好處？ 📌鄭宏輝有嘴說別人，沒嘴說自己！ 📌鄭宏輝是否犧牲台灣國安，只想拿中共的好處？ #鄭宏輝",
-    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/81212935_445209419484078_1871054381688815616_n.jpg?_nc_cat=110&_nc_ohc=ZJqH4j0vakwAQkYOpVXnyBIMwWGaNsLQ9H_fdlykBL6gAi7u3CEVpityg&_nc_ht=scontent-hkg3-2.xx&oh=c5f91d4c7d57938344f9c7f229a52e40&oe=5EA1341D",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/81212935_445209419484078_1871054381688815616_n.jpg?_nc_cat=110&_nc_ohc=fQlBiV8aXukAQmQzCIU4lWklHKeeUZzMeixTql-9PJGk82Usp_KN8dJtQ&_nc_ht=scontent-hkg3-2.xx&oh=48753cab1427c01aeb0d9648da0f69e7&oe=5EA1341D",
     "廣告詳情": {
       "ad_creative_body": "【爆卦民進黨鄭宏輝】記者會LIVE直播📹\n👉🏻鄭宏輝請你出來說清楚、講明白！\n\n📌鄭宏輝在大陸湖北武漢獨資成立公司！\n📌鄭宏輝左手「台灣掏錢」、右手「錢進大陸」?\n📌鄭宏輝到底送了多少錢到大陸？賺了多少人民幣？拿了中共多少好處？\n📌鄭宏輝有嘴說別人，沒嘴說自己！\n📌鄭宏輝是否犧牲台灣國安，只想拿中共的好處？",
       "ad_creation_time": "2019-12-24T03:23:06+0000",
@@ -13635,7 +13655,7 @@
     "開始日期": "2019-12-23",
     "結束日期": "2019-12-24",
     "廣告內容": "【倒數18天，平安順行，藍天再現！】 咱a好朋友，北區議員吳青山，對地方經營深入了解，全力服務！是在地最高票的議員！ 　 很感謝好朋友青山兄全力支持正鈐，與正鈐一起帶給市民朋友滿滿的正能量！今晚是平安夜，祝福大家，有個順心愉悅的每一天！ ㊣小額捐款，相挺正鈐>>https://p.ecpay.com.tw/01A08  ㊣匿名捐獻>>https://pay.ecpay.com.tw/CreditPayment/ExpressCredit?MerchantID=3166483 ㊣正能量馬克杯捐款>>https://ccchsinchu.cashier.ecpay.com.tw/",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79228115_2899345100085136_8030400688062201856_n.jpg?_nc_cat=100&_nc_ohc=e6Qm3aW51aoAQlz0GHeNAOt4SD2sPjLijdYD6JDEpFcQfLZ36yQr76iOw&_nc_ht=scontent-hkg3-1.xx&oh=75352c6c77cb51e30680d9f999fc30e6&oe=5EAD8326",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79228115_2899345100085136_8030400688062201856_n.jpg?_nc_cat=100&_nc_oc=AQmH_InQmz1SVvG1HC9l7_TbIHdaqawwFYWrjIXNb1K7qVvT-8WhtxBN_R8LFPN4rTw&_nc_ht=scontent-hkg3-1.xx&oh=e3024cb74187766f3605ff914fea6879&oe=5EAD8326",
     "廣告詳情": {
       "ad_creative_body": "【倒數18天，平安順行，藍天再現！】\n咱a好朋友，北區議員吳青山，對地方經營深入了解，全力服務！是在地最高票的議員！\n　\n很感謝好朋友青山兄全力支持正鈐，與正鈐一起帶給市民朋友滿滿的正能量！今晚是平安夜，祝福大家，有個順心愉悅的每一天！\n\n㊣小額捐款，相挺正鈐>>https://p.ecpay.com.tw/01A08 \n㊣匿名捐獻>>https://pay.ecpay.com.tw/CreditPayment/ExpressCredit?MerchantID=3166483\n㊣正能量馬克杯捐款>>https://ccchsinchu.cashier.ecpay.com.tw",
       "ad_creation_time": "2019-12-24T02:51:31+0000",
@@ -13735,9 +13755,9 @@
     "AD_ID": "453279308894816",
     "登錄為政治廣告": "是",
     "開始日期": "2019-12-23",
-    "結束日期": "1970-01-01",
+    "結束日期": "2019-12-28",
     "廣告內容": "【就是要正能量☆韓國瑜真摯力挺】 為中華民國裝上兩隻強而有力的翅膀，展翅高飛！",
-    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/81603869_453279322228148_3456702049050165248_n.jpg?_nc_cat=110&_nc_ohc=wQ48sedv_boAQkm0Ij7t1_Fv0FTFMFH5unGijQLJZMqY6vaxJ5C70sLfg&_nc_ht=scontent-hkg3-2.xx&oh=ab521fdaa40465758315e08d0dc414d2&oe=5E9E1260",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/81603869_453279322228148_3456702049050165248_n.jpg?_nc_cat=110&_nc_oc=AQkGbznVv4qViOuEO4k3-hswUVCkBnbfGj6RxR6uLF3jiI-UDBALAuiqH-rw2Jfplrs&_nc_ht=scontent-hkg3-2.xx&oh=94ec6a9335d6b2b250c7d9e98a8dd763&oe=5E9E1260",
     "廣告詳情": {
       "ad_creative_body": "【就是要正能量☆韓國瑜真摯力挺】\n為中華民國裝上兩隻強而有力的翅膀，展翅高飛！",
       "ad_creation_time": "2019-12-24T02:51:04+0000",
@@ -13747,100 +13767,100 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000362",
-          "age": "25-34",
+          "percentage": "6.2E-5",
+          "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.134255",
+          "percentage": "0.135691",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "9.0E-5",
+          "percentage": "6.2E-5",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "9.0E-5",
+          "percentage": "6.2E-5",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.01103",
+          "percentage": "0.014111",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.084441",
+          "percentage": "0.070865",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.069343",
+          "percentage": "0.079924",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.014736",
+          "percentage": "0.014543",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.044209",
+          "percentage": "0.046155",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.000362",
+          "percentage": "0.000616",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.082452",
+          "percentage": "0.072036",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.166983",
+          "percentage": "0.158122",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.035801",
+          "percentage": "0.040486",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.075943",
+          "percentage": "0.079123",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.13534",
+          "percentage": "0.125216",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.144381",
+          "percentage": "0.162435",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "9.0E-5",
-          "age": "65+",
+          "percentage": "0.000308",
+          "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "9.0E-5",
+          "percentage": "0.000185",
           "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "正鈐 鄭",
       "impressions": {
-        "lower_bound": "15000",
-        "upper_bound": "19999"
+        "lower_bound": "25000",
+        "upper_bound": "29999"
       },
       "page_id": "186612874691719",
       "page_name": "鄭正鈐",
@@ -13851,8 +13871,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "3000",
-        "upper_bound": "3499"
+        "lower_bound": "5000",
+        "upper_bound": "5999"
       },
       "ad_id": "453279308894816"
     }
@@ -13865,7 +13885,7 @@
     "開始日期": "2019-12-25",
     "結束日期": "2019-12-26",
     "廣告內容": "【倒數16天，為民服務的精神源源不絕～】 說到長輩、婦女和兒童的權益爭取，以及對弱勢族群的關心， #新竹市香山區議員陳啓源 當仁不讓！ 打造新竹「人文科技大學城」有一套，在環境污染的議題上亦有堅持，是正鈐在議會中爭取地方建設的好夥伴；也特別感謝正氣凜然的啓源本次擔任正鈐競總的發言人，讓我們有十足勝選的信心，攜手努力，打造進步的新竹！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80103107_2919989091354070_2464790725112365056_n.jpg?_nc_cat=106&_nc_ohc=2OB_SxExKvUAQmZPKeY6TQ3lNOh3J_DpGj7NzmRy_HdBcvRRpxrQfssnw&_nc_ht=scontent-hkg3-1.xx&oh=d273542b0b292dd45678c18696ad2ef9&oe=5E67EEE9",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80103107_2919989091354070_2464790725112365056_n.jpg?_nc_cat=106&_nc_ohc=B-9KLfkRx1EAQkaQXtykPI_lrM4juk3Z74CUtkvqjRRinHoSKWTB6hjhw&_nc_ht=scontent-hkg3-1.xx&oh=018d21925aa33c6eb5e31cbcccbe80e8&oe=5E67EEE9",
     "廣告詳情": {
       "ad_creative_body": "【倒數16天，為民服務的精神源源不絕～】\n\n說到長輩、婦女和兒童的權益爭取，以及對弱勢族群的關心， #新竹市香山區議員陳啓源 當仁不讓！\n\n打造新竹「人文科技大學城」有一套，在環境污染的議題上亦有堅持，是正鈐在議會中爭取地方建設的好夥伴；也特別感謝正氣凜然的啓源本次擔任正鈐競總的發言人，讓我們有十足勝選的信心，攜手努力，打造進步的新竹！",
       "ad_creation_time": "2019-12-25T23:31:09+0000",
@@ -13970,9 +13990,9 @@
     "AD_ID": "1027967347545891",
     "登錄為政治廣告": "是",
     "開始日期": "2019-12-25",
-    "結束日期": "1970-01-01",
+    "結束日期": "2019-12-27",
     "廣告內容": "【南寮漁港超有聊，觀光發展會更好】 想吃海鮮？立刻驅車前往「#南寮漁港」大快朵頤！ 南寮漁港離新竹市區很近，有豐富文化背景和美麗海景，以及最讓大家津津樂道的海產、美食，是許多市民朋友出遊首選景點；在漁產品直銷中心和市民朋友拜票，許多攤商大哥、大姊給正鈐打氣～勉勵我前進中央、建設地方，把遊客帶進新竹，發揚我們的地方特色，讓大家過好日子。 國家安全、人民有錢，不單是市民的期許，更是全民的期待，找回我們的價值與驕傲，新竹市立法委候選人①號鄭正鈐，使命必達－－",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80215234_2917497968269849_7982244217659326464_n.jpg?_nc_cat=104&_nc_ohc=61AJFyhqWmAAQkl8hjHWt4rr_lG5Eb-tSp0fVcDgnU9JDuw12CQzSNyiA&_nc_ht=scontent-hkg3-1.xx&oh=289aed3b622b9165ea61edc74a2d89ef&oe=5EB4525C",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80215234_2917497968269849_7982244217659326464_n.jpg?_nc_cat=104&_nc_ohc=Cp7XGxC4w00AQlSqPO5GRC10qRgIXryZHYDwQA8Zs0iJJ0u2Db1whz9tg&_nc_ht=scontent-hkg3-1.xx&oh=dd43763ef156957daac33ee3e8efa930&oe=5EB4525C",
     "廣告詳情": {
       "ad_creative_body": "【南寮漁港超有聊，觀光發展會更好】\n\n想吃海鮮？立刻驅車前往「#南寮漁港」大快朵頤！\n南寮漁港離新竹市區很近，有豐富文化背景和美麗海景，以及最讓大家津津樂道的海產、美食，是許多市民朋友出遊首選景點；在漁產品直銷中心和市民朋友拜票，許多攤商大哥、大姊給正鈐打氣～勉勵我前進中央、建設地方，把遊客帶進新竹，發揚我們的地方特色，讓大家過好日子。\n國家安全、人民有錢，不單是市民的期許，更是全民的期待，找回我們的價值與驕傲，新竹市立法委候選人①號鄭正鈐，使命必達－－",
       "ad_creation_time": "2019-12-25T16:45:35+0000",
@@ -13981,90 +14001,90 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.186727",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.025943",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.0727",
+          "percentage": "0.074337",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.044646",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.022021",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.228054",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.115837",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.106787",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.06546",
+          "percentage": "0.068908",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.11644",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.010256",
+          "percentage": "0.011485",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.000302",
+          "percentage": "0.000209",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.003318",
+          "percentage": "0.005429",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.000603",
+          "percentage": "0.000418",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000302",
+          "percentage": "0.000209",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000603",
+          "percentage": "0.000418",
           "age": "55-64",
           "gender": "unknown"
+        },
+        {
+          "percentage": "0.109417",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.182084",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.100856",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.048862",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.02986",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.213823",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.029234",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.124452",
+          "age": "55-64",
+          "gender": "female"
         }
       ],
       "funding_entity": "正鈐 鄭",
       "impressions": {
-        "lower_bound": "4000",
-        "upper_bound": "4999"
+        "lower_bound": "6000",
+        "upper_bound": "6999"
       },
       "page_id": "186612874691719",
       "page_name": "鄭正鈐",
@@ -14075,8 +14095,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "700",
-        "upper_bound": "799"
+        "lower_bound": "1000",
+        "upper_bound": "1499"
       },
       "ad_id": "1027967347545891"
     }
@@ -14087,9 +14107,9 @@
     "AD_ID": "1024349257929990",
     "登錄為政治廣告": "是",
     "開始日期": "2019-12-25",
-    "結束日期": "1970-01-01",
+    "結束日期": "2019-12-30",
     "廣告內容": "【正鈐拜託，1/11請出門投票】 阻止蔡英文成為五大權力於一身的「超級總統」。",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81385506_1024349264596656_4867611626263543808_n.jpg?_nc_cat=105&_nc_ohc=Rb1zdHMeTdoAQmKg3q4Zj7pF-WVeFWi2RXw395NzBPB9Y9z66U0sl6oQw&_nc_ht=scontent-hkg3-1.xx&oh=b50142e062a66001949316c7f391f612&oe=5E682417",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81385506_1024349264596656_4867611626263543808_n.jpg?_nc_cat=105&_nc_ohc=VY0zOxqCYgYAQl5Uvdjkz9LwwNXSQRIljlLO8sSShGdLgZHcO8-fHchdQ&_nc_ht=scontent-hkg3-1.xx&oh=755abf54fa44bea8e7b64a26544ffe3d&oe=5E682417",
     "廣告詳情": {
       "ad_creative_body": "【正鈐拜託，1/11請出門投票】\n阻止蔡英文成為五大權力於一身的「超級總統」。",
       "ad_creation_time": "2019-12-25T10:58:42+0000",
@@ -14192,7 +14212,7 @@
     "開始日期": "2019-12-24",
     "結束日期": "2019-12-25",
     "廣告內容": "【倒數17天，聖誕快樂！】 新竹市民朋友們，大家早安！ 今天是溫暖的聖誕歡樂佳節，同時也是我們中華民國的行憲紀念日，憲法保障人民的自由權利，是奠定我們民主憲政史上的重要里程碑！ 在深具象徵意義的日子裡，正鈐祝福大家，有個美好的一天；未來，我們一起創造新竹幸福的每一天！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80047685_2917563841596595_112835671403528192_n.jpg?_nc_cat=106&_nc_ohc=XmqMuTm6R0oAQmOYAfUFHS9mrGDt6Zl5XiQhjz3d3M2Ryh7_RBszZi7ig&_nc_ht=scontent-hkg3-1.xx&oh=3a3df79ad62e75e1e7430ee422620b3e&oe=5EB13443",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80047685_2917563841596595_112835671403528192_n.jpg?_nc_cat=106&_nc_ohc=JA8dju9p7HMAQnML3ij8G9INgFvDug-8lnzogLdivySnn3csNKyKF7i9g&_nc_ht=scontent-hkg3-1.xx&oh=01aa5d766e2bfec8a5f75ebc40cc2bae&oe=5EB13443",
     "廣告詳情": {
       "ad_creative_body": "【倒數17天，聖誕快樂！】\n新竹市民朋友們，大家早安！\n\n今天是溫暖的聖誕歡樂佳節，同時也是我們中華民國的行憲紀念日，憲法保障人民的自由權利，是奠定我們民主憲政史上的重要里程碑！\n\n在深具象徵意義的日子裡，正鈐祝福大家，有個美好的一天；未來，我們一起創造新竹幸福的每一天！",
       "ad_creation_time": "2019-12-25T04:27:37+0000",
@@ -14297,9 +14317,9 @@
     "AD_ID": "782341798933168",
     "登錄為政治廣告": "是",
     "開始日期": "2019-12-24",
-    "結束日期": "1970-01-01",
+    "結束日期": "2019-12-27",
     "廣告內容": "【一起做國家的新貴派！】 「竹科新貴」一直是在新竹科技產業工作的代名詞 我覺得不管在哪工作、做什麼工作 國家的未來棟樑，通通都是新貴 但是這些未來的新貴 需要我們好好的培育，讓他們盡情地探索 必要時適時的指引方向避免走上歧路 針對年輕一代 或更年輕的學齡兒童、青少年 政府資源與施政都不應妄下 甚至因黨派朝令夕改 只要領頭羊對了 大家都可以是未來的新貴派！ 🚀青年高失業率，怎解？看這邊：https://reurl.cc/k5b5mL 🚀青創新創，對症下藥：https://reurl.cc/EKNKk0 🚀國民教育下修至五歲：https://reurl.cc/VaZaGR #94要正能量 #請選1號 #新竹市立法委員候選人鄭正鈐",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76682592_2914101301942849_1580437305095618560_n.jpg?_nc_cat=108&_nc_ohc=_bP82W7hr6IAQnziKwC75ZTe0L8HOi0TXIaOSfnfIizd8KF8xyjDEZnWw&_nc_ht=scontent-hkg3-1.xx&oh=776bd7344aaa32a5f229323ebf2be93a&oe=5E7092E4",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/76682592_2914101301942849_1580437305095618560_n.jpg?_nc_cat=108&_nc_ohc=aGLWQIO2gdgAQkRIgFbDbY96EkvDgQNE7AD6-Uzf9ltrDcH_Z3opnu2HA&_nc_ht=scontent-hkg3-1.xx&oh=4ba28c8371c6392fb768d36ffb3b0631&oe=5E7092E4",
     "廣告詳情": {
       "ad_creative_body": "【一起做國家的新貴派！】\n\n「竹科新貴」一直是在新竹科技產業工作的代名詞\n我覺得不管在哪工作、做什麼工作\n國家的未來棟樑，通通都是新貴\n但是這些未來的新貴\n需要我們好好的培育，讓他們盡情地探索\n必要時適時的指引方向避免走上歧路\n\n針對年輕一代 或更年輕的學齡兒童、青少年\n政府資源與施政都不應妄下 甚至因黨派朝令夕改\n只要領頭羊對了 大家都可以是未來的新貴派！\n\n🚀青年高失業率，怎解？看這邊：https://reurl.cc/k5b5mL\n🚀青創新創，對症下藥：https://reurl.cc/EKNKk0\n🚀國民教育下修至五歲：https://reurl.cc/VaZaGR\n\n#94要正能量 #請選1號 #新竹市立法委員候選人鄭正鈐",
       "ad_creation_time": "2019-12-24T08:44:54+0000",
@@ -14308,58 +14328,1181 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.308308",
+          "percentage": "0.304947",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.246246",
+          "percentage": "0.245147",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.146813",
+          "percentage": "0.145585",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.071071",
+          "percentage": "0.074828",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.097097",
+          "percentage": "0.094552",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.079079",
+          "percentage": "0.081716",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.029696",
+          "percentage": "0.030369",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.02002",
+          "percentage": "0.020977",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.000667",
+          "percentage": "0.000626",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000667",
+          "percentage": "0.000939",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000334",
+          "percentage": "0.000313",
           "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "正鈐 鄭",
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "page_id": "186612874691719",
+      "page_name": "鄭正鈐",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "900",
+        "upper_bound": "999"
+      },
+      "ad_id": "782341798933168"
+    }
+  },
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "鄭正鈐",
+    "AD_ID": "300907857496497",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-26",
+    "結束日期": "2019-12-29",
+    "廣告內容": "【就是要正能量☆羅智強真摯力挺】 時間站在道理的這一邊。",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81309618_300907867496496_8252943765669412864_n.jpg?_nc_cat=103&_nc_ohc=3bVpHaQAHyoAQkFeeMw56ZOUVT2KZunidDqQP1-79zwEP7qQqCZ-zv2JA&_nc_ht=scontent-hkg3-1.xx&oh=fcac199c45e406b965d50bef8efd4d0c&oe=5E9BAF76",
+    "廣告詳情": {
+      "ad_creative_body": "【就是要正能量☆羅智強真摯力挺】\n時間站在道理的這一邊。",
+      "ad_creation_time": "2019-12-26T15:39:27+0000",
+      "ad_creative_link_title": "【就是要正能量☆羅智強真摯力挺】",
+      "ad_delivery_start_time": "2019-12-26T23:43:21+0000",
+      "ad_delivery_stop_time": "2019-12-29T23:43:20+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000572",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.024525",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000644",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000358",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000143",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000858",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.037895",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.088803",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.119906",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.098241",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.035321",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.070785",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.05527",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.144788",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.055699",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.082368",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.183612",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000215",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "正鈐 鄭",
+      "impressions": {
+        "lower_bound": "20000",
+        "upper_bound": "24999"
+      },
+      "page_id": "186612874691719",
+      "page_name": "鄭正鈐",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "3000",
+        "upper_bound": "3499"
+      },
+      "ad_id": "300907857496497"
+    }
+  },
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "鄭正鈐",
+    "AD_ID": "465330140822461",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-26",
+    "結束日期": "2019-12-27",
+    "廣告內容": "【倒數15天，溫柔力量來相挺！】 #新竹東區市議員張祖琰，和正鈐一起在議會為民喉舌多年！ 工研院出身的她，有科技人的專業冷靜，在接觸市政後，更將人文關懷化為具體的行動，整合生命線資源，讓志工能夠幫助更多人。 祖琰同時是我們黨團書記長，運用她與眾不同的科技人精神，為新竹這座科技城帶來截然不同的溫度，也讓正鈐對於張祖琰議員的支持相當感動；科技與人文共榮，這是我們共同的願望－－",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79079391_2899351523417827_3079938206355947520_n.jpg?_nc_cat=110&_nc_ohc=b8tI6aRUgBgAQkjtX45C3oZLFMAWiIhD9GQime43jwNIHNUqH96_WvXmA&_nc_ht=scontent-hkg3-2.xx&oh=c4bf3463b8f329dfb3fb0bf819ff6bb6&oe=5E6EE5B6",
+    "廣告詳情": {
+      "ad_creative_body": "【倒數15天，溫柔力量來相挺！】\n\n#新竹東區市議員張祖琰，和正鈐一起在議會為民喉舌多年！\n工研院出身的她，有科技人的專業冷靜，在接觸市政後，更將人文關懷化為具體的行動，整合生命線資源，讓志工能夠幫助更多人。\n祖琰同時是我們黨團書記長，運用她與眾不同的科技人精神，為新竹這座科技城帶來截然不同的溫度，也讓正鈐對於張祖琰議員的支持相當感動；科技與人文共榮，這是我們共同的願望－－",
+      "ad_creation_time": "2019-12-26T23:04:16+0000",
+      "ad_delivery_start_time": "2019-12-26T23:07:48+0000",
+      "ad_delivery_stop_time": "2019-12-27T23:07:48+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000418",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.218881",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.189641",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.101504",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.035088",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.084378",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.104845",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000418",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.136591",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.045113",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.065998",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000418",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.016708",
+          "age": "25-34",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "正鈐 鄭",
+      "impressions": {
+        "lower_bound": "3000",
+        "upper_bound": "3999"
+      },
+      "page_id": "186612874691719",
+      "page_name": "鄭正鈐",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "800",
+        "upper_bound": "899"
+      },
+      "ad_id": "465330140822461"
+    }
+  },
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "鄭正鈐",
+    "AD_ID": "815331462264305",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-26",
+    "結束日期": "2019-12-28",
+    "廣告內容": "【東區向鈐行，金山寺親子同樂會現場】LIVE直播📹 #新竹市立法委員候選人1號鄭正鈐 #新竹市議員羅文熾 #新竹市議員段孝芳 #中國國民黨新竹市黨部",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81959100_815332148930903_1788120195290628096_n.jpg?_nc_cat=108&_nc_ohc=Y5axado3OR4AQnDtrpIclCI3pErit2bQ8b_UYhL1tgrakWGl1M9dBmu_g&_nc_ht=scontent-hkg3-1.xx&oh=b401c1a0c7b753a0e2b6ec0385b81fe9&oe=5EA23910",
+    "廣告詳情": {
+      "ad_creative_body": "【東區向鈐行，金山寺親子同樂會現場】LIVE直播📹\n\n#新竹市立法委員候選人1號鄭正鈐\n#新竹市議員羅文熾\n#新竹市議員段孝芳\n#中國國民黨新竹市黨部",
+      "ad_creation_time": "2019-12-26T16:34:38+0000",
+      "ad_delivery_start_time": "2019-12-26T16:34:39+0000",
+      "ad_delivery_stop_time": "2019-12-28T16:34:38+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000223",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.075299",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.205005",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.102558",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.021003",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.089375",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.173165",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.142666",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.044799",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.047928",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.091498",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.004245",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001564",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000335",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000223",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000112",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "正鈐 鄭",
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "186612874691719",
+      "page_name": "鄭正鈐",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "815331462264305"
+    }
+  },
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "鄭正鈐",
+    "AD_ID": "1024764224549745",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-26",
+    "結束日期": "2019-12-29",
+    "廣告內容": "【浪浪別哭 ，友善毛孩愛滿新竹】 碰到車禍的小貓，正鈐與愛媽一同將小貓送到動物醫院，幸好傷勢無大礙，痊癒後就能送養，找一個溫暖的家～正鈐也要提醒大家，天氣轉涼，許多浪浪總會往溫暖的地方鑽，給毛孩溫暖也要注意牠們的安全，開車前拍拍引擎蓋，提醒牠們離開後再發動汽車。 友善動物，是生命教育重要的一環，正鈐邀請大家一起善待毛孩，讓愛滿新竹！",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/81120842_2920012371351742_7305774627882532864_n.jpg?_nc_cat=107&_nc_ohc=uy2XRdl5CtEAQmxl0OHC6_0poVYS7cJ68IvdQWNWs2x73k3EciwYMg8tw&_nc_ht=scontent-hkg3-2.xx&oh=af5beef511f4a9bbebcb920ff4e51d76&oe=5E66B485",
+    "廣告詳情": {
+      "ad_creative_body": "【浪浪別哭 ，友善毛孩愛滿新竹】\n\n碰到車禍的小貓，正鈐與愛媽一同將小貓送到動物醫院，幸好傷勢無大礙，痊癒後就能送養，找一個溫暖的家～正鈐也要提醒大家，天氣轉涼，許多浪浪總會往溫暖的地方鑽，給毛孩溫暖也要注意牠們的安全，開車前拍拍引擎蓋，提醒牠們離開後再發動汽車。\n友善動物，是生命教育重要的一環，正鈐邀請大家一起善待毛孩，讓愛滿新竹！",
+      "ad_creation_time": "2019-12-26T16:33:36+0000",
+      "ad_delivery_start_time": "2019-12-26T16:33:38+0000",
+      "ad_delivery_stop_time": "2019-12-29T16:33:36+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.103448",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.219436",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.320141",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.041536",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.173589",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.077978",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.022335",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.031348",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000784",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.005094",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.003918",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000392",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "正鈐 鄭",
+      "impressions": {
+        "lower_bound": "3000",
+        "upper_bound": "3999"
+      },
+      "page_id": "186612874691719",
+      "page_name": "鄭正鈐",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "800",
+        "upper_bound": "899"
+      },
+      "ad_id": "1024764224549745"
+    }
+  },
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "鄭正鈐",
+    "AD_ID": "481033546145105",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-29",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【對！我們就是這麼團結！】 相信應該有不少市民朋友在路上有看到我們議會黨團大合照的看板了！這就是我們當天合照的花絮😂 正鈐在議會的黨團好同事，每位議員都非常優秀且認真，東、南、西、北、香山區大團結，為的就是下架民進黨！撥亂反正！ 中央與地方大連線，聯手打造新竹市更美好的未來！ #就是要正能量 #中央地方連線 #新竹市立委候選人1號鄭正鈐",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80478353_2921057491247230_6288495272884436992_n.jpg?_nc_cat=106&_nc_ohc=Gbb4dxMoQg0AQnNRhPS2WnQfxl5VE6OS5goKlFh_Td2xWd28fEDJzGT4Q&_nc_ht=scontent-hkg3-1.xx&oh=d58964018c61738b6631e201d214989a&oe=5E6FF278",
+    "廣告詳情": {
+      "ad_creative_body": "【對！我們就是這麼團結！】\n\n相信應該有不少市民朋友在路上有看到我們議會黨團大合照的看板了！這就是我們當天合照的花絮😂\n\n正鈐在議會的黨團好同事，每位議員都非常優秀且認真，東、南、西、北、香山區大團結，為的就是下架民進黨！撥亂反正！\n\n中央與地方大連線，聯手打造新竹市更美好的未來！\n\n#就是要正能量\n#中央地方連線\n#新竹市立委候選人1號鄭正鈐",
+      "ad_creation_time": "2019-12-26T08:14:35+0000",
+      "ad_delivery_start_time": "2019-12-26T08:14:36+0000",
+      "ad_delivery_stop_time": "2019-12-30T08:14:35+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000199",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.165191",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.003083",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.027151",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.05639",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.06723",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.14182",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.011338",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.101542",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "9.9E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.15823",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.160119",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.061263",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.045251",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "9.9E-5",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000298",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000696",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "正鈐 鄭",
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "186612874691719",
+      "page_name": "鄭正鈐",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2000",
+        "upper_bound": "2499"
+      },
+      "ad_id": "481033546145105"
+    }
+  },
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "鄭正鈐",
+    "AD_ID": "818364421940200",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-25",
+    "結束日期": "2019-12-30",
+    "廣告內容": "【就是要正能量☆張善政真摯力挺】 寧可笑著流淚，不要哭著說後悔。",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81797340_818364435273532_5483986261267972096_n.jpg?_nc_cat=106&_nc_ohc=Spt3asS1DeUAQnweZYY7iBehcO0ViqAQU4DwUn1pLErQI0VHOK4xN4X3A&_nc_ht=scontent-hkg3-1.xx&oh=287f6098a6f438f884dacd02076ab89e&oe=5EB130FD",
+    "廣告詳情": {
+      "ad_creative_body": "【就是要正能量☆張善政真摯力挺】\n寧可笑著流淚，不要哭著說後悔。",
+      "ad_creation_time": "2019-12-25T23:31:52+0000",
+      "ad_creative_link_title": "【就是要正能量☆張善政真摯力挺】",
+      "ad_delivery_start_time": "2019-12-26T01:07:00+0000",
+      "ad_delivery_stop_time": "2019-12-31T01:07:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.094366",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.137514",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.068602",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.181592",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.047183",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.165606",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.111128",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.067515",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.063092",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.059755",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000621",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00163",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000698",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00031",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000388",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "正鈐 鄭",
+      "impressions": {
+        "lower_bound": "20000",
+        "upper_bound": "24999"
+      },
+      "page_id": "186612874691719",
+      "page_name": "鄭正鈐",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "4000",
+        "upper_bound": "4499"
+      },
+      "ad_id": "818364421940200"
+    }
+  },
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "鄭正鈐",
+    "AD_ID": "575864666526382",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-27",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【綠皮紅骨鄭宏輝，左手台灣掏錢，右手錢進大陸】 📌蔡英文妳要通過反滲透法先把鄭宏輝抓起來 📌柯建銘你看，這就是你的接班人 📌鄭宏輝在中國不為人知的一面 📌鄭宏輝你用什麼資格參選中華民國立委？ 📌不要再欺騙民眾了 📌抵制「中國台灣」鄭宏輝 📌下架詐騙集團民進黨",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/81393851_2567219570041278_1167116955635679232_n.jpg?_nc_cat=107&_nc_ohc=R2-sSixvuswAQmk3W8gjSSecXKmeZK_IOu-q19ZC3QcGOvC1CuDjqt5IA&_nc_ht=scontent-hkg3-2.xx&oh=c835ae233618e413b2c08b47c1db4c68&oe=5EA52C47",
+    "廣告詳情": {
+      "ad_creative_body": "【綠皮紅骨鄭宏輝，左手台灣掏錢，右手錢進大陸】\n📌蔡英文妳要通過反滲透法先把鄭宏輝抓起來\n📌柯建銘你看，這就是你的接班人\n📌鄭宏輝在中國不為人知的一面\n📌鄭宏輝你用什麼資格參選中華民國立委？\n📌不要再欺騙民眾了\n📌抵制「中國台灣」鄭宏輝\n📌下架詐騙集團民進黨",
+      "ad_creation_time": "2019-12-27T13:58:01+0000",
+      "ad_creative_link_title": "【綠皮紅骨鄭宏輝，左手台灣掏錢，右手錢進大陸】",
+      "ad_delivery_start_time": "2019-12-27T13:58:02+0000",
+      "ad_delivery_stop_time": "2020-01-03T01:45:45+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.224516",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.020216",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000142",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000498",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000427",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000498",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.006122",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.004556",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.045914",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.185578",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.027976",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.057375",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.039935",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.071754",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.062073",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.252349",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "7.1E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "正鈐 鄭",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "186612874691719",
+      "page_name": "鄭正鈐",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2000",
+        "upper_bound": "2499"
+      },
+      "ad_id": "575864666526382"
+    }
+  },
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "鄭正鈐",
+    "AD_ID": "548453299333183",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-26",
+    "結束日期": "2019-12-28",
+    "廣告內容": "【綠皮紅骨鄭宏輝，左手台灣掏錢，右手錢進大陸】記者會LIVE直播📹 📌跟你說鄭宏輝在中國不為人知的一面！ 📌鄭宏輝你有什麼資格參選中華民國立委？ 📌鄭宏輝你不要再欺騙民眾了 📌蔡英文妳要通過反滲透法先把鄭宏輝抓起來 📌柯建銘你看這就是你的接班人 📌抵制「中國台灣」鄭宏輝 📌下架詐騙集團民進黨",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/81390755_548453552666491_7164918229062647808_n.jpg?_nc_cat=107&_nc_ohc=XqPt7xUU9gIAQmpLzf1QPHdPT7z0viHzFCs1RCPLo7ePDAtzyy5ZkTYCw&_nc_ht=scontent-hkg3-2.xx&oh=bf5a5593f24462d44eb96fe957233067&oe=5E6B55A4",
+    "廣告詳情": {
+      "ad_creative_body": "【綠皮紅骨鄭宏輝，左手台灣掏錢，右手錢進大陸】記者會LIVE直播📹\n\n📌跟你說鄭宏輝在中國不為人知的一面！\n📌鄭宏輝你有什麼資格參選中華民國立委？\n📌鄭宏輝你不要再欺騙民眾了\n📌蔡英文妳要通過反滲透法先把鄭宏輝抓起來\n📌柯建銘你看這就是你的接班人\n📌抵制「中國台灣」鄭宏輝\n📌下架詐騙集團民進黨",
+      "ad_creation_time": "2019-12-27T07:26:34+0000",
+      "ad_delivery_start_time": "2019-12-27T07:26:36+0000",
+      "ad_delivery_stop_time": "2019-12-29T07:26:34+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.240379",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000823",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "6.9E-5",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000274",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.007752",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.01715",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001098",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.008095",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.036427",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.040955",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.04562",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.041504",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.06524",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.083762",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.1182",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.292584",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "6.9E-5",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "正鈐 鄭",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "186612874691719",
+      "page_name": "鄭正鈐",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1500",
+        "upper_bound": "1999"
+      },
+      "ad_id": "548453299333183"
+    }
+  },
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "鄭正鈐",
+    "AD_ID": "3225058134234854",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-28",
+    "結束日期": "2019-12-29",
+    "廣告內容": "【倒數13天，衝刺向前行！】 市民大小事，都是議長許修睿在意的事！ 議長許修睿積極服務選民，對環境的改革上也格外用心；議長在議事的安排與市府之間的溝通協調非常盡心盡力，相信未來我們共同為新竹奮鬥，更有明確目標，展現積極作為，讓議會、立院連線挺出新竹幸福藍天！ 感謝議長對正鈐選舉大力支持，正鈐一定會全力拼搏，挺進立院！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80251517_2899356123417367_1836774078740955136_n.jpg?_nc_cat=102&_nc_ohc=_3vIUt3HOB4AQlkYyQM_YmWKP6prsI2_7EKjAK1qL9ZeOgm-RPT4HPYyg&_nc_ht=scontent-hkg3-1.xx&oh=7a528a29cd2541a6d2f3ac0093b44b8c&oe=5EA4C0E4",
+    "廣告詳情": {
+      "ad_creative_body": "【倒數13天，衝刺向前行！】\n市民大小事，都是議長許修睿在意的事！\n議長許修睿積極服務選民，對環境的改革上也格外用心；議長在議事的安排與市府之間的溝通協調非常盡心盡力，相信未來我們共同為新竹奮鬥，更有明確目標，展現積極作為，讓議會、立院連線挺出新竹幸福藍天！\n感謝議長對正鈐選舉大力支持，正鈐一定會全力拼搏，挺進立院！",
+      "ad_creation_time": "2019-12-29T01:23:45+0000",
+      "ad_delivery_start_time": "2019-12-29T01:23:46+0000",
+      "ad_delivery_stop_time": "2019-12-30T01:23:45+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.078022",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.161069",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.065327",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.020365",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.17059",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.048929",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.125893",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.104999",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.069823",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.061095",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.019836",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.073526",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000264",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000264",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "正鈐 鄭",
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "page_id": "186612874691719",
+      "page_name": "鄭正鈐",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "3225058134234854"
+    }
+  },
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "鄭正鈐",
+    "AD_ID": "2537195773269780",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-28",
+    "結束日期": "2019-12-30",
+    "廣告內容": "【越戰越勇，國民黨團結翻轉台灣】 選戰倒數，每一場造勢，正鈐都能感受到民眾對執政黨，對社會現況越來越不滿的情緒！捍衛中華民國，改善民生是刻不容緩的事，而民進黨不思進取，這麼多年來總是靠「芒果乾」騙選票，讓人不齒。 在新竹東區氣球城堡的活動當中，正鈐和許多市民朋友握手聊天，提起「反滲透法」，大家都擔心，無限上綱的法條，是否會成為民主的殺手，在選舉前強推法案，究竟是何居心？楊蕙如的網軍案重挫台灣外交，民進黨避而不談，仍繼續拿民脂民膏的稅金養網軍，排除異己，建立一黨獨大的政府。 市民的心聲，我們都聽到了，國民黨要為大家挺身而出，不但要團結，還要落實行動，將優秀的人才送進總統府，送進國會！請大家務必支持，總統候選人②號韓國瑜，新竹市立法委員候選人①號鄭正鈐，反轉台灣的機會就在我們的手中－－",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/80354935_2921932981159681_7983929850589085696_n.jpg?_nc_cat=109&_nc_ohc=3nFDyMjNtWMAQleqbSqjhgWqSlNa1bKMX3t5jCo-G_1-qEDen-S0_cjjQ&_nc_ht=scontent-hkg3-2.xx&oh=948e314f5cb348544cb5d4ad3b3f1759&oe=5E9C83C6",
+    "廣告詳情": {
+      "ad_creative_body": "【越戰越勇，國民黨團結翻轉台灣】\n\n選戰倒數，每一場造勢，正鈐都能感受到民眾對執政黨，對社會現況越來越不滿的情緒！捍衛中華民國，改善民生是刻不容緩的事，而民進黨不思進取，這麼多年來總是靠「芒果乾」騙選票，讓人不齒。\n\n在新竹東區氣球城堡的活動當中，正鈐和許多市民朋友握手聊天，提起「反滲透法」，大家都擔心，無限上綱的法條，是否會成為民主的殺手，在選舉前強推法案，究竟是何居心？楊蕙如的網軍案重挫台灣外交，民進黨避而不談，仍繼續拿民脂民膏的稅金養網軍，排除異己，建立一黨獨大的政府。\n\n市民的心聲，我們都聽到了，國民黨要為大家挺身而出，不但要團結，還要落實行動，將優秀的人才送進總統府，送進國會！請大家務必支持，總統候選人②號韓國瑜，新竹市立法委員候選人①號鄭正鈐，反轉台灣的機會就在我們的手中－－",
+      "ad_creation_time": "2019-12-28T12:48:54+0000",
+      "ad_delivery_start_time": "2019-12-28T12:48:55+0000",
+      "ad_delivery_stop_time": "2019-12-30T12:48:54+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.180667",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.170476",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.098518",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.069796",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.175417",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.044163",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.017912",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.065164",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.107165",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.070414",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000309",
+          "age": "65+",
           "gender": "unknown"
         }
       ],
@@ -14377,83 +15520,108 @@
         }
       ],
       "spend": {
-        "lower_bound": "800",
-        "upper_bound": "899"
+        "lower_bound": "1000",
+        "upper_bound": "1499"
       },
-      "ad_id": "782341798933168"
+      "ad_id": "2537195773269780"
     }
   },
   {
     "選區": "新竹市選舉區",
     "參選人": "鄭正鈐",
-    "AD_ID": "465330140822461",
+    "AD_ID": "1049152642102145",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-12-26",
-    "結束日期": "1970-01-01",
-    "廣告內容": "【倒數15天，溫柔力量來相挺！】 #新竹東區市議員張祖琰，和正鈐一起在議會為民喉舌多年！ 工研院出身的她，有科技人的專業冷靜，在接觸市政後，更將人文關懷化為具體的行動，整合生命線資源，讓志工能夠幫助更多人。 祖琰同時是我們黨團書記長，運用她與眾不同的科技人精神，為新竹這座科技城帶來截然不同的溫度，也讓正鈐對於張祖琰議員的支持相當感動；科技與人文共榮，這是我們共同的願望－－",
-    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79079391_2899351523417827_3079938206355947520_n.jpg?_nc_cat=110&_nc_ohc=-D1ipbo3f0cAQksn4ypUurb2ikVDWTbZq_Aj8BkEEHyVD3sJRvBcnKCgQ&_nc_ht=scontent-hkg3-2.xx&oh=247872aaac06b74e5a7f25be83451ba6&oe=5E6EE5B6",
+    "開始日期": "2019-12-27",
+    "結束日期": "2019-12-28",
+    "廣告內容": "【倒數14天，熱誠撼動天！】 勤勉、經驗、好表現！是我們 #副議長余邦彥 的服務精神，了解基層心聲，深入社區經營，為新竹發展盡心盡力。感謝副議長的大力支持，正鈐一定會前進立法院，協助新竹發展多更多！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79215235_2899354676750845_5876268782875312128_n.jpg?_nc_cat=106&_nc_ohc=s6aZp5Gu4pMAQm8uYDws7pqTEdjSpVTdmDGewHuXKlgHHlPjPDht0YkpA&_nc_ht=scontent-hkg3-1.xx&oh=8725a1f4bc4e80c60521122a4af1785e&oe=5EA00EB5",
     "廣告詳情": {
-      "ad_creative_body": "【倒數15天，溫柔力量來相挺！】\n\n#新竹東區市議員張祖琰，和正鈐一起在議會為民喉舌多年！\n工研院出身的她，有科技人的專業冷靜，在接觸市政後，更將人文關懷化為具體的行動，整合生命線資源，讓志工能夠幫助更多人。\n祖琰同時是我們黨團書記長，運用她與眾不同的科技人精神，為新竹這座科技城帶來截然不同的溫度，也讓正鈐對於張祖琰議員的支持相當感動；科技與人文共榮，這是我們共同的願望－－",
-      "ad_creation_time": "2019-12-26T23:04:16+0000",
-      "ad_delivery_start_time": "2019-12-26T23:07:48+0000",
-      "ad_delivery_stop_time": "2019-12-27T23:07:48+0000",
+      "ad_creative_body": "【倒數14天，熱誠撼動天！】\n勤勉、經驗、好表現！是我們 #副議長余邦彥 的服務精神，了解基層心聲，深入社區經營，為新竹發展盡心盡力。感謝副議長的大力支持，正鈐一定會前進立法院，協助新竹發展多更多！",
+      "ad_creation_time": "2019-12-28T00:23:37+0000",
+      "ad_delivery_start_time": "2019-12-28T00:23:38+0000",
+      "ad_delivery_stop_time": "2019-12-29T00:23:37+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.075171",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.022779",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.013667",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.077449",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.241458",
+          "percentage": "0.190789",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.159453",
-          "age": "55-64",
+          "percentage": "0.039474",
+          "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.111617",
+          "percentage": "0.07712",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.15262",
+          "percentage": "0.185307",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.116173",
+          "percentage": "0.068713",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.115863",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.06652",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.125",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.029613",
+          "percentage": "0.076754",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.016813",
           "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.030702",
+          "age": "18-24",
           "gender": "male"
+        },
+        {
+          "percentage": "0.005848",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000365",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000365",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000365",
+          "age": "45-54",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "正鈐 鄭",
       "impressions": {
-        "lower_bound": "0",
-        "upper_bound": "999"
+        "lower_bound": "3000",
+        "upper_bound": "3999"
       },
       "page_id": "186612874691719",
       "page_name": "鄭正鈐",
@@ -14464,86 +15632,658 @@
         }
       ],
       "spend": {
-        "lower_bound": "100",
-        "upper_bound": "199"
+        "lower_bound": "800",
+        "upper_bound": "899"
       },
-      "ad_id": "465330140822461"
+      "ad_id": "1049152642102145"
     }
   },
   {
     "選區": "新竹市選舉區",
     "參選人": "鄭正鈐",
-    "AD_ID": "815331462264305",
+    "AD_ID": "820335805077716",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-12-26",
+    "開始日期": "2019-12-30",
     "結束日期": "1970-01-01",
-    "廣告內容": "【東區向鈐行，金山寺親子同樂會現場】LIVE直播📹 #新竹市立法委員候選人1號鄭正鈐 #新竹市議員羅文熾 #新竹市議員段孝芳 #中國國民黨新竹市黨部",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81959100_815332148930903_1788120195290628096_n.jpg?_nc_cat=108&_nc_ohc=3yo5-KZmH5kAQkNR-vl-h-zqBFk0SzkLtIoI6oC5AoFIJ7DYFX5qnRK-g&_nc_ht=scontent-hkg3-1.xx&oh=f5c9e9b7f2a5ebfbae48c2e9cf26b273&oe=5EA23910",
+    "廣告內容": "【懇請唯①支持，正能量鄭正鈐】《馬英九X朱立倫X韓國瑜X謝龍介X洪秀柱》全力相挺！ 新竹一定要翻轉！新竹一定要改變！正鈐有信心！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81455618_820335835077713_5509807471507537920_n.jpg?_nc_cat=106&_nc_ohc=lLp4ADOsuLYAQnVsHXZU4Qkr0pJkARuu392KQnD6oVKWgh7z3SadsK0iQ&_nc_ht=scontent-hkg3-1.xx&oh=c7521c5f8bfceaf652f7b917b56f389b&oe=5E9E89F6",
     "廣告詳情": {
-      "ad_creative_body": "【東區向鈐行，金山寺親子同樂會現場】LIVE直播📹\n\n#新竹市立法委員候選人1號鄭正鈐\n#新竹市議員羅文熾\n#新竹市議員段孝芳\n#中國國民黨新竹市黨部",
-      "ad_creation_time": "2019-12-26T16:34:38+0000",
-      "ad_delivery_start_time": "2019-12-26T16:34:39+0000",
-      "ad_delivery_stop_time": "2019-12-28T16:34:38+0000",
+      "ad_creative_body": "【懇請唯①支持，正能量鄭正鈐】《馬英九X朱立倫X韓國瑜X謝龍介X洪秀柱》全力相挺！\n\n新竹一定要翻轉！新竹一定要改變！正鈐有信心！",
+      "ad_creation_time": "2019-12-26T15:34:19+0000",
+      "ad_delivery_start_time": "2019-12-27T05:07:13+0000",
+      "ad_delivery_stop_time": "2019-12-30T05:07:13+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.075152",
+          "percentage": "0.149258",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.179394",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.111515",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.049697",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.188485",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.069091",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.201818",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.081212",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.026061",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.012121",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.004848",
+          "percentage": "0.107213",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.000606",
+          "percentage": "0.022484",
           "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.018604",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.076862",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.232605",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.057035",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.065115",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.148302",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.028863",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.028225",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.064158",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000585",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000159",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000159",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000372",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "正鈐 鄭",
+      "impressions": {
+        "lower_bound": "20000",
+        "upper_bound": "24999"
+      },
+      "page_id": "186612874691719",
+      "page_name": "鄭正鈐",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "3000",
+        "upper_bound": "3499"
+      },
+      "ad_id": "820335805077716"
+    }
+  },
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "鄭正鈐",
+    "AD_ID": "1719813401489001",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-29",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【對！我們就是這麼團結！】 相信應該有不少市民朋友在路上有看到我們議會黨團大合照的看板了！這就是我們當天合照的花絮😂 正鈐在議會的黨團好同事，每位議員都非常優秀且認真，東、南、西、北、香山區大團結，為的就是下架民進黨！撥亂反正！ 中央與地方大連線，聯手打造新竹市更美好的未來！ #就是要正能量 #中央地方連線 #新竹市立委候選人1號鄭正鈐",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80478353_2921057491247230_6288495272884436992_n.jpg?_nc_cat=106&_nc_ohc=Gbb4dxMoQg0AQnNRhPS2WnQfxl5VE6OS5goKlFh_Td2xWd28fEDJzGT4Q&_nc_ht=scontent-hkg3-1.xx&oh=d58964018c61738b6631e201d214989a&oe=5E6FF278",
+    "廣告詳情": {
+      "ad_creative_body": "【對！我們就是這麼團結！】\n\n相信應該有不少市民朋友在路上有看到我們議會黨團大合照的看板了！這就是我們當天合照的花絮😂\n\n正鈐在議會的黨團好同事，每位議員都非常優秀且認真，東、南、西、北、香山區大團結，為的就是下架民進黨！撥亂反正！\n\n中央與地方大連線，聯手打造新竹市更美好的未來！\n\n#就是要正能量\n#中央地方連線\n#新竹市立委候選人1號鄭正鈐",
+      "ad_creation_time": "2019-12-29T16:09:26+0000",
+      "ad_delivery_start_time": "2019-12-29T16:09:26+0000",
+      "ad_delivery_stop_time": "2019-12-31T16:09:26+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000413",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.160891",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.122112",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.136551",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.057343",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.106848",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.058581",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.112211",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.101898",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.073432",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.022277",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.018564",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.028465",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000413",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "正鈐 鄭",
+      "impressions": {
+        "lower_bound": "2000",
+        "upper_bound": "2999"
+      },
+      "page_id": "186612874691719",
+      "page_name": "鄭正鈐",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "400",
+        "upper_bound": "499"
+      },
+      "ad_id": "1719813401489001"
+    }
+  },
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "鄭正鈐",
+    "AD_ID": "2435667983228957",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-29",
+    "結束日期": "2019-12-30",
+    "廣告內容": "【國政領航台灣富強】大台中團結晚會 風雨無阻，現場的朋友們準備好了嗎！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/81114891_2928103803875932_4553826014312005632_n.jpg?_nc_cat=102&_nc_ohc=xBNCho8C7ekAQngfUFT4k437O36_tmwZMuBNQjsTnPOAunSTcQyfW4n5w&_nc_ht=scontent-hkg3-1.xx&oh=5448d26d8c1931147cfc5bf0e9fdf823&oe=5EA0EAFD",
+    "廣告詳情": {
+      "ad_creative_body": "【國政領航台灣富強】大台中團結晚會\n\n風雨無阻，現場的朋友們準備好了嗎！",
+      "ad_creation_time": "2019-12-29T14:58:55+0000",
+      "ad_delivery_start_time": "2019-12-29T14:58:56+0000",
+      "ad_delivery_stop_time": "2019-12-30T14:58:55+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.060564",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.184235",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.144938",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.094082",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.073047",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.020342",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.030744",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.145631",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.119279",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.058484",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.059871",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.008091",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000231",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000231",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000231",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "正鈐 鄭",
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "page_id": "186612874691719",
+      "page_name": "鄭正鈐",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "800",
+        "upper_bound": "899"
+      },
+      "ad_id": "2435667983228957"
+    }
+  },
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "鄭正鈐",
+    "AD_ID": "2575482472550476",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-29",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【新竹印象】 慢慢飛，在人生的天空中找到屬於你的位子🦅 除了「科技之都」外，正鈐要來介紹新竹一個讓我感覺每次到這都感覺「歲月靜好」的地方～慢飛兒庇護工場位於新竹東大路，結合多種項目，給身心障礙朋友一個平台在這裡尋找適合自己的生活方式，也讓他們為人生及職涯找到一個平衡點。 📍清潔環保服務隊：提供新竹公司部門的清潔服務 📍慢飛生活廣場：二手商品、庇護商品，給大家一個環保又能挖寶的空間～ 📍慢飛兒咖啡坊：再忙，也要與你喝被咖啡☕️ 不要再說新竹是什麼人文沙漠了，只要有心，人文與關懷就在我們身邊❤️ #新竹印象 #94要正能量 #慢慢飛讓心情也起飛 #新竹市立法委員候選人鄭正鈐",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/81275821_2928102173876095_3772591692465569792_n.jpg?_nc_cat=106&_nc_ohc=YKAWapGPUckAQkGXIxaA9gg4WhOZW2gfyXnqtNhUZcCsfVAlwu5ZiydEQ&_nc_ht=scontent-hkg3-1.xx&oh=928c58f1a5b12fca55ab69eb90f59b48&oe=5E99EAC3",
+    "廣告詳情": {
+      "ad_creative_body": "【新竹印象】\n慢慢飛，在人生的天空中找到屬於你的位子🦅\n\n除了「科技之都」外，正鈐要來介紹新竹一個讓我感覺每次到這都感覺「歲月靜好」的地方～\n\n 慢飛兒庇護工場位於新竹東大路，結合多種項目，給身心障礙朋友一個平台在這裡尋找適合自己的生活方式，也讓他們為人生及職涯找到一個平衡點。\n\n📍清潔環保服務隊：提供新竹公司部門的清潔服務\n📍慢飛生活廣場：二手商品、庇護商品，給大家一個環保又能挖寶的空間～\n📍慢飛兒咖啡坊：再忙，也要與你喝被咖啡☕️\n\n不要再說新竹是什麼人文沙漠了，只要有心，人文與關懷就在我們身邊❤️\n\n#新竹印象 #94要正能量 #慢慢飛讓心情也起飛 #新竹市立法委員候選人鄭正鈐",
+      "ad_creation_time": "2019-12-29T14:58:19+0000",
+      "ad_delivery_start_time": "2019-12-29T14:58:20+0000",
+      "ad_delivery_stop_time": "2019-12-31T14:58:19+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000471",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.179934",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.133773",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.012718",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.087141",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.192652",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.076778",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.09138",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.043806",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.122939",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.043335",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.011776",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.003297",
+          "age": "18-24",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "正鈐 鄭",
+      "impressions": {
+        "lower_bound": "2000",
+        "upper_bound": "2999"
+      },
+      "page_id": "186612874691719",
+      "page_name": "鄭正鈐",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "2575482472550476"
+    }
+  },
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "鄭正鈐",
+    "AD_ID": "489496798376570",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【中國台灣鄭宏輝，到底有沒有被滲透?】 民進黨的鄭宏輝用「中國台灣」登記大陸公司、賺人民幣，請問這樣的「台灣價值」是幾分? 請鄭宏輝面對「中國台灣」問題，說清楚、講明白，不要一直閃避 !!",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/82030113_489496808376569_3388406223593275392_n.jpg?_nc_cat=109&_nc_ohc=QBP7aApbkdoAQk4oanmyILDaJzizn6uysXok3M-Z7KU8mNirvkxZsFzDQ&_nc_ht=scontent-hkg3-2.xx&oh=327cd15e8b66b962effe13f3e5594f41&oe=5E6F4B38",
+    "廣告詳情": {
+      "ad_creative_body": "【中國台灣鄭宏輝，到底有沒有被滲透?】\n民進黨的鄭宏輝用「中國台灣」登記大陸公司、賺人民幣，請問這樣的「台灣價值」是幾分?\n\n請鄭宏輝面對「中國台灣」問題，說清楚、講明白，不要一直閃避 !!",
+      "ad_creation_time": "2019-12-29T14:57:48+0000",
+      "ad_creative_link_title": "【中國台灣鄭宏輝，有沒有被滲透?】",
+      "ad_delivery_start_time": "2019-12-29T14:57:49+0000",
+      "ad_delivery_stop_time": "2020-01-04T02:57:48+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.26929",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.013708",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000221",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000442",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000663",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.004201",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.005527",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.016803",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.020562",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.15189",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.044661",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001548",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.014813",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.13354",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.222419",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.09927",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000442",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "正鈐 鄭",
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "page_id": "186612874691719",
+      "page_name": "鄭正鈐",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "400",
+        "upper_bound": "499"
+      },
+      "ad_id": "489496798376570"
+    }
+  },
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "鄭正鈐",
+    "AD_ID": "523372551603849",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-29",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【就是要正能量☆朱珍瑤真摯力挺】 路總有高低，河總有彎曲，只要我們努力盡力生活，總有一天一定可以達成目標！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81684204_523372571603847_3346075854852587520_n.jpg?_nc_cat=108&_nc_ohc=7bwnSW222uIAQm7d0X3vRXgYdQZo1TttdxJwa5dK_jZGmHG3ZLkBqoIng&_nc_ht=scontent-hkg3-1.xx&oh=326d57ebc1b7c0a89afe442865ed4cef&oe=5E6E3FCE",
+    "廣告詳情": {
+      "ad_creative_body": "【就是要正能量☆朱珍瑤真摯力挺】\n路總有高低，河總有彎曲，只要我們努力盡力生活，總有一天一定可以達成目標！",
+      "ad_creation_time": "2019-12-29T10:55:37+0000",
+      "ad_creative_link_title": "【就是要正能量☆朱珍瑤真摯力挺】",
+      "ad_delivery_start_time": "2019-12-29T10:55:39+0000",
+      "ad_delivery_stop_time": "2020-01-01T10:55:37+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.15137",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.19726",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.054795",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.091096",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.167123",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.09589",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.060274",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.065753",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.04863",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.017808",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.039726",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.008904",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000685",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000685",
+          "age": "55-64",
           "gender": "unknown"
         }
       ],
@@ -14564,68 +16304,902 @@
         "lower_bound": "100",
         "upper_bound": "199"
       },
-      "ad_id": "815331462264305"
+      "ad_id": "523372551603849"
     }
   },
   {
     "選區": "新竹市選舉區",
     "參選人": "鄭正鈐",
-    "AD_ID": "1024764224549745",
+    "AD_ID": "2532290517055419",
     "登錄為政治廣告": "是",
-    "開始日期": "2019-12-26",
-    "結束日期": "1970-01-01",
-    "廣告內容": "【浪浪別哭 ，友善毛孩愛滿新竹】 碰到車禍的小貓，正鈐與愛媽一同將小貓送到動物醫院，幸好傷勢無大礙，痊癒後就能送養，找一個溫暖的家～正鈐也要提醒大家，天氣轉涼，許多浪浪總會往溫暖的地方鑽，給毛孩溫暖也要注意牠們的安全，開車前拍拍引擎蓋，提醒牠們離開後再發動汽車。 友善動物，是生命教育重要的一環，正鈐邀請大家一起善待毛孩，讓愛滿新竹！",
-    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/81120842_2920012371351742_7305774627882532864_n.jpg?_nc_cat=107&_nc_ohc=dbErOO3zWVUAQnkjarw5l7OJOyIAM5yH2pqg-cplUmBiQGGaoYQEFG1dQ&_nc_ht=scontent-hkg3-2.xx&oh=0edb1de2b12d7416936ff288a21abb18&oe=5E66B485",
+    "開始日期": "2019-12-27",
+    "結束日期": "2019-12-30",
+    "廣告內容": "【就是要正能量☆侯漢廷真摯力挺】 當你遇到挫折、灰心，千萬不要放棄! 並不是因為有人告訴你，不放棄就一定能成功；而是因為如果連你自己都放棄了你自己，還會有誰願意來幫助你。",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81477981_2532290523722085_1481532364411633664_n.jpg?_nc_cat=108&_nc_ohc=kCEJ7BwS1skAQkz3RqlqGXElh2BOZoel2F36EY3UuwuxtkyYVBRDHgW7g&_nc_ht=scontent-hkg3-1.xx&oh=5f92415d634c046a1c5286804d957185&oe=5E9E0B2F",
     "廣告詳情": {
-      "ad_creative_body": "【浪浪別哭 ，友善毛孩愛滿新竹】\n\n碰到車禍的小貓，正鈐與愛媽一同將小貓送到動物醫院，幸好傷勢無大礙，痊癒後就能送養，找一個溫暖的家～正鈐也要提醒大家，天氣轉涼，許多浪浪總會往溫暖的地方鑽，給毛孩溫暖也要注意牠們的安全，開車前拍拍引擎蓋，提醒牠們離開後再發動汽車。\n友善動物，是生命教育重要的一環，正鈐邀請大家一起善待毛孩，讓愛滿新竹！",
-      "ad_creation_time": "2019-12-26T16:33:36+0000",
-      "ad_delivery_start_time": "2019-12-26T16:33:38+0000",
-      "ad_delivery_stop_time": "2019-12-29T16:33:36+0000",
+      "ad_creative_body": "【就是要正能量☆侯漢廷真摯力挺】\n當你遇到挫折、灰心，千萬不要放棄!\n並不是因為有人告訴你，不放棄就一定能成功；而是因為如果連你自己都放棄了你自己，還會有誰願意來幫助你。",
+      "ad_creation_time": "2019-12-28T01:55:46+0000",
+      "ad_creative_link_title": "【就是要正能量☆侯漢廷真摯力挺】",
+      "ad_delivery_start_time": "2019-12-28T01:55:47+0000",
+      "ad_delivery_stop_time": "2019-12-31T01:55:46+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.081699",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.150327",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.366013",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.022876",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.075163",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.254902",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.013072",
+          "percentage": "0.142997",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.03268",
+          "percentage": "0.059863",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000266",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000444",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000799",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.018296",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.062439",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000444",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001332",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.097522",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.073008",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.123457",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.113687",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.003268",
+          "percentage": "0.071321",
           "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.017408",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.128075",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.088463",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000178",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "正鈐 鄭",
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "186612874691719",
+      "page_name": "鄭正鈐",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1500",
+        "upper_bound": "1999"
+      },
+      "ad_id": "2532290517055419"
+    }
+  },
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "鄭正鈐",
+    "AD_ID": "3154015037947669",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【倒數11天，拒投民進黨，台灣有未來】 戰神羅智強直言捍衛中華民國，下架兩套標準的民進黨，唯一支持中國國民黨，讓台灣安全，人民有錢！ 感謝智強與正鈐一起開直播、記者會，揭露民進黨惡行，懇請大家唯一支持1號鄭正鈐！ #戰神94強  #94要正能量",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80793295_2931299090223070_7582981137245405184_n.jpg?_nc_cat=103&_nc_ohc=kZQfHdXoFWQAQlaeleLMDvkcNX-wQw1mPtFm8lJYXNYTV-psLRnOfCywg&_nc_ht=scontent-hkg3-1.xx&oh=e1c66277864c980dee8b32e4c9c512b3&oe=5EA64424",
+    "廣告詳情": {
+      "ad_creative_body": "【倒數11天，拒投民進黨，台灣有未來】\n\n戰神羅智強直言捍衛中華民國，下架兩套標準的民進黨，唯一支持中國國民黨，讓台灣安全，人民有錢！\n感謝智強與正鈐一起開直播、記者會，揭露民進黨惡行，懇請大家唯一支持1號鄭正鈐！\n\n#戰神94強 \n#94要正能量",
+      "ad_creation_time": "2019-12-30T18:55:40+0000",
+      "ad_delivery_start_time": "2019-12-30T23:07:49+0000",
+      "ad_delivery_stop_time": "2019-12-31T23:07:49+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.11557",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.081862",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.0626",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.075441",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.162119",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.24077",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.215088",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.027287",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.016051",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001605",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001605",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "正鈐 鄭",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "186612874691719",
+      "page_name": "鄭正鈐",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "199"
+      },
+      "ad_id": "3154015037947669"
+    }
+  },
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "鄭正鈐",
+    "AD_ID": "1018777838483072",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【反滲透法 優先查辦中國台灣鄭宏輝】記者會LIVE直播📹 📌鄭宏輝不要閃躲！出來面對！ 📌鄭宏輝你在大陸開幽靈公司只為了拿中共的補助嗎 📌鄭宏輝紅皮綠骨欲蓋彌彰 📌柯建銘你要不要查清楚 📌蔡英文請妳優先徹查鄭宏輝 📌民進黨反滲透法優先查辦中國台灣鄭宏輝",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81768160_1018778148483041_5375031483658403840_n.jpg?_nc_cat=108&_nc_ohc=QwgeQrlXUg4AQllKe28MBCVMt_UgEpb_MSRN5GnwbXVRyYFPgwSzMGDhw&_nc_ht=scontent-hkg3-1.xx&oh=5662f787587e0df8d8a888fba244b4e7&oe=5EA629C8",
+    "廣告詳情": {
+      "ad_creative_body": "【反滲透法 優先查辦中國台灣鄭宏輝】記者會LIVE直播📹\n\n📌鄭宏輝不要閃躲！出來面對！\n📌鄭宏輝你在大陸開幽靈公司只為了拿中共的補助嗎\n📌鄭宏輝紅皮綠骨欲蓋彌彰\n📌柯建銘你要不要查清楚\n📌蔡英文請妳優先徹查鄭宏輝\n📌民進黨反滲透法優先查辦中國台灣鄭宏輝",
+      "ad_creation_time": "2019-12-30T16:49:55+0000",
+      "ad_delivery_start_time": "2019-12-30T16:49:56+0000",
+      "ad_delivery_stop_time": "2019-12-31T16:49:55+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.041739",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.030435",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.103478",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.221739",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.192174",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.05913",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.026087",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.226957",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.066957",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.006087",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.01913",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002609",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001739",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001739",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "正鈐 鄭",
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "1999"
+      },
+      "page_id": "186612874691719",
+      "page_name": "鄭正鈐",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "199"
+      },
+      "ad_id": "1018777838483072"
+    }
+  },
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "鄭正鈐",
+    "AD_ID": "784595035349493",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【青年軍授旗，讓年輕的聲音直達中央】 國民黨青年軍集合，揮動大旗任青天白日滿地紅飄揚，年輕人的聲音，蔡政府聽到了嗎？ 距離投票日僅剩兩周，正鈐要拜託大家，走出同溫層，用庶民的語言，將我們滿腔的理念與政策分享給大家；請大家一票拉一票，票投總統候選人②號韓國瑜，新竹市立法委員票投①號鄭正鈐，讓「國家安全，人民有錢」成真！讓年輕人的心聲，能被聽見！我們的下一代，需要更多的機會－－改變，就是現在。",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80539375_2928891017130544_8192044294803030016_n.jpg?_nc_cat=102&_nc_ohc=dFXYhEOtq5AAQmswCX-yvbt7xmOgI_IIlwGpTQIwHTDrljvaAS7qkHHyA&_nc_ht=scontent-hkg3-1.xx&oh=fe75f4ad2f15ae7c5b01638699817c1d&oe=5EAF69FA",
+    "廣告詳情": {
+      "ad_creative_body": "【青年軍授旗，讓年輕的聲音直達中央】\n\n國民黨青年軍集合，揮動大旗任青天白日滿地紅飄揚，年輕人的聲音，蔡政府聽到了嗎？\n距離投票日僅剩兩周，正鈐要拜託大家，走出同溫層，用庶民的語言，將我們滿腔的理念與政策分享給大家；請大家一票拉一票，票投總統候選人②號韓國瑜，新竹市立法委員票投①號鄭正鈐，讓「國家安全，人民有錢」成真！讓年輕人的心聲，能被聽見！我們的下一代，需要更多的機會－－改變，就是現在。",
+      "ad_creation_time": "2019-12-30T16:49:17+0000",
+      "ad_delivery_start_time": "2019-12-30T16:49:18+0000",
+      "ad_delivery_stop_time": "2020-01-01T16:49:17+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.548837",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.15814",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.060465",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.046512",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.12093",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.004651",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.051163",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.009302",
+          "age": "45-54",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "正鈐 鄭",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "186612874691719",
+      "page_name": "鄭正鈐",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "784595035349493"
+    }
+  },
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "鄭正鈐",
+    "AD_ID": "748307232325626",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【富強台灣，要你我把關】 昨日台中晚會，雖下著雨，但澆不息人民想改革決心，更澆不息人民對無能政府的憤恨，2020/1/11全台人民站出來，推翻無能政府，一起為台灣打拼！ 正鈐懇請大家，告訴你身邊新竹市的好朋友，唯一支持1號立委候選人鄭正鈐 總統候選人支持2號韓國瑜 你的一票，決定臺灣的未來！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80886319_2930427393643573_8399734490737410048_n.jpg?_nc_cat=104&_nc_ohc=YqKi_ffWbUMAQlUuNIhRXgCWp1sp_SgxqBJCVxIrwzgezX-apfs9HJifw&_nc_ht=scontent-hkg3-1.xx&oh=033b5cd3898c74d45f38e5e6369b752f&oe=5E6FF583",
+    "廣告詳情": {
+      "ad_creative_body": "【富強台灣，要你我把關】\n\n昨日台中晚會，雖下著雨，但澆不息人民想改革決心，更澆不息人民對無能政府的憤恨，2020/1/11全台人民站出來，推翻無能政府，一起為台灣打拼！\n\n正鈐懇請大家，告訴你身邊新竹市的好朋友，唯一支持1號立委候選人鄭正鈐\n總統候選人支持2號韓國瑜\n你的一票，決定臺灣的未來！",
+      "ad_creation_time": "2019-12-30T11:01:11+0000",
+      "ad_delivery_start_time": "2019-12-30T11:01:13+0000",
+      "ad_delivery_stop_time": "2020-01-01T11:01:11+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.045568",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.211317",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.04006",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.047071",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.150726",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.22684",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.096144",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.030546",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.068102",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.055083",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.020531",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.007511",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000501",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "正鈐 鄭",
+      "impressions": {
+        "lower_bound": "2000",
+        "upper_bound": "2999"
+      },
+      "page_id": "186612874691719",
+      "page_name": "鄭正鈐",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "200",
+        "upper_bound": "299"
+      },
+      "ad_id": "748307232325626"
+    }
+  },
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "鄭正鈐",
+    "AD_ID": "455561575127566",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【鄭宏輝同學，為什麼要繼續說謊 ?】 中國「武漢全賀生物科技有限公司」登記法定代表人就是「鄭宏輝」，資料也清楚的說明，這間公司是「台港澳法人」去中國設立的獨資公司。 鄭宏輝中國公司，企業註冊號 420100400016929，公司地址在中國政策大力支持的「中國武漢國家生物產業基地」內，企業商標更是用「中國台灣」註冊登記，一切都白紙黑字記載的清清楚楚。 而你今天卻向社會大眾說 :「自己從來沒去過中國武漢，更沒有去中國經商 ?」，為什麼要繼續說謊 ? 這樣對得起新竹鄉親嗎 ?",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81823798_455561588460898_7613292572584181760_n.jpg?_nc_cat=106&_nc_ohc=XCK1_7Xf8xQAQmv5-psCEPaGJ8GtWbL3Svg82Z6Wmh92PMai00FyPHB_g&_nc_ht=scontent-hkg3-1.xx&oh=d9c762ec95e18d36d2f561b809fde801&oe=5E9FC147",
+    "廣告詳情": {
+      "ad_creative_body": "【鄭宏輝同學，為什麼要繼續說謊 ?】\n中國「武漢全賀生物科技有限公司」登記法定代表人就是「鄭宏輝」，資料也清楚的說明，這間公司是「台港澳法人」去中國設立的獨資公司。\n\n鄭宏輝中國公司，企業註冊號 420100400016929，公司地址在中國政策大力支持的「中國武漢國家生物產業基地」內，企業商標更是用「中國台灣」註冊登記，一切都白紙黑字記載的清清楚楚。\n\n而你今天卻向社會大眾說 :「自己從來沒去過中國武漢，更沒有去中國經商 ?」，為什麼要繼續說謊 ? 這樣對得起新竹鄉親嗎 ?",
+      "ad_creation_time": "2019-12-30T10:52:36+0000",
+      "ad_creative_link_title": "【鄭宏輝同學，為什麼要繼續說謊 ?】",
+      "ad_delivery_start_time": "2019-12-30T10:52:38+0000",
+      "ad_delivery_stop_time": "2020-01-04T10:52:36+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000215",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.076459",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.021538",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.168641",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.100151",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.153565",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.053198",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.123627",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.051045",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.067844",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.04846",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.118027",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.016153",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001077",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "正鈐 鄭",
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "page_id": "186612874691719",
+      "page_name": "鄭正鈐",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "600",
+        "upper_bound": "699"
+      },
+      "ad_id": "455561575127566"
+    }
+  },
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "鄭正鈐",
+    "AD_ID": "484817615476793",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【中國台灣鄭宏輝，到底有沒有被滲透?】 民進黨的鄭宏輝用「中國台灣」登記大陸公司、賺人民幣，請問這樣的「台灣價值」是幾分? 請鄭宏輝面對「中國台灣」問題，說清楚、講明白，不要一直閃避 !!",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/82030113_489496808376569_3388406223593275392_n.jpg?_nc_cat=109&_nc_ohc=QBP7aApbkdoAQk4oanmyILDaJzizn6uysXok3M-Z7KU8mNirvkxZsFzDQ&_nc_ht=scontent-hkg3-2.xx&oh=327cd15e8b66b962effe13f3e5594f41&oe=5E6F4B38",
+    "廣告詳情": {
+      "ad_creative_body": "【中國台灣鄭宏輝，到底有沒有被滲透?】\n民進黨的鄭宏輝用「中國台灣」登記大陸公司、賺人民幣，請問這樣的「台灣價值」是幾分?\n\n請鄭宏輝面對「中國台灣」問題，說清楚、講明白，不要一直閃避 !!",
+      "ad_creation_time": "2019-12-30T08:44:52+0000",
+      "ad_creative_link_title": "【中國台灣鄭宏輝，有沒有被滲透?】",
+      "ad_delivery_start_time": "2019-12-30T08:44:52+0000",
+      "ad_delivery_stop_time": "2020-01-04T02:57:48+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000145",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000145",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.013366",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.027023",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.024263",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.097341",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.182043",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.284178",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.18335",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.101119",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.030946",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.011623",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.036321",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00741",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000291",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000436",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "正鈐 鄭",
+      "impressions": {
+        "lower_bound": "7000",
+        "upper_bound": "7999"
+      },
+      "page_id": "186612874691719",
+      "page_name": "鄭正鈐",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "700",
+        "upper_bound": "799"
+      },
+      "ad_id": "484817615476793"
+    }
+  },
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "鄭正鈐",
+    "AD_ID": "2769124753110447",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【懇請唯①支持，正能量鄭正鈐】《馬英九X朱立倫X韓國瑜X謝龍介X洪秀柱》全力相挺！ 新竹一定要翻轉！新竹一定要改變！正鈐有信心！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81455618_820335835077713_5509807471507537920_n.jpg?_nc_cat=106&_nc_ohc=lLp4ADOsuLYAQnVsHXZU4Qkr0pJkARuu392KQnD6oVKWgh7z3SadsK0iQ&_nc_ht=scontent-hkg3-1.xx&oh=c7521c5f8bfceaf652f7b917b56f389b&oe=5E9E89F6",
+    "廣告詳情": {
+      "ad_creative_body": "【懇請唯①支持，正能量鄭正鈐】《馬英九X朱立倫X韓國瑜X謝龍介X洪秀柱》全力相挺！\n\n新竹一定要翻轉！新竹一定要改變！正鈐有信心！",
+      "ad_creation_time": "2019-12-30T08:37:54+0000",
+      "ad_delivery_start_time": "2019-12-30T08:37:55+0000",
+      "ad_delivery_stop_time": "2020-01-04T08:37:54+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000792",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000594",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.077182",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.069662",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.182862",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.153968",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.091629",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.052642",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.145656",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.037404",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.132792",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.0283",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.011676",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.014843",
+          "age": "25-34",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "正鈐 鄭",
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "page_id": "186612874691719",
+      "page_name": "鄭正鈐",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "700",
+        "upper_bound": "799"
+      },
+      "ad_id": "2769124753110447"
+    }
+  },
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "鄭正鈐",
+    "AD_ID": "3601112589899709",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-29",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【倒數12天，為民喉舌為民請命！】 年輕人就是要來場不一樣的政治革命，台北市議員侯漢廷在政見與為民服務都深入基層，針對問題，敢說敢做！ 正鈐與漢廷堅定立場，使命捍衛中華民國的精神，謝謝漢廷對正鈐的支持與鼓勵，以及對國民黨的力挺，讓我們在2020/01/11一起用選票下架民進黨！拜託大家！ 新竹市立委唯一支持①號鄭正鈐 總統唯一支持②號韓國瑜",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/81384904_2929132320439747_2229587136183533568_n.jpg?_nc_cat=104&_nc_ohc=vZL2lo7cHaIAQlOLJAU_qSQt4DDddTITeM3zqvzU3zv2j7NlM6hu-r3Tw&_nc_ht=scontent-hkg3-1.xx&oh=cea439146f8b9ea287644cb5548f3ac8&oe=5EA50C59",
+    "廣告詳情": {
+      "ad_creative_body": "【倒數12天，為民喉舌為民請命！】\n\n年輕人就是要來場不一樣的政治革命，台北市議員侯漢廷在政見與為民服務都深入基層，針對問題，敢說敢做！\n正鈐與漢廷堅定立場，使命捍衛中華民國的精神，謝謝漢廷對正鈐的支持與鼓勵，以及對國民黨的力挺，讓我們在2020/01/11一起用選票下架民進黨！拜託大家！\n新竹市立委唯一支持①號鄭正鈐\n總統唯一支持②號韓國瑜",
+      "ad_creation_time": "2019-12-30T07:20:09+0000",
+      "ad_delivery_start_time": "2019-12-30T07:20:10+0000",
+      "ad_delivery_stop_time": "2019-12-31T07:20:09+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.047619",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.047619",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.142857",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.285714",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.095238",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.047619",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.285714",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.047619",
+          "age": "55-64",
           "gender": "male"
         }
       ],
@@ -14646,207 +17220,7 @@
         "lower_bound": "0",
         "upper_bound": "99"
       },
-      "ad_id": "1024764224549745"
-    }
-  },
-  {
-    "選區": "新竹市選舉區",
-    "參選人": "鄭正鈐",
-    "AD_ID": "481033546145105",
-    "登錄為政治廣告": "是",
-    "開始日期": "2019-12-26",
-    "結束日期": "1970-01-01",
-    "廣告內容": "【對！我們就是這麼團結！】 相信應該有不少市民朋友在路上有看到我們議會黨團大合照的看板了！這就是我們當天合照的花絮😂 正鈐在議會的黨團好同事，每位議員都非常優秀且認真，東、南、西、北、香山區大團結，為的就是下架民進黨！撥亂反正！ 中央與地方大連線，聯手打造新竹市更美好的未來！ #就是要正能量 #中央地方連線 #新竹市立委候選人1號鄭正鈐",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80478353_2921057491247230_6288495272884436992_n.jpg?_nc_cat=106&_nc_ohc=O9_O5aw2ie0AQmrYjkr9olZa8rweoFK1AO3wekRlbvXgxhm52nb3sxcYw&_nc_ht=scontent-hkg3-1.xx&oh=8442df9c7e9b6c94405a8629de80909e&oe=5E6FF278",
-    "廣告詳情": {
-      "ad_creative_body": "【對！我們就是這麼團結！】\n\n相信應該有不少市民朋友在路上有看到我們議會黨團大合照的看板了！這就是我們當天合照的花絮😂\n\n正鈐在議會的黨團好同事，每位議員都非常優秀且認真，東、南、西、北、香山區大團結，為的就是下架民進黨！撥亂反正！\n\n中央與地方大連線，聯手打造新竹市更美好的未來！\n\n#就是要正能量\n#中央地方連線\n#新竹市立委候選人1號鄭正鈐",
-      "ad_creation_time": "2019-12-26T08:14:35+0000",
-      "ad_delivery_start_time": "2019-12-26T08:14:36+0000",
-      "ad_delivery_stop_time": "2019-12-30T08:14:35+0000",
-      "currency": "TWD",
-      "demographic_distribution": [
-        {
-          "percentage": "0.037778",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.055556",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.12",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.182222",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.099259",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.181481",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.008889",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.180741",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.07037",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.047407",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.016296",
-          "age": "25-34",
-          "gender": "female"
-        }
-      ],
-      "funding_entity": "正鈐 鄭",
-      "impressions": {
-        "lower_bound": "1000",
-        "upper_bound": "1999"
-      },
-      "page_id": "186612874691719",
-      "page_name": "鄭正鈐",
-      "region_distribution": [
-        {
-          "percentage": "1",
-          "region": "Hsinchu City"
-        }
-      ],
-      "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
-      },
-      "ad_id": "481033546145105"
-    }
-  },
-  {
-    "選區": "新竹市選舉區",
-    "參選人": "鄭正鈐",
-    "AD_ID": "818364421940200",
-    "登錄為政治廣告": "是",
-    "開始日期": "2019-12-25",
-    "結束日期": "1970-01-01",
-    "廣告內容": "【就是要正能量☆張善政真摯力挺】 寧可笑著流淚，不要哭著說後悔。",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81797340_818364435273532_5483986261267972096_n.jpg?_nc_cat=106&_nc_ohc=_oCXMuTvNxAAQlWOBWhXXMOLdg_-gJeaFWJnbOYtCNAm2-18xIcdXLvrw&_nc_ht=scontent-hkg3-1.xx&oh=d9c1dd768d517df8aef48dd643198f66&oe=5EB130FD",
-    "廣告詳情": {
-      "ad_creative_body": "【就是要正能量☆張善政真摯力挺】\n寧可笑著流淚，不要哭著說後悔。",
-      "ad_creation_time": "2019-12-25T23:31:52+0000",
-      "ad_creative_link_title": "【就是要正能量☆張善政真摯力挺】",
-      "ad_delivery_start_time": "2019-12-26T01:07:00+0000",
-      "ad_delivery_stop_time": "2019-12-31T01:07:00+0000",
-      "currency": "TWD",
-      "demographic_distribution": [
-        {
-          "percentage": "0.145971",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.031733",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.084989",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.168046",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.063742",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.192053",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.046634",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.013797",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.15894",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.090232",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.002208",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.001104",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000276",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000276",
-          "age": "45-54",
-          "gender": "unknown"
-        }
-      ],
-      "funding_entity": "正鈐 鄭",
-      "impressions": {
-        "lower_bound": "4000",
-        "upper_bound": "4999"
-      },
-      "page_id": "186612874691719",
-      "page_name": "鄭正鈐",
-      "region_distribution": [
-        {
-          "percentage": "1",
-          "region": "Hsinchu City"
-        }
-      ],
-      "spend": {
-        "lower_bound": "700",
-        "upper_bound": "799"
-      },
-      "ad_id": "818364421940200"
+      "ad_id": "3601112589899709"
     }
   },
   {

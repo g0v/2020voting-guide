@@ -8,13 +8,13 @@
 
 ## Update method & last update date
 
-區域立委：2019/12/27
+區域立委：2019/12/31
 `crawler/candidate_xlsx`
 
-白話文： 2019/12/27
+白話文： 2019/12/31
 `crawler/vernacular`
 
-廣告： 2019/12/27
+廣告： 2019/12/31
 `crawler/candidate_ad`
 
 ## Starting DEV Servers

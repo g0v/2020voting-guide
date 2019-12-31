@@ -757,95 +757,95 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.03355",
+          "percentage": "0.03768",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.066416",
+          "percentage": "0.070412",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.000228",
+          "percentage": "0.00026",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000114",
+          "percentage": "8.7E-5",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000456",
+          "percentage": "0.000434",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000114",
+          "percentage": "0.000174",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.008787",
+          "percentage": "0.010505",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.107269",
+          "percentage": "0.104011",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.044734",
+          "percentage": "0.047751",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.099167",
+          "percentage": "0.102882",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.016433",
+          "percentage": "0.021097",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.172087",
+          "percentage": "0.163744",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.14721",
+          "percentage": "0.139955",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.189661",
+          "percentage": "0.181195",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.079539",
+          "percentage": "0.08109",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.034121",
+          "percentage": "0.038635",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.000114",
+          "percentage": "8.7E-5",
           "age": "55-64",
           "gender": "unknown"
         }
       ],
       "funding_entity": "鄭寶清",
       "impressions": {
-        "lower_bound": "10000",
-        "upper_bound": "14999"
+        "lower_bound": "15000",
+        "upper_bound": "19999"
       },
       "page_id": "1572448819666020",
       "page_name": "鄭寶清",
@@ -856,8 +856,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "1500",
-        "upper_bound": "1999"
+        "lower_bound": "3000",
+        "upper_bound": "3499"
       },
       "ad_id": "756168671519507"
     }
