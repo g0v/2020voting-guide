@@ -11,6 +11,9 @@
 區域立委：2019/12/31
 `crawler/candidate_xlsx`
 
+不分區立委：2019/12/31
+`mobile/scripts/*`
+
 白話文： 2019/12/31
 `crawler/vernacular`
 

@@ -5,7 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### Quick start by vscode + docker
+
 detailed steps in the [official documentation](https://code.visualstudio.com/remote-tutorials/containers/getting-started)
+
 1. download and install docker, and sign up if required - [download link](https://www.docker.com/products/developer-tools)
 2. download and install vscode - [download link](https://code.visualstudio.com/download)
 3. double-click to run docker desktop application, and sign in if required
