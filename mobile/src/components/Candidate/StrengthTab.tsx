@@ -353,10 +353,11 @@ const StrengthTab = ({
                         />
                         <Box my={2}>
                             <Typography variant="h5" color="textSecondary">
-                                {`政治獻金細目：`}
+                                {`政治獻金細目： `}
                                 <Link href="https://g0v-money-flow.github.io/">
-                                    公民監督國會聯盟-金流百科
+                                    金流百科
                                 </Link>
+                                {` 田君陽提供`}
                             </Typography>
                         </Box>
                     </Box>
@@ -371,10 +372,11 @@ const StrengthTab = ({
                         <CompareBarChart name={name} data={otherCandidates} />
                         <Box my={2}>
                             <Typography variant="h5" color="textSecondary">
-                                {`資料來源：`}
+                                {`資料來源： `}
                                 <Link href="https://g0v-money-flow.github.io/">
-                                    公民監督國會聯盟-金流百科
+                                    金流百科
                                 </Link>
+                                {` 田君陽提供`}
                             </Typography>
                         </Box>
                     </Box>
