@@ -261,16 +261,15 @@ const StrengthTab = ({
                                     </Typography>
                                 </Box>
                                 <Box height={5} />
-                                <Box
-                                    display="flex"
-                                    alignContent="center"
-                                    color="#D4AF37"
-                                >
+                                <Box display="flex" alignContent="center">
                                     <Box width={42} textAlign="center">
                                         <img alt="曝光" src="/img/eye.svg" />
                                     </Box>
                                     <Box width={4} />
-                                    <Typography variant="h4">
+                                    <Typography
+                                        variant="h4"
+                                        color="textSecondary"
+                                    >
                                         {`曝光 ${impressonAvgWording}`}
                                     </Typography>
                                 </Box>
@@ -293,21 +292,19 @@ const StrengthTab = ({
                                     </Box>
                                     <Box width={4} />
                                     <Typography variant="h4">
-                                        {'花費 '}
-                                        {currencySumWording}
+                                        {`花費 ${currencySumWording}`}
                                     </Typography>
                                 </Box>
                                 <Box height={5} />
-                                <Box
-                                    display="flex"
-                                    alignContent="center"
-                                    color="#D4AF37"
-                                >
+                                <Box display="flex" alignContent="center">
                                     <Box width={42} textAlign="center">
                                         <img alt="曝光" src="/img/eye.svg" />
                                     </Box>
                                     <Box width={4} />
-                                    <Typography variant="h4">
+                                    <Typography
+                                        variant="h4"
+                                        color="textSecondary"
+                                    >
                                         {`曝光 ${impressonSumWording}`}
                                     </Typography>
                                 </Box>
