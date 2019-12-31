@@ -13,7 +13,7 @@ cursor = mysql_db.execute_sql(
     WHERE statistic.dataType = 'categories' AND statistic.term = 9 AND legislator.term = '09'"""
 )
 items = [
-    {"party": i[7], "name": i[1], "constituency": i[7], "term": i[2], "type": i[3], "category": i[5], "value": i[6]}
+    {"party": i[7], "name": i[1], "constituency": i[8], "term": i[2], "type": i[3], "category": i[5], "value": i[6]}
     for i in cursor.fetchall()
 ]
 
@@ -22,6 +22,7 @@ store: Any = {}
 for item in items:
     meta = {}
     meta["name"] = item["name"]
+    meta["party"] = item["party"]
     meta["constituency"] = item["constituency"]
     if item["type"] == "interpellation":
         meta["interpellation"] = item["value"]
