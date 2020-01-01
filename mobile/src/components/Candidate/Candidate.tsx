@@ -150,7 +150,7 @@ const CandidatePage = ({ match }: CandidatePage) => {
     }, [billsURL]);
 
     const county_list = county_constituency.filter(county =>
-        county.area.includes(constituency)
+        county.area.includes(constituency || '')
     );
     const county = county_list.length ? county_list[0].name : '';
     const previousLink = isRegional
