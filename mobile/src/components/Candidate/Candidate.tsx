@@ -191,7 +191,8 @@ const CandidatePage = ({ match }: CandidatePage) => {
                 </Box>
             </Box>
             <Nav {...candidate} padding={desktopPadding} />
-            <Box zIndex={501} position="sticky" bgcolor="white" top="100px">
+            <Box zIndex={501} position="sticky" bgcolor="white"
+                top={isDesktop ? '112px' : '100px'}>
                 <Tabs
                     style={desktopPadding}
                     value={tab}
