@@ -46,7 +46,7 @@ const useStyles = makeStyles((theme: Theme) =>
             display: 'inline-block',
             height: 35,
             lineHeight: '35px',
-            fontFamily: "Noto Sans TC"
+            fontFamily: 'Noto Sans TC'
         },
         activeTab: {
             background: '#3199ba57',
@@ -77,7 +77,7 @@ const IssueList: FunctionComponent<{
                 name="scrollContainer"
                 style={{
                     position: 'relative',
-                    height: '550px',
+                    height: '600px',
                     overflow: 'scroll'
                 }}
             >
@@ -144,64 +144,72 @@ const IssueBillTab: FunctionComponent<{
     return (
         <Box bgcolor="#F7F7F7" py={1} style={padding}>
             {isDesktop ? (
-                <Grid container spacing={3}>
-                    <Grid item sm={3}>
-                        <Card>
-                            <CardContent>
-                                <Typography className={classes.issueH1}>
-                                    所有議題
-                                </Typography>
-                            </CardContent>
-                            <CardContent className={classes.issueCard}>
-                                {filteredIssue
-                                    .map(issue => ({
-                                        issue: issue,
-                                        bills: bills.filter(
-                                            i => issue === i.category
+                <Box py={3} bgcolor="#F7F7F7">
+                    <Grid container spacing={3}>
+                        <Grid item sm={3}>
+                            <Card>
+                                <CardContent>
+                                    <Typography className={classes.issueH1}>
+                                        所有議題
+                                    </Typography>
+                                </CardContent>
+                                <CardContent className={classes.issueCard}>
+                                    {filteredIssue
+                                        .map(issue => ({
+                                            issue: issue,
+                                            bills: bills.filter(
+                                                i => issue === i.category
+                                            )
+                                        }))
+                                        .filter(
+                                            issue => issue.bills.length !== 0
                                         )
-                                    }))
-                                    .filter(issue => issue.bills.length !== 0)
-                                    .map((issue, i) => (
-                                        <div
-                                            style={customStyle.issueTitle}
-                                            key={i}
-                                        >
-                                            <Link
+                                        .map((issue, i) => (
+                                            <div
+                                                style={customStyle.issueTitle}
                                                 key={i}
-                                                activeClass={classes.activeTab}
-                                                className={classes.normalTab}
-                                                to={issue.issue}
-                                                spy={true}
-                                                smooth={true}
-                                                duration={500}
-                                                containerId="containerElement"
                                             >
-                                                {issue.issue}
-                                            </Link>
-                                        </div>
-                                    ))}
-                            </CardContent>
-                        </Card>
-                        <IssueFilter
-                            isDesktop={isDesktop}
-                            selected={selectedIssue}
-                            selectIssue={selectIssue}
-                            complete={handleComplete}
-                            bills={bills}
-                        />
+                                                <Link
+                                                    key={i}
+                                                    activeClass={
+                                                        classes.activeTab
+                                                    }
+                                                    className={
+                                                        classes.normalTab
+                                                    }
+                                                    to={issue.issue}
+                                                    spy={true}
+                                                    smooth={true}
+                                                    duration={500}
+                                                    containerId="containerElement"
+                                                >
+                                                    {issue.issue}
+                                                </Link>
+                                            </div>
+                                        ))}
+                                </CardContent>
+                            </Card>
+                            <IssueFilter
+                                isDesktop={isDesktop}
+                                selected={selectedIssue}
+                                selectIssue={selectIssue}
+                                complete={handleComplete}
+                                bills={bills}
+                            />
+                        </Grid>
+                        <Grid item sm={9}>
+                            <IssueList
+                                filteredIssue={filteredIssue}
+                                selectedIssue={selectedIssue}
+                                bills={bills}
+                                selectIssue={selectIssue}
+                                handleComplete={handleComplete}
+                            >
+                                {children}
+                            </IssueList>
+                        </Grid>
                     </Grid>
-                    <Grid item sm={9}>
-                        <IssueList
-                            filteredIssue={filteredIssue}
-                            selectedIssue={selectedIssue}
-                            bills={bills}
-                            selectIssue={selectIssue}
-                            handleComplete={handleComplete}
-                        >
-                            {children}
-                        </IssueList>
-                    </Grid>
-                </Grid>
+                </Box>
             ) : (
                 <React.Fragment>
                     <IssueList
