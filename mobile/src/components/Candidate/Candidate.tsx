@@ -102,7 +102,7 @@ const isDesktop = !/Mobi|Android/i.test(navigator.userAgent);
 
 const desktopPadding = isDesktop
     ? {
-        padding: '0 8%'
+          padding: '0 8%'
       }
     : {};
 
@@ -120,7 +120,7 @@ const CandidatePage = ({ match }: CandidatePage) => {
 
     const [candidate, setCandidate] = useState<CandidateType>(CandidateDefault);
     const [bills, setBills] = useState<Bill[]>([]);
-    const isRegional = constituency !== undefined;
+    const isRegional = constituency !== '不分區';
 
     const billsURL = isRegional
         ? `/api/bills/${constituency}/${name}`
@@ -153,21 +153,24 @@ const CandidatePage = ({ match }: CandidatePage) => {
         county.area.includes(constituency)
     );
     const county = county_list.length ? county_list[0].name : '';
+    const previousLink = isRegional
+        ? `/regional/${county}/${constituency}`
+        : `/party/${party}`;
 
     return (
-        <Box color="background"
-            pt={isDesktop ? '48px': '60px'}>
+        <Box pt={isDesktop ? '48px' : '60px'}>
             <Box
                 bgcolor="white"
                 position="fixed"
                 width="100%"
-                top={isDesktop ? '64px': '45px'}
+                top={isDesktop ? '64px' : '45px'}
                 display="flex"
                 alignItems="center"
                 zIndex="500"
-                px={isDesktop ? '8%': 0}
-                pt={isDesktop ? 1 : 3}>
-                <Link href={`/regional/${county}/${constituency}`}>
+                px={isDesktop ? '8%' : 0}
+                pt={isDesktop ? 1 : 3}
+            >
+                <Link href={previousLink}>
                     <KeyboardArrowLeft fontSize="large" />
                 </Link>
                 <Box>
@@ -188,7 +191,7 @@ const CandidatePage = ({ match }: CandidatePage) => {
                 </Box>
             </Box>
             <Nav {...candidate} padding={desktopPadding} />
-            <Box zIndex={499} position="sticky" bgcolor="white" top="100px">
+            <Box zIndex={501} position="sticky" bgcolor="white" top="100px">
                 <Tabs
                     style={desktopPadding}
                     value={tab}
@@ -204,6 +207,7 @@ const CandidatePage = ({ match }: CandidatePage) => {
                 </Tabs>
             </Box>
 
+            <Box py={2} bgcolor="#F7F7F7" />
             {tab === 0 ? (
                 candidate.currentLegislator ||
                 caucusParty.includes(candidate.party) ? (
@@ -242,7 +246,6 @@ const CandidatePage = ({ match }: CandidatePage) => {
             ) : (
                 <NoInfoTab name={candidate.name} from="basicInfo" />
             )}
-
         </Box>
     );
 };
