@@ -10,6 +10,7 @@ import { SingleCandidateInParty } from './functions/getPartyCandidated';
 import ResultItemCardWrapper from './SearchResultItems/ResultItemCardWrapper';
 import SingleCandidateItemWithPartyName from './SearchResultItems/SingleCandidateItemWithPartyName';
 import SingleConstituencyCadidateItem from './SearchResultItems/SingleConstituencyCadidateItem';
+import EmptySearchResult from './EmptySearchResult';
 
 type Props = {
     loading: boolean;
@@ -102,7 +103,7 @@ const SearchResults = (props: Props) => {
             parties.length === 0;
 
         if (isNoResult) {
-            return <Typography>{'查無結果'}</Typography>;
+            return <EmptySearchResult />;
         }
         return (
             <Box>
@@ -114,7 +115,11 @@ const SearchResults = (props: Props) => {
             </Box>
         );
     }
-    return null;
+    return (
+        <EmptySearchResult
+            customResultTitle={'在以上的搜尋欄，可以查詢立委和政黨喔'}
+        />
+    );
 };
 
 export default SearchResults;

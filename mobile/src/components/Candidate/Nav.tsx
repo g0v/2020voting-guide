@@ -4,6 +4,8 @@ import KeyboardArrowLeft from '@material-ui/icons/KeyboardArrowLeft';
 import { makeStyles } from '@material-ui/styles';
 import React from 'react';
 import { RectangleIcon } from '../PartyIcon';
+import { KeyboardArrowLeft } from '@material-ui/icons';
+import county_constituency from '../../data/county_constituency.json';
 
 const useStyles = makeStyles({
     nav: {
@@ -34,11 +36,11 @@ const Nav = ({
     photo = '',
     age = 0,
     party = '',
-    padding = {}
+    padding = {},
+    constituency
 }: Nav) => {
     const classes = useStyles();
     const ageDisplay = age === 0 ? '未知年齡' : `${age} 歲`;
-
     return (
         <div style={padding}>
             <Box m={1}>
