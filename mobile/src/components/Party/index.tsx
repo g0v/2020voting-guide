@@ -63,7 +63,7 @@ const Party = ({ match }: RouteComponentProps<{ party: string }>) => {
         : '';
 
     return (
-        <Box color="background" pt="60px">
+        <Box pt="60px">
             {/* TODO: use backend API*/}
             <Box
                 bgcolor="white"
