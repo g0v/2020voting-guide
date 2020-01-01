@@ -7,59 +7,54 @@
     "開始日期": "2019-12-11",
     "結束日期": "1970-01-01",
     "廣告內容": "【你，還記得嗎？】 去年公投，我們頂著大太陽，手拿身份證跟印章，排隊排到腿抽筋，等投票等到懷疑人生，但心中仍抱有對未來的盼望⋯⋯ 可是，滿心期待政府會履行公投結果的我們，得到的又是什麼？ 對於民意，政府是不願面對？還是故意視而不見！？ 請留言告訴我們答案👇 #2020年1月11號 #政黨票投給安定力量 #讓安定的力量進入立法院 #安定力量 #安定咱台灣 為避免政府裝笑維，請分享！ 更多廣告CF： 守護家庭篇（台）：https://youtu.be/Lg7bpLvBVsI 守護家庭（中）：https://youtu.be/Lg7bpLvBVsI 還我公投篇：https://youtu.be/tgVY50kd4Qc 跨越藍綠篇：https://youtu.be/_PW2N9ZH638 認同請分享！！",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80032414_563649141079737_3673030948930191360_n.jpg?_nc_cat=106&_nc_ohc=RENBoj8qYfMAQkCFgPA6Ahw0ymoaahrulxmYVyU60WaKsCy13orDoZyFQ&_nc_ht=scontent-hkg3-1.xx&oh=d4bb891529744fcab585cea079b28a17&oe=5EA4FC89",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80032414_563649141079737_3673030948930191360_n.jpg?_nc_cat=106&_nc_ohc=cE_tMO7X65wAQl09ZTJNUTbztaO5RXH1qIGR_MElrYpQ4uMVitpLAgrUg&_nc_ht=scontent-hkg3-1.xx&oh=e4df52729072de5f2a7c34e712ec7cf6&oe=5EA4FC89",
     "廣告詳情": {
       "ad_creative_body": "【你，還記得嗎？】\n\n去年公投，我們頂著大太陽，手拿身份證跟印章，排隊排到腿抽筋，等投票等到懷疑人生，但心中仍抱有對未來的盼望⋯⋯\n可是，滿心期待政府會履行公投結果的我們，得到的又是什麼？\n\n對於民意，政府是不願面對？還是故意視而不見！？\n\n請留言告訴我們答案👇\n\n#2020年1月11號\n#政黨票投給安定力量\n#讓安定的力量進入立法院\n#安定力量\n#安定咱台灣\n\n為避免政府裝笑維，請分享！\n\n更多廣告CF：\n守護家庭篇（台）：\nhttps://youtu.be/Lg7bpLvBVsI\n守護家庭（中）：\nhttps://youtu.be/Lg7bpLvBVsI\n還我公投篇：\nhttps://youtu.be/tgVY50kd4Qc\n跨越藍綠篇：\nhttps://youtu.be/_PW2N9ZH638\n\n認同請分享！！",
       "ad_creation_time": "2019-12-12T03:38:21+0000",
       "ad_creative_link_title": "阿榮【還我公投篇】",
       "ad_delivery_start_time": "2019-12-12T03:38:21+0000",
-      "ad_delivery_stop_time": "2019-12-30T16:00:00+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.205779",
+          "percentage": "0.205776",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.174805",
+          "percentage": "0.044436",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.174728",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.000754",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.196384",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.096443",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.121177",
+          "percentage": "0.121085",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.100238",
+          "percentage": "0.096457",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.196386",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.100249",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.059183",
+          "percentage": "0.059286",
           "age": "65+",
           "gender": "male"
-        },
-        {
-          "percentage": "0.044393",
-          "age": "65+",
-          "gender": "female"
         },
         {
           "percentage": "0.000274",
@@ -72,8 +67,13 @@
           "gender": "unknown"
         },
         {
-          "percentage": "0.000229",
+          "percentage": "0.000228",
           "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000754",
+          "age": "35-44",
           "gender": "unknown"
         }
       ],
@@ -86,91 +86,91 @@
       "page_name": "安定力量",
       "region_distribution": [
         {
-          "percentage": "0.032938",
+          "percentage": "0.032966",
           "region": "Unknown"
         },
         {
-          "percentage": "0.000359",
+          "percentage": "0.000358",
           "region": "Lienchiang"
         },
         {
-          "percentage": "0.017479",
+          "percentage": "0.017446",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.041172",
+          "percentage": "0.04114",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.016559",
+          "percentage": "0.016573",
           "region": "Yilan"
         },
         {
-          "percentage": "0.011802",
+          "percentage": "0.01178",
           "region": "Taitung"
         },
         {
-          "percentage": "0.038345",
+          "percentage": "0.038386",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.005385",
+          "percentage": "0.005375",
           "region": "Penghu"
         },
         {
-          "percentage": "0.01777",
+          "percentage": "0.017737",
           "region": "Nantou"
         },
         {
-          "percentage": "0.018398",
+          "percentage": "0.018499",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.003926",
+          "percentage": "0.003919",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.121923",
+          "percentage": "0.122301",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.017142",
+          "percentage": "0.017155",
           "region": "Hualien"
         },
         {
-          "percentage": "0.003007",
+          "percentage": "0.003023",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.002715",
+          "percentage": "0.00271",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.049608",
+          "percentage": "0.049785",
           "region": "Changhua"
         },
         {
-          "percentage": "0.109359",
+          "percentage": "0.109312",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.144899",
+          "percentage": "0.144674",
           "region": "Taichung"
         },
         {
-          "percentage": "0.123157",
+          "percentage": "0.122973",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.100047",
+          "percentage": "0.099928",
           "region": "Tainan"
         },
         {
-          "percentage": "0.10523",
+          "percentage": "0.105214",
           "region": "Taipei"
         },
         {
-          "percentage": "0.01878",
+          "percentage": "0.018745",
           "region": "Hsinchu City"
         }
       ],
@@ -189,7 +189,7 @@
     "開始日期": "2019-12-17",
     "結束日期": "1970-01-01",
     "廣告內容": "🇹🇼您還記得那台灣錢淹腳目的日子嗎？您還記得紅葉少棒奪冠時揮舞國旗的感動嗎？ ❤️那時國旗是多麼令人感到驕傲！ 💔可如今除了選舉時刻，國旗總被遺忘在角落，甚至丟棄！ 💢國旗被政客拿來當作消費台灣人民選票的東西，難道只有選舉，你才會想起國旗嗎？國旗不應該是時刻受人重視嗎？！ 現在立刻動動手指☝️叫上你的親朋好友跟我們一起升🇹🇼吧💪 🔗升旗連結：https://sftaiwan.org/2020/flag.php",
-    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/s600x600/80696000_2539119179528490_6764072358710870016_n.jpg?_nc_cat=110&_nc_ohc=N49SU7Z9jecAQk5rFhB5kJj3dRMCxIwG30FDyoLoePGsuuysGiLIndmhg&_nc_ht=scontent-hkg3-2.xx&oh=93103b79b7d050ccb010c6994bb011ee&oe=5E7177F4",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/s600x600/80696000_2539119179528490_6764072358710870016_n.jpg?_nc_cat=110&_nc_ohc=yQp7RsC8FekAQlKoUh_M1LR7Ok6Fz38Lnqybzh6Fyf_YuwmC_rNEQjhVg&_nc_ht=scontent-hkg3-2.xx&oh=ae7a2b420d00c7ae6907354727de88bc&oe=5E9904F4",
     "廣告詳情": {
       "ad_creative_body": "🇹🇼您還記得那台灣錢淹腳目的日子嗎？您還記得紅葉少棒奪冠時揮舞國旗的感動嗎？\n\n❤️那時國旗是多麼令人感到驕傲！\n\n💔可如今除了選舉時刻，國旗總被遺忘在角落，甚至丟棄！\n\n💢國旗被政客拿來當作消費台灣人民選票的東西，難道只有選舉，你才會想起國旗嗎？國旗不應該是時刻受人重視嗎？！\n\n現在立刻動動手指☝️叫上你的親朋好友跟我們一起升🇹🇼吧💪\n\n🔗升旗連結：https://sftaiwan.org/2020/flag.php",
       "ad_creation_time": "2019-12-17T12:49:14+0000",
@@ -200,166 +200,166 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.252303",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.183512",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.114067",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.160725",
+          "percentage": "0.150827",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.096338",
+          "percentage": "0.124472",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.187436",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.102255",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.060463",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.047182",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.083144",
+          "percentage": "0.082296",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.00038",
+          "percentage": "0.062552",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.047857",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.2402",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000367",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000816",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000355",
+          "percentage": "0.000372",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000716",
+          "percentage": "0.000725",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000641",
           "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "安定力量",
       "impressions": {
-        "lower_bound": "250000",
-        "upper_bound": "299999"
+        "lower_bound": "400000",
+        "upper_bound": "449999"
       },
       "page_id": "361802464195164",
       "page_name": "安定力量",
       "region_distribution": [
         {
-          "percentage": "0.021644",
+          "percentage": "0.021651",
           "region": "Unknown"
         },
         {
-          "percentage": "0.000349",
+          "percentage": "0.000316",
           "region": "Lienchiang"
         },
         {
-          "percentage": "0.015489",
+          "percentage": "0.015773",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.022741",
+          "percentage": "0.022593",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.011592",
+          "percentage": "0.011746",
           "region": "Yilan"
         },
         {
-          "percentage": "0.009852",
+          "percentage": "0.009837",
           "region": "Taitung"
         },
         {
-          "percentage": "0.029594",
+          "percentage": "0.029462",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.00386",
+          "percentage": "0.003833",
           "region": "Penghu"
         },
         {
-          "percentage": "0.014548",
+          "percentage": "0.014996",
           "region": "Nantou"
         },
         {
-          "percentage": "0.019199",
+          "percentage": "0.019222",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.00333",
+          "percentage": "0.00341",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.157653",
+          "percentage": "0.158121",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.017154",
+          "percentage": "0.016754",
           "region": "Hualien"
         },
         {
-          "percentage": "0.003074",
+          "percentage": "0.003551",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.001228",
+          "percentage": "0.001326",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.038043",
+          "percentage": "0.03771",
           "region": "Changhua"
         },
         {
-          "percentage": "0.112963",
+          "percentage": "0.121757",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.124711",
+          "percentage": "0.121873",
           "region": "Taichung"
         },
         {
-          "percentage": "0.109116",
+          "percentage": "0.11345",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.079915",
+          "percentage": "0.077611",
           "region": "Tainan"
         },
         {
-          "percentage": "0.176067",
+          "percentage": "0.168293",
           "region": "Taipei"
         },
         {
-          "percentage": "0.027879",
+          "percentage": "0.026717",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "30000",
-        "upper_bound": "34999"
+        "lower_bound": "40000",
+        "upper_bound": "44999"
       },
       "ad_id": "2539119152861826"
     }
@@ -372,178 +372,537 @@
     "開始日期": "2019-12-25",
     "結束日期": "1970-01-01",
     "廣告內容": "【小朋友都懂，你還不懂嗎？】 藍綠兩黨的政治鬥爭使台灣停滯不前，政府甚至對765萬張公投票的民意視而不見，你還想繼續陷在藍綠的泥沼中嗎？ 除了藍綠兩黨你永遠有第3種選擇！ 支持安定力量，把愛家立委送進立法院，讓社會不再一樣💪 立即動動手指分享出去☝️ 讓更多人知道台灣可以不一樣❤️ 影片爸爸飾演者： 安定力量黨副主席/不分區候選人-洪正一 ⭕️更多安定力量黨影片請至youtube頻道：https://youtu.be/_PW2N9ZH638 #政黨票請投安定力量黨 #用家的力量 #安定咱台灣",
-    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81357251_609093099852606_875294002549620736_n.jpg?_nc_cat=105&_nc_ohc=wX4pjSRq7FAAQlE_HCuMnzSXTF8D4tzWFqllDRksSu3ZH1SCs4bQl8sWg&_nc_ht=scontent-hkg3-1.xx&oh=b5692a39fb23c2105c2a3182fc904205&oe=5EAA6C68",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81357251_609093099852606_875294002549620736_n.jpg?_nc_cat=105&_nc_ohc=Kvh7rEJmxuoAQlEY3X2wW1vQq-6mb0dMlcv0YMPUWulGQcV5b6Dmcyl6A&_nc_ht=scontent-hkg3-1.xx&oh=3b377357052a64939bf706320c3f152a&oe=5EAA6C68",
     "廣告詳情": {
       "ad_creative_body": "【小朋友都懂，你還不懂嗎？】\n\n藍綠兩黨的政治鬥爭使台灣停滯不前，政府甚至對765萬張公投票的民意視而不見，你還想繼續陷在藍綠的泥沼中嗎？\n\n除了藍綠兩黨你永遠有第3種選擇！\n\n支持安定力量，把愛家立委送進立法院，讓社會不再一樣💪\n\n立即動動手指分享出去☝️\n讓更多人知道台灣可以不一樣❤️\n\n影片爸爸飾演者：\n安定力量黨副主席/不分區候選人-洪正一\n\n⭕️更多安定力量黨影片請至youtube頻道：\nhttps://youtu.be/_PW2N9ZH638\n\n#政黨票請投安定力量黨\n#用家的力量\n#安定咱台灣",
       "ad_creation_time": "2019-12-26T00:20:40+0000",
       "ad_creative_link_title": "跨越藍綠",
       "ad_delivery_start_time": "2019-12-26T00:20:40+0000",
-      "ad_delivery_stop_time": "2019-12-30T16:00:00+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.194246",
+          "percentage": "0.184846",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.075508",
+          "percentage": "0.075274",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.119556",
+          "percentage": "0.114824",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.216913",
+          "percentage": "0.210269",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.061165",
+          "percentage": "0.066015",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.16635",
+          "percentage": "0.17819",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.107784",
+          "percentage": "0.112379",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.057836",
+          "percentage": "0.057502",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.000292",
+          "percentage": "0.000249",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000175",
+          "percentage": "0.000136",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "2.9E-5",
+          "percentage": "0.000113",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000146",
+          "percentage": "0.000204",
           "age": "55-64",
           "gender": "unknown"
         }
       ],
       "funding_entity": "安定力量",
       "impressions": {
-        "lower_bound": "35000",
-        "upper_bound": "39999"
+        "lower_bound": "45000",
+        "upper_bound": "49999"
       },
       "page_id": "361802464195164",
       "page_name": "安定力量",
       "region_distribution": [
         {
-          "percentage": "0.034306",
+          "percentage": "0.033915",
           "region": "Unknown"
         },
         {
-          "percentage": "0.00067",
+          "percentage": "0.000573",
           "region": "Lienchiang"
         },
         {
-          "percentage": "0.019978",
+          "percentage": "0.020189",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.052333",
+          "percentage": "0.051927",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.020269",
+          "percentage": "0.019639",
           "region": "Yilan"
         },
         {
-          "percentage": "0.015231",
+          "percentage": "0.014895",
           "region": "Taitung"
         },
         {
-          "percentage": "0.048663",
+          "percentage": "0.047711",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.006611",
+          "percentage": "0.006485",
           "region": "Penghu"
         },
         {
-          "percentage": "0.020968",
+          "percentage": "0.021197",
           "region": "Nantou"
         },
         {
-          "percentage": "0.023385",
+          "percentage": "0.023695",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.005126",
+          "percentage": "0.00511",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.127293",
+          "percentage": "0.121912",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.020764",
+          "percentage": "0.021105",
           "region": "Hualien"
         },
         {
-          "percentage": "0.002679",
+          "percentage": "0.00291",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.003291",
+          "percentage": "0.003392",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.058041",
+          "percentage": "0.058183",
           "region": "Changhua"
         },
         {
-          "percentage": "0.118557",
+          "percentage": "0.123745",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.13306",
+          "percentage": "0.136739",
           "region": "Taichung"
         },
         {
-          "percentage": "0.126449",
+          "percentage": "0.127366",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.085561",
+          "percentage": "0.081557",
           "region": "Tainan"
         },
         {
-          "percentage": "0.064477",
+          "percentage": "0.064714",
           "region": "Taipei"
         },
         {
-          "percentage": "0.01229",
+          "percentage": "0.013039",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "4500",
-        "upper_bound": "4999"
+        "lower_bound": "6000",
+        "upper_bound": "6999"
       },
       "ad_id": "609093083185941"
+    }
+  },
+  {
+    "選區": "政黨",
+    "參選人": "安定力量",
+    "AD_ID": "529952174261582",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-26",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【向蔡英文總統報佳音全記錄】 很抱歉，我們要告訴所有支持愛家的朋友們，這次安定力量黨向蔡英文總統報佳音的活動並沒有成功⋯⋯ 蔡英文總統不接受報佳音，也拒簽愛家承諾書，雖然感到失望，但我們仍會繼續努力，找到願意落實愛家公投的總統候選人💪 感謝和我們一同走上街頭的支持者們，感謝你們一直都在❤️ #蔡英文 #拒簽 #韓國瑜 #未簽 #宋楚瑜 #未簽 #765萬民意究竟花落誰家 #政黨票請投4號安定力量黨 #安定愛家 #還我公投",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/82008367_529952194261580_414468377038290944_n.jpg?_nc_cat=101&_nc_ohc=2F195H3QANQAQma4maKo7WY6yDrd4qcy5Ozlq2nO3HPXYp_7erhJNfZCA&_nc_ht=scontent-hkg3-1.xx&oh=d02189b34f44b42bfa2b08bd0e50d113&oe=5E6FE7AC",
+    "廣告詳情": {
+      "ad_creative_body": "【向蔡英文總統報佳音全記錄】\n\n很抱歉，我們要告訴所有支持愛家的朋友們，這次安定力量黨向蔡英文總統報佳音的活動並沒有成功⋯⋯\n\n蔡英文總統不接受報佳音，也拒簽愛家承諾書，雖然感到失望，但我們仍會繼續努力，找到願意落實愛家公投的總統候選人💪\n\n感謝和我們一同走上街頭的支持者們，感謝你們一直都在❤️\n\n#蔡英文 #拒簽\n#韓國瑜 #未簽\n#宋楚瑜 #未簽\n#765萬民意究竟花落誰家\n#政黨票請投4號安定力量黨\n#安定愛家\n#還我公投",
+      "ad_creation_time": "2019-12-27T07:00:58+0000",
+      "ad_creative_link_title": "遊行",
+      "ad_delivery_start_time": "2019-12-27T07:00:58+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000472",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000629",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000786",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.292832",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.156712",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.162999",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.049356",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.10657",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.151996",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.063974",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.013675",
+          "age": "35-44",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "安定力量",
+      "impressions": {
+        "lower_bound": "7000",
+        "upper_bound": "7999"
+      },
+      "page_id": "361802464195164",
+      "page_name": "安定力量",
+      "region_distribution": [
+        {
+          "percentage": "0.037142",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.000472",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.012905",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.038873",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.009443",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.01385",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.057129",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.005036",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.022978",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.020774",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.002675",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.146679",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.015738",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.005036",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.002203",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.066415",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.123702",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.1418",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.092383",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.10277",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.065156",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.01684",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "400",
+        "upper_bound": "499"
+      },
+      "ad_id": "529952174261582"
+    }
+  },
+  {
+    "選區": "政黨",
+    "參選人": "安定力量",
+    "AD_ID": "816676492106204",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-26",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【小朋友都懂，你還不懂嗎？】 藍綠兩黨的政治鬥爭使台灣停滯不前，政府甚至對765萬張公投票的民意視而不見，你還想繼續陷在藍綠的泥沼中嗎？ 除了藍綠兩黨你永遠有第3種選擇！ 支持安定力量黨，把愛家立委送進立法院，讓社會不再一樣💪 立即動動手指分享出去☝️ 讓更多人知道台灣可以不一樣❤️ 影片爸爸飾演者： 安定力量黨副主席/不分區候選人-洪正一 ⭕️更多安定力量黨影片請至youtube頻道：https://youtu.be/_PW2N9ZH638 #政黨票請投4號安定力量黨 #用家的力量 #安定咱台灣",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81868790_816676515439535_5853462210180808704_n.jpg?_nc_cat=102&_nc_ohc=hn4dN1l4Hc4AQkH_2i2QGH0KGnsL_h6ZuOVPTfgl_KVKgeXHDPNUcDb9g&_nc_ht=scontent-hkg3-1.xx&oh=1af972c316e573f4a0cac105ff1a6624&oe=5E6D0318",
+    "廣告詳情": {
+      "ad_creative_body": "【小朋友都懂，你還不懂嗎？】\n\n藍綠兩黨的政治鬥爭使台灣停滯不前，政府甚至對765萬張公投票的民意視而不見，你還想繼續陷在藍綠的泥沼中嗎？\n\n除了藍綠兩黨你永遠有第3種選擇！\n\n支持安定力量黨，把愛家立委送進立法院，讓社會不再一樣💪\n\n立即動動手指分享出去☝️\n讓更多人知道台灣可以不一樣❤️\n\n影片爸爸飾演者：\n安定力量黨副主席/不分區候選人-洪正一\n\n⭕️更多安定力量黨影片請至youtube頻道：\nhttps://youtu.be/_PW2N9ZH638\n\n#政黨票請投4號安定力量黨\n#用家的力量\n#安定咱台灣",
+      "ad_creation_time": "2019-12-27T06:59:28+0000",
+      "ad_creative_link_title": "第三種選擇 政黨票",
+      "ad_delivery_start_time": "2019-12-27T06:59:28+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000198",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000319",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000128",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.17581",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.152072",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.14895",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.125965",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.153527",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.049986",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.138227",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.054269",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000549",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "安定力量",
+      "impressions": {
+        "lower_bound": "200000",
+        "upper_bound": "249999"
+      },
+      "page_id": "361802464195164",
+      "page_name": "安定力量",
+      "region_distribution": [
+        {
+          "percentage": "0.033526",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.00039",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.017753",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.040039",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.016737",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.00956",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.037996",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.003761",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.021437",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.021999",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.003876",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.121817",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.017114",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.005096",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.002484",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.049918",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.14084",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.132507",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.13773",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.089415",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.073488",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.022517",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "25000",
+        "upper_bound": "29999"
+      },
+      "ad_id": "816676492106204"
     }
   }
 ]

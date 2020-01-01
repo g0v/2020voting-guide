@@ -531,7 +531,7 @@
     "AD_ID": "571493723397801",
     "登錄為政治廣告": "是",
     "開始日期": "2019-12-24",
-    "結束日期": "1970-01-01",
+    "結束日期": "2019-12-27",
     "廣告內容": "喜樂島聯盟是曾經推動「全民公投反併吞」、「東奧正名」的組織。為了追求台灣正名制憲的具體實踐、，在2019年7月20日成立正黨。2020大選，政黨票請支持⑧號，喜樂島聯盟。",
     "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81377998_2696481493771097_7966153599426232320_n.jpg?_nc_cat=102&_nc_ohc=b_zg-5o82eUAQkbyEXUYK6NdXj1cX1OnBeaAHKK5Fn8SM-2ZZXS9-x3ZQ&_nc_ht=scontent-hkg3-1.xx&oh=0c1fcdf1412baae7bbee73f6323787de&oe=5E69DFCE",
     "廣告詳情": {
@@ -542,169 +542,352 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.02396",
+          "percentage": "0.025661",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.136528",
+          "percentage": "0.13297",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.192586",
+          "percentage": "0.191291",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.262206",
+          "percentage": "0.262442",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.157776",
+          "percentage": "0.15902",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.041591",
+          "percentage": "0.040047",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.038427",
+          "percentage": "0.041213",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.050633",
+          "percentage": "0.050544",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.022152",
+          "percentage": "0.023717",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.070072",
+          "percentage": "0.069596",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.000904",
+          "percentage": "0.000778",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001356",
+          "percentage": "0.001166",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001808",
+          "percentage": "0.001555",
           "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "起元 魏",
       "impressions": {
-        "lower_bound": "3000",
-        "upper_bound": "3999"
+        "lower_bound": "4000",
+        "upper_bound": "4999"
       },
       "page_id": "341990723391739",
       "page_name": "喜樂島聯盟總部",
       "region_distribution": [
         {
-          "percentage": "0.026292",
+          "percentage": "0.026192",
           "region": "Unknown"
         },
         {
-          "percentage": "0.019946",
+          "percentage": "0.018765",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.023119",
+          "percentage": "0.022283",
           "region": "Hsinchu City"
         },
         {
-          "percentage": "0.012693",
+          "percentage": "0.013292",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.033545",
+          "percentage": "0.035575",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.014506",
+          "percentage": "0.016419",
           "region": "Yilan"
         },
         {
-          "percentage": "0.00544",
+          "percentage": "0.005473",
           "region": "Taitung"
         },
         {
-          "percentage": "0.035358",
+          "percentage": "0.034793",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.003626",
+          "percentage": "0.004691",
           "region": "Penghu"
         },
         {
-          "percentage": "0.014506",
+          "percentage": "0.014855",
           "region": "Nantou"
         },
         {
-          "percentage": "0.001813",
+          "percentage": "0.001955",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.190843",
+          "percentage": "0.184128",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.010879",
+          "percentage": "0.010164",
           "region": "Hualien"
         },
         {
-          "percentage": "0.003626",
+          "percentage": "0.003518",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.048504",
+          "percentage": "0.047303",
           "region": "Changhua"
         },
         {
-          "percentage": "0.120127",
+          "percentage": "0.119234",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.125567",
+          "percentage": "0.131744",
           "region": "Taichung"
         },
         {
-          "percentage": "0.103808",
+          "percentage": "0.100469",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.096102",
+          "percentage": "0.09656",
           "region": "Tainan"
         },
         {
-          "percentage": "0.108794",
+          "percentage": "0.111415",
           "region": "Taipei"
         },
         {
-          "percentage": "0.000907",
+          "percentage": "0.001173",
           "region": "Hsinchu"
         }
       ],
       "spend": {
-        "lower_bound": "1000",
-        "upper_bound": "1499"
+        "lower_bound": "1500",
+        "upper_bound": "1999"
       },
       "ad_id": "571493723397801"
+    }
+  },
+  {
+    "選區": "政黨",
+    "參選人": "喜樂島聯盟",
+    "AD_ID": "441296226777555",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-26",
+    "結束日期": "1970-01-01",
+    "廣告內容": "新的一年即將來到。在這個新舊交接的時刻，人們慣例會總結過去，規劃未來。各位夥伴，過去四年執政黨的表現、最大在野黨的表現、號稱是獨立小黨的表現，你滿意嗎？ 如果希望未來四年不論誰當總統、誰國會多數，都至少有一股絶不被權勢摸頭的制衡力量，絶不會停止追求國家獨立的聲量，請支持⑧號喜樂島聯盟。 ⑧號喜樂島聯盟沒有推一個共主、一個明星、或一個人君。這種「一人救世」的封建概念真的適合民主自由時代嗎？喜樂島聯盟呼喚曾經支持東奧正名的朋友，不要放棄，要相信人民的力量，要相信自己的力量。你們才是改變台灣的主角。 回顧過去四年，你有感覺在台灣要公開表達「支持台灣獨立」變得更難開口了嗎？在周遭的氛圍讓人不再能自在的說出：『我支持台灣獨立』時。喜樂島會帶頭說。 咱是喜樂島聯盟，咱支持台灣獨立。 —————————————— 跨年、尾牙的歡聚時刻 請向親友同事推薦⑧喜樂島聯盟。",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/80232711_463172081273602_7680276766568480768_n.jpg?_nc_cat=111&_nc_ohc=6EB8Vjb6d48AQlhPUxdaZYjpIdrW4GK0VSYwpuJUtIIIBTsT4Kv0WZmIw&_nc_ht=scontent-hkg3-2.xx&oh=d6911bb984c7f095a9f9bedb5c12c4d7&oe=5EABDD6E",
+    "廣告詳情": {
+      "ad_creative_body": "新的一年即將來到。在這個新舊交接的時刻，人們慣例會總結過去，規劃未來。各位夥伴，過去四年執政黨的表現、最大在野黨的表現、號稱是獨立小黨的表現，你滿意嗎？\n\n如果希望未來四年不論誰當總統、誰國會多數，都至少有一股絶不被權勢摸頭的制衡力量，絶不會停止追求國家獨立的聲量，請支持⑧號喜樂島聯盟。\n\n⑧號喜樂島聯盟沒有推一個共主、一個明星、或一個人君。這種「一人救世」的封建概念真的適合民主自由時代嗎？喜樂島聯盟呼喚曾經支持東奧正名的朋友，不要放棄，要相信人民的力量，要相信自己的力量。你們才是改變台灣的主角。\n\n回顧過去四年，你有感覺在台灣要公開表達「支持台灣獨立」變得更難開口了嗎？在周遭的氛圍讓人不再能自在的說出：『我支持台灣獨立』時。喜樂島會帶頭說。\n\n咱是喜樂島聯盟，咱支持台灣獨立。\n\n——————————————\n跨年、尾牙的歡聚時刻\n請向親友同事推薦⑧喜樂島聯盟。",
+      "ad_creation_time": "2019-12-27T01:47:41+0000",
+      "ad_delivery_start_time": "2019-12-27T01:47:42+0000",
+      "ad_delivery_stop_time": "2020-01-01T01:47:41+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.001789",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000447",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000894",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.021914",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.097943",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.244633",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.115385",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.370751",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.060823",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.020572",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.017889",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.023256",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.02102",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002683",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "起元 魏",
+      "impressions": {
+        "lower_bound": "2000",
+        "upper_bound": "2999"
+      },
+      "page_id": "341990723391739",
+      "page_name": "喜樂島聯盟總部",
+      "region_distribution": [
+        {
+          "percentage": "0.022418",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.018022",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.023736",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.031648",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.018901",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.000879",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.043956",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.002637",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.016264",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.016264",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.137143",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.022857",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.015824",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.085275",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.107692",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.124835",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.094945",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.082198",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.116484",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.018022",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "200",
+        "upper_bound": "299"
+      },
+      "ad_id": "441296226777555"
     }
   }
 ]

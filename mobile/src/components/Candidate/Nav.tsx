@@ -38,9 +38,38 @@ const Nav = ({
 
     const classes = useStyles();
     const ageDisplay = age === 0 ? '未知年齡' : `${age} 歲`;
+    const county_list = county_constituency.filter(county =>
+        county.area.includes(constituency)
+    );
+    const county = county_list.length ? county_list[0].name : '';
+    const isRegional = constituency !== '不分區';
+    const previousLink = isRegional
+        ? `/regional/${county}/${constituency}`
+        : `/party/${party}`;
     return (
         <div style={padding}>
             <Box m={1}>
+                <Box display="flex" alignItems="center" my={1}>
+                    <Link href={previousLink}>
+                        <KeyboardArrowLeft fontSize="large" />
+                    </Link>
+                    <Box>
+                        <Typography
+                            variant="h3"
+                            display="inline"
+                            color="textPrimary"
+                        >
+                            {`${name} `}
+                        </Typography>
+                        <Typography
+                            variant="h5"
+                            display="inline"
+                            color="textSecondary"
+                        >
+                            {constituency}
+                        </Typography>
+                    </Box>
+                </Box>
                 <Box px={1} py={1}>
                     <Grid container alignItems="center" spacing={2}>
                         <Grid item>

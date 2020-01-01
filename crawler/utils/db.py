@@ -204,6 +204,15 @@ class CandidateExcel(BaseModel):
     nameChangeNum = CharField(null=True)
 
 
+class Statistic(BaseModel):
+    name = CharField()
+    term = IntegerField()
+    statisticType = CharField()
+    dataType = CharField()
+    key = CharField()
+    value = IntegerField()
+
+
 class Politics(BaseModel):
     name = CharField()
     politics = TextField()

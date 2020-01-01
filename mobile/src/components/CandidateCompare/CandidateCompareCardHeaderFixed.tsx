@@ -1,12 +1,10 @@
 import { IconButton } from '@material-ui/core';
+import Typography from '@material-ui/core/Typography';
+import clsx from 'clsx';
 import React from 'react';
 import useFetch from '../../hooks/useFetch';
-import { makeStyles } from '@material-ui/styles';
 import { CandidateType } from '../Candidate/Candidate';
-import Typography from '@material-ui/core/Typography';
 import DeleteButton from './DeleteButton';
-
-import clsx from 'clsx';
 
 interface Props {
     name: string;

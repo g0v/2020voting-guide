@@ -84,7 +84,13 @@ const ListAlert: FunctionComponent<{
 const Item: FunctionComponent<{ candidate: Candidate }> = ({ candidate }) => {
     const classes = useStyles();
     return (
-        <ListItem divider disableGutters>
+        <ListItem
+            divider
+            disableGutters
+			component="a"
+			button
+            href={`/party/${candidate.party}/candidate/${candidate.name}`}
+        >
             <Box width="100%" display="flex" alignItems="center">
                 <Box m={1}>
                     <Avatar className={classes.avatar} src={candidate.photo}>
@@ -96,7 +102,7 @@ const Item: FunctionComponent<{ candidate: Candidate }> = ({ candidate }) => {
                         <Rank rank={candidate.rank} />
                         <Name name={candidate.name} />
                         <Age age={candidate.age} />
-                        {candidate.isCurrent && <Current />}
+                        {candidate.currentLegislator && <Current />}
                     </Box>
                     <Description
                         description={filterExperience(candidate.experience)}

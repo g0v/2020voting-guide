@@ -6,6 +6,7 @@ import KeyboardArrowLeft from '@material-ui/icons/KeyboardArrowLeft';
 import React, { FunctionComponent, useEffect, useState } from 'react';
 import Alert from '../Alert';
 import { Bill } from '../IssueBill';
+import partyCandidate from '../../data/party_candidates.json';
 import IssueBillTab from '../IssueBillTab';
 import Nav from './Nav';
 import NoInfoTab from './NoInfoTab';
@@ -21,25 +22,26 @@ export interface CandidateType {
     constituency: string;
     party: string;
     age: number;
-    lastterm: string;
-    lasttermyear: string;
     education: string;
+    educationConnection: string;
     experience: string;
+    experienceConnection: string;
     politic: string;
+    politicsConnection: string;
     sittingRate: number;
     interpellationRate: number;
     interpellationnum: string;
     currentLegislator: boolean;
     maxinterpellationnum: string;
-    interpellationcategory: string;
+    interpellationcategory: { name: string; percent: number }[];
     billnum: string;
-    billnumcategory: string;
+    billnumcategory: { name: string; percent: number }[];
     politicalcontribution: string;
     othercandidate: string;
     fbPage: string;
 }
 
-const CandidateDefault = {
+const CandidateDefault: CandidateType = {
     name: '',
     photo: '',
     county: '',
@@ -62,7 +64,6 @@ const CandidateDefault = {
     billnumcategory: [],
     politicalcontribution: '',
     othercandidate: '',
-    bills: [],
     fbPage: ''
 };
 
@@ -70,6 +71,7 @@ interface CandidatePage {
     match: {
         params: {
             constituency: string;
+            party: string;
             name: string;
         };
     };
@@ -105,7 +107,7 @@ const desktopPadding = isDesktop
     : {};
 
 const CandidatePage = ({ match }: CandidatePage) => {
-    const { name, constituency } = match.params;
+    const { party, name, constituency } = match.params;
     const urlParams = new URLSearchParams(window.location.search);
     let defaultTabIdex = 0;
     if (urlParams.has('tab')) {
@@ -116,19 +118,36 @@ const CandidatePage = ({ match }: CandidatePage) => {
         setTab(newValue);
     };
 
-    const [candidate, setCandidate] = useState(CandidateDefault);
-    useEffect(() => {
-        fetch(`/api/candidate/${constituency}/${name}`)
-            .then(res => res.json())
-            .then(setCandidate);
-    }, [name, constituency]);
-
+    const [candidate, setCandidate] = useState<CandidateType>(CandidateDefault);
     const [bills, setBills] = useState<Bill[]>([]);
+    const isRegional = constituency !== undefined;
+
+    const billsURL = isRegional
+        ? `/api/bills/${constituency}/${name}`
+        : `/api/nonregional/bills/${party}/${name}`;
+
     useEffect(() => {
-        fetch(`/api/bills/${constituency}/${name}`)
+        if (isRegional) {
+            fetch(`/api/candidate/${constituency}/${name}`)
+                .then(res => res.json())
+                .then(setCandidate);
+        } else {
+            const candidateList: CandidateType[] = (partyCandidate as {
+                [key: string]: CandidateType[];
+            })[party];
+
+            const candidate = candidateList.find(
+                candidate => candidate.name === name
+            );
+            setCandidate(candidate || CandidateDefault);
+        }
+    }, [name, constituency, isRegional, party]);
+
+    useEffect(() => {
+        fetch(billsURL)
             .then(res => res.json())
             .then(setBills);
-    }, [name, constituency]);
+    }, [billsURL]);
 
     const county_list = county_constituency.filter(county =>
         county.area.includes(constituency)
@@ -215,7 +234,11 @@ const CandidatePage = ({ match }: CandidatePage) => {
             ) : candidate.education ||
               candidate.experience ||
               candidate.politic ? (
-                <BasicInfoTab {...candidate} padding={desktopPadding} />
+                <BasicInfoTab
+                    {...candidate}
+                    isRegional={isRegional}
+                    padding={desktopPadding}
+                />
             ) : (
                 <NoInfoTab name={candidate.name} from="basicInfo" />
             )}

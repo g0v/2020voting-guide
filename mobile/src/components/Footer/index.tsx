@@ -54,7 +54,7 @@ const Footer = () => {
                             </Link>
                         </Box>
                         <Box my={3}>
-                            <Link href="/progressing">
+                            <Link href="/parties">
                                 <Typography variant="h4">
                                     不分區立委參選政黨
                                 </Typography>
