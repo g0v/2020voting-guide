@@ -1,13 +1,16 @@
 import { Avatar, Box, Grid } from '@material-ui/core';
-import Link from '@material-ui/core/Link';
 import Typography from '@material-ui/core/Typography';
-import KeyboardArrowLeft from '@material-ui/icons/KeyboardArrowLeft';
 import { makeStyles } from '@material-ui/styles';
 import React from 'react';
-import county_constituency from '../../data/county_constituency.json';
 import { RectangleIcon } from '../PartyIcon';
 
 const useStyles = makeStyles({
+    nav: {
+        position: 'sticky',
+        top: '56px',
+        background: '#fff',
+        zIndex: 1
+    },
     photo: {
         width: 76,
         height: 76,
@@ -27,12 +30,12 @@ interface Nav {
 
 const Nav = ({
     name = '',
-    constituency = '',
     photo = '',
     age = 0,
     party = '',
     padding = {}
 }: Nav) => {
+
     const classes = useStyles();
     const ageDisplay = age === 0 ? '未知年齡' : `${age} 歲`;
     const county_list = county_constituency.filter(county =>
