@@ -208,7 +208,6 @@ const CandidatePage = ({ match }: CandidatePage) => {
                 </Tabs>
             </Box>
 
-            <Box py={2} bgcolor="#F7F7F7" />
             {tab === 0 ? (
                 candidate.currentLegislator ||
                 caucusParty.includes(candidate.party) ? (
