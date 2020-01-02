@@ -8,9 +8,10 @@ import Dialog from '../Dialog';
 const PoliticsCard: FunctionComponent<{
     constituency: string;
     politicsConnection: string;
-    title: string;
     politics: string;
-}> = ({ title, politics, constituency, politicsConnection }) => {
+    isFromCentral: boolean;
+    isLastPolitics: boolean;
+}> = ({ politics, constituency, politicsConnection, isFromCentral, isLastPolitics }) => {
     const [open, setOpen] = useState(false);
     const cardStyle = {
         boxShadow: 'box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.03)',
@@ -22,22 +23,32 @@ const PoliticsCard: FunctionComponent<{
             <Box p={1} onClick={() => setOpen(true)}>
                 <Box style={cardStyle} bgcolor="#fff">
                     <Box display="flex">
-                        <LabelIcon color="primary" />
-                        <Box mr={1}>
-                            <Typography variant="body2" color="primary">中選會公布</Typography>
-                        </Box>
+                    {
+                        isFromCentral && (
+                            <>
+                            <LabelIcon color="primary" />
+                            <Box mr={1}>
+                                <Typography variant="body2" color="primary">中選會公布</Typography>
+                            </Box>
+                            </>
+                        )
+                    }
+                    {
+                        isLastPolitics && (
                         <Typography variant="body2" color="textSecondary">
                             {`第 9 屆 區域立委 ${constituency}`}
                         </Typography>
+                        )
+                    }
                     </Box>
-                    <Typography>本次參選政見</Typography>
+                    <Typography>{isLastPolitics ? '上次' : '本次'}參選政見</Typography>
                     <Box color="rgba(0, 0, 0, 0.54);">
                         {`${politics.substring(0, 100)}...`}
                     </Box>
                 </Box>
             </Box>
             {open && (
-                <Dialog top={title} handleCloseClick={() => setOpen(false)}>
+                <Dialog top={(isLastPolitics ? '上次' : '本次') +'參選政見'} handleCloseClick={() => setOpen(false)}>
                     <Box overflow="auto">
                         <Alert>
                             <Typography variant="h5">
@@ -177,7 +188,8 @@ const Politic = ({
             <>
                 <Box>
                     <PoliticsCard
-                        title="本次參選政見"
+                        isFromCentral={false}
+                        isLastPolitics={false}
                         politicsConnection={politicsConnection}
                         constituency={constituency}
                         politics={politic}
