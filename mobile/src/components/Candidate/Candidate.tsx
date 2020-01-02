@@ -1,5 +1,4 @@
 import { Link, Typography, Box } from '@material-ui/core';
-import useScrollTrigger from '@material-ui/core/useScrollTrigger';
 import Tab from '@material-ui/core/Tab';
 import Tabs from '@material-ui/core/Tabs';
 import KeyboardArrowLeft from '@material-ui/icons/KeyboardArrowLeft';

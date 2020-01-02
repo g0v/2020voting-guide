@@ -1,7 +1,69 @@
-import { Box, Typography, Link } from '@material-ui/core';
-import React from 'react';
+import { Box, Typography, Link, DialogContent } from '@material-ui/core';
+import React, { useState, FunctionComponent } from 'react';
+import LabelIcon from '@material-ui/icons/Label';
 import Issue from '../Issue';
 import Alert from '../Alert';
+import Dialog from '../Dialog';
+
+const PoliticsCard: FunctionComponent<{
+    constituency: string;
+    politicsConnection: string;
+    title: string;
+    politics: string;
+}> = ({ title, politics, constituency, politicsConnection }) => {
+    const [open, setOpen] = useState(false);
+    const cardStyle = {
+        boxShadow: 'box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.03)',
+        borderRadius: '10px',
+        padding: '17px 18px 22px'
+    }
+    return (
+        <>
+            <Box p={1} onClick={() => setOpen(true)}>
+                <Box style={cardStyle} bgcolor="#fff">
+                    <Box display="flex">
+                        <LabelIcon color="primary" />
+                        <Box mr={1}>
+                            <Typography variant="body2" color="primary">中選會公布</Typography>
+                        </Box>
+                        <Typography variant="body2" color="textSecondary">
+                            {`第 9 屆 區域立委 ${constituency}`}
+                        </Typography>
+                    </Box>
+                    <Typography>本次參選政見</Typography>
+                    <Box color="rgba(0, 0, 0, 0.54);">
+                        {`${politics.substring(0, 100)}...`}
+                    </Box>
+                </Box>
+            </Box>
+            {open && (
+                <Dialog top={title} handleCloseClick={() => setOpen(false)}>
+                    <Box overflow="auto">
+                        <Alert>
+                            <Typography variant="h5">
+                                政見資料來自選前大補帖所搜集的{' '}
+                                <Link
+                                    href={politicsConnection}
+                                    target="_blank"
+                                    rel="noopener"
+                                >
+                                    <u>網路公開資料</u>
+                                </Link>
+                            </Typography>
+                        </Alert>
+                        <Box
+                            padding="0 20px 72px"
+                            color="rgba(0, 0, 0, 0.54)"
+                            whiteSpace="pre-line"
+                            lineHeight="160%">
+                            {politics}
+                        </Box>
+                    </Box>
+                </Dialog>
+            )}
+        </>
+    );
+};
 
 const EduExp = ({
     education,
@@ -86,10 +148,12 @@ const EduExp = ({
 
 const Politic = ({
     isRegional,
+    constituency,
     politic,
     politicsConnection
 }: {
     isRegional: boolean;
+    constituency: string;
     politic: string;
     politicsConnection: string;
 }) => (
@@ -111,28 +175,13 @@ const Politic = ({
             </>
         ) : politic ? (
             <>
-                <Alert>
-                    <Typography variant="h5">
-                        政見資料來自選前大補帖所搜集的{' '}
-                        <Link
-                            href={politicsConnection}
-                            target="_blank"
-                            rel="noopener"
-                        >
-                            <u>網路公開資料</u>
-                        </Link>
-                    </Typography>
-                </Alert>
-                <Box px={1.5} bgcolor="#FFFFFF" py={3}>
-                    {politic.split('\n').map(pol => (
-                        <Typography
-                            variant="h4"
-                            color="textSecondary"
-                            gutterBottom
-                        >
-                            {pol}
-                        </Typography>
-                    ))}
+                <Box>
+                    <PoliticsCard
+                        title="本次參選政見"
+                        politicsConnection={politicsConnection}
+                        constituency={constituency}
+                        politics={politic}
+                    />
                 </Box>
             </>
         ) : (
@@ -161,6 +210,7 @@ const Politic = ({
 
 const BasicInfoTab = ({
     padding,
+    constituency,
     education,
     experience,
     politic,
@@ -170,6 +220,7 @@ const BasicInfoTab = ({
     isRegional
 }: {
     experience: string;
+    constituency: string;
     education: string;
     politic: string;
     educationConnection: string;
@@ -189,6 +240,7 @@ const BasicInfoTab = ({
                 />
             )}
             <Politic
+                constituency={constituency}
                 isRegional={isRegional}
                 politic={politic}
                 politicsConnection={politicsConnection}
