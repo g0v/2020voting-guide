@@ -8,7 +8,7 @@
 
 ## Update method & last update date
 
-區域立委：2019/12/31
+區域立委：2020/01/02
 `crawler/candidate_xlsx`
 
 不分區立委：2019/12/31
