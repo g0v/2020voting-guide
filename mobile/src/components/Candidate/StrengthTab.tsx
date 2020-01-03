@@ -1,4 +1,4 @@
-import { Box, Link, Typography } from '@material-ui/core';
+import { Box, Link, Typography, Grid } from '@material-ui/core';
 import React from 'react';
 import Alert from '../Alert';
 import AdCard, { AdCardProp } from './AdCard';
@@ -212,108 +212,113 @@ const StrengthTab = ({
                         </Alert>
                     </>
                 ) : (
-                    <Box bgcolor="#F9F9F9" textAlign="center" pb={3}>
-                        <img
-                            width="150"
-                            height="150"
-                            src="/img/doll/empty_fanpage.svg"
-                            alt="沒有粉絲專頁"
-                        />
-                        <Box height={14} />
-                        <Typography variant="h4" gutterBottom>
-                            沒有粉專資料
+                        <Box bgcolor="#F9F9F9" textAlign="center" pb={3}>
+                            <img
+                                width="150"
+                                height="150"
+                                src="/img/doll/empty_fanpage.svg"
+                                alt="沒有粉絲專頁"
+                            />
+                            <Box height={14} />
+                            <Typography variant="h4" gutterBottom>
+                                沒有粉專資料
                         </Typography>
-                        <Typography variant="h5" color="textSecondary">
-                            選前大補帖目前沒有找到此候選人的粉絲專頁
+                            <Typography variant="h5" color="textSecondary">
+                                選前大補帖目前沒有找到此候選人的粉絲專頁
                         </Typography>
-                    </Box>
-                )}
+                        </Box>
+                    )}
 
                 <Box px={1} pb={1}>
-                    {ads.length ? (
-                        <Card>
-                            <Typography
-                                variant="h5"
-                                color="textSecondary"
-                                gutterBottom
-                            >
-                                {name}的粉專共投放了{ads.length}篇政治廣告貼文
+                    <Grid container spacing={1} alignItems="stretch">
+                        {ads.length ? (
+                            <Grid item xs={12}>
+                                <Card>
+                                    <Typography
+                                        variant="h5"
+                                        color="textSecondary"
+                                        gutterBottom
+                                    >
+                                        {name}的粉專共投放了{ads.length}篇政治廣告貼文
                             </Typography>
-                            <Box my={2}>
-                                <Typography
-                                    variant="h4"
-                                    color="textPrimary"
-                                    gutterBottom
-                                >
-                                    一則貼文平均
+                                    <Box my={2}>
+                                        <Typography
+                                            variant="h4"
+                                            color="textPrimary"
+                                            gutterBottom
+                                        >
+                                            一則貼文平均
                                 </Typography>
-                                <Box
-                                    display="flex"
-                                    alignContent="center"
-                                    color="#D4AF37"
-                                >
-                                    <Box width={42} textAlign="center">
-                                        <img alt="花費" src="/img/money.svg" />
+                                        <Box
+                                            display="flex"
+                                            alignContent="center"
+                                            color="#D4AF37"
+                                        >
+                                            <Box width={42} textAlign="center">
+                                                <img alt="花費" src="/img/money.svg" />
+                                            </Box>
+                                            <Box width={4} />
+                                            <Typography variant="h4">
+                                                {`花費 ${currencyAvgWording}`}
+                                            </Typography>
+                                        </Box>
+                                        <Box height={5} />
+                                        <Box display="flex" alignContent="center">
+                                            <Box width={42} textAlign="center">
+                                                <img alt="曝光" src="/img/eye.svg" />
+                                            </Box>
+                                            <Box width={4} />
+                                            <Typography
+                                                variant="h4"
+                                                color="textSecondary"
+                                            >
+                                                {`曝光 ${impressonAvgWording}`}
+                                            </Typography>
+                                        </Box>
                                     </Box>
-                                    <Box width={4} />
-                                    <Typography variant="h4">
-                                        {`花費 ${currencyAvgWording}`}
-                                    </Typography>
-                                </Box>
-                                <Box height={5} />
-                                <Box display="flex" alignContent="center">
-                                    <Box width={42} textAlign="center">
-                                        <img alt="曝光" src="/img/eye.svg" />
-                                    </Box>
-                                    <Box width={4} />
-                                    <Typography
-                                        variant="h4"
-                                        color="textSecondary"
-                                    >
-                                        {`曝光 ${impressonAvgWording}`}
-                                    </Typography>
-                                </Box>
-                            </Box>
-                            <Box my={2}>
-                                <Typography
-                                    variant="h4"
-                                    color="textPrimary"
-                                    gutterBottom
-                                >
-                                    競選期間共花費
+                                    <Box my={2}>
+                                        <Typography
+                                            variant="h4"
+                                            color="textPrimary"
+                                            gutterBottom
+                                        >
+                                            競選期間共花費
                                 </Typography>
-                                <Box
-                                    display="flex"
-                                    alignContent="center"
-                                    color="#D4AF37"
-                                >
-                                    <Box width={42} textAlign="center">
-                                        <img alt="花費" src="/img/money.svg" />
+                                        <Box
+                                            display="flex"
+                                            alignContent="center"
+                                            color="#D4AF37"
+                                        >
+                                            <Box width={42} textAlign="center">
+                                                <img alt="花費" src="/img/money.svg" />
+                                            </Box>
+                                            <Box width={4} />
+                                            <Typography variant="h4">
+                                                {`花費 ${currencySumWording}`}
+                                            </Typography>
+                                        </Box>
+                                        <Box height={5} />
+                                        <Box display="flex" alignContent="center">
+                                            <Box width={42} textAlign="center">
+                                                <img alt="曝光" src="/img/eye.svg" />
+                                            </Box>
+                                            <Box width={4} />
+                                            <Typography
+                                                variant="h4"
+                                                color="textSecondary"
+                                            >
+                                                {`曝光 ${impressonSumWording}`}
+                                            </Typography>
+                                        </Box>
                                     </Box>
-                                    <Box width={4} />
-                                    <Typography variant="h4">
-                                        {`花費 ${currencySumWording}`}
-                                    </Typography>
-                                </Box>
-                                <Box height={5} />
-                                <Box display="flex" alignContent="center">
-                                    <Box width={42} textAlign="center">
-                                        <img alt="曝光" src="/img/eye.svg" />
-                                    </Box>
-                                    <Box width={4} />
-                                    <Typography
-                                        variant="h4"
-                                        color="textSecondary"
-                                    >
-                                        {`曝光 ${impressonSumWording}`}
-                                    </Typography>
-                                </Box>
-                            </Box>
-                        </Card>
-                    ) : null}
-                    {ads.map((ad: AdCardProp) => (
-                        <AdCard {...ad} key={ad.AD_ID} />
-                    ))}
+                                </Card></Grid>
+                        ) : null}
+                        {ads.map((ad: AdCardProp) => (
+                            <Grid item xs={12} sm={6}>
+                                <AdCard {...ad} key={ad.AD_ID} />
+                            </Grid>
+                        ))}
+                    </Grid>
                 </Box>
             </Box>
 
