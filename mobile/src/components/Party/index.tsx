@@ -5,7 +5,7 @@ import KeyboardArrowLeft from '@material-ui/icons/KeyboardArrowLeft';
 import React, { useEffect } from 'react';
 import { RouteComponentProps } from 'react-router';
 import partyInfos from '../../data/party.json';
-import partyCandidates from '../../data/party_candidates.json';
+import partyCandidates from '../../data/party_candidates_integrated.json';
 import partyPolitics2016 from '../../data/party_politics_2016.json';
 import partyPolitics2020 from '../../data/party_politics_2020.json';
 import partyPolitics2020Cec from '../../data/party_politics_2020_cec.json';

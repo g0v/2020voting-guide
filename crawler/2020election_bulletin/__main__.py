@@ -46,7 +46,9 @@ def party_candidates():
     df["age"] = df["date_of_birth"].apply(caculate_age)
     df["education"] = df["education"].str.replace("、", "\n").str.strip()
     df["educationConnection"] = "選舉公報"
-    df["experience"] = df["experience"].str.replace("\n ", "\n").str.replace("\n\n", "\n").str.strip()
+    df["experience"] = (
+        df["experience"].str.replace("、", "\n").str.replace("\n ", "\n").str.replace("\n\n", "\n").str.strip()
+    )
     df["experienceConnection"] = "選舉公報"
 
     # j = df.to_json(force_ascii=False, orient="records")
