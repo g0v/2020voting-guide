@@ -193,6 +193,7 @@ const IssueBillTab: FunctionComponent<{
                                 isDesktop={isDesktop}
                                 selected={selectedIssue}
                                 selectIssue={selectIssue}
+                                updateSelectedIssue={updateSelectedIssue}
                                 complete={handleComplete}
                                 bills={bills}
                             />
@@ -225,6 +226,7 @@ const IssueBillTab: FunctionComponent<{
                         isDesktop={isDesktop}
                         selected={selectedIssue}
                         selectIssue={selectIssue}
+                        updateSelectedIssue={updateSelectedIssue}
                         complete={handleComplete}
                         bills={bills}
                     />

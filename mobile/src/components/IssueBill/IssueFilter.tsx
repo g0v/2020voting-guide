@@ -1,4 +1,13 @@
-import { AppBar, Box, Button, Dialog, Fab, IconButton, Toolbar, Typography } from '@material-ui/core';
+import {
+    AppBar,
+    Box,
+    Button,
+    Dialog,
+    Fab,
+    IconButton,
+    Toolbar,
+    Typography
+} from '@material-ui/core';
 import { createStyles, makeStyles, Theme } from '@material-ui/core/styles';
 import CloseIcon from '@material-ui/icons/Close';
 import CheckCircleOutlineIcon from '@material-ui/icons/CheckCircleOutline';
@@ -7,6 +16,15 @@ import FilterListIcon from '@material-ui/icons/FilterList';
 import React from 'react';
 import issues from '../../data/issues.json';
 import { Bill } from './index';
+import kols from '../../data/kol.json';
+
+interface Kol {
+    name: string;
+    photo: string;
+    os: string;
+    background: string;
+    issues: string[];
+}
 
 const useStyles = makeStyles((theme: Theme) =>
     createStyles({
@@ -50,30 +68,37 @@ const useStyles = makeStyles((theme: Theme) =>
             flex: 1
         },
         checkbox: {
-            textAlign: "left",
-            lineHeight: "1.2",
+            textAlign: 'left',
+            lineHeight: '1.2',
             position: 'absolute',
             top: '4px',
             left: '4px'
         },
         issueButtonWrapper: {
-            width: (props:any) => `calc((100% - ${4 * 2 * (props.length)}px) / ${props.length})`,
+            width: (props: any) =>
+                `calc((100% - ${4 * 2 * props.length}px) / ${props.length})`
         },
         issueButton: {
-            width:'100%',
+            width: '100%',
             height: 100,
             display: 'flex',
-            border: (props:any) => props.active ? 'none' : '1px solid rgba(49, 153, 186, 0.41)',
+            border: (props: any) =>
+                props.active ? 'none' : '1px solid rgba(49, 153, 186, 0.41)',
             padding: '6px',
-            background: (props:any) => props.active ? 'rgba(49, 153, 186, 0.2)' : '#fff'
+            background: (props: any) =>
+                props.active ? 'rgba(49, 153, 186, 0.2)' : '#fff'
         },
         issueButtonTitle: {
             color: '#222222',
-            lineHeight: "1.2",
+            lineHeight: '1.2',
             height: '38px',
             display: 'flex',
             justifyContent: 'center',
             alignItems: 'center'
+        },
+        active: {},
+        inactive: {
+            opacity: 0.7
         }
     })
 );
@@ -81,6 +106,7 @@ const useStyles = makeStyles((theme: Theme) =>
 const IssueFilter = ({
     selected,
     selectIssue,
+    updateSelectedIssue,
     complete,
     bills,
     isDesktop
@@ -88,6 +114,7 @@ const IssueFilter = ({
     isDesktop: boolean;
     selected: string[];
     selectIssue: (issue: string) => void;
+    updateSelectedIssue: (issues: string[]) => void;
     complete: () => void;
     bills: Bill[];
 }) => {
@@ -104,6 +131,9 @@ const IssueFilter = ({
         setOpen(false);
     };
 
+    const [active, setActive] = React.useState('自選');
+    const activeKol = kols.filter(kol => kol.name === active)[0];
+
     return (
         <>
             <Fab
@@ -113,35 +143,181 @@ const IssueFilter = ({
                 onClick={handleClickOpen}
                 className={isDesktop ? classes.desktopFab : classes.fab}
             >
-                {!isDesktop && 
+                {!isDesktop && (
                     <FilterListIcon
                         fontSize="small"
                         className={classes.extendedIcon}
                     />
-                }
-                {
-                    selected.length ? `${selected.length} 個議題` : '篩選議題'
-                }
+                )}
+                {selected.length ? `${selected.length} 個議題` : '篩選議題'}
             </Fab>
             {open ? (
-                <AppBar className={classes.appBar}>
-                    <Toolbar>
-                        <IconButton
-                            edge="start"
-                            color="inherit"
-                            onClick={handleClose}
-                            aria-label="close"
-                        >
-                            <CloseIcon />
-                        </IconButton>
-                        <Typography variant="h6" className={classes.title}>
-                            篩選議題 {selected.length} 個
-                        </Typography>
-                    </Toolbar>
-                </AppBar>
+                <>
+                    <AppBar className={classes.appBar}>
+                        <Toolbar>
+                            <IconButton
+                                edge="start"
+                                color="inherit"
+                                onClick={handleClose}
+                                aria-label="close"
+                            >
+                                <CloseIcon />
+                            </IconButton>
+                            <Typography variant="h6" className={classes.title}>
+                                篩選議題 {selected.length} 個
+                            </Typography>
+                        </Toolbar>
+                    </AppBar>
+                </>
             ) : null}
             <Dialog fullScreen open={open} onClose={handleClose}>
-                <Box py={5}>
+                <Box pb={2}>
+                    <Box height={isDesktop ? 64 : 56} />
+                    <Box
+                        position="fixed"
+                        bgcolor="#FFFFFF"
+                        height={159}
+                        width="100%"
+                        zIndex={2001}
+                    >
+                        <Box pt={3} display="flex">
+                            <Box width={20} />
+                            <Box
+                                mx={1.5}
+                                onClick={() => setActive('自選')}
+                                textAlign="center"
+                                className={
+                                    active !== '自選'
+                                        ? classes.inactive
+                                        : undefined
+                                }
+                            >
+                                <Box
+                                    height={68}
+                                    width={68}
+                                    border={
+                                        active === '自選'
+                                            ? '3px solid #EC502B'
+                                            : '3px solid #FFFFFF'
+                                    }
+                                    borderRadius="50%"
+                                >
+                                    <img
+                                        height="68px"
+                                        width="68px"
+                                        src="/img/kol/custom.svg"
+                                        alt="自選"
+                                    />
+                                </Box>
+                                <Box height={12} />
+                                <Typography variant="h4">{'自選'}</Typography>
+                            </Box>
+                            {kols.map(kol => (
+                                <Box
+                                    mx={1.5}
+                                    onClick={() => {
+                                        setActive(kol.name);
+                                        updateSelectedIssue(kol.issues);
+                                    }}
+                                    textAlign="center"
+                                    className={
+                                        active !== kol.name
+                                            ? classes.inactive
+                                            : undefined
+                                    }
+                                >
+                                    <Box
+                                        height={68}
+                                        width={68}
+                                        border={
+                                            active === kol.name
+                                                ? '3px solid #EC502B'
+                                                : '3px solid #FFFFFF'
+                                        }
+                                        borderRadius="50%"
+                                    >
+                                        <img
+                                            height="68px"
+                                            width="68px"
+                                            src={kol.photo}
+                                            alt={kol.name}
+                                        />
+                                    </Box>
+                                    <Box height={12} />
+                                    <Typography variant="h4">
+                                        {kol.name}
+                                    </Typography>
+                                </Box>
+                            ))}
+                        </Box>
+                    </Box>
+                    <Box height={159} />
+                    {activeKol && (
+                        <Box>
+                            <Box
+                                py={1}
+                                px={1}
+                                display="flex"
+                                justifyContent="center"
+                                color="#EC502B"
+                            >
+                                <Box
+                                    width={31}
+                                    height={26}
+                                    pr={1}
+                                    alignSelf="flex-start"
+                                >
+                                    <img src="/img/kol/left_quote.png" />
+                                </Box>
+                                <Box alignSelf="center">
+                                    <Typography variant="h3">
+                                        {activeKol.os}
+                                    </Typography>
+                                </Box>
+                                <Box
+                                    width={31}
+                                    height={26}
+                                    alignSelf="flex-end"
+                                >
+                                    <img
+                                        src="/img/kol/right_quote.png"
+                                        width={31}
+                                        height={26}
+                                    />
+                                </Box>
+                            </Box>
+                            <Box py={2} px={2}>
+                                <Typography
+                                    variant="h5"
+                                    color="textPrimary"
+                                    paragraph
+                                >
+                                    {activeKol.background}
+                                </Typography>
+                                <Typography
+                                    variant="h5"
+                                    color="textPrimary"
+                                    paragraph
+                                >
+                                    {activeKol.issues.join('、')}
+                                </Typography>
+                            </Box>
+                        </Box>
+                    )}
+                    <Box
+                        bgcolor="#F7F7F7"
+                        py={1.5}
+                        px={2}
+                        display="flex"
+                        flexDirection="row-reverse"
+                        position="sticky"
+                        top={isDesktop ? 159 + 64 : 159 + 56}
+                        zIndex={2000}
+                    >
+                        <Typography variant="h5" color="primary">
+                            <b>此候選人提案數</b>
+                        </Typography>
+                    </Box>
                     {Object.entries(issues).map(([category, issues]) => {
                         return (
                             <Box mt={4} mb={4} key={category}>
@@ -158,31 +334,63 @@ const IssueFilter = ({
                                     flexWrap="wrap"
                                 >
                                     {issues.map(issue => (
-                                        <Box m={0.5} display="block"
-                                            className={classesProps({
-                                                length: (window.innerWidth < 414) ? 3 : (window.innerWidth < 767 ? 6 : 10)
-                                            }).issueButtonWrapper}>
+                                        <Box
+                                            m={0.5}
+                                            display="block"
+                                            className={
+                                                classesProps({
+                                                    length:
+                                                        window.innerWidth < 414
+                                                            ? 3
+                                                            : window.innerWidth <
+                                                              767
+                                                            ? 6
+                                                            : 10
+                                                }).issueButtonWrapper
+                                            }
+                                        >
                                             <Button
                                                 color="primary"
-                                                className={classesProps({
-                                                    active: selected.includes(issue)
-                                                }).issueButton}
+                                                className={
+                                                    classesProps({
+                                                        active: selected.includes(
+                                                            issue
+                                                        )
+                                                    }).issueButton
+                                                }
                                                 onClick={() => {
                                                     selectIssue(issue);
+                                                    setActive('自選');
                                                 }}
                                             >
-                                                <Box className={classesProps().checkbox}>
-                                                    {
-                                                        selected.includes(issue) ? (
-                                                            <CheckCircleIcon style={{ color: '#3199BA' }} />
-                                                        ) : (
-                                                            <CheckCircleOutlineIcon style={{ color: 'rgba(49, 153, 186, 0.4)' }} />
-                                                        )
+                                                <Box
+                                                    className={
+                                                        classesProps().checkbox
                                                     }
+                                                >
+                                                    {selected.includes(
+                                                        issue
+                                                    ) ? (
+                                                        <CheckCircleIcon
+                                                            style={{
+                                                                color: '#3199BA'
+                                                            }}
+                                                        />
+                                                    ) : (
+                                                        <CheckCircleOutlineIcon
+                                                            style={{
+                                                                color:
+                                                                    'rgba(49, 153, 186, 0.4)'
+                                                            }}
+                                                        />
+                                                    )}
                                                 </Box>
                                                 <Typography
                                                     variant="h4"
-                                                    className={classes.issueButtonTitle}>
+                                                    className={
+                                                        classes.issueButtonTitle
+                                                    }
+                                                >
                                                     {issue}
                                                 </Typography>
                                                 <Typography
@@ -193,13 +401,15 @@ const IssueFilter = ({
                                                         bottom: '8px',
                                                         fontFamily: 'Roboto',
                                                         fontWeight: 600
-                                                    }}>
-                                                {
-                                                    bills.filter(
-                                                        ({ category }) =>
-                                                            category === issue
-                                                    ).length
-                                                }
+                                                    }}
+                                                >
+                                                    {
+                                                        bills.filter(
+                                                            ({ category }) =>
+                                                                category ===
+                                                                issue
+                                                        ).length
+                                                    }
                                                 </Typography>
                                             </Button>
                                         </Box>
@@ -212,7 +422,10 @@ const IssueFilter = ({
             </Dialog>
             {open ? (
                 <Box
-                    className={isDesktop ? classes.desktopBottomBar : classes.bottomBar}>
+                    className={
+                        isDesktop ? classes.desktopBottomBar : classes.bottomBar
+                    }
+                >
                     <Toolbar>
                         <Button
                             variant="contained"
