@@ -8,6 +8,7 @@ import partyInfos from '../../data/party.json';
 import partyCandidates from '../../data/party_candidates.json';
 import partyPolitics2016 from '../../data/party_politics_2016.json';
 import partyPolitics2020 from '../../data/party_politics_2020.json';
+import partyPolitics2020Cec from '../../data/party_politics_2020_cec.json';
 import partyPositions from '../../data/party_positions.json';
 import { Bill } from '../IssueBill';
 import IssueBillTab from '../IssueBillTab';
@@ -60,6 +61,13 @@ const Party = ({ match }: RouteComponentProps<{ party: string }>) => {
     const currentPartyPolitics = partyPolitics2020.find(p => p.name === party);
     const currentPolitics = currentPartyPolitics
         ? currentPartyPolitics.politics
+        : '';
+
+    const currentPartyPoliticsCec = partyPolitics2020Cec.find(
+        p => p.name === party
+    );
+    const currentPoliticsCec = currentPartyPoliticsCec
+        ? currentPartyPoliticsCec.politics
         : '';
 
     return (
@@ -126,6 +134,7 @@ const Party = ({ match }: RouteComponentProps<{ party: string }>) => {
                     party={party}
                     lastPolitics={lastPolitics}
                     currentPolitics={currentPolitics}
+                    currentPoliticsCec={currentPoliticsCec}
                     positions={positions}
                 />
             )}

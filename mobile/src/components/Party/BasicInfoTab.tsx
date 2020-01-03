@@ -1,6 +1,7 @@
 import React, { useState, FunctionComponent } from 'react';
 import { DialogContent, Typography, Avatar, Box } from '@material-ui/core';
 import { Position } from './types';
+import LabelIcon from '@material-ui/icons/Label';
 import Card from '../Card';
 import Dialog from '../Dialog';
 
@@ -9,6 +10,7 @@ interface Props {
     positions: Position[];
     lastPolitics: string;
     currentPolitics: string;
+    currentPoliticsCec: string;
 }
 
 const Title: FunctionComponent<{ name: string }> = ({ name }) => (
@@ -57,16 +59,29 @@ const PoliticsCard: FunctionComponent<{
     num: number;
     title: string;
     politics: string;
-}> = ({ party, num, title, politics }) => {
+    isFromCentral?: boolean;
+}> = ({ party, num, title, politics, isFromCentral = false }) => {
     const [open, setOpen] = useState(false);
     return (
         <>
             <Box p={1} onClick={() => setOpen(true)}>
                 <Card>
-                    <Box mb={1}>
-                        <Typography variant="body2" color="textSecondary">
-                            {`第 ${num} 屆 不分區立委選舉`}
-                        </Typography>
+                    <Box display="flex">
+                        {isFromCentral && (
+                            <>
+                                <LabelIcon color="primary" fontSize="small" />
+                                <Box ml={0.5} mr={1}>
+                                    <Typography variant="body2" color="primary">
+                                        中選會公布
+                                    </Typography>
+                                </Box>
+                            </>
+                        )}
+                        <Box mb={1}>
+                            <Typography variant="body2" color="textSecondary">
+                                {`第 ${num} 屆 不分區立委選舉`}
+                            </Typography>
+                        </Box>
                     </Box>
                     <Box display="flex" alignItems="center" mb={0.5}>
                         <Typography> {title}</Typography>
@@ -82,7 +97,17 @@ const PoliticsCard: FunctionComponent<{
             {open && (
                 <Dialog top={title} handleCloseClick={() => setOpen(false)}>
                     <DialogContent>
-                        <Box pb="72px">{politics}</Box>
+                        <Box pb="72px">
+                            {politics.split('\n').map(politic => (
+                                <Typography
+                                    variant="h4"
+                                    color="textSecondary"
+                                    gutterBottom
+                                >
+                                    {politic}
+                                </Typography>
+                            ))}
+                        </Box>
                     </DialogContent>
                 </Dialog>
             )}
@@ -94,6 +119,7 @@ const BasicInfoTab: FunctionComponent<Props> = ({
     party = '',
     lastPolitics = '',
     currentPolitics = '',
+    currentPoliticsCec = '',
     positions
 }) => {
     return (
@@ -105,16 +131,25 @@ const BasicInfoTab: FunctionComponent<Props> = ({
                 ))}
             </FullCard>
             <Title name="政見" />
+            {currentPoliticsCec && (
+                <PoliticsCard
+                    num={10}
+                    title="本屆參選政見"
+                    politics={currentPoliticsCec}
+                    party={party}
+                    isFromCentral={true}
+                />
+            )}
             {currentPolitics && (
                 <PoliticsCard
-                    num={11}
+                    num={10}
                     title="本屆參選政見"
                     politics={currentPolitics}
                 />
             )}
             {lastPolitics && (
                 <PoliticsCard
-                    num={10}
+                    num={9}
                     title="上屆參選政見"
                     politics={lastPolitics}
                     party={party}

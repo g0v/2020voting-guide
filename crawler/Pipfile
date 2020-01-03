@@ -19,6 +19,7 @@ PyMySQL = "*"
 SPARQLWrapper = "*"
 pandas = "*"
 loguru = "*"
+xlrd = "*"
 
 [requires]
 python_version = "3.7"
