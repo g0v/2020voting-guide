@@ -6,7 +6,8 @@ import {
     Fab,
     IconButton,
     Toolbar,
-    Typography
+    Typography,
+    Divider
 } from '@material-ui/core';
 import { createStyles, makeStyles, Theme } from '@material-ui/core/styles';
 import CloseIcon from '@material-ui/icons/Close';
@@ -179,9 +180,9 @@ const IssueFilter = ({
                         height={159}
                         width="100%"
                         zIndex={2001}
+                        borderBottom="1px solid #F7F7F7"
                     >
-                        <Box pt={3} display="flex">
-                            <Box width={20} />
+                        <Box pt={3} px={2} display="flex">
                             <Box
                                 mx={1.5}
                                 onClick={() => setActive('自選')}
@@ -253,7 +254,7 @@ const IssueFilter = ({
                     </Box>
                     <Box height={159} />
                     {activeKol && (
-                        <Box>
+                        <Box pt={2}>
                             <Box
                                 py={1}
                                 px={1}
@@ -310,9 +311,6 @@ const IssueFilter = ({
                         px={2}
                         display="flex"
                         flexDirection="row-reverse"
-                        position="sticky"
-                        top={isDesktop ? 159 + 64 : 159 + 56}
-                        zIndex={2000}
                     >
                         <Typography variant="h5" color="primary">
                             <b>此候選人提案數</b>
