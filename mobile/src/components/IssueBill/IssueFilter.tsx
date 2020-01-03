@@ -172,7 +172,7 @@ const IssueFilter = ({
                 </>
             ) : null}
             <Dialog fullScreen open={open} onClose={handleClose}>
-                <Box pb={2}>
+                <Box pb={5}>
                     <Box height={isDesktop ? 64 : 56} />
                     <Box
                         position="fixed"
