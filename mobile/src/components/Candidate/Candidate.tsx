@@ -119,7 +119,7 @@ const CandidatePage = ({ match }: CandidatePage) => {
 
     const [candidate, setCandidate] = useState<CandidateType>(CandidateDefault);
     const [bills, setBills] = useState<Bill[]>([]);
-    const isRegional = constituency !== '不分區';
+    const isRegional = constituency !== undefined;
 
     const billsURL = isRegional
         ? `/api/bills/${constituency}/${name}`
@@ -140,13 +140,13 @@ const CandidatePage = ({ match }: CandidatePage) => {
             );
             setCandidate(candidate || CandidateDefault);
         }
-    }, [name, constituency, isRegional, party]);
+    }, []);
 
     useEffect(() => {
         fetch(billsURL)
             .then(res => res.json())
             .then(setBills);
-    }, [billsURL]);
+    }, []);
 
     const county_list = county_constituency.filter(county =>
         county.area.includes(constituency || '')
