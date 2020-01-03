@@ -5,7 +5,7 @@ import KeyboardArrowLeft from '@material-ui/icons/KeyboardArrowLeft';
 import React, { FunctionComponent, useEffect, useState } from 'react';
 import Alert from '../Alert';
 import { Bill } from '../IssueBill';
-import partyCandidate from '../../data/party_candidates.json';
+import partyCandidate from '../../data/party_candidates_integrated.json';
 import IssueBillTab from '../IssueBillTab';
 import Nav from './Nav';
 import NoInfoTab from './NoInfoTab';

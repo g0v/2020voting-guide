@@ -11,44 +11,53 @@ const PoliticsCard: FunctionComponent<{
     politics: string;
     isFromCentral: boolean;
     isLastPolitics: boolean;
-}> = ({ politics, constituency, politicsConnection, isFromCentral, isLastPolitics }) => {
+}> = ({
+    politics,
+    constituency,
+    politicsConnection,
+    isFromCentral,
+    isLastPolitics
+}) => {
     const [open, setOpen] = useState(false);
     const cardStyle = {
         boxShadow: 'box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.03)',
         borderRadius: '10px',
         padding: '17px 18px 22px'
-    }
+    };
     return (
         <>
             <Box p={1} onClick={() => setOpen(true)}>
                 <Box style={cardStyle} bgcolor="#fff">
                     <Box display="flex">
-                    {
-                        isFromCentral && (
+                        {isFromCentral && (
                             <>
-                            <LabelIcon color="primary" />
-                            <Box mr={1}>
-                                <Typography variant="body2" color="primary">中選會公布</Typography>
-                            </Box>
+                                <LabelIcon color="primary" />
+                                <Box mr={1}>
+                                    <Typography variant="body2" color="primary">
+                                        中選會公布
+                                    </Typography>
+                                </Box>
                             </>
-                        )
-                    }
-                    {
-                        isLastPolitics && (
-                        <Typography variant="body2" color="textSecondary">
-                            {`第 9 屆 區域立委 ${constituency}`}
-                        </Typography>
-                        )
-                    }
+                        )}
+                        {isLastPolitics && (
+                            <Typography variant="body2" color="textSecondary">
+                                {`第 9 屆 區域立委 ${constituency}`}
+                            </Typography>
+                        )}
                     </Box>
-                    <Typography>{isLastPolitics ? '上次' : '本次'}參選政見</Typography>
+                    <Typography>
+                        {isLastPolitics ? '上次' : '本次'}參選政見
+                    </Typography>
                     <Box color="rgba(0, 0, 0, 0.54);">
                         {`${politics.substring(0, 100)}...`}
                     </Box>
                 </Box>
             </Box>
             {open && (
-                <Dialog top={(isLastPolitics ? '上次' : '本次') +'參選政見'} handleCloseClick={() => setOpen(false)}>
+                <Dialog
+                    top={(isLastPolitics ? '上次' : '本次') + '參選政見'}
+                    handleCloseClick={() => setOpen(false)}
+                >
                     <Box overflow="auto">
                         <Alert>
                             <Typography variant="h5">
@@ -66,7 +75,8 @@ const PoliticsCard: FunctionComponent<{
                             padding="0 20px 72px"
                             color="rgba(0, 0, 0, 0.54)"
                             whiteSpace="pre-line"
-                            lineHeight="160%">
+                            lineHeight="160%"
+                        >
                             {politics}
                         </Box>
                     </Box>
@@ -77,11 +87,13 @@ const PoliticsCard: FunctionComponent<{
 };
 
 const EduExp = ({
+    isRegional,
     education,
     experience,
     educationConnection,
     experienceConnection
 }: {
+    isRegional: boolean;
     experience: string;
     education: string;
     educationConnection: string;
@@ -93,7 +105,28 @@ const EduExp = ({
                 <Issue name="學歷 / 經歷" />
             </Box>
             <Alert>
-                {education && (
+                {isRegional ? null : (
+                    <>
+                        <Typography
+                            variant="h5"
+                            color="textSecondary"
+                            gutterBottom
+                        >
+                            學經歷與標註為中選會政見，資料來源為中選會。若有差異，以中選會公告資料為準。
+                        </Typography>
+                        <Typography variant="h5" gutterBottom>
+                            資料來源：{' '}
+                            <Link
+                                href="https://2020.cec.gov.tw/index.html"
+                                target="_blank"
+                                rel="noopener"
+                            >
+                                <u>中央選舉委員會</u>
+                            </Link>
+                        </Typography>
+                    </>
+                )}
+                {isRegional && education && (
                     <Typography variant="h5" gutterBottom>
                         學歷資料來自選前大補帖所搜集的{' '}
                         <Link
@@ -105,7 +138,7 @@ const EduExp = ({
                         </Link>
                     </Typography>
                 )}
-                {experience && (
+                {isRegional && experience && (
                     <Typography variant="h5">
                         經歷資料來自選前大補帖所搜集的{' '}
                         <Link
@@ -245,6 +278,7 @@ const BasicInfoTab = ({
         <Box bgcolor="#F7F7F7" style={padding}>
             {(education || experience) && (
                 <EduExp
+                    isRegional={isRegional}
                     education={education}
                     experience={experience}
                     educationConnection={educationConnection}

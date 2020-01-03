@@ -23,7 +23,7 @@ const useStyles = makeStyles({
 });
 
 function filterExperience(s: string) {
-    return s.split('\n')[0].replace(/;/, '');
+    return s.split('\n').join('、');
 }
 
 const Rank: FunctionComponent<{ rank: number }> = ({ rank }) => (
@@ -59,7 +59,7 @@ const Current = () => {
 const Description: FunctionComponent<{ description: string }> = ({
     description
 }) => (
-    <Typography variant="body2" color="textSecondary">
+    <Typography variant="body2" color="textSecondary" noWrap>
         {description}
     </Typography>
 );
@@ -87,8 +87,8 @@ const Item: FunctionComponent<{ candidate: Candidate }> = ({ candidate }) => {
         <ListItem
             divider
             disableGutters
-			component="a"
-			button
+            component="a"
+            button
             href={`/party/${candidate.party}/candidate/${candidate.name}`}
         >
             <Box width="100%" display="flex" alignItems="center">
@@ -97,7 +97,7 @@ const Item: FunctionComponent<{ candidate: Candidate }> = ({ candidate }) => {
                         {candidate.name.charAt(0)}
                     </Avatar>
                 </Box>
-                <Box flexGrow={1}>
+                <Box flexGrow={1} overflow="hidden" textOverflow="ellipsis">
                     <Box display="flex" alignItems="center">
                         <Rank rank={candidate.rank} />
                         <Name name={candidate.name} />
