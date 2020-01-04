@@ -62,9 +62,10 @@ const Party = ({
         fetch(`/api/party/${party}`)
             .then(res => res.json())
             .then(data => {
+                const bills = data.bills || [];
                 const nonRegionalBills: Bill[] =
                     (partyNonRegionalBills as any)[party] || [];
-                setBills([...data.bills, ...nonRegionalBills]);
+                setBills([...bills, ...nonRegionalBills]);
             });
     }, [party]);
 
