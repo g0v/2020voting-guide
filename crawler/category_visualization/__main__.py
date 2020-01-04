@@ -35,4 +35,5 @@ for item in items:
         store[item["category"]][item["party"]] = []
     store[item["category"]][item["party"]] += [meta]
 
-print(json.dumps(store, ensure_ascii=False, indent=2))
+with open("./category_visualization/vis.json", "w") as fp:
+    json.dump(store, fp, ensure_ascii=False, indent=2)
