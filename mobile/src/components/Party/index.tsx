@@ -91,7 +91,9 @@ const Party = ({ match }: RouteComponentProps<{ party: string }>) => {
                         {`${partyInfo.name} `}
                     </Typography>
                 </Box>
-                <Seats num={partyInfo.electedPersonNum} />
+                {partyInfo.electedPersonNum > 0 && (
+                    <Seats num={partyInfo.electedPersonNum} />
+                )}
             </Box>
             <Nav
                 logo={partyInfo.logo}
