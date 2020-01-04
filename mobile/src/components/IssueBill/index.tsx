@@ -1,6 +1,7 @@
 import { Box } from '@material-ui/core';
 import React from 'react';
 import CaucusBill from './CaucusBillCard';
+import BillCard from './BillCard';
 import './IssueBill.scss';
 import PersonalBill from './PersonalBillCard';
 import Issue from '../Issue';
@@ -32,9 +33,14 @@ const IssueBill = ({ issue, bills }: IssueBillProps) => {
     const legislatorBill = bills.filter(
         bill => bill.proposerType === '立委提案'
     );
+
     const caucusBills = bills
         .filter(bill => bill.proposerType === '黨團提案')
         .sort((billA, billB) => (billA.name > billB.name ? 0 : -1));
+
+    const nonRegionalBills = bills.filter(
+        bill => bill.proposerType === '不分區立委提案'
+    );
 
     return (
         <>
@@ -44,6 +50,9 @@ const IssueBill = ({ issue, bills }: IssueBillProps) => {
                     <PersonalBill {...bill} key={bill.billNo + i} />
                 ))}
                 {caucusBills.length ? <CaucusBill bills={caucusBills} /> : null}
+                {nonRegionalBills.length ? (
+                    <BillCard title="不分區類委提案" bills={nonRegionalBills} />
+                ) : null}
             </Box>
         </>
     );

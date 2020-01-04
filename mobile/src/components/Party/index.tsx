@@ -10,6 +10,7 @@ import partyCandidates from '../../data/party_candidates_integrated.json';
 import partyPolitics2016 from '../../data/party_politics_2016.json';
 import partyPolitics2020 from '../../data/party_politics_2020.json';
 import partyPolitics2020Cec from '../../data/party_politics_2020_cec.json';
+import partyNonRegionalBills from '../../data/party_nonregional_bills.json';
 import partyPositions from '../../data/party_positions.json';
 import useTimeout from '../../hooks/useTimeout';
 import { gaEvent } from '../../utils';
@@ -58,10 +59,14 @@ const Party = ({
         })[party] || [];
 
     useEffect(() => {
-        fetch(`/api/party/${match.params.party}`)
+        fetch(`/api/party/${party}`)
             .then(res => res.json())
-            .then(party => setBills(party.bills));
-    }, [match.params.party]);
+            .then(data => {
+                const nonRegionalBills: Bill[] =
+                    (partyNonRegionalBills as any)[party] || [];
+                setBills([...data.bills, ...nonRegionalBills]);
+            });
+    }, [party]);
 
     const updateLocationHref = React.useCallback((idx: number) => {
         window.history.replaceState(
