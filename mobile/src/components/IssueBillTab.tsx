@@ -56,12 +56,14 @@ const useStyles = makeStyles((theme: Theme) =>
 );
 
 const IssueList: FunctionComponent<{
+    isParty?: boolean;
     filteredIssue: Array<string>;
     selectedIssue: string[];
     bills: Bill[];
     selectIssue: (issue: string) => void;
     handleComplete: () => void;
 }> = ({
+    isParty = false,
     children,
     filteredIssue,
     bills,
@@ -95,6 +97,7 @@ const IssueList: FunctionComponent<{
                             style={{ cursor: 'pointer' }}
                         >
                             <IssueBill
+                                isParty={isParty}
                                 key={`${issue.issue}${i}`}
                                 issue={issue.issue}
                                 bills={issue.bills}
@@ -215,6 +218,7 @@ const IssueBillTab: FunctionComponent<{
             ) : (
                 <React.Fragment>
                     <IssueList
+                        isParty={isParty}
                         filteredIssue={filteredIssue}
                         selectedIssue={selectedIssue}
                         bills={bills}
