@@ -120,7 +120,6 @@ const IssueBillTab: FunctionComponent<{
     isDesktop = false,
     children
 }) => {
-	console.log(bills)
     const classes = useStyles();
 
     const [selectedIssue, updateSelectedIssue] = React.useState([] as string[]);
