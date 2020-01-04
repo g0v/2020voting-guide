@@ -27,9 +27,10 @@ export interface Bill {
 interface IssueBillProps {
     issue: string;
     bills: Bill[];
+    isParty?: boolean;
 }
 
-const IssueBill = ({ issue, bills }: IssueBillProps) => {
+const IssueBill = ({ issue, bills, isParty = false }: IssueBillProps) => {
     const legislatorBill = bills.filter(
         bill => bill.proposerType === '立委提案'
     );
@@ -49,7 +50,15 @@ const IssueBill = ({ issue, bills }: IssueBillProps) => {
                 {legislatorBill.map((bill, i) => (
                     <PersonalBill {...bill} key={bill.billNo + i} />
                 ))}
-                {caucusBills.length ? <CaucusBill bills={caucusBills} /> : null}
+                {caucusBills.length ? (
+                    isParty ? (
+                        caucusBills.map((bill, i) => (
+                            <PersonalBill {...bill} key={bill.billNo + i} />
+                        ))
+                    ) : (
+                        <CaucusBill bills={caucusBills} />
+                    )
+                ) : null}
                 {nonRegionalBills.length ? (
                     <BillCard title="不分區類委提案" bills={nonRegionalBills} />
                 ) : null}
