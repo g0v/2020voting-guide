@@ -25,7 +25,8 @@
 mobile:
 
 1. `cd /mobile`
-2. `npm start`
+2. `npm i`
+3. `npm start`
 
 backend:
 
