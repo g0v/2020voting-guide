@@ -9,6 +9,7 @@ const PoliticsCard: FunctionComponent<{
     constituency: string;
     politicsConnection: string;
     politics: string;
+    politicsPic: string;
     isFromCentral: boolean;
     isLastPolitics: boolean;
 }> = ({
@@ -16,7 +17,8 @@ const PoliticsCard: FunctionComponent<{
     constituency,
     politicsConnection,
     isFromCentral,
-    isLastPolitics
+    isLastPolitics,
+    politicsPic
 }) => {
     const [open, setOpen] = useState(false);
     const cardStyle = {
@@ -76,16 +78,20 @@ const PoliticsCard: FunctionComponent<{
                                 </Typography>
                             </Alert>
                         ) : (
-                            <Box height={10} />
+                            <Box height={30} />
                         )}
                         <Box
-                            padding="0 20px 72px"
+                            padding="0 20px 30px 50px"
                             color="rgba(0, 0, 0, 0.54)"
                             whiteSpace="pre-line"
                             lineHeight="160%"
                         >
-                            {politics}
+                            {politics.split(' ').join('\n')}
                         </Box>
+                        {politicsPic.length ? (
+                            <img width="100%" src={politicsPic} />
+                        ) : null}
+                        <Box height={72} />
                     </Box>
                 </Dialog>
             )}
@@ -194,13 +200,15 @@ const Politic = ({
     constituency,
     politic,
     politicsConnection,
-    cecPolitic
+    cecPolitic,
+    cecPoliticPic
 }: {
     isRegional: boolean;
     constituency: string;
     politic: string;
     politicsConnection: string;
     cecPolitic: string;
+    cecPoliticPic: string;
 }) => (
     <>
         <Box px={1.5} pt={2}>
@@ -228,6 +236,7 @@ const Politic = ({
                             politicsConnection={politicsConnection}
                             constituency={constituency}
                             politics={politic}
+                            politicsPic=""
                         />
                     )}
                     {cecPolitic && (
@@ -237,6 +246,7 @@ const Politic = ({
                             politicsConnection={politicsConnection}
                             constituency={constituency}
                             politics={cecPolitic}
+                            politicsPic={cecPoliticPic}
                         />
                     )}
                 </Box>
@@ -291,7 +301,6 @@ const BasicInfoTab = ({
         experience: string;
         politic: string;
         politic_pic: string;
-        politic_pic_name: string;
     };
 }) => {
     return (
@@ -311,6 +320,7 @@ const BasicInfoTab = ({
                         politic={politic}
                         politicsConnection={politicsConnection}
                         cecPolitic={cecCandidate.politic}
+                        cecPoliticPic={cecCandidate.politic_pic}
                     />
                 </>
             )}
