@@ -76,7 +76,9 @@ interface Props extends RouteComponentProps {}
 
 const Home = (props: Props) => {
     const quickButonClick = (e: MouseEvent<HTMLElement>) => {
-        const targetDOM = (e.target as HTMLElement).getAttribute('data-target');
+        const targetDOM = (e.currentTarget as HTMLElement).getAttribute(
+            'data-target'
+        );
         scrollBody('.' + targetDOM);
     };
 
@@ -151,11 +153,10 @@ const Home = (props: Props) => {
                     data-category="home"
                     data-action="learn"
                     data-label="whyL"
+                    data-target="page-home-quick-0"
+                    className="cursor-pointer"
                 >
-                    <Typography
-                        className="color-red underline page-home__quick-btn cursor-pointer"
-                        data-target="page-home-quick-0"
-                    >
+                    <Typography className="color-red underline page-home__quick-btn">
                         立委在做什麼？
                     </Typography>
                 </Box>
@@ -165,11 +166,10 @@ const Home = (props: Props) => {
                     data-category="home"
                     data-action="learn"
                     data-label="why2vote"
+                    data-target="page-home-quick-1"
+                    className="cursor-pointer"
                 >
-                    <Typography
-                        className="color-red underline page-home__quick-btn cursor-pointer"
-                        data-target="page-home-quick-1"
-                    >
+                    <Typography className="color-red underline page-home__quick-btn">
                         為什麼要投兩張票？
                     </Typography>
                 </Box>
