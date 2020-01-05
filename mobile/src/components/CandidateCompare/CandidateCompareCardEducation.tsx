@@ -22,19 +22,14 @@ export default function CandidateCompareCardEducation({
     if (!isLoading) {
         child = (
             <>
-                <Typography variant="h3" color="textSecondary">
-                    學歷
-                </Typography>
+                <div className="h4 mb-2">學歷</div>
                 <Typography variant="h5" color="textSecondary">
-                    {responseData.education || '選前大補帖目前沒有找到學歷資料'}
+                    {responseData.education || '即將更新'}
                 </Typography>
-                <div className="mb-2"></div>
-                <Typography variant="h3" color="textSecondary">
-                    經歷
-                </Typography>
+                <div className="mb-3"></div>
+                <div className="h4 mb-2">經歷</div>
                 <Typography variant="h5" color="textSecondary">
-                    {responseData.experience ||
-                        '選前大補帖目前沒有找到經歷資料'}
+                    {responseData.experience || '即將更新'}
                 </Typography>
                 {(responseData.education || responseData.experience) && (
                     <div className="mt-auto">

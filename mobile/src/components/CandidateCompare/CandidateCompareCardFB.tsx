@@ -1,7 +1,6 @@
 import React from 'react';
-import { Typography } from '@material-ui/core';
 import useFetch from '../../hooks/useFetch';
-import Alert from '../Alert';
+import CandidateCompareNoInfo from './CandidateCompareNoInfo';
 
 interface Props {
     name: string;
@@ -22,16 +21,10 @@ export default function CandidateCompareCardFB({ name, constituency }: Props) {
     if (!isLoading) {
         if (!responseData.fbPage) {
             child = (
-                <div className="candidate-compare-noinfo">
-                    <Alert>
-                        <Typography variant="h4" className="mb-2">
-                            沒有粉專資料
-                        </Typography>
-                        <Typography variant="h5">
-                            選前大補帖目前沒有找到此候選人的粉絲專頁
-                        </Typography>
-                    </Alert>
-                </div>
+                <CandidateCompareNoInfo
+                    title="沒有粉專資料"
+                    content="選前大補帖目前沒有找到此候選人的粉絲專頁"
+                />
             );
         } else {
             child = responseData.fbPage && (

@@ -6,8 +6,8 @@ import take from 'lodash/take';
 import React, { ReactNode } from 'react';
 import useFetch from '../../hooks/useFetch';
 import { pipe } from '../../utils';
-import Alert from '../Alert';
 import { Bill } from '../IssueBill';
+import CandidateCompareNoInfo from './CandidateCompareNoInfo';
 
 interface Props {
     name: string;
@@ -111,16 +111,10 @@ export default function CandidateCompareCardIssueBill({
         } else {
             // 沒資料
             child = (
-                <div className="candidate-compare-noinfo">
-                    <Alert>
-                        <Typography variant="h4" className="mb-2">
-                            沒有提案資料
-                        </Typography>
-                        <Typography variant="h5">
-                            可能是新立委挑戰者或是沒有提案過
-                        </Typography>
-                    </Alert>
-                </div>
+                <CandidateCompareNoInfo
+                    title="沒有提案資料"
+                    content="可能是新立委挑戰者或是沒有提案過"
+                />
             );
         }
     }
@@ -133,9 +127,7 @@ export default function CandidateCompareCardIssueBill({
 
     return (
         <div className={elClass}>
-            <Typography variant="h4" className="candidate-compare-col-title">
-                提案
-            </Typography>
+            <div className="h4 mb-2">提案</div>
             {child}
         </div>
     );

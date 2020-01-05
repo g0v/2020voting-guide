@@ -24,7 +24,7 @@
 .font-thumb{
   font-size: 14px;
 }
-@for $i from 1 through 5 {
+@for $i from 1 through 8 {
   .text-overflow-#{$i}{
     @include textOverflow($i)
   }
