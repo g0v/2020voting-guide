@@ -2,7 +2,7 @@ import React from 'react';
 import { Typography } from '@material-ui/core';
 import get from 'lodash/get';
 import useFetch from '../../hooks/useFetch';
-import Alert from '../Alert';
+import CandidateCompareNoInfo from './CandidateCompareNoInfo';
 import { AdCardProp } from '../Candidate/AdCard';
 import { numberWithCommas } from '../../utils';
 
@@ -28,16 +28,10 @@ export default function CandidateCompareCardFBAd({
     if (!isLoading) {
         if (responseData.length === 0) {
             child = (
-                <div className="candidate-compare-noinfo">
-                    <Alert>
-                        <Typography variant="h4" className="mb-2">
-                            沒有粉專廣告資料
-                        </Typography>
-                        <Typography variant="h5">
-                            選前大補帖目前沒有找到此候選人的粉絲政治廣告資料
-                        </Typography>
-                    </Alert>
-                </div>
+                <CandidateCompareNoInfo
+                    title="沒有粉專廣告資料"
+                    content="選前大補帖目前沒有找到此候選人的粉絲政治廣告資料"
+                />
             );
         } else {
             // [花費lower, 花費upper, 曝光lower, 曝光upper]
