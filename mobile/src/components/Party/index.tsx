@@ -33,6 +33,14 @@ interface PartyInfo {
     voteRate: string;
 }
 
+const isDesktop = !/Mobi|Android/i.test(navigator.userAgent);
+
+const desktopPadding = isDesktop
+    ? {
+          padding: '0 8%'
+      }
+    : {};
+
 const TAB_NAMES: string[] = ['不分區名單', '議題法案', '基本資料'];
 const GA_LABELS: string[] = ['viewTabPlegList', 'viewTabPLaw', 'viewTabPExp'];
 
@@ -97,17 +105,18 @@ const Party = ({
         : '';
 
     return (
-        <Box pt="60px">
+        <Box pt={isDesktop ? '48px' : '60px'}>
             {/* TODO: use backend API*/}
             <Box
                 bgcolor="white"
                 position="fixed"
                 width="100%"
-                top="45px"
+                top={isDesktop ? '64px' : '45px'}
                 display="flex"
                 alignItems="center"
                 zIndex="500"
-                pt={3}
+                px={isDesktop ? '8%' : 0}
+                pt={isDesktop ? 1 : 3}
             >
                 <Link href={`/parties`}>
                     <KeyboardArrowLeft fontSize="large" />
@@ -127,9 +136,11 @@ const Party = ({
                 regionalSittingNum={partyInfo.regionalLegislatorsNum}
                 nonRegionalSittingNum={partyInfo.electedPersonNum}
                 voteRate={partyInfo.voteRate}
+                padding={desktopPadding}
             />
-            <Box zIndex={499} position="sticky" bgcolor="white" top="100px">
+            <Box zIndex={499} position="sticky" bgcolor="white" top={isDesktop ? '112px' : '100px'}>
                 <Tabs
+                    style={desktopPadding}
                     value={tab}
                     indicatorColor="primary"
                     textColor="primary"
@@ -145,30 +156,37 @@ const Party = ({
                     <Tab label="基本資料" />
                 </Tabs>
             </Box>
-            {tab === 0 && (
-                <CandidateList
-                    electedPersonNum={partyInfo.electedPersonNum}
-                    party={party}
-                    candidates={candidates}
-                />
-            )}
-            {tab === 1 ? (
-                currentParty.indexOf(party) === -1 ? (
-                    <NewParty name={party} />
-                ) : (
-                    <IssueBillTab party={party} isParty bills={bills} />
-                )
-            ) : null}
-            {/* {tab === 2 && <Progressing />} */}
-            {tab === 2 && (
-                <BasicInfoTab
-                    party={party}
-                    lastPolitics={lastPolitics}
-                    currentPolitics={currentPolitics}
-                    currentPoliticsCec={currentPoliticsCec}
-                    positions={positions}
-                />
-            )}
+            <Box style={{...desktopPadding, backgroundColor: 'rgb(247, 247, 247)'}} >
+                {tab === 0 && (
+                    <CandidateList
+                        electedPersonNum={partyInfo.electedPersonNum}
+                        party={party}
+                        candidates={candidates}
+                    />
+                )}
+                {tab === 1 ? (
+                    currentParty.indexOf(party) === -1 ? (
+                        <NewParty name={party} />
+                    ) : (
+                        <IssueBillTab
+                            party={party}
+                            isParty
+                            bills={bills}
+                            isDesktop={isDesktop}
+                        />
+                    )
+                ) : null}
+                {/* {tab === 2 && <Progressing />} */}
+                {tab === 2 && (
+                    <BasicInfoTab
+                        party={party}
+                        lastPolitics={lastPolitics}
+                        currentPolitics={currentPolitics}
+                        currentPoliticsCec={currentPoliticsCec}
+                        positions={positions}
+                    />
+                )}
+            </Box>
         </Box>
     );
 };

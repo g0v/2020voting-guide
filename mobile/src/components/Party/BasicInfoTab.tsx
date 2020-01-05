@@ -130,7 +130,7 @@ const BasicInfoTab: FunctionComponent<Props> = ({
     positions
 }) => {
     return (
-        <Box width="100vw" bgcolor="#F7F7F7" py={3}>
+        <Box bgcolor="#F7F7F7" py={3}>
             <Title name="政黨主要職位" />
             <FullCard>
                 {positions.map(p => (
