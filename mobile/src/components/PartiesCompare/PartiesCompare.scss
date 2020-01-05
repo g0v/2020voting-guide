@@ -1,0 +1,33 @@
+@import '../../css/variable';
+@import '../../css/mixins';
+.page-candidate-compare{
+  .parties-compare-header{
+    height: 200px;
+  }
+
+  .parties-compare-link-btn{
+    position: absolute;
+    bottom: 0;
+  }
+
+
+  .parties-compare-candidates{
+    height: 85px * 7;
+    position: relative;
+    &-item{
+      height: 50px;
+    }
+  }
+  .parties-compare-politics{
+    position: relative;
+    height: 210px;
+  }
+
+  .parties-compare-bills{
+    position: relative;
+    height: 420px;
+    .parties-compare-bills-item{
+      height: 120px;
+    }
+  }
+}

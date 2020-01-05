@@ -9,7 +9,6 @@ import { pipe } from '../../utils';
 import Alert from '../Alert';
 import { Bill } from '../IssueBill';
 
-
 interface Props {
     name: string;
     constituency: string;

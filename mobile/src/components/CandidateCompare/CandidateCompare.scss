@@ -86,6 +86,11 @@ body.body-page-candidate-compare{
           background-color:#42B72A;
           border-radius: 50%;
         }
+        &.style-gray{
+          &:before{
+            background-color:#AEAEAE;
+          }
+        }
       }
       &--fixed{
         border-bottom: 1px solid rgba(0, 0, 0, 0.1);

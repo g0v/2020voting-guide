@@ -3,7 +3,7 @@ import React, { useState, useCallback } from 'react';
 import clsx from 'clsx';
 import parties from '../../data/party.json';
 import Navigation from '../Navigation';
-import PartyCard from './PartyCard';
+import PartyCard, { PartyCard as PartyCardType } from './PartyCard';
 import CompareBTN from '../ConstituencyCandidates/CompareBTN';
 import CandidateCardWrap from '../ConstituencyCandidates/CandidateCardWrap';
 
@@ -21,6 +21,16 @@ const PartyCandidates = () => {
         () => setSelectMode((prev: boolean) => !prev),
         []
     );
+    React.useLayoutEffect(() => {
+        const urlParams = new URLSearchParams(window.location.search);
+        if (urlParams.has('select')) {
+            const names: string[] = (urlParams.get('select') as string).split(
+                ','
+            );
+            setSelectMode(true);
+            setSelectParties(names);
+        }
+    }, []);
 
     const rootClazz: string = clsx('party-candidates p-0', {
         'is-select': selectMode
@@ -69,7 +79,7 @@ const PartyCandidates = () => {
             </div>
             <Box px={2}>
                 <List>
-                    {parties.map(party => (
+                    {parties.map((party: PartyCardType) => (
                         <CandidateCardWrap
                             key={party.name}
                             onClick={event =>
