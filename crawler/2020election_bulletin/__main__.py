@@ -1,6 +1,7 @@
-import pandas as pd
-from datetime import date, datetime
 import json
+from datetime import date, datetime
+
+import pandas as pd
 
 SOURCE = "../data/manual/2020選舉公報.xlsx"
 
@@ -100,7 +101,7 @@ def regional_candidates():
     df = df.fillna("")
 
     json_string = df.to_json(force_ascii=False, orient="records")
-    with open(f"../data/static/cec_regional/全國.json", "w") as fp:
+    with open(f"../mobile/src/data/cec_regional_all.json", "w") as fp:
         fp.write(json_string)
 
     candidates = df.to_dict(orient="records")
