@@ -1,0 +1,14 @@
+@import '../../css/common';
+@import '../../css/variable';
+
+.party-candidates{
+  .candidate-card-wrap{
+    .candidate-card-wrap__checkbox{
+      @include mediaMedium{
+        z-index: 9;
+        top: 50%;
+        right: initial;
+      }
+    }
+  }
+}

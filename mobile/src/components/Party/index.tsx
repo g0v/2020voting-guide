@@ -3,6 +3,7 @@ import Tab from '@material-ui/core/Tab';
 import Tabs from '@material-ui/core/Tabs';
 import KeyboardArrowLeft from '@material-ui/icons/KeyboardArrowLeft';
 import React, { useEffect } from 'react';
+import clamp from 'lodash/clamp';
 import { RouteComponentProps } from 'react-router';
 import partyInfos from '../../data/party.json';
 import partyCandidates from '../../data/party_candidates_integrated.json';
@@ -30,10 +31,16 @@ interface PartyInfo {
     voteRate: string;
 }
 
-const Party = ({ match }: RouteComponentProps<{ party: string }>) => {
-    const [tab, setTab] = React.useState(0);
+const TAB_NAMES: string[] = ['不分區名單', '議題法案', '基本資料'];
+
+const Party = ({
+    match
+}: RouteComponentProps<{ party: string; tab?: string }>) => {
+    const { party, tab: matchParamsTab = '' } = match.params;
+    const tabInitValue = clamp(TAB_NAMES.indexOf(matchParamsTab), 0, 2);
+    const [tab, setTab] = React.useState(tabInitValue);
     const [bills, setBills] = React.useState<Bill[]>([]);
-    const { party } = match.params;
+
     const candidates: Candidate[] =
         (partyCandidates as {
             [party: string]: Candidate[];
@@ -44,6 +51,14 @@ const Party = ({ match }: RouteComponentProps<{ party: string }>) => {
             .then(res => res.json())
             .then(party => setBills(party.bills));
     }, [match.params.party]);
+
+    const updateLocationHref = React.useCallback((idx: number) => {
+        window.history.replaceState(
+            {},
+            '',
+            `/party/${party}/${TAB_NAMES[idx]}`
+        );
+    }, []);
 
     const partyInfo: PartyInfo | undefined = partyInfos.find(
         p => p.name === party
@@ -108,7 +123,10 @@ const Party = ({ match }: RouteComponentProps<{ party: string }>) => {
                     indicatorColor="primary"
                     textColor="primary"
                     variant="fullWidth"
-                    onChange={(_e, num) => setTab(num)}
+                    onChange={(_e, num) => {
+                        setTab(num);
+                        updateLocationHref(num);
+                    }}
                 >
                     <Tab label="不分區名單" />
                     <Tab label="議題法案" />
