@@ -73,7 +73,10 @@ export const gaEvent = (category: string, action: string, label: string) => {
         event_label: label
     });
     if (process.env.NODE_ENV === 'development') {
-        console.log('gaEvent', category, action, label);
+        console.log(
+            `%cgaEvent ${category}, ${action}, ${label}`,
+            'background: #3199BA; color: white'
+        );
     }
 };
 

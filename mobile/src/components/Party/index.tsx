@@ -20,6 +20,8 @@ import CandidateList from './CandidateList';
 import Nav from './Nav';
 import NewParty from './NewParty';
 import { Candidate, Position } from './types';
+import useTimeout from '../../hooks/useTimeout';
+import { gaEvent } from '../../utils';
 
 const currentParty = ['民主進步黨', '中國國民黨', '時代力量', '親民黨'];
 
@@ -32,6 +34,7 @@ interface PartyInfo {
 }
 
 const TAB_NAMES: string[] = ['不分區名單', '議題法案', '基本資料'];
+const GA_LABELS: string[] = ['viewTabPlegList', 'viewTabPLaw', 'viewTabPExp'];
 
 const Party = ({
     match
@@ -59,6 +62,14 @@ const Party = ({
             `/party/${party}/${TAB_NAMES[idx]}`
         );
     }, []);
+
+    useTimeout(
+        () => {
+            gaEvent('party', 'browser', GA_LABELS[tab]);
+        },
+        5000,
+        [tab]
+    );
 
     const partyInfo: PartyInfo | undefined = partyInfos.find(
         p => p.name === party

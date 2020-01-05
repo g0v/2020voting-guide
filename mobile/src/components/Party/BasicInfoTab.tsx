@@ -64,7 +64,13 @@ const PoliticsCard: FunctionComponent<{
     const [open, setOpen] = useState(false);
     return (
         <>
-            <Box p={1} onClick={() => setOpen(true)}>
+            <Box
+                p={1}
+                onClick={() => setOpen(true)}
+                data-category="legislator"
+                data-action="browse"
+                data-label="lawDetail"
+            >
                 <Card>
                     <Box display="flex">
                         {isFromCentral && (
@@ -100,6 +106,7 @@ const PoliticsCard: FunctionComponent<{
                         <Box pb="72px">
                             {politics.split('\n').map(politic => (
                                 <Typography
+                                    key={politic}
                                     variant="h4"
                                     color="textSecondary"
                                     gutterBottom
