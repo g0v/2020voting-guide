@@ -17,6 +17,7 @@ export interface Props {
     regionalSittingNum: number;
     nonRegionalSittingNum: number;
     voteRate: string;
+    padding?: object;
 }
 
 const Nav: FunctionComponent<Props> = ({
@@ -24,11 +25,12 @@ const Nav: FunctionComponent<Props> = ({
     logo,
     regionalSittingNum,
     nonRegionalSittingNum,
-    voteRate
+    voteRate,
+    padding = {}
 }) => {
     const classes = useStyles();
     return (
-        <Box m={1}>
+        <Box m={1} style={padding}>
             <Box px={1} py={1}>
                 <Grid container alignItems="center" spacing={2}>
                     <Grid item>
