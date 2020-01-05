@@ -1,6 +1,7 @@
 @import '../../css/common';
 @import '../../css/variable';
 
+.party-candidates,
 .constituency-candidates{
   overflow-x: hidden;
   &.is-select{

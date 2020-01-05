@@ -137,6 +137,7 @@ const CountyCandidates = ({ match, location }: Route) => {
                 <CompareBTN
                     selectMode={selectMode}
                     onClick={toggleSelectMode}
+                    label="比較候候人"
                 />
                 <div
                     className={clsx('constituency-candidates__compare-text', {
