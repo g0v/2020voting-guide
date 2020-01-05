@@ -36,6 +36,12 @@ const Footer = () => {
                             >
                                 <Typography variant="h3">問題回報</Typography>
                             </Link>
+                            <Link
+                                target="_blank"
+                                href="https://github.com/g0v/2020voting-guide"
+                            >
+                                <Typography variant="h3">GitHub</Typography>
+                            </Link>
                         </Box>
                     </div>
                     <div className="footer__block footer__block--2">

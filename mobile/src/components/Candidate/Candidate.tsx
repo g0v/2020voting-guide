@@ -1,19 +1,22 @@
-import { Link, Typography, Box } from '@material-ui/core';
+import { Box, Link, Typography } from '@material-ui/core';
 import Tab from '@material-ui/core/Tab';
 import Tabs from '@material-ui/core/Tabs';
 import KeyboardArrowLeft from '@material-ui/icons/KeyboardArrowLeft';
 import React, { FunctionComponent, useEffect, useState } from 'react';
+import cecCandidates from '../../data/cec_regional_all.json';
+import county_constituency from '../../data/county_constituency.json';
+import partyCandidate from '../../data/party_candidates_integrated.json';
+import useTimeout from '../../hooks/useTimeout';
+import { gaEvent } from '../../utils';
 import Alert from '../Alert';
 import { Bill } from '../IssueBill';
-import partyCandidate from '../../data/party_candidates_integrated.json';
 import IssueBillTab from '../IssueBillTab';
+import BasicInfoTab from './BasicInfoTab';
 import Nav from './Nav';
 import NoInfoTab from './NoInfoTab';
 import PassPerformanceTab from './PassPerformanceTab';
 import StrengthTab from './StrengthTab';
-import BasicInfoTab from './BasicInfoTab';
 
-import county_constituency from '../../data/county_constituency.json';
 export interface CandidateType {
     name: string;
     photo: string;
@@ -96,6 +99,12 @@ const IssueBillTabAlert: FunctionComponent<{
 );
 
 const caucusParty = ['民主進步黨', '中國國民黨', '親民黨', '時代力量'];
+const tabsGAValue = [
+    'viewTabLLaw',
+    'viewTabLFanpage',
+    'viewTabL4y',
+    'viewTabLExp'
+];
 
 const isDesktop = !/Mobi|Android/i.test(navigator.userAgent);
 
@@ -119,11 +128,23 @@ const CandidatePage = ({ match }: CandidatePage) => {
 
     const [candidate, setCandidate] = useState<CandidateType>(CandidateDefault);
     const [bills, setBills] = useState<Bill[]>([]);
+    const cecCandidate = cecCandidates.find(
+        candidate =>
+            candidate.name === name && candidate.constituency == constituency
+    );
     const isRegional = constituency !== undefined;
 
     const billsURL = isRegional
         ? `/api/bills/${constituency}/${name}`
         : `/api/nonregional/bills/${party}/${name}`;
+
+    useTimeout(
+        () => {
+            gaEvent('legislator', 'browser', tabsGAValue[tab]);
+        },
+        5000,
+        [tab]
+    );
 
     useEffect(() => {
         if (isRegional) {
@@ -201,12 +222,11 @@ const CandidatePage = ({ match }: CandidatePage) => {
                     value={tab}
                     indicatorColor="primary"
                     textColor="primary"
-                    variant="fullWidth"
                     onChange={switchTab}
                 >
                     <Tab label="議題法案" />
                     <Tab label="競選戰力" />
-                    <Tab label="過去表現" />
+                    <Tab label="立院表現" />
                     <Tab label="經歷政見" />
                 </Tabs>
             </Box>
@@ -244,6 +264,7 @@ const CandidatePage = ({ match }: CandidatePage) => {
                     {...candidate}
                     isRegional={isRegional}
                     padding={desktopPadding}
+                    cecCandidate={cecCandidate}
                 />
             ) : (
                 <NoInfoTab name={candidate.name} from="basicInfo" />

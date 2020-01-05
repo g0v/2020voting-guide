@@ -7,8 +7,8 @@ import NewParty from './Party/NewParty';
 import { createStyles, makeStyles, Theme } from '@material-ui/core/styles';
 import Scroll from 'react-scroll';
 
-var Link = Scroll.Link;
-var Element = Scroll.Element;
+const Link = Scroll.Link;
+const Element = Scroll.Element;
 
 const customStyle = {
     issueContainer: {
@@ -56,12 +56,14 @@ const useStyles = makeStyles((theme: Theme) =>
 );
 
 const IssueList: FunctionComponent<{
+    isParty?: boolean;
     filteredIssue: Array<string>;
     selectedIssue: string[];
     bills: Bill[];
     selectIssue: (issue: string) => void;
     handleComplete: () => void;
 }> = ({
+    isParty = false,
     children,
     filteredIssue,
     bills,
@@ -95,6 +97,7 @@ const IssueList: FunctionComponent<{
                             style={{ cursor: 'pointer' }}
                         >
                             <IssueBill
+                                isParty={isParty}
                                 key={`${issue.issue}${i}`}
                                 issue={issue.issue}
                                 bills={issue.bills}
@@ -195,6 +198,7 @@ const IssueBillTab: FunctionComponent<{
                                 selectIssue={selectIssue}
                                 updateSelectedIssue={updateSelectedIssue}
                                 complete={handleComplete}
+                                isParty={isParty}
                                 bills={bills}
                             />
                         </Grid>
@@ -214,6 +218,7 @@ const IssueBillTab: FunctionComponent<{
             ) : (
                 <React.Fragment>
                     <IssueList
+                        isParty={isParty}
                         filteredIssue={filteredIssue}
                         selectedIssue={selectedIssue}
                         bills={bills}
@@ -226,6 +231,7 @@ const IssueBillTab: FunctionComponent<{
                         isDesktop={isDesktop}
                         selected={selectedIssue}
                         selectIssue={selectIssue}
+                        isParty={isParty}
                         updateSelectedIssue={updateSelectedIssue}
                         complete={handleComplete}
                         bills={bills}

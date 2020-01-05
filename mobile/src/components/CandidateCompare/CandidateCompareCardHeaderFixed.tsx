@@ -13,7 +13,7 @@ interface Props {
     onDelete: (name: string) => void;
 }
 
-const CandidateCompareCardHeader = ({
+const CandidateCompareCardHeaderFixed = ({
     name,
     constituency,
     onDelete,
@@ -49,4 +49,4 @@ const CandidateCompareCardHeader = ({
     );
 };
 
-export default CandidateCompareCardHeader;
+export default CandidateCompareCardHeaderFixed;

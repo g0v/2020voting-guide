@@ -1,9 +1,11 @@
 
 
 .color-primary{
+  // $color-primary : #3199BA;
   color: $color-primary;
 }
 .color-red{
+  // $color-red : #EC502B;
   color: $color-red;
 }
 .color-white{
@@ -11,4 +13,10 @@
 }
 .color-yellow{
   color: #D4AF37;
+}
+.color-gray{
+  color:rgba(0, 0, 0, 0.54);
+}
+.color-black{
+  color:#222222;
 }

@@ -147,7 +147,7 @@ const CandidateList: FunctionComponent<{
     return (
         <Box>
             <ListAlert name={party} />
-            <Box p={2}>
+            <Box p={2} bgcolor="white">
                 <List disablePadding>
                     {candidates.map((c, i) => {
                         return (

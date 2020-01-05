@@ -1,4 +1,5 @@
 @import './css/variable';
+@import './css/mixins';
 @import './css/loading';
 @import './css/common';
 @import './css/button';
@@ -9,7 +10,7 @@
 @import './css/typography';
 @import './css/grid';
 @import './css/spacing';
-@import './css/mixins';
+@import './css/ga';
 
 html, body {
   height: 100%;

@@ -45,10 +45,10 @@ const CaucusBill = ({ billNo, name, vernacular }: Bill) => {
     );
 };
 
-const CaucusBillCard = ({ bills }: { bills: Bill[] }) => (
+const CaucusBillCard = ({ title, bills }: { title: string; bills: Bill[] }) => (
     <Card>
         <Typography variant="h5" color="textSecondary">
-            {bills[0].billOrg.replace('本院', '').replace('黨團', '')} 黨團提案
+            {title}
         </Typography>
         <List>
             {bills.map(bill => (

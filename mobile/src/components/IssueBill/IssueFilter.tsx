@@ -110,7 +110,8 @@ const IssueFilter = ({
     updateSelectedIssue,
     complete,
     bills,
-    isDesktop
+    isDesktop,
+    isParty = false
 }: {
     isDesktop: boolean;
     selected: string[];
@@ -118,6 +119,7 @@ const IssueFilter = ({
     updateSelectedIssue: (issues: string[]) => void;
     complete: () => void;
     bills: Bill[];
+    isParty?: boolean;
 }) => {
     const classes = useStyles();
     const classesProps = useStyles;
@@ -143,6 +145,9 @@ const IssueFilter = ({
                 color="primary"
                 onClick={handleClickOpen}
                 className={isDesktop ? classes.desktopFab : classes.fab}
+                data-category="function"
+                data-action="click"
+                data-label={isParty ? 'applyFilterR' : 'applyFilterL'}
             >
                 {!isDesktop && (
                     <FilterListIcon
@@ -186,6 +191,9 @@ const IssueFilter = ({
                             <Box
                                 mx={1.5}
                                 onClick={() => setActive('自選')}
+                                data-category="function"
+                                data-action="click"
+                                data-label="persona自選"
                                 textAlign="center"
                                 className={
                                     active !== '自選'
@@ -215,7 +223,11 @@ const IssueFilter = ({
                             </Box>
                             {kols.map(kol => (
                                 <Box
+                                    key={kol.name}
                                     mx={1.5}
+                                    data-category="function"
+                                    data-action="click"
+                                    data-label={`persona${kol.name}`}
                                     onClick={() => {
                                         setActive(kol.name);
                                         updateSelectedIssue(kol.issues);
@@ -333,6 +345,7 @@ const IssueFilter = ({
                                 >
                                     {issues.map(issue => (
                                         <Box
+                                            key={issue}
                                             m={0.5}
                                             display="block"
                                             className={
@@ -349,6 +362,9 @@ const IssueFilter = ({
                                         >
                                             <Button
                                                 color="primary"
+                                                data-category="toggle"
+                                                data-action="click"
+                                                data-label={`ToogleIssue${issue}`}
                                                 className={
                                                     classesProps({
                                                         active: selected.includes(

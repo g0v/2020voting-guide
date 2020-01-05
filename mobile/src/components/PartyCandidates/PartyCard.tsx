@@ -23,14 +23,15 @@ const useStyles = makeStyles({
     }
 });
 
-interface PartyCard {
-    name: string;
-    chairman: string[];
-    logo: string;
-    voteNum: number;
-    voteRate: string;
-    electedPersonNum: number;
-    electedPerson: string[];
+export interface PartyCard {
+    name: string; // 政黨名稱
+    chairman: string[]; //
+    logo: string; // 圖檔路徑
+    voteNum: number; //
+    voteRate: string; // 上屆政黨得票率
+    regionalLegislatorsNum: number; // 區域多少席
+    electedPersonNum: number; // 不分區多少席
+    electedPerson: string[]; // 不分區名單
 }
 
 const Name = ({ name }: { name: string }) => (
@@ -55,10 +56,10 @@ const PartyCard = ({
     const classes = useStyles();
     return (
         <ListItem divider button component="a" href={`/party/${name}`}>
-            <ListItemAvatar>
-                <Avatar src={logo} className={classes.photo} />
-            </ListItemAvatar>
-            <Box>
+            <div className="candidate-card__inner transition d-flex mx-3 my-2">
+                <ListItemAvatar>
+                    <Avatar src={logo} className={classes.photo} />
+                </ListItemAvatar>
                 <ListItemText>
                     <Box mb={1} display="flex" alignItems="center">
                         <Name name={name} />
@@ -68,7 +69,7 @@ const PartyCard = ({
                     </Box>
                     <VoteRate rate={voteRate} />
                 </ListItemText>
-            </Box>
+            </div>
         </ListItem>
     );
 };
