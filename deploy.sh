@@ -8,7 +8,8 @@ env=${1:-stage}
 set -o errexit
 
 cd ./mobile
-yarn run build
+npm run build
+# yarn run build
 
 cd ../
 if [ "${env}" == "stage" ]; then
