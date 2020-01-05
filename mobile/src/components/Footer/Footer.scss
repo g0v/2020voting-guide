@@ -73,7 +73,10 @@
     .footer__block-about{
       display: flex;
       justify-content: space-evenly;
-      
+      flex-wrap: wrap;
+      > a {
+        margin: 4px 8px;
+      }
     }
   }
   .footer__powered{
@@ -85,4 +88,3 @@
     }
   }
 }
-
