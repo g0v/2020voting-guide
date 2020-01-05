@@ -1,6 +1,5 @@
 import { Box } from '@material-ui/core';
 import React from 'react';
-import CaucusBill from './CaucusBillCard';
 import BillCard from './BillCard';
 import './IssueBill.scss';
 import PersonalBill from './PersonalBillCard';
@@ -56,7 +55,12 @@ const IssueBill = ({ issue, bills, isParty = false }: IssueBillProps) => {
                             <PersonalBill {...bill} key={bill.billNo + i} />
                         ))
                     ) : (
-                        <CaucusBill bills={caucusBills} />
+                        <BillCard
+                            title={`${bills[0].billOrg
+                                .replace('本院', '')
+                                .replace('黨團', '')} 黨團提案`}
+                            bills={caucusBills}
+                        />
                     )
                 ) : null}
                 {nonRegionalBills.length ? (
