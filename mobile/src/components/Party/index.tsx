@@ -21,6 +21,7 @@ import Seats from '../Party/Seats';
 import BasicInfoTab from './BasicInfoTab';
 import CandidateList from './CandidateList';
 import Nav from './Nav';
+import Alert from '../Alert';
 import NewParty from './NewParty';
 import { Candidate, Position } from './types';
 
@@ -189,7 +190,13 @@ const Party = ({
                             isParty
                             bills={bills}
                             isDesktop={isDesktop}
-                        />
+                        >
+                            <Alert>
+                                {
+                                    '以下是 2016-2019 年中國國民黨黨團及不分區立委在立法院實際提出的法案。'
+                                }
+                            </Alert>
+                        </IssueBillTab>
                     )
                 ) : null}
                 {/* {tab === 2 && <Progressing />} */}
