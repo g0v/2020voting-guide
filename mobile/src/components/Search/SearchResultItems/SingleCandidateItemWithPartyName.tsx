@@ -27,7 +27,12 @@ const SingleCandidateItemWithPartyName = ({ candidate }: Props) => {
     const classes = useStyles();
     return (
         <ResultItemCardWrapper>
-            <ListItem button component={'a'} href={`/party/${candidate.party}`}>
+            <ListItem
+                button
+                component={'a'}
+                href={`/party/${candidate.party}`}
+                style={{ display: 'block' }}
+            >
                 <Box>
                     <Box className={classes.partyName}>
                         <Typography color={'textSecondary'}>
