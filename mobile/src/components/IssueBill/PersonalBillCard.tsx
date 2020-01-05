@@ -59,7 +59,7 @@ const PersonalBillCard = ({
                 <Box display="flex">
                     <Box flexGrow={1}>
                         <Typography variant="h5" color="textSecondary">
-                            立委提案
+                            {proposerType}
                         </Typography>
                     </Box>
                     <BillStatus status={billStatus} />

@@ -19,6 +19,7 @@ import Seats from '../Party/Seats';
 import BasicInfoTab from './BasicInfoTab';
 import CandidateList from './CandidateList';
 import Nav from './Nav';
+import Alert from '../Alert';
 import NewParty from './NewParty';
 import { Candidate, Position } from './types';
 import useTimeout from '../../hooks/useTimeout';
@@ -144,7 +145,12 @@ const Party = ({
                 voteRate={partyInfo.voteRate}
                 padding={desktopPadding}
             />
-            <Box zIndex={499} position="sticky" bgcolor="white" top={isDesktop ? '112px' : '100px'}>
+            <Box
+                zIndex={499}
+                position="sticky"
+                bgcolor="white"
+                top={isDesktop ? '112px' : '100px'}
+            >
                 <Tabs
                     style={desktopPadding}
                     value={tab}
@@ -162,7 +168,12 @@ const Party = ({
                     <Tab label="基本資料" />
                 </Tabs>
             </Box>
-            <Box style={{...desktopPadding, backgroundColor: 'rgb(247, 247, 247)'}} >
+            <Box
+                style={{
+                    ...desktopPadding,
+                    backgroundColor: 'rgb(247, 247, 247)'
+                }}
+            >
                 {tab === 0 && (
                     <CandidateList
                         electedPersonNum={partyInfo.electedPersonNum}
@@ -179,7 +190,13 @@ const Party = ({
                             isParty
                             bills={bills}
                             isDesktop={isDesktop}
-                        />
+                        >
+                            <Alert>
+                                {
+                                    '以下是 2016-2019 年中國國民黨黨團及不分區立委在立法院實際提出的法案。'
+                                }
+                            </Alert>
+                        </IssueBillTab>
                     )
                 ) : null}
                 {/* {tab === 2 && <Progressing />} */}
