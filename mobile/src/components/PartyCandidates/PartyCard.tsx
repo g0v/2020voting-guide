@@ -56,10 +56,10 @@ const PartyCard = ({
     const classes = useStyles();
     return (
         <ListItem divider button component="a" href={`/party/${name}`}>
-            <ListItemAvatar>
-                <Avatar src={logo} className={classes.photo} />
-            </ListItemAvatar>
-            <Box>
+            <div className="candidate-card__inner transition d-flex mx-3 my-2">
+                <ListItemAvatar>
+                    <Avatar src={logo} className={classes.photo} />
+                </ListItemAvatar>
                 <ListItemText>
                     <Box mb={1} display="flex" alignItems="center">
                         <Name name={name} />
@@ -69,7 +69,7 @@ const PartyCard = ({
                     </Box>
                     <VoteRate rate={voteRate} />
                 </ListItemText>
-            </Box>
+            </div>
         </ListItem>
     );
 };

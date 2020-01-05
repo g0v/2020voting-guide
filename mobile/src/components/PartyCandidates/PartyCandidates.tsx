@@ -77,7 +77,7 @@ const PartyCandidates = () => {
                     label="比較政黨"
                 />
             </div>
-            <Box px={2}>
+            <Box>
                 <List>
                     {parties.map((party: PartyCardType) => (
                         <CandidateCardWrap
@@ -88,9 +88,7 @@ const PartyCandidates = () => {
                             selectIndex={selectParties.indexOf(party.name)}
                             selectMode={selectMode}
                         >
-                            <div className="candidate-card__inner transition">
-                                <PartyCard {...party} />
-                            </div>
+                            <PartyCard {...party} />
                         </CandidateCardWrap>
                     ))}
                 </List>
