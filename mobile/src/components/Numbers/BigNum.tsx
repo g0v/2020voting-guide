@@ -8,7 +8,7 @@ interface BigNum {
     text2: string;
 }
 
-const BigNum = ({ num, unit, text1, text2 }: BigNum) => {
+const BigNum = ({ num, unit, text1, text2=''}: BigNum) => {
     return (
         <Box textAlign="center">
             <Box

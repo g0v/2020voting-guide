@@ -6,11 +6,26 @@ import ExpandMoreRoundedIcon from '@material-ui/icons/ExpandMoreRounded';
 import React from 'react';
 import { Bar, BarChart, Cell, ResponsiveContainer, Tooltip, XAxis } from 'recharts';
 import overallStatistic from '../../data/overall_statistic.json';
+import ccw from '../../data/ccw.json';
 import proposeTimes from '../../data/propose_times.json';
+import Issue from '../Issue';
 import Alert from '../Alert';
 import BasePaper from '../BasePaper';
 import BigNum from '../Numbers/BigNum';
 import AppBarChart from './AppBarChart';
+
+
+function isKeyof<T extends object>(obj: T, possibleKey: keyof any): possibleKey is keyof T {
+    return possibleKey in obj;
+}
+
+function getCCW(name: string) {
+    if (isKeyof(ccw, name)) {
+        return ccw[name]
+    } else {
+        return ccw['null']
+    }
+}
 
 const proposeData = proposeTimes.map(item => {
     return {
@@ -105,6 +120,14 @@ const PositionTab = ({
                     立法院國會圖書館
                     </Link>
                 </span>
+                <br />
+                <span>
+                    {`資料來源: `}
+                    <Link href="https://ccw.org.tw/">
+                    公督盟
+                    </Link>
+                    由田君陽提供
+                </span>
                 </Alert>
             </Box>
 
@@ -142,12 +165,11 @@ const PositionTab = ({
                 </ResponsiveContainer>
                 </Box>
             </BasePaper>
+            <Box px={1.5} pt={1}>
+                <Issue name="質詢" />
+            </Box>
             <Box p={1} bgcolor={theme.palette.background.default} />
-
-            <BasePaper
-                title="質詢"
-                subtitle="立法委員要針對行政院的施政進行監督詢答"
-            >
+            <Box px={2.5} py={3} mb={1} bgcolor="#FFFFFF">
                 <Box my={4}>
                     <Typography variant="h3">質詢次數</Typography>
                     <BigNum
@@ -183,21 +205,60 @@ const PositionTab = ({
                         )}
                     </IconButton>
                 </Box>
-            </BasePaper>
+            </Box>
+            <Box px={1.5} pt={1}>
+                <Issue name="出席" />
+            </Box>
             <Box p={1} bgcolor={theme.palette.background.default} />
-
-            <BasePaper
-                title="立法院出席率"
-                subtitle="立委應於指定開會時間出席立法院開會、質詢、審議法案"
-            >
+            <Box px={2.5} py={3} bgcolor="#FFFFFF">
+                <Box pb={1}>
+                    <Typography variant="h2">委員會出席率</Typography>
+                </Box>
                 <BigNum
                     num={Number(getPercentage(statistic.sittingRate))}
                     unit="%"
                     text1={`立委平均 ${getPercentage(overallStatistic.overallSittingRate)}%`}
                     text2={`中位數 ${getPercentage(overallStatistic.mediumSittingRate)}%`}
                 />
+            </Box>
+            <BasePaper
+                title="法案及預算審查委員會"
+                subtitle="在法案及預算審查時有掌握發言機會表達意見的比率"
+            >
+                <BigNum
+                    num={Number(getPercentage(getCCW(name).engagementRate))}
+                    unit="%"
+                    text1={`立委平均 ${getPercentage(overallStatistic.overallEngagementRate)}%`}
+                    text2={`中位數 ${getPercentage(overallStatistic.medianEngagementRate)}%`}
+                />
             </BasePaper>
+            <Box px={1.5} pt={1}>
+                <Issue name="公督盟評鑑" />
+            </Box>
             <Box p={1} bgcolor={theme.palette.background.default} />
+            <Box px={2.5} py={3} bgcolor="#FFFFFF">
+                <Box pb={1}>
+                    <Typography variant="h2">第九屆優秀立委</Typography>
+                </Box>
+                <BigNum
+                    num={Number(getCCW(name).excellentLegislatorNum)}
+                    unit="次"
+                    text1={`總共評鑑 7 次`}
+                    text2={''}
+                />
+            </Box>
+            <Box px={2.5} py={3} bgcolor="#FFFFFF" marginBottom={2}>
+                <Box pb={1}>
+                    <Typography variant="h2">第九屆待觀察立委</Typography>
+                </Box>
+                <BigNum
+                    num={Number(getCCW(name).observedLegislatorNum)}
+                    unit="次"
+                    text1={`總共評鑑 7 次`}
+                    text2={''}
+                />
+            </Box>
+            <Box p={2} bgcolor={theme.palette.background.default} />
         </Box>
     );
 };
