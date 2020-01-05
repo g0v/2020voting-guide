@@ -212,22 +212,22 @@ const StrengthTab = ({
                         </Alert>
                     </>
                 ) : (
-                        <Box bgcolor="#F9F9F9" textAlign="center" pb={3}>
-                            <img
-                                width="150"
-                                height="150"
-                                src="/img/doll/empty_fanpage.svg"
-                                alt="沒有粉絲專頁"
-                            />
-                            <Box height={14} />
-                            <Typography variant="h4" gutterBottom>
-                                沒有粉專資料
+                    <Box bgcolor="#F9F9F9" textAlign="center" pb={3}>
+                        <img
+                            width="150"
+                            height="150"
+                            src="/img/doll/empty_fanpage.svg"
+                            alt="沒有粉絲專頁"
+                        />
+                        <Box height={14} />
+                        <Typography variant="h4" gutterBottom>
+                            沒有粉專資料
                         </Typography>
-                            <Typography variant="h5" color="textSecondary">
-                                選前大補帖目前沒有找到此候選人的粉絲專頁
+                        <Typography variant="h5" color="textSecondary">
+                            選前大補帖目前沒有找到此候選人的粉絲專頁
                         </Typography>
-                        </Box>
-                    )}
+                    </Box>
+                )}
 
                 <Box px={1} pb={1}>
                     <Grid container spacing={1} alignItems="stretch">
@@ -239,8 +239,9 @@ const StrengthTab = ({
                                         color="textSecondary"
                                         gutterBottom
                                     >
-                                        {name}的粉專共投放了{ads.length}篇政治廣告貼文
-                            </Typography>
+                                        {name}的粉專共投放了{ads.length}
+                                        篇政治廣告貼文
+                                    </Typography>
                                     <Box my={2}>
                                         <Typography
                                             variant="h4"
@@ -248,14 +249,17 @@ const StrengthTab = ({
                                             gutterBottom
                                         >
                                             一則貼文平均
-                                </Typography>
+                                        </Typography>
                                         <Box
                                             display="flex"
                                             alignContent="center"
                                             color="#D4AF37"
                                         >
                                             <Box width={42} textAlign="center">
-                                                <img alt="花費" src="/img/money.svg" />
+                                                <img
+                                                    alt="花費"
+                                                    src="/img/money.svg"
+                                                />
                                             </Box>
                                             <Box width={4} />
                                             <Typography variant="h4">
@@ -263,9 +267,15 @@ const StrengthTab = ({
                                             </Typography>
                                         </Box>
                                         <Box height={5} />
-                                        <Box display="flex" alignContent="center">
+                                        <Box
+                                            display="flex"
+                                            alignContent="center"
+                                        >
                                             <Box width={42} textAlign="center">
-                                                <img alt="曝光" src="/img/eye.svg" />
+                                                <img
+                                                    alt="曝光"
+                                                    src="/img/eye.svg"
+                                                />
                                             </Box>
                                             <Box width={4} />
                                             <Typography
@@ -283,14 +293,17 @@ const StrengthTab = ({
                                             gutterBottom
                                         >
                                             競選期間共花費
-                                </Typography>
+                                        </Typography>
                                         <Box
                                             display="flex"
                                             alignContent="center"
                                             color="#D4AF37"
                                         >
                                             <Box width={42} textAlign="center">
-                                                <img alt="花費" src="/img/money.svg" />
+                                                <img
+                                                    alt="花費"
+                                                    src="/img/money.svg"
+                                                />
                                             </Box>
                                             <Box width={4} />
                                             <Typography variant="h4">
@@ -298,9 +311,15 @@ const StrengthTab = ({
                                             </Typography>
                                         </Box>
                                         <Box height={5} />
-                                        <Box display="flex" alignContent="center">
+                                        <Box
+                                            display="flex"
+                                            alignContent="center"
+                                        >
                                             <Box width={42} textAlign="center">
-                                                <img alt="曝光" src="/img/eye.svg" />
+                                                <img
+                                                    alt="曝光"
+                                                    src="/img/eye.svg"
+                                                />
                                             </Box>
                                             <Box width={4} />
                                             <Typography
@@ -311,10 +330,11 @@ const StrengthTab = ({
                                             </Typography>
                                         </Box>
                                     </Box>
-                                </Card></Grid>
+                                </Card>
+                            </Grid>
                         ) : null}
                         {ads.map((ad: AdCardProp) => (
-                            <Grid item xs={12} sm={6}>
+                            <Grid item xs={12} sm={6} key={ad.AD_ID}>
                                 <AdCard {...ad} key={ad.AD_ID} />
                             </Grid>
                         ))}

@@ -37,7 +37,13 @@ const SearchInput = ({ searchInput, changeInput, searchFn }: Props) => {
                 value={searchInput}
                 onChange={changeInput}
             />
-            <Button className={classes.searchButton} onClick={searchFn}>
+            <Button
+                className={classes.searchButton}
+                onClick={searchFn}
+                data-category="function"
+                data-action="search"
+                data-label="searchResult"
+            >
                 <SearchRounded />
             </Button>
         </Box>

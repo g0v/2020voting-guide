@@ -1,9 +1,13 @@
 import { Box, Button, Container, Typography } from '@material-ui/core';
 import React, { MouseEvent, ReactNode } from 'react';
 import { RouteComponentProps } from 'react-router-dom';
-import { scrollBody } from '../../utils';
+import { scrollBody, gaEvent } from '../../utils';
 import Countdown from './Countdown';
+import useYoutubeAPI from '../../hooks/useYoutubeAPI';
+
 import './Home.scss';
+
+declare let window: any;
 
 interface VideoCard {
     title: string;
@@ -11,6 +15,8 @@ interface VideoCard {
     src: string;
     children: ReactNode;
     className: string;
+    iframeId: string;
+    gaLabel: string;
 }
 
 const VideoCard = ({
@@ -18,29 +24,52 @@ const VideoCard = ({
     subtitle,
     src,
     children,
-    className
-}: VideoCard) => (
-    <Box my={4} className={'page-index__video-card ' + className}>
-        <div className="page-index__video-card-text-wrap">
-            <Box mx={1} mb={3} className="page-index__video-card-title">
-                <Typography variant="h2">{title}</Typography>
-            </Box>
-            <Box mx={1} mb={3}>
-                <Typography variant="h3">{subtitle}</Typography>
-            </Box>
-            <Box mx={1} mb={2}>
-                <Typography>{children}</Typography>
-            </Box>
-        </div>
-        <div className="page-index__video-card-yb embed-responsive embed-responsive-16by9">
-            <iframe
-                className="embed-responsive-item"
-                title={title}
-                src={src}
-            ></iframe>
-        </div>
-    </Box>
-);
+    className,
+    iframeId,
+    gaLabel
+}: VideoCard) => {
+    React.useEffect(() => {
+        const player = new window.YT.Player(iframeId, {
+            events: {
+                onPlayerReady() {
+                    console.log('onPlayerReady');
+                },
+                onStateChange(event: any) {
+                    // video playing
+                    if (event.data === 1) {
+                        gaEvent('home', 'play', gaLabel);
+                    }
+                }
+            }
+        });
+        return () => {
+            player.destroy();
+        };
+    }, []);
+    return (
+        <Box my={4} className={'page-index__video-card ' + className}>
+            <div className="page-index__video-card-text-wrap">
+                <Box mx={1} mb={3} className="page-index__video-card-title">
+                    <Typography variant="h2">{title}</Typography>
+                </Box>
+                <Box mx={1} mb={3}>
+                    <Typography variant="h3">{subtitle}</Typography>
+                </Box>
+                <Box mx={1} mb={2}>
+                    <Typography>{children}</Typography>
+                </Box>
+            </div>
+            <div className="page-index__video-card-yb embed-responsive embed-responsive-16by9">
+                <iframe
+                    id={iframeId}
+                    className="embed-responsive-item"
+                    title={title}
+                    src={src}
+                ></iframe>
+            </div>
+        </Box>
+    );
+};
 
 // eslint-disable-next-line
 interface Props extends RouteComponentProps {}
@@ -50,6 +79,8 @@ const Home = (props: Props) => {
         const targetDOM = (e.target as HTMLElement).getAttribute('data-target');
         scrollBody('.' + targetDOM);
     };
+
+    const [isYoutubeReady] = useYoutubeAPI();
     React.useLayoutEffect(() => {
         const historyChageHandler = (location: Record<string, any>) => {
             const { hash } = location;
@@ -82,6 +113,9 @@ const Home = (props: Props) => {
                         color="primary"
                         href="/regional"
                         className="page-home__primary-btn"
+                        data-category="home"
+                        data-action="click"
+                        data-label="goRegion"
                     >
                         <Typography variant="h3">看看區域立委</Typography>
                     </Button>
@@ -92,6 +126,9 @@ const Home = (props: Props) => {
                         color="primary"
                         href="/parties"
                         className="page-home__primary-btn"
+                        data-category="home"
+                        data-action="click"
+                        data-label="goParty"
                     >
                         <Typography variant="h3">瞧瞧不分區立委</Typography>
                     </Button>
@@ -109,7 +146,12 @@ const Home = (props: Props) => {
                     </Box>
                     <Typography className="color-red">等等...</Typography>
                 </Box>
-                <Box onClick={quickButonClick}>
+                <Box
+                    onClick={quickButonClick}
+                    data-category="home"
+                    data-action="learn"
+                    data-label="whyL"
+                >
                     <Typography
                         className="color-red underline page-home__quick-btn cursor-pointer"
                         data-target="page-home-quick-0"
@@ -117,7 +159,13 @@ const Home = (props: Props) => {
                         立委在做什麼？
                     </Typography>
                 </Box>
-                <Box onClick={quickButonClick} mt="12px">
+                <Box
+                    onClick={quickButonClick}
+                    mt="12px"
+                    data-category="home"
+                    data-action="learn"
+                    data-label="why2vote"
+                >
                     <Typography
                         className="color-red underline page-home__quick-btn cursor-pointer"
                         data-target="page-home-quick-1"
@@ -161,55 +209,63 @@ const Home = (props: Props) => {
             </Box>
             <Container>
                 <div id="立委的工作是什麼" />
-                <VideoCard
-                    className="page-home-quick-0"
-                    title="大補帖一、立委的工作是什麼？"
-                    subtitle="立法委員究竟該做什麼？"
-                    src="https://www.youtube.com/embed/lOCqaZ5Pb_w"
-                >
-                    憲法第63條則載明「立法院有
-                    <span className="highlight">
-                        議決法律案、預算案、戒嚴案、大赦案、宣戰案、媾和案、條約案及國家其他重要事項之權
-                    </span>
-                    。」而根據「立法院職權行使法」對立法委員之職責，亦有更明確與具體的描述。
-                    <br />
-                    「什麼樣的選民，就會有什麼樣的立委！」國會助理說得直接。
-                    <br />
-                    換言之，身為選民該思考的是，我們究竟想要一個什麼樣的立法委員？如果憲法上是如此明定立委的職權，透過訪談，我們發現納稅人每年花了近千萬養一個立法委員，而他們每天24小時願意、不願意做的那些事，真的是我們期望的嗎？
-                    <a
-                        href="http://legislator.thenewslens.com/lesson-1-inner-02.html"
-                        className="color-primary d-block font-thumb"
-                        rel="noopener noreferrer"
-                        target="_blank"
+                {isYoutubeReady && (
+                    <VideoCard
+                        className="page-home-quick-0"
+                        title="大補帖一、立委的工作是什麼？"
+                        subtitle="立法委員究竟該做什麼？"
+                        iframeId="home-video-0"
+                        src="https://www.youtube.com/embed/lOCqaZ5Pb_w?enablejsapi=1&rel=0"
+                        gaLabel="video_whyL"
                     >
-                        原文出處：關鍵評論網
-                    </a>
-                </VideoCard>
+                        憲法第63條則載明「立法院有
+                        <span className="highlight">
+                            議決法律案、預算案、戒嚴案、大赦案、宣戰案、媾和案、條約案及國家其他重要事項之權
+                        </span>
+                        。」而根據「立法院職權行使法」對立法委員之職責，亦有更明確與具體的描述。
+                        <br />
+                        「什麼樣的選民，就會有什麼樣的立委！」國會助理說得直接。
+                        <br />
+                        換言之，身為選民該思考的是，我們究竟想要一個什麼樣的立法委員？如果憲法上是如此明定立委的職權，透過訪談，我們發現納稅人每年花了近千萬養一個立法委員，而他們每天24小時願意、不願意做的那些事，真的是我們期望的嗎？
+                        <a
+                            href="http://legislator.thenewslens.com/lesson-1-inner-02.html"
+                            className="color-primary d-block font-thumb"
+                            rel="noopener noreferrer"
+                            target="_blank"
+                        >
+                            原文出處：關鍵評論網
+                        </a>
+                    </VideoCard>
+                )}
                 <div className="divider"></div>
                 <div id="為什麼有兩張票" />
-                <VideoCard
-                    className="page-home-quick-1"
-                    title="大補帖二、為什麼有兩票？"
-                    subtitle="單一選區兩票制"
-                    src="https://www.youtube.com/embed/zPkX6cn4oMg"
-                >
-                    咱們台灣在2008年後的新選制是採用
-                    <span className="highlight">
-                        「單一選區 /
-                        兩票制」，也就是混合了多數決和比例代表制：每個人有兩張票，一票投「區域立委」，這票是投給人；第二張票則是投給政黨（政黨票），以選出「不分區立委」
-                    </span>
-                    。
-                    <br />
-                    其中單一選區（小選區）下選出的區域立委共有73席，以政黨票決定的不分區立委則有34席。但立委總共有113席（73+34+6），另外6席是複數制選區的原住民立委（平地及山地原住民各3席）
-                    <a
-                        href="http://legislator.thenewslens.com/lesson-1-inner-03.html"
-                        className="color-primary d-block font-thumb"
-                        rel="noopener noreferrer"
-                        target="_blank"
+                {isYoutubeReady && (
+                    <VideoCard
+                        className="page-home-quick-1"
+                        title="大補帖二、為什麼有兩票？"
+                        subtitle="單一選區兩票制"
+                        iframeId="home-video-1"
+                        src="https://www.youtube.com/embed/zPkX6cn4oMg?enablejsapi=1&rel=0"
+                        gaLabel="video_2vote"
                     >
-                        原文出處：關鍵評論網
-                    </a>
-                </VideoCard>
+                        咱們台灣在2008年後的新選制是採用
+                        <span className="highlight">
+                            「單一選區 /
+                            兩票制」，也就是混合了多數決和比例代表制：每個人有兩張票，一票投「區域立委」，這票是投給人；第二張票則是投給政黨（政黨票），以選出「不分區立委」
+                        </span>
+                        。
+                        <br />
+                        其中單一選區（小選區）下選出的區域立委共有73席，以政黨票決定的不分區立委則有34席。但立委總共有113席（73+34+6），另外6席是複數制選區的原住民立委（平地及山地原住民各3席）
+                        <a
+                            href="http://legislator.thenewslens.com/lesson-1-inner-03.html"
+                            className="color-primary d-block font-thumb"
+                            rel="noopener noreferrer"
+                            target="_blank"
+                        >
+                            原文出處：關鍵評論網
+                        </a>
+                    </VideoCard>
+                )}
             </Container>
         </div>
     );

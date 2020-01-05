@@ -5,6 +5,7 @@ import { simplifyCaseOfAction } from '../../utils';
 import Card from '../Card';
 import BillDialog from './BillDialog';
 import BillStatus from './BillStatus';
+import { gaEvent } from '../../utils';
 
 const useStyles = makeStyles({
     billInfo: {
@@ -49,6 +50,9 @@ const PersonalBillCard = ({
         <Card key={name}>
             <Box
                 onClick={() => {
+                    if (!open) {
+                        gaEvent('legislator', 'browse', 'lawDetail');
+                    }
                     setOpen(!open);
                 }}
             >

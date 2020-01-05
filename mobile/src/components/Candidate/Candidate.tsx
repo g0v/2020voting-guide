@@ -12,8 +12,10 @@ import NoInfoTab from './NoInfoTab';
 import PassPerformanceTab from './PassPerformanceTab';
 import StrengthTab from './StrengthTab';
 import BasicInfoTab from './BasicInfoTab';
+import useTimeout from '../../hooks/useTimeout';
 
 import county_constituency from '../../data/county_constituency.json';
+import { gaEvent } from '../../utils';
 export interface CandidateType {
     name: string;
     photo: string;
@@ -96,6 +98,12 @@ const IssueBillTabAlert: FunctionComponent<{
 );
 
 const caucusParty = ['民主進步黨', '中國國民黨', '親民黨', '時代力量'];
+const tabsGAValue = [
+    'viewTabLLaw',
+    'viewTabLFanpage',
+    'viewTabL4y',
+    'viewTabLExp'
+];
 
 const isDesktop = !/Mobi|Android/i.test(navigator.userAgent);
 
@@ -124,6 +132,14 @@ const CandidatePage = ({ match }: CandidatePage) => {
     const billsURL = isRegional
         ? `/api/bills/${constituency}/${name}`
         : `/api/nonregional/bills/${party}/${name}`;
+
+    useTimeout(
+        () => {
+            gaEvent('legislator', 'browser', tabsGAValue[tab]);
+        },
+        5000,
+        [tab]
+    );
 
     useEffect(() => {
         if (isRegional) {
@@ -206,7 +222,7 @@ const CandidatePage = ({ match }: CandidatePage) => {
                 >
                     <Tab label="議題法案" />
                     <Tab label="競選戰力" />
-                    <Tab label="過去表現" />
+                    <Tab label="立院表現" />
                     <Tab label="經歷政見" />
                 </Tabs>
             </Box>

@@ -3,6 +3,7 @@ import { makeStyles } from '@material-ui/core/styles';
 import React from 'react';
 import Card from '../Card';
 import AdDialog from './AdDialog';
+import { gaEvent } from '../../utils';
 
 const useStyles = makeStyles({
     content: {
@@ -66,7 +67,9 @@ const AdCard = (ad: AdCardProp) => {
         return (
             <>
                 {adLines.slice(0, 1).map(title => (
-                    <Typography variant="h3">{title}</Typography>
+                    <Typography variant="h3" key={title}>
+                        {title}
+                    </Typography>
                 ))}
                 <Box mb={1} className={classes.content}>
                     <Typography variant="h5" color="textSecondary">
@@ -87,6 +90,9 @@ const AdCard = (ad: AdCardProp) => {
             <Card>
                 <Box
                     onClick={() => {
+                        if (!open) {
+                            gaEvent('legislator', 'browse', 'pagepostDetail');
+                        }
                         setOpen(!open);
                     }}
                 >

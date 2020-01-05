@@ -133,6 +133,9 @@ const AppDrawer = ({ open, handleDrawerClose }: AppDrawer) => {
                     button
                     key={'搜尋立委/政黨'}
                     className={classes.listItemLink}
+                    data-category="function"
+                    data-action="search"
+                    data-label="search"
                     onClick={handleOpen}
                 >
                     <Typography variant="h3">{'搜尋立委/政黨'}</Typography>

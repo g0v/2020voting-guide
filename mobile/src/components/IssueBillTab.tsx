@@ -7,8 +7,8 @@ import NewParty from './Party/NewParty';
 import { createStyles, makeStyles, Theme } from '@material-ui/core/styles';
 import Scroll from 'react-scroll';
 
-var Link = Scroll.Link;
-var Element = Scroll.Element;
+const Link = Scroll.Link;
+const Element = Scroll.Element;
 
 const customStyle = {
     issueContainer: {
@@ -195,6 +195,7 @@ const IssueBillTab: FunctionComponent<{
                                 selectIssue={selectIssue}
                                 updateSelectedIssue={updateSelectedIssue}
                                 complete={handleComplete}
+                                isParty={isParty}
                                 bills={bills}
                             />
                         </Grid>
@@ -226,6 +227,7 @@ const IssueBillTab: FunctionComponent<{
                         isDesktop={isDesktop}
                         selected={selectedIssue}
                         selectIssue={selectIssue}
+                        isParty={isParty}
                         updateSelectedIssue={updateSelectedIssue}
                         complete={handleComplete}
                         bills={bills}
