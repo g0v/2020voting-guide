@@ -1,6 +1,5 @@
-import React, { useEffect, useRef, FunctionComponent } from 'react';
+import React, { useEffect, useRef } from 'react';
 import BubbleChart from './BubbleChart';
-import { d3method } from './types'; 
 import './BubbleChart.scss';
 import { IssueData } from './visData.js';
 import { Button, Select, MenuItem, Typography } from '@material-ui/core';
