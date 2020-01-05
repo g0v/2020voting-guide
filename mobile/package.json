@@ -5,6 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^4.4.2",
     "@material-ui/icons": "^4.4.1",
+    "@types/d3": "^5.7.2",
     "@types/diff-match-patch": "^1.0.32",
     "@types/jest": "24.0.18",
     "@types/lodash": "^4.14.149",
@@ -15,6 +16,7 @@
     "@types/react-router-dom": "^4.3.5",
     "@types/react-scroll": "^1.5.4",
     "@types/recharts": "^1.1.21",
+    "d3": "^5.15.0",
     "dayjs": "^1.8.16",
     "diff-match-patch": "^1.0.4",
     "lodash": "^4.17.15",

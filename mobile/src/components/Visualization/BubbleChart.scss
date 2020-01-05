@@ -1,0 +1,49 @@
+.bubble-chart-container {
+    flex: 1;
+    position: relative;
+    display: flex;
+    user-select: none;
+    justify-content: center;
+  }
+.bubble-label {
+  text-align: center;
+  overflow: hidden;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 50%;
+  will-change: left, top, height, width;
+  font-size: 12px;
+}
+
+.bubble-label:hover {
+  overflow: visible;
+  font-weight: bold;
+  font-size: 18px;
+}
+.vis-container {
+    padding: 40px;
+}
+.vis-controller {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+}
+.vis-controller-mobile {
+  z-index: 100;
+  position: absolute;
+  top: 13%;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  width: 150px;
+  text-align: center;
+}
+@media (max-width: 768px){
+    .vis-container {
+      padding: 0px;
+  }
+}
+

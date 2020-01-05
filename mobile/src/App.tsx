@@ -1,8 +1,10 @@
 import { Box, Container } from '@material-ui/core';
 import React, { Suspense } from 'react';
 import { Route, Switch } from 'react-router-dom';
+import About from './components/About';
 import AppDrawer from './components/AppDrawer';
 import Candidate from './components/Candidate/Candidate';
+import CandidateCompare from './components/CandidateCompare';
 import ConstituencyCandidates from './components/ConstituencyCandidates/ConstituencyCandidates';
 import County from './components/ConstituencyCounty/County';
 import ConstituencyPage from './components/ConstituencyDistrict/ConstituencyPage';
@@ -14,8 +16,7 @@ import PartyCandidates from './components/PartyCandidates/PartyCandidates';
 import Progressing from './components/Progressing';
 import VernacularListPage from './components/Vernacular/VernacularListPage';
 import VernacularPage from './components/Vernacular/VernacularPage';
-import About from './components/About';
-import CandidateCompare from './components/CandidateCompare';
+import VisIssuePage from './components/Visualization/VisIssuePage';
 
 const PartiesCompare = React.lazy(() => import('./components/PartiesCompare'));
 
@@ -76,6 +77,10 @@ const App = () => {
                         <Route
                             path="/vernacular/:billNo"
                             component={VernacularPage}
+                        />
+                        <Route
+                            path="/visualization/issue"
+                            component={VisIssuePage}
                         />
                     </Switch>
                 </Suspense>
