@@ -59,7 +59,7 @@ export const PartyCandidatesSearchResults = ({
     }
     return (
         <SearchResultGridWrapper>
-            <DecoratedTitle title={'不分區立委'} />
+            <DecoratedTitle title={'政黨不分區立委名單'} />
             {partyCandidates.map((c, i) => (
                 <SingleCandidateItemWithPartyName
                     key={i}
@@ -94,7 +94,17 @@ export const PartiesSearchResults = ({
 const SearchResults = (props: Props) => {
     const { loading, error, data } = props;
     if (loading || error) {
-        return <LoadingAndError {...props} />;
+        return (
+            <Box
+                style={{ minHeight: 300 }}
+                display={'flex'}
+                textAlign={'center'}
+                justifyContent={'center'}
+                alignItems={'center'}
+            >
+                <LoadingAndError loading={true} error={false} />
+            </Box>
+        );
     } else if (data) {
         const { constituecyCandidates, partyCandidates, parties } = data;
         const isNoResult =
