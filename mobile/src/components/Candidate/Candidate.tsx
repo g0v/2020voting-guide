@@ -217,7 +217,6 @@ const CandidatePage = ({ match }: CandidatePage) => {
                     value={tab}
                     indicatorColor="primary"
                     textColor="primary"
-                    variant="fullWidth"
                     onChange={switchTab}
                 >
                     <Tab label="議題法案" />

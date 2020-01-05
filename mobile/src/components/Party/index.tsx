@@ -2,8 +2,8 @@ import { Box, Link, Typography } from '@material-ui/core';
 import Tab from '@material-ui/core/Tab';
 import Tabs from '@material-ui/core/Tabs';
 import KeyboardArrowLeft from '@material-ui/icons/KeyboardArrowLeft';
-import React, { useEffect } from 'react';
 import clamp from 'lodash/clamp';
+import React, { useEffect } from 'react';
 import { RouteComponentProps } from 'react-router';
 import partyInfos from '../../data/party.json';
 import partyCandidates from '../../data/party_candidates_integrated.json';
@@ -11,6 +11,8 @@ import partyPolitics2016 from '../../data/party_politics_2016.json';
 import partyPolitics2020 from '../../data/party_politics_2020.json';
 import partyPolitics2020Cec from '../../data/party_politics_2020_cec.json';
 import partyPositions from '../../data/party_positions.json';
+import useTimeout from '../../hooks/useTimeout';
+import { gaEvent } from '../../utils';
 import { Bill } from '../IssueBill';
 import IssueBillTab from '../IssueBillTab';
 // import Progressing from '../Progressing';
@@ -20,8 +22,6 @@ import CandidateList from './CandidateList';
 import Nav from './Nav';
 import NewParty from './NewParty';
 import { Candidate, Position } from './types';
-import useTimeout from '../../hooks/useTimeout';
-import { gaEvent } from '../../utils';
 
 const currentParty = ['民主進步黨', '中國國民黨', '時代力量', '親民黨'];
 
@@ -138,7 +138,12 @@ const Party = ({
                 voteRate={partyInfo.voteRate}
                 padding={desktopPadding}
             />
-            <Box zIndex={499} position="sticky" bgcolor="white" top={isDesktop ? '112px' : '100px'}>
+            <Box
+                zIndex={499}
+                position="sticky"
+                bgcolor="white"
+                top={isDesktop ? '112px' : '100px'}
+            >
                 <Tabs
                     style={desktopPadding}
                     value={tab}
@@ -156,7 +161,12 @@ const Party = ({
                     <Tab label="基本資料" />
                 </Tabs>
             </Box>
-            <Box style={{...desktopPadding, backgroundColor: 'rgb(247, 247, 247)'}} >
+            <Box
+                style={{
+                    ...desktopPadding,
+                    backgroundColor: 'rgb(247, 247, 247)'
+                }}
+            >
                 {tab === 0 && (
                     <CandidateList
                         electedPersonNum={partyInfo.electedPersonNum}
