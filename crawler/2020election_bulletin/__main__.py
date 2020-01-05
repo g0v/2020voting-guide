@@ -96,7 +96,7 @@ def regional_candidates():
     df = df.rename(columns=column_mapping)
     # df["date_of_birth"] = df["date_of_birth"].apply(ROCtoAD)
     # df["age"] = df["date_of_birth"].apply(caculate_age)
-    gist_source = "audreyt/ca005b9e2009e10aede305631dba5c3b/raw/"
+    gist_source = "https://gist.githubusercontent.com/audreyt/ca005b9e2009e10aede305631dba5c3b/raw/"
     df["politic_pic"] = gist_source + df["politic_pic_name"]
     df = df.fillna("")
 
