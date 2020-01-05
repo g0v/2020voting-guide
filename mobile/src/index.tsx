@@ -4,6 +4,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter } from 'react-router-dom';
 import App from './App';
+import { registerGAEvent } from './utils';
+
 import './index.scss';
 import * as serviceWorker from './serviceWorker';
 
@@ -74,6 +76,7 @@ export const theme = createMuiTheme({
     }
 });
 
+registerGAEvent();
 const render = (Component: any) => {
     ReactDOM.render(
         <BrowserRouter>

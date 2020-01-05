@@ -60,3 +60,31 @@ export const numberWithCommas = (value: number | string): string => {
     parts[0] = parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ',');
     return parts.join('.');
 };
+
+/**
+ * gtag event
+ * @param category
+ * @param action
+ * @param label
+ */
+export const gaEvent = (category: string, action: string, label: string) => {
+    (window as any)['gtag']('event', action, {
+        event_category: category,
+        event_label: label
+    });
+    if (process.env.NODE_ENV === 'development') {
+        console.log('gaEvent', category, action, label);
+    }
+};
+
+export const registerGAEvent = () => {
+    window.addEventListener('click', (e: MouseEvent) => {
+        const dom: HTMLElement = e.target as HTMLElement;
+        const category: string = dom.getAttribute('data-category') || '';
+        const action: string = dom.getAttribute('data-action') || '';
+        const label: string = dom.getAttribute('data-label') || '';
+        if (category && action && label) {
+            gaEvent(category, action, label);
+        }
+    });
+};

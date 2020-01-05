@@ -1,0 +1,8 @@
+.click-self,
+[data-category],
+[data-action],
+[data-label] {
+  > * {
+    pointer-events: none;
+  }
+}
