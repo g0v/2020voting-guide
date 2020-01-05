@@ -41,7 +41,7 @@ func ListRelatedBillsByConstituency(c *gin.Context) {
 		caucusFilter := "本院民進黨黨團"
 		db.MySQL.Where("billOrg LIKE ? AND term = ?", caucusFilter, "09").Find(&orgBillsDb)
 		for _, bill := range orgBillsDb {
-			bill.ToModelBill("黨團提案")
+			bills = append(bills, bill.ToModelBill("黨團提案"))
 		}
 		c.JSON(http.StatusOK, bills)
 		return
