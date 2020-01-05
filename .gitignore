@@ -5,7 +5,7 @@
 __pycache__/
 *.pyc
 node_modules/
-*/.DS_Store
+.DS_Store
 data/*
 !data/manual
 !data/static
