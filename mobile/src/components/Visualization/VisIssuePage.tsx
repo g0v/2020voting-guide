@@ -3,7 +3,7 @@ import BubbleChart from './BubbleChart';
 import { d3method } from './types'; 
 import './BubbleChart.scss';
 import { IssueData } from './visData.js';
-import { Button, Select, MenuItem } from '@material-ui/core';
+import { Button, Select, MenuItem, Typography } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
 import { RouteComponentProps } from 'react-router-dom';
 
@@ -18,6 +18,13 @@ const useStyles = makeStyles({
     },
     visSelect: {
         fontSize: '18px'
+    },
+    visSubtitle: {
+        color: 'rgba(0, 0, 0, 0.54)'
+    },
+    visSubtitleMobile: {
+        color: 'rgba(0, 0, 0, 0.54)',
+        fontSize: '14px'
     }
 });
 let vis: any;
@@ -26,7 +33,7 @@ const isMobile: boolean = (typeof window.orientation !== "undefined") || (naviga
 interface Props extends RouteComponentProps {}
 
 const VisIssuePage = (props: Props) => {
-    const defaultTopic = issueTopic[0];
+    const defaultTopic = '交通建設';
 
     const [data, setData] = React.useState({
         name: 'container',
@@ -34,7 +41,7 @@ const VisIssuePage = (props: Props) => {
     });
     const [width, setWidth] = React.useState(document.body.clientWidth);
     const [height, setHeight] = React.useState(document.body.clientHeight*0.5);
-    const [btn, setBtn] = React.useState(issueTopic[0]);
+    const [btn, setBtn] = React.useState(defaultTopic);
     const refElement = useRef(null);
 
 
@@ -61,6 +68,10 @@ const VisIssuePage = (props: Props) => {
     }
     return (
         <div className='vis-container'>
+            <div className='vis-title'>
+                <Typography variant="h2">猜猜誰最常看<span> {btn} </span>法?</Typography>
+                <Typography className={isMobile ? classes.visSubtitleMobile : classes.visSubtitle}>圓圈大小代表該立委「質詢次數+法案提案」的統計數量</Typography>
+            </div>
             { isMobile ?
                 <div className='vis-controller-mobile'>
                     <Select
