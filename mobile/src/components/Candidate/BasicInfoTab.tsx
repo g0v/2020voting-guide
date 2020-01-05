@@ -1,9 +1,9 @@
-import { Box, Typography, Link, DialogContent } from '@material-ui/core';
-import React, { useState, FunctionComponent } from 'react';
+import { Box, Link, Typography } from '@material-ui/core';
 import LabelIcon from '@material-ui/icons/Label';
-import Issue from '../Issue';
+import React, { FunctionComponent, useState } from 'react';
 import Alert from '../Alert';
 import Dialog from '../Dialog';
+import Issue from '../Issue';
 
 const PoliticsCard: FunctionComponent<{
     constituency: string;
@@ -31,8 +31,8 @@ const PoliticsCard: FunctionComponent<{
                     <Box display="flex">
                         {isFromCentral && (
                             <>
-                                <LabelIcon color="primary" />
-                                <Box mr={1}>
+                                <LabelIcon color="primary" fontSize="small" />
+                                <Box ml={0.5} mr={1}>
                                     <Typography variant="body2" color="primary">
                                         中選會公布
                                     </Typography>
@@ -49,7 +49,10 @@ const PoliticsCard: FunctionComponent<{
                         {isLastPolitics ? '上次' : '本次'}參選政見
                     </Typography>
                     <Box color="rgba(0, 0, 0, 0.54);">
-                        {`${politics.substring(0, 100)}...`}
+                        {`${politics
+                            .split('　')
+                            .join('')
+                            .substring(0, 100)}...`}
                     </Box>
                 </Box>
             </Box>
@@ -59,18 +62,22 @@ const PoliticsCard: FunctionComponent<{
                     handleCloseClick={() => setOpen(false)}
                 >
                     <Box overflow="auto">
-                        <Alert>
-                            <Typography variant="h5">
-                                政見資料來自選前大補帖所搜集的{' '}
-                                <Link
-                                    href={politicsConnection}
-                                    target="_blank"
-                                    rel="noopener"
-                                >
-                                    <u>網路公開資料</u>
-                                </Link>
-                            </Typography>
-                        </Alert>
+                        {politicsConnection ? (
+                            <Alert>
+                                <Typography variant="h5">
+                                    政見資料來自選前大補帖所搜集的{' '}
+                                    <Link
+                                        href={politicsConnection}
+                                        target="_blank"
+                                        rel="noopener"
+                                    >
+                                        <u>網路公開資料</u>
+                                    </Link>
+                                </Typography>
+                            </Alert>
+                        ) : (
+                            <Box height={10} />
+                        )}
                         <Box
                             padding="0 20px 72px"
                             color="rgba(0, 0, 0, 0.54)"
@@ -89,15 +96,15 @@ const PoliticsCard: FunctionComponent<{
 const EduExp = ({
     isRegional,
     education,
-    experience,
-    educationConnection,
-    experienceConnection
-}: {
+    experience
+}: // educationConnection,
+// experienceConnection
+{
     isRegional: boolean;
     experience: string;
     education: string;
-    educationConnection: string;
-    experienceConnection: string;
+    // educationConnection: string;
+    // experienceConnection: string;
 }) => (
     <>
         <Box>
@@ -105,28 +112,20 @@ const EduExp = ({
                 <Issue name="學歷 / 經歷" />
             </Box>
             <Alert>
-                {isRegional ? null : (
-                    <>
-                        <Typography
-                            variant="h5"
-                            color="textSecondary"
-                            gutterBottom
-                        >
-                            學經歷與標註為中選會政見，資料來源為中選會。若有差異，以中選會公告資料為準。
-                        </Typography>
-                        <Typography variant="h5" gutterBottom>
-                            資料來源：{' '}
-                            <Link
-                                href="https://2020.cec.gov.tw/index.html"
-                                target="_blank"
-                                rel="noopener"
-                            >
-                                <u>中央選舉委員會</u>
-                            </Link>
-                        </Typography>
-                    </>
-                )}
-                {isRegional && education && (
+                <Typography variant="h5" color="textSecondary" gutterBottom>
+                    學經歷與標註為中選會政見，資料來源為中選會。若有差異，以中選會公告資料為準。
+                </Typography>
+                <Typography variant="h5" gutterBottom>
+                    資料來源：{' '}
+                    <Link
+                        href="https://2020.cec.gov.tw/index.html"
+                        target="_blank"
+                        rel="noopener"
+                    >
+                        <u>中央選舉委員會</u>
+                    </Link>
+                </Typography>
+                {/* {isRegional && education && (
                     <Typography variant="h5" gutterBottom>
                         學歷資料來自選前大補帖所搜集的{' '}
                         <Link
@@ -149,7 +148,7 @@ const EduExp = ({
                             <u>網路公開資料</u>
                         </Link>
                     </Typography>
-                )}
+                )} */}
             </Alert>
         </Box>
         <Box px={1.5} bgcolor="#FFFFFF" py={3}>
@@ -194,12 +193,14 @@ const Politic = ({
     isRegional,
     constituency,
     politic,
-    politicsConnection
+    politicsConnection,
+    cecPolitic
 }: {
     isRegional: boolean;
     constituency: string;
     politic: string;
     politicsConnection: string;
+    cecPolitic: string;
 }) => (
     <>
         <Box px={1.5} pt={2}>
@@ -217,16 +218,27 @@ const Politic = ({
                 </Alert>
                 <Box bgcolor="#F7F7F7" height={72} />
             </>
-        ) : politic ? (
+        ) : cecPolitic || politic ? (
             <>
                 <Box>
-                    <PoliticsCard
-                        isFromCentral={false}
-                        isLastPolitics={false}
-                        politicsConnection={politicsConnection}
-                        constituency={constituency}
-                        politics={politic}
-                    />
+                    {politic && (
+                        <PoliticsCard
+                            isFromCentral={false}
+                            isLastPolitics={false}
+                            politicsConnection={politicsConnection}
+                            constituency={constituency}
+                            politics={politic}
+                        />
+                    )}
+                    {cecPolitic && (
+                        <PoliticsCard
+                            isFromCentral={true}
+                            isLastPolitics={false}
+                            politicsConnection={politicsConnection}
+                            constituency={constituency}
+                            politics={cecPolitic}
+                        />
+                    )}
                 </Box>
             </>
         ) : (
@@ -262,7 +274,8 @@ const BasicInfoTab = ({
     educationConnection,
     experienceConnection,
     politicsConnection,
-    isRegional
+    isRegional,
+    cecCandidate
 }: {
     experience: string;
     constituency: string;
@@ -273,24 +286,34 @@ const BasicInfoTab = ({
     politicsConnection: string;
     isRegional: boolean;
     padding?: object;
+    cecCandidate?: {
+        education: string;
+        experience: string;
+        politic: string;
+        politic_pic: string;
+        politic_pic_name: string;
+    };
 }) => {
     return (
         <Box bgcolor="#F7F7F7" style={padding}>
-            {(education || experience) && (
-                <EduExp
-                    isRegional={isRegional}
-                    education={education}
-                    experience={experience}
-                    educationConnection={educationConnection}
-                    experienceConnection={experienceConnection}
-                />
+            {cecCandidate && (
+                <>
+                    <EduExp
+                        isRegional={isRegional}
+                        education={cecCandidate.education}
+                        experience={cecCandidate.experience}
+                        // educationConnection={educationConnection}
+                        // experienceConnection={experienceConnection}
+                    />
+                    <Politic
+                        constituency={constituency}
+                        isRegional={isRegional}
+                        politic={politic}
+                        politicsConnection={politicsConnection}
+                        cecPolitic={cecCandidate.politic}
+                    />
+                </>
             )}
-            <Politic
-                constituency={constituency}
-                isRegional={isRegional}
-                politic={politic}
-                politicsConnection={politicsConnection}
-            />
         </Box>
     );
 };

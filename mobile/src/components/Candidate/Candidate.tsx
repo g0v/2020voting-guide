@@ -1,21 +1,22 @@
-import { Link, Typography, Box } from '@material-ui/core';
+import { Box, Link, Typography } from '@material-ui/core';
 import Tab from '@material-ui/core/Tab';
 import Tabs from '@material-ui/core/Tabs';
 import KeyboardArrowLeft from '@material-ui/icons/KeyboardArrowLeft';
 import React, { FunctionComponent, useEffect, useState } from 'react';
+import cecCandidates from '../../data/cec_regional_all.json';
+import county_constituency from '../../data/county_constituency.json';
+import partyCandidate from '../../data/party_candidates_integrated.json';
+import useTimeout from '../../hooks/useTimeout';
+import { gaEvent } from '../../utils';
 import Alert from '../Alert';
 import { Bill } from '../IssueBill';
-import partyCandidate from '../../data/party_candidates_integrated.json';
 import IssueBillTab from '../IssueBillTab';
+import BasicInfoTab from './BasicInfoTab';
 import Nav from './Nav';
 import NoInfoTab from './NoInfoTab';
 import PassPerformanceTab from './PassPerformanceTab';
 import StrengthTab from './StrengthTab';
-import BasicInfoTab from './BasicInfoTab';
-import useTimeout from '../../hooks/useTimeout';
 
-import county_constituency from '../../data/county_constituency.json';
-import { gaEvent } from '../../utils';
 export interface CandidateType {
     name: string;
     photo: string;
@@ -127,6 +128,10 @@ const CandidatePage = ({ match }: CandidatePage) => {
 
     const [candidate, setCandidate] = useState<CandidateType>(CandidateDefault);
     const [bills, setBills] = useState<Bill[]>([]);
+    const cecCandidate = cecCandidates.find(
+        candidate =>
+            candidate.name === name && candidate.constituency == constituency
+    );
     const isRegional = constituency !== undefined;
 
     const billsURL = isRegional
@@ -259,6 +264,7 @@ const CandidatePage = ({ match }: CandidatePage) => {
                     {...candidate}
                     isRegional={isRegional}
                     padding={desktopPadding}
+                    cecCandidate={cecCandidate}
                 />
             ) : (
                 <NoInfoTab name={candidate.name} from="basicInfo" />
