@@ -4,6 +4,7 @@ import { RouteComponentProps } from 'react-router-dom';
 import { scrollBody, gaEvent } from '../../utils';
 import Countdown from './Countdown';
 import useYoutubeAPI from '../../hooks/useYoutubeAPI';
+import CurrentLegislatorIssue from './CurrentLegislatorIssue';
 
 import './Home.scss';
 
@@ -266,6 +267,7 @@ const Home = (props: Props) => {
                         </a>
                     </VideoCard>
                 )}
+                <CurrentLegislatorIssue />
             </Container>
         </div>
     );

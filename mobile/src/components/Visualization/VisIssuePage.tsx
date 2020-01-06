@@ -1,10 +1,9 @@
-import React, { useEffect, useRef } from 'react';
+import React, { useEffect, useRef, FunctionComponent } from 'react';
 import BubbleChart from './BubbleChart';
 import './BubbleChart.scss';
 import { IssueData } from './visData.js';
 import { Button, Select, MenuItem, Typography } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
-import { RouteComponentProps } from 'react-router-dom';
 
 const useStyles = makeStyles({
     visButton: {
@@ -29,11 +28,19 @@ const useStyles = makeStyles({
 let vis: any;
 const issueTopic = Object.keys(IssueData);
 const isMobile: boolean = (typeof window.orientation !== "undefined") || (navigator.userAgent.indexOf('IEMobile') !== -1);
-interface Props extends RouteComponentProps {}
 
-const VisIssuePage = (props: Props) => {
-    const defaultTopic = '交通建設';
+interface RouteInfo {
+    params: {
+        topic: string;
+    };
+}
 
+const VisIssuePage: FunctionComponent<{
+        history: any, 
+        match: RouteInfo
+}> = ({history, match}) => {
+
+    const defaultTopic  = match.params.topic;
     const [data, setData] = React.useState({
         name: 'container',
         children: (IssueData as any)[defaultTopic]
@@ -52,7 +59,7 @@ const VisIssuePage = (props: Props) => {
     function initVis() {
         if(data) {
           const d3Props = { data, width, height,};
-          vis = new BubbleChart(refElement.current, d3Props, isMobile, props.history);
+          vis = new BubbleChart(refElement.current, d3Props, isMobile, history);
         }
       };
 
