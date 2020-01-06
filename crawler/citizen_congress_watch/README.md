@@ -17,7 +17,14 @@ python __main__.py
 python group_info.py
 ```
 
+產生 統計數值 json 檔 (ccw.json)
+```lan=shell
+python data_extract.py
+```
+
 ## Format
+
+data/static/evaluation.json
 
 - evaluation: 評鑑結果
 - group: 黨團幹部
@@ -107,6 +114,27 @@ python group_info.py
         }
     }
 }
+```
+
+data/static/ccw.json
+
+```
+{
+    "林麗蟬": {
+        "engagementList": {
+            "1": "18/23",
+            "2": "25/29",
+            "3": "17/20",
+            "4": "28/29",
+            "5": "6/10",
+            "6": "21/22",
+            "7": "17/19"
+        },
+        "engagementRate": 0.8428571428571429,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    ...
 ```
 
 ## Remarks
