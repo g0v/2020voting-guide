@@ -7,13 +7,14 @@ import React, { useEffect } from 'react';
 import { RouteComponentProps } from 'react-router';
 import partyInfos from '../../data/party.json';
 import partyCandidates from '../../data/party_candidates_integrated.json';
+import partyNonRegionalBills from '../../data/party_nonregional_bills.json';
 import partyPolitics2016 from '../../data/party_politics_2016.json';
 import partyPolitics2020 from '../../data/party_politics_2020.json';
 import partyPolitics2020Cec from '../../data/party_politics_2020_cec.json';
-import partyNonRegionalBills from '../../data/party_nonregional_bills.json';
 import partyPositions from '../../data/party_positions.json';
 import useTimeout from '../../hooks/useTimeout';
 import { gaEvent } from '../../utils';
+import Alert from '../Alert';
 import { Bill } from '../IssueBill';
 import IssueBillTab from '../IssueBillTab';
 // import Progressing from '../Progressing';
@@ -21,7 +22,6 @@ import Seats from '../Party/Seats';
 import BasicInfoTab from './BasicInfoTab';
 import CandidateList from './CandidateList';
 import Nav from './Nav';
-import Alert from '../Alert';
 import NewParty from './NewParty';
 import { Candidate, Position } from './types';
 
@@ -192,9 +192,7 @@ const Party = ({
                             isDesktop={isDesktop}
                         >
                             <Alert>
-                                {
-                                    '以下是 2016-2019 年中國國民黨黨團及不分區立委在立法院實際提出的法案。'
-                                }
+                                {`以下是 2016-2019 年${party}黨團及不分區立委在立法院實際提出的法案。`}
                             </Alert>
                         </IssueBillTab>
                     )
