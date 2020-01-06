@@ -79,34 +79,19 @@ const CandidateCard = ({
                 <ListItemText
                     className="candidate-card__inner transition"
                     primary={
-                        <Box m={1}>
-                            <Grid container spacing={2} alignItems="center">
-                                <Grid item>
-                                    {photo ? (
-                                        <Avatar
-                                            src={photo}
-                                            className={classes.photo}
-                                        />
-                                    ) : (
-                                        <Avatar className={classes.photo}>
-                                            {name.charAt(0)}
-                                        </Avatar>
-                                    )}
-                                </Grid>
-                                <Grid item>
-                                    <Grid
-                                        container
-                                        alignItems="center"
-                                        spacing={1}
-                                    >
-                                        <Grid item>
-                                            <Typography variant="h3">
-                                                {name}
-                                            </Typography>
-                                        </Grid>
-                                        <Grid item>
-                                            <RectangleIcon party={party} />
-                                        </Grid>
+                        <div className="m-3 d-flex">
+                            <div className="mr-3">
+                                <Avatar src={photo} className={classes.photo}>
+                                    {name.charAt(0)}
+                                </Avatar>
+                            </div>
+                            <div className="d-flex flex-column">
+                                <Grid container alignItems="center" spacing={1}>
+                                    <div className="h3 text-overflow-1 mb-1">
+                                        {name}
+                                    </div>
+                                    <Grid container alignItems="center">
+                                        <RectangleIcon party={party} />
                                         <Grid item>
                                             {currentLegislator ? (
                                                 <>
@@ -129,20 +114,16 @@ const CandidateCard = ({
                                             ) : null}
                                         </Grid>
                                     </Grid>
-                                    <Grid container>
-                                        <Box py={1} width={230}>
-                                            <Typography
-                                                variant="h4"
-                                                color="textSecondary"
-                                                noWrap
-                                            >
-                                                {experience.split(/;|\n| /)[0]}
-                                            </Typography>
-                                        </Box>
-                                    </Grid>
                                 </Grid>
-                            </Grid>
-                        </Box>
+                                <Grid container>
+                                    <Box py={1}>
+                                        <div className="h4 text-overflow-1 color-gray">
+                                            {experience.split(/;|\n| /)[0]}
+                                        </div>
+                                    </Box>
+                                </Grid>
+                            </div>
+                        </div>
                     }
                 ></ListItemText>
             </ListItem>
@@ -177,16 +158,15 @@ const CandidateCard = ({
                             </>
                         ) : null}
                     </Box>
-                    {photo ? (
-                        <Avatar src={photo} className={classes.desktopPhoto} />
-                    ) : (
-                        <Avatar className={classes.desktopPhoto}>
-                            {name.charAt(0)}
-                        </Avatar>
-                    )}
-                    <Typography variant="h3" align="center">
+                    <Avatar src={photo} className={classes.desktopPhoto}>
+                        {name.charAt(0)}
+                    </Avatar>
+                    <div
+                        className="h3 mb-1"
+                        style={{ textAlign: 'center', lineHeight: 1.2 }}
+                    >
                         {name}
-                    </Typography>
+                    </div>
                     <Typography
                         variant="h4"
                         color="textSecondary"
