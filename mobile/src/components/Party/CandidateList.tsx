@@ -1,7 +1,10 @@
-import React, { FunctionComponent } from 'react';
+import React, { useState, FunctionComponent } from 'react';
 import FiberManualRecordIcon from '@material-ui/icons/FiberManualRecord';
+import Tab from '@material-ui/core/Tab';
+import Tabs from '@material-ui/core/Tabs';
 import { makeStyles } from '@material-ui/styles';
 import {
+    Button,
     Typography,
     Avatar,
     List,
@@ -10,6 +13,7 @@ import {
     Box
 } from '@material-ui/core';
 import Alert from '../Alert';
+import Dialog from '../Dialog';
 import { Candidate } from './types';
 
 const useStyles = makeStyles({
@@ -144,9 +148,36 @@ const CandidateList: FunctionComponent<{
     party: string;
     candidates: Candidate[];
 }> = ({ party, candidates, electedPersonNum }) => {
+    const [open, setOpen] = useState(false);
+    const [tab, setTab] = React.useState(0);
     return (
         <Box>
             <ListAlert name={party} />
+            <Button
+                onClick={() => setOpen(true)}
+                variant="outlined"
+                color="primary"
+            >
+                上屆名單
+            </Button>
+            {open && (
+                <Dialog
+                    top={() => (
+                        <Tabs
+                            value={tab}
+                            onChange={(_e, num) => {
+                                setTab(num);
+                            }}
+                            indicatorColor="primary"
+                            textColor="primary"
+                        >
+                            <Tab label="上屆不分區提名" />
+                            <Tab label="上屆區域立委" />
+                        </Tabs>
+                    )}
+                    handleCloseClick={() => setOpen(false)}
+                />
+            )}
             <Box p={2} bgcolor="white">
                 <List disablePadding>
                     {candidates.map((c, i) => {
