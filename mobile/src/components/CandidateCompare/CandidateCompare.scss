@@ -134,11 +134,9 @@ body.body-page-candidate-compare{
       }
 
       &.candidate-compare-education{
-        height: 300px;
-        overflow: hidden;
-        h3,
-        h5{
-          @include textOverflow(5)
+        height: 380px;
+        .candidate-compare-education-item{
+          height: 140px;
         }
       }
       &.candidate-compare-political{

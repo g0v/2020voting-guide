@@ -22,18 +22,22 @@ export default function CandidateCompareCardEducation({
     }, []);
 
     return (
-        <div className="candidate-compare-col candidate-compare-education loading style-flex">
-            <div className="h4 mb-2">學歷</div>
-            <div
-                className="h5 text-overflow-5 color-gray"
-                dangerouslySetInnerHTML={education}
-            ></div>
+        <div className="candidate-compare-col candidate-compare-education style-flex">
+            <div className="candidate-compare-education-item">
+                <div className="h4 mb-2">學歷</div>
+                <div
+                    className="h5 text-overflow-5 color-gray"
+                    dangerouslySetInnerHTML={education}
+                ></div>
+            </div>
             <div className="mb-3"></div>
-            <div className="h4 mb-2">經歷</div>
-            <div
-                className="h5 text-overflow-5 color-gray"
-                dangerouslySetInnerHTML={experience}
-            ></div>
+            <div className="candidate-compare-education-item">
+                <div className="h4 mb-2">經歷</div>
+                <div
+                    className="h5 text-overflow-5 color-gray"
+                    dangerouslySetInnerHTML={experience}
+                ></div>
+            </div>
             <div className="mt-auto">
                 <a
                     className="btn btn-rounded"
