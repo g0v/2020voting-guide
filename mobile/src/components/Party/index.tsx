@@ -25,7 +25,7 @@ import Nav from './Nav';
 import NewParty from './NewParty';
 import { Candidate, Position } from './types';
 
-const currentParty = ['民主進步黨', '中國國民黨', '時代力量', '親民黨'];
+const currentParties = ['民主進步黨', '中國國民黨', '時代力量', '親民黨'];
 
 interface PartyInfo {
     name: string;
@@ -111,6 +111,8 @@ const Party = ({
         ? currentPartyPoliticsCec.politics
         : '';
 
+    const isCurrentParty = currentParties.includes(party);
+
     return (
         <Box pt={isDesktop ? '48px' : '60px'}>
             {/* TODO: use backend API*/}
@@ -156,16 +158,15 @@ const Party = ({
                     value={tab}
                     indicatorColor="primary"
                     textColor="primary"
-                    variant="fullWidth"
                     onChange={(_e, num) => {
                         setTab(num);
                         updateLocationHref(num);
                     }}
                 >
-                    <Tab label="不分區名單" />
-                    <Tab label="議題法案" />
+                    <Tab value={0} label="不分區名單" />
+                    {isCurrentParty && <Tab value={1} label="議題法案" />}
                     {/* <Tab label="過去表現" /> */}
-                    <Tab label="基本資料" />
+                    <Tab value={2} label="基本資料" />
                 </Tabs>
             </Box>
             <Box
@@ -182,7 +183,7 @@ const Party = ({
                     />
                 )}
                 {tab === 1 ? (
-                    currentParty.indexOf(party) === -1 ? (
+                    currentParties.indexOf(party) === -1 ? (
                         <NewParty name={party} />
                     ) : (
                         <IssueBillTab
