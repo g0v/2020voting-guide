@@ -1,11 +1,11 @@
-import { Box, Link, Typography, Grid } from '@material-ui/core';
+import { Box, Grid, Link, Typography } from '@material-ui/core';
 import React from 'react';
 import Alert from '../Alert';
+import Card from '../Card';
+import { caculateCurrencySum, caculateImpressionsSum } from './adCaculation';
 import AdCard, { AdCardProp } from './AdCard';
 import CompareBarChart from './CompareBarChart';
 import ContributionChart from './ContributionChart';
-import Card from '../Card';
-import { caculateCurrencySum, caculateImpressionsSum } from './adCaculation';
 
 const Payment: {
     candidate: {
@@ -116,7 +116,7 @@ const StrengthTab = ({
         fetch(`/api/data/2016_payment/${name}.json`)
             .then(res => res.json())
             .then(res => {
-                if (res) {
+                if (res && res.candidate.finance_data.income) {
                     setHasPayment(true);
                 }
                 setPayment(res);
