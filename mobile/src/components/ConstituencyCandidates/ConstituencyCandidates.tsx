@@ -1,20 +1,20 @@
 import {
     Breadcrumbs,
+    Container,
     Link,
     List,
-    Typography,
-    Container
+    Typography
 } from '@material-ui/core';
-import NavigateNextIcon from '@material-ui/icons/NavigateNext';
 import { makeStyles } from '@material-ui/core/styles';
+import NavigateNextIcon from '@material-ui/icons/NavigateNext';
 import clsx from 'clsx';
-import React, { useState, useCallback } from 'react';
-import Navigation from '../Navigation';
+import React, { useCallback, useState } from 'react';
+import cecCandidates from '../../data/cec_regional_all.json';
 import useFetch from '../../hooks/useFetch';
-import CandidateCardWrap from './CandidateCardWrap';
+import Navigation from '../Navigation';
 import CandidateCard, { CandidateProps } from './CandidateCard';
+import CandidateCardWrap from './CandidateCardWrap';
 import CompareBTN from './CompareBTN';
-
 import './ConstituencyCandidates.scss';
 
 const useStyles = makeStyles({
@@ -154,28 +154,35 @@ const CountyCandidates = ({ match, location }: Route) => {
                         classes.flexContainer
                 )}
             >
-                {responseData.map((candidate: CandidateProps) => (
-                    <CandidateCardWrap
-                        onClick={event =>
-                            onCandidateCardWrapClick(candidate, event)
-                        }
-                        selectIndex={selectCandidateNames.indexOf(
-                            candidate.name
-                        )}
-                        selectMode={selectMode}
-                        key={candidate.name}
-                    >
-                        <CandidateCard
-                            id={candidate.id}
-                            name={candidate.name}
-                            photo={candidate.photo}
-                            party={candidate.party}
-                            constituency={constituency}
-                            experience={candidate.experience}
-                            currentLegislator={candidate.currentLegislator}
-                        />
-                    </CandidateCardWrap>
-                ))}
+                {responseData.map((candidate: CandidateProps) => {
+                    const cecCandidate = cecCandidates.find(
+                        cecCandidate =>
+                            cecCandidate.constituency === constituency &&
+                            cecCandidate.name === candidate.name
+                    ) || { experience: '' };
+                    return (
+                        <CandidateCardWrap
+                            onClick={event =>
+                                onCandidateCardWrapClick(candidate, event)
+                            }
+                            selectIndex={selectCandidateNames.indexOf(
+                                candidate.name
+                            )}
+                            selectMode={selectMode}
+                            key={candidate.name}
+                        >
+                            <CandidateCard
+                                id={candidate.id}
+                                name={candidate.name}
+                                photo={candidate.photo}
+                                party={candidate.party}
+                                constituency={constituency}
+                                experience={cecCandidate.experience}
+                                currentLegislator={candidate.currentLegislator}
+                            />
+                        </CandidateCardWrap>
+                    );
+                })}
             </List>
         </Container>
     );
