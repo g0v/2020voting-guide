@@ -305,7 +305,7 @@ const BasicInfoTab = ({
 }) => {
     return (
         <Box bgcolor="#F7F7F7" style={padding}>
-            {cecCandidate && (
+            {cecCandidate && isRegional ? (
                 <>
                     <EduExp
                         isRegional={isRegional}
@@ -321,6 +321,24 @@ const BasicInfoTab = ({
                         politicsConnection={politicsConnection}
                         cecPolitic={cecCandidate.politic}
                         cecPoliticPic={cecCandidate.politic_pic}
+                    />
+                </>
+            ) : (
+                <>
+                    <EduExp
+                        isRegional={isRegional}
+                        education={education}
+                        experience={experience}
+                        // educationConnection={educationConnection}
+                        // experienceConnection={experienceConnection}
+                    />
+                    <Politic
+                        constituency={constituency}
+                        isRegional={isRegional}
+                        politic={politic}
+                        politicsConnection={politicsConnection}
+                        cecPolitic={politic}
+                        cecPoliticPic={''}
                     />
                 </>
             )}
