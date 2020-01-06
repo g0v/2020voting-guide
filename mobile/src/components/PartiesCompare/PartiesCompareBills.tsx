@@ -5,14 +5,24 @@ import take from 'lodash/take';
 
 import useFetch from '../../hooks/useFetch';
 import CandidateCompareNoInfo from '../CandidateCompare/CandidateCompareNoInfo';
+import partyNonregionalBills from '../../data/party_nonregional_bills.json';
 
 import { Bill } from '../IssueBill';
 import { pipe } from '../../utils';
 
 type KeyValue = { [key: string]: Bill[] };
 
+type PartyNonregionalBillsType = {
+    name: string;
+    billNo: string;
+    category: string;
+    billStatus: string;
+    vernacular: string;
+    proposerType: string;
+};
+
 interface PartiesCompareBillsItemProps {
-    list: Bill[];
+    list: Bill[] | PartyNonregionalBillsType[];
     type: 'person' | 'party';
 }
 
@@ -25,7 +35,7 @@ const PartiesCompareBillsItem = ({
     }
     const issueCategories: ReactNode = pipe(
         list,
-        (_: Bill[]) => groupBy(_, 'category'),
+        (_: any[]) => groupBy(_, 'category'),
         (_: KeyValue) => {
             const sortList: string[] = Object.keys(_);
             sortList.sort((a: string, b: string) => _[b].length - _[a].length);
@@ -67,8 +77,11 @@ export default function PartiesCompareBills({ name }: Props) {
 
     if (!isLoading) {
         const groupObj: any = groupBy<Bill>(responseData, 'proposerType');
-        // const personIssues: Bill[] = groupObj['立委提案'] || [];
         const partyIssues: Bill[] = groupObj['黨團提案'] || [];
+        // const personIssues: Bill[] = groupObj['立委提案'] || [];
+        const currentPartyNonregionalBills: PartyNonregionalBillsType[] = (partyNonregionalBills as any)[
+            name
+        ];
         child = (
             <div className="parties-compare-bills-item">
                 <div className="h4 mb-3">黨團提案</div>
@@ -88,19 +101,17 @@ export default function PartiesCompareBills({ name }: Props) {
                 <div className="mb-3"></div>
                 <div className="h4 mb-3">不分區立委提案</div>
                 <div className="parties-compare-bills-item">
-                    <CandidateCompareNoInfo title="即將上線" />
-                    {/* TODO 等API資料好了再重新上線 */}
-                    {/*personIssues.length === 0 ? (
+                    {!currentPartyNonregionalBills ? (
                         <CandidateCompareNoInfo
                             title="沒有連署資料"
                             content="可能是新競選政黨或是沒有連署過"
                         />
                     ) : (
                         <PartiesCompareBillsItem
-                            list={personIssues}
+                            list={currentPartyNonregionalBills}
                             type="person"
                         />
-                    )*/}
+                    )}
                 </div>
             </div>
         );
