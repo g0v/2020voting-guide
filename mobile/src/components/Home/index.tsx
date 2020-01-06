@@ -1,11 +1,10 @@
 import { Box, Button, Container, Typography } from '@material-ui/core';
 import React, { MouseEvent, ReactNode } from 'react';
 import { RouteComponentProps } from 'react-router-dom';
-import { scrollBody, gaEvent } from '../../utils';
-import Countdown from './Countdown';
 import useYoutubeAPI from '../../hooks/useYoutubeAPI';
+import { gaEvent, scrollBody } from '../../utils';
+import Countdown from './Countdown';
 import CurrentLegislatorIssue from './CurrentLegislatorIssue';
-
 import './Home.scss';
 
 declare let window: any;
@@ -267,6 +266,7 @@ const Home = (props: Props) => {
                         </a>
                     </VideoCard>
                 )}
+                <div className="divider"></div>
                 <CurrentLegislatorIssue />
             </Container>
         </div>
