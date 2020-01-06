@@ -79,7 +79,7 @@ const App = () => {
                             component={VernacularPage}
                         />
                         <Route
-                            path="/visualization/issue"
+                            path="/visualization/issue/:topic"
                             component={VisIssuePage}
                         />
                     </Switch>

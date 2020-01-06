@@ -164,3 +164,35 @@ $spanHeight : 36px;
     }
   }
 }
+
+.current-legislator {
+  text-align: center;
+  margin-top: 30%;
+  .current-legislator-title__highlight {
+    color: #EC502B
+  }
+  .butten-area {
+    margin-top: 12%;
+    margin-bottom: 12%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    .butten-area-btn {
+      border-radius: 4px;
+      padding: 6px 16px;
+      margin: 5px;
+    }
+  }
+  @include mediaMedium {
+    margin-top: 12%;
+    .butten-area {
+      margin-top: 4%;
+      margin-bottom: 3%;
+    }
+    .current-legislator-title {
+      h2 {
+        font-size: 36px;
+      }
+    }
+  }
+}
