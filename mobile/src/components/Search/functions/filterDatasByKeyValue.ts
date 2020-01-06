@@ -1,14 +1,16 @@
+import checkValuesMatched from './checkValuesMatched';
 
-function filterDatasByKeyValue<Data extends {
-  [key: string]: any
-}, Key extends keyof Data>(data: Data[]) {
-  return (key: keyof Data) => (value: Data[Key]) => {
-   if(!value) {
-    return []
-   } else {
-    return data.filter(d => d[key].includes(value))
-   }
-  }
+// const checkIsMatch = (compareVal: string, comparedVal: string) =>
+//     comparedVal.includes(compareVal);
+
+function filterDatasByKeyValue<Key extends string>(key: Key) {
+    return (value: string) => <
+        Data extends {
+            [key in Key]: typeof value;
+        }
+    >(
+        data: Data[]
+    ) => (value ? data.filter(d => checkValuesMatched(value, d[key])) : []);
 }
 
-export default filterDatasByKeyValue
+export default filterDatasByKeyValue;

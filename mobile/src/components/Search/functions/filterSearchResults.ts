@@ -1,12 +1,15 @@
-import { AllCandidatesAndParties } from "./getAllCandidatesAndParties"
-import filterDatasByKeyValue from "./filterDatasByKeyValue"
+import { AllCandidatesAndParties } from './getAllCandidatesAndParties';
+import filterDatasByKeyValue from './filterDatasByKeyValue';
 
-const filterSearchResults = (inputValue: string) => (data: AllCandidatesAndParties): AllCandidatesAndParties => {
-  return {
-    parties: filterDatasByKeyValue(data.parties)('name')(inputValue),
-    partyCandidates: filterDatasByKeyValue(data.partyCandidates)('name')(inputValue),
-    constituecyCandidates: filterDatasByKeyValue(data.constituecyCandidates)('name')(inputValue),
-  }
-}
+const filterSearchResults = (inputValue: string) => (
+    data: AllCandidatesAndParties
+): AllCandidatesAndParties => {
+    const filterFn = filterDatasByKeyValue('name')(inputValue);
+    return {
+        parties: filterFn(data.parties),
+        partyCandidates: filterFn(data.partyCandidates),
+        constituecyCandidates: filterFn(data.constituecyCandidates)
+    };
+};
 
-export default filterSearchResults
+export default filterSearchResults;
