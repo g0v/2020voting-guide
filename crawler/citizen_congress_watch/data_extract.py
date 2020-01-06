@@ -3,7 +3,7 @@ import json
 
 
 def calculate(name, people, people_dict):
-    """[]
+    """[加總計算每位立委之 優秀立委次數, 待評估立委次數, 法案/預算審查率]
 
     Arguments:
         name {[str]} -- [name of legislator]
