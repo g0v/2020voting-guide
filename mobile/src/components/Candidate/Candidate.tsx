@@ -99,12 +99,14 @@ const IssueBillTabAlert: FunctionComponent<{
 );
 
 const caucusParty = ['民主進步黨', '中國國民黨', '親民黨', '時代力量'];
-const tabsGAValue = [
-    'viewTabLLaw',
-    'viewTabLFanpage',
-    'viewTabL4y',
-    'viewTabLExp'
-];
+const tabsGAValue: {
+    [index: string]: string;
+} = {
+    議題法案: 'viewTabLLaw',
+    競選戰力: 'viewTabLFanpage',
+    立院表現: 'viewTabL4y',
+    經歷政見: 'viewTabLExp'
+};
 
 const isDesktop = !/Mobi|Android/i.test(navigator.userAgent);
 
@@ -117,12 +119,12 @@ const desktopPadding = isDesktop
 const CandidatePage = ({ match }: CandidatePage) => {
     const { party, name, constituency } = match.params;
     const urlParams = new URLSearchParams(window.location.search);
-    let defaultTabIdex = 0;
+    let defaultTabIdex = '議題法案';
     if (urlParams.has('tab')) {
-        defaultTabIdex = parseInt(urlParams.get('tab') as string, 10);
+        defaultTabIdex = urlParams.get('tab') as string;
     }
     const [tab, setTab] = useState(defaultTabIdex);
-    const switchTab = (_: any, newValue: number) => {
+    const switchTab = (_: any, newValue: string) => {
         setTab(newValue);
     };
 
@@ -224,31 +226,68 @@ const CandidatePage = ({ match }: CandidatePage) => {
                     textColor="primary"
                     onChange={switchTab}
                 >
-                    <Tab label="議題法案" />
-                    <Tab label="競選戰力" />
-                    <Tab label="立院表現" />
-                    <Tab label="經歷政見" />
+                    <Tab label="議題法案" value="議題法案" />
+                    <Tab label="競選戰力" value="競選戰力" />
+                    {name === '蔡其昌' ? null : (
+                        <Tab label="立院表現" value="立院表現" />
+                    )}
+                    <Tab label="經歷政見" value="經歷政見" />
                 </Tabs>
             </Box>
-            {tab === 0 ? (
+            {tab === '議題法案' ? (
                 candidate.currentLegislator ||
                 caucusParty.includes(candidate.party) ? (
-                    <IssueBillTab
-                        bills={bills}
-                        padding={desktopPadding}
-                        isDesktop={isDesktop}
-                    >
-                        <IssueBillTabAlert
-                            name={candidate.name}
-                            isCurrentLegislator={candidate.currentLegislator}
-                        />
-                    </IssueBillTab>
+                    <>
+                        <IssueBillTab
+                            bills={bills}
+                            padding={desktopPadding}
+                            isDesktop={isDesktop}
+                        >
+                            {name === '蔡其昌' ? (
+                                <Box
+                                    bgcolor="##E5E5E5"
+                                    height={237}
+                                    textAlign="center"
+                                    py={3}
+                                    px={1}
+                                >
+                                    <img
+                                        width="150"
+                                        height="150"
+                                        src="/img/doll/chairman.svg"
+                                        alt="副院長"
+                                    />
+                                    <Box py={1}>
+                                        <Typography
+                                            variant="h4"
+                                            color="textPrimary"
+                                        >
+                                            蔡其昌是上屆立法院副院長
+                                        </Typography>
+                                    </Box>
+                                    <Typography
+                                        variant="h5"
+                                        color="textSecondary"
+                                    >
+                                        立法院長、副院長的工作是依法監督管理立法院委員會，組織立法院決策程序與行政議事，並負責召集院會
+                                    </Typography>
+                                </Box>
+                            ) : (
+                                <IssueBillTabAlert
+                                    name={candidate.name}
+                                    isCurrentLegislator={
+                                        candidate.currentLegislator
+                                    }
+                                />
+                            )}
+                        </IssueBillTab>
+                    </>
                 ) : (
                     <NoInfoTab name={candidate.name} from="issueBill" />
                 )
-            ) : tab === 1 ? (
+            ) : tab === '競選戰力' ? (
                 <StrengthTab {...candidate} padding={desktopPadding} />
-            ) : tab === 2 ? (
+            ) : tab === '立院表現' ? (
                 candidate.currentLegislator ? (
                     <PassPerformanceTab
                         {...candidate}

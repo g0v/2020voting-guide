@@ -1,11 +1,11 @@
-import { Box, Grid, Card, CardContent, Typography } from '@material-ui/core';
+import { Box, Card, CardContent, Grid, Typography } from '@material-ui/core';
+import { createStyles, makeStyles, Theme } from '@material-ui/core/styles';
 import React, { FunctionComponent } from 'react';
+import Scroll from 'react-scroll';
 import issuesObj from '../data/issues.json';
 import IssueBill, { Bill } from './IssueBill';
 import IssueFilter from './IssueBill/IssueFilter';
 import NewParty from './Party/NewParty';
-import { createStyles, makeStyles, Theme } from '@material-ui/core/styles';
-import Scroll from 'react-scroll';
 
 const Link = Scroll.Link;
 const Element = Scroll.Element;
@@ -216,7 +216,7 @@ const IssueBillTab: FunctionComponent<{
                     </Grid>
                 </Box>
             ) : (
-                <React.Fragment>
+                <>
                     <IssueList
                         isParty={isParty}
                         filteredIssue={filteredIssue}
@@ -236,7 +236,7 @@ const IssueBillTab: FunctionComponent<{
                         complete={handleComplete}
                         bills={bills}
                     />
-                </React.Fragment>
+                </>
             )}
         </Box>
     );
