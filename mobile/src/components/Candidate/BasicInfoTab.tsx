@@ -64,7 +64,7 @@ const PoliticsCard: FunctionComponent<{
                     handleCloseClick={() => setOpen(false)}
                 >
                     <Box overflow="auto">
-                        {politicsConnection ? (
+                        {politicsConnection && !isFromCentral ? (
                             <Alert>
                                 <Typography variant="h5">
                                     政見資料來自選前大補帖所搜集的{' '}
