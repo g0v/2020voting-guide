@@ -81,7 +81,7 @@ const PoliticsCard: FunctionComponent<{
                             <Box height={30} />
                         )}
                         <Box
-                            padding="0 20px 30px 50px"
+                            padding="0 24px 30px"
                             color="rgba(0, 0, 0, 0.54)"
                             whiteSpace="pre-line"
                             lineHeight="160%"
