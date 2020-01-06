@@ -257,17 +257,13 @@ const CandidatePage = ({ match }: CandidatePage) => {
                 ) : (
                     <NoInfoTab name={candidate.name} from="passPerformance" />
                 )
-            ) : candidate.education ||
-              candidate.experience ||
-              candidate.politic ? (
+            ) : (
                 <BasicInfoTab
                     {...candidate}
                     isRegional={isRegional}
                     padding={desktopPadding}
                     cecCandidate={cecCandidate}
                 />
-            ) : (
-                <NoInfoTab name={candidate.name} from="basicInfo" />
             )}
         </Box>
     );
