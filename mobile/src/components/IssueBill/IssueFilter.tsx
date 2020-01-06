@@ -32,7 +32,9 @@ const useStyles = makeStyles((theme: Theme) =>
         fab: {
             position: 'fixed',
             bottom: theme.spacing(2),
-            right: theme.spacing(2)
+            right: theme.spacing(2),
+            fontSize: 20,
+            zIndex: 2000
         },
         desktopFab: {
             position: 'relative',
@@ -141,7 +143,7 @@ const IssueFilter = ({
         <>
             <Fab
                 variant="extended"
-                size="medium"
+                size="large"
                 color="primary"
                 onClick={handleClickOpen}
                 className={isDesktop ? classes.desktopFab : classes.fab}
