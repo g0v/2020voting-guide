@@ -2826,106 +2826,116 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.033842",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.155233",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.045062",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.117896",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.016369",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.051867",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.067317",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.142174",
+          "percentage": "0.139065",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.031819",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.205628",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.071547",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.057569",
+          "percentage": "0.056128",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.000552",
+          "percentage": "0.000396",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001104",
+          "percentage": "0.000132",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000396",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001057",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000552",
-          "age": "65+",
+          "percentage": "0.001453",
+          "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001471",
+          "percentage": "0.01664",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.047808",
           "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.037903",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.03262",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.07158",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.072636",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.053354",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.12018",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.152404",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.195853",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000396",
+          "age": "65+",
           "gender": "unknown"
         }
       ],
       "funding_entity": "龢 何",
       "impressions": {
-        "lower_bound": "6000",
-        "upper_bound": "6999"
+        "lower_bound": "9000",
+        "upper_bound": "9999"
       },
       "page_id": "538471059564180",
       "page_name": "立委 陳怡潔 Chen Yi-Chieh",
       "region_distribution": [
         {
-          "percentage": "0.870843",
+          "percentage": "0.868872",
           "region": "Taipei"
         },
         {
-          "percentage": "0.129157",
+          "percentage": "0.131128",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "1000",
-        "upper_bound": "1499"
+        "lower_bound": "1500",
+        "upper_bound": "1999"
       },
       "ad_id": "303115983938066"
     }
@@ -2947,93 +2957,93 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.00011",
+          "percentage": "9.7E-5",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.023901",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000219",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000219",
+          "percentage": "0.087981",
           "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000877",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.036509",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.036619",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.06633",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.137595",
-          "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.00011",
-          "age": "55-64",
+          "percentage": "0.000776",
+          "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.080803",
+          "percentage": "0.000582",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000291",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.01746",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.036667",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.079542",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.173556",
-          "age": "35-44",
+          "percentage": "0.13852",
+          "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.083324",
+          "percentage": "9.7E-5",
           "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.025318",
+          "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.132332",
+          "percentage": "0.129887",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.124",
+          "percentage": "0.121156",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.085627",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.017213",
-          "age": "18-24",
+          "percentage": "0.065768",
+          "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.000658",
-          "age": "25-34",
+          "percentage": "0.176836",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.082646",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.036182",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000194",
+          "age": "18-24",
           "gender": "unknown"
         }
       ],
@@ -3046,17 +3056,17 @@
       "page_name": "立委 陳怡潔 Chen Yi-Chieh",
       "region_distribution": [
         {
-          "percentage": "0.832537",
+          "percentage": "0.835766",
           "region": "Taipei"
         },
         {
-          "percentage": "0.167463",
+          "percentage": "0.164234",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "1000",
-        "upper_bound": "1499"
+        "lower_bound": "1500",
+        "upper_bound": "1999"
       },
       "ad_id": "844122666022148"
     }

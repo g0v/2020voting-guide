@@ -1734,86 +1734,96 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.171788",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.047486",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.150838",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.072626",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.164804",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.065642",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.048883",
+          "percentage": "0.055587",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.131285",
+          "percentage": "0.029799",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.140974",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.057307",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.144986",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.148424",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.127794",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.039106",
-          "age": "18-24",
+          "percentage": "0.067049",
+          "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.062849",
+          "percentage": "0.077364",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.079083",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.018156",
+          "percentage": "0.024642",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.026536",
-          "age": "25-34",
-          "gender": "female"
+          "percentage": "0.045845",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000573",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000573",
+          "age": "18-24",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "志偉 何",
       "impressions": {
-        "lower_bound": "1000",
-        "upper_bound": "1999"
+        "lower_bound": "3000",
+        "upper_bound": "3999"
       },
       "page_id": "296199430542790",
       "page_name": "何志偉",
       "region_distribution": [
         {
-          "percentage": "0.878151",
+          "percentage": "0.853659",
           "region": "Taipei"
         },
         {
-          "percentage": "0.121849",
+          "percentage": "0.146341",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
+        "lower_bound": "500",
+        "upper_bound": "599"
       },
       "ad_id": "497745557614286"
     }
@@ -1992,70 +2002,70 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.150654",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.054295",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.022835",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.028491",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.041711",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.324214",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.264051",
+          "percentage": "0.265077",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.001838",
-          "age": "25-34",
+          "percentage": "0.324913",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000771",
+          "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.106964",
+          "percentage": "0.152108",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.041037",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.107217",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.003464",
+          "percentage": "0.052778",
           "age": "35-44",
-          "gender": "unknown"
+          "gender": "female"
         },
         {
-          "percentage": "0.000707",
+          "percentage": "0.028346",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.021526",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000652",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000778",
-          "age": "45-54",
+          "percentage": "0.003499",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.002076",
+          "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "志偉 何",
       "impressions": {
-        "lower_bound": "15000",
-        "upper_bound": "19999"
+        "lower_bound": "20000",
+        "upper_bound": "24999"
       },
       "page_id": "296199430542790",
       "page_name": "何志偉",
@@ -2066,8 +2076,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "2000",
-        "upper_bound": "2499"
+        "lower_bound": "3000",
+        "upper_bound": "3499"
       },
       "ad_id": "841900302916725"
     }
@@ -2089,95 +2099,95 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.10956",
+          "percentage": "0.057316",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.118239",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.08217",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.001074",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000537",
+          "percentage": "0.00038",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001611",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.001074",
+          "percentage": "0.001708",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.120301",
-          "age": "45-54",
-          "gender": "male"
+          "percentage": "0.000759",
+          "age": "25-34",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.119227",
+          "percentage": "0.000759",
           "age": "55-64",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.185285",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.049946",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.027927",
+          "percentage": "0.032264",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.098281",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.061224",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.025242",
+          "percentage": "0.022205",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.079484",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.035983",
+          "percentage": "0.051433",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.001074",
+          "percentage": "0.101917",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.168723",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.057127",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.123363",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.123932",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.072879",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.066426",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000569",
           "age": "18-24",
           "gender": "unknown"
         }
       ],
       "funding_entity": "志偉 何",
       "impressions": {
-        "lower_bound": "2000",
-        "upper_bound": "2999"
+        "lower_bound": "6000",
+        "upper_bound": "6999"
       },
       "page_id": "296199430542790",
       "page_name": "何志偉",
@@ -2188,8 +2198,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
+        "lower_bound": "700",
+        "upper_bound": "799"
       },
       "ad_id": "849483872176513"
     }
@@ -2213,65 +2223,70 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.002077",
-          "age": "18-24",
+          "percentage": "0.000496",
+          "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.002077",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.328141",
+          "percentage": "0.318294",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.172378",
+          "percentage": "0.220129",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.065444",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.149232",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.040498",
+          "percentage": "0.121468",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.042142",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.201454",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.070613",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.111111",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.043614",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.005192",
+          "percentage": "0.003966",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.022845",
+          "percentage": "0.045117",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000992",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.030739",
           "age": "18-24",
           "gender": "female"
+        },
+        {
+          "percentage": "0.001983",
+          "age": "25-34",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "志偉 何",
       "impressions": {
-        "lower_bound": "1000",
-        "upper_bound": "1999"
+        "lower_bound": "3000",
+        "upper_bound": "3999"
       },
       "page_id": "296199430542790",
       "page_name": "何志偉",
@@ -2282,8 +2297,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "100",
-        "upper_bound": "199"
+        "lower_bound": "500",
+        "upper_bound": "599"
       },
       "ad_id": "461150001504954"
     }

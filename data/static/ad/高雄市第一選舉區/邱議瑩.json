@@ -588,100 +588,100 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000592",
-          "age": "25-34",
+          "percentage": "0.000334",
+          "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.091118",
+          "percentage": "0.000401",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.093652",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.162768",
-          "age": "25-34",
-          "gender": "male"
+          "percentage": "0.068165",
+          "age": "35-44",
+          "gender": "female"
         },
         {
-          "percentage": "0.176314",
+          "percentage": "0.171048",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.232717",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.095189",
+          "percentage": "0.090976",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.065877",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.05433",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.031384",
+          "percentage": "0.034785",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.048038",
+          "percentage": "0.231521",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.163957",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.047428",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.040489",
+          "percentage": "0.038799",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.00037",
+          "percentage": "0.057797",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000334",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00037",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000444",
-          "age": "35-44",
+          "percentage": "0.000803",
+          "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "德耕 盧",
       "impressions": {
-        "lower_bound": "50000",
-        "upper_bound": "59999"
+        "lower_bound": "60000",
+        "upper_bound": "69999"
       },
       "page_id": "179828222070223",
       "page_name": "登真-邱議瑩",
       "region_distribution": [
         {
-          "percentage": "0.584263",
+          "percentage": "0.582075",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.229681",
+          "percentage": "0.233114",
           "region": "Tainan"
         },
         {
-          "percentage": "0.186056",
+          "percentage": "0.18481",
           "region": "Pingtung"
         }
       ],
       "spend": {
-        "lower_bound": "7000",
-        "upper_bound": "7999"
+        "lower_bound": "8000",
+        "upper_bound": "8999"
       },
       "ad_id": "648039619061020"
     }
@@ -2020,75 +2020,80 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.070205",
+          "percentage": "0.000262",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.065234",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.08692",
+          "percentage": "0.088289",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.165901",
+          "percentage": "0.169243",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.071041",
+          "percentage": "0.070998",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.062683",
+          "percentage": "0.056589",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.016298",
+          "percentage": "0.015457",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.171751",
+          "percentage": "0.182604",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.114919",
+          "percentage": "0.116322",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.114083",
+          "percentage": "0.107938",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.056415",
+          "percentage": "0.061567",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.026327",
+          "percentage": "0.022793",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.043042",
+          "percentage": "0.042442",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.000418",
+          "percentage": "0.000262",
           "age": "65+",
           "gender": "unknown"
         }
       ],
       "funding_entity": "德耕 盧",
       "impressions": {
-        "lower_bound": "4000",
-        "upper_bound": "4999"
+        "lower_bound": "7000",
+        "upper_bound": "7999"
       },
       "page_id": "179828222070223",
       "page_name": "登真-邱議瑩",
@@ -2099,8 +2104,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "1000",
-        "upper_bound": "1499"
+        "lower_bound": "1500",
+        "upper_bound": "1999"
       },
       "ad_id": "589084401909556"
     }
@@ -2122,17 +2127,22 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.163465",
+          "percentage": "8.0E-5",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.057902",
           "age": "45-54",
-          "gender": "male"
+          "gender": "female"
         },
         {
-          "percentage": "0.055674",
-          "age": "18-24",
-          "gender": "male"
+          "percentage": "0.000318",
+          "age": "35-44",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.000237",
+          "percentage": "0.000278",
           "age": "45-54",
           "gender": "unknown"
         },
@@ -2142,80 +2152,75 @@
           "gender": "unknown"
         },
         {
-          "percentage": "0.000356",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000119",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000237",
+          "percentage": "0.027837",
           "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.018143",
-          "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.053895",
+          "percentage": "0.062038",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.061722",
+          "percentage": "0.090352",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.051499",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "4.0E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.127297",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.053329",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.025495",
-          "age": "25-34",
+          "percentage": "0.018691",
+          "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.054133",
+          "percentage": "0.097511",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.167223",
           "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.093442",
-          "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.198209",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.04435",
+          "percentage": "0.041001",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.097711",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.132634",
-          "age": "55-64",
+          "percentage": "0.204009",
+          "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "5.9E-5",
-          "age": "18-24",
+          "percentage": "0.000477",
+          "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "德耕 盧",
       "impressions": {
-        "lower_bound": "20000",
-        "upper_bound": "24999"
+        "lower_bound": "30000",
+        "upper_bound": "34999"
       },
       "page_id": "179828222070223",
       "page_name": "登真-邱議瑩",
@@ -2226,8 +2231,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "1500",
-        "upper_bound": "1999"
+        "lower_bound": "2500",
+        "upper_bound": "2999"
       },
       "ad_id": "570818063753325"
     }
@@ -2249,80 +2254,90 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.027134",
-          "age": "18-24",
-          "gender": "male"
+          "percentage": "0.000429",
+          "age": "25-34",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.192764",
-          "age": "45-54",
-          "gender": "male"
+          "percentage": "0.000429",
+          "age": "35-44",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.185981",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.010741",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.08762",
+          "percentage": "0.089661",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.091012",
+          "percentage": "0.1716",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.046332",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.09438",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.053137",
-          "age": "25-34",
+          "percentage": "0.185757",
+          "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.060486",
+          "percentage": "0.181896",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.056199",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.174675",
-          "age": "35-44",
+          "percentage": "0.029601",
+          "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.048615",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.045223",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.021481",
+          "percentage": "0.023166",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.000565",
+          "percentage": "0.050193",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.055341",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.013728",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000429",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000565",
+          "percentage": "0.000858",
           "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "德耕 盧",
       "impressions": {
-        "lower_bound": "2000",
-        "upper_bound": "2999"
+        "lower_bound": "3000",
+        "upper_bound": "3999"
       },
       "page_id": "179828222070223",
       "page_name": "登真-邱議瑩",
@@ -2333,8 +2348,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "100",
-        "upper_bound": "199"
+        "lower_bound": "200",
+        "upper_bound": "299"
       },
       "ad_id": "779498875886655"
     }

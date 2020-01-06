@@ -300,70 +300,70 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.152524",
+          "percentage": "6.8E-5",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.152117",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.295522",
+          "percentage": "0.25794",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.292635",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.098988",
+          "percentage": "0.107904",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.099887",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.0509",
+          "percentage": "0.021799",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.052059",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.257101",
-          "age": "25-34",
-          "gender": "male"
+          "percentage": "0.012861",
+          "age": "45-54",
+          "gender": "female"
         },
         {
-          "percentage": "0.001863",
+          "percentage": "0.001842",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.012936",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.022216",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.107002",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000808",
+          "percentage": "0.000819",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "7.0E-5",
+          "percentage": "6.8E-5",
           "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "7.0E-5",
-          "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "程朗李",
       "impressions": {
-        "lower_bound": "60000",
-        "upper_bound": "69999"
+        "lower_bound": "70000",
+        "upper_bound": "79999"
       },
       "page_id": "127397457601670",
       "page_name": "陳根德",
@@ -1182,65 +1182,70 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000888",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000111",
+          "percentage": "4.2E-5",
           "age": "13-17",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001",
+          "percentage": "0.111017",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.233078",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.064233",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.147222",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.230675",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.028492",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.071441",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.111776",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001096",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.282874",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.136162",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.227232",
+          "percentage": "0.000717",
           "age": "25-34",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.081519",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.064527",
+          "percentage": "0.000211",
           "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.066748",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.116837",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.022101",
-          "age": "18-24",
-          "gender": "female"
+          "gender": "unknown"
         }
       ],
       "funding_entity": "程朗李",
       "impressions": {
-        "lower_bound": "10000",
-        "upper_bound": "14999"
+        "lower_bound": "45000",
+        "upper_bound": "49999"
       },
       "page_id": "127397457601670",
       "page_name": "陳根德",
@@ -1251,8 +1256,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "3000",
-        "upper_bound": "3499"
+        "lower_bound": "8000",
+        "upper_bound": "8999"
       },
       "ad_id": "570362036861878"
     }
@@ -1361,91 +1366,96 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.285759",
-          "age": "25-34",
-          "gender": "male"
+          "percentage": "0.0003",
+          "age": "45-54",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.14462",
+          "percentage": "0.140558",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.056013",
+          "percentage": "0.262621",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.049285",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.229114",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.033544",
+          "percentage": "0.03379",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.025",
+          "percentage": "0.030591",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.042089",
+          "percentage": "0.047286",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.127532",
+          "percentage": "0.135259",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.04019",
+          "percentage": "0.046286",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.012975",
+          "percentage": "0.017195",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.000633",
+          "percentage": "0.0003",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000949",
+          "percentage": "0.0014",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001582",
+          "percentage": "0.0008",
           "age": "35-44",
           "gender": "unknown"
+        },
+        {
+          "percentage": "0.23433",
+          "age": "35-44",
+          "gender": "male"
         }
       ],
       "funding_entity": "程朗李",
       "impressions": {
-        "lower_bound": "4000",
-        "upper_bound": "4999"
+        "lower_bound": "15000",
+        "upper_bound": "19999"
       },
       "page_id": "127397457601670",
       "page_name": "陳根德",
       "region_distribution": [
         {
-          "percentage": "0.702542",
+          "percentage": "0.682004",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.297458",
+          "percentage": "0.317996",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "600",
-        "upper_bound": "699"
+        "lower_bound": "2500",
+        "upper_bound": "2999"
       },
       "ad_id": "2699689530145082"
     }
@@ -1467,76 +1477,76 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.394287",
+          "percentage": "0.399865",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.326482",
+          "percentage": "0.326708",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.042712",
+          "percentage": "0.04068",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.019487",
+          "percentage": "0.022158",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.093166",
+          "percentage": "0.095653",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.00961",
+          "percentage": "0.010741",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.104645",
+          "percentage": "0.0932",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.001335",
+          "percentage": "0.001945",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001602",
+          "percentage": "0.001353",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.006674",
+          "percentage": "0.007696",
           "age": "45-54",
           "gender": "female"
         }
       ],
       "funding_entity": "程朗李",
       "impressions": {
-        "lower_bound": "5000",
-        "upper_bound": "5999"
+        "lower_bound": "20000",
+        "upper_bound": "24999"
       },
       "page_id": "127397457601670",
       "page_name": "陳根德",
       "region_distribution": [
         {
-          "percentage": "0.995213",
-          "region": "Taoyuan City"
+          "percentage": "0.005189",
+          "region": "New Taipei City"
         },
         {
-          "percentage": "0.004787",
-          "region": "New Taipei City"
+          "percentage": "0.994811",
+          "region": "Taoyuan City"
         }
       ],
       "spend": {
-        "lower_bound": "900",
-        "upper_bound": "999"
+        "lower_bound": "4000",
+        "upper_bound": "4499"
       },
       "ad_id": "624930884909446"
     }
@@ -1558,65 +1568,70 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000549",
-          "age": "35-44",
-          "gender": "unknown"
+          "percentage": "0.295309",
+          "age": "25-34",
+          "gender": "male"
         },
         {
-          "percentage": "0.29528",
+          "percentage": "0.285362",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.126509",
+          "percentage": "0.085235",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.112429",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.280735",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.077113",
+          "percentage": "0.082953",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.086169",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.067783",
+          "percentage": "0.074466",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.045829",
+          "percentage": "0.023453",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.038511",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.018386",
-          "age": "18-24",
-          "gender": "female"
+          "percentage": "9.1E-5",
+          "age": "45-54",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.001372",
+          "percentage": "0.001095",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000274",
+          "percentage": "0.000913",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000183",
           "age": "18-24",
           "gender": "unknown"
         }
       ],
       "funding_entity": "程朗李",
       "impressions": {
-        "lower_bound": "5000",
-        "upper_bound": "5999"
+        "lower_bound": "20000",
+        "upper_bound": "24999"
       },
       "page_id": "127397457601670",
       "page_name": "陳根德",
@@ -1627,8 +1642,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "1000",
-        "upper_bound": "1499"
+        "lower_bound": "4000",
+        "upper_bound": "4499"
       },
       "ad_id": "991498711215887"
     }
@@ -1650,77 +1665,77 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000149",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "7.4E-5",
+          "percentage": "6.7E-5",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000818",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.071795",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.077666",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.022965",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.168859",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.086659",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.081605",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.203567",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.060572",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.180379",
+          "percentage": "0.176768",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.043255",
+          "percentage": "0.087879",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.079259",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.202963",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.164444",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.080943",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.074747",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.061616",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.023771",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.044781",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.001263",
+          "percentage": "0.000135",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001212",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000372",
+          "percentage": "0.000875",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000539",
           "age": "45-54",
           "gender": "unknown"
         }
@@ -1734,17 +1749,17 @@
       "page_name": "陳根德",
       "region_distribution": [
         {
-          "percentage": "0.666351",
+          "percentage": "0.667255",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.333649",
+          "percentage": "0.332745",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "4000",
-        "upper_bound": "4499"
+        "lower_bound": "5000",
+        "upper_bound": "5999"
       },
       "ad_id": "451780435518247"
     }
@@ -1766,62 +1781,62 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.00172",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000164",
+          "percentage": "0.000228",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "8.2E-5",
+          "percentage": "0.001597",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "7.6E-5",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001311",
+          "percentage": "0.001217",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.346302",
+          "percentage": "0.347654",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.114588",
+          "percentage": "0.116873",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.304857",
+          "percentage": "0.29686",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.024163",
+          "percentage": "0.024105",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.028831",
+          "percentage": "0.028287",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.156114",
+          "percentage": "0.160064",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.011549",
+          "percentage": "0.012014",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.01032",
+          "percentage": "0.011026",
           "age": "18-24",
           "gender": "female"
         }
@@ -1835,17 +1850,17 @@
       "page_name": "陳根德",
       "region_distribution": [
         {
-          "percentage": "0.994736",
+          "percentage": "0.995058",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.005264",
+          "percentage": "0.004942",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "4500",
-        "upper_bound": "4999"
+        "lower_bound": "5000",
+        "upper_bound": "5999"
       },
       "ad_id": "459987104665783"
     }

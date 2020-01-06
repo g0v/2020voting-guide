@@ -2355,47 +2355,47 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.232749",
+          "percentage": "0.232438",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.139415",
+          "percentage": "0.139987",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.351631",
+          "percentage": "0.350083",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.124039",
+          "percentage": "0.123483",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.107257",
+          "percentage": "0.108358",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.041862",
+          "percentage": "0.042571",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.001453",
+          "percentage": "0.001471",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000938",
+          "percentage": "0.000919",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000656",
+          "percentage": "0.00069",
           "age": "25-34",
           "gender": "unknown"
         }
@@ -2409,15 +2409,15 @@
       "page_name": "洪孟楷",
       "region_distribution": [
         {
-          "percentage": "0.06858",
+          "percentage": "0.068697",
           "region": "Taipei"
         },
         {
-          "percentage": "0.135986",
+          "percentage": "0.136378",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.795434",
+          "percentage": "0.794925",
           "region": "New Taipei City"
         }
       ],
@@ -5130,43 +5130,48 @@
           "gender": "unknown"
         },
         {
-          "percentage": "0.00033",
+          "percentage": "0.000328",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00011",
+          "percentage": "0.000109",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.290452",
+          "percentage": "0.290693",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.292528",
+          "percentage": "0.063866",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.291662",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.131914",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.104355",
+          "percentage": "0.014816",
           "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.063283",
-          "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.009374",
+          "percentage": "0.132442",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.009354",
           "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.009654",
+          "age": "25-34",
           "gender": "female"
         },
         {
@@ -5175,27 +5180,22 @@
           "gender": "male"
         },
         {
-          "percentage": "0.049401",
+          "percentage": "0.049159",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.014543",
+          "percentage": "0.103834",
           "age": "35-44",
-          "gender": "female"
+          "gender": "male"
         },
         {
-          "percentage": "0.009649",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000261",
+          "percentage": "0.000287",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000481",
+          "percentage": "0.000478",
           "age": "45-54",
           "gender": "unknown"
         }
@@ -5209,27 +5209,27 @@
       "page_name": "洪孟楷",
       "region_distribution": [
         {
-          "percentage": "0.420874",
+          "percentage": "0.418586",
           "region": "Taipei"
         },
         {
-          "percentage": "0.296625",
+          "percentage": "0.298527",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.241237",
+          "percentage": "0.241706",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.000899",
+          "percentage": "0.000958",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.001013",
+          "percentage": "0.001015",
           "region": "Yilan"
         },
         {
-          "percentage": "0.039353",
+          "percentage": "0.039208",
           "region": "Keelung City"
         }
       ],
@@ -6876,99 +6876,99 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000141",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000494",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000318",
+          "percentage": "0.000311",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.250088",
+          "percentage": "0.195509",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.105476",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.175056",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.248679",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.109264",
+          "percentage": "0.108343",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.177222",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.103897",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.192932",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.021606",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.066088",
+          "percentage": "0.06692",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.01225",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.010309",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.053943",
+          "percentage": "0.053688",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.001024",
+          "percentage": "0.021454",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.010399",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.012092",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000173",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000484",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001002",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000424",
+          "percentage": "0.000415",
           "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "孟楷洪",
       "impressions": {
-        "lower_bound": "45000",
-        "upper_bound": "49999"
+        "lower_bound": "50000",
+        "upper_bound": "59999"
       },
       "page_id": "259512084446867",
       "page_name": "洪孟楷",
       "region_distribution": [
         {
-          "percentage": "0.022439",
+          "percentage": "0.022388",
           "region": "Taipei"
         },
         {
-          "percentage": "0.055426",
+          "percentage": "0.055709",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.922135",
+          "percentage": "0.921903",
           "region": "New Taipei City"
         }
       ],
@@ -7112,78 +7112,78 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000119",
+          "percentage": "0.000115",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000593",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.182222",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.232389",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.116758",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.020398",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.090904",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.134784",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.044889",
+          "percentage": "0.045032",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.068904",
+          "percentage": "0.134179",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.232045",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.181964",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.093908",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.068954",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.093276",
-          "age": "45-54",
+          "percentage": "0.020766",
+          "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.013342",
+          "percentage": "0.090867",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.116567",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.013424",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.000712",
+          "percentage": "0.000688",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000178",
-          "age": "55-64",
+          "percentage": "0.000631",
+          "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000534",
-          "age": "35-44",
+          "percentage": "0.000631",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000229",
+          "age": "55-64",
           "gender": "unknown"
         }
       ],
@@ -7196,21 +7196,21 @@
       "page_name": "洪孟楷",
       "region_distribution": [
         {
-          "percentage": "0.164473",
+          "percentage": "0.000163",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.167047",
           "region": "Taipei"
         },
         {
-          "percentage": "0.835358",
+          "percentage": "0.83279",
           "region": "New Taipei City"
-        },
-        {
-          "percentage": "0.000169",
-          "region": "Taoyuan City"
         }
       ],
       "spend": {
-        "lower_bound": "4500",
-        "upper_bound": "4999"
+        "lower_bound": "5000",
+        "upper_bound": "5999"
       },
       "ad_id": "2489190624463917"
     }
@@ -7228,104 +7228,109 @@
       "ad_creative_body": "蔡淑君議員長年為林口人爭取建設，只要林口人有需要，淑君阿姨立刻到！不僅在地人知道有這麼好的議員，連外縣市的民眾也知道林口有認真負責的淑君阿姨！\n\n請鄉親牽成🙏，跟淑君阿姨一起力挺洪孟楷！未來孟楷有幸進入國會，一定會努力向中央為林口爭取預算，為林口的發展努力！讓孟楷一起拚，和淑君阿姨「中央地方一條心」👍，作夥讓新北變得更好，用年輕與專業的力量，為國會帶來新風貌💪💪！",
       "ad_creation_time": "2019-12-18T06:32:55+0000",
       "ad_delivery_start_time": "2019-12-18T07:00:27+0000",
-      "ad_delivery_stop_time": "2019-12-31T14:00:27+0000",
+      "ad_delivery_stop_time": "2020-01-10T14:00:27+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000116",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.00054",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.189678",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.123056",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.280156",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.029451",
+          "percentage": "0.032971",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.066816",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.175821",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.028023",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.008801",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.086154",
+          "percentage": "0.096687",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.010538",
+          "percentage": "0.262049",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.017152",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.00027",
+          "percentage": "0.16217",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.183822",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.075081",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.111313",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.009965",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.047",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000643",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000574",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "6.9E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000344",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000579",
-          "age": "35-44",
+          "percentage": "0.000161",
+          "age": "55-64",
           "gender": "unknown"
         }
       ],
       "funding_entity": "孟楷洪",
       "impressions": {
-        "lower_bound": "50000",
-        "upper_bound": "59999"
+        "lower_bound": "90000",
+        "upper_bound": "99999"
       },
       "page_id": "259512084446867",
       "page_name": "洪孟楷",
       "region_distribution": [
         {
-          "percentage": "0.004783",
+          "percentage": "0.007883",
           "region": "Taipei"
         },
         {
-          "percentage": "0.269172",
+          "percentage": "0.233757",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.726045",
+          "percentage": "0.75836",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "5000",
-        "upper_bound": "5999"
+        "lower_bound": "8000",
+        "upper_bound": "8999"
       },
       "ad_id": "570540703779566"
     }
@@ -7452,78 +7457,78 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000183",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.211597",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.03685",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.130223",
+          "percentage": "0.130799",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.093312",
+          "percentage": "0.093139",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.108661",
-          "age": "55-64",
-          "gender": "female"
+          "percentage": "0.210112",
+          "age": "45-54",
+          "gender": "male"
         },
         {
-          "percentage": "0.155744",
+          "percentage": "0.155559",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.069253",
+          "percentage": "0.10818",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.06971",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.015836",
-          "age": "18-24",
+          "percentage": "0.022909",
+          "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.153429",
+          "percentage": "0.15313",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.022475",
-          "age": "25-34",
+          "percentage": "0.037776",
+          "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.000365",
+          "percentage": "0.00081",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.016025",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000694",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000347",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000792",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000609",
+          "percentage": "0.000636",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00067",
-          "age": "35-44",
+          "percentage": "0.000174",
+          "age": "18-24",
           "gender": "unknown"
         }
       ],
@@ -7536,21 +7541,21 @@
       "page_name": "洪孟楷",
       "region_distribution": [
         {
-          "percentage": "0.08923",
+          "percentage": "0.088913",
           "region": "Taipei"
         },
         {
-          "percentage": "0.046468",
+          "percentage": "0.046675",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.864302",
+          "percentage": "0.864412",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "3000",
-        "upper_bound": "3499"
+        "lower_bound": "3500",
+        "upper_bound": "3999"
       },
       "ad_id": "978014072564638"
     }
@@ -7572,95 +7577,95 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000354",
+          "percentage": "0.000287",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "8.9E-5",
+          "percentage": "0.000215",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.227696",
+          "percentage": "0.228172",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.141667",
+          "percentage": "0.291183",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.116703",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.117133",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.137491",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.019137",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.295384",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.113405",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.115177",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.034199",
+          "percentage": "0.035699",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.013998",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.029326",
+          "percentage": "0.030466",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.008948",
+          "percentage": "0.013763",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.009319",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.00062",
+          "percentage": "0.018996",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000573",
           "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "孟楷洪",
       "impressions": {
-        "lower_bound": "25000",
-        "upper_bound": "29999"
+        "lower_bound": "30000",
+        "upper_bound": "34999"
       },
       "page_id": "259512084446867",
       "page_name": "洪孟楷",
       "region_distribution": [
         {
-          "percentage": "0.068852",
+          "percentage": "0.067493",
           "region": "Taipei"
         },
         {
-          "percentage": "0.054601",
+          "percentage": "0.058107",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.876548",
+          "percentage": "0.8744",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "2000",
-        "upper_bound": "2499"
+        "lower_bound": "2500",
+        "upper_bound": "2999"
       },
       "ad_id": "446817315957793"
     }
@@ -7682,77 +7687,77 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.16265",
+          "percentage": "0.161032",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.113798",
+          "percentage": "0.114955",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.088718",
+          "percentage": "0.091681",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.234785",
+          "percentage": "0.232898",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.152439",
+          "percentage": "0.152225",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.104975",
+          "percentage": "0.10379",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.073932",
+          "percentage": "0.073596",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.033167",
+          "percentage": "0.033889",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.017972",
+          "percentage": "0.018556",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.014705",
+          "percentage": "0.014546",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.00098",
+          "percentage": "0.001022",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00049",
+          "percentage": "0.000472",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00049",
+          "percentage": "0.000472",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "8.2E-5",
+          "percentage": "7.9E-5",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000817",
+          "percentage": "0.000786",
           "age": "35-44",
           "gender": "unknown"
         }
@@ -7766,17 +7771,17 @@
       "page_name": "洪孟楷",
       "region_distribution": [
         {
-          "percentage": "0.516323",
+          "percentage": "0.519229",
           "region": "Taipei"
         },
         {
-          "percentage": "0.483677",
+          "percentage": "0.480771",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "3000",
-        "upper_bound": "3499"
+        "lower_bound": "3500",
+        "upper_bound": "3999"
       },
       "ad_id": "439438833599241"
     }

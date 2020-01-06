@@ -927,116 +927,116 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000172",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.091897",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000997",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000241",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.021143",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.022828",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.05762",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.056176",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.094303",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000206",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.054251",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.180493",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.099701",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.101145",
+          "percentage": "0.093642",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.157252",
-          "age": "35-44",
+          "percentage": "0.059096",
+          "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.060714",
-          "age": "18-24",
-          "gender": "female"
+          "percentage": "0.000255",
+          "age": "45-54",
+          "gender": "unknown"
         },
         {
-          "percentage": "6.9E-5",
+          "percentage": "0.000109",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000791",
+          "percentage": "9.1E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001113",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000711",
           "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.093459",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.025061",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.178291",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.092803",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.096907",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.06092",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.156714",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.05968",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.022818",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.058184",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000146",
+          "age": "55-64",
           "gender": "unknown"
         }
       ],
       "funding_entity": "李翁月娥-把愛傳出去-阿娥媽咪",
       "impressions": {
-        "lower_bound": "35000",
-        "upper_bound": "39999"
+        "lower_bound": "100000",
+        "upper_bound": "124999"
       },
       "page_id": "272384659474649",
       "page_name": "李翁月娥-把愛傳出去-阿娥媽咪",
       "region_distribution": [
         {
-          "percentage": "0.110728",
+          "percentage": "0.12701",
           "region": "Taipei"
         },
         {
-          "percentage": "0.889272",
+          "percentage": "0.87299",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "2000",
-        "upper_bound": "2499"
+        "lower_bound": "6000",
+        "upper_bound": "6999"
       },
       "ad_id": "1255174514691910"
     }
@@ -1058,116 +1058,116 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000115",
+          "percentage": "0.00014",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.107653",
+          "percentage": "0.104622",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.000115",
+          "percentage": "0.000163",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000231",
+          "percentage": "0.000326",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001268",
+          "percentage": "0.000839",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.056478",
+          "percentage": "0.057869",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.099355",
+          "percentage": "0.106952",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.083103",
+          "percentage": "0.089845",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.085523",
-          "age": "45-54",
+          "percentage": "0.052159",
+          "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.000115",
+          "percentage": "9.3E-5",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.056017",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.154219",
+          "percentage": "0.145617",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.021784",
+          "percentage": "0.020579",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.023513",
+          "percentage": "0.023446",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.060166",
+          "percentage": "0.063346",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.062817",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.186837",
+          "percentage": "0.191647",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.000692",
+          "percentage": "0.055119",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.086233",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001002",
           "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "李翁月娥-把愛傳出去-阿娥媽咪",
       "impressions": {
-        "lower_bound": "8000",
-        "upper_bound": "8999"
+        "lower_bound": "70000",
+        "upper_bound": "79999"
       },
       "page_id": "272384659474649",
       "page_name": "李翁月娥-把愛傳出去-阿娥媽咪",
       "region_distribution": [
         {
-          "percentage": "0.099861",
+          "percentage": "0.12833",
           "region": "Taipei"
         },
         {
-          "percentage": "0.900139",
+          "percentage": "0.87167",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "500",
-        "upper_bound": "599"
+        "lower_bound": "4500",
+        "upper_bound": "4999"
       },
       "ad_id": "2600723483483123"
     }

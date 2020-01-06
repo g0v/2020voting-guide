@@ -456,86 +456,86 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000623",
+          "percentage": "0.000449",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.128221",
+          "percentage": "0.280902",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001617",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.137891",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.065397",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.10618",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.283874",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.048836",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.143599",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.057564",
+          "percentage": "0.062433",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.075436",
+          "percentage": "0.093784",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.163134",
+          "percentage": "0.165918",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.093724",
+          "percentage": "0.083094",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.001039",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.002909",
+          "percentage": "0.001886",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001039",
+          "percentage": "0.000449",
           "age": "55-64",
           "gender": "unknown"
         }
       ],
       "funding_entity": "碩圻高",
       "impressions": {
-        "lower_bound": "9000",
-        "upper_bound": "9999"
+        "lower_bound": "25000",
+        "upper_bound": "29999"
       },
       "page_id": "209010448523",
       "page_name": "立法委員林奕華",
       "region_distribution": [
         {
-          "percentage": "0.87466",
+          "percentage": "0.878982",
           "region": "Taipei"
         },
         {
-          "percentage": "0.12534",
+          "percentage": "0.121018",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
+        "lower_bound": "700",
+        "upper_bound": "799"
       },
       "ad_id": "2572784512956960"
     }
@@ -558,86 +558,86 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.404841",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.243486",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.056342",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.200635",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.058722",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.0041",
+          "percentage": "0.000212",
           "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000794",
-          "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.006613",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.022616",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000529",
+          "percentage": "0.001128",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001058",
+          "percentage": "0.257316",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.332769",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.086242",
           "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.197588",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.030675",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.005923",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.068542",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.017418",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000917",
+          "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000265",
-          "age": "25-34",
+          "percentage": "0.001269",
+          "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "碩圻高",
       "impressions": {
-        "lower_bound": "10000",
-        "upper_bound": "14999"
+        "lower_bound": "20000",
+        "upper_bound": "24999"
       },
       "page_id": "209010448523",
       "page_name": "立法委員林奕華",
       "region_distribution": [
         {
-          "percentage": "0.867413",
+          "percentage": "0.87607",
           "region": "Taipei"
         },
         {
-          "percentage": "0.132587",
+          "percentage": "0.12393",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "800",
-        "upper_bound": "899"
+        "lower_bound": "1500",
+        "upper_bound": "1999"
       },
       "ad_id": "752710828541120"
     }

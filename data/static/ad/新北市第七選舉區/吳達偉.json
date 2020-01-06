@@ -10216,76 +10216,81 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000487",
+          "percentage": "0.000207",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.077897",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.209348",
+          "percentage": "0.197934",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.11149",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.137293",
-          "age": "55-64",
+          "percentage": "0.084298",
+          "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.183544",
+          "percentage": "0.180165",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.092502",
+          "percentage": "0.105992",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.148004",
-          "age": "35-44",
+          "percentage": "0.154752",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.102273",
+          "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.038462",
+          "percentage": "0.041942",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.000974",
+          "percentage": "0.131405",
           "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000826",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000207",
+          "age": "65+",
           "gender": "unknown"
         }
       ],
       "funding_entity": "吳達偉Z9 板橋立委候選人",
       "impressions": {
-        "lower_bound": "2000",
-        "upper_bound": "2999"
+        "lower_bound": "6000",
+        "upper_bound": "6999"
       },
       "page_id": "101001864642614",
       "page_name": "吳達偉Z9 板橋立委候選人",
       "region_distribution": [
         {
-          "percentage": "0.113208",
+          "percentage": "0.106702",
           "region": "Taipei"
         },
         {
-          "percentage": "0.886792",
+          "percentage": "0.893298",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "300",
-        "upper_bound": "399"
+        "lower_bound": "1000",
+        "upper_bound": "1499"
       },
       "ad_id": "586017385547628"
     }

@@ -385,85 +385,90 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000217",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000435",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.11331",
+          "percentage": "0.116721",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.127882",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.064811",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.092866",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.126359",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.073293",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.075033",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.091562",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.024358",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.100478",
+          "percentage": "0.096674",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.085689",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.022836",
+          "percentage": "0.024354",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.00087",
+          "percentage": "0.124889",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.079151",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.126522",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.101277",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.082715",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.070538",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.07529",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.072765",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.027473",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000446",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000446",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000149",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000594",
           "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "晉丞 歐",
       "impressions": {
-        "lower_bound": "4000",
-        "upper_bound": "4999"
+        "lower_bound": "7000",
+        "upper_bound": "7999"
       },
       "page_id": "109032472496866",
       "page_name": "陳明義",
@@ -474,8 +479,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "900",
-        "upper_bound": "999"
+        "lower_bound": "1000",
+        "upper_bound": "1499"
       },
       "ad_id": "839872253100017"
     }
@@ -717,6 +722,123 @@
   {
     "選區": "新北市第四選舉區",
     "參選人": "陳明義",
+    "AD_ID": "2700780726683619",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【海龍向前衝二】 走過天堂路，通過層層嚴格的考驗，在金門的七百多個日子裡，只告訴自己勇敢撐下去，只要不放棄，就會往目標前進，我以第一名優異成績的表現結訓，同時也被長官選為海龍教官，從一個小兵、海龍蛙兵、海龍教官，我一天一天、一層一層累積自我的實力與經驗…… 而這一切，就只是為了一個榮耀～ 一個屬於海龍精神的驕傲 !            【2019的最後一天】 【海龍明義與立法院的距離11天】",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/82137870_2694057160661038_6881665075761905664_n.jpg?_nc_cat=105&_nc_ohc=Ig1JcDbdzVgAQmjydjUD-v0p9HYUOgGzMxEQqh32u7R8Pl4SXE6rBsE6w&_nc_ht=scontent-hkg3-1.xx&oh=b07dfa37001f3849bc0aad2eb0505619&oe=5EB30C4A",
+    "廣告詳情": {
+      "ad_creative_body": "【海龍向前衝二】\n走過天堂路，通過層層嚴格的考驗，在金門的七百多個日子裡，只告訴自己勇敢撐下去，只要不放棄，就會往目標前進，我以第一名優異成績的表現結訓，同時也被長官選為海龍教官，從一個小兵、海龍蛙兵、海龍教官，我一天一天、一層一層累積自我的實力與經驗……\n而這一切，就只是為了一個榮耀～\n一個屬於海龍精神的驕傲 !\n\n                       \n           【2019的最後一天】\n【海龍明義與立法院的距離11天】",
+      "ad_creation_time": "2019-12-31T00:28:33+0000",
+      "ad_delivery_start_time": "2019-12-31T00:28:38+0000",
+      "ad_delivery_stop_time": "2020-01-01T00:28:33+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.124578",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.038109",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.060661",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.121804",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.137603",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.133502",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.087795",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.054269",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.061264",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.098167",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.043415",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.037265",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000482",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000362",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000482",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000241",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "晉丞 歐",
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "109032472496866",
+      "page_name": "陳明義",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "New Taipei City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "ad_id": "2700780726683619"
+    }
+  },
+  {
+    "選區": "新北市第四選舉區",
+    "參選人": "陳明義",
     "AD_ID": "302426033995757",
     "登錄為政治廣告": "是",
     "開始日期": "2019-12-29",
@@ -733,12 +855,12 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.030506",
-          "age": "65+",
-          "gender": "female"
+          "percentage": "0.063362",
+          "age": "18-24",
+          "gender": "male"
         },
         {
-          "percentage": "0.118012",
+          "percentage": "0.117945",
           "age": "25-34",
           "gender": "female"
         },
@@ -753,7 +875,7 @@
           "gender": "unknown"
         },
         {
-          "percentage": "0.000621",
+          "percentage": "0.00062",
           "age": "35-44",
           "gender": "unknown"
         },
@@ -768,54 +890,54 @@
           "gender": "unknown"
         },
         {
-          "percentage": "0.130711",
+          "percentage": "0.13097",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.035661",
+          "percentage": "0.035641",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.067504",
-          "age": "55-64",
+          "percentage": "0.030488",
+          "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.058576",
+          "percentage": "0.058543",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.110087",
+          "percentage": "0.110024",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.066072",
+          "percentage": "0.066034",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.063398",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.101447",
+          "percentage": "0.101388",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.135676",
+          "percentage": "0.135741",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.080919",
+          "percentage": "0.080872",
           "age": "55-64",
           "gender": "male"
+        },
+        {
+          "percentage": "0.06756",
+          "age": "55-64",
+          "gender": "female"
         },
         {
           "percentage": "4.8E-5",

@@ -1643,176 +1643,176 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "5.6E-5",
+          "percentage": "5.0E-5",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000394",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000225",
+          "percentage": "0.000199",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.185717",
+          "percentage": "0.000348",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.187441",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.269402",
+          "percentage": "0.264196",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.224492",
+          "percentage": "0.219385",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.101131",
+          "percentage": "0.107656",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.054364",
+          "percentage": "0.054548",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.059148",
+          "percentage": "0.059069",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.073949",
+          "percentage": "0.074569",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.022736",
+          "percentage": "0.023647",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.005909",
+          "percentage": "0.006409",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.002139",
+          "percentage": "0.002136",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.000338",
+          "percentage": "0.000348",
           "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "俊勇 温",
       "impressions": {
-        "lower_bound": "50000",
-        "upper_bound": "59999"
+        "lower_bound": "60000",
+        "upper_bound": "69999"
       },
       "page_id": "384377418962780",
       "page_name": "温俊勇 苗栗縣立委候選人",
       "region_distribution": [
         {
-          "percentage": "0.023348",
+          "percentage": "0.024562",
           "region": "Unknown"
         },
         {
-          "percentage": "0.000163",
+          "percentage": "0.000143",
           "region": "Lienchiang"
         },
         {
-          "percentage": "0.014572",
+          "percentage": "0.014062",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.03169",
+          "percentage": "0.032448",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.007963",
+          "percentage": "0.008409",
           "region": "Yilan"
         },
         {
-          "percentage": "0.005471",
+          "percentage": "0.005321",
           "region": "Taitung"
         },
         {
-          "percentage": "0.028548",
+          "percentage": "0.029075",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.0026",
+          "percentage": "0.002518",
           "region": "Penghu"
         },
         {
-          "percentage": "0.013759",
+          "percentage": "0.013682",
           "region": "Nantou"
         },
         {
-          "percentage": "0.311538",
+          "percentage": "0.295263",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.002329",
+          "percentage": "0.002565",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.069989",
+          "percentage": "0.072925",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.009697",
+          "percentage": "0.010024",
           "region": "Hualien"
         },
         {
-          "percentage": "0.003792",
+          "percentage": "0.004038",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.001733",
+          "percentage": "0.001805",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.03364",
+          "percentage": "0.034586",
           "region": "Changhua"
         },
         {
-          "percentage": "0.059588",
+          "percentage": "0.062331",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.096966",
+          "percentage": "0.099102",
           "region": "Taichung"
         },
         {
-          "percentage": "0.109209",
+          "percentage": "0.111739",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.054496",
+          "percentage": "0.055917",
           "region": "Tainan"
         },
         {
-          "percentage": "0.046587",
+          "percentage": "0.050311",
           "region": "Taipei"
         },
         {
-          "percentage": "0.072319",
+          "percentage": "0.069172",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "8000",
-        "upper_bound": "8999"
+        "lower_bound": "9000",
+        "upper_bound": "9999"
       },
       "ad_id": "557874624761123"
     }
@@ -1962,137 +1962,137 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.219136",
+          "percentage": "0.214456",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.056591",
+          "percentage": "0.059426",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.224272",
+          "percentage": "0.218767",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.096823",
+          "percentage": "0.098299",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.096918",
+          "percentage": "0.108537",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.094921",
+          "percentage": "0.089062",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.13268",
+          "percentage": "0.134247",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.056781",
+          "percentage": "0.054653",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.005041",
+          "percentage": "0.004926",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.001046",
+          "percentage": "0.001155",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001046",
+          "percentage": "0.001155",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001332",
+          "percentage": "0.001463",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "9.5E-5",
+          "percentage": "7.7E-5",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.012935",
+          "percentage": "0.013394",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.00038",
+          "percentage": "0.000385",
           "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "俊勇 温",
       "impressions": {
-        "lower_bound": "25000",
-        "upper_bound": "29999"
+        "lower_bound": "35000",
+        "upper_bound": "39999"
       },
       "page_id": "384377418962780",
       "page_name": "温俊勇 苗栗縣立委候選人",
       "region_distribution": [
         {
-          "percentage": "0.135813",
-          "region": "Taipei"
-        },
-        {
-          "percentage": "0.127017",
-          "region": "Taoyuan City"
-        },
-        {
-          "percentage": "0.201017",
-          "region": "Taichung"
-        },
-        {
-          "percentage": "0.10297",
-          "region": "New Taipei City"
-        },
-        {
-          "percentage": "0.072305",
-          "region": "Changhua"
-        },
-        {
-          "percentage": "0.034619",
-          "region": "Hsinchu"
-        },
-        {
-          "percentage": "8.1E-5",
+          "percentage": "6.4E-5",
           "region": "Hualien"
         },
         {
-          "percentage": "0.25815",
-          "region": "Miaoli"
-        },
-        {
-          "percentage": "0.021627",
-          "region": "Nantou"
-        },
-        {
-          "percentage": "0.000807",
+          "percentage": "0.000965",
           "region": "Yilan"
         },
         {
-          "percentage": "0.045594",
+          "percentage": "0.136644",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.135937",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.199305",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.111168",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.074434",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.033325",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.241122",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.02316",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.043875",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "2000",
-        "upper_bound": "2499"
+        "lower_bound": "3000",
+        "upper_bound": "3499"
       },
       "ad_id": "563937334401340"
     }
@@ -2240,114 +2240,114 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
+          "percentage": "0.166519",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.23634",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.077522",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.102934",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.076139",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.1366",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.149527",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.052967",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
           "percentage": "0.00029",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.052831",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.076057",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.074928",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.235404",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.106638",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.169998",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.126553",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.156203",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000702",
+          "percentage": "0.000705",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "9.2E-5",
-          "age": "18-24",
+          "percentage": "0.000373",
+          "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000305",
-          "age": "25-34",
+          "percentage": "8.3E-5",
+          "age": "18-24",
           "gender": "unknown"
         }
       ],
       "funding_entity": "俊勇 温",
       "impressions": {
-        "lower_bound": "100000",
-        "upper_bound": "124999"
+        "lower_bound": "125000",
+        "upper_bound": "149999"
       },
       "page_id": "384377418962780",
       "page_name": "温俊勇 苗栗縣立委候選人",
       "region_distribution": [
         {
-          "percentage": "1.3E-5",
-          "region": "Taichung"
-        },
-        {
-          "percentage": "0.343261",
+          "percentage": "0.342474",
           "region": "Taipei"
         },
         {
-          "percentage": "0.315746",
+          "percentage": "0.314459",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.195093",
+          "percentage": "0.197781",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.03114",
+          "percentage": "0.03078",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.044616",
+          "percentage": "0.046764",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.000295",
+          "percentage": "0.000297",
           "region": "Yilan"
         },
         {
-          "percentage": "0.036119",
+          "percentage": "0.034957",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.033717",
+          "percentage": "0.032477",
           "region": "Hsinchu City"
+        },
+        {
+          "percentage": "1.2E-5",
+          "region": "Taichung"
         }
       ],
       "spend": {
-        "lower_bound": "10000",
-        "upper_bound": "14999"
+        "lower_bound": "15000",
+        "upper_bound": "19999"
       },
       "ad_id": "448784566026894"
     }
@@ -2370,110 +2370,110 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000108",
+          "percentage": "0.024547",
           "age": "18-24",
-          "gender": "unknown"
+          "gender": "female"
         },
         {
-          "percentage": "0.045761",
+          "percentage": "0.271838",
           "age": "45-54",
-          "gender": "female"
+          "gender": "male"
         },
         {
-          "percentage": "0.03291",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.051243",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.308302",
+          "percentage": "0.308488",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.173607",
+          "percentage": "0.170575",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.267124",
-          "age": "45-54",
+          "percentage": "0.09508",
+          "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.023635",
-          "age": "18-24",
+          "percentage": "0.049078",
+          "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.096411",
-          "age": "18-24",
-          "gender": "male"
+          "percentage": "0.032306",
+          "age": "25-34",
+          "gender": "female"
         },
         {
-          "percentage": "0.000324",
+          "percentage": "0.047007",
           "age": "45-54",
-          "gender": "unknown"
+          "gender": "female"
         },
         {
-          "percentage": "0.000413",
+          "percentage": "0.000464",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000162",
+          "percentage": "9.3E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000309",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000216",
           "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "俊勇 温",
       "impressions": {
-        "lower_bound": "90000",
-        "upper_bound": "99999"
+        "lower_bound": "100000",
+        "upper_bound": "124999"
       },
       "page_id": "384377418962780",
       "page_name": "温俊勇 苗栗縣立委候選人",
       "region_distribution": [
         {
-          "percentage": "0.208263",
+          "percentage": "0.217344",
           "region": "Taipei"
         },
         {
-          "percentage": "0.240058",
+          "percentage": "0.24207",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.131416",
+          "percentage": "0.13623",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.058872",
+          "percentage": "0.060435",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.265922",
+          "percentage": "0.248577",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.000415",
+          "percentage": "0.000458",
           "region": "Yilan"
         },
         {
-          "percentage": "0.024818",
+          "percentage": "0.025513",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.070235",
+          "percentage": "0.069373",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "5000",
-        "upper_bound": "5999"
+        "lower_bound": "6000",
+        "upper_bound": "6999"
       },
       "ad_id": "500118560637086"
     }

@@ -4842,65 +4842,70 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.001268",
+          "percentage": "0.000258",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001119",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001109",
-          "age": "35-44",
+          "percentage": "0.00043",
+          "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.041198",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.161464",
+          "percentage": "0.150112",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.196324",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.208049",
+          "percentage": "0.226631",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.150531",
+          "percentage": "0.097951",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.203908",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.143398",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.073839",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.063381",
+          "percentage": "0.059391",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.102361",
-          "age": "18-24",
+          "percentage": "0.072129",
+          "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.000475",
+          "percentage": "0.043983",
           "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000689",
+          "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "美惠王",
       "impressions": {
-        "lower_bound": "9000",
-        "upper_bound": "9999"
+        "lower_bound": "20000",
+        "upper_bound": "24999"
       },
       "page_id": "105497726206174",
       "page_name": "嘉義市立委候選人 王美惠",
@@ -4911,8 +4916,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "600",
-        "upper_bound": "699"
+        "lower_bound": "1500",
+        "upper_bound": "1999"
       },
       "ad_id": "494596344501766"
     }
@@ -5367,111 +5372,111 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000452",
+          "percentage": "0.059432",
           "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.084727",
-          "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.000904",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.014008",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.036602",
+          "percentage": "0.057988",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.047673",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.159512",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.208992",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000452",
+          "percentage": "0.000481",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000226",
-          "age": "55-64",
+          "percentage": "0.000602",
+          "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.123362",
+          "percentage": "0.00018",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.056966",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001083",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.02749",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.068034",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.136068",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.076593",
+          "percentage": "0.071944",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.077948",
+          "percentage": "0.169935",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.10936",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.096249",
+          "percentage": "0.033987",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.081509",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.032083",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.038861",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.001356",
+          "percentage": "0.12488",
           "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "6.0E-5",
+          "age": "55-64",
           "gender": "unknown"
         }
       ],
       "funding_entity": "美惠王",
       "impressions": {
-        "lower_bound": "6000",
-        "upper_bound": "6999"
+        "lower_bound": "40000",
+        "upper_bound": "44999"
       },
       "page_id": "105497726206174",
       "page_name": "嘉義市立委候選人 王美惠",
       "region_distribution": [
         {
-          "percentage": "0.987985",
+          "percentage": "0.980638",
           "region": "Unknown"
         },
         {
-          "percentage": "0.012015",
+          "percentage": "0.019362",
           "region": "Chiayi"
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
+        "lower_bound": "2000",
+        "upper_bound": "2499"
       },
       "ad_id": "631665850902798"
     }
@@ -5493,96 +5498,116 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.035226",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.069015",
+          "percentage": "0.000305",
           "age": "35-44",
-          "gender": "female"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.082674",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.069734",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.018692",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.158879",
+          "percentage": "0.130955",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.175413",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.193386",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.062545",
-          "age": "45-54",
+          "percentage": "0.040018",
+          "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.040259",
+          "percentage": "0.094672",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.057245",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.062545",
-          "age": "65+",
+          "percentage": "0.100922",
+          "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.030194",
+          "percentage": "0.04947",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.000719",
+          "percentage": "0.071194",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.058465",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000305",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000719",
+          "percentage": "0.0731",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.142313",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.144523",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.035826",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "7.6E-5",
           "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000229",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000305",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "7.6E-5",
+          "age": "65+",
           "gender": "unknown"
         }
       ],
       "funding_entity": "美惠王",
       "impressions": {
-        "lower_bound": "1000",
-        "upper_bound": "1999"
+        "lower_bound": "20000",
+        "upper_bound": "24999"
       },
       "page_id": "105497726206174",
       "page_name": "嘉義市立委候選人 王美惠",
       "region_distribution": [
         {
-          "percentage": "0.987564",
+          "percentage": "0.980012",
           "region": "Unknown"
         },
         {
-          "percentage": "0.012436",
+          "percentage": "0.019988",
           "region": "Chiayi"
         }
       ],
       "spend": {
-        "lower_bound": "100",
-        "upper_bound": "199"
+        "lower_bound": "2000",
+        "upper_bound": "2499"
       },
       "ad_id": "984906188559930"
     }
@@ -5672,6 +5697,132 @@
         "upper_bound": "99"
       },
       "ad_id": "2606721656226468"
+    }
+  },
+  {
+    "選區": "嘉義市選舉區",
+    "參選人": "王美惠",
+    "AD_ID": "590879461700055",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-20",
+    "結束日期": "2019-12-24",
+    "廣告內容": "#一起把大頭貼加上特效框，大聲說出你挺台灣隊！ 　 點擊連結加特效 👉 www.facebook.com/profilepicframes/?selected_overlay_id=489508965024187 　 2020選舉進入倒數階段，請大家換上阿惠的特效框，跟身邊的朋友分享你對台灣隊的支持，#說服更多人明年一起回嘉投票。 　 讓我們一起向大家宣告嘉義人對自由民主的堅持，#讓民主聖地的美名繼續流傳下去。 　 2020，總統投3號，立委投6號，政黨票投14號，一起下架親中政黨，#上架最強組合。 　 #惠贏特效框嘉義市立委候選人 王美惠蔡英文 Tsai Ing-wen 賴清德 民主進步黨 　 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/ ⚡️競選總部：嘉義市東區公明路152號",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/80116197_2735360976553156_210972238143291392_n.jpg?_nc_cat=107&_nc_ohc=qrWrxTfqTRsAQloCS8U2xMdeACzTXX9iOcqny7Qa70JobjU9ZBjEl41Eg&_nc_ht=scontent-hkg3-2.xx&oh=c8885e80051f6657ebfea0f097c8fd98&oe=5E6916AA",
+    "廣告詳情": {
+      "ad_creative_body": "#一起把大頭貼加上特效框，大聲說出你挺台灣隊！\n　\n點擊連結加特效 👉 www.facebook.com/profilepicframes/?selected_overlay_id=489508965024187\n　\n2020選舉進入倒數階段，請大家換上阿惠的特效框，跟身邊的朋友分享你對台灣隊的支持，#說服更多人明年一起回嘉投票。\n　\n讓我們一起向大家宣告嘉義人對自由民主的堅持，#讓民主聖地的美名繼續流傳下去。\n　\n2020，總統投3號，立委投6號，政黨票投14號，一起下架親中政黨，#上架最強組合。\n　\n#惠贏特效框\n嘉義市立委候選人 王美惠\n蔡英文 Tsai Ing-wen 賴清德 民主進步黨\n　\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\n\nhttps://www.facebook.com/groups/ahueipower/\n\n⚡️競選總部：嘉義市東區公明路152號",
+      "ad_creation_time": "2020-01-02T01:13:27+0000",
+      "ad_delivery_start_time": "2020-01-02T01:13:27+0000",
+      "ad_delivery_stop_time": "2020-01-07T01:13:15+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000312",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.064067",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000104",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000208",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.06157",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.131461",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.040458",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.093396",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.045346",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000416",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.050442",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.083307",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.108476",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.08882",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.141654",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.089132",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000832",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "美惠王",
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "105497726206174",
+      "page_name": "嘉義市立委候選人 王美惠",
+      "region_distribution": [
+        {
+          "percentage": "0.981264",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.018736",
+          "region": "Chiayi"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1500",
+        "upper_bound": "1999"
+      },
+      "ad_id": "590879461700055"
     }
   },
   {

@@ -420,71 +420,86 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.174672",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.256394",
+          "percentage": "0.227488",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.190268",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.080474",
+          "percentage": "0.078199",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.094822",
+          "percentage": "0.109597",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.110418",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.075483",
+          "percentage": "0.084123",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.016843",
+          "percentage": "0.173934",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.208531",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.094194",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.022749",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.000624",
+          "percentage": "0.000474",
           "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000118",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000237",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000355",
+          "age": "55-64",
           "gender": "unknown"
         }
       ],
       "funding_entity": "柯志恩",
       "impressions": {
-        "lower_bound": "1000",
-        "upper_bound": "1999"
+        "lower_bound": "10000",
+        "upper_bound": "14999"
       },
       "page_id": "911433142308383",
       "page_name": "柯志恩",
       "region_distribution": [
         {
-          "percentage": "0.054037",
+          "percentage": "0.068306",
           "region": "Taipei"
         },
         {
-          "percentage": "0.945963",
+          "percentage": "0.931694",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "100",
-        "upper_bound": "199"
+        "lower_bound": "1000",
+        "upper_bound": "1499"
       },
       "ad_id": "566719157500257"
     }

@@ -1810,104 +1810,119 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.077488",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.102204",
-          "age": "35-44",
+          "percentage": "0.187669",
+          "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.030728",
+          "percentage": "0.021173",
           "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.049432",
-          "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.04676",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.231797",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.09352",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000668",
-          "age": "18-24",
+          "percentage": "0.000839",
+          "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.199065",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.04342",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.048096",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.0501",
+          "percentage": "9.3E-5",
           "age": "45-54",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.001336",
+          "percentage": "0.001772",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.025384",
+          "percentage": "0.001026",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.021453",
           "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.038709",
+          "age": "55-64",
           "gender": "female"
+        },
+        {
+          "percentage": "0.144763",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.032087",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.183005",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.081989",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.043839",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.127227",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.067438",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.046824",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "9.3E-5",
+          "age": "55-64",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "怡惠黃",
       "impressions": {
-        "lower_bound": "1000",
-        "upper_bound": "1999"
+        "lower_bound": "10000",
+        "upper_bound": "14999"
       },
       "page_id": "102091854559464",
       "page_name": "民眾黨謝文卿",
       "region_distribution": [
         {
-          "percentage": "0.693591",
+          "percentage": "0.708797",
           "region": "Taichung"
         },
         {
-          "percentage": "0.188919",
+          "percentage": "0.166203",
           "region": "Changhua"
         },
         {
-          "percentage": "0.05474",
+          "percentage": "0.053359",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.06275",
+          "percentage": "0.071641",
           "region": "Nantou"
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
+        "lower_bound": "2000",
+        "upper_bound": "2499"
       },
       "ad_id": "2574390965947799"
     }
@@ -1930,84 +1945,94 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.216687",
-          "age": "25-34",
-          "gender": "male"
+          "percentage": "8.9E-5",
+          "age": "18-24",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.527086",
+          "percentage": "4.5E-5",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.453657",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.115604",
+          "percentage": "0.237637",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.112425",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.015972",
+          "percentage": "0.031163",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.040545",
+          "percentage": "0.082335",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.005808",
+          "percentage": "0.011446",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.056741",
+          "percentage": "0.046857",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.020105",
+          "percentage": "0.022758",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.001005",
+          "percentage": "0.001073",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000447",
+          "percentage": "0.000514",
           "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "怡惠黃",
       "impressions": {
-        "lower_bound": "9000",
-        "upper_bound": "9999"
+        "lower_bound": "60000",
+        "upper_bound": "69999"
       },
       "page_id": "102091854559464",
       "page_name": "民眾黨謝文卿",
       "region_distribution": [
         {
-          "percentage": "0.592909",
+          "percentage": "0.615748",
           "region": "Taichung"
         },
         {
-          "percentage": "0.254515",
+          "percentage": "0.240315",
           "region": "Changhua"
         },
         {
-          "percentage": "0.076011",
+          "percentage": "0.075029",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.076565",
+          "percentage": "0.068908",
           "region": "Nantou"
         }
       ],
       "spend": {
-        "lower_bound": "700",
-        "upper_bound": "799"
+        "lower_bound": "4000",
+        "upper_bound": "4499"
       },
       "ad_id": "592493784906281"
     }
@@ -2025,73 +2050,93 @@
       "ad_creative_body": "年輕的朋友，這次一定要站出來!!\n離改變真的只差一點點\n這次就用你關鍵的這一票\n為自己許一個未來，文卿說到做到\n我們一起讓改變成真\n\n#下一代的未來\n#關鍵的一票\n#年輕的挺文卿\n#9號謝文卿\n#最關鍵的力量",
       "ad_creation_time": "2019-12-30T11:45:30+0000",
       "ad_delivery_start_time": "2019-12-30T11:45:30+0000",
-      "ad_delivery_stop_time": "2020-02-03T11:42:24+0000",
+      "ad_delivery_stop_time": "2020-01-05T11:42:24+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.337662",
+          "percentage": "0.27186",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.243018",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.050893",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.313826",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.028571",
+          "percentage": "0.052037",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.017931",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.18961",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.361039",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.046753",
+          "percentage": "0.046009",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.018182",
-          "age": "18-24",
+          "percentage": "0.002594",
+          "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.018182",
+          "percentage": "0.000458",
           "age": "25-34",
-          "gender": "female"
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000916",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000458",
+          "age": "18-24",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "怡惠黃",
       "impressions": {
-        "lower_bound": "0",
-        "upper_bound": "999"
+        "lower_bound": "15000",
+        "upper_bound": "19999"
       },
       "page_id": "102091854559464",
       "page_name": "民眾黨謝文卿",
       "region_distribution": [
         {
-          "percentage": "0.638243",
+          "percentage": "0.671538",
           "region": "Taichung"
         },
         {
-          "percentage": "0.222222",
+          "percentage": "0.204511",
           "region": "Changhua"
         },
         {
-          "percentage": "0.080103",
+          "percentage": "0.059952",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.059432",
+          "percentage": "0.063999",
           "region": "Nantou"
         }
       ],
       "spend": {
-        "lower_bound": "0",
-        "upper_bound": "99"
+        "lower_bound": "3000",
+        "upper_bound": "3499"
       },
       "ad_id": "812228475911121"
     }

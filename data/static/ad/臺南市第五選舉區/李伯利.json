@@ -1643,106 +1643,106 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000816",
+          "percentage": "0.114883",
           "age": "45-54",
-          "gender": "unknown"
+          "gender": "male"
         },
         {
-          "percentage": "0.000816",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.001224",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.046512",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.055488",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.056304",
+          "percentage": "0.06138",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.146471",
+          "percentage": "0.142314",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.058121",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.04943",
           "age": "25-34",
-          "gender": "male"
+          "gender": "female"
         },
         {
-          "percentage": "0.049776",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.131375",
+          "percentage": "0.132808",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.054672",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.147695",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.126071",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.039168",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.100367",
+          "percentage": "0.096415",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.042024",
+          "percentage": "0.137425",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.063281",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000543",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.03748",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.048615",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.053775",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.001224",
+          "percentage": "0.001358",
           "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001086",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001086",
+          "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "立法委員參選人 李伯利牧師",
       "impressions": {
-        "lower_bound": "3000",
-        "upper_bound": "3999"
+        "lower_bound": "5000",
+        "upper_bound": "5999"
       },
       "page_id": "115255733188288",
       "page_name": "立法委員參選人 李伯利牧師",
       "region_distribution": [
         {
-          "percentage": "0.024567",
+          "percentage": "0.02201",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.975433",
+          "percentage": "0.97799",
           "region": "Tainan"
         }
       ],
       "spend": {
-        "lower_bound": "400",
-        "upper_bound": "499"
+        "lower_bound": "600",
+        "upper_bound": "699"
       },
       "ad_id": "504604633742030"
     }
@@ -1764,155 +1764,160 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.001957",
+          "percentage": "0.001294",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.164295",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.117723",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.068564",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.113842",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.063389",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.029754",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.050453",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.02458",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.020699",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001294",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.111546",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.18591",
+          "percentage": "0.203105",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.048924",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.162427",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.127202",
+          "percentage": "0.10608",
           "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.062622",
-          "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.017613",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.027397",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.039139",
+          "percentage": "0.034929",
           "age": "18-24",
           "gender": "male"
-        },
-        {
-          "percentage": "0.02544",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.129159",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.060665",
-          "age": "55-64",
-          "gender": "female"
         }
       ],
       "funding_entity": "立法委員參選人 李伯利牧師",
       "impressions": {
-        "lower_bound": "1000",
-        "upper_bound": "1999"
+        "lower_bound": "3000",
+        "upper_bound": "3999"
       },
       "page_id": "115255733188288",
       "page_name": "立法委員參選人 李伯利牧師",
       "region_distribution": [
         {
-          "percentage": "0.007722",
-          "region": "Unknown"
-        },
-        {
-          "percentage": "0.048263",
-          "region": "Taoyuan City"
-        },
-        {
-          "percentage": "0.009653",
-          "region": "Taitung"
-        },
-        {
-          "percentage": "0.009653",
-          "region": "Nantou"
-        },
-        {
-          "percentage": "0.005792",
-          "region": "Hualien"
-        },
-        {
-          "percentage": "0.003861",
-          "region": "Hsinchu"
-        },
-        {
-          "percentage": "0.046332",
-          "region": "New Taipei City"
-        },
-        {
-          "percentage": "0.063707",
-          "region": "Taichung"
-        },
-        {
-          "percentage": "0.584942",
-          "region": "Tainan"
-        },
-        {
-          "percentage": "0.013514",
-          "region": "Changhua"
-        },
-        {
-          "percentage": "0.092664",
-          "region": "Taipei"
-        },
-        {
-          "percentage": "0.057915",
-          "region": "Kaohsiung"
-        },
-        {
-          "percentage": "0.007722",
-          "region": "Keelung City"
-        },
-        {
-          "percentage": "0.001931",
-          "region": "Yilan"
-        },
-        {
-          "percentage": "0.001931",
+          "percentage": "0.001276",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.017375",
+          "percentage": "0.007653",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.007653",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.008929",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.01148",
+          "region": "Hsinchu City"
+        },
+        {
+          "percentage": "0.015306",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.013514",
-          "region": "Pingtung"
+          "percentage": "0.002551",
+          "region": "Yilan"
         },
         {
-          "percentage": "0.013514",
-          "region": "Hsinchu City"
+          "percentage": "0.007653",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.012755",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.002551",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.052296",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.057398",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.038265",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.598214",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.081633",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.068878",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.01148",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.014031",
+          "region": "Pingtung"
         }
       ],
       "spend": {
-        "lower_bound": "500",
-        "upper_bound": "599"
+        "lower_bound": "1000",
+        "upper_bound": "1499"
       },
       "ad_id": "449594845975175"
     }
@@ -2100,174 +2105,174 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.001043",
+          "percentage": "0.000826",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001043",
+          "percentage": "0.001652",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001043",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.16684",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.026069",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.075078",
+          "percentage": "0.076796",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.130344",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.042753",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.205422",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.107404",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.116788",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.020855",
+          "percentage": "0.02147",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.021898",
+          "percentage": "0.022296",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.111478",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.030553",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.117258",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.062758",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.04294",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.10322",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.203964",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.180017",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001652",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.022296",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.059437",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.001043",
+          "percentage": "0.000826",
           "age": "55-64",
           "gender": "unknown"
-        },
-        {
-          "percentage": "0.022941",
-          "age": "65+",
-          "gender": "male"
         }
       ],
       "funding_entity": "立法委員參選人 李伯利牧師",
       "impressions": {
-        "lower_bound": "5000",
-        "upper_bound": "5999"
+        "lower_bound": "8000",
+        "upper_bound": "8999"
       },
       "page_id": "115255733188288",
       "page_name": "立法委員參選人 李伯利牧師",
       "region_distribution": [
         {
-          "percentage": "0.001031",
-          "region": "Miaoli"
-        },
-        {
-          "percentage": "0.003093",
-          "region": "Hsinchu"
-        },
-        {
-          "percentage": "0.010309",
-          "region": "Keelung City"
-        },
-        {
-          "percentage": "0.01134",
-          "region": "Yunlin"
-        },
-        {
-          "percentage": "0.002062",
-          "region": "Yilan"
-        },
-        {
-          "percentage": "0.005155",
-          "region": "Taitung"
-        },
-        {
-          "percentage": "0.013402",
-          "region": "Pingtung"
-        },
-        {
-          "percentage": "0.007216",
-          "region": "Nantou"
-        },
-        {
-          "percentage": "0.006186",
-          "region": "Hualien"
-        },
-        {
-          "percentage": "0.001031",
-          "region": "Chiayi"
-        },
-        {
-          "percentage": "0.005155",
-          "region": "Unknown"
-        },
-        {
-          "percentage": "0.009278",
+          "percentage": "0.010543",
           "region": "Changhua"
         },
         {
-          "percentage": "0.041237",
+          "percentage": "0.043796",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.053608",
+          "percentage": "0.010543",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.001622",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.005677",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.006488",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.001622",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.004866",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.003244",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.058394",
           "region": "Taichung"
         },
         {
-          "percentage": "0.031959",
+          "percentage": "0.000811",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.034063",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.621649",
+          "percentage": "0.623682",
           "region": "Tainan"
         },
         {
-          "percentage": "0.094845",
+          "percentage": "0.090024",
           "region": "Taipei"
         },
         {
-          "percentage": "0.070103",
+          "percentage": "0.067315",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.01134",
+          "percentage": "0.004055",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.010543",
           "region": "Hsinchu City"
+        },
+        {
+          "percentage": "0.012976",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.009732",
+          "region": "Keelung City"
         }
       ],
       "spend": {
-        "lower_bound": "2000",
-        "upper_bound": "2499"
+        "lower_bound": "3000",
+        "upper_bound": "3499"
       },
       "ad_id": "801800563574626"
     }
@@ -2619,161 +2624,161 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.002793",
+          "percentage": "0.002304",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.030726",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.195531",
+          "percentage": "0.002304",
           "age": "35-44",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.069832",
+          "percentage": "0.080645",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.083799",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.108939",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.184358",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.134078",
+          "percentage": "0.126728",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.061453",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.002793",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.02514",
+          "percentage": "0.02765",
           "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.195853",
+          "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.064246",
+          "percentage": "0.182028",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.080645",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.108295",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.062212",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.064516",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.00838",
+          "percentage": "0.025346",
           "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.029954",
+          "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.002793",
+          "percentage": "0.002304",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.02514",
+          "percentage": "0.009217",
           "age": "18-24",
-          "gender": "male"
+          "gender": "female"
         }
       ],
       "funding_entity": "立法委員參選人 李伯利牧師",
       "impressions": {
-        "lower_bound": "0",
-        "upper_bound": "999"
+        "lower_bound": "1000",
+        "upper_bound": "1999"
       },
       "page_id": "115255733188288",
       "page_name": "立法委員參選人 李伯利牧師",
       "region_distribution": [
         {
-          "percentage": "0.00274",
-          "region": "Hualien"
-        },
-        {
-          "percentage": "0.010959",
-          "region": "Hsinchu City"
-        },
-        {
-          "percentage": "0.010959",
-          "region": "Nantou"
-        },
-        {
-          "percentage": "0.043836",
-          "region": "New Taipei City"
-        },
-        {
-          "percentage": "0.049315",
-          "region": "Taoyuan City"
-        },
-        {
-          "percentage": "0.583562",
-          "region": "Tainan"
-        },
-        {
-          "percentage": "0.093151",
-          "region": "Taipei"
-        },
-        {
-          "percentage": "0.005479",
-          "region": "Hsinchu"
-        },
-        {
-          "percentage": "0.010959",
-          "region": "Keelung City"
-        },
-        {
-          "percentage": "0.016438",
-          "region": "Pingtung"
-        },
-        {
-          "percentage": "0.013699",
-          "region": "Yunlin"
-        },
-        {
-          "percentage": "0.00274",
-          "region": "Yilan"
-        },
-        {
-          "percentage": "0.010959",
+          "percentage": "0.011312",
           "region": "Changhua"
         },
         {
-          "percentage": "0.057534",
-          "region": "Taichung"
+          "percentage": "0.00905",
+          "region": "Nantou"
         },
         {
-          "percentage": "0.073973",
-          "region": "Kaohsiung"
+          "percentage": "0.011312",
+          "region": "Yunlin"
         },
         {
-          "percentage": "0.008219",
+          "percentage": "0.002262",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.006787",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.011312",
           "region": "Unknown"
         },
         {
-          "percentage": "0.005479",
+          "percentage": "0.00905",
+          "region": "Hsinchu City"
+        },
+        {
+          "percentage": "0.004525",
           "region": "Taitung"
+        },
+        {
+          "percentage": "0.056561",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.002262",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.052036",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.056561",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.576923",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.090498",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.076923",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.013575",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.00905",
+          "region": "Keelung City"
         }
       ],
       "spend": {
-        "lower_bound": "300",
-        "upper_bound": "399"
+        "lower_bound": "500",
+        "upper_bound": "599"
       },
       "ad_id": "2901829749856517"
     }
@@ -3051,100 +3056,100 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.001244",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.001244",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.04291",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.022388",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.03607",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.169776",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.101368",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.036692",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.041045",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.021766",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.003109",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.001244",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.047264",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.191542",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.077114",
+          "percentage": "0.075838",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.205224",
+          "percentage": "0.02234",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.038801",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001176",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.023516",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001176",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001176",
           "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.002939",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.166961",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.043504",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.041152",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.192828",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.207525",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.09759",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.037625",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.045855",
+          "age": "65+",
           "gender": "male"
         }
       ],
       "funding_entity": "立法委員參選人 李伯利牧師",
       "impressions": {
-        "lower_bound": "1000",
-        "upper_bound": "1999"
+        "lower_bound": "2000",
+        "upper_bound": "2999"
       },
       "page_id": "115255733188288",
       "page_name": "立法委員參選人 李伯利牧師",
       "region_distribution": [
         {
-          "percentage": "0.017035",
+          "percentage": "0.018585",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.982965",
+          "percentage": "0.981415",
           "region": "Tainan"
         }
       ],
@@ -3174,116 +3179,116 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000113",
+          "percentage": "0.000359",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.084031",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.09059",
-          "age": "55-64",
+          "percentage": "0.051372",
+          "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.043995",
-          "age": "65+",
-          "gender": "male"
+          "percentage": "0.045634",
+          "age": "18-24",
+          "gender": "female"
         },
         {
-          "percentage": "0.071025",
+          "percentage": "0.072082",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.157204",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.091948",
+          "percentage": "0.091268",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.067519",
+          "percentage": "0.089475",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.097992",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.047068",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.14757",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "9.0E-5",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.078268",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.122826",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.086606",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.066882",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.091495",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000113",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.127912",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.078715",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.048971",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.001018",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000226",
+          "percentage": "0.000269",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000452",
+          "percentage": "0.000359",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000905",
+          "percentage": "0.000897",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.043768",
-          "age": "18-24",
-          "gender": "female"
+          "percentage": "0.000986",
+          "age": "35-44",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "立法委員參選人 李伯利牧師",
       "impressions": {
-        "lower_bound": "10000",
-        "upper_bound": "14999"
+        "lower_bound": "15000",
+        "upper_bound": "19999"
       },
       "page_id": "115255733188288",
       "page_name": "立法委員參選人 李伯利牧師",
       "region_distribution": [
         {
-          "percentage": "0.004341",
+          "percentage": "0.004226",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.995659",
+          "percentage": "0.995774",
           "region": "Tainan"
         }
       ],
       "spend": {
-        "lower_bound": "3500",
-        "upper_bound": "3999"
+        "lower_bound": "4500",
+        "upper_bound": "4999"
       },
       "ad_id": "581354655992989"
     }
@@ -3307,116 +3312,116 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000132",
+          "percentage": "0.000133",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.037862",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.00033",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.040241",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.062244",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.083851",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.101956",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.0709",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.048963",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000198",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.144641",
+          "percentage": "0.136927",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.087485",
+          "percentage": "0.049655",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.074172",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.087051",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.066473",
+          "percentage": "0.096699",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.070455",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.103211",
-          "age": "25-34",
+          "percentage": "0.064392",
+          "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.149531",
+          "percentage": "0.04368",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000885",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.14538",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.000991",
+          "percentage": "0.099044",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.089485",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000974",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000132",
+          "percentage": "8.9E-5",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000859",
-          "age": "25-34",
+          "percentage": "0.000177",
+          "age": "45-54",
           "gender": "unknown"
+        },
+        {
+          "percentage": "0.000221",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.040582",
+          "age": "65+",
+          "gender": "male"
         }
       ],
       "funding_entity": "立法委員參選人 李伯利牧師",
       "impressions": {
-        "lower_bound": "20000",
-        "upper_bound": "24999"
+        "lower_bound": "30000",
+        "upper_bound": "34999"
       },
       "page_id": "115255733188288",
       "page_name": "立法委員參選人 李伯利牧師",
       "region_distribution": [
         {
-          "percentage": "0.004192",
+          "percentage": "0.003837",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.995808",
+          "percentage": "0.996163",
           "region": "Tainan"
         }
       ],
       "spend": {
-        "lower_bound": "4000",
-        "upper_bound": "4499"
+        "lower_bound": "6000",
+        "upper_bound": "6999"
       },
       "ad_id": "489718998319506"
     }
@@ -3440,106 +3445,116 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000786",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000131",
+          "percentage": "6.4E-5",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000524",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000393",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.104311",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.068536",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.059494",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.051369",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.13799",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.086227",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.121478",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.04888",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.100249",
+          "percentage": "0.112182",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.056218",
-          "age": "65+",
+          "percentage": "0.000191",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000638",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.037522",
+          "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.128161",
+          "percentage": "0.059218",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.121179",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.035251",
-          "age": "18-24",
+          "percentage": "0.058516",
+          "age": "65+",
           "gender": "female"
+        },
+        {
+          "percentage": "0.066109",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000893",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.064833",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.057176",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.132665",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.082573",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.109948",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.095782",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000191",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000319",
+          "age": "65+",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "立法委員參選人 李伯利牧師",
       "impressions": {
-        "lower_bound": "9000",
-        "upper_bound": "9999"
+        "lower_bound": "20000",
+        "upper_bound": "24999"
       },
       "page_id": "115255733188288",
       "page_name": "立法委員參選人 李伯利牧師",
       "region_distribution": [
         {
-          "percentage": "0.002772",
+          "percentage": "0.002899",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.997228",
+          "percentage": "0.997101",
           "region": "Tainan"
         }
       ],
       "spend": {
-        "lower_bound": "1000",
-        "upper_bound": "1499"
+        "lower_bound": "2500",
+        "upper_bound": "2999"
       },
       "ad_id": "514699726064529"
     }
@@ -3561,67 +3576,67 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.265517",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.134483",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.051724",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.037931",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.051724",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.068966",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.041379",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.165517",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.113793",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.041379",
+          "percentage": "0.036923",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.010345",
+          "percentage": "0.156923",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.113846",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.049231",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.264615",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.055385",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.064615",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.141538",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.049231",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.043077",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.009231",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.013793",
+          "percentage": "0.012308",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.003448",
+          "percentage": "0.003077",
           "age": "35-44",
           "gender": "unknown"
         }
@@ -3635,64 +3650,72 @@
       "page_name": "立法委員參選人 李伯利牧師",
       "region_distribution": [
         {
-          "percentage": "0.006803",
-          "region": "Unknown"
+          "percentage": "0.003021",
+          "region": "Hsinchu"
         },
         {
-          "percentage": "0.017007",
-          "region": "Changhua"
-        },
-        {
-          "percentage": "0.006803",
-          "region": "Nantou"
-        },
-        {
-          "percentage": "0.017007",
-          "region": "Pingtung"
-        },
-        {
-          "percentage": "0.013605",
-          "region": "Keelung City"
-        },
-        {
-          "percentage": "0.006803",
+          "percentage": "0.006042",
           "region": "Hualien"
         },
         {
-          "percentage": "0.047619",
-          "region": "Kaohsiung"
-        },
-        {
-          "percentage": "0.088435",
-          "region": "Taipei"
-        },
-        {
-          "percentage": "0.598639",
-          "region": "Tainan"
-        },
-        {
-          "percentage": "0.054422",
-          "region": "Taoyuan City"
-        },
-        {
-          "percentage": "0.057823",
-          "region": "Taichung"
-        },
-        {
-          "percentage": "0.054422",
-          "region": "New Taipei City"
-        },
-        {
-          "percentage": "0.010204",
+          "percentage": "0.009063",
           "region": "Taitung"
         },
         {
-          "percentage": "0.013605",
-          "region": "Yunlin"
+          "percentage": "0.048338",
+          "region": "New Taipei City"
         },
         {
-          "percentage": "0.006803",
+          "percentage": "0.05136",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.598187",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.087613",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.006042",
           "region": "Hsinchu City"
+        },
+        {
+          "percentage": "0.015106",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.003021",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.015106",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.009063",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.015106",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.060423",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.054381",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.006042",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.012085",
+          "region": "Yunlin"
         }
       ],
       "spend": {
@@ -3829,151 +3852,161 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.01995",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.002494",
+          "percentage": "0.001595",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.012469",
+          "percentage": "0.030303",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001595",
+          "age": "13-17",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001595",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.015949",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.25187",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.137157",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.064838",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.134663",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.15212",
+          "percentage": "0.127592",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.062344",
-          "age": "55-64",
+          "percentage": "0.245614",
+          "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.042394",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.014963",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.054863",
+          "percentage": "0.051037",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.049875",
+          "percentage": "0.15311",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.132376",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.052632",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.046252",
           "age": "18-24",
           "gender": "male"
+        },
+        {
+          "percentage": "0.065391",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.027113",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.047847",
+          "age": "55-64",
+          "gender": "female"
         }
       ],
       "funding_entity": "立法委員參選人 李伯利牧師",
       "impressions": {
-        "lower_bound": "1000",
-        "upper_bound": "1999"
+        "lower_bound": "2000",
+        "upper_bound": "2999"
       },
       "page_id": "115255733188288",
       "page_name": "立法委員參選人 李伯利牧師",
       "region_distribution": [
         {
-          "percentage": "0.00978",
+          "percentage": "0.006221",
           "region": "Unknown"
         },
         {
-          "percentage": "0.00978",
-          "region": "Nantou"
-        },
-        {
-          "percentage": "0.00978",
-          "region": "Hsinchu City"
-        },
-        {
-          "percentage": "0.007335",
-          "region": "Keelung City"
-        },
-        {
-          "percentage": "0.007335",
-          "region": "Yunlin"
-        },
-        {
-          "percentage": "0.00489",
-          "region": "Yilan"
-        },
-        {
-          "percentage": "0.007335",
-          "region": "Taitung"
-        },
-        {
-          "percentage": "0.017115",
+          "percentage": "0.013997",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.007335",
-          "region": "Hualien"
-        },
-        {
-          "percentage": "0.05379",
-          "region": "Kaohsiung"
-        },
-        {
-          "percentage": "0.01467",
-          "region": "Changhua"
-        },
-        {
-          "percentage": "0.051345",
-          "region": "New Taipei City"
-        },
-        {
-          "percentage": "0.06357",
-          "region": "Taichung"
-        },
-        {
-          "percentage": "0.03423",
-          "region": "Taoyuan City"
-        },
-        {
-          "percentage": "0.611247",
+          "percentage": "0.640747",
           "region": "Tainan"
         },
         {
-          "percentage": "0.085575",
+          "percentage": "0.00311",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.007776",
+          "region": "Hsinchu City"
+        },
+        {
+          "percentage": "0.009331",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.009331",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.006221",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.012442",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.051322",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.004666",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.00311",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.010886",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.049767",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.031104",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.080871",
           "region": "Taipei"
         },
         {
-          "percentage": "0.00489",
-          "region": "Hsinchu"
+          "percentage": "0.059098",
+          "region": "Taichung"
         }
       ],
       "spend": {
-        "lower_bound": "400",
-        "upper_bound": "499"
+        "lower_bound": "1000",
+        "upper_bound": "1499"
       },
       "ad_id": "856032271479887"
     }
@@ -4058,111 +4091,116 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.10612",
+          "percentage": "0.0005",
           "age": "45-54",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.034812",
+          "percentage": "0.04489",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.000281",
+          "percentage": "9.1E-5",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001123",
+          "percentage": "0.000682",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001123",
+          "percentage": "0.000728",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000281",
+          "percentage": "9.1E-5",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.046603",
+          "percentage": "0.048938",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.0758",
+          "percentage": "0.086824",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.101067",
+          "percentage": "0.082776",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.142897",
-          "age": "25-34",
+          "percentage": "0.088598",
+          "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.051095",
+          "percentage": "0.045936",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.067097",
+          "percentage": "0.073043",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.057552",
+          "percentage": "0.067449",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.077485",
+          "percentage": "0.098922",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.088995",
+          "percentage": "0.091872",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.147389",
+          "percentage": "0.1384",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.000281",
+          "percentage": "0.129986",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000273",
           "age": "18-24",
           "gender": "unknown"
         }
       ],
       "funding_entity": "立法委員參選人 李伯利牧師",
       "impressions": {
-        "lower_bound": "4000",
-        "upper_bound": "4999"
+        "lower_bound": "35000",
+        "upper_bound": "39999"
       },
       "page_id": "115255733188288",
       "page_name": "立法委員參選人 李伯利牧師",
       "region_distribution": [
         {
-          "percentage": "0.998067",
-          "region": "Tainan"
+          "percentage": "0.002731",
+          "region": "Kaohsiung"
         },
         {
-          "percentage": "0.001933",
-          "region": "Kaohsiung"
+          "percentage": "0.997269",
+          "region": "Tainan"
         }
       ],
       "spend": {
-        "lower_bound": "1500",
-        "upper_bound": "1999"
+        "lower_bound": "8000",
+        "upper_bound": "8999"
       },
       "ad_id": "488190598491949"
     }
@@ -4184,116 +4222,116 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.00052",
+          "percentage": "0.000327",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.039002",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.00052",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.029641",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.020801",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.032761",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.072803",
+          "percentage": "0.08034",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.042642",
+          "percentage": "0.03821",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.166884",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.036577",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.156006",
+          "percentage": "0.168191",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.00156",
-          "age": "35-44",
+          "percentage": "0.036904",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.07838",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.022208",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000653",
+          "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.122725",
+          "percentage": "0.168844",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.040823",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.109079",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.083723",
+          "percentage": "0.000653",
           "age": "55-64",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.184087",
+          "percentage": "0.001306",
           "age": "35-44",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.043162",
+          "percentage": "0.000327",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000327",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.049967",
           "age": "35-44",
           "gender": "female"
-        },
-        {
-          "percentage": "0.167967",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.00104",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.00052",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.00052",
-          "age": "18-24",
-          "gender": "unknown"
         }
       ],
       "funding_entity": "立法委員參選人 李伯利牧師",
       "impressions": {
-        "lower_bound": "2000",
-        "upper_bound": "2999"
+        "lower_bound": "4000",
+        "upper_bound": "4999"
       },
       "page_id": "115255733188288",
       "page_name": "立法委員參選人 李伯利牧師",
       "region_distribution": [
         {
-          "percentage": "0.029106",
+          "percentage": "0.024601",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.970894",
+          "percentage": "0.975399",
           "region": "Tainan"
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
+        "lower_bound": "400",
+        "upper_bound": "499"
       },
       "ad_id": "2741396412587665"
     }
@@ -4359,106 +4397,106 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000652",
+          "percentage": "0.000492",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.026093",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.12394",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.028702",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.014351",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.002609",
+          "percentage": "0.001967",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.022179",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.001957",
+          "percentage": "0.001475",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000652",
+          "percentage": "0.000983",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.143509",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.185258",
+          "percentage": "0.195674",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.142205",
+          "percentage": "0.031957",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.147984",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.141593",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.030007",
+          "percentage": "0.077188",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.143559",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.028515",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.16047",
-          "age": "25-34",
+          "percentage": "0.032448",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.109636",
+          "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.074364",
-          "age": "65+",
-          "gender": "male"
+          "percentage": "0.015733",
+          "age": "18-24",
+          "gender": "female"
         },
         {
-          "percentage": "0.043053",
+          "percentage": "0.044739",
           "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.026057",
+          "age": "25-34",
           "gender": "female"
         }
       ],
       "funding_entity": "立法委員參選人 李伯利牧師",
       "impressions": {
-        "lower_bound": "2000",
-        "upper_bound": "2999"
+        "lower_bound": "3000",
+        "upper_bound": "3999"
       },
       "page_id": "115255733188288",
       "page_name": "立法委員參選人 李伯利牧師",
       "region_distribution": [
         {
-          "percentage": "0.025469",
+          "percentage": "0.028543",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.974531",
+          "percentage": "0.971457",
           "region": "Tainan"
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
+        "lower_bound": "300",
+        "upper_bound": "399"
       },
       "ad_id": "600746024025456"
     }
@@ -4480,152 +4518,156 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.002392",
+          "percentage": "0.001848",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.023923",
-          "age": "18-24",
+          "percentage": "0.099815",
+          "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.043062",
-          "age": "18-24",
-          "gender": "male"
+          "percentage": "0.066543",
+          "age": "55-64",
+          "gender": "female"
         },
         {
-          "percentage": "0.052632",
+          "percentage": "0.068392",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.047847",
+          "percentage": "0.238447",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.02403",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.112754",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.120148",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.042514",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.002392",
+          "percentage": "0.151571",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.020333",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.011091",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.040665",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001848",
           "age": "45-54",
           "gender": "unknown"
-        },
-        {
-          "percentage": "0.009569",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.11244",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.131579",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.253589",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.093301",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.023923",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.057416",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.145933",
-          "age": "35-44",
-          "gender": "female"
         }
       ],
       "funding_entity": "立法委員參選人 李伯利牧師",
       "impressions": {
-        "lower_bound": "0",
-        "upper_bound": "999"
+        "lower_bound": "1000",
+        "upper_bound": "1999"
       },
       "page_id": "115255733188288",
       "page_name": "立法委員參選人 李伯利牧師",
       "region_distribution": [
         {
-          "percentage": "0.004762",
+          "percentage": "0.003697",
           "region": "Unknown"
         },
         {
-          "percentage": "0.002381",
-          "region": "Yilan"
-        },
-        {
-          "percentage": "0.05",
-          "region": "Kaohsiung"
-        },
-        {
-          "percentage": "0.064286",
-          "region": "Taichung"
-        },
-        {
-          "percentage": "0.009524",
+          "percentage": "0.007394",
           "region": "Hualien"
         },
         {
-          "percentage": "0.014286",
-          "region": "Keelung City"
-        },
-        {
-          "percentage": "0.011905",
-          "region": "Nantou"
-        },
-        {
-          "percentage": "0.009524",
-          "region": "Pingtung"
-        },
-        {
-          "percentage": "0.004762",
-          "region": "Taitung"
-        },
-        {
-          "percentage": "0.011905",
+          "percentage": "0.014787",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.069048",
-          "region": "Taipei"
+          "percentage": "0.005545",
+          "region": "Taitung"
         },
         {
-          "percentage": "0.619048",
-          "region": "Tainan"
+          "percentage": "0.011091",
+          "region": "Pingtung"
         },
         {
-          "percentage": "0.052381",
-          "region": "Taoyuan City"
+          "percentage": "0.011091",
+          "region": "Nantou"
         },
         {
-          "percentage": "0.047619",
+          "percentage": "0.051756",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.016667",
+          "percentage": "0.011091",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.016636",
           "region": "Changhua"
         },
         {
-          "percentage": "0.011905",
+          "percentage": "0.003697",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.05915",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.053604",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.602588",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.085028",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.048059",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.003697",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.011091",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "300",
-        "upper_bound": "399"
+        "lower_bound": "500",
+        "upper_bound": "599"
       },
       "ad_id": "2855510124513937"
     }
@@ -4647,116 +4689,116 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000138",
+          "percentage": "9.0E-5",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.146481",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000207",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000657",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.01555",
+          "percentage": "0.01483",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.047687",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.089879",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.05833",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.086216",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.001244",
+          "percentage": "0.001101",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.165244",
+          "percentage": "0.001011",
           "age": "35-44",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.041259",
+          "percentage": "0.039143",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.022185",
-          "age": "65+",
+          "percentage": "0.045277",
+          "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.174298",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.079132",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.070286",
+          "percentage": "0.000562",
           "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.056669",
+          "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "6.9E-5",
+          "percentage": "0.09325",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "4.5E-5",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00114",
+          "percentage": "0.143942",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.180366",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.021099",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.081498",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.075926",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.153379",
           "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.091587",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000225",
+          "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "立法委員參選人 李伯利牧師",
       "impressions": {
-        "lower_bound": "60000",
-        "upper_bound": "69999"
+        "lower_bound": "100000",
+        "upper_bound": "124999"
       },
       "page_id": "115255733188288",
       "page_name": "立法委員參選人 李伯利牧師",
       "region_distribution": [
         {
-          "percentage": "0.036152",
+          "percentage": "0.034533",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.963848",
+          "percentage": "0.965467",
           "region": "Tainan"
         }
       ],
       "spend": {
-        "lower_bound": "7000",
-        "upper_bound": "7999"
+        "lower_bound": "10000",
+        "upper_bound": "14999"
       },
       "ad_id": "499865270881184"
     }
@@ -4778,106 +4820,106 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.001089",
+          "percentage": "0.001035",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.028322",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000545",
+          "percentage": "0.000518",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001089",
+          "percentage": "0.001035",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.002179",
+          "percentage": "0.00207",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.081155",
-          "age": "35-44",
+          "percentage": "0.096791",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.028986",
+          "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.078431",
+          "percentage": "0.076605",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.163399",
+          "percentage": "0.163043",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.158497",
+          "percentage": "0.162008",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.096405",
+          "percentage": "0.062629",
           "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.036492",
-          "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.1378",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.038671",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.06427",
+          "percentage": "0.063147",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.061002",
-          "age": "45-54",
+          "percentage": "0.048137",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.081263",
+          "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.050654",
+          "percentage": "0.041408",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.037267",
           "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.134058",
+          "age": "18-24",
           "gender": "male"
         }
       ],
       "funding_entity": "立法委員參選人 李伯利牧師",
       "impressions": {
-        "lower_bound": "2000",
-        "upper_bound": "2999"
+        "lower_bound": "3000",
+        "upper_bound": "3999"
       },
       "page_id": "115255733188288",
       "page_name": "立法委員參選人 李伯利牧師",
       "region_distribution": [
         {
-          "percentage": "0.016986",
-          "region": "Kaohsiung"
+          "percentage": "0.983333",
+          "region": "Tainan"
         },
         {
-          "percentage": "0.983014",
-          "region": "Tainan"
+          "percentage": "0.016667",
+          "region": "Kaohsiung"
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
+        "lower_bound": "300",
+        "upper_bound": "399"
       },
       "ad_id": "524228555102424"
     }

@@ -4470,65 +4470,65 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000496",
+          "percentage": "0.000407",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000248",
+          "percentage": "0.000204",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.025031",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.250558",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.508302",
+          "percentage": "0.498065",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.068401",
+          "percentage": "0.265023",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.056427",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.063149",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00713",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.027093",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.066409",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.055514",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.065675",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.007435",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.017348",
+          "percentage": "0.015278",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.000991",
+          "percentage": "0.000815",
           "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "盈宏 陳",
       "impressions": {
-        "lower_bound": "4000",
-        "upper_bound": "4999"
+        "lower_bound": "6000",
+        "upper_bound": "6999"
       },
       "page_id": "134699156554812",
       "page_name": "台中市議員李中",
@@ -4539,8 +4539,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "400",
-        "upper_bound": "499"
+        "lower_bound": "500",
+        "upper_bound": "599"
       },
       "ad_id": "500772200789311"
     }
@@ -4562,85 +4562,90 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000219",
+          "percentage": "0.000128",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000437",
+          "percentage": "0.005107",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002681",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000128",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000255",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.005466",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.002186",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.033231",
+          "percentage": "0.052988",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.037167",
+          "percentage": "0.028856",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.084609",
+          "percentage": "0.079162",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.395059",
+          "percentage": "0.361466",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.174027",
+          "percentage": "0.162283",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.072803",
+          "percentage": "0.124106",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.144075",
+          "percentage": "0.131001",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.021644",
+          "percentage": "0.021834",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.004373",
+          "percentage": "0.004469",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.024486",
+          "percentage": "0.025281",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.000219",
+          "percentage": "0.000255",
           "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "盈宏 陳",
       "impressions": {
-        "lower_bound": "6000",
-        "upper_bound": "6999"
+        "lower_bound": "10000",
+        "upper_bound": "14999"
       },
       "page_id": "134699156554812",
       "page_name": "台中市議員李中",
@@ -4651,8 +4656,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "500",
-        "upper_bound": "599"
+        "lower_bound": "900",
+        "upper_bound": "999"
       },
       "ad_id": "2423153181144538"
     }
@@ -4675,65 +4680,65 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.001149",
+          "percentage": "0.00173",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000862",
-          "age": "25-34",
+          "percentage": "0.001514",
+          "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.318012",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.33611",
+          "percentage": "0.344865",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.039931",
+          "percentage": "0.313514",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.095784",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.037838",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.139027",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.037189",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.016662",
+          "percentage": "0.015784",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.135019",
+          "percentage": "0.012108",
           "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.10112",
-          "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.001436",
-          "age": "45-54",
+          "percentage": "0.000649",
+          "age": "25-34",
           "gender": "unknown"
-        },
-        {
-          "percentage": "0.038782",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.010916",
-          "age": "25-34",
-          "gender": "female"
         }
       ],
       "funding_entity": "盈宏 陳",
       "impressions": {
-        "lower_bound": "4000",
-        "upper_bound": "4999"
+        "lower_bound": "6000",
+        "upper_bound": "6999"
       },
       "page_id": "134699156554812",
       "page_name": "台中市議員李中",
@@ -4744,8 +4749,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "300",
-        "upper_bound": "399"
+        "lower_bound": "500",
+        "upper_bound": "599"
       },
       "ad_id": "600146057416946"
     }
@@ -4769,65 +4774,65 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000774",
+          "percentage": "0.000763",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000968",
+          "percentage": "0.432998",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.298077",
           "age": "45-54",
-          "gender": "unknown"
+          "gender": "male"
         },
         {
-          "percentage": "0.000194",
+          "percentage": "0.143773",
           "age": "25-34",
-          "gender": "unknown"
+          "gender": "male"
         },
         {
-          "percentage": "0.025934",
+          "percentage": "0.03602",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.041361",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.006563",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.025488",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.443391",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.291078",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.143797",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.036578",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.013354",
+          "percentage": "0.014042",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.038127",
+          "percentage": "0.000763",
           "age": "45-54",
-          "gender": "female"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.005806",
-          "age": "55-64",
-          "gender": "female"
+          "percentage": "0.000153",
+          "age": "25-34",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "盈宏 陳",
       "impressions": {
-        "lower_bound": "6000",
-        "upper_bound": "6999"
+        "lower_bound": "8000",
+        "upper_bound": "8999"
       },
       "page_id": "134699156554812",
       "page_name": "台中市議員李中",
@@ -4838,8 +4843,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "400",
-        "upper_bound": "499"
+        "lower_bound": "500",
+        "upper_bound": "599"
       },
       "ad_id": "1750841678379613"
     }
@@ -4863,86 +4868,86 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "7.8E-5",
+          "percentage": "4.1E-5",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.028612",
+          "percentage": "0.333183",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.204037",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.021743",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.026329",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.000941",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.180528",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.057851",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.320295",
+          "percentage": "0.293752",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.345065",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.038645",
-          "age": "35-44",
+          "percentage": "0.063099",
+          "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.001568",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.016618",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.009093",
+          "percentage": "0.007985",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.000705",
+          "percentage": "0.046515",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00086",
           "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001638",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000819",
+          "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "盈宏 陳",
       "impressions": {
-        "lower_bound": "15000",
-        "upper_bound": "19999"
+        "lower_bound": "30000",
+        "upper_bound": "34999"
       },
       "page_id": "134699156554812",
       "page_name": "台中市議員李中",
       "region_distribution": [
         {
-          "percentage": "0.98482",
+          "percentage": "0.984953",
           "region": "Taichung"
         },
         {
-          "percentage": "0.01518",
+          "percentage": "0.015047",
           "region": "Changhua"
         }
       ],
       "spend": {
-        "lower_bound": "1000",
-        "upper_bound": "1499"
+        "lower_bound": "2500",
+        "upper_bound": "2999"
       },
       "ad_id": "2721328411295408"
     }
@@ -4965,88 +4970,186 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.002922",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000584",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000584",
+          "percentage": "0.000418",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000584",
+          "percentage": "0.296575",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.287803",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.035714",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.174185",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.092941",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.065789",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.013993",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.027987",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001462",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.330216",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.324956",
+          "percentage": "0.002924",
           "age": "35-44",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.158971",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.071888",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.019871",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.047925",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.029223",
+          "percentage": "0.000209",
           "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.012274",
-          "age": "55-64",
-          "gender": "female"
+          "gender": "unknown"
         }
       ],
       "funding_entity": "盈宏 陳",
       "impressions": {
-        "lower_bound": "1000",
-        "upper_bound": "1999"
+        "lower_bound": "5000",
+        "upper_bound": "5999"
       },
       "page_id": "134699156554812",
       "page_name": "台中市議員李中",
       "region_distribution": [
         {
-          "percentage": "0.984821",
+          "percentage": "0.988052",
           "region": "Taichung"
         },
         {
-          "percentage": "0.015179",
+          "percentage": "0.011948",
           "region": "Changhua"
         }
       ],
       "spend": {
-        "lower_bound": "100",
-        "upper_bound": "199"
+        "lower_bound": "500",
+        "upper_bound": "599"
       },
       "ad_id": "467435597309280"
+    }
+  },
+  {
+    "選區": "臺中市第六選舉區",
+    "參選人": "李中",
+    "AD_ID": "2628375800532157",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-28",
+    "結束日期": "1970-01-01",
+    "廣告內容": "生命，不該被黃國書踐踏 👉一位洪仲丘，幾十萬人上街頭 👉一位小燈泡，總統說不會讓她白白犧牲 👉蘇啟誠呢？生命有貴賤之分嗎？公平正義呢？ 如果，卡神楊蕙如可能是殺手 那，誰是下令殺人的主謀？ 誰是幫助殺人的幫兇？ 根據監察院報告，該網軍集團，曾經使用過立法院的IP210.69.138.169，網友也很厲害，比對這個IP近幾年的活動，得到一個結論 「這IP只有出現黃國書一個委員」 黃國書嬉皮笑臉的用以下理由辯解， 1.IP是大家共用的代表號 ➡那為何只有出現你 2.IP可以被冒用 ➡國家網路被入侵，為何不查？ 掌握立法院的民進黨 面對被謀害的蘇啟誠 就只有出來打哈哈兩聲 院長沒有要調查、也沒有人要自清 沒有人要搭理，蘇啟誠的生命 就跟不存在過一樣 你不生氣嗎？你不憤怒嗎？ 我是李中，進入立法院後，我一定全力追查到底！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81347186_463986561202086_7273581923853664256_n.jpg?_nc_cat=108&_nc_ohc=3cgWlJ9i0K4AQmkd2Y7kbk2TVGPMxgFkMgdPzGJZ-8RwhxP1RSmnw3hRg&_nc_ht=scontent-hkg3-1.xx&oh=eebb549a17493482477482ab15226eda&oe=5E6E6B28",
+    "廣告詳情": {
+      "ad_creative_body": "生命，不該被黃國書踐踏\n\n👉一位洪仲丘，幾十萬人上街頭\n👉一位小燈泡，總統說不會讓她白白犧牲\n👉蘇啟誠呢？生命有貴賤之分嗎？公平正義呢？\n\n如果，卡神楊蕙如可能是殺手\n那，誰是下令殺人的主謀？\n誰是幫助殺人的幫兇？\n\n根據監察院報告，該網軍集團，曾經使用過立法院的IP210.69.138.169，網友也很厲害，比對這個IP近幾年的活動，得到一個結論\n\n「這IP只有出現黃國書一個委員」\n\n黃國書嬉皮笑臉的用以下理由辯解，\n1.IP是大家共用的代表號\n➡那為何只有出現你\n2.IP可以被冒用\n➡國家網路被入侵，為何不查？\n\n掌握立法院的民進黨\n面對被謀害的蘇啟誠\n就只有出來打哈哈兩聲\n院長沒有要調查、也沒有人要自清\n沒有人要搭理，蘇啟誠的生命\n就跟不存在過一樣\n\n你不生氣嗎？你不憤怒嗎？\n我是李中，進入立法院後，我一定全力追查到底！",
+      "ad_creation_time": "2019-12-31T05:51:05+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_title": "黃國書出來面對！還蘇啟誠一個公道！",
+      "ad_delivery_start_time": "2019-12-31T05:51:05+0000",
+      "ad_delivery_stop_time": "2020-01-08T05:50:54+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.174048",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.341869",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.346021",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.030796",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.051211",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.014533",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.007612",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.03045",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.002076",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001038",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000346",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "盈宏 陳",
+      "impressions": {
+        "lower_bound": "3000",
+        "upper_bound": "3999"
+      },
+      "page_id": "134699156554812",
+      "page_name": "台中市議員李中",
+      "region_distribution": [
+        {
+          "percentage": "0.98828",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.01172",
+          "region": "Changhua"
+        }
+      ],
+      "spend": {
+        "lower_bound": "200",
+        "upper_bound": "299"
+      },
+      "ad_id": "2628375800532157"
     }
   },
   {

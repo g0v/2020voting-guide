@@ -597,87 +597,87 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "6.0E-5",
+          "percentage": "5.8E-5",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.015394",
-          "age": "35-44",
+          "percentage": "0.052512",
+          "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.00021",
+          "percentage": "0.000202",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.012603",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.008342",
+          "percentage": "0.008483",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.014254",
+          "percentage": "0.014282",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.023766",
+          "percentage": "0.012782",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.023919",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.042491",
+          "percentage": "0.015696",
           "age": "35-44",
-          "gender": "male"
+          "gender": "female"
         },
         {
-          "percentage": "0.122701",
+          "percentage": "0.122421",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.00018",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.051073",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.157749",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.151268",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.253353",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.146077",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.00015",
+          "percentage": "0.000173",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00033",
+          "percentage": "0.15439",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.147754",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.153784",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.250382",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.042644",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000173",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000346",
           "age": "55-64",
           "gender": "unknown"
         }
@@ -691,23 +691,23 @@
       "page_name": "捍衛勇士-廖國棟Sufin.Siluko",
       "region_distribution": [
         {
-          "percentage": "0.003839",
-          "region": "Kinmen"
+          "percentage": "0.023949",
+          "region": "Unknown"
         },
         {
-          "percentage": "0.000322",
+          "percentage": "0.000338",
           "region": "Lienchiang"
         },
         {
-          "percentage": "0.018402",
+          "percentage": "0.018286",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.030797",
+          "percentage": "0.030655",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.009377",
+          "percentage": "0.009411",
           "region": "Yilan"
         },
         {
@@ -715,67 +715,67 @@
           "region": "Taitung"
         },
         {
-          "percentage": "0.047323",
+          "percentage": "0.048011",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.004337",
+          "percentage": "0.004339",
           "region": "Penghu"
         },
         {
-          "percentage": "0.02057",
+          "percentage": "0.020455",
           "region": "Nantou"
         },
         {
-          "percentage": "0.024438",
+          "percentage": "0.024428",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.026724",
-          "region": "Hualien"
+          "percentage": "0.003888",
+          "region": "Kinmen"
         },
         {
-          "percentage": "0.024262",
-          "region": "Unknown"
-        },
-        {
-          "percentage": "0.004454",
-          "region": "Hsinchu"
-        },
-        {
-          "percentage": "0.002139",
-          "region": "Chiayi"
-        },
-        {
-          "percentage": "0.042899",
-          "region": "Changhua"
-        },
-        {
-          "percentage": "0.13816",
-          "region": "New Taipei City"
-        },
-        {
-          "percentage": "0.117473",
-          "region": "Taichung"
-        },
-        {
-          "percentage": "0.106543",
-          "region": "Taoyuan City"
-        },
-        {
-          "percentage": "0.069681",
-          "region": "Tainan"
-        },
-        {
-          "percentage": "0.11381",
-          "region": "Taipei"
-        },
-        {
-          "percentage": "0.142556",
+          "percentage": "0.142088",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.026987",
+          "percentage": "0.026767",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.004424",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.002198",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.042996",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.13758",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.118224",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.10794",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.069903",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.112645",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.026569",
           "region": "Hsinchu City"
         }
       ],
@@ -985,190 +985,195 @@
       "ad_creative_body": "#不忘初心，#勇往直前！\n\n每一次與鄉親族人的擁抱，\n喜悅之外，更是一份承擔。\n每一次握著鄉親族人的手，\n溫暖之外，更是一份託付。\n\n#平地原住民立法委員懇請支持廖國棟\n\n#捍衛勇士廖國棟│官網\nhttps://www.sufin-siluko.com/",
       "ad_creation_time": "2019-11-18T15:51:45+0000",
       "ad_delivery_start_time": "2019-11-18T15:51:47+0000",
-      "ad_delivery_stop_time": "2020-01-04T02:17:57+0000",
+      "ad_delivery_stop_time": "2020-01-09T02:17:57+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000109",
-          "age": "35-44",
+          "percentage": "2.4E-5",
+          "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.181078",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.016961",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.248812",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.064975",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.016851",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.153684",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.108647",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.050063",
+          "percentage": "0.051332",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.010406",
-          "age": "25-34",
-          "gender": "female"
+          "percentage": "0.000266",
+          "age": "55-64",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.008521",
-          "age": "18-24",
-          "gender": "male"
+          "percentage": "0.000315",
+          "age": "45-54",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.132545",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.006773",
+          "percentage": "0.007025",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.0003",
-          "age": "45-54",
+          "percentage": "0.127592",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.008769",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.010732",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.108164",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000145",
+          "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000191",
+          "percentage": "0.153779",
           "age": "55-64",
-          "gender": "unknown"
+          "gender": "female"
         },
         {
-          "percentage": "8.2E-5",
+          "percentage": "0.016764",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.066352",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.247578",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.018241",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.182849",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "7.3E-5",
           "age": "65+",
           "gender": "unknown"
         }
       ],
       "funding_entity": "瓊心魏",
       "impressions": {
-        "lower_bound": "80000",
-        "upper_bound": "89999"
+        "lower_bound": "90000",
+        "upper_bound": "99999"
       },
       "page_id": "418243609026382",
       "page_name": "捍衛勇士-廖國棟Sufin.Siluko",
       "region_distribution": [
         {
-          "percentage": "0.022993",
-          "region": "Unknown"
+          "percentage": "0.000303",
+          "region": "Lienchiang"
         },
         {
-          "percentage": "0.021103",
-          "region": "Miaoli"
-        },
-        {
-          "percentage": "0.027534",
-          "region": "Hsinchu City"
-        },
-        {
-          "percentage": "0.017455",
-          "region": "Keelung City"
-        },
-        {
-          "percentage": "0.026195",
-          "region": "Yunlin"
-        },
-        {
-          "percentage": "0.006772",
-          "region": "Yilan"
-        },
-        {
-          "percentage": "0.015119",
-          "region": "Taitung"
-        },
-        {
-          "percentage": "0.036379",
-          "region": "Pingtung"
-        },
-        {
-          "percentage": "0.003806",
-          "region": "Penghu"
-        },
-        {
-          "percentage": "0.018032",
-          "region": "Nantou"
-        },
-        {
-          "percentage": "0.003228",
-          "region": "Kinmen"
-        },
-        {
-          "percentage": "0.147353",
-          "region": "Kaohsiung"
-        },
-        {
-          "percentage": "0.01756",
+          "percentage": "0.017156",
           "region": "Hualien"
         },
         {
-          "percentage": "0.003911",
+          "percentage": "0.017389",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.026234",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.007496",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.014944",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.03643",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.003841",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.018506",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.020764",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.004027",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.001969",
+          "percentage": "0.003026",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.001955",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.04113",
+          "percentage": "0.041761",
           "region": "Changhua"
         },
         {
-          "percentage": "0.144833",
+          "percentage": "0.143788",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.123205",
+          "percentage": "0.125352",
           "region": "Taichung"
         },
         {
-          "percentage": "0.119846",
+          "percentage": "0.118951",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.069293",
+          "percentage": "0.068414",
           "region": "Tainan"
         },
         {
-          "percentage": "0.131946",
+          "percentage": "0.132266",
           "region": "Taipei"
         },
         {
-          "percentage": "0.000341",
-          "region": "Lienchiang"
+          "percentage": "0.147606",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.022812",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.026979",
+          "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "4000",
-        "upper_bound": "4499"
+        "lower_bound": "4500",
+        "upper_bound": "4999"
       },
       "ad_id": "2497127833884128"
     }
@@ -2203,187 +2208,196 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000354",
-          "age": "18-24",
+          "percentage": "0.000258",
+          "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.142629",
+          "percentage": "0.100814",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000517",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.040364",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.068135",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.038556",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.015758",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.131684",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.000177",
+          "percentage": "0.189421",
           "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000129",
+          "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.045358",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.011871",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.03579",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.047838",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.0955",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.097094",
+          "percentage": "0.081181",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.000177",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.13944",
+          "percentage": "0.163524",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.077073",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.056875",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.198972",
-          "age": "45-54",
+          "percentage": "0.050181",
+          "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.049256",
-          "age": "65+",
+          "percentage": "0.073108",
+          "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.000709",
-          "age": "35-44",
+          "percentage": "0.045402",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000258",
+          "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000886",
-          "age": "25-34",
+          "percentage": "0.000129",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000581",
+          "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "瓊心魏",
       "impressions": {
-        "lower_bound": "7000",
-        "upper_bound": "7999"
+        "lower_bound": "20000",
+        "upper_bound": "24999"
       },
       "page_id": "418243609026382",
       "page_name": "捍衛勇士-廖國棟Sufin.Siluko",
       "region_distribution": [
         {
-          "percentage": "0.001751",
-          "region": "Chiayi"
+          "percentage": "0.000318",
+          "region": "Lienchiang"
         },
         {
-          "percentage": "0.002452",
+          "percentage": "0.00362",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.012609",
+          "percentage": "0.015053",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.027496",
+          "percentage": "0.028519",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.007881",
+          "percentage": "0.011369",
           "region": "Yilan"
         },
         {
-          "percentage": "0.023818",
+          "percentage": "0.02331",
           "region": "Taitung"
         },
         {
-          "percentage": "0.045009",
+          "percentage": "0.047701",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.003152",
+          "percentage": "0.003493",
           "region": "Penghu"
         },
         {
-          "percentage": "0.016813",
+          "percentage": "0.018928",
           "region": "Nantou"
         },
         {
-          "percentage": "0.021016",
+          "percentage": "0.019944",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.028546",
+          "percentage": "0.029726",
           "region": "Hualien"
         },
         {
-          "percentage": "0.002977",
-          "region": "Hsinchu"
-        },
-        {
-          "percentage": "0.038179",
-          "region": "Changhua"
-        },
-        {
-          "percentage": "0.132224",
-          "region": "New Taipei City"
-        },
-        {
-          "percentage": "0.135026",
-          "region": "Taichung"
-        },
-        {
-          "percentage": "0.118564",
-          "region": "Taoyuan City"
-        },
-        {
-          "percentage": "0.07951",
-          "region": "Tainan"
-        },
-        {
-          "percentage": "0.090368",
-          "region": "Taipei"
-        },
-        {
-          "percentage": "0.161471",
-          "region": "Kaohsiung"
-        },
-        {
-          "percentage": "0.029772",
+          "percentage": "0.028519",
           "region": "Unknown"
         },
         {
-          "percentage": "0.021366",
+          "percentage": "0.003049",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001715",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.03938",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.129002",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.135988",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.124936",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.07044",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.093814",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.14939",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.021786",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "700",
-        "upper_bound": "799"
+        "lower_bound": "1500",
+        "upper_bound": "1999"
       },
       "ad_id": "472164840110703"
     }

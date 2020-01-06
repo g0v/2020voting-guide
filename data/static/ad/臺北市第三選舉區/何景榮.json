@@ -1333,70 +1333,70 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.381718",
+          "percentage": "0.315644",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.388247",
+          "percentage": "0.408349",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.101833",
+          "percentage": "0.140095",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.044073",
+          "percentage": "0.048299",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.040432",
+          "percentage": "0.028512",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.007408",
+          "percentage": "0.007396",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.025364",
+          "percentage": "0.036297",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.000753",
+          "percentage": "0.000778",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.006404",
+          "percentage": "0.010574",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.000879",
+          "percentage": "0.001265",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.002762",
+          "percentage": "0.002757",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000126",
+          "percentage": "3.2E-5",
           "age": "55-64",
           "gender": "unknown"
         }
       ],
       "funding_entity": "景榮 何",
       "impressions": {
-        "lower_bound": "8000",
-        "upper_bound": "8999"
+        "lower_bound": "40000",
+        "upper_bound": "44999"
       },
       "page_id": "105961094120160",
       "page_name": "何景榮",
@@ -1407,8 +1407,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "500",
-        "upper_bound": "599"
+        "lower_bound": "3000",
+        "upper_bound": "3499"
       },
       "ad_id": "495626981067716"
     }

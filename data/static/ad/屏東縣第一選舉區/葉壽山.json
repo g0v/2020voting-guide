@@ -4558,62 +4558,62 @@
           "gender": "unknown"
         },
         {
-          "percentage": "0.140593",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.207395",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.154002",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.062983",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.030394",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.102397",
+          "percentage": "0.102681",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.066802",
-          "age": "18-24",
+          "percentage": "0.15394",
+          "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.091508",
-          "age": "55-64",
-          "gender": "female"
+          "percentage": "0.207392",
+          "age": "45-54",
+          "gender": "male"
         },
         {
-          "percentage": "0.042015",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.069403",
+          "percentage": "0.069374",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.013409",
+          "percentage": "0.140536",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.062957",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.030382",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.066775",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.09147",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.041998",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.013404",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.01861",
+          "percentage": "0.018603",
           "age": "25-34",
           "gender": "female"
         }
@@ -4641,6 +4641,123 @@
   {
     "選區": "屏東縣第一選舉區",
     "參選人": "葉壽山",
+    "AD_ID": "854854788279467",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "發揚孝道，重視中華民族文化的保存。 「百善孝為先」，孝道是我國古老文化傳統，歷經5千年的歷史長河，經久不衰，中華文化可謂「孝的文化」。不管社會如何進步，文明如何發達，都不應該丟棄，而應予以發揚光大。台灣海島地形擁有多元族群文化，但使用漢字說漢語傳承漢習俗，仍為現今台灣社會文化的主體，是華人世界唯一的民主國家，更是非常有潛力發展文化產業、保存中華傳文化的國家。 #保存並發揚文化產業 #打造會生蛋的金雞母 #屏東體育產業城 ⚾️歡迎加入葉壽山的LINE： ID搜尋：@pt520",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/81201505_2694946200548779_6606892021854502912_n.jpg?_nc_cat=100&_nc_ohc=KoFva6jthboAQnU335tjf7AG1RKG1hlGcQaLm_mAsbIK07GaJ-xT6Z6lA&_nc_ht=scontent-hkg3-1.xx&oh=f3149333b923ef1db362fa9e4817379c&oe=5EA389D6",
+    "廣告詳情": {
+      "ad_creative_body": "發揚孝道，重視中華民族文化的保存。\n\n「百善孝為先」，孝道是我國古老文化傳統，歷經5千年的歷史長河，經久不衰，中華文化可謂「孝的文化」。不管社會如何進步，文明如何發達，都不應該丟棄，而應予以發揚光大。台灣海島地形擁有多元族群文化，但使用漢字說漢語傳承漢習俗，仍為現今台灣社會文化的主體，是華人世界唯一的民主國家，更是非常有潛力發展文化產業、保存中華傳文化的國家。\n\n#保存並發揚文化產業\n#打造會生蛋的金雞母\n#屏東體育產業城\n\n⚾️歡迎加入葉壽山的LINE：\nID搜尋：@pt520",
+      "ad_creation_time": "2019-12-31T00:56:07+0000",
+      "ad_delivery_start_time": "2019-12-31T00:56:07+0000",
+      "ad_delivery_stop_time": "2020-01-02T15:00:38+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.04936",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.066858",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.197441",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.084748",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.130974",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.095847",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.072212",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.070906",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.014495",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.162575",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000131",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.032776",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.021154",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000261",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000131",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000131",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "壽山 葉",
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "146869168689841",
+      "page_name": "葉壽山",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Pingtung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2000",
+        "upper_bound": "2499"
+      },
+      "ad_id": "854854788279467"
+    }
+  },
+  {
+    "選區": "屏東縣第一選舉區",
+    "參選人": "葉壽山",
     "AD_ID": "476042156658651",
     "登錄為政治廣告": "是",
     "開始日期": "2019-12-30",
@@ -4655,70 +4772,90 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.052409",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.031699",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.08284",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.027473",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.117075",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.172866",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.16399",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.062975",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.1847",
+          "percentage": "0.182136",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.066779",
+          "percentage": "0.068676",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.141835",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.116503",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.016573",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.023399",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.069828",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.018597",
+          "percentage": "0.178311",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.073488",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.027512",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.018597",
-          "age": "65+",
+          "percentage": "0.056257",
+          "age": "55-64",
           "gender": "female"
+        },
+        {
+          "percentage": "0.044619",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "8.2E-5",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000411",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000329",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "4.1E-5",
+          "age": "18-24",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "壽山 葉",
       "impressions": {
-        "lower_bound": "2000",
-        "upper_bound": "2999"
+        "lower_bound": "25000",
+        "upper_bound": "29999"
       },
       "page_id": "146869168689841",
       "page_name": "葉壽山",
@@ -4729,8 +4866,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
+        "lower_bound": "2000",
+        "upper_bound": "2499"
       },
       "ad_id": "476042156658651"
     }
@@ -4752,85 +4889,90 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000231",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000231",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.056094",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.029778",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.134118",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.085642",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.099954",
+          "percentage": "0.114182",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.019391",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.122345",
+          "percentage": "0.112039",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.173361",
+          "percentage": "0.129924",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.149804",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.120268",
-          "age": "55-64",
+          "percentage": "0.119947",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.079004",
+          "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.053093",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.062096",
+          "percentage": "0.045747",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.043167",
+          "percentage": "0.051955",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.023132",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.084621",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.044121",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.04486",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.000231",
+          "percentage": "0.000222",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000148",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000222",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "7.4E-5",
           "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "壽山 葉",
       "impressions": {
-        "lower_bound": "5000",
-        "upper_bound": "5999"
+        "lower_bound": "15000",
+        "upper_bound": "19999"
       },
       "page_id": "146869168689841",
       "page_name": "葉壽山",
@@ -4841,8 +4983,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "500",
-        "upper_bound": "599"
+        "lower_bound": "2000",
+        "upper_bound": "2499"
       },
       "ad_id": "873322783086716"
     }
@@ -4954,80 +5096,85 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000284",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000284",
+          "percentage": "0.112231",
           "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.028986",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.042626",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.054845",
-          "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.138676",
+          "percentage": "0.134901",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.179312",
-          "age": "45-54",
+          "percentage": "0.078925",
+          "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.100881",
-          "age": "45-54",
+          "percentage": "0.032372",
+          "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.119352",
+          "percentage": "0.105793",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.132708",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.081841",
+          "percentage": "0.041982",
           "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.019039",
-          "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.061381",
-          "age": "18-24",
+          "percentage": "0.149827",
+          "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.039784",
+          "percentage": "0.0904",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.054389",
           "age": "35-44",
           "gender": "female"
+        },
+        {
+          "percentage": "0.040396",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.111951",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.046366",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000187",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "9.3E-5",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000187",
+          "age": "35-44",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "壽山 葉",
       "impressions": {
-        "lower_bound": "4000",
-        "upper_bound": "4999"
+        "lower_bound": "10000",
+        "upper_bound": "14999"
       },
       "page_id": "146869168689841",
       "page_name": "葉壽山",
@@ -5038,8 +5185,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "700",
-        "upper_bound": "799"
+        "lower_bound": "1500",
+        "upper_bound": "1999"
       },
       "ad_id": "500987293857728"
     }

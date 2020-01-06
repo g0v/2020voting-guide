@@ -267,55 +267,55 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000601",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.0003",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.055288",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.153245",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.429688",
+          "percentage": "0.370036",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.289663",
+          "percentage": "0.000932",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.266165",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.015024",
+          "percentage": "0.141004",
           "age": "35-44",
-          "gender": "female"
+          "gender": "male"
         },
         {
-          "percentage": "0.054387",
+          "percentage": "0.089391",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.001803",
+          "percentage": "0.098781",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.030753",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000573",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.002366",
           "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "郁揚 王",
       "impressions": {
-        "lower_bound": "4000",
-        "upper_bound": "4999"
+        "lower_bound": "25000",
+        "upper_bound": "29999"
       },
       "page_id": "388974281948360",
       "page_name": "王郁揚 北投天母 1號立法委員 素人參選",
@@ -326,8 +326,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "400",
-        "upper_bound": "499"
+        "lower_bound": "3000",
+        "upper_bound": "3499"
       },
       "ad_id": "1537048299767825"
     }

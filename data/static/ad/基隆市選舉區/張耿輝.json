@@ -528,7 +528,7 @@
       "ad_creative_body": "從政以來\n耿輝一直給自己期許，要做就是做一個最好的民代，以百姓的所苦去考量、所需要的去解決，考慮百姓所需要是什麼民生的法案、民生的問題，整個市民它是需要哪邊要解決的先解決，不會去考量黨派的立場，堅持以民為依歸的信念！\n\n＃十八年來始終如一\n＃過去現在未來\n＃民意覺醒改變基隆\n＃基隆市立法委員候選人張耿輝",
       "ad_creation_time": "2019-12-09T10:34:11+0000",
       "ad_delivery_start_time": "2019-12-09T10:34:11+0000",
-      "ad_delivery_stop_time": "2020-01-01T15:59:45+0000",
+      "ad_delivery_stop_time": "2020-01-06T15:59:45+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -782,7 +782,7 @@
       "ad_creative_body": "民意覺醒\n改變基隆\n票投3號 張耿輝\n基隆起飛 \n萬事都OK\n\n#基隆市立法委員候選人張耿輝",
       "ad_creation_time": "2019-12-18T08:19:33+0000",
       "ad_delivery_start_time": "2019-12-18T08:19:33+0000",
-      "ad_delivery_stop_time": "2020-01-01T15:59:45+0000",
+      "ad_delivery_stop_time": "2020-01-06T15:59:45+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -899,7 +899,7 @@
       "ad_creative_body": "一步一腳印深耕基層，耿輝給自己的期許，要做就是做一個最好的民代，以鄉親所苦去考量，不去考量黨派的立場，以民為依歸，耿輝18年問政實錄完整記載＆參選政見電子版，提供各位市民好朋友閱覽\n\n電子版：\nhttps://reurl.cc/xD8RgN\n\n＃一步一腳印用心看得見\n＃民意覺醒改變基隆\n＃基隆市立法委員候選人3號張耿輝\n＃會做事最實在",
       "ad_creation_time": "2019-12-22T01:25:19+0000",
       "ad_delivery_start_time": "2019-12-22T01:25:19+0000",
-      "ad_delivery_stop_time": "2020-01-01T15:59:45+0000",
+      "ad_delivery_stop_time": "2020-01-06T15:59:45+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -1020,100 +1020,100 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "8.5E-5",
+          "percentage": "9.8E-5",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.057868",
+          "percentage": "0.068855",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.143824",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.018963",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.083012",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.134114",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.080494",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.052017",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.000171",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "8.5E-5",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000342",
+          "percentage": "0.052017",
           "age": "35-44",
-          "gender": "unknown"
+          "gender": "female"
         },
         {
-          "percentage": "8.5E-5",
+          "percentage": "9.8E-5",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.016925",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.083939",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.050261",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.088127",
+          "percentage": "0.081802",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.081545",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.117788",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.138986",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.137875",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.063339",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.138473",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.023763",
+          "percentage": "0.027267",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.000342",
+          "percentage": "0.114856",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.14147",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000262",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "9.8E-5",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00049",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000262",
           "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "絮評 張",
       "impressions": {
-        "lower_bound": "10000",
-        "upper_bound": "14999"
+        "lower_bound": "60000",
+        "upper_bound": "69999"
       },
       "page_id": "319628701384131",
       "page_name": "張耿輝",
@@ -1124,8 +1124,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "1000",
-        "upper_bound": "1499"
+        "lower_bound": "4500",
+        "upper_bound": "4999"
       },
       "ad_id": "571704593648707"
     }
@@ -1143,104 +1143,104 @@
       "ad_creative_body": "民意覺醒  改變基隆 - 政見篇\n\n耿輝18年的從政，基層的聲音往往無法受到中央上級的重視，許多建設因地方政府財政艱鉅而無法實踐，耿輝一直給自己期許，以鄉親所苦去考量、所需要的去解決，包含民生的法案、民生的問題。懇請基隆鄉親能給耿輝一個機會、給基隆一個跨越藍、綠的選擇，讓耿輝前進立法院，為基隆爭取更多的經費與建設！\n\n#會做事最實在\n#基隆市立法委員候選人3號張耿輝\n#懇請全力支持",
       "ad_creation_time": "2019-12-26T06:36:52+0000",
       "ad_delivery_start_time": "2019-12-26T06:36:52+0000",
-      "ad_delivery_stop_time": "2020-01-01T15:59:45+0000",
+      "ad_delivery_stop_time": "2020-01-06T15:59:45+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000118",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.109901",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.01813",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000942",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.074641",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.14369",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.060337",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.033789",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.153991",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000294",
+          "percentage": "0.000236",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.165411",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.069696",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.012479",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.10166",
+          "percentage": "0.100683",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.054509",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000177",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000118",
+          "percentage": "9.4E-5",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000118",
+          "percentage": "0.000377",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000754",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000141",
           "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.021437",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.148504",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.03576",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.077409",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.060683",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.113828",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.156231",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.014841",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.071802",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.057102",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.139976",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000141",
+          "age": "55-64",
           "gender": "unknown"
         }
       ],
       "funding_entity": "絮評 張",
       "impressions": {
-        "lower_bound": "40000",
-        "upper_bound": "44999"
+        "lower_bound": "60000",
+        "upper_bound": "69999"
       },
       "page_id": "319628701384131",
       "page_name": "張耿輝",
@@ -1251,8 +1251,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "3000",
-        "upper_bound": "3499"
+        "lower_bound": "5000",
+        "upper_bound": "5999"
       },
       "ad_id": "1412389682271714"
     }

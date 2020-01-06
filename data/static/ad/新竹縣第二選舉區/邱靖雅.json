@@ -1441,7 +1441,7 @@
         "upper_bound": "19999"
       },
       "page_id": "689837094426996",
-      "page_name": "邱靖雅 - 新竹縣議員",
+      "page_name": "邱靖雅議員 - 新竹縣第二選區立委候選人",
       "region_distribution": [
         {
           "percentage": "0.170319",
@@ -1650,7 +1650,7 @@
         "upper_bound": "9999"
       },
       "page_id": "689837094426996",
-      "page_name": "邱靖雅 - 新竹縣議員",
+      "page_name": "邱靖雅議員 - 新竹縣第二選區立委候選人",
       "region_distribution": [
         {
           "percentage": "0.158689",
@@ -2635,105 +2635,105 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000861",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000132",
+          "percentage": "0.000173",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000199",
+          "percentage": "8.7E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000838",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000202",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "9.9E-5",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.199762",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.037443",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.21158",
+          "percentage": "0.21269",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.172317",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.042641",
-          "age": "45-54",
+          "percentage": "0.02668",
+          "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.072933",
+          "percentage": "0.076514",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.092432",
+          "percentage": "0.088192",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.027743",
-          "age": "55-64",
-          "gender": "female"
+          "percentage": "0.169331",
+          "age": "35-44",
+          "gender": "male"
         },
         {
-          "percentage": "0.070516",
+          "percentage": "0.072294",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.069986",
+          "percentage": "0.079",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.001357",
+          "percentage": "0.194016",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.03541",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.04333",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001243",
           "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "靖雅 邱",
       "impressions": {
-        "lower_bound": "50000",
-        "upper_bound": "59999"
+        "lower_bound": "60000",
+        "upper_bound": "69999"
       },
       "page_id": "689837094426996",
       "page_name": "邱靖雅議員 - 新竹縣第二選區立委候選人",
       "region_distribution": [
         {
-          "percentage": "0.002623",
+          "percentage": "0.002777",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.165822",
+          "percentage": "0.187533",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.831555",
+          "percentage": "0.80969",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "2000",
-        "upper_bound": "2499"
+        "lower_bound": "2500",
+        "upper_bound": "2999"
       },
       "ad_id": "603259493751931"
     }
@@ -2818,86 +2818,86 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "3.4E-5",
+          "percentage": "3.1E-5",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.339615",
+          "percentage": "0.338452",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.095003",
+          "percentage": "0.095333",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.201541",
+          "percentage": "0.201398",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.197196",
+          "percentage": "0.198584",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.006828",
+          "percentage": "0.006526",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.110038",
+          "percentage": "0.109699",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.043553",
+          "percentage": "0.043762",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.001259",
+          "percentage": "0.001253",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001155",
+          "percentage": "0.001098",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.003535",
+          "percentage": "0.003649",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.000241",
+          "percentage": "0.000216",
           "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "靖雅 邱",
       "impressions": {
-        "lower_bound": "90000",
-        "upper_bound": "99999"
+        "lower_bound": "100000",
+        "upper_bound": "124999"
       },
       "page_id": "689837094426996",
       "page_name": "邱靖雅議員 - 新竹縣第二選區立委候選人",
       "region_distribution": [
         {
-          "percentage": "0.273983",
+          "percentage": "0.290149",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.726017",
+          "percentage": "0.709851",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "4500",
-        "upper_bound": "4999"
+        "lower_bound": "5000",
+        "upper_bound": "5999"
       },
       "ad_id": "1754405358026481"
     }
@@ -3032,86 +3032,86 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.148727",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.068393",
+          "percentage": "0.000288",
           "age": "55-64",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.028007",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.313784",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.230378",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.073529",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.103161",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.00079",
+          "percentage": "0.000793",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.030158",
+          "percentage": "0.231257",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.102425",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.028858",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.315452",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.072594",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.147602",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000252",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.030623",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.002634",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000219",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000219",
+          "percentage": "0.067406",
           "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00245",
+          "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "靖雅 邱",
       "impressions": {
-        "lower_bound": "25000",
-        "upper_bound": "29999"
+        "lower_bound": "35000",
+        "upper_bound": "39999"
       },
       "page_id": "689837094426996",
       "page_name": "邱靖雅議員 - 新竹縣第二選區立委候選人",
       "region_distribution": [
         {
-          "percentage": "0.2821",
+          "percentage": "0.295019",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.7179",
+          "percentage": "0.704981",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "2000",
-        "upper_bound": "2499"
+        "lower_bound": "2500",
+        "upper_bound": "2999"
       },
       "ad_id": "448940356060617"
     }
@@ -3303,86 +3303,86 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.031393",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.064651",
+          "percentage": "0.000346",
           "age": "55-64",
-          "gender": "female"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.002797",
+          "percentage": "0.002482",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000932",
+          "percentage": "0.000924",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000311",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000389",
+          "percentage": "0.000289",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.329319",
+          "percentage": "0.063792",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.030077",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.327964",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.238558",
+          "percentage": "0.240792",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.139327",
+          "percentage": "0.138206",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.093558",
+          "percentage": "0.097333",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.06675",
+          "percentage": "0.06639",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.032015",
+          "percentage": "0.031405",
           "age": "65+",
           "gender": "male"
         }
       ],
       "funding_entity": "靖雅 邱",
       "impressions": {
-        "lower_bound": "10000",
-        "upper_bound": "14999"
+        "lower_bound": "20000",
+        "upper_bound": "24999"
       },
       "page_id": "689837094426996",
       "page_name": "邱靖雅議員 - 新竹縣第二選區立委候選人",
       "region_distribution": [
         {
-          "percentage": "0.38971",
+          "percentage": "0.40846",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.61029",
+          "percentage": "0.59154",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "1500",
-        "upper_bound": "1999"
+        "lower_bound": "2000",
+        "upper_bound": "2499"
       },
       "ad_id": "2597229027177747"
     }
@@ -3523,81 +3523,81 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.0001",
+          "percentage": "0.00011",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.257276",
+          "percentage": "0.342032",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.20078",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.044353",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.117116",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.246609",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.010258",
+          "percentage": "0.029224",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.011254",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.043135",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.118113",
-          "age": "35-44",
+          "percentage": "0.005814",
+          "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.341909",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.190919",
+          "percentage": "0.001255",
           "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.029537",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.001403",
-          "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.006081",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.00127",
-          "age": "35-44",
+          "percentage": "0.001453",
+          "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "靖雅 邱",
       "impressions": {
-        "lower_bound": "30000",
-        "upper_bound": "34999"
+        "lower_bound": "60000",
+        "upper_bound": "69999"
       },
       "page_id": "689837094426996",
       "page_name": "邱靖雅議員 - 新竹縣第二選區立委候選人",
       "region_distribution": [
         {
-          "percentage": "0.445392",
+          "percentage": "0.467976",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.554608",
+          "percentage": "0.532024",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "1000",
-        "upper_bound": "1499"
+        "lower_bound": "2000",
+        "upper_bound": "2499"
       },
       "ad_id": "517890912152411"
     }
@@ -3618,85 +3618,90 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.309947",
+          "percentage": "0.154755",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.155462",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.30628",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.142648",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.198214",
+          "percentage": "0.191508",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.08848",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.163702",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.075088",
+          "percentage": "0.084918",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.000466",
+          "percentage": "0.086068",
           "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.006996",
-          "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.011127",
+          "percentage": "0.009951",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.002332",
+          "percentage": "0.002344",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000999",
+          "percentage": "0.0069",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "4.4E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001194",
           "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000575",
+          "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "靖雅 邱",
       "impressions": {
-        "lower_bound": "15000",
-        "upper_bound": "19999"
+        "lower_bound": "30000",
+        "upper_bound": "34999"
       },
       "page_id": "689837094426996",
       "page_name": "邱靖雅議員 - 新竹縣第二選區立委候選人",
       "region_distribution": [
         {
-          "percentage": "0.172121",
+          "percentage": "0.199432",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.002275",
+          "percentage": "0.002753",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.825604",
+          "percentage": "0.797815",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "600",
-        "upper_bound": "699"
+        "lower_bound": "1000",
+        "upper_bound": "1499"
       },
       "ad_id": "502549187286523"
     }
@@ -3717,80 +3722,80 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.00477",
+          "percentage": "5.1E-5",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.005284",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.001502",
+          "percentage": "0.001346",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000118",
+          "percentage": "0.000102",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "5.9E-5",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.218538",
+          "percentage": "0.206772",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.377834",
+          "percentage": "0.35578",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.101702",
+          "percentage": "0.114385",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.048407",
+          "percentage": "0.045444",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.207526",
+          "percentage": "0.230675",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.013103",
+          "percentage": "0.012066",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.025057",
+          "percentage": "0.026824",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.001384",
+          "percentage": "0.00127",
           "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "靖雅 邱",
       "impressions": {
-        "lower_bound": "30000",
-        "upper_bound": "34999"
+        "lower_bound": "40000",
+        "upper_bound": "44999"
       },
       "page_id": "689837094426996",
       "page_name": "邱靖雅議員 - 新竹縣第二選區立委候選人",
       "region_distribution": [
         {
-          "percentage": "0.466926",
+          "percentage": "0.476688",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.533074",
+          "percentage": "0.523312",
           "region": "Hsinchu City"
         }
       ],
@@ -3907,105 +3912,105 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000261",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000174",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.157996",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.024837",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.071983",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.036166",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.237734",
+          "percentage": "0.181075",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.22841",
+          "percentage": "0.225934",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.038431",
+          "percentage": "0.043727",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.161948",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.078709",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.033692",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.085664",
+          "percentage": "0.081477",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.060915",
+          "percentage": "0.077671",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.089248",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.055512",
-          "age": "35-44",
+          "percentage": "0.024129",
+          "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.001133",
+          "percentage": "0.000944",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000944",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000261",
+          "percentage": "0.00022",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000523",
-          "age": "25-34",
+          "percentage": "9.4E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000189",
+          "age": "18-24",
           "gender": "unknown"
         }
       ],
       "funding_entity": "靖雅 邱",
       "impressions": {
-        "lower_bound": "10000",
-        "upper_bound": "14999"
+        "lower_bound": "35000",
+        "upper_bound": "39999"
       },
       "page_id": "689837094426996",
       "page_name": "邱靖雅議員 - 新竹縣第二選區立委候選人",
       "region_distribution": [
         {
-          "percentage": "0.157555",
+          "percentage": "0.179353",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.841842",
-          "region": "Hsinchu City"
+          "percentage": "0.001986",
+          "region": "Miaoli"
         },
         {
-          "percentage": "0.000603",
-          "region": "Miaoli"
+          "percentage": "0.818661",
+          "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "500",
-        "upper_bound": "599"
+        "lower_bound": "1500",
+        "upper_bound": "1999"
       },
       "ad_id": "782420122274451"
     }

@@ -246,6 +246,66 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
+          "percentage": "4.4E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "4.4E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.095467",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.244711",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.065778",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.011689",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.243111",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.132311",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.033644",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.0928",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.024356",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.054444",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
           "percentage": "0.000444",
           "age": "25-34",
           "gender": "unknown"
@@ -256,90 +316,35 @@
           "gender": "unknown"
         },
         {
-          "percentage": "6.3E-5",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.045945",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.121399",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.262026",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.090049",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.258535",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.062191",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.093096",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.027986",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.025828",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.011296",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000698",
+          "percentage": "0.000711",
           "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "博軒 徐",
       "impressions": {
-        "lower_bound": "35000",
-        "upper_bound": "39999"
+        "lower_bound": "50000",
+        "upper_bound": "59999"
       },
       "page_id": "879078268822395",
       "page_name": "愛信任-劉世芳",
       "region_distribution": [
         {
-          "percentage": "0.687056",
+          "percentage": "0.669456",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.109123",
+          "percentage": "0.124906",
           "region": "Tainan"
         },
         {
-          "percentage": "0.20382",
+          "percentage": "0.205637",
           "region": "Pingtung"
         }
       ],
       "spend": {
-        "lower_bound": "2000",
-        "upper_bound": "2499"
+        "lower_bound": "3000",
+        "upper_bound": "3499"
       },
       "ad_id": "459944814722067"
     }

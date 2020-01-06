@@ -4334,84 +4334,84 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.438998",
+          "percentage": "0.472996",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.435089",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.494553",
-          "age": "45-54",
-          "gender": "male"
+          "percentage": "0.039919",
+          "age": "35-44",
+          "gender": "female"
         },
         {
-          "percentage": "0.039216",
+          "percentage": "0.047635",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.003268",
+          "percentage": "0.003019",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.021786",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.002179",
+          "percentage": "0.001342",
           "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "詩雁 秦",
       "impressions": {
-        "lower_bound": "1000",
-        "upper_bound": "1999"
+        "lower_bound": "3000",
+        "upper_bound": "3999"
       },
       "page_id": "105520664202332",
       "page_name": "秦詩雁 高雄鳳山立委候選人",
       "region_distribution": [
         {
-          "percentage": "0.313496",
-          "region": "Kaohsiung"
-        },
-        {
-          "percentage": "0.196599",
-          "region": "Taipei"
-        },
-        {
-          "percentage": "0.163656",
-          "region": "Tainan"
-        },
-        {
-          "percentage": "0.093518",
-          "region": "Taoyuan City"
-        },
-        {
-          "percentage": "0.132837",
-          "region": "Taichung"
-        },
-        {
-          "percentage": "0.072264",
-          "region": "New Taipei City"
-        },
-        {
-          "percentage": "0.002125",
+          "percentage": "0.001961",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.010627",
+          "percentage": "0.270588",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.208497",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.137255",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.10719",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.149346",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.093791",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.012745",
           "region": "Yilan"
         },
         {
-          "percentage": "0.014878",
+          "percentage": "0.018627",
           "region": "Keelung City"
         }
       ],
       "spend": {
-        "lower_bound": "0",
-        "upper_bound": "99"
+        "lower_bound": "300",
+        "upper_bound": "399"
       },
       "ad_id": "1516024688552797"
     }
@@ -4433,79 +4433,84 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.59005",
+          "percentage": "0.000834",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.570475",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.351244",
+          "percentage": "0.366416",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.028856",
+          "percentage": "0.024743",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.027861",
+          "percentage": "0.034473",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.00199",
+          "percentage": "0.003058",
           "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "詩雁 秦",
       "impressions": {
-        "lower_bound": "1000",
-        "upper_bound": "1999"
+        "lower_bound": "4000",
+        "upper_bound": "4999"
       },
       "page_id": "105520664202332",
       "page_name": "秦詩雁 高雄鳳山立委候選人",
       "region_distribution": [
         {
-          "percentage": "0.301086",
+          "percentage": "0.241981",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.233959",
+          "percentage": "0.254361",
           "region": "Taipei"
         },
         {
-          "percentage": "0.140178",
+          "percentage": "0.133089",
           "region": "Tainan"
         },
         {
-          "percentage": "0.089832",
+          "percentage": "0.090602",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.150049",
+          "percentage": "0.164041",
           "region": "Taichung"
         },
         {
-          "percentage": "0.069102",
+          "percentage": "0.090602",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.001974",
+          "percentage": "0.001407",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.005923",
+          "percentage": "0.009285",
           "region": "Yilan"
         },
         {
-          "percentage": "0.007897",
+          "percentage": "0.014631",
           "region": "Keelung City"
         }
       ],
       "spend": {
-        "lower_bound": "0",
-        "upper_bound": "99"
+        "lower_bound": "300",
+        "upper_bound": "399"
       },
       "ad_id": "2722896757807335"
     }
@@ -4527,84 +4532,84 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.018453",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.560633",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.384007",
+          "percentage": "0.358611",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.033392",
+          "percentage": "0.559413",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.04032",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.038718",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.000879",
+          "percentage": "0.001068",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.002636",
+          "percentage": "0.001869",
           "age": "18-24",
           "gender": "unknown"
         }
       ],
       "funding_entity": "詩雁 秦",
       "impressions": {
-        "lower_bound": "1000",
-        "upper_bound": "1999"
+        "lower_bound": "4000",
+        "upper_bound": "4999"
       },
       "page_id": "105520664202332",
       "page_name": "秦詩雁 高雄鳳山立委候選人",
       "region_distribution": [
         {
-          "percentage": "0.275325",
+          "percentage": "0.22974",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.214719",
+          "percentage": "0.248623",
           "region": "Taipei"
         },
         {
-          "percentage": "0.141991",
+          "percentage": "0.142145",
           "region": "Tainan"
         },
         {
-          "percentage": "0.090043",
+          "percentage": "0.099659",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.149784",
+          "percentage": "0.15657",
           "region": "Taichung"
         },
         {
-          "percentage": "0.100433",
+          "percentage": "0.097561",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.001732",
+          "percentage": "0.001311",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.01039",
+          "percentage": "0.010228",
           "region": "Yilan"
         },
         {
-          "percentage": "0.015584",
+          "percentage": "0.014162",
           "region": "Keelung City"
         }
       ],
       "spend": {
-        "lower_bound": "0",
-        "upper_bound": "99"
+        "lower_bound": "300",
+        "upper_bound": "399"
       },
       "ad_id": "2759299194114698"
     }

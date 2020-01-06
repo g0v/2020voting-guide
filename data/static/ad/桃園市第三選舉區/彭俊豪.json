@@ -557,13 +557,8 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.002444",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.244403",
-          "age": "35-44",
+          "percentage": "0.152508",
+          "age": "18-24",
           "gender": "male"
         },
         {
@@ -572,18 +567,18 @@
           "gender": "female"
         },
         {
+          "percentage": "0.320461",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
           "percentage": "0.088865",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.152508",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.320461",
-          "age": "25-34",
+          "percentage": "0.244403",
+          "age": "35-44",
           "gender": "male"
         },
         {
@@ -599,6 +594,11 @@
         {
           "percentage": "0.001369",
           "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.002444",
+          "age": "35-44",
           "gender": "unknown"
         }
       ],
@@ -636,6 +636,133 @@
         "upper_bound": "6999"
       },
       "ad_id": "823626398070019"
+    }
+  },
+  {
+    "選區": "桃園市第三選舉區",
+    "參選人": "彭俊豪",
+    "AD_ID": "1072892459716178",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-24",
+    "結束日期": "1970-01-01",
+    "廣告內容": "新桃園 新世代 留學英國 社會福利與公共政策的雙碩士 一個討論新桃園 美好未來與公共議題的開放園地",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/s600x600/80652927_381201706009652_3089133005487210496_n.jpg?_nc_cat=104&_nc_ohc=VKBEiH-IgUMAQkx3mknR3F2UfWQr3eb6gBfR8aG2PW3LYCP_Z5hrudJdA&_nc_ht=scontent-hkg3-1.xx&oh=17dde0b59e23ed3b4b5e001b98747452&oe=5E9E6525",
+    "廣告詳情": {
+      "ad_creative_body": "新桃園 新世代 留學英國 社會福利與公共政策的雙碩士 一個討論新桃園 美好未來與公共議題的開放園地",
+      "ad_creation_time": "2019-12-31T01:20:26+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "新桃園 新世代 留學英國 社會福利與公共政策的雙碩士\n一個討論新桃園 美好未來與公共議題的開放園地",
+      "ad_creative_link_title": "彭俊豪",
+      "ad_delivery_start_time": "2019-12-31T01:20:26+0000",
+      "ad_delivery_stop_time": "2020-01-10T10:00:37+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.074337",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.056372",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.105877",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.142926",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.027427",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.184087",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.082561",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.058687",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.205446",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.059087",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000719",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.0002",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001278",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000439",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000559",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "聲捷 賴",
+      "impressions": {
+        "lower_bound": "50000",
+        "upper_bound": "59999"
+      },
+      "page_id": "485136741630414",
+      "page_name": "彭俊豪",
+      "region_distribution": [
+        {
+          "percentage": "0.222726",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.552938",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.218868",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.005468",
+          "region": "Hsinchu"
+        }
+      ],
+      "spend": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "ad_id": "1072892459716178"
     }
   },
   {

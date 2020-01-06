@@ -4469,55 +4469,55 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.239809",
+          "percentage": "0.239081",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.233665",
+          "percentage": "0.231079",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.312932",
+          "percentage": "0.310454",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.060101",
+          "percentage": "0.06221",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.079153",
+          "percentage": "0.082034",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.06933",
+          "percentage": "0.070263",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.001868",
+          "percentage": "0.001807",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001925",
+          "percentage": "0.00191",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001217",
+          "percentage": "0.001162",
           "age": "18-24",
           "gender": "unknown"
         }
       ],
       "funding_entity": "淑華 許",
       "impressions": {
-        "lower_bound": "70000",
-        "upper_bound": "79999"
+        "lower_bound": "80000",
+        "upper_bound": "89999"
       },
       "page_id": "116296548384351",
       "page_name": "許淑華Hsu Shu-Hua",
@@ -4528,8 +4528,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "8000",
-        "upper_bound": "8999"
+        "lower_bound": "10000",
+        "upper_bound": "14999"
       },
       "ad_id": "521863071751886"
     }
@@ -4552,100 +4552,100 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.001216",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.11674",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000447",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.001055",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000286",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.002325",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.045472",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.13606",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.145791",
+          "percentage": "0.146711",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.04558",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.086383",
+          "percentage": "0.090113",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.073557",
+          "percentage": "0.000425",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001245",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000425",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001008",
           "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.044229",
+          "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.068602",
-          "age": "18-24",
-          "gender": "male"
+          "percentage": "0.002521",
+          "age": "35-44",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.040052",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.083521",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.074684",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.077779",
+          "percentage": "0.082266",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.000447",
+          "percentage": "0.13962",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.072765",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.043",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.07891",
           "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.04196",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.071252",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.06933",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.113968",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000252",
+          "age": "18-24",
           "gender": "unknown"
         }
       ],
       "funding_entity": "淑華 許",
       "impressions": {
-        "lower_bound": "80000",
-        "upper_bound": "89999"
+        "lower_bound": "90000",
+        "upper_bound": "99999"
       },
       "page_id": "116296548384351",
       "page_name": "許淑華Hsu Shu-Hua",
@@ -4656,8 +4656,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "10000",
-        "upper_bound": "14999"
+        "lower_bound": "15000",
+        "upper_bound": "19999"
       },
       "ad_id": "2505641189759380"
     }
@@ -4806,70 +4806,70 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000747",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.075777",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.106686",
+          "percentage": "0.102005",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.029452",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.076487",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.271977",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.276121",
+          "percentage": "0.275345",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.119975",
+          "percentage": "0.273077",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.120513",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.037777",
+          "percentage": "0.078764",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.028895",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.038692",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.001754",
+          "percentage": "0.077219",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001709",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.002725",
+          "percentage": "0.002531",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000523",
+          "percentage": "0.000723",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000526",
           "age": "18-24",
           "gender": "unknown"
         }
       ],
       "funding_entity": "淑華 許",
       "impressions": {
-        "lower_bound": "60000",
-        "upper_bound": "69999"
+        "lower_bound": "70000",
+        "upper_bound": "79999"
       },
       "page_id": "116296548384351",
       "page_name": "許淑華Hsu Shu-Hua",
@@ -4880,8 +4880,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "10000",
-        "upper_bound": "14999"
+        "lower_bound": "15000",
+        "upper_bound": "19999"
       },
       "ad_id": "507496966784326"
     }
@@ -5015,70 +5015,70 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.032338",
+          "percentage": "0.037118",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.073846",
+          "percentage": "0.05318",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.084552",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.25846",
+          "percentage": "0.052366",
           "age": "35-44",
-          "gender": "male"
+          "gender": "female"
         },
         {
-          "percentage": "0.148234",
+          "percentage": "0.153855",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.051391",
-          "age": "45-54",
+          "percentage": "0.245611",
+          "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.377511",
+          "percentage": "0.358361",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.046141",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.007493",
+          "percentage": "0.009883",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.002391",
+          "percentage": "0.00251",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001454",
+          "percentage": "0.000495",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001768",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000468",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000271",
+          "percentage": "0.000301",
           "age": "18-24",
           "gender": "unknown"
         }
       ],
       "funding_entity": "淑華 許",
       "impressions": {
-        "lower_bound": "50000",
-        "upper_bound": "59999"
+        "lower_bound": "175000",
+        "upper_bound": "199999"
       },
       "page_id": "116296548384351",
       "page_name": "許淑華Hsu Shu-Hua",
@@ -5089,8 +5089,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "5000",
-        "upper_bound": "5999"
+        "lower_bound": "20000",
+        "upper_bound": "24999"
       },
       "ad_id": "544913689394656"
     }
@@ -5113,100 +5113,100 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.002284",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.100628",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000571",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000714",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000428",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000856",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.102769",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.148587",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.142878",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.053383",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.040965",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.047959",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.089923",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.026834",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.084071",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.141736",
+          "percentage": "0.122736",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.01513",
+          "percentage": "0.023198",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.000285",
+          "percentage": "0.000739",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001017",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00037",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000647",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.002403",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.069039",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.037616",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.08475",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.041959",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.081423",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.091682",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.127726",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.048891",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.121165",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.144177",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000462",
           "age": "18-24",
           "gender": "unknown"
         }
       ],
       "funding_entity": "淑華 許",
       "impressions": {
-        "lower_bound": "8000",
-        "upper_bound": "8999"
+        "lower_bound": "10000",
+        "upper_bound": "14999"
       },
       "page_id": "116296548384351",
       "page_name": "許淑華Hsu Shu-Hua",
@@ -5217,10 +5217,331 @@
         }
       ],
       "spend": {
-        "lower_bound": "1000",
-        "upper_bound": "1499"
+        "lower_bound": "2000",
+        "upper_bound": "2499"
       },
       "ad_id": "438386420372800"
+    }
+  },
+  {
+    "選區": "臺北市第七選舉區",
+    "參選人": "許淑華",
+    "AD_ID": "593204181224327",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-28",
+    "結束日期": "1970-01-01",
+    "廣告內容": "很高興和飆捍館長直播 　 😘想讓大家看到，13年7萬多件選民服務的努力 🌃想讓大家看到，松山信義除了信義計畫區的高樓大廈，周邊還有很多4-50年等待都更的老舊社區 💪想讓大家看到，雖然當議員13年了，但我跟很多年輕人一樣，因為買不起房，只能租9坪小套房，因此我極力幫柯市長爭取協調公宅。 　 💪💯想讓大家看到，松山信義是全台灣過去30年發展最快速的區域，　 #立委也應該換人換新，換一個新的價值。💪💯 　 #柯黑柯粉從來都不是我的標籤  　 拜票的空檔，助理整理留言給我，「議員，有不少人說你是柯黑，不要裝柯粉」 　 幫柯市長找居民開公聽會溝通公宅周邊交通問題，他們說我是 #柯粉； 陪同光復國小家長向柯市長抗議大巨蛋光害放水遠雄，他們說我是 #柯黑； 　 擔任議會民進黨黨團總召，為柯市長捍衛預算，他們說我是柯粉； 監督把關杜鵑花節的預算，卻被公園處長抹黑，他們又說我是柯黑。 　 🥰我在議會，是代表「#台北市民」，柯黑柯粉只是標籤，不會影響我堅持監督市政的決心。😇 　 #13年始終堅持的 #為你而戰 　 💯有個留言讓我看了特別感動，原來過去的努力都有被看見💖： 吳興街兩百八十四巷的居民，因為基泰建設蓋新大樓，導致住家傾斜、鋼筋裸露。郝市府卻不顧這些，濫發使照給建商。 這些居民找過費委員，找過市政府，最後只有我願意站出來為他們發聲。https://tinyurl.com/s6h6ln9 　 🤼為你而戰，不是競選口號，是我過去13年努力的實踐。 　 >>>認真的淑華在這裡 ft 館長https://www.youtube.com/watch?v=B6NzdqWM3oc",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80445293_3785305974816705_5951428232359182336_n.jpg?_nc_cat=103&_nc_ohc=A-ec5potbgEAQkoQQbD2FEI7mVXRdnFlkQg_ApPVAMhm-PoCOGY3ysQZA&_nc_ht=scontent-hkg3-1.xx&oh=89ce50ac657472ed3177ca8b7b1b72a7&oe=5E99B71C",
+    "廣告詳情": {
+      "ad_creative_body": "很高興和飆捍館長直播\n　\n😘想讓大家看到，13年7萬多件選民服務的努力\n🌃想讓大家看到，松山信義除了信義計畫區的高樓大廈，周邊還有很多4-50年等待都更的老舊社區\n💪想讓大家看到，雖然當議員13年了，但我跟很多年輕人一樣，因為買不起房，只能租9坪小套房，因此我極力幫柯市長爭取協調公宅。\n　\n💪💯想讓大家看到，松山信義是全台灣過去30年發展最快速的區域，　\n#立委也應該換人換新，換一個新的價值。💪💯\n　\n#柯黑柯粉從來都不是我的標籤 \n　\n拜票的空檔，助理整理留言給我，「議員，有不少人說你是柯黑，不要裝柯粉」\n　\n幫柯市長找居民開公聽會溝通公宅周邊交通問題，他們說我是 #柯粉；\n陪同光復國小家長向柯市長抗議大巨蛋光害放水遠雄，他們說我是 #柯黑；\n　\n擔任議會民進黨黨團總召，為柯市長捍衛預算，他們說我是柯粉；\n監督把關杜鵑花節的預算，卻被公園處長抹黑，他們又說我是柯黑。\n　\n🥰我在議會，是代表「#台北市民」，柯黑柯粉只是標籤，不會影響我堅持監督市政的決心。😇\n　\n#13年始終堅持的 #為你而戰\n　\n💯有個留言讓我看了特別感動，原來過去的努力都有被看見💖：\n吳興街兩百八十四巷的居民，因為基泰建設蓋新大樓，導致住家傾斜、鋼筋裸露。郝市府卻不顧這些，濫發使照給建商。\n這些居民找過費委員，找過市政府，最後只有我願意站出來為他們發聲。\nhttps://tinyurl.com/s6h6ln9\n　\n🤼為你而戰，不是競選口號，是我過去13年努力的實踐。\n　\n>>>認真的淑華在這裡 ft 館長\nhttps://www.youtube.com/watch?v=B6NzdqWM3oc",
+      "ad_creation_time": "2020-01-01T04:16:55+0000",
+      "ad_delivery_start_time": "2020-01-01T04:16:58+0000",
+      "ad_delivery_stop_time": "2020-01-10T04:16:55+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.059634",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.045361",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.038948",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.099911",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002612",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.240753",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.358482",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.140538",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00049",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.010751",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001959",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00056",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "淑華 許",
+      "impressions": {
+        "lower_bound": "70000",
+        "upper_bound": "79999"
+      },
+      "page_id": "116296548384351",
+      "page_name": "許淑華Hsu Shu-Hua",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taipei"
+        }
+      ],
+      "spend": {
+        "lower_bound": "9000",
+        "upper_bound": "9999"
+      },
+      "ad_id": "593204181224327"
+    }
+  },
+  {
+    "選區": "臺北市第七選舉區",
+    "參選人": "許淑華",
+    "AD_ID": "587830055371740",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-26",
+    "結束日期": "1970-01-01",
+    "廣告內容": "🎉投給會做4 的許淑華🎉 1/11日請大家，總統投3號蔡英文，立委投給會做事的 #4號許淑華 #為你而戰 #信義南松山 #台北市議員 #台北市第七選區立委候選人 帳戶：109年立法委員擬參選人許淑華政治獻金專戶 銀行：台北富邦商業銀行市府分行 帳號：411102039068 可以找到淑華的地方🙋🏻 Facebook►http://bit.ly/ShuhuaFB Line►http://bit.ly/ShuhuaLINE Instagram►http://bit.ly/ShuhuaIG Messenger►http://bit.ly/ShuhuaQA Youtube►http://bit.ly/ShuhuaYT",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79958997_3751412161539420_6314764817580163072_n.jpg?_nc_cat=101&_nc_ohc=Vwbj_RlRE6QAQlC1_ujVhLPfsQfb1nYSddhQBDk6-FCLrI4EDo5OCetMA&_nc_ht=scontent-hkg3-1.xx&oh=dbaa78c8ca74a2b045207cc479f98a37&oe=5E6F89C9",
+    "廣告詳情": {
+      "ad_creative_body": "🎉投給會做4 的許淑華🎉\n\n1/11日請大家，總統投3號蔡英文，立委投給會做事的 #4號許淑華\n\n#為你而戰\n#信義南松山\n#台北市議員\n#台北市第七選區立委候選人\n\n帳戶：109年立法委員擬參選人許淑華政治獻金專戶\n銀行：台北富邦商業銀行市府分行\n帳號：411102039068\n\n可以找到淑華的地方🙋🏻\nFacebook►http://bit.ly/ShuhuaFB\nLine►http://bit.ly/ShuhuaLINE\nInstagram►http://bit.ly/ShuhuaIG\nMessenger►http://bit.ly/ShuhuaQA\nYoutube►http://bit.ly/ShuhuaYT",
+      "ad_creation_time": "2020-01-01T04:12:37+0000",
+      "ad_delivery_start_time": "2020-01-01T04:12:39+0000",
+      "ad_delivery_stop_time": "2020-01-10T04:12:37+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.027802",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.136583",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.098252",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.226465",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.057526",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.288693",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.082458",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.076809",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.002218",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000621",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001863",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00071",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "淑華 許",
+      "impressions": {
+        "lower_bound": "60000",
+        "upper_bound": "69999"
+      },
+      "page_id": "116296548384351",
+      "page_name": "許淑華Hsu Shu-Hua",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taipei"
+        }
+      ],
+      "spend": {
+        "lower_bound": "9000",
+        "upper_bound": "9999"
+      },
+      "ad_id": "587830055371740"
+    }
+  },
+  {
+    "選區": "臺北市第七選舉區",
+    "參選人": "許淑華",
+    "AD_ID": "758874087954393",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-26",
+    "結束日期": "1970-01-01",
+    "廣告內容": "🎉投給會做4 的許淑華🎉 1/11日請大家，總統投3號蔡英文，立委投給會做事的 #4號許淑華 #為你而戰 #信義南松山 #台北市議員 #台北市第七選區立委候選人 帳戶：109年立法委員擬參選人許淑華政治獻金專戶 銀行：台北富邦商業銀行市府分行 帳號：411102039068 可以找到淑華的地方🙋🏻 Facebook►http://bit.ly/ShuhuaFB Line►http://bit.ly/ShuhuaLINE Instagram►http://bit.ly/ShuhuaIG Messenger►http://bit.ly/ShuhuaQA Youtube►http://bit.ly/ShuhuaYT",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79958997_3751412161539420_6314764817580163072_n.jpg?_nc_cat=101&_nc_ohc=Vwbj_RlRE6QAQlC1_ujVhLPfsQfb1nYSddhQBDk6-FCLrI4EDo5OCetMA&_nc_ht=scontent-hkg3-1.xx&oh=dbaa78c8ca74a2b045207cc479f98a37&oe=5E6F89C9",
+    "廣告詳情": {
+      "ad_creative_body": "🎉投給會做4 的許淑華🎉\n\n1/11日請大家，總統投3號蔡英文，立委投給會做事的 #4號許淑華\n\n#為你而戰\n#信義南松山\n#台北市議員\n#台北市第七選區立委候選人\n\n帳戶：109年立法委員擬參選人許淑華政治獻金專戶\n銀行：台北富邦商業銀行市府分行\n帳號：411102039068\n\n可以找到淑華的地方🙋🏻\nFacebook►http://bit.ly/ShuhuaFB\nLine►http://bit.ly/ShuhuaLINE\nInstagram►http://bit.ly/ShuhuaIG\nMessenger►http://bit.ly/ShuhuaQA\nYoutube►http://bit.ly/ShuhuaYT",
+      "ad_creation_time": "2020-01-01T03:50:19+0000",
+      "ad_delivery_start_time": "2020-01-01T03:50:22+0000",
+      "ad_delivery_stop_time": "2020-01-10T03:50:19+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.090405",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.068781",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000339",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000698",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000518",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000937",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001256",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.048491",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.085542",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.123271",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.029398",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.044964",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.135827",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.129629",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.118388",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.068123",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.053155",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000279",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "淑華 許",
+      "impressions": {
+        "lower_bound": "90000",
+        "upper_bound": "99999"
+      },
+      "page_id": "116296548384351",
+      "page_name": "許淑華Hsu Shu-Hua",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taipei"
+        }
+      ],
+      "spend": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "ad_id": "758874087954393"
     }
   },
   {
@@ -5240,100 +5561,100 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.035604",
+          "percentage": "0.036034",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.045792",
+          "percentage": "0.048795",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.000334",
+          "percentage": "0.000328",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001364",
+          "percentage": "0.00139",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00039",
+          "percentage": "0.000379",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000473",
+          "percentage": "0.00043",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.056064",
+          "percentage": "0.056249",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.001253",
+          "percentage": "0.001415",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.067617",
+          "percentage": "0.065902",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.089748",
+          "percentage": "0.089705",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.051889",
+          "percentage": "0.050766",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.052111",
+          "percentage": "0.051726",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.074047",
+          "percentage": "0.075732",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.183726",
+          "percentage": "0.184086",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.111238",
+          "percentage": "0.107419",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.129945",
+          "percentage": "0.130313",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.098099",
+          "percentage": "0.098929",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.000306",
+          "percentage": "0.000404",
           "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "淑華 許",
       "impressions": {
-        "lower_bound": "60000",
-        "upper_bound": "69999"
+        "lower_bound": "70000",
+        "upper_bound": "79999"
       },
       "page_id": "116296548384351",
       "page_name": "許淑華Hsu Shu-Hua",
@@ -5344,8 +5665,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "10000",
-        "upper_bound": "14999"
+        "lower_bound": "15000",
+        "upper_bound": "19999"
       },
       "ad_id": "2206772352801720"
     }

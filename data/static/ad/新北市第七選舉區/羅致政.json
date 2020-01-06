@@ -6890,48 +6890,48 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.077399",
+          "percentage": "0.185737",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.39891",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.07696",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.043379",
+          "percentage": "0.127846",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.159175",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.043394",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.005101",
+          "percentage": "0.005108",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.125087",
+          "percentage": "0.001362",
           "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.187729",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.159008",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.399376",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.001535",
-          "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001387",
-          "age": "25-34",
+          "percentage": "0.001508",
+          "age": "45-54",
           "gender": "unknown"
         }
       ],
@@ -6944,17 +6944,17 @@
       "page_name": "羅致政粉絲團",
       "region_distribution": [
         {
-          "percentage": "0.669445",
+          "percentage": "0.670064",
           "region": "Taipei"
         },
         {
-          "percentage": "0.330555",
+          "percentage": "0.329936",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "2500",
-        "upper_bound": "2999"
+        "lower_bound": "3000",
+        "upper_bound": "3499"
       },
       "ad_id": "541619096444835"
     }
@@ -6976,48 +6976,48 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.065848",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.048696",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.163416",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.4086",
+          "percentage": "0.405582",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.151609",
+          "percentage": "0.151923",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.159011",
+          "percentage": "0.066819",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.164625",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.04916",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.1591",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.000587",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.001645",
+          "percentage": "0.001595",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000587",
+          "percentage": "0.000627",
           "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00057",
+          "age": "45-54",
           "gender": "unknown"
         }
       ],
@@ -7035,8 +7035,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "2500",
-        "upper_bound": "2999"
+        "lower_bound": "3000",
+        "upper_bound": "3499"
       },
       "ad_id": "1281173925426291"
     }
@@ -7058,70 +7058,70 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.144931",
+          "percentage": "0.120031",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.187603",
+          "percentage": "0.105521",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.210806",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.146514",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.055801",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.216134",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.188486",
+          "percentage": "0.210865",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.105416",
-          "age": "45-54",
-          "gender": "female"
+          "percentage": "0.073139",
+          "age": "25-34",
+          "gender": "male"
         },
         {
-          "percentage": "0.076632",
+          "percentage": "0.097322",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.023608",
+          "percentage": "0.033974",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.000505",
+          "percentage": "0.000354",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000944",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000379",
+          "percentage": "0.000295",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000236",
           "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000252",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000252",
-          "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "羅致政粉絲團",
       "impressions": {
-        "lower_bound": "10000",
-        "upper_bound": "14999"
+        "lower_bound": "25000",
+        "upper_bound": "29999"
       },
       "page_id": "182836328407031",
       "page_name": "羅致政粉絲團",
@@ -7132,10 +7132,109 @@
         }
       ],
       "spend": {
-        "lower_bound": "1000",
-        "upper_bound": "1499"
+        "lower_bound": "3000",
+        "upper_bound": "3499"
       },
       "ad_id": "580320952788845"
+    }
+  },
+  {
+    "選區": "新北市第七選舉區",
+    "參選人": "羅致政",
+    "AD_ID": "607443183323575",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-27",
+    "結束日期": "2019-12-30",
+    "廣告內容": "真情相挺！ 謝謝我的好友丁學偉，在他兒子生日當天，特別趕來站台，幽默又中肯的助講演說。 學偉兄，非藍非綠，在地板橋人！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/82114911_744493279370840_7065781768166572032_n.jpg?_nc_cat=101&_nc_ohc=hfnVeaCUrScAQmLgYI5A_giquLsQE1DIjRkrb5wNu8UG1DLvdggIK7jJA&_nc_ht=scontent-hkg3-1.xx&oh=9f78f554bd75a9836123e3b40e93d14b&oe=5EA6A2BB",
+    "廣告詳情": {
+      "ad_creative_body": "真情相挺！\n\n謝謝我的好友丁學偉，在他兒子生日當天，特別趕來站台，幽默又中肯的助講演說。\n\n學偉兄，非藍非綠，在地板橋人！",
+      "ad_creation_time": "2020-01-03T11:09:59+0000",
+      "ad_creative_link_caption": "line.me",
+      "ad_creative_link_title": "無關藍綠，純粹友情相挺！",
+      "ad_delivery_start_time": "2020-01-03T11:10:00+0000",
+      "ad_delivery_stop_time": "2020-01-05T11:09:59+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.520027",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.196578",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.046442",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.027509",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.07354",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000182",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.019069",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.11063",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.004425",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000867",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "9.1E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000639",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "羅致政粉絲團",
+      "impressions": {
+        "lower_bound": "25000",
+        "upper_bound": "29999"
+      },
+      "page_id": "182836328407031",
+      "page_name": "羅致政粉絲團",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "New Taipei City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "3000",
+        "upper_bound": "3499"
+      },
+      "ad_id": "607443183323575"
     }
   },
   {

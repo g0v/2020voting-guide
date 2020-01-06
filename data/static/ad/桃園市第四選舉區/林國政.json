@@ -1221,53 +1221,53 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.074559",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.021628",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.016221",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.287706",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.28173",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.156801",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.109277",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.010245",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.027604",
+          "percentage": "0.027557",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.014229",
+          "percentage": "0.074432",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.021591",
           "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.010227",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.288068",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.109091",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.28125",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.016761",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.014205",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.156818",
+          "age": "55-64",
           "gender": "female"
         }
       ],
@@ -2094,69 +2094,69 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000364",
+          "percentage": "0.000363",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000728",
+          "percentage": "0.000363",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000727",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000364",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.150655",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.021834",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.457787",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.120087",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.024017",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.06441",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.017103",
+          "percentage": "0.042878",
           "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.457849",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.119913",
+          "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.060044",
+          "percentage": "0.039608",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.150799",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.06468",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.059956",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.039665",
-          "age": "35-44",
+          "percentage": "0.021802",
+          "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.04294",
+          "percentage": "0.017078",
           "age": "18-24",
-          "gender": "male"
+          "gender": "female"
+        },
+        {
+          "percentage": "0.023983",
+          "age": "25-34",
+          "gender": "female"
         }
       ],
       "funding_entity": "索華",
@@ -2168,16 +2168,16 @@
       "page_name": "林國政桃園好爸爸",
       "region_distribution": [
         {
-          "percentage": "0.054785",
+          "percentage": "0.054747",
           "region": "Taipei"
         },
         {
-          "percentage": "0.486824",
-          "region": "New Taipei City"
+          "percentage": "0.458766",
+          "region": "Taoyuan City"
         },
         {
-          "percentage": "0.458391",
-          "region": "Taoyuan City"
+          "percentage": "0.486486",
+          "region": "New Taipei City"
         }
       ],
       "spend": {
@@ -2897,67 +2897,67 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000253",
+          "percentage": "0.000251",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000253",
+          "percentage": "0.000251",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.330505",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.09168",
+          "percentage": "0.092743",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.355325",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.003672",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.101431",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.032671",
+          "percentage": "0.033839",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.036216",
-          "age": "18-24",
+          "percentage": "0.35418",
+          "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.034823",
+          "percentage": "0.034716",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.008611",
+          "percentage": "0.329741",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.008648",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.00076",
+          "percentage": "0.101391",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.036095",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.003635",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000752",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.003799",
+          "percentage": "0.00376",
           "age": "25-34",
           "gender": "female"
         }
@@ -3080,75 +3080,75 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000435",
+          "percentage": "0.000419",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000218",
+          "percentage": "0.000209",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.255824",
+          "percentage": "0.252828",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.281733",
+          "percentage": "0.283829",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.031352",
+          "percentage": "0.03163",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.064881",
+          "percentage": "0.064307",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.031788",
+          "percentage": "0.031839",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.130416",
+          "percentage": "0.129032",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.126279",
+          "percentage": "0.126519",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.029175",
+          "percentage": "0.031211",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.025909",
+          "percentage": "0.026183",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.001089",
+          "percentage": "0.001257",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.020901",
+          "percentage": "0.020737",
           "age": "18-24",
           "gender": "female"
         }
       ],
       "funding_entity": "索華",
       "impressions": {
-        "lower_bound": "5000",
-        "upper_bound": "5999"
+        "lower_bound": "6000",
+        "upper_bound": "6999"
       },
       "page_id": "649225952125201",
       "page_name": "林國政桃園好爸爸",
@@ -3159,8 +3159,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "400",
-        "upper_bound": "499"
+        "lower_bound": "500",
+        "upper_bound": "599"
       },
       "ad_id": "2535655026682344"
     }
@@ -3181,55 +3181,55 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.294321",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.545706",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.07964",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.001385",
+          "percentage": "0.001155",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.033934",
+          "percentage": "0.00751",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002889",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000578",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.545927",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.293472",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.032929",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.080878",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.034662",
           "age": "18-24",
           "gender": "female"
-        },
-        {
-          "percentage": "0.033934",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.006925",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.003463",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000693",
-          "age": "35-44",
-          "gender": "unknown"
         }
       ],
       "funding_entity": "索華",
       "impressions": {
-        "lower_bound": "1000",
-        "upper_bound": "1999"
+        "lower_bound": "2000",
+        "upper_bound": "2999"
       },
       "page_id": "649225952125201",
       "page_name": "林國政桃園好爸爸",
@@ -3262,70 +3262,80 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.354379",
+          "percentage": "9.6E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000192",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.323594",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.077646",
+          "percentage": "0.081809",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.178936",
+          "percentage": "0.190727",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.316497",
+          "percentage": "0.24715",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.01827",
+          "percentage": "0.051442",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.001075",
+          "percentage": "0.00115",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.033584",
+          "percentage": "0.05489",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.006179",
+          "percentage": "0.014944",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.010478",
+          "percentage": "0.022895",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.001612",
+          "percentage": "0.004886",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.000806",
+          "percentage": "0.005556",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.000537",
+          "percentage": "0.000671",
           "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "索華",
       "impressions": {
-        "lower_bound": "4000",
-        "upper_bound": "4999"
+        "lower_bound": "10000",
+        "upper_bound": "14999"
       },
       "page_id": "649225952125201",
       "page_name": "林國政桃園好爸爸",
@@ -3336,10 +3346,173 @@
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
+        "lower_bound": "800",
+        "upper_bound": "899"
       },
       "ad_id": "2559717854126065"
+    }
+  },
+  {
+    "選區": "桃園市第四選舉區",
+    "參選人": "林國政",
+    "AD_ID": "528972981162901",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-26",
+    "結束日期": "1970-01-01",
+    "廣告內容": "①國政帶著糖果來囉～～～ 遇到好多年輕的朋友們，都說台灣的政治不要再充滿意識形態的對立，要以「人民」為優先！ 國政沒有大財團在背後撐腰、更要突破所謂地方派系和樁腳～ 國政沒有很高的知名度，但我們跑的比別人更勤！選戰倒數幾天，請各位好朋友為國政多多宣傳、支持！ 謝謝您🙏🏻 【第三勢力 歡迎小額捐款】 📌109年立法委員擬參選人林國政政治獻金專戶 臺灣土地銀行南桃園分行 帳號1140-0535-1869 #林國政 #桃園區立法委員候選人 #藍綠擺兩邊，人民擺中間！ #杜絕金權政治，請投①號國政",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/81290397_982990238748769_3536427143258963968_n.jpg?_nc_cat=106&_nc_ohc=kyp-1aNeZfwAQkVTqOHBAiiRpT0juT2nZPESC9yTsqkNB0A-GA_fc_ZSQ&_nc_ht=scontent-hkg3-1.xx&oh=da3b9b241e6e3e8c05e1f03b71efe55d&oe=5EA024D0",
+    "廣告詳情": {
+      "ad_creative_body": "①國政帶著糖果來囉～～～\n遇到好多年輕的朋友們，都說台灣的政治不要再充滿意識形態的對立，要以「人民」為優先！\n\n國政沒有大財團在背後撐腰、更要突破所謂地方派系和樁腳～\n國政沒有很高的知名度，但我們跑的比別人更勤！選戰倒數幾天，請各位好朋友為國政多多宣傳、支持！ 謝謝您🙏🏻\n\n【第三勢力 歡迎小額捐款】\n📌109年立法委員擬參選人林國政政治獻金專戶\n臺灣土地銀行南桃園分行\n帳號1140-0535-1869\n\n#林國政\n#桃園區立法委員候選人\n#藍綠擺兩邊，人民擺中間！\n#杜絕金權政治，請投①號國政",
+      "ad_creation_time": "2019-12-31T11:08:20+0000",
+      "ad_delivery_start_time": "2019-12-31T11:08:20+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.450549",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.302198",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.016484",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.164835",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.038462",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.027473",
+          "age": "25-34",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "索華",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "649225952125201",
+      "page_name": "林國政桃園好爸爸",
+      "region_distribution": [
+        {
+          "percentage": "0.054945",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.631868",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.313187",
+          "region": "New Taipei City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "528972981162901"
+    }
+  },
+  {
+    "選區": "桃園市第四選舉區",
+    "參選人": "林國政",
+    "AD_ID": "1042127902834399",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-26",
+    "結束日期": "1970-01-01",
+    "廣告內容": "①國政帶著糖果來囉～～～ 遇到好多年輕的朋友們，都說台灣的政治不要再充滿意識形態的對立，要以「人民」為優先！ 國政沒有大財團在背後撐腰、更要突破所謂地方派系和樁腳～ 國政沒有很高的知名度，但我們跑的比別人更勤！選戰倒數幾天，請各位好朋友為國政多多宣傳、支持！ 謝謝您🙏🏻 【第三勢力 歡迎小額捐款】 📌109年立法委員擬參選人林國政政治獻金專戶 臺灣土地銀行南桃園分行 帳號1140-0535-1869 #林國政 #桃園區立法委員候選人 #藍綠擺兩邊，人民擺中間！ #杜絕金權政治，請投①號國政",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/81290397_982990238748769_3536427143258963968_n.jpg?_nc_cat=106&_nc_ohc=kyp-1aNeZfwAQkVTqOHBAiiRpT0juT2nZPESC9yTsqkNB0A-GA_fc_ZSQ&_nc_ht=scontent-hkg3-1.xx&oh=da3b9b241e6e3e8c05e1f03b71efe55d&oe=5EA024D0",
+    "廣告詳情": {
+      "ad_creative_body": "①國政帶著糖果來囉～～～\n遇到好多年輕的朋友們，都說台灣的政治不要再充滿意識形態的對立，要以「人民」為優先！\n\n國政沒有大財團在背後撐腰、更要突破所謂地方派系和樁腳～\n國政沒有很高的知名度，但我們跑的比別人更勤！選戰倒數幾天，請各位好朋友為國政多多宣傳、支持！ 謝謝您🙏🏻\n\n【第三勢力 歡迎小額捐款】\n📌109年立法委員擬參選人林國政政治獻金專戶\n臺灣土地銀行南桃園分行\n帳號1140-0535-1869\n\n#林國政\n#桃園區立法委員候選人\n#藍綠擺兩邊，人民擺中間！\n#杜絕金權政治，請投①號國政",
+      "ad_creation_time": "2019-12-31T11:07:30+0000",
+      "ad_delivery_start_time": "2019-12-31T11:07:30+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.258197",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.028689",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.360656",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.008197",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.131148",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.012295",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.159836",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.012295",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.028689",
+          "age": "25-34",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "索華",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "649225952125201",
+      "page_name": "林國政桃園好爸爸",
+      "region_distribution": [
+        {
+          "percentage": "0.036885",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.598361",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.364754",
+          "region": "New Taipei City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "1042127902834399"
     }
   },
   {
@@ -3363,27 +3536,27 @@
           "gender": "unknown"
         },
         {
-          "percentage": "0.211998",
+          "percentage": "0.211783",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.47331",
+          "percentage": "0.473337",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.04423",
+          "percentage": "0.044185",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.092018",
+          "percentage": "0.091925",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.058465",
+          "percentage": "0.058913",
           "age": "55-64",
           "gender": "male"
         },
@@ -3393,27 +3566,27 @@
           "gender": "unknown"
         },
         {
-          "percentage": "0.084901",
+          "percentage": "0.084815",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.006609",
+          "percentage": "0.006602",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.009151",
+          "percentage": "0.009142",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.011185",
+          "percentage": "0.011173",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.006609",
+          "percentage": "0.006602",
           "age": "35-44",
           "gender": "female"
         },
@@ -3432,15 +3605,15 @@
       "page_name": "林國政桃園好爸爸",
       "region_distribution": [
         {
-          "percentage": "0.041056",
+          "percentage": "0.041016",
           "region": "Taipei"
         },
         {
-          "percentage": "0.446725",
+          "percentage": "0.446777",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.512219",
+          "percentage": "0.512207",
           "region": "New Taipei City"
         }
       ],

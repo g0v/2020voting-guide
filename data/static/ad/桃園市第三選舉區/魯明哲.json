@@ -3592,6 +3592,142 @@
   {
     "選區": "桃園市第三選舉區",
     "參選人": "魯明哲",
+    "AD_ID": "447146812860692",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-24",
+    "結束日期": "2019-12-29",
+    "廣告內容": "「每個城市都有它成長的故事 很高興我也是寫故事的人」 魯蛋從政21年來，魄力、堅持與努力不懈，是中壢鄉親對我的印象，因為凡走過必定留下政績！ 3分04秒的政績影片不長，但卻是中壢鄉親和魯蛋共同努力多年的縮影，讓我們一起再次見證中壢成長蛻變的過程。 魯蛋在中壢市長任內完成130項大建設，掃除中壢市區多項累積數十年的市政沈痾，像是啟動老街溪開蓋，把河川綠地還給市民；拆除新明夜市攤棚，打造現代化中壢觀光夜市；打通中山路、志廣路瓶頸路段，實現還路於民；廣設公園綠地，提升市民生活品質。 我記得我有一句競選口號是這麼說的——「桃園升級 中壢領航」，我們正站在持續前進的航道上，請和魯蛋一起努力，讓桃園更好！ #國會新能量 #中壢區立法委員候選人2號魯明哲",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80624553_924983964570123_3370178545597808640_n.jpg?_nc_cat=106&_nc_ohc=k5XmP8dlElEAQlG9z1ZQ1EakWu5K32QK9dwPA4jnezIlEs2Y2NXiAgSfQ&_nc_ht=scontent-hkg3-1.xx&oh=bcaac28cd06a849a548ea3359ce1be33&oe=5E703262",
+    "廣告詳情": {
+      "ad_creative_body": "「每個城市都有它成長的故事\b\n很高興我也是寫故事的人」\n\n魯蛋從政21年來，魄力、堅持與努力不懈，是中壢鄉親對我的印象，因為凡走過必定留下政績！\n\n3分04秒的政績影片不長，但卻是中壢鄉親和魯蛋共同努力多年的縮影，讓我們一起再次見證中壢成長蛻變的過程。\n\n魯蛋在中壢市長任內完成130項大建設，掃除中壢市區多項累積數十年的市政沈痾，像是啟動老街溪開蓋，把河川綠地還給市民；拆除新明夜市攤棚，打造現代化中壢觀光夜市；打通中山路、志廣路瓶頸路段，實現還路於民；廣設公園綠地，提升市民生活品質。\n\n我記得我有一句競選口號是這麼說的——「桃園升級 中壢領航」，我們正站在持續前進的航道上，請和魯蛋一起努力，讓桃園更好！\n\n#國會新能量\n#中壢區立法委員候選人2號魯明哲",
+      "ad_creation_time": "2020-01-01T13:52:15+0000",
+      "ad_creative_link_title": "做事的人DOER｜中壢魯明哲",
+      "ad_delivery_start_time": "2020-01-01T14:00:26+0000",
+      "ad_delivery_stop_time": "2020-01-10T14:00:26+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "4.1E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.024051",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000288",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "6.2E-5",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000288",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.003289",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.006187",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002385",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.075914",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000267",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.223529",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.017411",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.270232",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.120542",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.086336",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.125249",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.043661",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000267",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "志楷魯",
+      "impressions": {
+        "lower_bound": "90000",
+        "upper_bound": "99999"
+      },
+      "page_id": "157793094819088",
+      "page_name": "魯明哲",
+      "region_distribution": [
+        {
+          "percentage": "0.952905",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.045822",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.001273",
+          "region": "Hsinchu"
+        }
+      ],
+      "spend": {
+        "lower_bound": "6000",
+        "upper_bound": "6999"
+      },
+      "ad_id": "447146812860692"
+    }
+  },
+  {
+    "選區": "桃園市第三選舉區",
+    "參選人": "魯明哲",
     "AD_ID": "506534640213360",
     "登錄為政治廣告": "是",
     "開始日期": "2019-12-24",

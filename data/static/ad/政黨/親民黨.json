@@ -1316,196 +1316,196 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.062787",
+          "percentage": "0.000132",
           "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.024882",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "6.8E-5",
-          "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00027",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "8.1E-5",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000149",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000216",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.067326",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.050224",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.068447",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.043659",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.014535",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.328943",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.092614",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.017966",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.162114",
+          "percentage": "0.165973",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.06557",
+          "percentage": "0.000275",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "8.4E-5",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000203",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.014922",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.069081",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000144",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.01777",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.052628",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.026685",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.061758",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.000149",
+          "percentage": "0.060107",
           "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.069141",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.092583",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.043725",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.324706",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "8.4E-5",
+          "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "俊宏劉",
       "impressions": {
-        "lower_bound": "150000",
-        "upper_bound": "174999"
+        "lower_bound": "175000",
+        "upper_bound": "199999"
       },
       "page_id": "981326588613347",
       "page_name": "親民黨 People First Party",
       "region_distribution": [
         {
-          "percentage": "0.023907",
+          "percentage": "0.024154",
           "region": "Unknown"
         },
         {
-          "percentage": "0.000173",
+          "percentage": "0.000176",
           "region": "Lienchiang"
         },
         {
-          "percentage": "0.015002",
+          "percentage": "0.015753",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.026304",
+          "percentage": "0.026589",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.015588",
+          "percentage": "0.015847",
           "region": "Yilan"
         },
         {
-          "percentage": "0.010037",
+          "percentage": "0.009953",
           "region": "Taitung"
         },
         {
-          "percentage": "0.03441",
+          "percentage": "0.03446",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.00398",
+          "percentage": "0.004012",
           "region": "Penghu"
         },
         {
-          "percentage": "0.016826",
+          "percentage": "0.0168",
           "region": "Nantou"
         },
         {
-          "percentage": "0.018902",
+          "percentage": "0.018659",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.004646",
+          "percentage": "0.004577",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.11995",
+          "percentage": "0.116909",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.016213",
+          "percentage": "0.016471",
           "region": "Hualien"
         },
         {
-          "percentage": "0.001451",
+          "percentage": "0.001729",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.001571",
+          "percentage": "0.001694",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.047243",
+          "percentage": "0.046707",
           "region": "Changhua"
         },
         {
-          "percentage": "0.120363",
+          "percentage": "0.125826",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.135538",
+          "percentage": "0.134638",
           "region": "Taichung"
         },
         {
-          "percentage": "0.103404",
+          "percentage": "0.105697",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.084768",
+          "percentage": "0.083543",
           "region": "Tainan"
         },
         {
-          "percentage": "0.168524",
+          "percentage": "0.164816",
           "region": "Taipei"
         },
         {
-          "percentage": "0.031202",
+          "percentage": "0.030989",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "25000",
-        "upper_bound": "29999"
+        "lower_bound": "30000",
+        "upper_bound": "34999"
       },
       "ad_id": "1413064125515353"
     }
@@ -5634,7 +5634,7 @@
       "ad_creative_link_caption": "www.soong2020.tw",
       "ad_creative_link_title": "宣明智談弱勢照顧：成立百億身心障礙保險基金的必要",
       "ad_delivery_start_time": "2019-12-24T12:10:13+0000",
-      "ad_delivery_stop_time": "2020-01-02T15:55:00+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:55:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -5827,7 +5827,7 @@
       "ad_creative_link_caption": "www.soong2020.tw",
       "ad_creative_link_title": "宣明智談弱勢照顧：成立百億身心障礙保險基金的必要",
       "ad_delivery_start_time": "2019-12-26T00:44:42+0000",
-      "ad_delivery_stop_time": "2020-01-02T15:55:00+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:55:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -6024,7 +6024,7 @@
       "ad_creation_time": "2019-12-26T00:44:39+0000",
       "ad_creative_link_title": "宣明智政見廣告 弱勢有照顧篇",
       "ad_delivery_start_time": "2019-12-26T00:44:39+0000",
-      "ad_delivery_stop_time": "2019-12-31T15:55:00+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:55:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -6221,7 +6221,7 @@
       "ad_creation_time": "2019-12-26T00:44:39+0000",
       "ad_creative_link_title": "宣明智談青年發展：成立青年資源發展委員會的必要",
       "ad_delivery_start_time": "2019-12-26T00:44:39+0000",
-      "ad_delivery_stop_time": "2020-01-02T15:55:00+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:55:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -6418,7 +6418,7 @@
       "ad_creation_time": "2019-12-26T11:35:52+0000",
       "ad_creative_link_title": "宣明智談政黨：遊說應強制透明，並革除政黨綁架政府",
       "ad_delivery_start_time": "2019-12-26T11:35:52+0000",
-      "ad_delivery_stop_time": "2020-01-03T15:55:00+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:55:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -6615,185 +6615,185 @@
       "ad_creation_time": "2019-12-28T16:23:28+0000",
       "ad_creative_link_title": "宣明智談產業有投資：新獎勵投資及員工均分紅利條例",
       "ad_delivery_start_time": "2019-12-28T16:23:28+0000",
-      "ad_delivery_stop_time": "2020-01-03T15:55:00+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:55:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.047089",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.372227",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.015196",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.285074",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.125523",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.008578",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.034858",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.028504",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.008648",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.072257",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000388",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000618",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000918",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "5.3E-5",
+          "percentage": "4.7E-5",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "7.1E-5",
+          "percentage": "0.112449",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.355789",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.26395",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.044211",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.106277",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.039667",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.034498",
           "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.017486",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.010111",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.012714",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000909",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001382",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "8.5E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000426",
+          "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "親民黨 People First Party",
       "impressions": {
-        "lower_bound": "60000",
-        "upper_bound": "69999"
+        "lower_bound": "100000",
+        "upper_bound": "124999"
       },
       "page_id": "981326588613347",
       "page_name": "親民黨 People First Party",
       "region_distribution": [
         {
-          "percentage": "0.031475",
+          "percentage": "0.029698",
           "region": "Unknown"
         },
         {
-          "percentage": "0.000458",
+          "percentage": "0.000352",
           "region": "Lienchiang"
         },
         {
-          "percentage": "0.012467",
+          "percentage": "0.012952",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.038582",
+          "percentage": "0.035194",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.012731",
+          "percentage": "0.012828",
           "region": "Yilan"
         },
         {
-          "percentage": "0.00931",
+          "percentage": "0.008073",
           "region": "Taitung"
         },
         {
-          "percentage": "0.037083",
+          "percentage": "0.032788",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.005731",
+          "percentage": "0.005297",
           "region": "Penghu"
         },
         {
-          "percentage": "0.019485",
+          "percentage": "0.017222",
           "region": "Nantou"
         },
         {
-          "percentage": "0.019432",
+          "percentage": "0.020112",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.004214",
+          "percentage": "0.003804",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.125037",
+          "percentage": "0.117489",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.010897",
+          "percentage": "0.010346",
           "region": "Hualien"
         },
         {
-          "percentage": "0.004779",
+          "percentage": "0.006647",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.002275",
+          "percentage": "0.002006",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.054769",
+          "percentage": "0.050932",
           "region": "Changhua"
         },
         {
-          "percentage": "0.111971",
+          "percentage": "0.110395",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.158259",
+          "percentage": "0.160433",
           "region": "Taichung"
         },
         {
-          "percentage": "0.105041",
+          "percentage": "0.11049",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.090847",
+          "percentage": "0.088723",
           "region": "Tainan"
         },
         {
-          "percentage": "0.120858",
+          "percentage": "0.133912",
           "region": "Taipei"
         },
         {
-          "percentage": "0.024299",
+          "percentage": "0.030306",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "4000",
-        "upper_bound": "4499"
+        "lower_bound": "9000",
+        "upper_bound": "9999"
       },
       "ad_id": "2499042110368714"
     }
@@ -6812,185 +6812,185 @@
       "ad_creation_time": "2019-12-28T05:54:40+0000",
       "ad_creative_link_title": "宣明智談政黨：遊說應強制透明，並革除政黨綁架政府",
       "ad_delivery_start_time": "2019-12-28T05:54:40+0000",
-      "ad_delivery_stop_time": "2020-01-03T15:55:00+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:55:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.026059",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.259463",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.420702",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.015279",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.110594",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.036782",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.038677",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.074502",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.010129",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.00113",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.005419",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.0009",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000268",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "7.7E-5",
+          "percentage": "7.9E-5",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "1.9E-5",
+          "percentage": "3.4E-5",
           "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.020638",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.04843",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.143391",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.070573",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.039559",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.226911",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.395556",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.014968",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.028858",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.008612",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001258",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000775",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000359",
+          "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "親民黨 People First Party",
       "impressions": {
-        "lower_bound": "70000",
-        "upper_bound": "79999"
+        "lower_bound": "200000",
+        "upper_bound": "249999"
       },
       "page_id": "981326588613347",
       "page_name": "親民黨 People First Party",
       "region_distribution": [
         {
-          "percentage": "0.032498",
+          "percentage": "0.031664",
           "region": "Unknown"
         },
         {
-          "percentage": "0.000324",
+          "percentage": "0.000256",
           "region": "Lienchiang"
         },
         {
-          "percentage": "0.013346",
+          "percentage": "0.012873",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.039941",
+          "percentage": "0.03992",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.013136",
+          "percentage": "0.013796",
           "region": "Yilan"
         },
         {
-          "percentage": "0.008929",
+          "percentage": "0.008879",
           "region": "Taitung"
         },
         {
-          "percentage": "0.036496",
+          "percentage": "0.037939",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.006549",
+          "percentage": "0.006598",
           "region": "Penghu"
         },
         {
-          "percentage": "0.020313",
+          "percentage": "0.020861",
           "region": "Nantou"
         },
         {
-          "percentage": "0.022408",
+          "percentage": "0.021284",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.005293",
+          "percentage": "0.00474",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.126088",
+          "percentage": "0.132043",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.010357",
+          "percentage": "0.010269",
           "region": "Hualien"
         },
         {
-          "percentage": "0.003636",
+          "percentage": "0.004228",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.001409",
+          "percentage": "0.00168",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.057589",
+          "percentage": "0.058333",
           "region": "Changhua"
         },
         {
-          "percentage": "0.103128",
+          "percentage": "0.103994",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.146496",
+          "percentage": "0.14318",
           "region": "Taichung"
         },
         {
-          "percentage": "0.110001",
+          "percentage": "0.10968",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.104251",
+          "percentage": "0.10168",
           "region": "Tainan"
         },
         {
-          "percentage": "0.110857",
+          "percentage": "0.111671",
           "region": "Taipei"
         },
         {
-          "percentage": "0.026958",
+          "percentage": "0.024433",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "3000",
-        "upper_bound": "3499"
+        "lower_bound": "9000",
+        "upper_bound": "9999"
       },
       "ad_id": "738264750031132"
     }
@@ -7010,185 +7010,185 @@
       "ad_creative_link_caption": "www.soong2020.tw",
       "ad_creative_link_title": "宣明智談弱勢照顧：成立百億身心障礙保險基金的必要",
       "ad_delivery_start_time": "2019-12-28T05:54:37+0000",
-      "ad_delivery_stop_time": "2020-01-02T15:55:00+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:55:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.058519",
+          "percentage": "0.061245",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.048549",
+          "percentage": "0.040477",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.28231",
+          "percentage": "0.264209",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.388281",
+          "percentage": "0.393214",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.106585",
+          "percentage": "0.119839",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.011198",
+          "percentage": "0.014031",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.011403",
+          "percentage": "0.01336",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.022898",
+          "percentage": "0.028973",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.057273",
+          "percentage": "0.050737",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.009784",
+          "percentage": "0.010641",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.001414",
+          "percentage": "0.001384",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001451",
+          "percentage": "0.001475",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "1.9E-5",
+          "percentage": "2.5E-5",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "7.4E-5",
+          "percentage": "9.9E-5",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000242",
+          "percentage": "0.00029",
           "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "親民黨 People First Party",
       "impressions": {
-        "lower_bound": "70000",
-        "upper_bound": "79999"
+        "lower_bound": "250000",
+        "upper_bound": "299999"
       },
       "page_id": "981326588613347",
       "page_name": "親民黨 People First Party",
       "region_distribution": [
         {
-          "percentage": "0.0315",
+          "percentage": "0.02986",
           "region": "Unknown"
         },
         {
-          "percentage": "0.000187",
+          "percentage": "0.000241",
           "region": "Lienchiang"
         },
         {
-          "percentage": "0.01296",
+          "percentage": "0.012839",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.043355",
+          "percentage": "0.039869",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.01384",
+          "percentage": "0.013636",
           "region": "Yilan"
         },
         {
-          "percentage": "0.007941",
+          "percentage": "0.007378",
           "region": "Taitung"
         },
         {
-          "percentage": "0.036707",
+          "percentage": "0.036309",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.00663",
+          "percentage": "0.005884",
           "region": "Penghu"
         },
         {
-          "percentage": "0.021444",
+          "percentage": "0.021296",
           "region": "Nantou"
         },
         {
-          "percentage": "0.022436",
+          "percentage": "0.021072",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.005075",
+          "percentage": "0.004689",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.112537",
+          "percentage": "0.117674",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.010113",
+          "percentage": "0.009959",
           "region": "Hualien"
         },
         {
-          "percentage": "0.003877",
+          "percentage": "0.004473",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.001554",
+          "percentage": "0.001602",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.062158",
+          "percentage": "0.058866",
           "region": "Changhua"
         },
         {
-          "percentage": "0.107049",
+          "percentage": "0.107375",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.157484",
+          "percentage": "0.15429",
           "region": "Taichung"
         },
         {
-          "percentage": "0.106169",
+          "percentage": "0.108022",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.104128",
+          "percentage": "0.104163",
           "region": "Tainan"
         },
         {
-          "percentage": "0.107087",
+          "percentage": "0.115242",
           "region": "Taipei"
         },
         {
-          "percentage": "0.02577",
+          "percentage": "0.025263",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "3500",
-        "upper_bound": "3999"
+        "lower_bound": "10000",
+        "upper_bound": "14999"
       },
       "ad_id": "672900516864332"
     }
@@ -7207,185 +7207,185 @@
       "ad_creation_time": "2019-12-28T05:54:36+0000",
       "ad_creative_link_title": "宣明智談青年發展：成立青年資源發展委員會的必要",
       "ad_delivery_start_time": "2019-12-28T05:54:36+0000",
-      "ad_delivery_stop_time": "2020-01-02T15:55:00+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:55:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000234",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000312",
+          "percentage": "0.000324",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001015",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000156",
+          "percentage": "0.000174",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.167174",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000839",
-          "age": "45-54",
+          "percentage": "0.000174",
+          "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.009663",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.041794",
+          "percentage": "0.045731",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.388577",
+          "percentage": "0.150547",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.391051",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.20971",
+          "percentage": "0.21219",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.042379",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.059655",
+          "percentage": "0.070166",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.02645",
+          "percentage": "0.024099",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.011459",
+          "percentage": "0.038343",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000903",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.041667",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.011847",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.011581",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.040583",
-          "age": "18-24",
-          "gender": "male"
+          "percentage": "0.001204",
+          "age": "35-44",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "親民黨 People First Party",
       "impressions": {
-        "lower_bound": "50000",
-        "upper_bound": "59999"
+        "lower_bound": "100000",
+        "upper_bound": "124999"
       },
       "page_id": "981326588613347",
       "page_name": "親民黨 People First Party",
       "region_distribution": [
         {
-          "percentage": "0.000293",
+          "percentage": "0.0003",
           "region": "Lienchiang"
         },
         {
-          "percentage": "0.004062",
+          "percentage": "0.003866",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.014198",
+          "percentage": "0.013826",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.037574",
+          "percentage": "0.037807",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.013983",
+          "percentage": "0.012833",
           "region": "Yilan"
         },
         {
-          "percentage": "0.008241",
+          "percentage": "0.008552",
           "region": "Taitung"
         },
         {
-          "percentage": "0.034332",
+          "percentage": "0.03671",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.005839",
+          "percentage": "0.005147",
           "region": "Penghu"
         },
         {
-          "percentage": "0.020076",
+          "percentage": "0.019642",
           "region": "Nantou"
         },
         {
-          "percentage": "0.021619",
+          "percentage": "0.021962",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.01326",
+          "percentage": "0.013237",
           "region": "Hualien"
         },
         {
-          "percentage": "0.029938",
+          "percentage": "0.028621",
           "region": "Unknown"
         },
         {
-          "percentage": "0.005175",
+          "percentage": "0.006128",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.002422",
+          "percentage": "0.002366",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.053002",
+          "percentage": "0.053248",
           "region": "Changhua"
         },
         {
-          "percentage": "0.115748",
+          "percentage": "0.111066",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.144143",
+          "percentage": "0.139687",
           "region": "Taichung"
         },
         {
-          "percentage": "0.117408",
+          "percentage": "0.117933",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.090165",
+          "percentage": "0.09132",
           "region": "Tainan"
         },
         {
-          "percentage": "0.122486",
+          "percentage": "0.122988",
           "region": "Taipei"
         },
         {
-          "percentage": "0.121041",
+          "percentage": "0.125977",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.024997",
+          "percentage": "0.026786",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "4000",
-        "upper_bound": "4499"
+        "lower_bound": "7000",
+        "upper_bound": "7999"
       },
       "ad_id": "577023249788905"
     }
@@ -7404,185 +7404,185 @@
       "ad_creation_time": "2019-12-28T05:54:36+0000",
       "ad_creative_link_title": "宣明智談0-6歲國家養",
       "ad_delivery_start_time": "2019-12-28T05:54:36+0000",
-      "ad_delivery_stop_time": "2020-01-02T15:55:00+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:55:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "4.9E-5",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.039124",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.053542",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.043188",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.014729",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.084327",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.361754",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.116751",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.251147",
+          "percentage": "0.280041",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.017694",
+          "percentage": "0.337672",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.032387",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.113278",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.040964",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.013841",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.01581",
+          "percentage": "0.095264",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.01431",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.000836",
-          "age": "35-44",
-          "gender": "unknown"
+          "percentage": "0.015046",
+          "age": "25-34",
+          "gender": "female"
         },
         {
-          "percentage": "0.000623",
-          "age": "45-54",
-          "gender": "unknown"
+          "percentage": "0.055018",
+          "age": "18-24",
+          "gender": "male"
         },
         {
-          "percentage": "0.000279",
+          "percentage": "0.000434",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000147",
+          "percentage": "0.001037",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000532",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000124",
           "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "5.3E-5",
+          "age": "55-64",
           "gender": "unknown"
         }
       ],
       "funding_entity": "親民黨 People First Party",
       "impressions": {
-        "lower_bound": "70000",
-        "upper_bound": "79999"
+        "lower_bound": "125000",
+        "upper_bound": "149999"
       },
       "page_id": "981326588613347",
       "page_name": "親民黨 People First Party",
       "region_distribution": [
         {
-          "percentage": "0.032104",
+          "percentage": "0.030495",
           "region": "Unknown"
         },
         {
-          "percentage": "0.000232",
+          "percentage": "0.000272",
           "region": "Lienchiang"
         },
         {
-          "percentage": "0.011297",
+          "percentage": "0.01106",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.038009",
+          "percentage": "0.038719",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.012967",
+          "percentage": "0.012991",
           "region": "Yilan"
         },
         {
-          "percentage": "0.009328",
+          "percentage": "0.008418",
           "region": "Taitung"
         },
         {
-          "percentage": "0.043516",
+          "percentage": "0.040747",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.005127",
+          "percentage": "0.004995",
           "region": "Penghu"
         },
         {
-          "percentage": "0.01917",
+          "percentage": "0.017609",
           "region": "Nantou"
         },
         {
-          "percentage": "0.020724",
+          "percentage": "0.019285",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.00349",
+          "percentage": "0.003309",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.130235",
+          "percentage": "0.131818",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.010701",
+          "percentage": "0.01063",
           "region": "Hualien"
         },
         {
-          "percentage": "0.005326",
+          "percentage": "0.006373",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.002117",
+          "percentage": "0.002168",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.055888",
+          "percentage": "0.055266",
           "region": "Changhua"
         },
         {
-          "percentage": "0.110453",
+          "percentage": "0.103351",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.147039",
+          "percentage": "0.149155",
           "region": "Taichung"
         },
         {
-          "percentage": "0.112355",
+          "percentage": "0.111611",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.094294",
+          "percentage": "0.098471",
           "region": "Tainan"
         },
         {
-          "percentage": "0.104813",
+          "percentage": "0.110172",
           "region": "Taipei"
         },
         {
-          "percentage": "0.030814",
+          "percentage": "0.033084",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "5000",
-        "upper_bound": "5999"
+        "lower_bound": "10000",
+        "upper_bound": "14999"
       },
       "ad_id": "2562351047148117"
     }
@@ -7601,7 +7601,7 @@
       "ad_creation_time": "2019-12-28T05:54:33+0000",
       "ad_creative_link_title": "宣明智談產業有投資：新獎勵投資及員工均分紅利條件",
       "ad_delivery_start_time": "2019-12-28T05:54:33+0000",
-      "ad_delivery_stop_time": "2020-01-03T15:55:00+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:55:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -7770,187 +7770,384 @@
       "ad_creation_time": "2019-12-29T14:58:35+0000",
       "ad_creative_link_title": "宣明智談工者有其屋",
       "ad_delivery_start_time": "2019-12-29T14:58:35+0000",
-      "ad_delivery_stop_time": "2020-01-05T15:55:00+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:55:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.016319",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.009456",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.026233",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.065633",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.118404",
+          "percentage": "0.112599",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.056482",
+          "percentage": "0.388528",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.246059",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.044361",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.065989",
+          "percentage": "0.081783",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.174682",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.444179",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.019573",
+          "percentage": "0.031992",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.000508",
+          "percentage": "0.011799",
           "age": "25-34",
-          "gender": "unknown"
+          "gender": "female"
         },
         {
-          "percentage": "0.001068",
-          "age": "45-54",
-          "gender": "unknown"
+          "percentage": "0.049203",
+          "age": "55-64",
+          "gender": "male"
         },
         {
-          "percentage": "0.001169",
+          "percentage": "0.018886",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001263",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000153",
+          "percentage": "0.012",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00093",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000105",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000153",
+          "percentage": "0.000386",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000105",
           "age": "18-24",
           "gender": "unknown"
         }
       ],
       "funding_entity": "親民黨 People First Party",
       "impressions": {
-        "lower_bound": "20000",
-        "upper_bound": "24999"
+        "lower_bound": "150000",
+        "upper_bound": "174999"
       },
       "page_id": "981326588613347",
       "page_name": "親民黨 People First Party",
       "region_distribution": [
         {
-          "percentage": "0.032438",
+          "percentage": "0.02708",
           "region": "Unknown"
         },
         {
-          "percentage": "0.000361",
+          "percentage": "0.000301",
           "region": "Lienchiang"
         },
         {
-          "percentage": "0.013821",
+          "percentage": "0.014045",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.043577",
+          "percentage": "0.037042",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.01444",
+          "percentage": "0.013947",
           "region": "Yilan"
         },
         {
-          "percentage": "0.009592",
+          "percentage": "0.008244",
           "region": "Taitung"
         },
         {
-          "percentage": "0.040122",
+          "percentage": "0.035855",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.007375",
+          "percentage": "0.005517",
           "region": "Penghu"
         },
         {
-          "percentage": "0.021453",
+          "percentage": "0.017047",
           "region": "Nantou"
         },
         {
-          "percentage": "0.026301",
+          "percentage": "0.021448",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.004951",
+          "percentage": "0.003896",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.141354",
+          "percentage": "0.129014",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.014749",
+          "percentage": "0.013389",
           "region": "Hualien"
         },
         {
-          "percentage": "0.005054",
+          "percentage": "0.006314",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.002888",
+          "percentage": "0.002205",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.055387",
+          "percentage": "0.050467",
           "region": "Changhua"
         },
         {
-          "percentage": "0.099943",
+          "percentage": "0.108992",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.144448",
+          "percentage": "0.161708",
           "region": "Taichung"
         },
         {
-          "percentage": "0.109381",
+          "percentage": "0.11009",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.087412",
+          "percentage": "0.089634",
           "region": "Tainan"
         },
         {
-          "percentage": "0.101955",
+          "percentage": "0.114677",
           "region": "Taipei"
         },
         {
-          "percentage": "0.023",
+          "percentage": "0.02909",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "1500",
-        "upper_bound": "1999"
+        "lower_bound": "10000",
+        "upper_bound": "14999"
       },
       "ad_id": "2457580514505824"
+    }
+  },
+  {
+    "選區": "政黨",
+    "參選人": "親民黨",
+    "AD_ID": "2431840067032685",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-29",
+    "結束日期": "1970-01-01",
+    "廣告內容": "台灣的高房價讓買房成為年輕人遙不可及的夢想之一 甚至很多人根本不把買房當夢想 而是直接列入完全不考慮的範圍中…… 但如果買房不再是夢想，而是 #只要有工作就買得起房！ 這麼夢幻的政見是可行的嗎？ 或這又是一選舉新口號？ 就讓我們來聽聽 #新品種立委候選人 #宣明智 怎麼從企業家的角度來談這個政見吧！ 🎬觀看形象影片：https://bit.ly/2Q58kzS 🍊超可愛的小積木送給你：https://bit.ly/2Q8Z2TA #工者有其屋 #政黨票投3號親民黨 #這橘我們一定要贏 #未完待續",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81601931_2457580527839156_2832889819179253760_n.jpg?_nc_cat=108&_nc_ohc=hCaOvkAjvjQAQkt28InxoFjor1cucAjdxM7uh0Hm68YZEsZN8mn12tSig&_nc_ht=scontent-hkg3-1.xx&oh=733df6ceb319567e25d95f4b3841e868&oe=5E9EF6B2",
+    "廣告詳情": {
+      "ad_creative_body": "台灣的高房價讓買房成為年輕人遙不可及的夢想之一\n甚至很多人根本不把買房當夢想\n而是直接列入完全不考慮的範圍中……\n但如果買房不再是夢想，而是 #只要有工作就買得起房！\n這麼夢幻的政見是可行的嗎？\n或這又是一選舉新口號？\n就讓我們來聽聽 #新品種立委候選人 #宣明智 怎麼從企業家的角度來談這個政見吧！\n\n🎬觀看形象影片：https://bit.ly/2Q58kzS\n🍊超可愛的小積木送給你：https://bit.ly/2Q8Z2TA\n\n#工者有其屋\n#政黨票投3號親民黨\n#這橘我們一定要贏\n#未完待續",
+      "ad_creation_time": "2020-01-02T02:01:06+0000",
+      "ad_creative_link_title": "宣明智談工者有其屋",
+      "ad_delivery_start_time": "2020-01-02T02:01:06+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:55:00+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000105",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "1.2E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.063469",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.098751",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.015928",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.031169",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.124047",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.323285",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.047773",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.258477",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001177",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.011827",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.021032",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002214",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000734",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "親民黨 People First Party",
+      "impressions": {
+        "lower_bound": "150000",
+        "upper_bound": "174999"
+      },
+      "page_id": "981326588613347",
+      "page_name": "親民黨 People First Party",
+      "region_distribution": [
+        {
+          "percentage": "0.027573",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.000231",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.01307",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.035265",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.011763",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.007853",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.032385",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.005714",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.018147",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.01787",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.004164",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.132142",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.01078",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.004303",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001434",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.047328",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.101133",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.143986",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.111381",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.10148",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.14697",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.025029",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "6000",
+        "upper_bound": "6999"
+      },
+      "ad_id": "2431840067032685"
     }
   },
   {
@@ -7967,185 +8164,185 @@
       "ad_creation_time": "2019-12-28T16:23:27+0000",
       "ad_creative_link_title": "宣明智談產業有投資：新獎勵投資及員工均分紅利條例",
       "ad_delivery_start_time": "2019-12-28T16:23:27+0000",
-      "ad_delivery_stop_time": "2020-01-03T15:55:00+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:55:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "5.3E-5",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "1.8E-5",
+          "percentage": "2.0E-5",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000615",
+          "percentage": "0.197555",
           "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.016966",
-          "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.019723",
+          "percentage": "0.089034",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.283448",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.042215",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.167004",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.01765",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.010871",
-          "age": "55-64",
+          "percentage": "0.101481",
+          "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.002213",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.034388",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.089202",
+          "percentage": "0.073419",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.176244",
-          "age": "25-34",
+          "percentage": "0.014561",
+          "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.093944",
-          "age": "45-54",
+          "percentage": "0.009286",
+          "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.205697",
+          "percentage": "0.00241",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000896",
           "age": "45-54",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.063473",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.285943",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.00065",
+          "percentage": "0.000942",
           "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "7.9E-5",
+          "age": "18-24",
           "gender": "unknown"
         }
       ],
       "funding_entity": "親民黨 People First Party",
       "impressions": {
-        "lower_bound": "60000",
-        "upper_bound": "69999"
+        "lower_bound": "200000",
+        "upper_bound": "249999"
       },
       "page_id": "981326588613347",
       "page_name": "親民黨 People First Party",
       "region_distribution": [
         {
-          "percentage": "0.023465",
+          "percentage": "0.023095",
           "region": "Unknown"
         },
         {
-          "percentage": "0.000155",
+          "percentage": "0.000168",
           "region": "Lienchiang"
         },
         {
-          "percentage": "0.013285",
+          "percentage": "0.012268",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.029608",
+          "percentage": "0.02707",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.00999",
+          "percentage": "0.009973",
           "region": "Yilan"
         },
         {
-          "percentage": "0.007143",
+          "percentage": "0.006024",
           "region": "Taitung"
         },
         {
-          "percentage": "0.027434",
+          "percentage": "0.025015",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.005021",
+          "percentage": "0.004369",
           "region": "Penghu"
         },
         {
-          "percentage": "0.015615",
+          "percentage": "0.01338",
           "region": "Nantou"
         },
         {
-          "percentage": "0.015718",
+          "percentage": "0.015151",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.003485",
+          "percentage": "0.00351",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.129232",
+          "percentage": "0.128305",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.010266",
+          "percentage": "0.008985",
           "region": "Hualien"
         },
         {
-          "percentage": "0.004244",
+          "percentage": "0.005526",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.001346",
+          "percentage": "0.00117",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.04103",
+          "percentage": "0.040857",
           "region": "Changhua"
         },
         {
-          "percentage": "0.099952",
+          "percentage": "0.099573",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.151593",
+          "percentage": "0.143585",
           "region": "Taichung"
         },
         {
-          "percentage": "0.105576",
+          "percentage": "0.109288",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.10851",
+          "percentage": "0.099283",
           "region": "Tainan"
         },
         {
-          "percentage": "0.168536",
+          "percentage": "0.191746",
           "region": "Taipei"
         },
         {
-          "percentage": "0.028797",
+          "percentage": "0.031659",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "2500",
-        "upper_bound": "2999"
+        "lower_bound": "8000",
+        "upper_bound": "8999"
       },
       "ad_id": "574863463333256"
     }
@@ -8164,68 +8361,13 @@
       "ad_creation_time": "2019-12-28T05:54:33+0000",
       "ad_creative_link_title": "宣明智談政黨：遊說應強制透明，並革除政黨綁架政府",
       "ad_delivery_start_time": "2019-12-28T05:54:33+0000",
-      "ad_delivery_stop_time": "2020-01-02T15:55:00+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:55:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "3.1E-5",
+          "percentage": "3.7E-5",
           "age": "55-64",
           "gender": "unknown"
-        },
-        {
-          "percentage": "6.3E-5",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.064387",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.012438",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.013129",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.011653",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.077249",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.240181",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.047034",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.023839",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.101418",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.40685",
-          "age": "45-54",
-          "gender": "male"
         },
         {
           "percentage": "0.000345",
@@ -8233,116 +8375,171 @@
           "gender": "unknown"
         },
         {
-          "percentage": "0.000534",
+          "percentage": "5.6E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.403908",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.234288",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.094244",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.092395",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.055939",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.013163",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.045661",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.013145",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.030313",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.01503",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000616",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000848",
+          "percentage": "0.000859",
           "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "親民黨 People First Party",
       "impressions": {
-        "lower_bound": "70000",
-        "upper_bound": "79999"
+        "lower_bound": "125000",
+        "upper_bound": "149999"
       },
       "page_id": "981326588613347",
       "page_name": "親民黨 People First Party",
       "region_distribution": [
         {
-          "percentage": "0.03486",
+          "percentage": "0.034099",
           "region": "Unknown"
         },
         {
-          "percentage": "0.000478",
+          "percentage": "0.00044",
           "region": "Lienchiang"
         },
         {
-          "percentage": "0.013691",
+          "percentage": "0.013013",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.04263",
+          "percentage": "0.042639",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.012458",
+          "percentage": "0.012325",
           "region": "Yilan"
         },
         {
-          "percentage": "0.0107",
+          "percentage": "0.010254",
           "region": "Taitung"
         },
         {
-          "percentage": "0.043509",
+          "percentage": "0.044573",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.006537",
+          "percentage": "0.006112",
           "region": "Penghu"
         },
         {
-          "percentage": "0.020644",
+          "percentage": "0.019244",
           "region": "Nantou"
         },
         {
-          "percentage": "0.021307",
+          "percentage": "0.020683",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.005227",
+          "percentage": "0.004747",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.141705",
+          "percentage": "0.143945",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.012519",
+          "percentage": "0.012023",
           "region": "Hualien"
         },
         {
-          "percentage": "0.00461",
+          "percentage": "0.004866",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.002575",
+          "percentage": "0.002593",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.056799",
+          "percentage": "0.053645",
           "region": "Changhua"
         },
         {
-          "percentage": "0.105211",
+          "percentage": "0.103505",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.144187",
+          "percentage": "0.140994",
           "region": "Taichung"
         },
         {
-          "percentage": "0.104564",
+          "percentage": "0.101242",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.097271",
+          "percentage": "0.107959",
           "region": "Tainan"
         },
         {
-          "percentage": "0.092584",
+          "percentage": "0.094351",
           "region": "Taipei"
         },
         {
-          "percentage": "0.025933",
+          "percentage": "0.026749",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "5000",
-        "upper_bound": "5999"
+        "lower_bound": "9000",
+        "upper_bound": "9999"
       },
       "ad_id": "447340695958797"
     }
@@ -8362,72 +8559,72 @@
       "ad_creative_link_caption": "www.soong2020.tw",
       "ad_creative_link_title": "宣明智談弱勢照顧：成立百億身心障礙保險基金的必要",
       "ad_delivery_start_time": "2019-12-28T05:54:34+0000",
-      "ad_delivery_stop_time": "2019-12-31T15:55:00+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:55:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.126872",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.136931",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.073128",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.472247",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.021145",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.012702",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.026505",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.051615",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.05837",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.019016",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000954",
+          "percentage": "0.000848",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00022",
+          "percentage": "0.154703",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.021746",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.058816",
           "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.129505",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.051063",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.44824",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.02962",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.02217",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.069477",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000363",
+          "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000294",
-          "age": "35-44",
+          "percentage": "0.013144",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000303",
+          "age": "25-34",
           "gender": "unknown"
         }
       ],
@@ -8440,92 +8637,92 @@
       "page_name": "親民黨 People First Party",
       "region_distribution": [
         {
-          "percentage": "0.040259",
-          "region": "Unknown"
+          "percentage": "0.000367",
+          "region": "Lienchiang"
         },
         {
-          "percentage": "0.025332",
-          "region": "Miaoli"
-        },
-        {
-          "percentage": "0.017114",
-          "region": "Hsinchu City"
-        },
-        {
-          "percentage": "0.011309",
-          "region": "Keelung City"
-        },
-        {
-          "percentage": "0.060992",
-          "region": "Yunlin"
-        },
-        {
-          "percentage": "0.014626",
-          "region": "Yilan"
-        },
-        {
-          "percentage": "0.012364",
-          "region": "Taitung"
-        },
-        {
-          "percentage": "0.064234",
-          "region": "Pingtung"
-        },
-        {
-          "percentage": "0.009424",
-          "region": "Penghu"
-        },
-        {
-          "percentage": "0.023899",
-          "region": "Nantou"
-        },
-        {
-          "percentage": "0.0049",
+          "percentage": "0.004958",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.140757",
-          "region": "Kaohsiung"
+          "percentage": "0.011324",
+          "region": "Keelung City"
         },
         {
-          "percentage": "0.013948",
+          "percentage": "0.058824",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.014446",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.011875",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.063231",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.009488",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.024484",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.02528",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.014017",
           "region": "Hualien"
         },
         {
-          "percentage": "0.003393",
+          "percentage": "0.038563",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.003489",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.003468",
+          "percentage": "0.003367",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.066873",
+          "percentage": "0.069658",
           "region": "Changhua"
         },
         {
-          "percentage": "0.098537",
+          "percentage": "0.096591",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.144225",
+          "percentage": "0.140785",
           "region": "Taichung"
         },
         {
-          "percentage": "0.093712",
+          "percentage": "0.093408",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.097105",
+          "percentage": "0.1021",
           "region": "Tainan"
         },
         {
-          "percentage": "0.053227",
+          "percentage": "0.056008",
           "region": "Taipei"
         },
         {
-          "percentage": "0.000302",
-          "region": "Lienchiang"
+          "percentage": "0.14103",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.016711",
+          "region": "Hsinchu City"
         }
       ],
       "spend": {
@@ -8550,7 +8747,7 @@
       "ad_creative_link_caption": "www.soong2020.tw",
       "ad_creative_link_title": "宣明智談弱勢照顧：成立百億身心障礙保險基金的必要",
       "ad_delivery_start_time": "2019-12-25T13:55:50+0000",
-      "ad_delivery_stop_time": "2020-01-02T15:55:00+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:55:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -8738,7 +8935,7 @@
       "ad_creative_link_caption": "www.soong2020.tw",
       "ad_creative_link_title": "宣明智談弱勢照顧：成立百億身心障礙保險基金的必要",
       "ad_delivery_start_time": "2019-12-25T07:09:08+0000",
-      "ad_delivery_stop_time": "2020-01-02T15:55:00+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:55:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -8935,185 +9132,185 @@
       "ad_creation_time": "2019-12-28T05:54:34+0000",
       "ad_creative_link_title": "宣明智談青年發展：成立青年資源發展委員會的必要",
       "ad_delivery_start_time": "2019-12-28T05:54:34+0000",
-      "ad_delivery_stop_time": "2020-01-02T15:55:00+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:55:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "5.3E-5",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "8.9E-5",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.020264",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.042286",
+          "percentage": "0.041519",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.231605",
+          "percentage": "0.227085",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.011064",
+          "percentage": "0.165475",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.355971",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.021078",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.011334",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.042393",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.020424",
-          "age": "25-34",
+          "percentage": "0.081745",
+          "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.361234",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.027403",
+          "percentage": "0.025973",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.07603",
-          "age": "35-44",
+          "percentage": "0.021824",
+          "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.163532",
-          "age": "35-44",
+          "percentage": "0.044034",
+          "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.001101",
-          "age": "45-54",
+          "percentage": "0.00194",
+          "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000568",
+          "percentage": "0.000458",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001954",
-          "age": "35-44",
+          "percentage": "0.001428",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "6.3E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "7.2E-5",
+          "age": "18-24",
           "gender": "unknown"
         }
       ],
       "funding_entity": "親民黨 People First Party",
       "impressions": {
-        "lower_bound": "70000",
-        "upper_bound": "79999"
+        "lower_bound": "200000",
+        "upper_bound": "249999"
       },
       "page_id": "981326588613347",
       "page_name": "親民黨 People First Party",
       "region_distribution": [
         {
-          "percentage": "0.02834",
-          "region": "Unknown"
-        },
-        {
-          "percentage": "0.000338",
+          "percentage": "0.000305",
           "region": "Lienchiang"
         },
         {
-          "percentage": "0.013317",
-          "region": "Keelung City"
-        },
-        {
-          "percentage": "0.038989",
-          "region": "Yunlin"
-        },
-        {
-          "percentage": "0.012872",
-          "region": "Yilan"
-        },
-        {
-          "percentage": "0.00873",
-          "region": "Taitung"
-        },
-        {
-          "percentage": "0.037905",
-          "region": "Pingtung"
-        },
-        {
-          "percentage": "0.007307",
-          "region": "Penghu"
-        },
-        {
-          "percentage": "0.018881",
-          "region": "Nantou"
-        },
-        {
-          "percentage": "0.01785",
-          "region": "Miaoli"
-        },
-        {
-          "percentage": "0.004694",
+          "percentage": "0.004315",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.132401",
-          "region": "Kaohsiung"
+          "percentage": "0.012883",
+          "region": "Keelung City"
         },
         {
-          "percentage": "0.010223",
+          "percentage": "0.036246",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.012031",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.007725",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.03472",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.00611",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.017459",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.017773",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.010039",
           "region": "Hualien"
         },
         {
-          "percentage": "0.00416",
+          "percentage": "0.027722",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.004719",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.001529",
+          "percentage": "0.001525",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.051826",
+          "percentage": "0.049308",
           "region": "Changhua"
         },
         {
-          "percentage": "0.106176",
+          "percentage": "0.10932",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.14065",
+          "percentage": "0.142721",
           "region": "Taichung"
         },
         {
-          "percentage": "0.103154",
+          "percentage": "0.106332",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.104772",
+          "percentage": "0.098715",
           "region": "Tainan"
         },
         {
-          "percentage": "0.132063",
+          "percentage": "0.145144",
           "region": "Taipei"
         },
         {
-          "percentage": "0.023824",
+          "percentage": "0.12999",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.024896",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "3500",
-        "upper_bound": "3999"
+        "lower_bound": "8000",
+        "upper_bound": "8999"
       },
       "ad_id": "558911111630810"
     }
@@ -9132,7 +9329,7 @@
       "ad_creation_time": "2019-12-25T13:55:50+0000",
       "ad_creative_link_title": "宣明智談青年發展：成立青年資源發展委員會的必要",
       "ad_delivery_start_time": "2019-12-25T13:55:50+0000",
-      "ad_delivery_stop_time": "2020-01-02T15:55:00+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:55:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -9329,7 +9526,7 @@
       "ad_creation_time": "2019-12-25T07:12:04+0000",
       "ad_creative_link_title": "宣明智談青年發展：成立青年資源發展委員會的必要",
       "ad_delivery_start_time": "2019-12-25T07:12:04+0000",
-      "ad_delivery_stop_time": "2020-01-02T15:55:00+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:55:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -9521,185 +9718,185 @@
       "ad_creation_time": "2019-12-28T05:54:34+0000",
       "ad_creative_link_title": "宣明智談0-6歲國家養",
       "ad_delivery_start_time": "2019-12-28T05:54:34+0000",
-      "ad_delivery_stop_time": "2020-01-03T15:55:00+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:55:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "2.2E-5",
+          "percentage": "2.8E-5",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "5.6E-5",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.001145",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.005871",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.002591",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.00983",
+          "percentage": "0.011657",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.013811",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.199186",
+          "percentage": "0.191654",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.075773",
+          "percentage": "0.086789",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.311489",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.188911",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.029068",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.083791",
+          "percentage": "0.075414",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.077909",
+          "percentage": "0.039284",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.083647",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.000545",
+          "percentage": "0.188957",
           "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.296931",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.007118",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.014309",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000591",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00232",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000101",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001199",
+          "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "親民黨 People First Party",
       "impressions": {
-        "lower_bound": "100000",
-        "upper_bound": "124999"
+        "lower_bound": "300000",
+        "upper_bound": "349999"
       },
       "page_id": "981326588613347",
       "page_name": "親民黨 People First Party",
       "region_distribution": [
         {
-          "percentage": "0.027696",
+          "percentage": "0.027165",
           "region": "Unknown"
         },
         {
-          "percentage": "0.000264",
+          "percentage": "0.000262",
           "region": "Lienchiang"
         },
         {
-          "percentage": "0.012748",
+          "percentage": "0.012208",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.037519",
+          "percentage": "0.036776",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.01266",
+          "percentage": "0.012733",
           "region": "Yilan"
         },
         {
-          "percentage": "0.007326",
+          "percentage": "0.007394",
           "region": "Taitung"
         },
         {
-          "percentage": "0.031986",
+          "percentage": "0.033023",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.006534",
+          "percentage": "0.005842",
           "region": "Penghu"
         },
         {
-          "percentage": "0.014904",
+          "percentage": "0.014359",
           "region": "Nantou"
         },
         {
-          "percentage": "0.016268",
+          "percentage": "0.016559",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.004455",
+          "percentage": "0.004328",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.130584",
+          "percentage": "0.133059",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.008601",
+          "percentage": "0.009293",
           "region": "Hualien"
         },
         {
-          "percentage": "0.004323",
+          "percentage": "0.004574",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.001386",
+          "percentage": "0.001525",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.045724",
+          "percentage": "0.047845",
           "region": "Changhua"
         },
         {
-          "percentage": "0.097971",
+          "percentage": "0.098539",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.14023",
+          "percentage": "0.140559",
           "region": "Taichung"
         },
         {
-          "percentage": "0.104548",
+          "percentage": "0.110407",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.117791",
+          "percentage": "0.113199",
           "region": "Tainan"
         },
         {
-          "percentage": "0.146038",
+          "percentage": "0.141743",
           "region": "Taipei"
         },
         {
-          "percentage": "0.030446",
+          "percentage": "0.028606",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "3000",
-        "upper_bound": "3499"
+        "lower_bound": "9000",
+        "upper_bound": "9999"
       },
       "ad_id": "489581808196771"
     }
@@ -9718,7 +9915,7 @@
       "ad_creation_time": "2019-12-27T06:19:36+0000",
       "ad_creative_link_title": "宣明智談0-6歲國家養",
       "ad_delivery_start_time": "2019-12-27T06:19:36+0000",
-      "ad_delivery_stop_time": "2020-01-03T15:55:00+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:55:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -9915,7 +10112,7 @@
       "ad_creation_time": "2019-12-28T05:54:33+0000",
       "ad_creative_link_title": "宣明智談產業有投資：新獎勵投資及員工均分紅利條件",
       "ad_delivery_start_time": "2019-12-28T05:54:33+0000",
-      "ad_delivery_stop_time": "2020-01-03T15:55:00+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:55:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -10093,7 +10290,7 @@
       "ad_creation_time": "2019-12-25T13:55:54+0000",
       "ad_creative_link_title": "宣明智政見廣告 弱勢有照顧篇",
       "ad_delivery_start_time": "2019-12-25T13:55:54+0000",
-      "ad_delivery_stop_time": "2019-12-31T15:55:00+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:55:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -10285,7 +10482,7 @@
       "ad_creation_time": "2019-12-25T07:11:55+0000",
       "ad_creative_link_title": "宣明智政見廣告 弱勢有照顧篇",
       "ad_delivery_start_time": "2019-12-25T07:11:55+0000",
-      "ad_delivery_stop_time": "2019-12-31T15:55:00+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:55:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {

@@ -7482,61 +7482,61 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.174854",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.048866",
-          "age": "13-17",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.04744",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.365651",
+          "percentage": "0.346321",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.236423",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.039793",
+          "percentage": "0.041861",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.086973",
+          "percentage": "0.169618",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.242232",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.05281",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.093866",
           "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.053293",
+          "age": "13-17",
           "gender": "male"
         }
       ],
       "funding_entity": "智淵楊",
       "impressions": {
-        "lower_bound": "10000",
-        "upper_bound": "14999"
+        "lower_bound": "15000",
+        "upper_bound": "19999"
       },
       "page_id": "101414597957372",
       "page_name": "楊智淵 反共最前線",
       "region_distribution": [
         {
-          "percentage": "0.393401",
+          "percentage": "0.394793",
           "region": "Taipei"
         },
         {
-          "percentage": "0.606599",
+          "percentage": "0.605207",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "800",
-        "upper_bound": "899"
+        "lower_bound": "1000",
+        "upper_bound": "1499"
       },
       "ad_id": "2863856933678116"
     }
@@ -7561,61 +7561,61 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.082935",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.15311",
-          "age": "13-17",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.358852",
+          "percentage": "0.343343",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.188198",
+          "percentage": "0.155155",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.049442",
+          "percentage": "0.148148",
+          "age": "13-17",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.105105",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.062062",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.106858",
-          "age": "35-44",
+          "percentage": "0.084084",
+          "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.060606",
-          "age": "45-54",
+          "percentage": "0.102102",
+          "age": "35-44",
           "gender": "male"
         }
       ],
       "funding_entity": "智淵楊",
       "impressions": {
-        "lower_bound": "1000",
-        "upper_bound": "1999"
+        "lower_bound": "3000",
+        "upper_bound": "3999"
       },
       "page_id": "101414597957372",
       "page_name": "楊智淵 反共最前線",
       "region_distribution": [
         {
-          "percentage": "0.623188",
+          "percentage": "0.609455",
           "region": "Taipei"
         },
         {
-          "percentage": "0.376812",
+          "percentage": "0.390545",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "100",
-        "upper_bound": "199"
+        "lower_bound": "300",
+        "upper_bound": "399"
       },
       "ad_id": "1829247540548152"
     }

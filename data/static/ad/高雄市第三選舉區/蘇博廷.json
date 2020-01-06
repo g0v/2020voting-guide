@@ -2648,60 +2648,70 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.207065",
+          "percentage": "0.000881",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000441",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.212775",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.237515",
+          "percentage": "0.174449",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.151035",
+          "percentage": "0.144493",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.10475",
+          "percentage": "0.095595",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.182704",
+          "percentage": "0.186784",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.031669",
+          "percentage": "0.047137",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.021924",
+          "percentage": "0.044493",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.013398",
+          "percentage": "0.026872",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.026797",
+          "percentage": "0.034802",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.023143",
+          "percentage": "0.031278",
           "age": "55-64",
           "gender": "female"
         }
       ],
       "funding_entity": "博廷 蘇",
       "impressions": {
-        "lower_bound": "1000",
-        "upper_bound": "1999"
+        "lower_bound": "3000",
+        "upper_bound": "3999"
       },
       "page_id": "348836152350990",
       "page_name": "左楠青年素立委 蘇博廷",
@@ -2712,8 +2722,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
+        "lower_bound": "1000",
+        "upper_bound": "1499"
       },
       "ad_id": "450506628978166"
     }
@@ -2738,60 +2748,60 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.16129",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.16129",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.048387",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.177419",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.177419",
+          "percentage": "0.192308",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.064516",
-          "age": "18-24",
-          "gender": "female"
+          "percentage": "0.185676",
+          "age": "35-44",
+          "gender": "male"
         },
         {
-          "percentage": "0.048387",
-          "age": "45-54",
-          "gender": "female"
+          "percentage": "0.061008",
+          "age": "55-64",
+          "gender": "male"
         },
         {
-          "percentage": "0.080645",
+          "percentage": "0.074271",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.064516",
+          "percentage": "0.145889",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.045093",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.080902",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.016129",
-          "age": "55-64",
+          "percentage": "0.039788",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.11008",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.064987",
+          "age": "45-54",
           "gender": "female"
         }
       ],
       "funding_entity": "博廷 蘇",
       "impressions": {
-        "lower_bound": "0",
-        "upper_bound": "999"
+        "lower_bound": "1000",
+        "upper_bound": "1999"
       },
       "page_id": "348836152350990",
       "page_name": "左楠青年素立委 蘇博廷",
@@ -2802,8 +2812,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "0",
-        "upper_bound": "99"
+        "lower_bound": "600",
+        "upper_bound": "699"
       },
       "ad_id": "574462279778392"
     }
@@ -2825,65 +2835,75 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.10661",
+          "percentage": "0.181484",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.089572",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.184492",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.13369",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.217484",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.179104",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.044776",
-          "age": "45-54",
+          "percentage": "0.037433",
+          "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.034115",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.234542",
+          "percentage": "0.18115",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.104478",
-          "age": "55-64",
-          "gender": "male"
+          "percentage": "0.038102",
+          "age": "25-34",
+          "gender": "female"
         },
         {
-          "percentage": "0.040512",
+          "percentage": "0.048463",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.002132",
-          "age": "25-34",
+          "percentage": "0.001003",
+          "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.023454",
-          "age": "25-34",
+          "percentage": "0.061497",
+          "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.012793",
-          "age": "18-24",
+          "percentage": "0.041444",
+          "age": "55-64",
           "gender": "female"
+        },
+        {
+          "percentage": "0.001003",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000668",
+          "age": "25-34",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "博廷 蘇",
       "impressions": {
-        "lower_bound": "0",
-        "upper_bound": "999"
+        "lower_bound": "4000",
+        "upper_bound": "4999"
       },
       "page_id": "348836152350990",
       "page_name": "左楠青年素立委 蘇博廷",
@@ -2894,8 +2914,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "100",
-        "upper_bound": "199"
+        "lower_bound": "1000",
+        "upper_bound": "1499"
       },
       "ad_id": "1469868093190271"
     }
@@ -2914,73 +2934,173 @@
       "ad_creation_time": "2019-12-30T05:40:17+0000",
       "ad_creative_link_title": "相信 郭台銘，政策左楠9號蘇博廷來推行",
       "ad_delivery_start_time": "2019-12-30T05:40:17+0000",
-      "ad_delivery_stop_time": "2020-01-04T05:40:02+0000",
+      "ad_delivery_stop_time": "2020-01-07T05:40:02+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.001202",
-          "age": "35-44",
+          "percentage": "0.000628",
+          "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.182692",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.126202",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.269231",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.018029",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.086538",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.052885",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.127404",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.001202",
+          "percentage": "0.000628",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.073317",
+          "percentage": "0.000377",
           "age": "55-64",
-          "gender": "female"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.014423",
+          "percentage": "0.000251",
           "age": "18-24",
-          "gender": "female"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.045673",
+          "percentage": "0.168696",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.126145",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.001202",
+          "percentage": "0.06552",
           "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.084222",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.162294",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.051588",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.155014",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.084348",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.06552",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.034015",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000753",
+          "age": "35-44",
           "gender": "unknown"
+        }
+      ],
+      "funding_entity": "博廷 蘇",
+      "impressions": {
+        "lower_bound": "20000",
+        "upper_bound": "24999"
+      },
+      "page_id": "348836152350990",
+      "page_name": "左楠青年素立委 蘇博廷",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Kaohsiung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1500",
+        "upper_bound": "1999"
+      },
+      "ad_id": "3139811886033675"
+    }
+  },
+  {
+    "選區": "高雄市第三選舉區",
+    "參選人": "蘇博廷",
+    "AD_ID": "1207194822811310",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "推動青年政策，打造左楠新創廊道。解決少子長照、就業低薪、居住正義及環境保護是參政的理由。為了不讓未來的孩子承受更重的財政負擔，讓我們一同改變派系及地方政治。我是左楠青年 蘇博廷",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/s600x600/81851008_574462303111723_2649644648653389824_n.jpg?_nc_cat=110&_nc_ohc=FyWMvYXJ8vkAQkqhRSPbynnOwlS2IWvL5Jw6-Y4gVx0OWxHOcHoUxjqfQ&_nc_ht=scontent-hkg3-2.xx&oh=0235f3daa6486a31bfcc835948791a6f&oe=5E6CE9D1",
+    "廣告詳情": {
+      "ad_creative_body": "推動青年政策，打造左楠新創廊道。解決少子長照、就業低薪、居住正義及環境保護是參政的理由。為了不讓未來的孩子承受更重的財政負擔，讓我們一同改變派系及地方政治。我是左楠青年 蘇博廷",
+      "ad_creation_time": "2020-01-03T14:35:16+0000",
+      "ad_creative_link_caption": "www.facebook.com",
+      "ad_creative_link_description": "蘇博廷，一個底層走上來的左楠青年。在沒有人脈、沒有資金、沒有任何政治背景的情況下參選立委，為了就是希望能發聲，幫下一代創造更好的未來。",
+      "ad_creative_link_title": "左楠青年素立委 蘇博廷",
+      "ad_delivery_start_time": "2020-01-03T14:35:33+0000",
+      "ad_delivery_stop_time": "2020-01-06T14:35:33+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.205607",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.205607",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.049844",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.093458",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.012461",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.068536",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.143302",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.099688",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.074766",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.046729",
+          "age": "55-64",
+          "gender": "male"
         }
       ],
       "funding_entity": "博廷 蘇",
@@ -2997,10 +3117,102 @@
         }
       ],
       "spend": {
-        "lower_bound": "0",
-        "upper_bound": "99"
+        "lower_bound": "300",
+        "upper_bound": "399"
       },
-      "ad_id": "3139811886033675"
+      "ad_id": "1207194822811310"
+    }
+  },
+  {
+    "選區": "高雄市第三選舉區",
+    "參選人": "蘇博廷",
+    "AD_ID": "847973775635467",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "我們值得擁有更好 因為這一票很值得 相信，中道力量 相信，理性問政 就要是相挺，左楠青年 9號蘇博廷 #郭台銘 #宋楚瑜 #蘇博廷",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/81534875_585216655379604_2379068666852409344_n.jpg?_nc_cat=110&_nc_ohc=46QmZPbsd7cAQnVCpEn3NWGwZMPYEPJ-M7lox0TYIQ9VrkUyXoDf-xM5Q&_nc_ht=scontent-hkg3-2.xx&oh=0e24380b82ad90c37719294ead776d36&oe=5EAFBE85",
+    "廣告詳情": {
+      "ad_creative_body": "我們值得擁有更好\n因為這一票很值得\n\n相信，中道力量\n相信，理性問政\n\n就要是相挺，左楠青年 9號蘇博廷\n\n#郭台銘 #宋楚瑜 #蘇博廷",
+      "ad_creation_time": "2020-01-02T17:17:46+0000",
+      "ad_delivery_start_time": "2020-01-02T17:17:46+0000",
+      "ad_delivery_stop_time": "2020-01-09T17:17:35+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.191638",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.147213",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.189895",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.241289",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.034843",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.033972",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.070557",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.031359",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.023519",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.034843",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000871",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "博廷 蘇",
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "1999"
+      },
+      "page_id": "348836152350990",
+      "page_name": "左楠青年素立委 蘇博廷",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Kaohsiung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "200",
+        "upper_bound": "299"
+      },
+      "ad_id": "847973775635467"
     }
   },
   {

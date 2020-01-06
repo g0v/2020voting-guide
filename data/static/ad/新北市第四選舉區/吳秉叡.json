@@ -1903,116 +1903,116 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000186",
+          "percentage": "0.00019",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.106453",
+          "percentage": "0.101679",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.000789",
+          "percentage": "0.000722",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000696",
+          "percentage": "0.000646",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.062071",
+          "percentage": "0.062733",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.052507",
+          "percentage": "0.051486",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.037604",
+          "percentage": "0.038529",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.059796",
+          "percentage": "0.06638",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.108124",
+          "percentage": "0.101907",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.000139",
-          "age": "65+",
+          "percentage": "7.6E-5",
+          "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.068152",
+          "percentage": "0.07588",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.081708",
+          "percentage": "0.078577",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.077344",
+          "percentage": "0.089292",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.140994",
+          "percentage": "0.13789",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.054364",
+          "percentage": "0.055589",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.14805",
+          "percentage": "0.137206",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "9.3E-5",
-          "age": "55-64",
+          "percentage": "0.000152",
+          "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000929",
+          "percentage": "0.001064",
           "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "吳秉叡",
       "impressions": {
-        "lower_bound": "50000",
-        "upper_bound": "59999"
+        "lower_bound": "70000",
+        "upper_bound": "79999"
       },
       "page_id": "154631861234059",
       "page_name": "吳秉叡",
       "region_distribution": [
         {
-          "percentage": "0.488442",
+          "percentage": "0.468561",
           "region": "Taipei"
         },
         {
-          "percentage": "0.511558",
+          "percentage": "0.531439",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "7000",
-        "upper_bound": "7999"
+        "lower_bound": "9000",
+        "upper_bound": "9999"
       },
       "ad_id": "839921703130517"
     }
@@ -6634,98 +6634,103 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "8.7E-5",
-          "age": "18-24",
+          "percentage": "2.2E-5",
+          "age": "13-17",
           "gender": "unknown"
         },
         {
-          "percentage": "0.053019",
-          "age": "45-54",
+          "percentage": "0.029823",
+          "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.000218",
+          "percentage": "0.000153",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000218",
+          "percentage": "0.000262",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000261",
+          "percentage": "0.000262",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.002396",
+          "percentage": "0.009505",
           "age": "13-17",
           "gender": "female"
         },
         {
-          "percentage": "0.000349",
+          "percentage": "0.000458",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.007537",
+          "percentage": "0.021015",
           "age": "13-17",
           "gender": "male"
         },
         {
-          "percentage": "0.014682",
+          "percentage": "0.026204",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.018602",
-          "age": "25-34",
+          "percentage": "0.058708",
+          "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.130914",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.069792",
+          "percentage": "0.063155",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.031803",
+          "percentage": "0.000109",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.045018",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.036203",
+          "percentage": "0.051841",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.16642",
+          "percentage": "0.142138",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.112268",
+          "percentage": "0.112969",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.202056",
+          "percentage": "0.167426",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.104993",
+          "percentage": "0.100957",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.048096",
+          "percentage": "0.061433",
           "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.108456",
+          "age": "65+",
           "gender": "male"
         },
         {
@@ -6736,100 +6741,104 @@
       ],
       "funding_entity": "吳秉叡",
       "impressions": {
-        "lower_bound": "35000",
-        "upper_bound": "39999"
+        "lower_bound": "90000",
+        "upper_bound": "99999"
       },
       "page_id": "154631861234059",
       "page_name": "吳秉叡",
       "region_distribution": [
         {
-          "percentage": "0.022709",
-          "region": "Unknown"
+          "percentage": "4.3E-5",
+          "region": "Lienchiang"
         },
         {
-          "percentage": "0.014806",
+          "percentage": "0.015943",
           "region": "Nantou"
         },
         {
-          "percentage": "0.001824",
+          "percentage": "0.002074",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.015935",
+          "percentage": "0.018644",
           "region": "Hsinchu City"
         },
         {
-          "percentage": "0.017455",
+          "percentage": "0.018082",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.026139",
+          "percentage": "0.034587",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.0099",
+          "percentage": "0.011752",
           "region": "Yilan"
         },
         {
-          "percentage": "0.004255",
+          "percentage": "0.005595",
           "region": "Taitung"
         },
         {
-          "percentage": "0.037992",
+          "percentage": "0.045626",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.002562",
+          "percentage": "0.002873",
           "region": "Penghu"
         },
         {
-          "percentage": "0.009292",
+          "percentage": "0.012011",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.182623",
-          "region": "Kaohsiung"
+          "percentage": "0.02735",
+          "region": "Unknown"
         },
         {
-          "percentage": "0.006296",
+          "percentage": "0.008144",
           "region": "Hualien"
         },
         {
-          "percentage": "0.00317",
+          "percentage": "0.002916",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.041943",
+          "percentage": "0.046145",
           "region": "Changhua"
         },
         {
-          "percentage": "0.168903",
+          "percentage": "0.117328",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.134818",
+          "percentage": "0.141286",
           "region": "Taichung"
         },
         {
-          "percentage": "0.103078",
+          "percentage": "0.11143",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.079198",
+          "percentage": "0.101212",
           "region": "Tainan"
         },
         {
-          "percentage": "0.116756",
+          "percentage": "0.085852",
           "region": "Taipei"
         },
         {
-          "percentage": "0.000347",
+          "percentage": "0.19065",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.000454",
           "region": "Kinmen"
         }
       ],
       "spend": {
-        "lower_bound": "2000",
-        "upper_bound": "2499"
+        "lower_bound": "5000",
+        "upper_bound": "5999"
       },
       "ad_id": "1949712731840801"
     }

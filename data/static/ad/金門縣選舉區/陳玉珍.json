@@ -1648,95 +1648,95 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "8.7E-5",
-          "age": "18-24",
+          "percentage": "6.1E-5",
+          "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.068903",
+          "percentage": "0.050118",
           "age": "55-64",
-          "gender": "male"
+          "gender": "female"
         },
         {
-          "percentage": "0.000261",
+          "percentage": "0.000243",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000782",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000695",
+          "percentage": "0.000607",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.014771",
+          "percentage": "0.015795",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.052046",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.08098",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.108176",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.066383",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.103919",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.052915",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.105135",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.157616",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.158311",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.028934",
+          "percentage": "0.027277",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "8.7E-5",
+          "percentage": "0.000729",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.106494",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.063423",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.151753",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.113116",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.064577",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.142093",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.098779",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.101634",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.06324",
           "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "6.1E-5",
+          "age": "18-24",
           "gender": "unknown"
         }
       ],
       "funding_entity": "玉珍 陳",
       "impressions": {
-        "lower_bound": "15000",
-        "upper_bound": "19999"
+        "lower_bound": "30000",
+        "upper_bound": "34999"
       },
       "page_id": "988612857845062",
       "page_name": "陳玉珍 CHEN YU JEN",
@@ -1747,8 +1747,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "2000",
-        "upper_bound": "2499"
+        "lower_bound": "4000",
+        "upper_bound": "4499"
       },
       "ad_id": "765897883892264"
     }
@@ -1770,90 +1770,95 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000393",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.042846",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.10456",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.10207",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.10456",
+          "percentage": "0.075042",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.086216",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.029612",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.144654",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.11098",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.053983",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.135613",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.050314",
+          "percentage": "0.075342",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.033412",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000524",
-          "age": "35-44",
+          "percentage": "0.00018",
+          "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000131",
+          "percentage": "6.0E-5",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000131",
+          "percentage": "0.00036",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000721",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.026496",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.035628",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.075703",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.124429",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.123708",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.088921",
           "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.059962",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.112233",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.099015",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.102139",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "6.0E-5",
+          "age": "65+",
           "gender": "unknown"
         }
       ],
       "funding_entity": "玉珍 陳",
       "impressions": {
-        "lower_bound": "10000",
-        "upper_bound": "14999"
+        "lower_bound": "30000",
+        "upper_bound": "34999"
       },
       "page_id": "988612857845062",
       "page_name": "陳玉珍 CHEN YU JEN",
@@ -1864,8 +1869,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "1000",
-        "upper_bound": "1499"
+        "lower_bound": "4000",
+        "upper_bound": "4499"
       },
       "ad_id": "373290143520883"
     }

@@ -1067,116 +1067,116 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "4.1E-5",
+          "percentage": "3.5E-5",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.101456",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000367",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000122",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000245",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.05921",
-          "age": "18-24",
+          "percentage": "0.099342",
+          "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.112996",
+          "percentage": "0.000141",
           "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.027187",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.116701",
+          "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.083146",
-          "age": "55-64",
+          "percentage": "0.108216",
+          "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.075847",
+          "percentage": "0.072156",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "8.2E-5",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.117889",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.115524",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.028382",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.074134",
+          "percentage": "0.082797",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.089956",
-          "age": "25-34",
+          "percentage": "0.061161",
+          "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.037108",
+          "percentage": "7.1E-5",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.115357",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.036166",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.103332",
-          "age": "45-54",
+          "percentage": "0.079085",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.093156",
+          "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.000163",
+          "percentage": "0.107721",
           "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000106",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000389",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000212",
+          "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "中慨 歐",
       "impressions": {
-        "lower_bound": "125000",
-        "upper_bound": "149999"
+        "lower_bound": "200000",
+        "upper_bound": "249999"
       },
       "page_id": "421230017914887",
       "page_name": "歐中慨",
       "region_distribution": [
         {
-          "percentage": "0.196018",
+          "percentage": "0.217669",
           "region": "Tainan"
         },
         {
-          "percentage": "0.803982",
+          "percentage": "0.782331",
           "region": "Penghu"
         }
       ],
       "spend": {
-        "lower_bound": "15000",
-        "upper_bound": "19999"
+        "lower_bound": "20000",
+        "upper_bound": "24999"
       },
       "ad_id": "711391069350490"
     }
@@ -1422,106 +1422,111 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.00041",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000205",
+          "percentage": "0.00018",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000614",
+          "percentage": "0.079519",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00018",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000539",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000205",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.045054",
-          "age": "25-34",
+          "percentage": "0.024951",
+          "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.128609",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.0641",
+          "percentage": "0.060133",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.169158",
-          "age": "45-54",
+          "percentage": "0.123856",
+          "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.076183",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.026828",
+          "percentage": "0.026207",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.087037",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.134548",
+          "percentage": "0.137139",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.046897",
+          "percentage": "0.00018",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.045952",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.093385",
+          "percentage": "0.090468",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.101372",
+          "percentage": "0.048465",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.102495",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.025394",
-          "age": "18-24",
-          "gender": "female"
+          "percentage": "0.089391",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.169987",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000359",
+          "age": "55-64",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "中慨 歐",
       "impressions": {
-        "lower_bound": "15000",
-        "upper_bound": "19999"
+        "lower_bound": "20000",
+        "upper_bound": "24999"
       },
       "page_id": "421230017914887",
       "page_name": "歐中慨",
       "region_distribution": [
         {
-          "percentage": "0.149773",
+          "percentage": "0.156051",
           "region": "Tainan"
         },
         {
-          "percentage": "0.850227",
+          "percentage": "0.843949",
           "region": "Penghu"
         }
       ],
       "spend": {
-        "lower_bound": "3000",
-        "upper_bound": "3499"
+        "lower_bound": "4000",
+        "upper_bound": "4499"
       },
       "ad_id": "428553758032607"
     }
@@ -1543,93 +1548,219 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.10585",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.022284",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.051532",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.073816",
+          "percentage": "0.000179",
           "age": "35-44",
-          "gender": "female"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.084958",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.07312",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.149721",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.165738",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.021588",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.151811",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.036908",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.061978",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000696",
+          "percentage": "0.000179",
           "age": "25-34",
           "gender": "unknown"
+        },
+        {
+          "percentage": "0.126657",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.149409",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.022752",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.06091",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.13651",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.089036",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.066822",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.117879",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.060373",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.017019",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.077929",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.074346",
+          "age": "55-64",
+          "gender": "male"
         }
       ],
       "funding_entity": "中慨 歐",
       "impressions": {
-        "lower_bound": "1000",
-        "upper_bound": "1999"
+        "lower_bound": "8000",
+        "upper_bound": "8999"
       },
       "page_id": "421230017914887",
       "page_name": "歐中慨",
       "region_distribution": [
         {
-          "percentage": "0.095956",
+          "percentage": "0.103635",
           "region": "Tainan"
         },
         {
-          "percentage": "0.904044",
+          "percentage": "0.896365",
           "region": "Penghu"
         }
       ],
       "spend": {
-        "lower_bound": "0",
-        "upper_bound": "99"
+        "lower_bound": "400",
+        "upper_bound": "499"
       },
       "ad_id": "610259103066251"
+    }
+  },
+  {
+    "選區": "澎湖縣選舉區",
+    "參選人": "歐中慨",
+    "AD_ID": "597490890819284",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-20",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【提高聘僱護理師待遇，優化護病比】 1.約聘護理師底薪應調高。 2.三班制醫事人員應調高夜間值班費。 3.三班制護理師夜間值班費用應調高。 部立澎湖醫院，現行104個護理師當中，就有79個是約聘契約工，正式人員僅佔整體四分之一，這不是醫院的問題，而是行政院過去訂定不負責任條例，導致許多醫院成為血汗醫院，這樣做法不合理也不公平，過往台灣就曾因此出現護理師串聯請辭事件，澎湖三總分院也曾有護理師抗議事件。 約聘護理人員的月薪比正職護理人員低1至2萬元不等，現行制度做法傷害他們權益，造成澎湖護理師流動頻繁，每年都有數十位護理師離職，護病比起伏變動大，鄉親照護也受到影響，中慨建議約聘護理師底薪調高外，以及三班制醫師、護理人員夜間值班費也要調高。 #爭取護理人員權益 #改善護病比提高醫療品質 #深耕開創更好的澎湖",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/79942697_2653499748021225_234275665539497984_n.jpg?_nc_cat=109&_nc_ohc=hvsMSGb_mG4AQkI8trXuznpTGxvZvrrvQ4mCJ3PtVepHzflVWnGfWQvIw&_nc_ht=scontent-hkg3-2.xx&oh=95ddf8f7611e2d9bfe9f6b3502d941f7&oe=5EB1A896",
+    "廣告詳情": {
+      "ad_creative_body": "【提高聘僱護理師待遇，優化護病比】\n\n1.約聘護理師底薪應調高。\n2.三班制醫事人員應調高夜間值班費。\n3.三班制護理師夜間值班費用應調高。\n\n部立澎湖醫院，現行104個護理師當中，就有79個是約聘契約工，正式人員僅佔整體四分之一，這不是醫院的問題，而是行政院過去訂定不負責任條例，導致許多醫院成為血汗醫院，這樣做法不合理也不公平，過往台灣就曾因此出現護理師串聯請辭事件，澎湖三總分院也曾有護理師抗議事件。\n約聘護理人員的月薪比正職護理人員低1至2萬元不等，現行制度做法傷害他們權益，造成澎湖護理師流動頻繁，每年都有數十位護理師離職，護病比起伏變動大，鄉親照護也受到影響，中慨建議約聘護理師底薪調高外，以及三班制醫師、護理人員夜間值班費也要調高。\n\n#爭取護理人員權益\n#改善護病比提高醫療品質\n#深耕開創更好的澎湖",
+      "ad_creation_time": "2020-01-04T08:51:33+0000",
+      "ad_delivery_start_time": "2020-01-04T08:51:33+0000",
+      "ad_delivery_stop_time": "2020-01-11T08:51:21+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000219",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000219",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.035495",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.089176",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.081727",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.064855",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.145048",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.124452",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.156223",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.073181",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.103637",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.030894",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.072524",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.021691",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000438",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000219",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "中慨 歐",
+      "impressions": {
+        "lower_bound": "7000",
+        "upper_bound": "7999"
+      },
+      "page_id": "421230017914887",
+      "page_name": "歐中慨",
+      "region_distribution": [
+        {
+          "percentage": "0.104069",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.895931",
+          "region": "Penghu"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "597490890819284"
     }
   }
 ]

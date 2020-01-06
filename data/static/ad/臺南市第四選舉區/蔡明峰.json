@@ -1300,101 +1300,101 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000336",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.016446",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.013929",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.030206",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.086927",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.233932",
+          "percentage": "0.224399",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.302568",
+          "percentage": "0.303282",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.01997",
+          "percentage": "0.038369",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.263299",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.005873",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.019466",
+          "percentage": "0.033986",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.002517",
-          "age": "65+",
-          "gender": "female"
+          "percentage": "0.226545",
+          "age": "35-44",
+          "gender": "male"
         },
         {
-          "percentage": "0.000168",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.003356",
+          "percentage": "0.007602",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.001007",
+          "percentage": "0.081835",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.022807",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.008139",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.031303",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.015562",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.005098",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000447",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "8.9E-5",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000537",
           "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "明峰 蔡",
       "impressions": {
-        "lower_bound": "7000",
-        "upper_bound": "7999"
+        "lower_bound": "10000",
+        "upper_bound": "14999"
       },
       "page_id": "1718353844877558",
       "page_name": "立委候選人 蔡明峰",
       "region_distribution": [
         {
-          "percentage": "0.000821",
+          "percentage": "0.001009",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.999179",
+          "percentage": "0.998991",
           "region": "Tainan"
         }
       ],
       "spend": {
-        "lower_bound": "500",
-        "upper_bound": "599"
+        "lower_bound": "1000",
+        "upper_bound": "1499"
       },
       "ad_id": "2509713719240889"
     }
@@ -1416,85 +1416,85 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000551",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000184",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.018906",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.326909",
+          "percentage": "0.323624",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.217144",
+          "percentage": "0.079915",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.023944",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.237914",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.234406",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.086087",
-          "age": "45-54",
+          "percentage": "0.017081",
+          "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.259728",
+          "percentage": "0.014793",
           "age": "35-44",
-          "gender": "male"
+          "gender": "female"
         },
         {
-          "percentage": "0.030837",
+          "percentage": "0.030044",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.006424",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.012665",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.002203",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.017438",
+          "percentage": "0.022571",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.016336",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000918",
+          "percentage": "0.000915",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.003671",
+          "percentage": "0.007168",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.003355",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000458",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00366",
           "age": "55-64",
           "gender": "female"
+        },
+        {
+          "percentage": "0.000153",
+          "age": "45-54",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "明峰 蔡",
       "impressions": {
-        "lower_bound": "6000",
-        "upper_bound": "6999"
+        "lower_bound": "8000",
+        "upper_bound": "8999"
       },
       "page_id": "1718353844877558",
       "page_name": "立委候選人 蔡明峰",
@@ -1505,8 +1505,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "500",
-        "upper_bound": "599"
+        "lower_bound": "600",
+        "upper_bound": "699"
       },
       "ad_id": "579798536142508"
     }

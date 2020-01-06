@@ -1212,119 +1212,119 @@
       "ad_creation_time": "2019-12-25T08:06:57+0000",
       "ad_creative_link_title": "【彰化．海線 -恁ㄟ心聲，阮來打拼 】💪🏻💪🏻💪🏻",
       "ad_delivery_start_time": "2019-12-25T08:20:42+0000",
-      "ad_delivery_stop_time": "2020-01-10T14:30:42+0000",
+      "ad_delivery_stop_time": "2020-01-10T13:55:42+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000239",
-          "age": "45-54",
+          "percentage": "0.000199",
+          "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.221781",
-          "age": "45-54",
-          "gender": "male"
+          "percentage": "0.082862",
+          "age": "55-64",
+          "gender": "female"
         },
         {
-          "percentage": "0.004544",
+          "percentage": "0.000149",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.004194",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.002057",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.003539",
+          "percentage": "0.00402",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.031136",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.158887",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.328535",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.018031",
+          "percentage": "0.022831",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.000191",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.044481",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.088531",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.029893",
+          "percentage": "0.030301",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.067677",
+          "percentage": "0.027348",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.313679",
           "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "2.5E-5",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.213346",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.053976",
+          "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.000191",
-          "age": "35-44",
-          "gender": "unknown"
+          "percentage": "0.156045",
+          "age": "65+",
+          "gender": "male"
         },
         {
-          "percentage": "0.000239",
+          "percentage": "0.088669",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000223",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "4.8E-5",
-          "age": "25-34",
+          "percentage": "0.000174",
+          "age": "45-54",
           "gender": "unknown"
+        },
+        {
+          "percentage": "0.00196",
+          "age": "25-34",
+          "gender": "female"
         }
       ],
       "funding_entity": "女育邱",
       "impressions": {
-        "lower_bound": "25000",
-        "upper_bound": "29999"
+        "lower_bound": "60000",
+        "upper_bound": "69999"
       },
       "page_id": "751384364883409",
       "page_name": "柯呈枋",
       "region_distribution": [
         {
-          "percentage": "0.522593",
+          "percentage": "0.506975",
           "region": "Taichung"
         },
         {
-          "percentage": "0.428079",
+          "percentage": "0.440897",
           "region": "Changhua"
         },
         {
-          "percentage": "0.049328",
+          "percentage": "0.052129",
           "region": "Nantou"
         }
       ],
       "spend": {
-        "lower_bound": "1500",
-        "upper_bound": "1999"
+        "lower_bound": "3500",
+        "upper_bound": "3999"
       },
       "ad_id": "2572261309728748"
     }
@@ -1346,118 +1346,118 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000746",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000187",
+          "percentage": "0.000133",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000373",
+          "percentage": "0.000266",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000746",
+          "percentage": "0.000531",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000531",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.159545",
+          "percentage": "0.175252",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.208061",
+          "percentage": "0.215481",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.235678",
+          "percentage": "0.199814",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.125397",
+          "percentage": "0.143123",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.008024",
+          "percentage": "0.007435",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.131928",
+          "percentage": "0.111126",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.055981",
+          "percentage": "0.058948",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.027244",
+          "percentage": "0.033059",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.016421",
+          "percentage": "0.019782",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.019033",
+          "percentage": "0.020181",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.005971",
+          "percentage": "0.009426",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.004665",
+          "percentage": "0.004912",
           "age": "18-24",
           "gender": "female"
         }
       ],
       "funding_entity": "女育邱",
       "impressions": {
-        "lower_bound": "7000",
-        "upper_bound": "7999"
+        "lower_bound": "10000",
+        "upper_bound": "14999"
       },
       "page_id": "751384364883409",
       "page_name": "柯呈枋",
       "region_distribution": [
         {
-          "percentage": "0.408438",
+          "percentage": "0.405693",
           "region": "Taichung"
         },
         {
-          "percentage": "0.405956",
+          "percentage": "0.410579",
           "region": "Changhua"
         },
         {
-          "percentage": "0.008155",
+          "percentage": "0.008429",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.0585",
+          "percentage": "0.060103",
           "region": "Nantou"
         },
         {
-          "percentage": "0.118951",
+          "percentage": "0.115197",
           "region": "Yunlin"
         }
       ],
       "spend": {
-        "lower_bound": "300",
-        "upper_bound": "399"
+        "lower_bound": "500",
+        "upper_bound": "599"
       },
       "ad_id": "447771606131896"
     }
@@ -1475,101 +1475,101 @@
       "ad_creative_body": "#這柯最有力\n#團結挺這柯\n#1090103團結之夜在鹿港\n\n#阿枋 在這裡邀請大家，元月3日(五)晚上06:00 團結之夜在 #鹿港 \n地點: 鹿港農會旁\n\n再5天‼️再5天‼️再5天‼️阿枋相約各位鄉親一同來參與👋🏻👋🏻👋🏻\n現場邀請 #神秘嘉賓 強棒助講🎤\n以及在地台語男歌手- 陳隨意 Tsui-Yi 、便當媽媽歌手- 謝宜君 Yi Chun   ...等 精彩演出🎼🎵\n現場還有雞翅、豆花、肉包，讓我們一起渡過一個暖心❤️、有活力的夜晚🙋🏻‍♂🙋🏻‍♀🙋🏻‍♂🙋🏻‍♀\n\n別忘了下週五晚上6:00我們有約！\n相約各位鄉親來疼惜咱自己在地的子弟，一起來為 阿枋加油打氣🎉🎉🎉\n用行動力給予 阿枋 最大的支持💪🏻💪🏻💪🏻\n唯一支持第一選區 ①號柯呈枋，乎阿枋繼續連任、繼續為鄉親打拼🙆🏻‍♂🙆🏻‍♀",
       "ad_creation_time": "2019-12-29T09:58:50+0000",
       "ad_delivery_start_time": "2019-12-29T13:00:03+0000",
-      "ad_delivery_stop_time": "2020-01-02T13:00:03+0000",
+      "ad_delivery_stop_time": "2020-01-02T15:00:03+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.300833",
+          "percentage": "0.300181",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.126667",
+          "percentage": "0.122363",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.038333",
+          "percentage": "0.033755",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.095833",
+          "percentage": "0.086197",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.0225",
+          "percentage": "0.0217",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.216667",
+          "percentage": "0.221218",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.088333",
+          "percentage": "0.100663",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.004167",
+          "percentage": "0.003617",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.053333",
+          "percentage": "0.056661",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.036667",
+          "percentage": "0.037975",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.0125",
+          "percentage": "0.01085",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.000833",
+          "percentage": "0.000603",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.003333",
+          "percentage": "0.004219",
           "age": "25-34",
           "gender": "female"
         }
       ],
       "funding_entity": "女育邱",
       "impressions": {
-        "lower_bound": "1000",
-        "upper_bound": "1999"
+        "lower_bound": "2000",
+        "upper_bound": "2999"
       },
       "page_id": "751384364883409",
       "page_name": "柯呈枋",
       "region_distribution": [
         {
-          "percentage": "0.454327",
+          "percentage": "0.443622",
           "region": "Taichung"
         },
         {
-          "percentage": "0.370994",
+          "percentage": "0.38041",
           "region": "Changhua"
         },
         {
-          "percentage": "0.009615",
+          "percentage": "0.008542",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.082532",
+          "percentage": "0.085421",
           "region": "Nantou"
         },
         {
-          "percentage": "0.082532",
+          "percentage": "0.082005",
           "region": "Yunlin"
         }
       ],
@@ -1578,6 +1578,115 @@
         "upper_bound": "199"
       },
       "ad_id": "469683763931337"
+    }
+  },
+  {
+    "選區": "彰化縣第一選舉區",
+    "參選人": "柯呈枋",
+    "AD_ID": "490479261590825",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-29",
+    "結束日期": "1970-01-01",
+    "廣告內容": "#這柯最有力 #團結挺這柯 #1090103團結之夜在鹿港 #阿枋 在這裡邀請大家，元月3日(五)晚上06:00 團結之夜在 #鹿港  地點: 鹿港農會旁 再5天‼️再5天‼️再5天‼️阿枋相約各位鄉親一同來參與👋🏻👋🏻👋🏻 現場邀請 #神秘嘉賓 強棒助講🎤 以及在地台語男歌手- 陳隨意 Tsui-Yi 、便當媽媽歌手- 謝宜君 Yi Chun   ...等 精彩演出🎼🎵 現場還有雞翅、豆花、肉包，讓我們一起渡過一個暖心❤️、有活力的夜晚🙋🏻‍♂🙋🏻‍♀🙋🏻‍♂🙋🏻‍♀ 別忘了下週五晚上6:00我們有約！ 相約各位鄉親來疼惜咱自己在地的子弟，一起來為 阿枋加油打氣🎉🎉🎉 用行動力給予 阿枋 最大的支持💪🏻💪🏻💪🏻 唯一支持第一選區 ①號柯呈枋，乎阿枋繼續連任、繼續為鄉親打拼🙆🏻‍♂🙆🏻‍♀",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/81157828_2835644803124011_919224474241335296_n.jpg?_nc_cat=102&_nc_ohc=NZ3PBxupuh4AQnVYhRKD4MNXme-WU7DhZ8kUE9y97IoRyyj1igrZPD-_Q&_nc_ht=scontent-hkg3-1.xx&oh=612d2a602760f31f9ba53e7ca936f90c&oe=5EACAEF7",
+    "廣告詳情": {
+      "ad_creative_body": "#這柯最有力\n#團結挺這柯\n#1090103團結之夜在鹿港\n\n#阿枋 在這裡邀請大家，元月3日(五)晚上06:00 團結之夜在 #鹿港 \n地點: 鹿港農會旁\n\n再5天‼️再5天‼️再5天‼️阿枋相約各位鄉親一同來參與👋🏻👋🏻👋🏻\n現場邀請 #神秘嘉賓 強棒助講🎤\n以及在地台語男歌手- 陳隨意 Tsui-Yi 、便當媽媽歌手- 謝宜君 Yi Chun   ...等 精彩演出🎼🎵\n現場還有雞翅、豆花、肉包，讓我們一起渡過一個暖心❤️、有活力的夜晚🙋🏻‍♂🙋🏻‍♀🙋🏻‍♂🙋🏻‍♀\n\n別忘了下週五晚上6:00我們有約！\n相約各位鄉親來疼惜咱自己在地的子弟，一起來為 阿枋加油打氣🎉🎉🎉\n用行動力給予 阿枋 最大的支持💪🏻💪🏻💪🏻\n唯一支持第一選區 ①號柯呈枋，乎阿枋繼續連任、繼續為鄉親打拼🙆🏻‍♂🙆🏻‍♀",
+      "ad_creation_time": "2020-01-01T05:17:36+0000",
+      "ad_delivery_start_time": "2020-01-01T05:17:36+0000",
+      "ad_delivery_stop_time": "2020-01-02T15:00:03+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.316527",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.05042",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.067227",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.182073",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.098039",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.033613",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.002801",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.145658",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.008403",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.067227",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.014006",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.014006",
+          "age": "18-24",
+          "gender": "male"
+        }
+      ],
+      "funding_entity": "女育邱",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "751384364883409",
+      "page_name": "柯呈枋",
+      "region_distribution": [
+        {
+          "percentage": "0.459384",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.411765",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.05042",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.078431",
+          "region": "Yunlin"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "490479261590825"
     }
   },
   {

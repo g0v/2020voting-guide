@@ -23521,88 +23521,88 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.041585",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.117908",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000146",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000146",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000437",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
           "percentage": "7.3E-5",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.009395",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.009977",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.08885",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.057243",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.022431",
+          "percentage": "0.11555",
           "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.062923",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.067002",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.115651",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.218192",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.187823",
-          "age": "45-54",
           "gender": "male"
         },
         {
           "percentage": "0.000218",
           "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.009387",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.009969",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.041548",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.062868",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.057193",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.022484",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000146",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.18795",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.066943",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.117805",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.088845",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.218438",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000146",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000437",
+          "age": "35-44",
           "gender": "unknown"
         }
       ],
@@ -23615,7 +23615,7 @@
       "page_name": "立法委員林為洲",
       "region_distribution": [
         {
-          "percentage": "0.02529",
+          "percentage": "0.025275",
           "region": "Unknown"
         },
         {
@@ -23623,83 +23623,83 @@
           "region": "Lienchiang"
         },
         {
-          "percentage": "0.017681",
+          "percentage": "0.017671",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.032899",
+          "percentage": "0.032879",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.008623",
+          "percentage": "0.008618",
           "region": "Yilan"
         },
         {
-          "percentage": "0.007971",
+          "percentage": "0.008039",
           "region": "Taitung"
         },
         {
-          "percentage": "0.035435",
+          "percentage": "0.035414",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.003696",
+          "percentage": "0.003694",
           "region": "Penghu"
         },
         {
-          "percentage": "0.018768",
+          "percentage": "0.01883",
           "region": "Nantou"
         },
         {
-          "percentage": "0.034638",
+          "percentage": "0.034618",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.004348",
+          "percentage": "0.004345",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.129493",
+          "percentage": "0.129418",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.013333",
+          "percentage": "0.013326",
           "region": "Hualien"
         },
         {
-          "percentage": "0.006087",
+          "percentage": "0.006083",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.001232",
+          "percentage": "0.001231",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.047609",
+          "percentage": "0.047581",
           "region": "Changhua"
         },
         {
-          "percentage": "0.113696",
+          "percentage": "0.113775",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.127246",
+          "percentage": "0.127462",
           "region": "Taichung"
         },
         {
-          "percentage": "0.139855",
+          "percentage": "0.139774",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.068116",
+          "percentage": "0.068076",
           "region": "Tainan"
         },
         {
-          "percentage": "0.09971",
+          "percentage": "0.099652",
           "region": "Taipei"
         },
         {
-          "percentage": "0.063986",
+          "percentage": "0.063948",
           "region": "Hsinchu City"
         }
       ],
@@ -23742,62 +23742,62 @@
           "gender": "unknown"
         },
         {
-          "percentage": "0.130302",
+          "percentage": "0.130506",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.09468",
+          "percentage": "0.094658",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.080619",
+          "percentage": "0.0806",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.097727",
+          "percentage": "0.097704",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.059527",
+          "percentage": "0.059513",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.091165",
+          "percentage": "0.091143",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.043356",
+          "percentage": "0.043346",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.162409",
+          "percentage": "0.162371",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.091165",
+          "percentage": "0.091143",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.06726",
+          "percentage": "0.067245",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.047106",
+          "percentage": "0.047095",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.033982",
+          "percentage": "0.033974",
           "age": "18-24",
           "gender": "female"
         }
@@ -23811,11 +23811,11 @@
       "page_name": "立法委員林為洲",
       "region_distribution": [
         {
-          "percentage": "0.660324",
+          "percentage": "0.660014",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.339676",
+          "percentage": "0.339986",
           "region": "Hsinchu"
         }
       ],
@@ -23848,9 +23848,9 @@
           "gender": "unknown"
         },
         {
-          "percentage": "0.138414",
-          "age": "45-54",
-          "gender": "male"
+          "percentage": "0.125224",
+          "age": "35-44",
+          "gender": "female"
         },
         {
           "percentage": "0.000326",
@@ -23878,24 +23878,19 @@
           "gender": "male"
         },
         {
-          "percentage": "0.042827",
-          "age": "65+",
+          "percentage": "0.138414",
+          "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.125224",
-          "age": "35-44",
+          "percentage": "0.048852",
+          "age": "65+",
           "gender": "female"
         },
         {
           "percentage": "0.000163",
           "age": "65+",
           "gender": "unknown"
-        },
-        {
-          "percentage": "0.048852",
-          "age": "65+",
-          "gender": "female"
         },
         {
           "percentage": "0.097053",
@@ -23915,6 +23910,11 @@
         {
           "percentage": "0.082886",
           "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.042827",
+          "age": "65+",
           "gender": "male"
         },
         {
@@ -24577,95 +24577,110 @@
       "ad_creative_body": "【林為洲X中正西路長青路口】直播 Live\n\n早安竹北！為洲在老家門口跟好朋友們問好喔😊祝大家上班工作順利。歡迎經過看到我的鄉親朋友可以揮個手跟我打聲招呼喔～\n\n請竹北西區12里的鄉親們，唯ㄧ全力來支持在地西區子弟林為洲，新竹縣第一選區的立法委員登記第1號候選人 您的新竹縣立法委員 敢講肯做 林為洲，拜託🙏感謝！\n\n#唯一支持林為洲\n#竹北西區12里在地子弟\n#中正西路長青路口\n#敢講肯做\n#林為洲",
       "ad_creation_time": "2019-12-31T00:29:11+0000",
       "ad_delivery_start_time": "2019-12-31T00:29:11+0000",
-      "ad_delivery_stop_time": "2020-01-01T00:29:00+0000",
+      "ad_delivery_stop_time": "2020-01-02T19:37:36+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.043093",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.124208",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.233207",
+          "percentage": "0.204731",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.07858",
-          "age": "55-64",
+          "percentage": "0.034148",
+          "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.183777",
+          "percentage": "0.083177",
           "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.115288",
+          "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.087452",
+          "percentage": "0.105107",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.031686",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.060837",
+          "percentage": "0.139724",
           "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.082237",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.041197",
+          "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.073511",
+          "percentage": "0.06438",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.080357",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.036755",
-          "age": "25-34",
+          "percentage": "0.031798",
+          "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.038023",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.007605",
+          "percentage": "0.015508",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.001267",
+          "percentage": "0.001096",
           "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00047",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000627",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000157",
+          "age": "55-64",
           "gender": "unknown"
         }
       ],
       "funding_entity": "為洲 林",
       "impressions": {
-        "lower_bound": "0",
-        "upper_bound": "999"
+        "lower_bound": "8000",
+        "upper_bound": "8999"
       },
       "page_id": "300320033502806",
       "page_name": "立法委員林為洲",
       "region_distribution": [
         {
-          "percentage": "0.467089",
+          "percentage": "0.515913",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.532911",
+          "percentage": "0.484087",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "0",
-        "upper_bound": "99"
+        "lower_bound": "700",
+        "upper_bound": "799"
       },
       "ad_id": "605376183570210"
     }
@@ -24687,86 +24702,106 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.047269",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.138655",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.060924",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.076681",
+          "percentage": "0.084861",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.068277",
+          "percentage": "0.089559",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.179622",
+          "percentage": "0.137445",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.129202",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.017857",
+          "percentage": "0.045461",
           "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.134454",
-          "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.080882",
+          "percentage": "0.126534",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.043067",
+          "percentage": "0.042431",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.152447",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.099409",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.047583",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.023109",
-          "age": "18-24",
+          "percentage": "0.102137",
+          "age": "55-64",
           "gender": "male"
+        },
+        {
+          "percentage": "0.023488",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.047886",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000152",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000152",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000303",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000152",
+          "age": "45-54",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "為洲 林",
       "impressions": {
-        "lower_bound": "1000",
-        "upper_bound": "1999"
+        "lower_bound": "8000",
+        "upper_bound": "8999"
       },
       "page_id": "300320033502806",
       "page_name": "立法委員林為洲",
       "region_distribution": [
         {
-          "percentage": "0.612371",
+          "percentage": "0.644062",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.387629",
+          "percentage": "0.355938",
           "region": "Hsinchu"
         }
       ],
       "spend": {
-        "lower_bound": "100",
-        "upper_bound": "199"
+        "lower_bound": "1000",
+        "upper_bound": "1499"
       },
       "ad_id": "2632987446791855"
     }
@@ -24788,75 +24823,75 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.042524",
+          "percentage": "0.050481",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.39244",
+          "percentage": "0.364313",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.233463",
+          "percentage": "0.206595",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.135631",
+          "percentage": "0.152612",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.10756",
+          "percentage": "0.129413",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.084491",
+          "percentage": "0.093084",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.002223",
+          "percentage": "0.001897",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000278",
+          "percentage": "0.000146",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00139",
+          "percentage": "0.001459",
           "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "為洲 林",
       "impressions": {
-        "lower_bound": "4000",
-        "upper_bound": "4999"
+        "lower_bound": "9000",
+        "upper_bound": "9999"
       },
       "page_id": "300320033502806",
       "page_name": "立法委員林為洲",
       "region_distribution": [
         {
-          "percentage": "0.381656",
+          "percentage": "0.415567",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.556733",
+          "percentage": "0.530764",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.061611",
+          "percentage": "0.053669",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "400",
-        "upper_bound": "499"
+        "lower_bound": "1000",
+        "upper_bound": "1499"
       },
       "ad_id": "564702750777557"
     }
@@ -24878,61 +24913,61 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.147965",
+          "percentage": "0.153654",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.374217",
+          "percentage": "0.365201",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.05167",
+          "percentage": "0.062275",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.181889",
+          "percentage": "0.162416",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.095772",
+          "percentage": "0.09529",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.147443",
+          "percentage": "0.160225",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.001044",
+          "percentage": "0.000939",
           "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "為洲 林",
       "impressions": {
-        "lower_bound": "4000",
-        "upper_bound": "4999"
+        "lower_bound": "7000",
+        "upper_bound": "7999"
       },
       "page_id": "300320033502806",
       "page_name": "立法委員林為洲",
       "region_distribution": [
         {
-          "percentage": "0.876838",
+          "percentage": "0.854897",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.123162",
+          "percentage": "0.145103",
           "region": "Hsinchu"
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
+        "lower_bound": "500",
+        "upper_bound": "599"
       },
       "ad_id": "2225389807761930"
     }
@@ -24954,120 +24989,120 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000108",
+          "percentage": "0.000194",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.041824",
+          "percentage": "0.048596",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.00097",
+          "percentage": "0.000776",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000755",
+          "percentage": "0.000971",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.016708",
+          "percentage": "0.022195",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.008085",
+          "percentage": "0.011906",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.03223",
+          "percentage": "0.037984",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.000431",
+          "percentage": "0.000582",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.028673",
+          "percentage": "0.038566",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.000108",
+          "percentage": "0.000129",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.021666",
+          "percentage": "0.024266",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.030506",
+          "percentage": "0.037013",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.0899",
+          "percentage": "0.095962",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.17635",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.305702",
+          "percentage": "0.268992",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.177751",
+          "percentage": "0.163776",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.067802",
+          "percentage": "0.076226",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.000431",
+          "percentage": "0.171541",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000324",
           "age": "55-64",
           "gender": "unknown"
         }
       ],
       "funding_entity": "為洲 林",
       "impressions": {
-        "lower_bound": "10000",
-        "upper_bound": "14999"
+        "lower_bound": "15000",
+        "upper_bound": "19999"
       },
       "page_id": "300320033502806",
       "page_name": "立法委員林為洲",
       "region_distribution": [
         {
-          "percentage": "0.557547",
+          "percentage": "0.567548",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.121215",
+          "percentage": "0.121152",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.321237",
+          "percentage": "0.3113",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "1000",
-        "upper_bound": "1499"
+        "lower_bound": "2000",
+        "upper_bound": "2499"
       },
       "ad_id": "2477584822559448"
     }
@@ -25092,177 +25127,181 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000445",
+          "percentage": "0.000436",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.109677",
+          "percentage": "0.097997",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.111353",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.047831",
+          "percentage": "0.045732",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.096107",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.1802",
+          "percentage": "0.18583",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.179088",
+          "percentage": "0.171893",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.292325",
+          "percentage": "0.291521",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.037375",
+          "percentage": "0.037166",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.016908",
+          "percentage": "0.017422",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.013126",
+          "percentage": "0.013792",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.007119",
+          "percentage": "0.00784",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.014238",
+          "percentage": "0.012921",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.000222",
+          "percentage": "0.000145",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.004894",
+          "percentage": "0.005517",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.000445",
+          "percentage": "0.000436",
           "age": "55-64",
           "gender": "unknown"
         }
       ],
       "funding_entity": "為洲 林",
       "impressions": {
-        "lower_bound": "5000",
-        "upper_bound": "5999"
+        "lower_bound": "8000",
+        "upper_bound": "8999"
       },
       "page_id": "300320033502806",
       "page_name": "立法委員林為洲",
       "region_distribution": [
         {
-          "percentage": "0.022178",
-          "region": "Unknown"
+          "percentage": "0.000146",
+          "region": "Lienchiang"
         },
         {
-          "percentage": "0.003105",
+          "percentage": "0.003352",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.017964",
+          "percentage": "0.018071",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.023952",
+          "percentage": "0.02186",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.008428",
+          "percentage": "0.008744",
           "region": "Yilan"
         },
         {
-          "percentage": "0.006653",
+          "percentage": "0.007432",
           "region": "Taitung"
         },
         {
-          "percentage": "0.023509",
+          "percentage": "0.02288",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.004436",
+          "percentage": "0.004663",
           "region": "Penghu"
         },
         {
-          "percentage": "0.020404",
+          "percentage": "0.019674",
           "region": "Nantou"
         },
         {
-          "percentage": "0.020404",
+          "percentage": "0.022151",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.010202",
+          "percentage": "0.010055",
           "region": "Hualien"
         },
         {
-          "percentage": "0.133954",
-          "region": "Kaohsiung"
+          "percentage": "0.020839",
+          "region": "Unknown"
         },
         {
-          "percentage": "0.00754",
+          "percentage": "0.006412",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.001774",
+          "percentage": "0.001457",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.031714",
+          "percentage": "0.035121",
           "region": "Changhua"
         },
         {
-          "percentage": "0.142825",
+          "percentage": "0.144564",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.136616",
+          "percentage": "0.132031",
           "region": "Taichung"
         },
         {
-          "percentage": "0.137059",
+          "percentage": "0.130866",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.068973",
+          "percentage": "0.068202",
           "region": "Tainan"
         },
         {
-          "percentage": "0.133289",
+          "percentage": "0.134072",
           "region": "Taipei"
         },
         {
-          "percentage": "0.045021",
+          "percentage": "0.141212",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.046196",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "600",
-        "upper_bound": "699"
+        "lower_bound": "1000",
+        "upper_bound": "1499"
       },
       "ad_id": "630648561013496"
     }
@@ -25284,66 +25323,71 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.00056",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.00028",
+          "percentage": "0.000205",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.18757",
+          "percentage": "0.000205",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000819",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.188038",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.341825",
+          "percentage": "0.331626",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.119541",
+          "percentage": "0.126997",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.108903",
+          "percentage": "0.11696",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.173852",
+          "percentage": "0.165096",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.067469",
+          "percentage": "0.070053",
           "age": "18-24",
           "gender": "female"
         }
       ],
       "funding_entity": "為洲 林",
       "impressions": {
-        "lower_bound": "4000",
-        "upper_bound": "4999"
+        "lower_bound": "7000",
+        "upper_bound": "7999"
       },
       "page_id": "300320033502806",
       "page_name": "立法委員林為洲",
       "region_distribution": [
         {
-          "percentage": "0.955451",
+          "percentage": "0.955426",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.044549",
+          "percentage": "0.044574",
           "region": "Hsinchu"
         }
       ],
       "spend": {
-        "lower_bound": "300",
-        "upper_bound": "399"
+        "lower_bound": "500",
+        "upper_bound": "599"
       },
       "ad_id": "759256127818016"
     }
@@ -25365,196 +25409,196 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "6.3E-5",
-          "age": "25-34",
+          "percentage": "0.00017",
+          "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.03552",
+          "percentage": "0.036155",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.00019",
+          "percentage": "0.00017",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00019",
+          "percentage": "0.00017",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.016559",
+          "percentage": "0.016635",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.098281",
+          "percentage": "0.099864",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.008532",
+          "percentage": "0.008374",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.050057",
+          "percentage": "0.049168",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.00948",
+          "percentage": "0.009788",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.000126",
-          "age": "45-54",
+          "percentage": "5.7E-5",
+          "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.242194",
+          "percentage": "0.240466",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.066174",
+          "percentage": "0.066595",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.112691",
+          "percentage": "0.112878",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.105296",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.072936",
+          "percentage": "0.073215",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.181456",
+          "percentage": "0.180661",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "6.3E-5",
+          "percentage": "0.105352",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "5.7E-5",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00019",
+          "percentage": "0.000226",
           "age": "55-64",
           "gender": "unknown"
         }
       ],
       "funding_entity": "為洲 林",
       "impressions": {
-        "lower_bound": "15000",
-        "upper_bound": "19999"
+        "lower_bound": "20000",
+        "upper_bound": "24999"
       },
       "page_id": "300320033502806",
       "page_name": "立法委員林為洲",
       "region_distribution": [
         {
-          "percentage": "0.020503",
+          "percentage": "0.02066",
           "region": "Unknown"
         },
         {
-          "percentage": "0.000315",
+          "percentage": "0.000396",
           "region": "Lienchiang"
         },
         {
-          "percentage": "0.016718",
+          "percentage": "0.016415",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.029083",
+          "percentage": "0.030282",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.008201",
+          "percentage": "0.008434",
           "region": "Yilan"
         },
         {
-          "percentage": "0.009463",
+          "percentage": "0.009849",
           "region": "Taitung"
         },
         {
-          "percentage": "0.032932",
+          "percentage": "0.033339",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.003975",
+          "percentage": "0.003792",
           "region": "Penghu"
         },
         {
-          "percentage": "0.021134",
+          "percentage": "0.021169",
           "region": "Nantou"
         },
         {
-          "percentage": "0.036023",
+          "percentage": "0.036113",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.004164",
+          "percentage": "0.004585",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.122137",
+          "percentage": "0.123847",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.013438",
+          "percentage": "0.013924",
           "region": "Hualien"
         },
         {
-          "percentage": "0.010725",
+          "percentage": "0.010472",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.001577",
+          "percentage": "0.001641",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.043089",
+          "percentage": "0.043754",
           "region": "Changhua"
         },
         {
-          "percentage": "0.108637",
+          "percentage": "0.108677",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.12586",
+          "percentage": "0.125149",
           "region": "Taichung"
         },
         {
-          "percentage": "0.157656",
+          "percentage": "0.153507",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.060627",
+          "percentage": "0.060735",
           "region": "Tainan"
         },
         {
-          "percentage": "0.094253",
+          "percentage": "0.09481",
           "region": "Taipei"
         },
         {
-          "percentage": "0.07949",
+          "percentage": "0.078451",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "1500",
-        "upper_bound": "1999"
+        "lower_bound": "2000",
+        "upper_bound": "2499"
       },
       "ad_id": "1033998756960110"
     }
@@ -25576,43 +25620,43 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000413",
+          "percentage": "0.000411",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000413",
+          "percentage": "0.000411",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.231818",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.259091",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.168182",
+          "percentage": "0.168858",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.088017",
-          "age": "35-44",
+          "percentage": "0.127362",
+          "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.124793",
+          "percentage": "0.125308",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.127273",
+          "percentage": "0.258012",
           "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.232128",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.08751",
+          "age": "35-44",
           "gender": "female"
         }
       ],
@@ -25625,11 +25669,11 @@
       "page_name": "立法委員林為洲",
       "region_distribution": [
         {
-          "percentage": "0.910182",
+          "percentage": "0.910399",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.089818",
+          "percentage": "0.089601",
           "region": "Hsinchu"
         }
       ],
@@ -25638,6 +25682,1254 @@
         "upper_bound": "1499"
       },
       "ad_id": "450624255632745"
+    }
+  },
+  {
+    "選區": "新竹縣第一選舉區",
+    "參選人": "林為洲",
+    "AD_ID": "459283385008015",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【林為洲X 新豐建興路榮華街口】直播 Live 天色漸亮☀️新豐的好朋友們早安！今天是美好的一天，為洲現在在建興路榮華路口跟大家問好囉😊歡迎經過看到我的鄉親朋友可以揮個手跟我打聲招呼喔👋 懇託明年1月11日總統堅定支持國民黨提名韓國瑜，以及唯一支持新竹縣第一選區的立法委員登記第1號候選人 您的新竹縣立法委員 敢講肯做 林為洲，拜託🙏承蒙你！ #2020111唯一支持林為洲 #建興路一段榮華路口 #敢講肯做 #林為洲",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81736662_2632989173458349_3661198691986833408_n.jpg?_nc_cat=106&_nc_ohc=PkFWIg6K19sAQnihFJxRvUbEU6iq3D1ZAXXHfbvv2E_-rZQ0AqFP00x1A&_nc_ht=scontent-hkg3-1.xx&oh=31ad9cf99a11631dfb6c6b92353adead&oe=5E9C0A7E",
+    "廣告詳情": {
+      "ad_creative_body": "【林為洲X 新豐建興路榮華街口】直播 Live\n\n天色漸亮☀️新豐的好朋友們早安！今天是美好的一天，為洲現在在建興路榮華路口跟大家問好囉😊歡迎經過看到我的鄉親朋友可以揮個手跟我打聲招呼喔👋\n\n懇託明年1月11日總統堅定支持國民黨提名韓國瑜，以及唯一支持新竹縣第一選區的立法委員登記第1號候選人 您的新竹縣立法委員 敢講肯做 林為洲，拜託🙏承蒙你！\n\n#2020111唯一支持林為洲\n#建興路一段榮華路口\n#敢講肯做\n#林為洲",
+      "ad_creation_time": "2020-01-02T06:29:05+0000",
+      "ad_delivery_start_time": "2020-01-02T06:29:05+0000",
+      "ad_delivery_stop_time": "2020-01-03T06:28:54+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.12069",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.12069",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.12931",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.060345",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.094828",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.051724",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.267241",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.034483",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.025862",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.060345",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.025862",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.008621",
+          "age": "65+",
+          "gender": "male"
+        }
+      ],
+      "funding_entity": "為洲 林",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "300320033502806",
+      "page_name": "立法委員林為洲",
+      "region_distribution": [
+        {
+          "percentage": "0.706897",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.293103",
+          "region": "Hsinchu"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "459283385008015"
+    }
+  },
+  {
+    "選區": "新竹縣第一選舉區",
+    "參選人": "林為洲",
+    "AD_ID": "1292689254237333",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【林為洲X 新豐建興路榮華街口】直播 Live 天色漸亮☀️新豐的好朋友們早安！今天是美好的一天，為洲現在在建興路榮華路口跟大家問好囉😊歡迎經過看到我的鄉親朋友可以揮個手跟我打聲招呼喔👋 懇託明年1月11日總統堅定支持國民黨提名韓國瑜，以及唯一支持新竹縣第一選區的立法委員登記第1號候選人 您的新竹縣立法委員 敢講肯做 林為洲，拜託🙏承蒙你！ #2020111唯一支持林為洲 #建興路一段榮華路口 #敢講肯做 #林為洲",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81736662_2632989173458349_3661198691986833408_n.jpg?_nc_cat=106&_nc_ohc=PkFWIg6K19sAQnihFJxRvUbEU6iq3D1ZAXXHfbvv2E_-rZQ0AqFP00x1A&_nc_ht=scontent-hkg3-1.xx&oh=31ad9cf99a11631dfb6c6b92353adead&oe=5E9C0A7E",
+    "廣告詳情": {
+      "ad_creative_body": "【林為洲X 新豐建興路榮華街口】直播 Live\n\n天色漸亮☀️新豐的好朋友們早安！今天是美好的一天，為洲現在在建興路榮華路口跟大家問好囉😊歡迎經過看到我的鄉親朋友可以揮個手跟我打聲招呼喔👋\n\n懇託明年1月11日總統堅定支持國民黨提名韓國瑜，以及唯一支持新竹縣第一選區的立法委員登記第1號候選人 您的新竹縣立法委員 敢講肯做 林為洲，拜託🙏承蒙你！\n\n#2020111唯一支持林為洲\n#建興路一段榮華路口\n#敢講肯做\n#林為洲",
+      "ad_creation_time": "2020-01-01T06:00:56+0000",
+      "ad_delivery_start_time": "2020-01-01T06:00:56+0000",
+      "ad_delivery_stop_time": "2020-01-02T06:00:46+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.189781",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.233349",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.037865",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.089188",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.090328",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.096259",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.050182",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.043111",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.097172",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.016423",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.017564",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000456",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.037637",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000228",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000228",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000228",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "為洲 林",
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "page_id": "300320033502806",
+      "page_name": "立法委員林為洲",
+      "region_distribution": [
+        {
+          "percentage": "0.611302",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.364447",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.024251",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "1292689254237333"
+    }
+  },
+  {
+    "選區": "新竹縣第一選舉區",
+    "參選人": "林為洲",
+    "AD_ID": "594710788021937",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "開始上的電視短片，請多指教（但臉好黑）！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81630605_913082915775708_4945317119475580928_n.jpg?_nc_cat=108&_nc_ohc=2nGZnGF_3qgAQl0IJe-FRDT6uOvHGfUoqi6-TRq84ccqklSvu_XNvMECg&_nc_ht=scontent-hkg3-1.xx&oh=4c6f34d491edffc827b056224182e439&oe=5E65FD61",
+    "廣告詳情": {
+      "ad_creative_body": "開始上的電視短片，請多指教（但臉好黑）！",
+      "ad_creation_time": "2020-01-04T07:29:19+0000",
+      "ad_delivery_start_time": "2020-01-04T07:29:19+0000",
+      "ad_delivery_stop_time": "2020-01-05T07:29:07+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.150671",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.182789",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.364916",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.142169",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.090969",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.066314",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001039",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001039",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "9.4E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "為洲 林",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "300320033502806",
+      "page_name": "立法委員林為洲",
+      "region_distribution": [
+        {
+          "percentage": "0.915586",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.084414",
+          "region": "Hsinchu"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2000",
+        "upper_bound": "2499"
+      },
+      "ad_id": "594710788021937"
+    }
+  },
+  {
+    "選區": "新竹縣第一選舉區",
+    "參選人": "林為洲",
+    "AD_ID": "1430924627061993",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "開始上的電視短片，請多指教（但臉好黑）！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81630605_913082915775708_4945317119475580928_n.jpg?_nc_cat=108&_nc_ohc=2nGZnGF_3qgAQl0IJe-FRDT6uOvHGfUoqi6-TRq84ccqklSvu_XNvMECg&_nc_ht=scontent-hkg3-1.xx&oh=4c6f34d491edffc827b056224182e439&oe=5E65FD61",
+    "廣告詳情": {
+      "ad_creative_body": "開始上的電視短片，請多指教（但臉好黑）！",
+      "ad_creation_time": "2019-12-31T12:53:37+0000",
+      "ad_delivery_start_time": "2019-12-31T12:53:37+0000",
+      "ad_delivery_stop_time": "2020-01-02T20:01:21+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.23419",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.018721",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000604",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "8.6E-5",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "8.6E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00082",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000259",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.005867",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.009318",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.035502",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.02627",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.12514",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.056207",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.020016",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.150979",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.255241",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.060564",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000129",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "為洲 林",
+      "impressions": {
+        "lower_bound": "25000",
+        "upper_bound": "29999"
+      },
+      "page_id": "300320033502806",
+      "page_name": "立法委員林為洲",
+      "region_distribution": [
+        {
+          "percentage": "0.029475",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.026195",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.06715",
+          "region": "Hsinchu City"
+        },
+        {
+          "percentage": "0.012947",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.034309",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.011307",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.013551",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.032496",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.004618",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.017046",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.004618",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.121051",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.018341",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.005308",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.00246",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.040653",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.092741",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.130804",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.09697",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.091403",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.145909",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.000647",
+          "region": "Lienchiang"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1500",
+        "upper_bound": "1999"
+      },
+      "ad_id": "1430924627061993"
+    }
+  },
+  {
+    "選區": "新竹縣第一選舉區",
+    "參選人": "林為洲",
+    "AD_ID": "477383312966794",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【爭取台一線路燈改善計畫】 選戰在跑，服務不變 新竹縣湖口鄉台1線中央分隔島上的路燈，已使用逾三十年，常有民眾反映，省道台一線湖口與楊梅交界處，夜間開車從楊梅回到湖口後路燈亮度會明顯灰暗許多，視線不佳很有可能會直接影響行車安全。 歸咎原因乃是因為台一線在桃園市段是使用LED路燈，但新竹縣段卻依舊使用水銀舊式路燈，距離只有一線之隔卻有如此巨大的城鄉差距，行經車輛明顯感受到照明亮度的差異，為了保障用路人的安全，我們今天特地邀請交通部公路總局、新竹縣湖口鄉公所到現地會勘，會勘後公路總局、鄉公所都同意一起協助改善，由新竹縣湖口鄉公所路燈改善提報計畫送交交通部公路總局核撥經費改善，再請交通部提撥經費與縣府、鄉公所共同負擔配合，一起還給大家一個安全回家明亮的道路。 林為洲服務團隊 #改善路燈 #城鄉差距 #補助不分藍綠 #新竹縣第一選區一號 #敢講肯做 #林為洲",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/81950323_1318246985043434_8226550079238963200_n.jpg?_nc_cat=102&_nc_ohc=bnfuzY2J6ZUAQnyiTYl09I1mJJUrXwRYQ20P-KVRpvlFOWeO5WSytPnSg&_nc_ht=scontent-hkg3-1.xx&oh=6c078186eb2667aafaf2d37eb82451c2&oe=5E6B4E42",
+    "廣告詳情": {
+      "ad_creative_body": "【爭取台一線路燈改善計畫】\n\n選戰在跑，服務不變\n\n新竹縣湖口鄉台1線中央分隔島上的路燈，已使用逾三十年，常有民眾反映，省道台一線湖口與楊梅交界處，夜間開車從楊梅回到湖口後路燈亮度會明顯灰暗許多，視線不佳很有可能會直接影響行車安全。\n\n歸咎原因乃是因為台一線在桃園市段是使用LED路燈，但新竹縣段卻依舊使用水銀舊式路燈，距離只有一線之隔卻有如此巨大的城鄉差距，行經車輛明顯感受到照明亮度的差異，為了保障用路人的安全，我們今天特地邀請交通部公路總局、新竹縣湖口鄉公所到現地會勘，會勘後公路總局、鄉公所都同意一起協助改善，由新竹縣湖口鄉公所路燈改善提報計畫送交交通部公路總局核撥經費改善，再請交通部提撥經費與縣府、鄉公所共同負擔配合，一起還給大家一個安全回家明亮的道路。\n\n林為洲服務團隊\n\n#改善路燈\n#城鄉差距\n#補助不分藍綠\n#新竹縣第一選區一號\n#敢講肯做\n#林為洲",
+      "ad_creation_time": "2020-01-01T19:36:16+0000",
+      "ad_delivery_start_time": "2020-01-01T19:36:16+0000",
+      "ad_delivery_stop_time": "2020-01-02T19:36:03+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.108961",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.194265",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.078853",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.148387",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.187097",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.010036",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.035842",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.076703",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.095341",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.010753",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.029391",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.022939",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000717",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000717",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "為洲 林",
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "1999"
+      },
+      "page_id": "300320033502806",
+      "page_name": "立法委員林為洲",
+      "region_distribution": [
+        {
+          "percentage": "0.948201",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.051799",
+          "region": "Hsinchu"
+        }
+      ],
+      "spend": {
+        "lower_bound": "200",
+        "upper_bound": "299"
+      },
+      "ad_id": "477383312966794"
+    }
+  },
+  {
+    "選區": "新竹縣第一選舉區",
+    "參選人": "林為洲",
+    "AD_ID": "2407419142906476",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【爭取台一線路燈改善計畫】 選戰在跑，服務不變 新竹縣湖口鄉台1線中央分隔島上的路燈，已使用逾三十年，常有民眾反映，省道台一線湖口與楊梅交界處，夜間開車從楊梅回到湖口後路燈亮度會明顯灰暗許多，視線不佳很有可能會直接影響行車安全。 歸咎原因乃是因為台一線在桃園市段是使用LED路燈，但新竹縣段卻依舊使用水銀舊式路燈，距離只有一線之隔卻有如此巨大的城鄉差距，行經車輛明顯感受到照明亮度的差異，為了保障用路人的安全，我們今天特地邀請交通部公路總局、新竹縣湖口鄉公所到現地會勘，會勘後公路總局、鄉公所都同意一起協助改善，由新竹縣湖口鄉公所路燈改善提報計畫送交交通部公路總局核撥經費改善，再請交通部提撥經費與縣府、鄉公所共同負擔配合，一起還給大家一個安全回家明亮的道路。 林為洲服務團隊 #改善路燈 #城鄉差距 #補助不分藍綠 #新竹縣第一選區一號 #敢講肯做 #林為洲",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/81950323_1318246985043434_8226550079238963200_n.jpg?_nc_cat=102&_nc_ohc=bnfuzY2J6ZUAQnyiTYl09I1mJJUrXwRYQ20P-KVRpvlFOWeO5WSytPnSg&_nc_ht=scontent-hkg3-1.xx&oh=6c078186eb2667aafaf2d37eb82451c2&oe=5E6B4E42",
+    "廣告詳情": {
+      "ad_creative_body": "【爭取台一線路燈改善計畫】\n\n選戰在跑，服務不變\n\n新竹縣湖口鄉台1線中央分隔島上的路燈，已使用逾三十年，常有民眾反映，省道台一線湖口與楊梅交界處，夜間開車從楊梅回到湖口後路燈亮度會明顯灰暗許多，視線不佳很有可能會直接影響行車安全。\n\n歸咎原因乃是因為台一線在桃園市段是使用LED路燈，但新竹縣段卻依舊使用水銀舊式路燈，距離只有一線之隔卻有如此巨大的城鄉差距，行經車輛明顯感受到照明亮度的差異，為了保障用路人的安全，我們今天特地邀請交通部公路總局、新竹縣湖口鄉公所到現地會勘，會勘後公路總局、鄉公所都同意一起協助改善，由新竹縣湖口鄉公所路燈改善提報計畫送交交通部公路總局核撥經費改善，再請交通部提撥經費與縣府、鄉公所共同負擔配合，一起還給大家一個安全回家明亮的道路。\n\n林為洲服務團隊\n\n#改善路燈\n#城鄉差距\n#補助不分藍綠\n#新竹縣第一選區一號\n#敢講肯做\n#林為洲",
+      "ad_creation_time": "2019-12-31T12:57:52+0000",
+      "ad_delivery_start_time": "2019-12-31T12:57:52+0000",
+      "ad_delivery_stop_time": "2020-01-01T12:57:40+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.287925",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.140612",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.120994",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.198855",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.107104",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.14317",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000853",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000487",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "為洲 林",
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "300320033502806",
+      "page_name": "立法委員林為洲",
+      "region_distribution": [
+        {
+          "percentage": "0.943065",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.056935",
+          "region": "Hsinchu"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "2407419142906476"
+    }
+  },
+  {
+    "選區": "新竹縣第一選舉區",
+    "參選人": "林為洲",
+    "AD_ID": "610380156439162",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-29",
+    "結束日期": "2019-12-30",
+    "廣告內容": "今早回到出生地老家，站路口拜票。之後跟阿母說明。 氣溫驟降，注意保暖，祝福大家！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/82107119_1318122915055841_9210741856592199680_n.jpg?_nc_cat=101&_nc_ohc=-zUdv8iSJ48AQlumOqVbhbm6X5jdZUDsOrl4sQa6tx8nDteK4CEAUE4-A&_nc_ht=scontent-hkg3-1.xx&oh=3ceeb9d7cc9c26b44fd308d5341d2d98&oe=5E9DCD02",
+    "廣告詳情": {
+      "ad_creative_body": "今早回到出生地老家，站路口拜票。之後跟阿母說明。\n\n氣溫驟降，注意保暖，祝福大家！",
+      "ad_creation_time": "2020-01-01T08:00:16+0000",
+      "ad_delivery_start_time": "2020-01-01T08:00:16+0000",
+      "ad_delivery_stop_time": "2020-01-02T07:59:54+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.204161",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.0638",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.024133",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.039945",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.149792",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.135922",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.061304",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.052982",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.135645",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.085714",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.029681",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001664",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.013315",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001387",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000277",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000277",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "為洲 林",
+      "impressions": {
+        "lower_bound": "4000",
+        "upper_bound": "4999"
+      },
+      "page_id": "300320033502806",
+      "page_name": "立法委員林為洲",
+      "region_distribution": [
+        {
+          "percentage": "0.009139",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.941291",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.049571",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "610380156439162"
+    }
+  },
+  {
+    "選區": "新竹縣第一選舉區",
+    "參選人": "林為洲",
+    "AD_ID": "518675728856512",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-29",
+    "結束日期": "2019-12-30",
+    "廣告內容": "今早回到出生地老家，站路口拜票。之後跟阿母說明。 氣溫驟降，注意保暖，祝福大家！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/82107119_1318122915055841_9210741856592199680_n.jpg?_nc_cat=101&_nc_ohc=-zUdv8iSJ48AQlumOqVbhbm6X5jdZUDsOrl4sQa6tx8nDteK4CEAUE4-A&_nc_ht=scontent-hkg3-1.xx&oh=3ceeb9d7cc9c26b44fd308d5341d2d98&oe=5E9DCD02",
+    "廣告詳情": {
+      "ad_creative_body": "今早回到出生地老家，站路口拜票。之後跟阿母說明。\n\n氣溫驟降，注意保暖，祝福大家！",
+      "ad_creation_time": "2019-12-31T07:29:49+0000",
+      "ad_delivery_start_time": "2019-12-31T07:29:49+0000",
+      "ad_delivery_stop_time": "2020-01-01T07:29:35+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.175201",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.084309",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.14594",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.141734",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.274506",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.176847",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000732",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000549",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000183",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "為洲 林",
+      "impressions": {
+        "lower_bound": "6000",
+        "upper_bound": "6999"
+      },
+      "page_id": "300320033502806",
+      "page_name": "立法委員林為洲",
+      "region_distribution": [
+        {
+          "percentage": "0.007815",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.352963",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.639222",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "518675728856512"
+    }
+  },
+  {
+    "選區": "新竹縣第一選舉區",
+    "參選人": "林為洲",
+    "AD_ID": "468900540715604",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-29",
+    "結束日期": "2019-12-30",
+    "廣告內容": "[林為洲X新豐鳳蓮宮市場］直播ing 為洲再次來到新豐鄉鳳蓮宮市場跟各位新豐的鄉親好朋友們懇託問好囉! 拜託大家明年1月11日總統唯一支持國民黨提名韓國瑜，以及全力來支持新竹縣第一選區的立法委員登記第1號候選人 您的新竹縣立法委員 敢講肯做 林為洲，拜託🙏承蒙你！ #唯一支持林為洲 #鳳蓮宮市場 #敢講肯做 #林為洲",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81741963_459003471698614_5639161939318800384_n.jpg?_nc_cat=106&_nc_ohc=P8SfKRx3bq8AQmFABMpYD7PisCCmp0u4Q5NXbeiZHovUSY5fk2VCAqP3w&_nc_ht=scontent-hkg3-1.xx&oh=1e69995ee3222197d8577a1da37a8717&oe=5EA209CC",
+    "廣告詳情": {
+      "ad_creative_body": "[林為洲X新豐鳳蓮宮市場］直播ing\n\n為洲再次來到新豐鄉鳳蓮宮市場跟各位新豐的鄉親好朋友們懇託問好囉!\n\n拜託大家明年1月11日總統唯一支持國民黨提名韓國瑜，以及全力來支持新竹縣第一選區的立法委員登記第1號候選人 您的新竹縣立法委員 敢講肯做 林為洲，拜託🙏承蒙你！\n\n#唯一支持林為洲\n#鳳蓮宮市場\n#敢講肯做\n#林為洲",
+      "ad_creation_time": "2020-01-02T01:51:39+0000",
+      "ad_delivery_start_time": "2020-01-02T01:51:39+0000",
+      "ad_delivery_stop_time": "2020-01-03T01:51:27+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.119416",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.039519",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.109107",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.072165",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.079897",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.044674",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.133162",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.146048",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.091924",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.085052",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.026632",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.051546",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000859",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "為洲 林",
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "1999"
+      },
+      "page_id": "300320033502806",
+      "page_name": "立法委員林為洲",
+      "region_distribution": [
+        {
+          "percentage": "0.187447",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.812553",
+          "region": "Hsinchu"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "199"
+      },
+      "ad_id": "468900540715604"
+    }
+  },
+  {
+    "選區": "新竹縣第一選舉區",
+    "參選人": "林為洲",
+    "AD_ID": "607959299958652",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-29",
+    "結束日期": "2019-12-30",
+    "廣告內容": "[林為洲X新豐鳳蓮宮市場］直播ing 為洲再次來到新豐鄉鳳蓮宮市場跟各位新豐的鄉親好朋友們懇託問好囉! 拜託大家明年1月11日總統唯一支持國民黨提名韓國瑜，以及全力來支持新竹縣第一選區的立法委員登記第1號候選人 您的新竹縣立法委員 敢講肯做 林為洲，拜託🙏承蒙你！ #唯一支持林為洲 #鳳蓮宮市場 #敢講肯做 #林為洲",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81741963_459003471698614_5639161939318800384_n.jpg?_nc_cat=106&_nc_ohc=P8SfKRx3bq8AQmFABMpYD7PisCCmp0u4Q5NXbeiZHovUSY5fk2VCAqP3w&_nc_ht=scontent-hkg3-1.xx&oh=1e69995ee3222197d8577a1da37a8717&oe=5EA209CC",
+    "廣告詳情": {
+      "ad_creative_body": "[林為洲X新豐鳳蓮宮市場］直播ing\n\n為洲再次來到新豐鄉鳳蓮宮市場跟各位新豐的鄉親好朋友們懇託問好囉!\n\n拜託大家明年1月11日總統唯一支持國民黨提名韓國瑜，以及全力來支持新竹縣第一選區的立法委員登記第1號候選人 您的新竹縣立法委員 敢講肯做 林為洲，拜託🙏承蒙你！\n\n#唯一支持林為洲\n#鳳蓮宮市場\n#敢講肯做\n#林為洲",
+      "ad_creation_time": "2019-12-31T13:50:00+0000",
+      "ad_delivery_start_time": "2019-12-31T13:50:00+0000",
+      "ad_delivery_stop_time": "2020-01-01T13:49:49+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.110363",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.084076",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.082338",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.154899",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.042364",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.11536",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.084945",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.117749",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.063002",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.062351",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.047578",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.034108",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000217",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000652",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "為洲 林",
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "page_id": "300320033502806",
+      "page_name": "立法委員林為洲",
+      "region_distribution": [
+        {
+          "percentage": "0.350621",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.649379",
+          "region": "Hsinchu"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "607959299958652"
+    }
+  },
+  {
+    "選區": "新竹縣第一選舉區",
+    "參選人": "林為洲",
+    "AD_ID": "835926680178523",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-28",
+    "結束日期": "2019-12-29",
+    "廣告內容": "[林為洲X新豐新庄子市場］直播ing 早安新豐👋為洲來到新豐鄉新庄子市場跟各位新豐的鄉親好朋友們問早懇託囉! 拜託大家明年1月11日總統唯一支持國民黨提名韓國瑜，以及全力來支持新竹縣第一選區的立法委員登記第1號候選人 您的新竹縣立法委員 敢講肯做 林為洲，拜託🙏承蒙你！ #唯一支持林為洲 #新豐鄉新庄子市場 #敢講肯做 #林為洲",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/81689767_470627360540433_3884968751556198400_n.jpg?_nc_cat=110&_nc_ohc=rcP9h2nHjdMAQkQrW1yI5XOTFEutIXmVTxjvMdN7ULw7sGB5s4lXvIFbQ&_nc_ht=scontent-hkg3-2.xx&oh=7df4d75822f5df2b5995189e181aea07&oe=5EB29697",
+    "廣告詳情": {
+      "ad_creative_body": "[林為洲X新豐新庄子市場］直播ing\n\n早安新豐👋為洲來到新豐鄉新庄子市場跟各位新豐的鄉親好朋友們問早懇託囉!\n\n拜託大家明年1月11日總統唯一支持國民黨提名韓國瑜，以及全力來支持新竹縣第一選區的立法委員登記第1號候選人 您的新竹縣立法委員 敢講肯做 林為洲，拜託🙏承蒙你！\n\n#唯一支持林為洲\n#新豐鄉新庄子市場\n#敢講肯做\n#林為洲",
+      "ad_creation_time": "2020-01-02T03:52:37+0000",
+      "ad_delivery_start_time": "2020-01-02T03:52:37+0000",
+      "ad_delivery_stop_time": "2020-01-03T03:52:26+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.114458",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.09488",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.105422",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.114458",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.115964",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.165663",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.034639",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.052711",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.067771",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.072289",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.013554",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.048193",
+          "age": "65+",
+          "gender": "male"
+        }
+      ],
+      "funding_entity": "為洲 林",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "300320033502806",
+      "page_name": "立法委員林為洲",
+      "region_distribution": [
+        {
+          "percentage": "0.496951",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.503049",
+          "region": "Hsinchu"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "835926680178523"
     }
   },
   {

@@ -226,93 +226,93 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000207",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.040618",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.042068",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.036577",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.065796",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.07564",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.055331",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.02207",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.157186",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000104",
+          "percentage": "9.1E-5",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.12206",
+          "percentage": "0.151576",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.075515",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.038258",
           "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.06677",
+          "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.095845",
+          "percentage": "0.021953",
           "age": "18-24",
-          "gender": "male"
+          "gender": "female"
         },
         {
-          "percentage": "0.130971",
+          "percentage": "0.055292",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.132993",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.154181",
+          "percentage": "0.041811",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000182",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.041447",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.094644",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.154218",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.000518",
+          "percentage": "0.123884",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000455",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000207",
+          "percentage": "0.000273",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000414",
+          "percentage": "0.000364",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000207",
-          "age": "18-24",
+          "percentage": "0.000273",
+          "age": "65+",
           "gender": "unknown"
         }
       ],
@@ -325,97 +325,97 @@
       "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
       "region_distribution": [
         {
-          "percentage": "0.0001",
+          "percentage": "0.000262",
           "region": "Lienchiang"
         },
         {
-          "percentage": "0.023118",
-          "region": "Miaoli"
-        },
-        {
-          "percentage": "0.029223",
-          "region": "Hsinchu City"
-        },
-        {
-          "percentage": "0.011109",
-          "region": "Keelung City"
-        },
-        {
-          "percentage": "0.035228",
-          "region": "Yunlin"
-        },
-        {
-          "percentage": "0.010308",
-          "region": "Yilan"
-        },
-        {
-          "percentage": "0.013311",
-          "region": "Taitung"
-        },
-        {
-          "percentage": "0.038931",
-          "region": "Pingtung"
-        },
-        {
-          "percentage": "0.005905",
-          "region": "Penghu"
-        },
-        {
-          "percentage": "0.013711",
-          "region": "Nantou"
-        },
-        {
-          "percentage": "0.051541",
-          "region": "Hualien"
-        },
-        {
-          "percentage": "0.029524",
-          "region": "Unknown"
-        },
-        {
-          "percentage": "0.003203",
-          "region": "Hsinchu"
-        },
-        {
-          "percentage": "0.002102",
+          "percentage": "0.002186",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.03803",
+          "percentage": "0.01128",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.035589",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.010318",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.013729",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.038388",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.022473",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.00446",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.048881",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.039437",
           "region": "Changhua"
         },
         {
-          "percentage": "0.111289",
+          "percentage": "0.003061",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.112102",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.116693",
+          "percentage": "0.119272",
           "region": "Taichung"
         },
         {
-          "percentage": "0.09968",
+          "percentage": "0.104145",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.089572",
+          "percentage": "0.086744",
           "region": "Tainan"
         },
         {
-          "percentage": "0.126701",
+          "percentage": "0.124869",
           "region": "Taipei"
         },
         {
-          "percentage": "0.146017",
+          "percentage": "0.14603",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.004704",
-          "region": "Kinmen"
+          "percentage": "0.029381",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.005771",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.013729",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.027894",
+          "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "3000",
-        "upper_bound": "3499"
+        "lower_bound": "4000",
+        "upper_bound": "4499"
       },
       "ad_id": "430549844292720"
     }
@@ -8213,85 +8213,95 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000366",
+          "percentage": "0.148899",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.088908",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000647",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000432",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.050281",
           "age": "65+",
-          "gender": "unknown"
+          "gender": "female"
         },
         {
-          "percentage": "0.000366",
+          "percentage": "0.000863",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000733",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.085348",
-          "age": "25-34",
+          "percentage": "0.053733",
+          "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.0337",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.07619",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.026374",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.050183",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.092674",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.149817",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.10989",
+          "percentage": "0.107898",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.117949",
+          "percentage": "0.073802",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.039491",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.10833",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.057875",
-          "age": "65+",
+          "percentage": "0.000216",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.02309",
+          "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.051282",
-          "age": "65+",
+          "percentage": "0.149547",
+          "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.147253",
-          "age": "35-44",
+          "percentage": "0.055891",
+          "age": "18-24",
           "gender": "male"
+        },
+        {
+          "percentage": "0.097756",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000216",
+          "age": "65+",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "晶晶 莊",
       "impressions": {
-        "lower_bound": "3000",
-        "upper_bound": "3999"
+        "lower_bound": "5000",
+        "upper_bound": "5999"
       },
       "page_id": "389521298483300",
       "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
@@ -8302,8 +8312,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
+        "lower_bound": "500",
+        "upper_bound": "599"
       },
       "ad_id": "2647729595342438"
     }
@@ -8328,85 +8338,85 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000644",
+          "percentage": "0.00073",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000322",
+          "percentage": "0.000547",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000322",
+          "percentage": "0.000365",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.125282",
+          "percentage": "0.104341",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.144283",
+          "percentage": "0.167822",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.074718",
+          "percentage": "0.065852",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.083414",
+          "percentage": "0.066764",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.164573",
+          "percentage": "0.152134",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.074074",
+          "percentage": "0.086647",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.045411",
+          "percentage": "0.054542",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.069887",
+          "percentage": "0.074243",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.087279",
+          "percentage": "0.089383",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.070209",
+          "percentage": "0.085005",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.02963",
+          "percentage": "0.025356",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.029952",
+          "percentage": "0.026268",
           "age": "65+",
           "gender": "male"
         }
       ],
       "funding_entity": "晶晶 莊",
       "impressions": {
-        "lower_bound": "3000",
-        "upper_bound": "3999"
+        "lower_bound": "6000",
+        "upper_bound": "6999"
       },
       "page_id": "389521298483300",
       "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
@@ -8417,8 +8427,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
+        "lower_bound": "500",
+        "upper_bound": "599"
       },
       "ad_id": "518687092069860"
     }
@@ -8440,90 +8450,95 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000561",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.00028",
+          "percentage": "0.000122",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000561",
-          "age": "25-34",
-          "gender": "unknown"
+          "percentage": "0.179978",
+          "age": "45-54",
+          "gender": "male"
         },
         {
-          "percentage": "0.00028",
+          "percentage": "0.017193",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000244",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.051879",
-          "age": "45-54",
-          "gender": "female"
+          "percentage": "0.00061",
+          "age": "25-34",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.073472",
-          "age": "25-34",
+          "percentage": "0.144129",
+          "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.063937",
+          "percentage": "0.053042",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.179473",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.073752",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.223219",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.008693",
+          "percentage": "0.092306",
           "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.070357",
+          "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.209478",
+          "percentage": "0.000488",
           "age": "35-44",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.044307",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.032529",
+          "percentage": "0.044141",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.030286",
+          "percentage": "0.062553",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.046336",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.007291",
-          "age": "18-24",
+          "percentage": "0.175344",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.091086",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000122",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.021949",
+          "age": "25-34",
           "gender": "female"
         }
       ],
       "funding_entity": "晶晶 莊",
       "impressions": {
-        "lower_bound": "4000",
-        "upper_bound": "4999"
+        "lower_bound": "9000",
+        "upper_bound": "9999"
       },
       "page_id": "389521298483300",
       "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
@@ -8534,8 +8549,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
+        "lower_bound": "500",
+        "upper_bound": "599"
       },
       "ad_id": "1160524220810285"
     }
@@ -8557,75 +8572,75 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.00104",
+          "percentage": "0.000469",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.186071",
-          "age": "45-54",
-          "gender": "male"
+          "percentage": "0.042254",
+          "age": "35-44",
+          "gender": "female"
         },
         {
-          "percentage": "0.06237",
+          "percentage": "0.065728",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.127859",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.214137",
+          "percentage": "0.186385",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.037422",
-          "age": "35-44",
-          "gender": "female"
+          "percentage": "0.19061",
+          "age": "45-54",
+          "gender": "male"
         },
         {
-          "percentage": "0.087318",
+          "percentage": "0.089671",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.120582",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.02183",
+          "percentage": "0.02723",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.039501",
+          "percentage": "0.123005",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.130047",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.047418",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.067568",
+          "percentage": "0.062441",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.019751",
+          "percentage": "0.021127",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.014553",
+          "percentage": "0.013615",
           "age": "18-24",
           "gender": "female"
         }
       ],
       "funding_entity": "晶晶 莊",
       "impressions": {
-        "lower_bound": "1000",
-        "upper_bound": "1999"
+        "lower_bound": "3000",
+        "upper_bound": "3999"
       },
       "page_id": "389521298483300",
       "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
@@ -8636,8 +8651,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
+        "lower_bound": "500",
+        "upper_bound": "599"
       },
       "ad_id": "1546919348779297"
     }
@@ -8659,75 +8674,90 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.054974",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.086387",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.074607",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.060209",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.028796",
+          "percentage": "0.000278",
           "age": "65+",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.163613",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.14267",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.20288",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.045812",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.044503",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.077225",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.017016",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.001309",
+          "percentage": "0.000556",
           "age": "25-34",
           "gender": "unknown"
+        },
+        {
+          "percentage": "0.000139",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000139",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.0789",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.122795",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.087512",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.110849",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.084873",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.139603",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.034033",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.074594",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.118766",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.044728",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.042645",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.059592",
+          "age": "25-34",
+          "gender": "female"
         }
       ],
       "funding_entity": "晶晶 莊",
       "impressions": {
-        "lower_bound": "0",
-        "upper_bound": "999"
+        "lower_bound": "8000",
+        "upper_bound": "8999"
       },
       "page_id": "389521298483300",
       "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
@@ -8738,10 +8768,368 @@
         }
       ],
       "spend": {
-        "lower_bound": "0",
-        "upper_bound": "99"
+        "lower_bound": "500",
+        "upper_bound": "599"
       },
       "ad_id": "2451985918245815"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "459690664717338",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "革新團結 堅持到底 進步花蓮 共同打拼",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/81184657_614163656019062_296499669960228864_n.jpg?_nc_cat=100&_nc_ohc=VlpNbdfnKyYAQnkJM0o2clW-5kG50r6l_TD_uDsM2Mnft44r1sSESM2NQ&_nc_ht=scontent-hkg3-1.xx&oh=ed39e762fe11cc77964aa64a59218b4a&oe=5E6CB4BC",
+    "廣告詳情": {
+      "ad_creative_body": "革新團結\n堅持到底\n進步花蓮\n共同打拼",
+      "ad_creation_time": "2019-12-31T03:45:01+0000",
+      "ad_delivery_start_time": "2019-12-31T03:45:09+0000",
+      "ad_delivery_stop_time": "2020-01-05T03:45:01+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000251",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.161428",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.167714",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.042243",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.083731",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.071914",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.073422",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.127232",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.06437",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.064119",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.093538",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001006",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.024139",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.024642",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000251",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "459690664717338"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "579316949301181",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【花蓮人快分享給花蓮人】 快快快，分享給花蓮的家人、遊子、朋友們！ 趕緊安排時間回花蓮投票喔！ 2020年1月11日 花蓮的美好未來要靠大家！ 跟著黃啟嘉醫師一起創造花蓮美好生活。 #支持黃啟嘉醫師 #支持國民黨 #花蓮要更好 #花蓮正藍團結青年團",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/81934712_579316965967846_1130013450425073664_n.jpg?_nc_cat=111&_nc_ohc=lxROXke3AUQAQlSZ5WEaaNN6yXleMX56bJWdYY_RvD_8ljsCuuA7vSbuA&_nc_ht=scontent-hkg3-2.xx&oh=4707665b4ffb10c7953f1efd5ae8a1a9&oe=5E674B3E",
+    "廣告詳情": {
+      "ad_creative_body": "【花蓮人快分享給花蓮人】\n快快快，分享給花蓮的家人、遊子、朋友們！\n趕緊安排時間回花蓮投票喔！\n2020年1月11日\n花蓮的美好未來要靠大家！\n跟著黃啟嘉醫師一起創造花蓮美好生活。\n\n#支持黃啟嘉醫師\n#支持國民黨\n#花蓮要更好\n#花蓮正藍團結青年團",
+      "ad_creation_time": "2019-12-31T03:43:08+0000",
+      "ad_creative_link_title": "【花蓮人快分享給花蓮人】",
+      "ad_delivery_start_time": "2019-12-31T03:43:20+0000",
+      "ad_delivery_stop_time": "2020-01-05T03:43:08+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000186",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.042478",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000559",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.015184",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.009688",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.044527",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.028878",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.092781",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.10843",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000279",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.089241",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.145133",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.163298",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.079646",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.179134",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000373",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000186",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "579316949301181"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "2861667793852650",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【花蓮人快分享給花蓮人】 快快快，分享給花蓮的家人、遊子、朋友們！ 趕緊安排時間回花蓮投票喔！ 2020年1月11日 花蓮的美好未來要靠大家！ 跟著黃啟嘉醫師一起創造花蓮美好生活。 #支持黃啟嘉醫師 #支持國民黨 #花蓮要更好 #花蓮正藍團結青年團",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/81934712_579316965967846_1130013450425073664_n.jpg?_nc_cat=111&_nc_ohc=lxROXke3AUQAQlSZ5WEaaNN6yXleMX56bJWdYY_RvD_8ljsCuuA7vSbuA&_nc_ht=scontent-hkg3-2.xx&oh=4707665b4ffb10c7953f1efd5ae8a1a9&oe=5E674B3E",
+    "廣告詳情": {
+      "ad_creative_body": "【花蓮人快分享給花蓮人】\n快快快，分享給花蓮的家人、遊子、朋友們！\n趕緊安排時間回花蓮投票喔！\n2020年1月11日\n花蓮的美好未來要靠大家！\n跟著黃啟嘉醫師一起創造花蓮美好生活。\n\n#支持黃啟嘉醫師\n#支持國民黨\n#花蓮要更好\n#花蓮正藍團結青年團",
+      "ad_creation_time": "2020-01-03T10:06:48+0000",
+      "ad_creative_link_title": "【花蓮人快分享給花蓮人】",
+      "ad_delivery_start_time": "2020-01-03T10:06:50+0000",
+      "ad_delivery_stop_time": "2020-01-08T10:06:48+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000368",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.216624",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.024274",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.06142",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.020044",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.057742",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.038617",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.024458",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.067304",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000184",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.157227",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.082751",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.089371",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.15833",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000184",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000184",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000919",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "7000",
+        "upper_bound": "7999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "200",
+        "upper_bound": "299"
+      },
+      "ad_id": "2861667793852650"
     }
   },
   {
@@ -8849,6 +9237,108 @@
         "upper_bound": "599"
       },
       "ad_id": "483807495599331"
+    }
+  },
+  {
+    "選區": "花蓮縣選舉區",
+    "參選人": "黃啟嘉",
+    "AD_ID": "569686353876075",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-24",
+    "結束日期": "2019-12-29",
+    "廣告內容": "身為代表國民黨的花蓮立委候選人，一定要捍衛花蓮人的自由和平等，因為那是國民黨黨徽青天白日所代表的核心價值。 當上立委後更應該捍衛中華民國的自由與平等，因為那是國徽青天白日所代表國家核心價值。 當掌權者以資源意圖影響我們心中的自由意志時，外在或有不得已的妥協，靈魂和選票一定要有捍衛自由的堅持。(文：黃啟嘉)",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/79966396_609520736483354_1916052685329530880_n.jpg?_nc_cat=106&_nc_ohc=quLXRNHG8usAQkEy2bl8zAyvaMH6zVMCywRzp03tgekr8IJyfyED5t7ow&_nc_ht=scontent-hkg3-1.xx&oh=fcd4cae6f813dcba702aa2b65a8d2475&oe=5EA5AC52",
+    "廣告詳情": {
+      "ad_creative_body": "身為代表國民黨的花蓮立委候選人，一定要捍衛花蓮人的自由和平等，因為那是國民黨黨徽青天白日所代表的核心價值。\n\n當上立委後更應該捍衛中華民國的自由與平等，因為那是國徽青天白日所代表國家核心價值。\n\n當掌權者以資源意圖影響我們心中的自由意志時，外在或有不得已的妥協，靈魂和選票一定要有捍衛自由的堅持。(文：黃啟嘉)",
+      "ad_creation_time": "2019-12-31T07:14:45+0000",
+      "ad_delivery_start_time": "2019-12-31T07:14:46+0000",
+      "ad_delivery_stop_time": "2020-01-05T07:14:45+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.071052",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.110028",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.025985",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.037759",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.074706",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.061307",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.090134",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.110434",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.170118",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.188794",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.039789",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.019082",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000812",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "晶晶 莊",
+      "impressions": {
+        "lower_bound": "3000",
+        "upper_bound": "3999"
+      },
+      "page_id": "389521298483300",
+      "page_name": "黃啟嘉醫師 花蓮縣立委參選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hualien"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "569686353876075"
     }
   },
   {

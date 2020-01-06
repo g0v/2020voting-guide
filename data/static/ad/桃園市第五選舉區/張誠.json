@@ -14752,52 +14752,52 @@
           "gender": "unknown"
         },
         {
-          "percentage": "0.191505",
-          "age": "55-64",
+          "percentage": "0.049621",
+          "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.058352",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.302918",
+          "percentage": "0.302874",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.024027",
+          "percentage": "0.191477",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.058344",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.024024",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.22869",
+          "percentage": "0.228657",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.017305",
+          "percentage": "0.017303",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.03361",
+          "percentage": "0.033605",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.049485",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.044765",
+          "percentage": "0.044759",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.035898",
+          "percentage": "0.035893",
           "age": "25-34",
           "gender": "male"
         },
@@ -14807,12 +14807,12 @@
           "gender": "unknown"
         },
         {
-          "percentage": "0.007723",
+          "percentage": "0.007722",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.004577",
+          "percentage": "0.004576",
           "age": "25-34",
           "gender": "female"
         },
@@ -15091,82 +15091,82 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.150705",
+          "percentage": "0.166113",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.172235",
+          "percentage": "0.16113",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.060876",
+          "percentage": "0.064784",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.034892",
+          "percentage": "0.031561",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.048998",
+          "percentage": "0.046512",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.050483",
+          "percentage": "0.048173",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.022272",
+          "percentage": "0.022148",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.012621",
+          "percentage": "0.01495",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.092056",
+          "percentage": "0.090808",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.18931",
+          "percentage": "0.189922",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.101707",
+          "percentage": "0.094131",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.060134",
+          "percentage": "0.066445",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.001485",
+          "percentage": "0.001107",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000742",
+          "percentage": "0.000554",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000742",
+          "percentage": "0.000554",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000742",
+          "percentage": "0.001107",
           "age": "35-44",
           "gender": "unknown"
         }
@@ -15180,21 +15180,21 @@
       "page_name": "張誠博士",
       "region_distribution": [
         {
-          "percentage": "0.856301",
+          "percentage": "0.858086",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.131172",
+          "percentage": "0.129263",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.012528",
+          "percentage": "0.012651",
           "region": "Hsinchu"
         }
       ],
       "spend": {
-        "lower_bound": "100",
-        "upper_bound": "199"
+        "lower_bound": "200",
+        "upper_bound": "299"
       },
       "ad_id": "2450253435303684"
     }
@@ -15330,58 +15330,68 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.196721",
+          "percentage": "0.27649",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.023179",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.273179",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.016393",
+          "percentage": "0.009934",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.229508",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.081967",
+          "percentage": "0.054636",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.180328",
+          "percentage": "0.165563",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.016393",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.081967",
+          "percentage": "0.100993",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.065574",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.016393",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.081967",
+          "percentage": "0.033113",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.032787",
+          "percentage": "0.031457",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.019868",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.008278",
           "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001656",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001656",
+          "age": "25-34",
           "gender": "female"
         }
       ],
@@ -15394,16 +15404,20 @@
       "page_name": "張誠博士",
       "region_distribution": [
         {
-          "percentage": "0.672131",
+          "percentage": "0.656766",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.278689",
+          "percentage": "0.30363",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.04918",
+          "percentage": "0.031353",
           "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.008251",
+          "region": "Hsinchu City"
         }
       ],
       "spend": {
@@ -15430,125 +15444,149 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.139785",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.16129",
+          "percentage": "0.128924",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.311828",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.129032",
+          "percentage": "0.216368",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.032258",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.096774",
+          "percentage": "0.200112",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.064516",
+          "percentage": "0.012332",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.17657",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.140135",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.013453",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.010753",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.010753",
+          "percentage": "0.015695",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.032258",
+          "percentage": "0.063901",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.010753",
+          "percentage": "0.011211",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.009529",
           "age": "35-44",
           "gender": "female"
+        },
+        {
+          "percentage": "0.01009",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000561",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000561",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000561",
+          "age": "25-34",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "誠 張",
       "impressions": {
-        "lower_bound": "0",
-        "upper_bound": "999"
+        "lower_bound": "1000",
+        "upper_bound": "1999"
       },
       "page_id": "1630273963894007",
       "page_name": "張誠博士",
       "region_distribution": [
         {
-          "percentage": "0.131868",
+          "percentage": "0.159307",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.175824",
+          "percentage": "0.164338",
           "region": "Taipei"
         },
         {
-          "percentage": "0.175824",
+          "percentage": "0.016769",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.140861",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.142857",
+          "percentage": "0.172722",
           "region": "Taichung"
         },
         {
-          "percentage": "0.076923",
+          "percentage": "0.063723",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.043956",
+          "percentage": "0.083846",
           "region": "Changhua"
         },
         {
-          "percentage": "0.043956",
+          "percentage": "0.028508",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.043956",
+          "percentage": "0.030184",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.010989",
+          "percentage": "0.024036",
           "region": "Nantou"
         },
         {
-          "percentage": "0.098901",
+          "percentage": "0.064841",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.032967",
+          "percentage": "0.014533",
           "region": "Yilan"
         },
         {
-          "percentage": "0.010989",
+          "percentage": "0.012856",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.010989",
+          "percentage": "0.023477",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "0",
-        "upper_bound": "99"
+        "lower_bound": "100",
+        "upper_bound": "199"
       },
       "ad_id": "446835586269937"
     }
@@ -15572,85 +15610,95 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.108696",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.130435",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.108696",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.23913",
+          "percentage": "0.219383",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.021739",
-          "age": "25-34",
-          "gender": "female"
+          "percentage": "0.140088",
+          "age": "65+",
+          "gender": "male"
         },
         {
-          "percentage": "0.108696",
+          "percentage": "0.278414",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.060793",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.130435",
+          "percentage": "0.130396",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.021739",
+          "percentage": "0.057269",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002643",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.036123",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.065217",
+          "percentage": "0.044053",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.009692",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.021739",
+          "percentage": "0.014097",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.043478",
-          "age": "65+",
+          "percentage": "0.005286",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001762",
+          "age": "18-24",
           "gender": "female"
         }
       ],
       "funding_entity": "誠 張",
       "impressions": {
-        "lower_bound": "0",
-        "upper_bound": "999"
+        "lower_bound": "1000",
+        "upper_bound": "1999"
       },
       "page_id": "1630273963894007",
       "page_name": "張誠博士",
       "region_distribution": [
         {
-          "percentage": "0.911111",
+          "percentage": "0.880597",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.066667",
+          "percentage": "0.107989",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.022222",
+          "percentage": "0.011414",
           "region": "Hsinchu"
         }
       ],
       "spend": {
-        "lower_bound": "0",
-        "upper_bound": "99"
+        "lower_bound": "100",
+        "upper_bound": "199"
       },
       "ad_id": "1277409099113589"
     }
@@ -15672,75 +15720,75 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.061404",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.163743",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.192982",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.140351",
+          "percentage": "0.122762",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.04386",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.040936",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.116959",
-          "age": "55-64",
+          "percentage": "0.143223",
+          "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.046784",
+          "percentage": "0.056266",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.094629",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.078005",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.111111",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.008772",
-          "age": "65+",
+          "percentage": "0.071611",
+          "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.049708",
+          "percentage": "0.159847",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.102302",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.063939",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.020468",
-          "age": "18-24",
+          "percentage": "0.049872",
+          "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.002924",
+          "percentage": "0.001279",
           "age": "35-44",
           "gender": "unknown"
+        },
+        {
+          "percentage": "0.023018",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.033248",
+          "age": "18-24",
+          "gender": "female"
         }
       ],
       "funding_entity": "誠 張",
       "impressions": {
-        "lower_bound": "0",
-        "upper_bound": "999"
+        "lower_bound": "1000",
+        "upper_bound": "1999"
       },
       "page_id": "1630273963894007",
       "page_name": "張誠博士",
@@ -15751,8 +15799,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "0",
-        "upper_bound": "99"
+        "lower_bound": "100",
+        "upper_bound": "199"
       },
       "ad_id": "490352018528401"
     }
@@ -15774,49 +15822,364 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.133333",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.033333",
+          "percentage": "0.012446",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.133333",
-          "age": "45-54",
+          "percentage": "0.234848",
+          "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.1",
+          "percentage": "0.229978",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.149892",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.133333",
-          "age": "35-44",
+          "percentage": "0.141775",
+          "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.266667",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.033333",
-          "age": "25-34",
+          "percentage": "0.013528",
+          "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.133333",
+          "percentage": "0.060065",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.106061",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.033333",
+          "percentage": "0.009199",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.023268",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.006494",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.011364",
           "age": "45-54",
           "gender": "female"
+        },
+        {
+          "percentage": "0.000541",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000541",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "誠 張",
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "1999"
+      },
+      "page_id": "1630273963894007",
+      "page_name": "張誠博士",
+      "region_distribution": [
+        {
+          "percentage": "0.157074",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.164605",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.019365",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.125336",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.173211",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.06993",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.090371",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.026896",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.040882",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.022055",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.05433",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.013986",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.013448",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.02851",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "199"
+      },
+      "ad_id": "2655957921160953"
+    }
+  },
+  {
+    "選區": "桃園市第五選舉區",
+    "參選人": "張誠",
+    "AD_ID": "453314325288872",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-29",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【打造中科院國防科技園區，同時發展環保、改變低薪，創造平鎮龍潭的新生命 !】 烏樹林、南勢工業區，都有空汙問題，若只是單就環保來看，也許關掉電廠是一個選擇，若從整體經濟發展和國家長遠之計，張誠主張發展環保科技，來同時取得改善環境以及賺取科技智慧財！ #誠實大叔 #張誠 #平鎮 #龍潭 #立委 #雄三 #歡境汙染 #環保 #低薪問題 #年輕人就業 ✦選舉資訊✦  【平鎮龍潭區 立委候選人 誠實大叔 ③號 張誠】  ✦捐款資訊✦ 109年立法委員擬參選人張誠政治獻金專戶 銀行代號：008 華南銀行平鎮分行 帳號：246-200296090 線上捐款： https://reurl.cc/Qpdj5o (若需收據，請私訊粉專) 加入Line@： http://bit.ly/2wgSMi4 追蹤Youtube： http://bit.ly/2wrnt3y",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/82167892_1277409105780255_4682856830567710720_n.jpg?_nc_cat=105&_nc_ohc=od6_FZccIisAQlLtJyfiFfTSRFGvVm2nJyMROKxjqCYdpYEQapV7mxyEA&_nc_ht=scontent-hkg3-1.xx&oh=2bc23b18bfc3b796dbb809c94db5078a&oe=5EA8024A",
+    "廣告詳情": {
+      "ad_creative_body": "【打造中科院國防科技園區，同時發展環保、改變低薪，創造平鎮龍潭的新生命 !】\n\n烏樹林、南勢工業區，都有空汙問題，若只是單就環保來看，也許關掉電廠是一個選擇，若從整體經濟發展和國家長遠之計，張誠主張發展環保科技，來同時取得改善環境以及賺取科技智慧財！\n\n#誠實大叔 #張誠 #平鎮 #龍潭 #立委 #雄三\n#歡境汙染 #環保 #低薪問題 #年輕人就業\n\n✦選舉資訊✦\n 【平鎮龍潭區 立委候選人 誠實大叔 ③號 張誠】 \n\n✦捐款資訊✦\n109年立法委員擬參選人張誠政治獻金專戶\n銀行代號：008 華南銀行平鎮分行\n帳號：246-200296090\n線上捐款： https://reurl.cc/Qpdj5o\n(若需收據，請私訊粉專)\n加入Line@： http://bit.ly/2wgSMi4\n追蹤Youtube： http://bit.ly/2wrnt3y",
+      "ad_creation_time": "2020-01-02T14:33:57+0000",
+      "ad_creative_link_caption": "www.phdchang.com",
+      "ad_creative_link_title": "【誠實大叔】街頭調查Q&A - 低薪&空污篇",
+      "ad_delivery_start_time": "2020-01-02T14:33:58+0000",
+      "ad_delivery_stop_time": "2020-01-06T14:33:57+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000507",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.049658",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000253",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.003547",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.17811",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.017482",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.070433",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.146694",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.121358",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000253",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.283",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.005574",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.054978",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.057512",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.009374",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000253",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001013",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "誠 張",
+      "impressions": {
+        "lower_bound": "4000",
+        "upper_bound": "4999"
+      },
+      "page_id": "1630273963894007",
+      "page_name": "張誠博士",
+      "region_distribution": [
+        {
+          "percentage": "0.567917",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.377851",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.032945",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.021287",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "400",
+        "upper_bound": "499"
+      },
+      "ad_id": "453314325288872"
+    }
+  },
+  {
+    "選區": "桃園市第五選舉區",
+    "參選人": "張誠",
+    "AD_ID": "305099257082467",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-29",
+    "結束日期": "1970-01-01",
+    "廣告內容": "#空虛寂寞覺得冷 暖心暖手 #誠實豆沙包抱枕 誠實大叔給你溫暖！ - 誠實小舖任意門http://www.phdchang.com/donate/",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/81205816_2585989238322470_1841117647886876672_n.jpg?_nc_cat=102&_nc_ohc=3EPhi9-gxvwAQlZJ8-yIVXzDKFrYLGTbo81K4dDhyh-ffOnXFECQAV69Q&_nc_ht=scontent-hkg3-1.xx&oh=62b65ebe3fd9d40fcba430ae0c619f8d&oe=5EB1E006",
+    "廣告詳情": {
+      "ad_creative_body": "#空虛寂寞覺得冷\n暖心暖手 #誠實豆沙包抱枕\n誠實大叔給你溫暖！\n-\n誠實小舖任意門\nhttp://www.phdchang.com/donate/",
+      "ad_creation_time": "2020-01-02T13:54:55+0000",
+      "ad_delivery_start_time": "2020-01-02T13:54:57+0000",
+      "ad_delivery_stop_time": "2020-01-04T13:54:55+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.118557",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.119845",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.181701",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.076031",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.10567",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.113402",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.037371",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.076031",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.063144",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.034794",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.030928",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.041237",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001289",
+          "age": "35-44",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "誠 張",
@@ -15828,51 +16191,316 @@
       "page_name": "張誠博士",
       "region_distribution": [
         {
-          "percentage": "0.2",
-          "region": "Kaohsiung"
+          "percentage": "1",
+          "region": "Taoyuan City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "199"
+      },
+      "ad_id": "305099257082467"
+    }
+  },
+  {
+    "選區": "桃園市第五選舉區",
+    "參選人": "張誠",
+    "AD_ID": "1468468489989219",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-27",
+    "結束日期": "2019-12-29",
+    "廣告內容": "【停車空間不足?!龍潭平鎮人的痛苦怎麼解?】 從世界級城市來看，是怎麼解決停車空間永遠都不足的需求? 拼命蓋停車場嗎？看看誠實大叔怎麼說？！ #大眾運輸系統改善 #道路規劃也是一環 #觀念對規劃才會對 ✦選舉資訊✦ 【平鎮龍潭區 立委候選人 誠實大叔 ③號 張誠】 ✦捐款資訊✦ 109年立法委員擬參選人張誠政治獻金專戶 銀行代號：008 華南銀行平鎮分行 帳號：246-200296090 線上捐款： http://www.phdchang.com/donate/ (若需收據，請私訊粉專) 加入Line@： http://bit.ly/2wgSMi4 追蹤Youtube： http://bit.ly/2wrnt3y",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/81615179_632796957462868_4657610879657836544_n.jpg?_nc_cat=107&_nc_ohc=vPpemz7p_SIAQmLd7kMQKL0UUQ0bYeidH-q02mQQCbM8fzP-cEZZTOwWw&_nc_ht=scontent-hkg3-2.xx&oh=4bb32438a11ea12fc00e5885746bad50&oe=5E6A0BF3",
+    "廣告詳情": {
+      "ad_creative_body": "【停車空間不足?!龍潭平鎮人的痛苦怎麼解?】\n\n從世界級城市來看，是怎麼解決停車空間永遠都不足的需求?\n拼命蓋停車場嗎？看看誠實大叔怎麼說？！\n\n#大眾運輸系統改善\n#道路規劃也是一環\n#觀念對規劃才會對\n\n✦選舉資訊✦\n【平鎮龍潭區 立委候選人 誠實大叔 ③號 張誠】\n\n✦捐款資訊✦\n109年立法委員擬參選人張誠政治獻金專戶\n銀行代號：008 華南銀行平鎮分行\n帳號：246-200296090\n線上捐款： http://www.phdchang.com/donate/\n(若需收據，請私訊粉專)\n加入Line@： http://bit.ly/2wgSMi4\n追蹤Youtube： http://bit.ly/2wrnt3y",
+      "ad_creation_time": "2019-12-31T14:46:41+0000",
+      "ad_creative_link_caption": "www.phdchang.com",
+      "ad_creative_link_title": "【誠實大叔】街頭調查Q&A - 交通停車篇",
+      "ad_delivery_start_time": "2019-12-31T14:46:42+0000",
+      "ad_delivery_stop_time": "2020-01-04T14:46:41+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000172",
+          "age": "25-34",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.233333",
-          "region": "Taipei"
+          "percentage": "0.030241",
+          "age": "18-24",
+          "gender": "male"
         },
         {
-          "percentage": "0.066667",
+          "percentage": "0.000344",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.004811",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.004639",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.01701",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.047766",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.004296",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.101203",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000172",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.043299",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.060825",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.217698",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.150344",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.316495",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000172",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000515",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "誠 張",
+      "impressions": {
+        "lower_bound": "6000",
+        "upper_bound": "6999"
+      },
+      "page_id": "1630273963894007",
+      "page_name": "張誠博士",
+      "region_distribution": [
+        {
+          "percentage": "0.880956",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.133333",
-          "region": "Taichung"
-        },
-        {
-          "percentage": "0.066667",
+          "percentage": "0.1108",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.033333",
+          "percentage": "0.008244",
+          "region": "Hsinchu"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "1468468489989219"
+    }
+  },
+  {
+    "選區": "桃園市第五選舉區",
+    "參選人": "張誠",
+    "AD_ID": "1498312443650415",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-21",
+    "結束日期": "2019-12-23",
+    "廣告內容": "《誠實大叔去哪裡》陪同生命鬥士張宗傑拜訪脊椎損傷人士 生命鬥士張宗傑在45歲以後因病成為障礙人士，以切身之不便，立志改善不友善的空間環境，並且長期以來關心各地、各類型的障礙人士，希望為弱勢障礙之士來發聲，以期妥善受到照顧或重獲自我照顧的機會。17日下午，生命鬥士張宗傑在誠實大叔張誠的陪同下，一起拜訪住在平鎮的兩位脊椎損傷人士，了解脊椎損傷所產生的後遺症，且更深入探討脊椎損傷障礙人士所需的協助。 在拜訪過程中，張宗傑的語氣與神情，強烈展現出他對障礙人士的關愛，以及迫切要幫助他們的決心！這次挺身而出作為國會政黨聯盟不分區立委候選人（第二順位），更是張宗傑要為障礙人士發聲的最佳體現，即使本身也受身體障礙的苦痛，反而更堅定他要代表全國障礙人士，進入國會、制定友善的法律與政策，讓障礙人士與其家人重獲國家社會的重視與生活環境。 懇請全國的民眾，用您手中的政黨票，支持18號國會政黨聯盟，讓「坐輪椅」的生命鬥士張宗傑前進立法院！ 🔹更多有關生命鬥士張宗傑～https://www.facebook.com/watch/?v=451311188910255 🔹張宗傑(傑哥張)(台灣改變，關懷弱勢)https://www.facebook.com/CPAPeterChang/ #誠實大叔 #生命鬥士張宗傑 #國會政黨聯盟 #政黨票唯一支持國會政黨聯盟 #選張誠不要怕 － - ✦捐款資訊 ✦ 109年立法委員擬參選人張誠政治獻金專戶 銀行代號：008 華南銀行平鎮分行 帳號：246-200296090 線上捐款： https://reurl.cc/Qpdj5o (若需收據，請私訊粉專) 加入Line@： http://bit.ly/2wgSMi4 追蹤Youtube： http://bit.ly/2wrnt3y",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80627573_2578891302365597_6159590535393705984_n.jpg?_nc_cat=103&_nc_ohc=xI7cLvzSU3kAQlMAZQ3ObwwS1QN_5m4GTKevOZRSXqOJDJiJut_aGRWRw&_nc_ht=scontent-hkg3-1.xx&oh=2f524480772c9a09947f4e0bc7cc8425&oe=5EA40FE7",
+    "廣告詳情": {
+      "ad_creative_body": "《誠實大叔去哪裡》陪同生命鬥士張宗傑拜訪脊椎損傷人士\n\n生命鬥士張宗傑在45歲以後因病成為障礙人士，以切身之不便，立志改善不友善的空間環境，並且長期以來關心各地、各類型的障礙人士，希望為弱勢障礙之士來發聲，以期妥善受到照顧或重獲自我照顧的機會。17日下午，生命鬥士張宗傑在誠實大叔張誠的陪同下，一起拜訪住在平鎮的兩位脊椎損傷人士，了解脊椎損傷所產生的後遺症，且更深入探討脊椎損傷障礙人士所需的協助。\n\n在拜訪過程中，張宗傑的語氣與神情，強烈展現出他對障礙人士的關愛，以及迫切要幫助他們的決心！這次挺身而出作為國會政黨聯盟不分區立委候選人（第二順位），更是張宗傑要為障礙人士發聲的最佳體現，即使本身也受身體障礙的苦痛，反而更堅定他要代表全國障礙人士，進入國會、制定友善的法律與政策，讓障礙人士與其家人重獲國家社會的重視與生活環境。\n\n懇請全國的民眾，用您手中的政黨票，支持18號國會政黨聯盟，讓「坐輪椅」的生命鬥士張宗傑前進立法院！\n\n🔹更多有關生命鬥士張宗傑～https://www.facebook.com/watch/?v=451311188910255\n🔹張宗傑(傑哥張)(台灣改變，關懷弱勢)\nhttps://www.facebook.com/CPAPeterChang/\n\n#誠實大叔\n#生命鬥士張宗傑\n#國會政黨聯盟\n#政黨票唯一支持國會政黨聯盟\n#選張誠不要怕\n－\n-\n✦捐款資訊 ✦\n109年立法委員擬參選人張誠政治獻金專戶\n銀行代號：008 華南銀行平鎮分行\n帳號：246-200296090\n線上捐款： https://reurl.cc/Qpdj5o\n(若需收據，請私訊粉專)\n加入Line@： http://bit.ly/2wgSMi4\n追蹤Youtube： http://bit.ly/2wrnt3y",
+      "ad_creation_time": "2019-12-31T14:38:41+0000",
+      "ad_delivery_start_time": "2019-12-31T14:38:44+0000",
+      "ad_delivery_stop_time": "2020-01-04T14:38:41+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000438",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000438",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.185283",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.143233",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.166448",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.109505",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.152431",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.021025",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.042926",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.111695",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.033728",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.009636",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.012703",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.009636",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000438",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000438",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "誠 張",
+      "impressions": {
+        "lower_bound": "2000",
+        "upper_bound": "2999"
+      },
+      "page_id": "1630273963894007",
+      "page_name": "張誠博士",
+      "region_distribution": [
+        {
+          "percentage": "0.138936",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.191301",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.017736",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.152872",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.13598",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.078125",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.072635",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.030828",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.133333",
+          "percentage": "0.044764",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.033333",
+          "percentage": "0.029139",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.05152",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.033333",
+          "percentage": "0.01478",
           "region": "Yilan"
         },
         {
-          "percentage": "0.066667",
+          "percentage": "0.012247",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.029139",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "0",
-        "upper_bound": "99"
+        "lower_bound": "200",
+        "upper_bound": "299"
       },
-      "ad_id": "2655957921160953"
+      "ad_id": "1498312443650415"
     }
   },
   {

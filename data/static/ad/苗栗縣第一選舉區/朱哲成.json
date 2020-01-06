@@ -849,74 +849,79 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.181818",
-          "age": "18-24",
-          "gender": "male"
+          "percentage": "0.000818",
+          "age": "25-34",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.287433",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.081551",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.026738",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.294118",
+          "percentage": "0.283729",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.06016",
-          "age": "25-34",
+          "percentage": "0.208504",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.267375",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.004088",
+          "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.065508",
+          "percentage": "0.076043",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.067866",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.002674",
-          "age": "45-54",
+          "percentage": "0.066231",
+          "age": "25-34",
           "gender": "female"
+        },
+        {
+          "percentage": "0.025348",
+          "age": "45-54",
+          "gender": "male"
         }
       ],
       "funding_entity": "哲成 朱",
       "impressions": {
-        "lower_bound": "0",
-        "upper_bound": "999"
+        "lower_bound": "1000",
+        "upper_bound": "1999"
       },
       "page_id": "327510054791630",
       "page_name": "朱哲成",
       "region_distribution": [
         {
-          "percentage": "0.262948",
+          "percentage": "0.278183",
           "region": "Taichung"
         },
         {
-          "percentage": "0.030544",
+          "percentage": "0.028386",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.482072",
+          "percentage": "0.470397",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.224436",
+          "percentage": "0.223033",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "0",
-        "upper_bound": "99"
+        "lower_bound": "200",
+        "upper_bound": "299"
       },
       "ad_id": "460395021576229"
     }
@@ -938,79 +943,79 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.001548",
+          "percentage": "0.142123",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.222603",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.071918",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.127568",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.330479",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.064212",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.031678",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.008562",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000856",
           "age": "18-24",
           "gender": "unknown"
-        },
-        {
-          "percentage": "0.063467",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.334365",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.24613",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.099071",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.041796",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.151703",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.05418",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.00774",
-          "age": "45-54",
-          "gender": "female"
         }
       ],
       "funding_entity": "哲成 朱",
       "impressions": {
-        "lower_bound": "0",
-        "upper_bound": "999"
+        "lower_bound": "1000",
+        "upper_bound": "1999"
       },
       "page_id": "327510054791630",
       "page_name": "朱哲成",
       "region_distribution": [
         {
-          "percentage": "0.261538",
+          "percentage": "0.273418",
           "region": "Taichung"
         },
         {
-          "percentage": "0.046154",
+          "percentage": "0.038819",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.406154",
+          "percentage": "0.412658",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.286154",
+          "percentage": "0.275105",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "0",
-        "upper_bound": "99"
+        "lower_bound": "200",
+        "upper_bound": "299"
       },
       "ad_id": "1910792592399583"
     }
@@ -1032,79 +1037,84 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.167625",
+          "percentage": "0.000503",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.17002",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.282567",
+          "percentage": "0.288229",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.430077",
+          "percentage": "0.369215",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.045019",
+          "percentage": "0.065392",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.029693",
+          "percentage": "0.050805",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.022031",
+          "percentage": "0.029678",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.020115",
+          "percentage": "0.018109",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.001916",
+          "percentage": "0.007042",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.000958",
+          "percentage": "0.001006",
           "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "哲成 朱",
       "impressions": {
-        "lower_bound": "1000",
-        "upper_bound": "1999"
+        "lower_bound": "2000",
+        "upper_bound": "2999"
       },
       "page_id": "327510054791630",
       "page_name": "朱哲成",
       "region_distribution": [
         {
-          "percentage": "0.203276",
+          "percentage": "0.246146",
           "region": "Taichung"
         },
         {
-          "percentage": "0.042389",
+          "percentage": "0.037792",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.412331",
+          "percentage": "0.393337",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.342004",
+          "percentage": "0.322725",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "0",
-        "upper_bound": "99"
+        "lower_bound": "200",
+        "upper_bound": "299"
       },
       "ad_id": "814033085722621"
     }

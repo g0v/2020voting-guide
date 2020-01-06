@@ -4488,99 +4488,99 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.021252",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.044666",
+          "percentage": "0.048479",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.084253",
+          "percentage": "0.083742",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.000741",
-          "age": "45-54",
-          "gender": "unknown"
+          "percentage": "0.025834",
+          "age": "25-34",
+          "gender": "female"
         },
         {
-          "percentage": "0.001285",
+          "percentage": "0.001269",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000317",
+          "percentage": "0.000727",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000705",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000304",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000412",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000589",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000272",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.142462",
+          "percentage": "0.138091",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.189833",
+          "percentage": "0.187264",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.104795",
+          "percentage": "0.108415",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.073188",
+          "percentage": "0.07899",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.2366",
+          "percentage": "0.222267",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.082363",
+          "percentage": "0.083666",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.017383",
+          "percentage": "0.019834",
           "age": "18-24",
           "gender": "female"
         }
       ],
       "funding_entity": "絜安 蔣",
       "impressions": {
-        "lower_bound": "100000",
-        "upper_bound": "124999"
+        "lower_bound": "150000",
+        "upper_bound": "174999"
       },
       "page_id": "1908955219181294",
       "page_name": "蔣絜安 靚台妹",
       "region_distribution": [
         {
-          "percentage": "0.40006",
+          "percentage": "0.395859",
           "region": "Taipei"
         },
         {
-          "percentage": "0.497256",
+          "percentage": "0.504958",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.102684",
+          "percentage": "0.099183",
           "region": "Hsinchu City"
         }
       ],
@@ -4693,72 +4693,77 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.062643",
+          "percentage": "0.000112",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.06257",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.16159",
+          "percentage": "0.162077",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.231448",
+          "percentage": "0.232147",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.072148",
+          "percentage": "0.071413",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.174645",
+          "percentage": "0.174166",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.087036",
+          "percentage": "0.085852",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.035731",
+          "percentage": "0.036602",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.075813",
+          "percentage": "0.075218",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.077302",
+          "percentage": "0.07824",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.018209",
+          "percentage": "0.018245",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.001832",
+          "percentage": "0.001791",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000916",
+          "percentage": "0.000895",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000573",
+          "percentage": "0.00056",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000115",
+          "percentage": "0.000112",
           "age": "18-24",
           "gender": "unknown"
         }
@@ -4772,21 +4777,21 @@
       "page_name": "蔣絜安 靚台妹",
       "region_distribution": [
         {
-          "percentage": "0.419878",
+          "percentage": "0.421219",
           "region": "Taipei"
         },
         {
-          "percentage": "0.494076",
+          "percentage": "0.493157",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.086046",
+          "percentage": "0.085624",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "3500",
-        "upper_bound": "3999"
+        "lower_bound": "4000",
+        "upper_bound": "4499"
       },
       "ad_id": "2253201854781588"
     }
@@ -4808,67 +4813,67 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.15082",
+          "percentage": "0.151489",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.165291",
+          "percentage": "0.16617",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.092293",
+          "percentage": "0.093404",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.040733",
+          "percentage": "0.040851",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.135813",
+          "percentage": "0.135",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.007932",
+          "percentage": "0.007979",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.045878",
+          "percentage": "0.045745",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.135384",
+          "percentage": "0.134681",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.200021",
+          "percentage": "0.198936",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.02369",
+          "percentage": "0.023617",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.001072",
+          "percentage": "0.001064",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000643",
+          "percentage": "0.000638",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000429",
+          "percentage": "0.000426",
           "age": "18-24",
           "gender": "unknown"
         }
@@ -4882,23 +4887,23 @@
       "page_name": "蔣絜安 靚台妹",
       "region_distribution": [
         {
-          "percentage": "0.394067",
+          "percentage": "0.393655",
           "region": "Taipei"
         },
         {
-          "percentage": "0.504944",
+          "percentage": "0.505427",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.038818",
+          "percentage": "0.038927",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.005681",
+          "percentage": "0.00574",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.056491",
+          "percentage": "0.056251",
           "region": "Hsinchu City"
         }
       ],
@@ -5099,125 +5104,125 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.001509",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.015804",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.015893",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.105123",
-          "age": "55-64",
+          "percentage": "0.239679",
+          "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.210157",
+          "percentage": "0.18111",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.016248",
+          "percentage": "0.019562",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.197315",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.017208",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.183255",
+          "percentage": "0.180762",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.111274",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.014237",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.01852",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.016166",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00135",
           "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.162656",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.259611",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.014117",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.011897",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.001332",
-          "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001065",
+          "percentage": "0.000733",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000977",
+          "percentage": "0.000849",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000355",
+          "percentage": "0.000965",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00027",
           "age": "55-64",
           "gender": "unknown"
         }
       ],
       "funding_entity": "絜安 蔣",
       "impressions": {
-        "lower_bound": "10000",
-        "upper_bound": "14999"
+        "lower_bound": "30000",
+        "upper_bound": "34999"
       },
       "page_id": "1908955219181294",
       "page_name": "蔣絜安 靚台妹",
       "region_distribution": [
         {
-          "percentage": "0.395924",
+          "percentage": "0.403597",
           "region": "Taipei"
         },
         {
-          "percentage": "0.275669",
+          "percentage": "0.265957",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.165034",
+          "percentage": "0.169335",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.041718",
+          "percentage": "0.041932",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.032709",
+          "percentage": "0.032134",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.019591",
+          "percentage": "0.019741",
           "region": "Yilan"
         },
         {
-          "percentage": "0.027025",
+          "percentage": "0.028332",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.04233",
+          "percentage": "0.038971",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "1000",
-        "upper_bound": "1499"
+        "lower_bound": "2500",
+        "upper_bound": "2999"
       },
       "ad_id": "532089507658703"
     }
@@ -5306,6 +5311,668 @@
         "upper_bound": "99"
       },
       "ad_id": "394315811360415"
+    }
+  },
+  {
+    "選區": "桃園市第五選舉區",
+    "參選人": "蔣絜安",
+    "AD_ID": "1253268754874573",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-29",
+    "結束日期": "1970-01-01",
+    "廣告內容": "安心的生活是最基本的條件，拒絕家族政治綁架，拒絕威脅恐嚇！ 絜安要煞猛打拚，改變平鎮、龍潭因政治家族壟斷停滯許久的建設發展！ 這一次，讓我們一起翻轉平鎮、翻轉龍潭，終結20多年的家族政治，還給龍潭、平鎮更美好、更乾淨、更值得期待的未來！ 👍歡迎按讚+分享 ✅加入我的LINE，靚友訊息不漏接：http://nav.cx/3y1dukW 👈️ 或搜尋ID：@ccan 【乾淨選舉 募款專戶】 109年立法委員擬參選人蔣絜安政治獻金專戶 銀行：台灣銀行龍潭分行 帳號：226001007585 📍龍潭競選辦公室： 龍潭區中豐路111之1號/03-4797171 📍平鎮競選辦公室： 平鎮區中庸路218號/03-4391929 #平鎮快轉 #龍潭更好 #龍潭 #平鎮 #蔣絜安",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/81686005_394315821360414_8296465940590100480_n.jpg?_nc_cat=109&_nc_ohc=6kxWwrEd8UsAQl_VVS-7is3Ul-PukM4KAcSeljKtkogDiA2aofM-rtzSQ&_nc_ht=scontent-hkg3-2.xx&oh=362d6f51c75f2e106de46087a09c5be1&oe=5E65A5F1",
+    "廣告詳情": {
+      "ad_creative_body": "安心的生活是最基本的條件，拒絕家族政治綁架，拒絕威脅恐嚇！\n絜安要煞猛打拚，改變平鎮、龍潭因政治家族壟斷停滯許久的建設發展！\n這一次，讓我們一起翻轉平鎮、翻轉龍潭，終結20多年的家族政治，還給龍潭、平鎮更美好、更乾淨、更值得期待的未來！\n\n👍歡迎按讚+分享\n✅加入我的LINE，靚友訊息不漏接：\nhttp://nav.cx/3y1dukW 👈️\n或搜尋ID：@ccan\n\n【乾淨選舉 募款專戶】\n109年立法委員擬參選人蔣絜安政治獻金專戶\n銀行：台灣銀行龍潭分行\n帳號：226001007585\n\n📍龍潭競選辦公室：\n龍潭區中豐路111之1號/03-4797171\n📍平鎮競選辦公室：\n平鎮區中庸路218號/03-4391929\n\n#平鎮快轉 #龍潭更好\n#龍潭 #平鎮 #蔣絜安",
+      "ad_creation_time": "2019-12-31T06:04:11+0000",
+      "ad_creative_link_title": "政治戰起來 #蔣絜安",
+      "ad_delivery_start_time": "2019-12-31T06:04:12+0000",
+      "ad_delivery_stop_time": "2020-01-03T06:04:11+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.056904",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.162511",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.035617",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.320053",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.253707",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.051686",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.078439",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.020542",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.009857",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001242",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.008366",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000414",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "8.3E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000248",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000331",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "絜安 蔣",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "1908955219181294",
+      "page_name": "蔣絜安 靚台妹",
+      "region_distribution": [
+        {
+          "percentage": "0.367066",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.192924",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.22045",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.042908",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.065091",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.033598",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.045337",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.032626",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "1253268754874573"
+    }
+  },
+  {
+    "選區": "桃園市第五選舉區",
+    "參選人": "蔣絜安",
+    "AD_ID": "623643214845072",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-27",
+    "結束日期": "1970-01-01",
+    "廣告內容": "請支持 #5號 #蔣絜安 蔡英文 x 賴清德 x 鄭文燦 誠摯推薦！ 我們一起團結一起加油！ 2020台灣要贏！ 2020平鎮龍潭更要贏！ #選絜安 #真心安 #選絜安國泰民安",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81383097_395370751231515_5931223310334427136_n.jpg?_nc_cat=101&_nc_ohc=IlJY1_fE7IkAQkGCRmYLN_ESZ1L-phd6_9Fk_eM_tvhyIrafupvhWev5g&_nc_ht=scontent-hkg3-1.xx&oh=a7e3eb34d3275f6a2fa7c733fe3afe81&oe=5E9910A3",
+    "廣告詳情": {
+      "ad_creative_body": "請支持 #5號 #蔣絜安\n蔡英文 x 賴清德 x 鄭文燦 誠摯推薦！\n\n我們一起團結一起加油！\n2020台灣要贏！\n2020平鎮龍潭更要贏！\n\n#選絜安 #真心安 #選絜安國泰民安",
+      "ad_creation_time": "2020-01-06T01:55:21+0000",
+      "ad_creative_link_title": "請支持5號#蔣絜安",
+      "ad_delivery_start_time": "2020-01-06T01:55:26+0000",
+      "ad_delivery_stop_time": "2020-01-09T01:55:21+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000786",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.123993",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.038613",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.240126",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.025349",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.018962",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.094714",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.127825",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.190607",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.048536",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.088721",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000688",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000197",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000393",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000491",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "絜安 蔣",
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "1908955219181294",
+      "page_name": "蔣絜安 靚台妹",
+      "region_distribution": [
+        {
+          "percentage": "0.382169",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.263992",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.193165",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.034869",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.046954",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.026746",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.027439",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.024666",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "700",
+        "upper_bound": "799"
+      },
+      "ad_id": "623643214845072"
+    }
+  },
+  {
+    "選區": "桃園市第五選舉區",
+    "參選人": "蔣絜安",
+    "AD_ID": "3254770734550678",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-26",
+    "結束日期": "1970-01-01",
+    "廣告內容": "感謝 賴清德 副總統候選人和林靜儀 醫師.立法委員特地來幫絜安車掃拜票❤️一路上看到很多支持鄉親站在路邊等著揮手給我們加油打氣，心中滿是感動。 謝謝有你/妳，我們一起讓平鎮龍潭翻轉！ #1月11日呼朋引伴去投票 #選絜安 #真心安 #選絜安國泰民安 👍歡迎按讚+分享 ✅加入我的LINE，靚友訊息不漏接：http://nav.cx/3y1dukW 👈️ 或搜尋ID：@ccan 【乾淨選舉 募款專戶】 109年立法委員擬參選人蔣絜安政治獻金專戶 銀行：台灣銀行龍潭分行 帳號：226001007585 📍龍潭競選辦公室： 龍潭區中豐路111之1號/03-4797171 📍平鎮競選辦公室： 平鎮區中庸路218號/03-4391929 #平鎮快轉 #龍潭更好 #龍潭 #平鎮 #蔣絜安",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80553727_2683394191737389_8234299093594144768_n.jpg?_nc_cat=101&_nc_ohc=bGnC0J5yzXQAQn2vjFTfHA8f-uQOdW7RMGpaeBkWYMNVV2RqWIQ3Oh_vA&_nc_ht=scontent-hkg3-1.xx&oh=a6b3e99f3abc4296170fa02edc81b370&oe=5EA824D1",
+    "廣告詳情": {
+      "ad_creative_body": "感謝 賴清德 副總統候選人和林靜儀 醫師.立法委員特地來幫絜安車掃拜票❤️一路上看到很多支持鄉親站在路邊等著揮手給我們加油打氣，心中滿是感動。\n\n謝謝有你/妳，我們一起讓平鎮龍潭翻轉！\n\n#1月11日呼朋引伴去投票\n\n#選絜安 #真心安 #選絜安國泰民安\n\n👍歡迎按讚+分享\n✅加入我的LINE，靚友訊息不漏接：\nhttp://nav.cx/3y1dukW 👈️\n或搜尋ID：@ccan\n【乾淨選舉 募款專戶】\n109年立法委員擬參選人蔣絜安政治獻金專戶\n銀行：台灣銀行龍潭分行\n帳號：226001007585\n📍龍潭競選辦公室：\n龍潭區中豐路111之1號/03-4797171\n📍平鎮競選辦公室：\n平鎮區中庸路218號/03-4391929\n\n#平鎮快轉 #龍潭更好\n#龍潭 #平鎮 #蔣絜安",
+      "ad_creation_time": "2019-12-31T06:08:27+0000",
+      "ad_delivery_start_time": "2019-12-31T06:08:27+0000",
+      "ad_delivery_stop_time": "2020-01-05T06:08:27+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.054938",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.213935",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.127844",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.067283",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.218782",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.139801",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.081308",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.052417",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.026758",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.015059",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000323",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001099",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000259",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000194",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "絜安 蔣",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "1908955219181294",
+      "page_name": "蔣絜安 靚台妹",
+      "region_distribution": [
+        {
+          "percentage": "0.340587",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.271622",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.177963",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.042277",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.065411",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.024443",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.039596",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.038099",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1500",
+        "upper_bound": "1999"
+      },
+      "ad_id": "3254770734550678"
+    }
+  },
+  {
+    "選區": "桃園市第五選舉區",
+    "參選人": "蔣絜安",
+    "AD_ID": "451293822447884",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-26",
+    "結束日期": "1970-01-01",
+    "廣告內容": "收到賴清德院長（副總統候選人）特別為絜安製作的海報，好感動啊！ 謝謝院長對我的關心和鼓勵，雖然絜安挑戰的是30年來不曾選出過民進黨籍立委的艱困選區，但一定全力以赴，翻轉龍潭平鎮，帶給鄉親更美好的願景，不辜負大家對我的期望！加油！加油！",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/81152542_2677610978982377_7715946972472934400_n.jpg?_nc_cat=107&_nc_ohc=-5Q92VGwKvUAQk3iL8MLOpA91LeQEAoC7-FxkqCqFMHgS8rfOJDrGySEQ&_nc_ht=scontent-hkg3-2.xx&oh=884c7c763273a6eaccc83fc2b02ca771&oe=5E9ADBBA",
+    "廣告詳情": {
+      "ad_creative_body": "收到賴清德院長（副總統候選人）特別為絜安製作的海報，好感動啊！\n\n謝謝院長對我的關心和鼓勵，雖然絜安挑戰的是30年來不曾選出過民進黨籍立委的艱困選區，但一定全力以赴，翻轉龍潭平鎮，帶給鄉親更美好的願景，不辜負大家對我的期望！加油！加油！",
+      "ad_creation_time": "2019-12-31T07:45:19+0000",
+      "ad_delivery_start_time": "2019-12-31T07:45:20+0000",
+      "ad_delivery_stop_time": "2020-01-05T07:45:19+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.047657",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.219246",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.048182",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.138637",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.124852",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.233031",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.040567",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.016673",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.064199",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.061835",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001575",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00105",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001444",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000525",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000525",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "絜安 蔣",
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "1908955219181294",
+      "page_name": "蔣絜安 靚台妹",
+      "region_distribution": [
+        {
+          "percentage": "0.466293",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.455861",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.077846",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2000",
+        "upper_bound": "2499"
+      },
+      "ad_id": "451293822447884"
+    }
+  },
+  {
+    "選區": "桃園市第五選舉區",
+    "參選人": "蔣絜安",
+    "AD_ID": "2499831326966343",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-26",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【平鎮車站大步向前】 務實政策、盡早完工—讓城市競爭力提高 絜安主張 :  平鎮建設不能停，平鎮車站設在環南路與林蔭大道共構 捷運南環線經環北站起與平鎮車站共構都有完善的交通規劃 到底還要讓我等多久?  讓人不再徘徊在平鎮的十字路口   #選絜安 #真心安 #選絜安國泰民安 桃園捷運路網草案出爐⬇️https://www.google.com.tw/amp/s/udn.com/news/amp/story/7324/4234885 桃園鐵路地下化環評過關⬇️https://news.ltn.com.tw/news/life/breakingnews/3020470 未來的桃園車站將成為三鐵共構的重要轉運樞紐⬇️www.epochtimes.com.tw/n292472/捷運綠線暨鐵路地下化開工--桃園三心六線願景.html 桃園鐵路地下化是正確的交通建設⬇️https://www.epochtimes.com.tw/n301018/桃園鐵路地下化-鄭文燦-是正確的交通建設.html 👍歡迎按讚+分享 ✅加入我的LINE，靚友訊息不漏接：http://nav.cx/3y1dukW 👈️ 或搜尋ID：@ccan 【乾淨選舉 募款專戶】 109年立法委員擬參選人蔣絜安政治獻金專戶 銀行：台灣銀行龍潭分行 帳號：226001007585 📍龍潭競選辦公室： 龍潭區中豐路111之1號/03-4797171 📍平鎮競選辦公室： 平鎮區中庸路218號/03-4391929 #平鎮快轉 #龍潭更好 #龍潭 #平鎮 #蔣絜安",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/81021552_2686684711408337_6352574235025604608_n.jpg?_nc_cat=111&_nc_ohc=g3b2UnBdzIUAQktGL3qQYywDwzvJ6HKO4r7Cw3T6jWnD5XMxNKUTMCcPQ&_nc_ht=scontent-hkg3-2.xx&oh=33b7810fd41f878b5cd70625359c8d0c&oe=5E70DD1F",
+    "廣告詳情": {
+      "ad_creative_body": "【平鎮車站大步向前】\n務實政策、盡早完工—讓城市競爭力提高\n\n絜安主張 : \n平鎮建設不能停，平鎮車站設在環南路與林蔭大道共構\n捷運南環線經環北站起與平鎮車站共構都有完善的交通規劃\n\n到底還要讓我等多久? \n讓人不再徘徊在平鎮的十字路口  \n\n#選絜安 #真心安 #選絜安國泰民安\n\n桃園捷運路網草案出爐⬇️\nhttps://www.google.com.tw/amp/s/udn.com/news/amp/story/7324/4234885\n\n桃園鐵路地下化環評過關⬇️\nhttps://news.ltn.com.tw/news/life/breakingnews/3020470\n\n未來的桃園車站將成為三鐵共構的重要轉運樞紐⬇️\nwww.epochtimes.com.tw/n292472/捷運綠線暨鐵路地下化開工--桃園三心六線願景.html\n\n桃園鐵路地下化是正確的交通建設⬇️\nhttps://www.epochtimes.com.tw/n301018/桃園鐵路地下化-鄭文燦-是正確的交通建設.html\n\n👍歡迎按讚+分享\n✅加入我的LINE，靚友訊息不漏接：\nhttp://nav.cx/3y1dukW 👈️\n或搜尋ID：@ccan\n\n【乾淨選舉 募款專戶】\n109年立法委員擬參選人蔣絜安政治獻金專戶\n銀行：台灣銀行龍潭分行\n帳號：226001007585\n\n📍龍潭競選辦公室：\n龍潭區中豐路111之1號/03-4797171\n📍平鎮競選辦公室：\n平鎮區中庸路218號/03-4391929\n\n#平鎮快轉 #龍潭更好\n#龍潭 #平鎮 #蔣絜安",
+      "ad_creation_time": "2019-12-31T07:46:39+0000",
+      "ad_delivery_start_time": "2019-12-31T07:46:40+0000",
+      "ad_delivery_stop_time": "2020-01-03T07:46:39+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.23184",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.289256",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.047412",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.211396",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.078295",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.046107",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.013919",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.034363",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.036103",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.003045",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.007829",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000435",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "絜安 蔣",
+      "impressions": {
+        "lower_bound": "2000",
+        "upper_bound": "2999"
+      },
+      "page_id": "1908955219181294",
+      "page_name": "蔣絜安 靚台妹",
+      "region_distribution": [
+        {
+          "percentage": "0.396914",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.284612",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.174453",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.036005",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.019288",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.015431",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.039434",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.033862",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "700",
+        "upper_bound": "799"
+      },
+      "ad_id": "2499831326966343"
     }
   }
 ]

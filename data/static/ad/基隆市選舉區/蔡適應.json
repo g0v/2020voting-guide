@@ -388,124 +388,124 @@
       "ad_creative_body": "《自信勇敢咱的名－基隆囝仔之夜》\n\n12月29日適應邀請各位朋友，一起來長庚醫院第二停車場（麥金路144號旁），參加基隆囝仔之夜，與 陳其邁 Chen Chi-Mai副院長、 徐國勇 內政部長、喬幼、許志豪、謝宜君、潘芳烈樂團，唱出自信勇敢咱的名。\n\n晚上7點開唱、歡迎大家闔家前來！\n\n#立委支持1號 #蔡適應\n#總統支持3號 #蔡英文 #賴清德\n#政黨支持14號 #民主進步黨",
       "ad_creation_time": "2019-12-25T08:03:11+0000",
       "ad_delivery_start_time": "2019-12-25T08:56:10+0000",
-      "ad_delivery_stop_time": "2020-01-29T11:00:10+0000",
+      "ad_delivery_stop_time": "2020-01-03T11:00:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.150709",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.021742",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.00027",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.00054",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000405",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000675",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000675",
+          "percentage": "0.000577",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.012694",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.03214",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.034571",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.186766",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.048886",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.053747",
+          "percentage": "0.055053",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.090749",
-          "age": "65+",
+          "percentage": "0.012897",
+          "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.117488",
-          "age": "55-64",
+          "percentage": "0.035322",
+          "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.141391",
-          "age": "45-54",
+          "percentage": "0.032435",
+          "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.10628",
+          "percentage": "0.144273",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.109528",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.00027",
+          "percentage": "0.087007",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.14591",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000192",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.055438",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.117228",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.177286",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000289",
           "age": "18-24",
           "gender": "unknown"
+        },
+        {
+          "percentage": "0.000481",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000385",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000674",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.025024",
+          "age": "25-34",
+          "gender": "female"
         }
       ],
       "funding_entity": "蔡適應",
       "impressions": {
-        "lower_bound": "10000",
-        "upper_bound": "14999"
+        "lower_bound": "20000",
+        "upper_bound": "24999"
       },
       "page_id": "114129008623973",
       "page_name": "蔡適應",
       "region_distribution": [
         {
-          "percentage": "0.652417",
+          "percentage": "0.645793",
           "region": "Taipei"
         },
         {
-          "percentage": "0.10499",
+          "percentage": "0.1067",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.242594",
+          "percentage": "0.247507",
           "region": "Keelung City"
         }
       ],
       "spend": {
-        "lower_bound": "1000",
-        "upper_bound": "1499"
+        "lower_bound": "1500",
+        "upper_bound": "1999"
       },
       "ad_id": "957392667994277"
     }

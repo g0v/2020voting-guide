@@ -956,85 +956,85 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000692",
+          "percentage": "0.000411",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000692",
+          "percentage": "0.000411",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.002075",
+          "percentage": "0.087099",
           "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.080221",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.065007",
-          "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.102351",
+          "percentage": "0.098603",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.070539",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.130014",
-          "age": "55-64",
+          "percentage": "0.063681",
+          "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.080913",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.058091",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.080913",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.067773",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.12379",
+          "percentage": "0.104766",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.069156",
+          "percentage": "0.082991",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.05341",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.086278",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.067773",
-          "age": "45-54",
+          "percentage": "0.101068",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.104355",
+          "age": "55-64",
           "gender": "female"
+        },
+        {
+          "percentage": "0.075596",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.089975",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.050123",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001233",
+          "age": "35-44",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "和成洪",
       "impressions": {
-        "lower_bound": "2000",
-        "upper_bound": "2999"
+        "lower_bound": "4000",
+        "upper_bound": "4999"
       },
       "page_id": "1460015614106063",
       "page_name": "踏實.革新【洪和成】",
@@ -1045,8 +1045,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "300",
-        "upper_bound": "399"
+        "lower_bound": "500",
+        "upper_bound": "599"
       },
       "ad_id": "1050686038602978"
     }
@@ -1071,96 +1071,106 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000397",
-          "age": "25-34",
+          "percentage": "0.000244",
+          "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.073354",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.100317",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.118557",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.148295",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.080492",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.117367",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.103093",
+          "percentage": "0.000244",
           "age": "45-54",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.056305",
+          "percentage": "0.05132",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.126487",
+          "percentage": "0.078446",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.067937",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.123167",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.021808",
+          "percentage": "0.156158",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.021505",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.015464",
-          "age": "65+",
+          "percentage": "0.101417",
+          "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.037669",
+          "percentage": "0.130254",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.116325",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.101173",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000733",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.036168",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.000397",
-          "age": "35-44",
+          "percentage": "0.014663",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000244",
+          "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "和成洪",
       "impressions": {
-        "lower_bound": "8000",
-        "upper_bound": "8999"
+        "lower_bound": "20000",
+        "upper_bound": "24999"
       },
       "page_id": "1460015614106063",
       "page_name": "踏實.革新【洪和成】",
       "region_distribution": [
         {
-          "percentage": "0.991349",
+          "percentage": "0.988244",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.008651",
+          "percentage": "0.011756",
           "region": "Fujian"
         }
       ],
       "spend": {
-        "lower_bound": "400",
-        "upper_bound": "499"
+        "lower_bound": "1000",
+        "upper_bound": "1499"
       },
       "ad_id": "515304152665205"
     }

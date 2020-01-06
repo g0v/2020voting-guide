@@ -1035,95 +1035,95 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.073248",
+          "percentage": "0.000219",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.07048",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.03252",
+          "percentage": "0.000146",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.068319",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.011501",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.062746",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.063132",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.153348",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.185034",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000198",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.179283",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.036341",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.0002",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000127",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000364",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.007825",
-          "age": "25-34",
+          "percentage": "0.131681",
+          "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.000291",
-          "age": "55-64",
-          "gender": "unknown"
+          "percentage": "0.02819",
+          "age": "35-44",
+          "gender": "female"
         },
         {
-          "percentage": "0.00626",
+          "percentage": "0.008871",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.052302",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.211774",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.021438",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.054759",
+          "percentage": "0.000157",
           "age": "65+",
-          "gender": "female"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.118526",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.16404",
+          "percentage": "0.000355",
           "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.194322",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.061729",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000273",
-          "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "翊琴 方",
       "impressions": {
-        "lower_bound": "70000",
-        "upper_bound": "79999"
+        "lower_bound": "150000",
+        "upper_bound": "174999"
       },
       "page_id": "368538816565950",
       "page_name": "林國春",
@@ -1134,8 +1134,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "6000",
-        "upper_bound": "6999"
+        "lower_bound": "10000",
+        "upper_bound": "14999"
       },
       "ad_id": "456734265006883"
     }
@@ -1412,85 +1412,85 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.00077",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.00055",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.118857",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.113579",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.045739",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.113029",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.183727",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.146784",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.014623",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.103793",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.135349",
+          "percentage": "0.118728",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.020451",
+          "percentage": "0.08987",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.1199",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.142093",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.160551",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.049513",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.14517",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.109939",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.029591",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.00099",
-          "age": "35-44",
-          "gender": "unknown"
+          "percentage": "0.030543",
+          "age": "25-34",
+          "gender": "female"
         },
         {
-          "percentage": "0.00088",
+          "percentage": "0.000806",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00088",
+          "percentage": "0.001172",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000806",
           "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000732",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000586",
+          "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "翊琴 方",
       "impressions": {
-        "lower_bound": "15000",
-        "upper_bound": "19999"
+        "lower_bound": "30000",
+        "upper_bound": "34999"
       },
       "page_id": "368538816565950",
       "page_name": "林國春",
@@ -1501,8 +1501,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "1500",
-        "upper_bound": "1999"
+        "lower_bound": "3000",
+        "upper_bound": "3499"
       },
       "ad_id": "2347793878866611"
     }
@@ -1525,100 +1525,100 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.18016",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.117148",
+          "percentage": "0.127817",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.000326",
+          "percentage": "0.023668",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000289",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000356",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000424",
+          "percentage": "0.000311",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000801",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000156",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.025314",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.138316",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.039217",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.09078",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.122567",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.069714",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.045401",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.078367",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.056545",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.180047",
           "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "6.5E-5",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000816",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000326",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.039876",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.100538",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.073617",
-          "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.123087",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.078969",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.027476",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.134769",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.049568",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.049568",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.02294",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000326",
-          "age": "18-24",
+          "percentage": "0.000334",
+          "age": "55-64",
           "gender": "unknown"
         }
       ],
       "funding_entity": "翊琴 方",
       "impressions": {
-        "lower_bound": "35000",
-        "upper_bound": "39999"
+        "lower_bound": "60000",
+        "upper_bound": "69999"
       },
       "page_id": "368538816565950",
       "page_name": "林國春",
@@ -1629,8 +1629,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "3500",
-        "upper_bound": "3999"
+        "lower_bound": "6000",
+        "upper_bound": "6999"
       },
       "ad_id": "506631920211621"
     }

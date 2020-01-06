@@ -3274,100 +3274,100 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.047724",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.039594",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000337",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000144",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000144",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000241",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000241",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.016405",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.022178",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.152458",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.04556",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.106418",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.099923",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.089002",
+          "percentage": "0.095679",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.064899",
-          "age": "65+",
+          "percentage": "0.043382",
+          "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.14327",
+          "percentage": "0.000211",
           "age": "45-54",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.171269",
+          "percentage": "0.000316",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000175",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000211",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000386",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.019971",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.050191",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.163174",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.000192",
+          "percentage": "0.045067",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.099084",
           "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.030852",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.134323",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.10656",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.067109",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.143203",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000105",
+          "age": "55-64",
           "gender": "unknown"
         }
       ],
       "funding_entity": "呂孫綾",
       "impressions": {
-        "lower_bound": "30000",
-        "upper_bound": "34999"
+        "lower_bound": "45000",
+        "upper_bound": "49999"
       },
       "page_id": "932173560139717",
       "page_name": "呂孫綾",
@@ -3378,10 +3378,137 @@
         }
       ],
       "spend": {
-        "lower_bound": "2500",
-        "upper_bound": "2999"
+        "lower_bound": "4500",
+        "upper_bound": "4999"
       },
       "ad_id": "2267825366652513"
+    }
+  },
+  {
+    "選區": "新北市第一選舉區",
+    "參選人": "呂孫綾",
+    "AD_ID": "466142967638593",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "感謝小英總統今天下午來到淡水保安廟、三芝小基隆福成宮參香祈福，來為我加油打氣！ 今天雖然是平日下午，而且還下著小雨，但是鄉親們滿滿的熱情，讓我與小英總統感受到滿滿的溫暖！ 蔡英文總統今天也提到，過去四年，我不管是在外交國防的問政與政策推動，或者是在各項地方重大建設的爭取，我的成績都是有目共睹，她可以掛保證我絕對會是一個可以和小英總統一起守民主護台灣的好立委！ 感謝大家四年前給我機會，讓我能夠來為大家、為家鄉服務，我這四年來努力、用心、不分黨派，努力做好每件家鄉建設事，才不會辜負大家對我的支持與期待！所以不論是淡江大橋主橋段、關渡大橋耐震補強、泰山汙水下水道、三芝石門自行車道、八里台北港軍艦開放，以及林口新創園等等重要的建設，我都是一步一腳印，不管有多艱難，都努力來做到最好！ 明年的選舉，不僅要選出一個說實話、做實事，真正了解地方為大家服務的人；更重要的是，面對中國對台灣的威脅、滲透，我們更應該堅定信心，站在一起守護台灣、守護自由民主的價值，不讓我們過去的民主成果被侵蝕！ 因此，我也要繼續呼籲各位好朋友，明年的選舉是台灣的關鍵，讓會做事、能守護台灣自由民主的人不孤單，總統支持3號蔡英文、立委支持6號呂孫綾！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/81719903_2931472110209842_8756082017411530752_n.jpg?_nc_cat=106&_nc_ohc=pUcxA3lnYzoAQn3SsuUDFV2tyuVxklGVJ-LyLeuCVvHQExh8oMrdCfP_w&_nc_ht=scontent-hkg3-1.xx&oh=aece397d8f387b0875d3cfae367d80ed&oe=5EAD6A65",
+    "廣告詳情": {
+      "ad_creative_body": "感謝小英總統今天下午來到淡水保安廟、三芝小基隆福成宮參香祈福，來為我加油打氣！\n\n今天雖然是平日下午，而且還下著小雨，但是鄉親們滿滿的熱情，讓我與小英總統感受到滿滿的溫暖！\n\n蔡英文總統今天也提到，過去四年，我不管是在外交國防的問政與政策推動，或者是在各項地方重大建設的爭取，我的成績都是有目共睹，她可以掛保證我絕對會是一個可以和小英總統一起守民主護台灣的好立委！\n\n感謝大家四年前給我機會，讓我能夠來為大家、為家鄉服務，我這四年來努力、用心、不分黨派，努力做好每件家鄉建設事，才不會辜負大家對我的支持與期待！所以不論是淡江大橋主橋段、關渡大橋耐震補強、泰山汙水下水道、三芝石門自行車道、八里台北港軍艦開放，以及林口新創園等等重要的建設，我都是一步一腳印，不管有多艱難，都努力來做到最好！\n\n明年的選舉，不僅要選出一個說實話、做實事，真正了解地方為大家服務的人；更重要的是，面對中國對台灣的威脅、滲透，我們更應該堅定信心，站在一起守護台灣、守護自由民主的價值，不讓我們過去的民主成果被侵蝕！\n\n因此，我也要繼續呼籲各位好朋友，明年的選舉是台灣的關鍵，讓會做事、能守護台灣自由民主的人不孤單，總統支持3號蔡英文、立委支持6號呂孫綾！",
+      "ad_creation_time": "2019-12-31T03:55:59+0000",
+      "ad_delivery_start_time": "2019-12-31T03:56:11+0000",
+      "ad_delivery_stop_time": "2020-01-03T03:55:59+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000164",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.156809",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.088249",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.029798",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.068479",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.114486",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.046949",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.044042",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.139986",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00045",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.053661",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.132864",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.092096",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000123",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000123",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000205",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000246",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.031272",
+          "age": "25-34",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "呂孫綾",
+      "impressions": {
+        "lower_bound": "35000",
+        "upper_bound": "39999"
+      },
+      "page_id": "932173560139717",
+      "page_name": "呂孫綾",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "New Taipei City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "3000",
+        "upper_bound": "3499"
+      },
+      "ad_id": "466142967638593"
     }
   }
 ]

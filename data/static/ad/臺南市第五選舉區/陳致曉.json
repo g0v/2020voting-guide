@@ -2491,12 +2491,12 @@
           "gender": "unknown"
         },
         {
-          "percentage": "0.058232",
+          "percentage": "0.058229",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.000766",
+          "percentage": "0.000765",
           "age": "25-34",
           "gender": "unknown"
         },
@@ -2511,22 +2511,22 @@
           "gender": "unknown"
         },
         {
-          "percentage": "0.012275",
+          "percentage": "0.012274",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.071378",
+          "percentage": "0.071427",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.038329",
+          "percentage": "0.038327",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.017528",
+          "percentage": "0.017527",
           "age": "65+",
           "gender": "male"
         },
@@ -2536,37 +2536,37 @@
           "gender": "unknown"
         },
         {
-          "percentage": "0.030093",
+          "percentage": "0.030091",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.049072",
+          "percentage": "0.04907",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.09297",
+          "percentage": "0.092966",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.150991",
+          "percentage": "0.150983",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.044083",
+          "percentage": "0.044081",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.205",
+          "percentage": "0.204989",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.227675",
+          "percentage": "0.227663",
           "age": "25-34",
           "gender": "male"
         },
@@ -2998,116 +2998,116 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.170214",
+          "percentage": "0.161289",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.024377",
+          "percentage": "0.025665",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "5.3E-5",
+          "percentage": "5.8E-5",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00048",
+          "percentage": "0.000526",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000373",
+          "percentage": "0.000292",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000587",
+          "percentage": "0.000496",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000427",
+          "percentage": "0.000292",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.022084",
+          "percentage": "0.027008",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.047741",
+          "percentage": "0.052293",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.026618",
+          "percentage": "0.024263",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.040753",
+          "percentage": "0.040352",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.037979",
+          "percentage": "0.03787",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.142103",
+          "percentage": "0.12342",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.100283",
+          "percentage": "0.101083",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.185416",
+          "percentage": "0.184794",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.144877",
+          "percentage": "0.153552",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.055582",
+          "percentage": "0.06663",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "5.3E-5",
+          "percentage": "0.000117",
           "age": "65+",
           "gender": "unknown"
         }
       ],
       "funding_entity": "致曉陳",
       "impressions": {
-        "lower_bound": "20000",
-        "upper_bound": "24999"
+        "lower_bound": "45000",
+        "upper_bound": "49999"
       },
       "page_id": "102790324425631",
       "page_name": "陳致曉 願同弱少鬥強權 台南市立委參選人",
       "region_distribution": [
         {
-          "percentage": "0.000836",
+          "percentage": "0.001097",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.999164",
+          "percentage": "0.998903",
           "region": "Tainan"
         }
       ],
       "spend": {
-        "lower_bound": "2500",
-        "upper_bound": "2999"
+        "lower_bound": "5000",
+        "upper_bound": "5999"
       },
       "ad_id": "498616807444159"
     }
@@ -3132,116 +3132,116 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.071474",
+          "percentage": "0.084309",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.01045",
+          "percentage": "0.012308",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "8.0E-5",
+          "percentage": "9.6E-5",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000239",
+          "percentage": "0.000128",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000558",
+          "percentage": "0.000446",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000319",
+          "percentage": "0.000287",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000479",
+          "percentage": "0.000383",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.004308",
+          "percentage": "0.00507",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.004387",
+          "percentage": "0.005867",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.258934",
+          "percentage": "0.246931",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.025128",
+          "percentage": "0.027454",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.033583",
+          "percentage": "0.041804",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.046267",
+          "percentage": "0.051975",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.141752",
+          "percentage": "0.138931",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.034301",
+          "percentage": "0.0382",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.257578",
+          "percentage": "0.23982",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.110083",
+          "percentage": "0.105928",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "8.0E-5",
+          "percentage": "6.4E-5",
           "age": "18-24",
           "gender": "unknown"
         }
       ],
       "funding_entity": "致曉陳",
       "impressions": {
-        "lower_bound": "15000",
-        "upper_bound": "19999"
+        "lower_bound": "50000",
+        "upper_bound": "59999"
       },
       "page_id": "102790324425631",
       "page_name": "陳致曉 願同弱少鬥強權 台南市立委參選人",
       "region_distribution": [
         {
-          "percentage": "0.000482",
+          "percentage": "0.00075",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.999518",
+          "percentage": "0.99925",
           "region": "Tainan"
         }
       ],
       "spend": {
-        "lower_bound": "1500",
-        "upper_bound": "1999"
+        "lower_bound": "5000",
+        "upper_bound": "5999"
       },
       "ad_id": "522615222016593"
     }
@@ -3263,96 +3263,111 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.084988",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.018938",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.095381",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.159122",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.202771",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.069746",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.176674",
+          "percentage": "0.147028",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.032794",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.077829",
-          "age": "65+",
+          "percentage": "0.111058",
+          "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.022633",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.017783",
+          "percentage": "0.000668",
           "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.040647",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000231",
-          "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000462",
+          "percentage": "0.000191",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000286",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000572",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.028432",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.160481",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.070413",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.043412",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.032821",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.061731",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.11621",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.026333",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.176796",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.023376",
           "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000191",
+          "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "致曉陳",
       "impressions": {
-        "lower_bound": "4000",
-        "upper_bound": "4999"
+        "lower_bound": "10000",
+        "upper_bound": "14999"
       },
       "page_id": "102790324425631",
       "page_name": "陳致曉 願同弱少鬥強權 台南市立委參選人",
       "region_distribution": [
         {
-          "percentage": "0.000697",
+          "percentage": "0.001433",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.999303",
+          "percentage": "0.998567",
           "region": "Tainan"
         }
       ],
       "spend": {
-        "lower_bound": "900",
-        "upper_bound": "999"
+        "lower_bound": "2500",
+        "upper_bound": "2999"
       },
       "ad_id": "461543444736293"
     }

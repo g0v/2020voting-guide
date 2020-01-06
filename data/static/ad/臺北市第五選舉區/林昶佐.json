@@ -1385,86 +1385,86 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000311",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.093202",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.078463",
+          "percentage": "0.080453",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.089807",
+          "percentage": "0.322501",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.093962",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.159801",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.158423",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.04172",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.091873",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.046416",
+          "percentage": "0.046062",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.158074",
+          "percentage": "0.003446",
           "age": "35-44",
-          "gender": "female"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.041849",
+          "percentage": "0.001006",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00035",
           "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.326548",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.160501",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.003431",
-          "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001016",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000383",
+          "percentage": "0.000405",
           "age": "55-64",
           "gender": "unknown"
         }
       ],
       "funding_entity": "林昶佐 Freddy Lim",
       "impressions": {
-        "lower_bound": "200000",
-        "upper_bound": "249999"
+        "lower_bound": "250000",
+        "upper_bound": "299999"
       },
       "page_id": "365320250345879",
       "page_name": "林昶佐 Freddy Lim",
       "region_distribution": [
         {
-          "percentage": "0.753008",
+          "percentage": "0.750237",
           "region": "Taipei"
         },
         {
-          "percentage": "0.246992",
+          "percentage": "0.249763",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "30000",
-        "upper_bound": "34999"
+        "lower_bound": "40000",
+        "upper_bound": "44999"
       },
       "ad_id": "524733434787627"
     }
@@ -1483,92 +1483,316 @@
       "ad_creation_time": "2019-12-30T06:36:17+0000",
       "ad_creative_link_title": "起造一個美好有尊嚴的共和 - 台灣大凱旋",
       "ad_delivery_start_time": "2019-12-30T08:00:16+0000",
-      "ad_delivery_stop_time": "2020-01-03T15:59:16+0000",
+      "ad_delivery_stop_time": "2020-01-06T15:59:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.327097",
+          "percentage": "0.31943",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.001242",
+          "percentage": "0.092879",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.157277",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.045421",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001272",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.086672",
+          "percentage": "0.081739",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.176352",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.078311",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.048068",
+          "percentage": "0.04768",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.046523",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.10229",
+          "percentage": "0.095655",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.129415",
+          "percentage": "0.154581",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.000442",
+          "percentage": "0.000347",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000386",
+          "percentage": "0.000365",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.003201",
+          "percentage": "0.003354",
           "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "林昶佐 Freddy Lim",
       "impressions": {
-        "lower_bound": "50000",
-        "upper_bound": "59999"
+        "lower_bound": "250000",
+        "upper_bound": "299999"
       },
       "page_id": "365320250345879",
       "page_name": "林昶佐 Freddy Lim",
       "region_distribution": [
         {
-          "percentage": "0.828056",
+          "percentage": "0.791568",
           "region": "Taipei"
         },
         {
-          "percentage": "0.171944",
+          "percentage": "0.208432",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "9000",
-        "upper_bound": "9999"
+        "lower_bound": "40000",
+        "upper_bound": "44999"
       },
       "ad_id": "493059671318403"
+    }
+  },
+  {
+    "選區": "臺北市第五選舉區",
+    "參選人": "林昶佐",
+    "AD_ID": "464243447835000",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "「起造一個美好有尊嚴的共和！」 1/11 迎向台灣大凱旋 ！ 出來投票！回家投票！ ＝前線大凱旋 台灣大凱旋＝ ⓶ 壯闊台灣 吳怡農  / 台北中山北松山 ⓺ 賴品妤 / 新北汐金萬瑞平雙貢 ⓶ 3Q 陳柏惟 / 台中峰鹿大烏龍 ⓷ 洪慈庸 / 台中潭雅神后 ⓺ 林昶佐 Freddy Lim / 台北中正萬華 ＝別忘記還有＝ ⓺ 余天 Yu Tian / 新北三重 ＝總統＝ ⓷ 蔡英文 Tsai Ing-wen",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/81830354_555029621714678_1843225587770982400_n.jpg?_nc_cat=107&_nc_ohc=v7esuRBVT3UAQnQfUlEWXJZVTzjzgGAdWHg5rLM_QizRhQYzHHeZJVc5A&_nc_ht=scontent-hkg3-2.xx&oh=e6b4c6a5a94bdfaf886bea7ec61d1ead&oe=5E6EC2B8",
+    "廣告詳情": {
+      "ad_creative_body": "「起造一個美好有尊嚴的共和！」\n\n1/11 迎向台灣大凱旋 ！\n出來投票！回家投票！\n\n＝前線大凱旋 台灣大凱旋＝\n⓶ 壯闊台灣 吳怡農  / 台北中山北松山\n⓺ 賴品妤 / 新北汐金萬瑞平雙貢\n⓶ 3Q 陳柏惟 / 台中峰鹿大烏龍\n⓷ 洪慈庸 / 台中潭雅神后\n⓺ 林昶佐 Freddy Lim / 台北中正萬華\n\n＝別忘記還有＝\n⓺ 余天 Yu Tian / 新北三重\n＝總統＝\n⓷ 蔡英文 Tsai Ing-wen",
+      "ad_creation_time": "2020-01-04T15:51:38+0000",
+      "ad_creative_link_title": "起造一個美好有尊嚴的共和 - 台灣大凱旋",
+      "ad_delivery_start_time": "2020-01-04T15:51:38+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:51:38+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.362321",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.05729",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.211521",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.241848",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.040869",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.015452",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.063261",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001427",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.003536",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "9.2E-5",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001715",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000668",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "林昶佐 Freddy Lim",
+      "impressions": {
+        "lower_bound": "90000",
+        "upper_bound": "99999"
+      },
+      "page_id": "365320250345879",
+      "page_name": "林昶佐 Freddy Lim",
+      "region_distribution": [
+        {
+          "percentage": "0.633322",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.091077",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.238448",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.000367",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.036786",
+          "region": "Keelung City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "ad_id": "464243447835000"
+    }
+  },
+  {
+    "選區": "臺北市第五選舉區",
+    "參選人": "林昶佐",
+    "AD_ID": "2610780942579184",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-26",
+    "結束日期": "1970-01-01",
+    "廣告內容": "▶五萬人擠爆凱道 昶佐台灣大凱旋◀ ＝前線大凱旋 台灣大凱旋＝ ⓶ 壯闊台灣 吳怡農 / 台北中山北松山 ⓺ 賴品妤 / 新北汐金萬瑞平雙貢寮 ⓶ 3Q 陳柏惟 / 台中峰鹿大烏龍 ⓷ 洪慈庸 / 台中潭雅神后 ⓺ 林昶佐 Freddy Lim / 台北中正萬華 ＝別忘記還有＝ ⓺ 余天 Yu Tian / 新北三重",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81576401_524733451454292_5535492715967414272_n.jpg?_nc_cat=103&_nc_ohc=rUhvN8B7GacAQkRBpygItSZflN5XoPZb2ac1I3pAnLNfNS4bDjjpPzsOQ&_nc_ht=scontent-hkg3-1.xx&oh=31a2cd76768ea61a9106a3e82ac1714b&oe=5EB29DD8",
+    "廣告詳情": {
+      "ad_creative_body": "▶五萬人擠爆凱道 昶佐台灣大凱旋◀\n\n＝前線大凱旋 台灣大凱旋＝\n\n⓶ 壯闊台灣 吳怡農 / 台北中山北松山\n⓺ 賴品妤 / 新北汐金萬瑞平雙貢寮\n⓶ 3Q 陳柏惟 / 台中峰鹿大烏龍\n⓷ 洪慈庸 / 台中潭雅神后\n⓺ 林昶佐 Freddy Lim / 台北中正萬華\n\n＝別忘記還有＝\n⓺ 余天 Yu Tian / 新北三重",
+      "ad_creation_time": "2020-01-04T15:49:07+0000",
+      "ad_creative_link_title": "▶五萬人擠爆凱道 昶佐台灣大凱旋◀",
+      "ad_delivery_start_time": "2020-01-04T15:49:09+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:49:07+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.002728",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.017909",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.032099",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.128076",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.027457",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00457",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.049795",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.422685",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.312767",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001364",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000354",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000195",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "林昶佐 Freddy Lim",
+      "impressions": {
+        "lower_bound": "70000",
+        "upper_bound": "79999"
+      },
+      "page_id": "365320250345879",
+      "page_name": "林昶佐 Freddy Lim",
+      "region_distribution": [
+        {
+          "percentage": "0.527189",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.0474",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.378699",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.046712",
+          "region": "Keelung City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "ad_id": "2610780942579184"
     }
   }
 ]

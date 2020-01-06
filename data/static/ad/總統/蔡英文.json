@@ -17,97 +17,102 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.045027",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.020079",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.061971",
+          "percentage": "0.062365",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.013208",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.289907",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.250417",
+          "percentage": "0.242233",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.165699",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.152558",
+          "percentage": "0.248637",
           "age": "35-44",
-          "gender": "female"
+          "gender": "male"
         },
         {
-          "percentage": "0.000667",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.0004",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "6.7E-5",
+          "percentage": "0.017617",
           "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.013476",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.19679",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.053492",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.164284",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00054",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000489",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "2.6E-5",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "5.1E-5",
+          "age": "55-64",
           "gender": "unknown"
         }
       ],
       "funding_entity": "蔡英文 Tsai Ing-wen",
       "impressions": {
-        "lower_bound": "15000",
-        "upper_bound": "19999"
+        "lower_bound": "70000",
+        "upper_bound": "79999"
       },
       "page_id": "46251501064",
       "page_name": "蔡英文 Tsai Ing-wen",
       "region_distribution": [
         {
-          "percentage": "0.266223",
+          "percentage": "0.255572",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.322641",
+          "percentage": "0.327802",
           "region": "Taichung"
         },
         {
-          "percentage": "0.272544",
+          "percentage": "0.288427",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.016273",
+          "percentage": "0.016827",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.059108",
+          "percentage": "0.054191",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.06321",
+          "percentage": "0.05718",
           "region": "Nantou"
         }
       ],
       "spend": {
-        "lower_bound": "1000",
-        "upper_bound": "1499"
+        "lower_bound": "4000",
+        "upper_bound": "4499"
       },
       "ad_id": "548171372403758"
     }
@@ -1926,6 +1931,124 @@
         "upper_bound": "3999"
       },
       "ad_id": "2456052724609877"
+    }
+  },
+  {
+    "選區": "總統",
+    "參選人": "蔡英文",
+    "AD_ID": "634648230609903",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "守護下一代、守護我們的未來！ 　　 這幾年，我走過市場、學校、工廠，看見我們台灣人的精神，就是腳踏實地、認真做事，也因為台灣人的實實在在，在世界的每一個角落打拚、努力，贏得了世界對我們的尊敬，讓世界看得起我們。 　　 台灣，也因為前一代人的努力、奮鬥與犧牲，讓我們擁有民主與自由，才有一個「自由自在、想啥說啥、不必驚惶」的社會。 　　 在關鍵的時刻，我們一定要堅守民主自由的生活方式，為下一代做出正確的選擇，我們的孩子才不用再拚街頭。 　　 明年1月11日，請大家一定要站出來，把台灣的心聲大聲向世界訴說。請你繼續支持我，給我和民進黨力量，一同團結守護台灣未來。 　　 #3號蔡英文 #14號民主進步黨 👉小額捐款給我：https://donate.iing.tw/ 👉加入英眼部隊：https://spicytaiwan.tw/",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81719652_548171382403757_119860670236721152_n.jpg?_nc_cat=108&_nc_ohc=E2uckDWxUvQAQlpeH13QOB4DBZtl61FoMT0uTJew2Opd5hQiSJzJ21fkw&_nc_ht=scontent-hkg3-1.xx&oh=620c629668f31c55d3a6334c5d967aa9&oe=5E69387F",
+    "廣告詳情": {
+      "ad_creative_body": "守護下一代、守護我們的未來！\n　　\n這幾年，我走過市場、學校、工廠，看見我們台灣人的精神，就是腳踏實地、認真做事，也因為台灣人的實實在在，在世界的每一個角落打拚、努力，贏得了世界對我們的尊敬，讓世界看得起我們。\n　　\n台灣，也因為前一代人的努力、奮鬥與犧牲，讓我們擁有民主與自由，才有一個「自由自在、想啥說啥、不必驚惶」的社會。\n　　\n在關鍵的時刻，我們一定要堅守民主自由的生活方式，為下一代做出正確的選擇，我們的孩子才不用再拚街頭。\n　　\n明年1月11日，請大家一定要站出來，把台灣的心聲大聲向世界訴說。請你繼續支持我，給我和民進黨力量，一同團結守護台灣未來。\n　　\n#3號蔡英文\n#14號民主進步黨\n\n👉小額捐款給我：https://donate.iing.tw\n👉加入英眼部隊：\nhttps://spicytaiwan.tw",
+      "ad_creation_time": "2019-12-30T09:15:32+0000",
+      "ad_creative_link_title": "《守護咱的未來》",
+      "ad_delivery_start_time": "2019-12-31T16:00:15+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:59:15+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "2.0E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.014764",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.017443",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00047",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.166125",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.056929",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.240026",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.234853",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.063289",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.205611",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000429",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "4.1E-5",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "蔡英文 Tsai Ing-wen",
+      "impressions": {
+        "lower_bound": "125000",
+        "upper_bound": "149999"
+      },
+      "page_id": "46251501064",
+      "page_name": "蔡英文 Tsai Ing-wen",
+      "region_distribution": [
+        {
+          "percentage": "0.257342",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.315592",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.300898",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.019397",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.051898",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.054873",
+          "region": "Nantou"
+        }
+      ],
+      "spend": {
+        "lower_bound": "6000",
+        "upper_bound": "6999"
+      },
+      "ad_id": "634648230609903"
     }
   },
   {

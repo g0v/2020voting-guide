@@ -1452,70 +1452,70 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000175",
+          "percentage": "0.000223",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.144378",
+          "percentage": "0.149494",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.315904",
+          "percentage": "0.308331",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.229181",
+          "percentage": "0.225246",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.029024",
+          "percentage": "0.028402",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.080002",
+          "percentage": "0.079809",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.090564",
+          "percentage": "0.091386",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.077252",
+          "percentage": "0.079139",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.032778",
+          "percentage": "0.037336",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.000524",
+          "percentage": "0.000447",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000131",
+          "percentage": "0.000112",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "8.7E-5",
+          "percentage": "7.4E-5",
           "age": "65+",
           "gender": "unknown"
         }
       ],
       "funding_entity": "Chieh Hua Lu",
       "impressions": {
-        "lower_bound": "80000",
-        "upper_bound": "89999"
+        "lower_bound": "100000",
+        "upper_bound": "124999"
       },
       "page_id": "103958804286330",
       "page_name": "立法委員參選人黃兆呈",
@@ -1526,8 +1526,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "10000",
-        "upper_bound": "14999"
+        "lower_bound": "15000",
+        "upper_bound": "19999"
       },
       "ad_id": "472201883412074"
     }
@@ -2126,60 +2126,65 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.347826",
+          "percentage": "0.001761",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.34507",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.030246",
+          "percentage": "0.028169",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.302457",
+          "percentage": "0.299296",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.028355",
+          "percentage": "0.02993",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.069943",
+          "percentage": "0.075704",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.109641",
+          "percentage": "0.105634",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.079395",
+          "percentage": "0.082746",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.018904",
+          "percentage": "0.017606",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.009452",
+          "percentage": "0.010563",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.003781",
+          "percentage": "0.003521",
           "age": "18-24",
           "gender": "female"
         }
       ],
       "funding_entity": "Chieh Hua Lu",
       "impressions": {
-        "lower_bound": "3000",
-        "upper_bound": "3999"
+        "lower_bound": "4000",
+        "upper_bound": "4999"
       },
       "page_id": "103958804286330",
       "page_name": "立法委員參選人黃兆呈",
@@ -2190,8 +2195,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "1000",
-        "upper_bound": "1499"
+        "lower_bound": "1500",
+        "upper_bound": "1999"
       },
       "ad_id": "1041365302867722"
     }
@@ -2213,65 +2218,65 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.001339",
+          "percentage": "0.001235",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.053548",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.182062",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.084337",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.014726",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.004016",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.057564",
+          "percentage": "0.059259",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.06158",
+          "percentage": "0.061728",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.238286",
+          "percentage": "0.237037",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.278447",
+          "percentage": "0.271605",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.024096",
+          "percentage": "0.023457",
           "age": "18-24",
           "gender": "male"
+        },
+        {
+          "percentage": "0.058025",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.190123",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.01358",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.079012",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.004938",
+          "age": "18-24",
+          "gender": "female"
         }
       ],
       "funding_entity": "Chieh Hua Lu",
       "impressions": {
-        "lower_bound": "8000",
-        "upper_bound": "8999"
+        "lower_bound": "15000",
+        "upper_bound": "19999"
       },
       "page_id": "103958804286330",
       "page_name": "立法委員參選人黃兆呈",
@@ -2282,8 +2287,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "2500",
-        "upper_bound": "2999"
+        "lower_bound": "5000",
+        "upper_bound": "5999"
       },
       "ad_id": "444065382957059"
     }

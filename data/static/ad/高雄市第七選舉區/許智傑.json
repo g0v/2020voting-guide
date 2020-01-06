@@ -4396,95 +4396,95 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "9.3E-5",
+          "percentage": "6.3E-5",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.053274",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.015367",
-          "age": "65+",
+          "percentage": "0.091951",
+          "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.058489",
-          "age": "45-54",
-          "gender": "female"
+          "percentage": "0.000443",
+          "age": "18-24",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.030828",
+          "percentage": "0.038186",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.014157",
+          "percentage": "0.018618",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.019315",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.038093",
-          "age": "55-64",
+          "percentage": "0.00095",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.068457",
+          "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.10869",
+          "percentage": "0.072826",
           "age": "18-24",
-          "gender": "female"
+          "gender": "male"
         },
         {
-          "percentage": "0.173605",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000186",
+          "percentage": "0.00019",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.128714",
+          "percentage": "0.117662",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.122939",
-          "age": "35-44",
+          "percentage": "0.046102",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.058261",
+          "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.084288",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.169042",
+          "percentage": "0.17624",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.000838",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.001024",
+          "percentage": "0.123171",
           "age": "35-44",
-          "gender": "unknown"
+          "gender": "male"
         },
         {
-          "percentage": "0.000373",
-          "age": "18-24",
+          "percentage": "0.166867",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000697",
+          "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "傑特 周",
       "impressions": {
-        "lower_bound": "15000",
-        "upper_bound": "19999"
+        "lower_bound": "25000",
+        "upper_bound": "29999"
       },
       "page_id": "279997645348476",
       "page_name": "許智傑",
@@ -4495,8 +4495,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "1000",
-        "upper_bound": "1499"
+        "lower_bound": "1500",
+        "upper_bound": "1999"
       },
       "ad_id": "441697103445607"
     }
@@ -5165,90 +5165,90 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000602",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000602",
+          "percentage": "0.16016",
           "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.078313",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.203614",
-          "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.124096",
+          "percentage": "0.119787",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.074699",
-          "age": "65+",
+          "percentage": "0.186335",
+          "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.074096",
+          "percentage": "0.089175",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.076752",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.081189",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.037952",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.041566",
+          "percentage": "0.067436",
           "age": "65+",
-          "gender": "female"
+          "gender": "male"
         },
         {
-          "percentage": "0.063253",
+          "percentage": "0.070985",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.034337",
+          "percentage": "0.040816",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.157831",
-          "age": "45-54",
-          "gender": "male"
+          "percentage": "0.020408",
+          "age": "18-24",
+          "gender": "female"
         },
         {
-          "percentage": "0.001807",
+          "percentage": "0.043035",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.040373",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001331",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.087952",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.018675",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000602",
+          "percentage": "0.000444",
           "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000887",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000887",
+          "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "傑特 周",
       "impressions": {
-        "lower_bound": "2000",
-        "upper_bound": "2999"
+        "lower_bound": "3000",
+        "upper_bound": "3999"
       },
       "page_id": "279997645348476",
       "page_name": "許智傑",
@@ -5259,8 +5259,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
+        "lower_bound": "400",
+        "upper_bound": "499"
       },
       "ad_id": "531376710809172"
     }
@@ -5282,75 +5282,85 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.166372",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.185841",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.102655",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.152212",
+          "percentage": "0.001057",
           "age": "45-54",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.038938",
-          "age": "65+",
-          "gender": "female"
+          "percentage": "0.000704",
+          "age": "35-44",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.069027",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.079646",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.063717",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.028319",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.077876",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.010619",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.023009",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.00177",
+          "percentage": "0.000352",
           "age": "65+",
           "gender": "unknown"
+        },
+        {
+          "percentage": "0.046847",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.189151",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.048609",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.150053",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.084185",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.069391",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.091229",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.127862",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.028531",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.063403",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.062698",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.035928",
+          "age": "65+",
+          "gender": "female"
         }
       ],
       "funding_entity": "傑特 周",
       "impressions": {
-        "lower_bound": "0",
-        "upper_bound": "999"
+        "lower_bound": "5000",
+        "upper_bound": "5999"
       },
       "page_id": "279997645348476",
       "page_name": "許智傑",
@@ -5361,8 +5371,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "0",
-        "upper_bound": "99"
+        "lower_bound": "300",
+        "upper_bound": "399"
       },
       "ad_id": "1235218453534242"
     }
@@ -5481,80 +5491,90 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000865",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000432",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.042802",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.048854",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.15348",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.161262",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.050151",
+          "percentage": "0.036626",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.064419",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.102464",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.02032",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.197579",
+          "percentage": "0.165893",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.06658",
+          "percentage": "0.054856",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.076092",
+          "percentage": "0.052204",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.126616",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.026516",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.032317",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.111203",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.0147",
+          "percentage": "0.079383",
           "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.181969",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.070434",
+          "age": "55-64",
           "gender": "female"
+        },
+        {
+          "percentage": "0.060656",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000331",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000497",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000331",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000166",
+          "age": "55-64",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "傑特 周",
       "impressions": {
-        "lower_bound": "2000",
-        "upper_bound": "2999"
+        "lower_bound": "7000",
+        "upper_bound": "7999"
       },
       "page_id": "279997645348476",
       "page_name": "許智傑",
@@ -5565,8 +5585,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "100",
-        "upper_bound": "199"
+        "lower_bound": "400",
+        "upper_bound": "499"
       },
       "ad_id": "1386553124839189"
     }
@@ -5588,60 +5608,80 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.132075",
-          "age": "45-54",
+          "percentage": "0.103409",
+          "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.09434",
+          "percentage": "0.215007",
           "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.169811",
-          "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.169811",
+          "percentage": "0.009141",
           "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.132075",
-          "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.09434",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.037736",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.018868",
+          "percentage": "0.230623",
           "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.031232",
+          "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.056604",
+          "percentage": "0.149495",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.048372",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.09434",
+          "percentage": "0.072558",
           "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.051419",
+          "age": "25-34",
           "gender": "male"
+        },
+        {
+          "percentage": "0.025519",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.04761",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.015045",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00019",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000381",
+          "age": "35-44",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "傑特 周",
       "impressions": {
-        "lower_bound": "0",
-        "upper_bound": "999"
+        "lower_bound": "5000",
+        "upper_bound": "5999"
       },
       "page_id": "279997645348476",
       "page_name": "許智傑",
@@ -5652,8 +5692,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "0",
-        "upper_bound": "99"
+        "lower_bound": "400",
+        "upper_bound": "499"
       },
       "ad_id": "603441843777247"
     }
@@ -5675,70 +5715,80 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.197802",
-          "age": "45-54",
-          "gender": "male"
+          "percentage": "0.001415",
+          "age": "35-44",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.076923",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.065934",
+          "percentage": "0.000354",
           "age": "65+",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.087912",
+          "percentage": "0.123099",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.153846",
-          "age": "25-34",
+          "percentage": "0.173329",
+          "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.142857",
+          "percentage": "0.048815",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.070393",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.131868",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.054945",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.032967",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.032967",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.010989",
+          "percentage": "0.022639",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.010989",
+          "percentage": "0.182172",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.015918",
           "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.07676",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.061196",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.073576",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.113902",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.036434",
+          "age": "65+",
           "gender": "female"
         }
       ],
       "funding_entity": "傑特 周",
       "impressions": {
-        "lower_bound": "0",
-        "upper_bound": "999"
+        "lower_bound": "3000",
+        "upper_bound": "3999"
       },
       "page_id": "279997645348476",
       "page_name": "許智傑",
@@ -5749,10 +5799,127 @@
         }
       ],
       "spend": {
-        "lower_bound": "0",
-        "upper_bound": "99"
+        "lower_bound": "200",
+        "upper_bound": "299"
       },
       "ad_id": "2260800194217759"
+    }
+  },
+  {
+    "選區": "高雄市第七選舉區",
+    "參選人": "許智傑",
+    "AD_ID": "2565337887037282",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "倒數12天！智傑非常關心兒童的權利，大家知道兒少法之定義，幾歲以下稱為兒童嗎？答案就是12歲 智傑推動各項親子活動，希望能創造大小朋友共同的成長環境，推出親子活動三部曲、在立法院協助準公共化及育兒津貼的推動、爭取鳳山各地的兒童公園綠地、爭取鳳山校園的各項建設，讓鳳山人敢生小孩、願意生小孩，一起邁向36萬的人口大關。 🎡紙風車親子戲劇：諸葛四郎@衛武營、番薯森林奇遇記@五甲廟 🎪小金剛吹泡泡：巡迴鳳山15場，深入各社區推廣親子活動 ⚽親子迷你足球：體育運動從小紮根，培養小朋友對足球的興趣 👶0-6歲國家跟你一起養：推動準公共化、縮小幼兒園收費差距 ⛲推動綠地建設：成功爭取五甲公園、衛武營公園、兒童公園等 #誠懇實在值得信賴 #我鳳山我驕傲 #鳳山台派大團結 #延續建設靠智傑",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/81886062_2565337900370614_9023269295785771008_n.jpg?_nc_cat=107&_nc_ohc=ktCDlG6WcIIAQkHT-TRLBksA7QEwq_Yykg7jMmTmYbl7jkUupgvCJtJLg&_nc_ht=scontent-hkg3-2.xx&oh=f988cb77739a82ed5a13c1ae62365de1&oe=5E70D2F3",
+    "廣告詳情": {
+      "ad_creative_body": "倒數12天！智傑非常關心兒童的權利，大家知道兒少法之定義，幾歲以下稱為兒童嗎？答案就是12歲\n\n智傑推動各項親子活動，希望能創造大小朋友共同的成長環境，推出親子活動三部曲、在立法院協助準公共化及育兒津貼的推動、爭取鳳山各地的兒童公園綠地、爭取鳳山校園的各項建設，讓鳳山人敢生小孩、願意生小孩，一起邁向36萬的人口大關。\n\n🎡紙風車親子戲劇：諸葛四郎@衛武營、番薯森林奇遇記@五甲廟\n🎪小金剛吹泡泡：巡迴鳳山15場，深入各社區推廣親子活動\n⚽親子迷你足球：體育運動從小紮根，培養小朋友對足球的興趣\n👶0-6歲國家跟你一起養：推動準公共化、縮小幼兒園收費差距\n⛲推動綠地建設：成功爭取五甲公園、衛武營公園、兒童公園等\n\n#誠懇實在值得信賴\n#我鳳山我驕傲\n#鳳山台派大團結\n#延續建設靠智傑",
+      "ad_creation_time": "2019-12-30T14:17:43+0000",
+      "ad_delivery_start_time": "2019-12-30T14:17:43+0000",
+      "ad_delivery_stop_time": "2020-01-04T14:17:23+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000242",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000242",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.194874",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.053917",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.052466",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.105174",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.050532",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.121373",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.051741",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.056576",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.120164",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.049807",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.075677",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.065522",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001451",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000242",
+          "age": "55-64",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "傑特 周",
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "page_id": "279997645348476",
+      "page_name": "許智傑",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Kaohsiung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "599"
+      },
+      "ad_id": "2565337887037282"
     }
   },
   {
@@ -5773,40 +5940,45 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.305263",
+          "percentage": "0.000378",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.377123",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.231579",
+          "percentage": "0.151378",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.223481",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.131579",
+          "percentage": "0.085693",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.178947",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.094737",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.057895",
+          "percentage": "0.0755",
           "age": "45-54",
           "gender": "female"
+        },
+        {
+          "percentage": "0.086448",
+          "age": "65+",
+          "gender": "male"
         }
       ],
       "funding_entity": "傑特 周",
       "impressions": {
-        "lower_bound": "0",
-        "upper_bound": "999"
+        "lower_bound": "3000",
+        "upper_bound": "3999"
       },
       "page_id": "279997645348476",
       "page_name": "許智傑",
@@ -5817,8 +5989,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "0",
-        "upper_bound": "99"
+        "lower_bound": "100",
+        "upper_bound": "199"
       },
       "ad_id": "505521703652715"
     }

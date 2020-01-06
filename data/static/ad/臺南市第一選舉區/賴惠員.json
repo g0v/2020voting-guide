@@ -539,82 +539,82 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000133",
+          "percentage": "0.000123",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000133",
+          "percentage": "0.000123",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000266",
+          "percentage": "0.000245",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.017943",
+          "percentage": "0.018269",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.028841",
+          "percentage": "0.027097",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.421053",
+          "percentage": "0.428151",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.083865",
+          "percentage": "0.083497",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.043993",
+          "percentage": "0.042791",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.065125",
+          "percentage": "0.065351",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.211855",
+          "percentage": "0.212972",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.01236",
+          "percentage": "0.012874",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.019139",
+          "percentage": "0.018391",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.019803",
+          "percentage": "0.019495",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.018873",
+          "percentage": "0.017778",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.05622",
+          "percentage": "0.052477",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.000399",
+          "percentage": "0.000368",
           "age": "18-24",
           "gender": "unknown"
         }
@@ -628,97 +628,97 @@
       "page_name": "賴惠員",
       "region_distribution": [
         {
-          "percentage": "0.00013",
+          "percentage": "0.00012",
           "region": "Lienchiang"
         },
         {
-          "percentage": "0.010514",
-          "region": "Hualien"
-        },
-        {
-          "percentage": "0.01298",
-          "region": "Keelung City"
-        },
-        {
-          "percentage": "0.024013",
-          "region": "Yunlin"
-        },
-        {
-          "percentage": "0.013629",
-          "region": "Yilan"
-        },
-        {
-          "percentage": "0.010125",
-          "region": "Taitung"
-        },
-        {
-          "percentage": "0.03271",
-          "region": "Pingtung"
-        },
-        {
-          "percentage": "0.003115",
-          "region": "Penghu"
-        },
-        {
-          "percentage": "0.011812",
-          "region": "Nantou"
-        },
-        {
-          "percentage": "0.014148",
-          "region": "Miaoli"
-        },
-        {
-          "percentage": "0.001038",
-          "region": "Hsinchu"
-        },
-        {
-          "percentage": "0.002596",
+          "percentage": "0.002525",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.001817",
-          "region": "Chiayi"
+          "percentage": "0.013228",
+          "region": "Keelung City"
         },
         {
-          "percentage": "0.044912",
-          "region": "Changhua"
+          "percentage": "0.024291",
+          "region": "Yunlin"
         },
         {
-          "percentage": "0.11202",
-          "region": "New Taipei City"
+          "percentage": "0.013588",
+          "region": "Yilan"
         },
         {
-          "percentage": "0.136163",
-          "region": "Taichung"
+          "percentage": "0.009981",
+          "region": "Taitung"
         },
         {
-          "percentage": "0.084891",
-          "region": "Taoyuan City"
+          "percentage": "0.03355",
+          "region": "Pingtung"
         },
         {
-          "percentage": "0.11163",
-          "region": "Tainan"
+          "percentage": "0.002886",
+          "region": "Penghu"
         },
         {
-          "percentage": "0.191199",
-          "region": "Taipei"
+          "percentage": "0.012626",
+          "region": "Nantou"
         },
         {
-          "percentage": "0.128245",
-          "region": "Kaohsiung"
+          "percentage": "0.013709",
+          "region": "Miaoli"
         },
         {
-          "percentage": "0.020379",
+          "percentage": "0.010702",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.020443",
           "region": "Unknown"
         },
         {
-          "percentage": "0.031931",
+          "percentage": "0.000962",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.001924",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.043891",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.112314",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.135522",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.087783",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.11039",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.186388",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.130592",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.032588",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "1000",
-        "upper_bound": "1499"
+        "lower_bound": "1500",
+        "upper_bound": "1999"
       },
       "ad_id": "625343954902814"
     }
@@ -1478,151 +1478,151 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.300975",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.162792",
+          "percentage": "0.153657",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.422396",
+          "percentage": "0.307232",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.40367",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.037958",
+          "percentage": "0.047645",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.029692",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.044253",
+          "percentage": "0.053033",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.000834",
+          "percentage": "0.032383",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000957",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000303",
-          "age": "18-24",
+          "percentage": "0.001094",
+          "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000796",
-          "age": "35-44",
+          "percentage": "0.000328",
+          "age": "18-24",
           "gender": "unknown"
         }
       ],
       "funding_entity": "賴惠員",
       "impressions": {
-        "lower_bound": "30000",
-        "upper_bound": "34999"
+        "lower_bound": "50000",
+        "upper_bound": "59999"
       },
       "page_id": "132727540081371",
       "page_name": "賴惠員",
       "region_distribution": [
         {
-          "percentage": "0.000149",
-          "region": "Lienchiang"
-        },
-        {
-          "percentage": "0.002684",
-          "region": "Kinmen"
-        },
-        {
-          "percentage": "0.004622",
-          "region": "Keelung City"
-        },
-        {
-          "percentage": "0.064298",
-          "region": "Yunlin"
-        },
-        {
-          "percentage": "0.00943",
-          "region": "Yilan"
-        },
-        {
-          "percentage": "0.00697",
-          "region": "Taitung"
-        },
-        {
-          "percentage": "0.064298",
-          "region": "Pingtung"
-        },
-        {
-          "percentage": "0.004212",
-          "region": "Penghu"
-        },
-        {
-          "percentage": "0.017631",
-          "region": "Nantou"
-        },
-        {
-          "percentage": "0.019457",
-          "region": "Miaoli"
-        },
-        {
-          "percentage": "0.009281",
-          "region": "Hualien"
-        },
-        {
-          "percentage": "0.051103",
+          "percentage": "0.046171",
           "region": "Unknown"
         },
         {
-          "percentage": "0.003467",
-          "region": "Hsinchu"
+          "percentage": "0.000217",
+          "region": "Lienchiang"
         },
         {
-          "percentage": "0.003131",
-          "region": "Chiayi"
+          "percentage": "0.006104",
+          "region": "Keelung City"
         },
         {
-          "percentage": "0.058707",
-          "region": "Changhua"
+          "percentage": "0.062746",
+          "region": "Yunlin"
         },
         {
-          "percentage": "0.057216",
-          "region": "New Taipei City"
+          "percentage": "0.009657",
+          "region": "Yilan"
         },
         {
-          "percentage": "0.150179",
-          "region": "Taichung"
+          "percentage": "0.007867",
+          "region": "Taitung"
         },
         {
-          "percentage": "0.06866",
-          "region": "Taoyuan City"
+          "percentage": "0.060603",
+          "region": "Pingtung"
         },
         {
-          "percentage": "0.200201",
-          "region": "Tainan"
+          "percentage": "0.004395",
+          "region": "Penghu"
         },
         {
-          "percentage": "0.037498",
-          "region": "Taipei"
+          "percentage": "0.017633",
+          "region": "Nantou"
         },
         {
-          "percentage": "0.147793",
+          "percentage": "0.01785",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.002767",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.149093",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.01901",
+          "percentage": "0.009739",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.003988",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.003093",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.05496",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.060331",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.148116",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.072295",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.197081",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.042726",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.02257",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "2500",
-        "upper_bound": "2999"
+        "lower_bound": "3500",
+        "upper_bound": "3999"
       },
       "ad_id": "1486411051535840"
     }
@@ -1645,191 +1645,191 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "9.8E-5",
-          "age": "55-64",
-          "gender": "unknown"
+          "percentage": "0.224963",
+          "age": "45-54",
+          "gender": "male"
         },
         {
-          "percentage": "0.039879",
+          "percentage": "0.040483",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.000196",
+          "percentage": "0.000374",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000498",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000311",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000294",
-          "age": "18-24",
+          "percentage": "0.000561",
+          "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.008622",
+          "percentage": "0.012145",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.010713",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.018323",
+          "percentage": "0.047583",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.223406",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.058545",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.023667",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.00921",
-          "age": "18-24",
+          "percentage": "0.093236",
+          "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.000294",
+          "percentage": "0.115035",
           "age": "35-44",
-          "gender": "unknown"
+          "gender": "male"
         },
         {
-          "percentage": "0.041544",
+          "percentage": "0.049078",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.105624",
+          "percentage": "0.099215",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.089947",
+          "percentage": "0.000187",
           "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.241427",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.054576",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.228493",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.114638",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.046639",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000196",
-          "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "賴惠員",
       "impressions": {
-        "lower_bound": "10000",
-        "upper_bound": "14999"
+        "lower_bound": "25000",
+        "upper_bound": "29999"
       },
       "page_id": "132727540081371",
       "page_name": "賴惠員",
       "region_distribution": [
         {
-          "percentage": "0.079156",
+          "percentage": "0.07435",
           "region": "Unknown"
         },
         {
-          "percentage": "0.000495",
+          "percentage": "0.000373",
           "region": "Lienchiang"
         },
         {
-          "percentage": "0.005548",
+          "percentage": "0.008082",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.041114",
+          "percentage": "0.040905",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.007331",
+          "percentage": "0.008144",
           "region": "Yilan"
         },
         {
-          "percentage": "0.005548",
+          "percentage": "0.005595",
           "region": "Taitung"
         },
         {
-          "percentage": "0.028829",
+          "percentage": "0.028658",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.004755",
+          "percentage": "0.004414",
           "region": "Penghu"
         },
         {
-          "percentage": "0.011492",
+          "percentage": "0.01206",
           "region": "Nantou"
         },
         {
-          "percentage": "0.010303",
+          "percentage": "0.00976",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.000793",
+          "percentage": "0.001181",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.112443",
+          "percentage": "0.122032",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.007529",
+          "percentage": "0.006838",
           "region": "Hualien"
         },
         {
-          "percentage": "0.001486",
+          "percentage": "0.001678",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.005647",
+          "percentage": "0.004787",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.037547",
+          "percentage": "0.036554",
           "region": "Changhua"
         },
         {
-          "percentage": "0.064593",
+          "percentage": "0.069564",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.081831",
+          "percentage": "0.085416",
           "region": "Taichung"
         },
         {
-          "percentage": "0.049534",
+          "percentage": "0.05166",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.366653",
+          "percentage": "0.338369",
           "region": "Tainan"
         },
         {
-          "percentage": "0.065881",
+          "percentage": "0.075718",
           "region": "Taipei"
         },
         {
-          "percentage": "0.011492",
+          "percentage": "0.013863",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "1000",
-        "upper_bound": "1499"
+        "lower_bound": "2000",
+        "upper_bound": "2499"
       },
       "ad_id": "816158325566175"
     }
@@ -1852,177 +1852,186 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.109804",
+          "percentage": "0.000591",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.094872",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.030719",
+          "percentage": "0.053521",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.417647",
+          "percentage": "0.363894",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.01634",
+          "percentage": "0.029301",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.233007",
+          "percentage": "0.239839",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.09281",
+          "percentage": "0.099362",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.02451",
+          "percentage": "0.023157",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.012418",
+          "percentage": "0.019494",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.019935",
+          "percentage": "0.01595",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.009477",
+          "percentage": "0.012287",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.009477",
+          "percentage": "0.011697",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.022549",
+          "percentage": "0.034972",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.000654",
+          "percentage": "0.000591",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000327",
+          "percentage": "0.000118",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000327",
+          "percentage": "0.000354",
           "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "賴惠員",
       "impressions": {
-        "lower_bound": "4000",
-        "upper_bound": "4999"
+        "lower_bound": "20000",
+        "upper_bound": "24999"
       },
       "page_id": "132727540081371",
       "page_name": "賴惠員",
       "region_distribution": [
         {
-          "percentage": "0.019344",
-          "region": "Unknown"
+          "percentage": "0.000231",
+          "region": "Lienchiang"
         },
         {
-          "percentage": "0.001967",
+          "percentage": "0.001616",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.011148",
+          "percentage": "0.013732",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.023607",
+          "percentage": "0.029887",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.011475",
+          "percentage": "0.010155",
           "region": "Yilan"
         },
         {
-          "percentage": "0.008852",
+          "percentage": "0.009001",
           "region": "Taitung"
         },
         {
-          "percentage": "0.027869",
+          "percentage": "0.039926",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.003934",
+          "percentage": "0.002654",
           "region": "Penghu"
         },
         {
-          "percentage": "0.013115",
+          "percentage": "0.01627",
           "region": "Nantou"
         },
         {
-          "percentage": "0.009836",
+          "percentage": "0.012578",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.009508",
+          "percentage": "0.009924",
           "region": "Hualien"
         },
         {
-          "percentage": "0.128852",
-          "region": "Kaohsiung"
+          "percentage": "0.028502",
+          "region": "Unknown"
         },
         {
-          "percentage": "0.000984",
+          "percentage": "0.001616",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.001639",
+          "percentage": "0.001616",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.039672",
+          "percentage": "0.042465",
           "region": "Changhua"
         },
         {
-          "percentage": "0.131148",
+          "percentage": "0.112393",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.135082",
+          "percentage": "0.140895",
           "region": "Taichung"
         },
         {
-          "percentage": "0.089508",
+          "percentage": "0.093584",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.116066",
+          "percentage": "0.119778",
           "region": "Tainan"
         },
         {
-          "percentage": "0.190492",
+          "percentage": "0.164782",
           "region": "Taipei"
         },
         {
-          "percentage": "0.025902",
+          "percentage": "0.121048",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.027348",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "400",
-        "upper_bound": "499"
+        "lower_bound": "1500",
+        "upper_bound": "1999"
       },
       "ad_id": "778721145936180"
     }
@@ -2149,7 +2158,7 @@
       "ad_creative_body": "2020農曆新年的總統府賀年以「攜手同心，台灣前進」為主題，也是台灣人一直努力的目標與方向。\n\n過去，我們克服困境，而現在，我們勇敢創新！當對立爭吵的迷霧，已經遮住前進的路，面對下一代，我們不能再裝糊塗！\n\n2020不只台灣要贏，更要攜手同心！一起用我們手中的選票，支持進步力量，讓台灣向前進！\n\n—————————————\n\n總統請投 ③ 蔡英文 賴清德\n立委請投 ③ 賴惠員",
       "ad_creation_time": "2019-12-29T13:32:36+0000",
       "ad_delivery_start_time": "2019-12-29T13:32:41+0000",
-      "ad_delivery_stop_time": "2020-01-03T13:32:36+0000",
+      "ad_delivery_stop_time": "2020-01-04T13:32:36+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -2267,82 +2276,87 @@
       "ad_creative_body": "賴清德全力推薦３號賴惠員：「這一次，她的責任更重大，希望得到大家支持，共同守護台灣。」\n誠摯邀請您明年大選用手中的選票，堅定守護自由民主的台灣！",
       "ad_creation_time": "2019-12-30T10:41:57+0000",
       "ad_delivery_start_time": "2019-12-30T10:41:57+0000",
-      "ad_delivery_stop_time": "2020-01-05T10:33:06+0000",
+      "ad_delivery_stop_time": "2020-01-10T15:59:06+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000175",
-          "age": "18-24",
+          "percentage": "0.000138",
+          "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000525",
+          "percentage": "0.092526",
           "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000276",
+          "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.027647",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.103062",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.219773",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.064217",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.051269",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.03692",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.014873",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.131584",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.220997",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.015398",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.07699",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.035171",
+          "percentage": "0.033824",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.000875",
+          "percentage": "0.048734",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.026369",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.142143",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.046056",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.126211",
           "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000249",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.109921",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.079769",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.050612",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.09559",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.14692",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000138",
+          "age": "18-24",
           "gender": "unknown"
         },
         {
@@ -2353,28 +2367,28 @@
       ],
       "funding_entity": "賴惠員",
       "impressions": {
-        "lower_bound": "6000",
-        "upper_bound": "6999"
+        "lower_bound": "60000",
+        "upper_bound": "69999"
       },
       "page_id": "132727540081371",
       "page_name": "賴惠員",
       "region_distribution": [
         {
-          "percentage": "0.010242",
+          "percentage": "0.009869",
           "region": "Unknown"
         },
         {
-          "percentage": "0.931205",
+          "percentage": "0.925722",
           "region": "Tainan"
         },
         {
-          "percentage": "0.058552",
+          "percentage": "0.064409",
           "region": "Chiayi"
         }
       ],
       "spend": {
-        "lower_bound": "600",
-        "upper_bound": "699"
+        "lower_bound": "6000",
+        "upper_bound": "6999"
       },
       "ad_id": "465699870784452"
     }
@@ -2397,117 +2411,547 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000319",
+          "percentage": "9.7E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "9.7E-5",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "9.7E-5",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.294868",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.076187",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.323876",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.072043",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.011157",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.01052",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.028371",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.133248",
+          "percentage": "0.156576",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.027096",
+          "percentage": "0.021059",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.302038",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.296383",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.088135",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.070488",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.011309",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.008385",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.026226",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.021039",
+          "percentage": "0.018134",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.000638",
+          "percentage": "0.00078",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000638",
+          "percentage": "0.000195",
           "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "賴惠員",
       "impressions": {
-        "lower_bound": "3000",
-        "upper_bound": "3999"
+        "lower_bound": "10000",
+        "upper_bound": "14999"
       },
       "page_id": "132727540081371",
       "page_name": "賴惠員",
       "region_distribution": [
         {
-          "percentage": "0.126792",
+          "percentage": "0.110214",
           "region": "Unknown"
         },
         {
-          "percentage": "0.329723",
+          "percentage": "0.348804",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.106403",
+          "percentage": "0.113385",
           "region": "Taipei"
         },
         {
-          "percentage": "0.091749",
+          "percentage": "0.05775",
           "region": "Tainan"
         },
         {
-          "percentage": "0.101306",
+          "percentage": "0.10368",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.205161",
+          "percentage": "0.22898",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.007964",
+          "percentage": "0.006726",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.030902",
+          "percentage": "0.03046",
           "region": "Pingtung"
         }
       ],
       "spend": {
-        "lower_bound": "300",
-        "upper_bound": "399"
+        "lower_bound": "1000",
+        "upper_bound": "1499"
       },
       "ad_id": "518528555417540"
+    }
+  },
+  {
+    "選區": "臺南市第一選舉區",
+    "參選人": "賴惠員",
+    "AD_ID": "457745781576444",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "賴清德全力推薦３號賴惠員：「這一次，她的責任更重大，希望得到大家支持，共同守護台灣。」 誠摯邀請您明年大選用手中的選票，堅定守護自由民主的台灣！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81969818_465699887451117_8786829009678761984_n.jpg?_nc_cat=105&_nc_ohc=VAZAqImM4eYAQk9eJYF5HVD6V-_NMkU0AN-goAVg1UsQZjqe1wfQiJ_Bw&_nc_ht=scontent-hkg3-1.xx&oh=8f1e2600f7a91c7027c28b601ec19f35&oe=5EA06091",
+    "廣告詳情": {
+      "ad_creative_body": "賴清德全力推薦３號賴惠員：「這一次，她的責任更重大，希望得到大家支持，共同守護台灣。」\n誠摯邀請您明年大選用手中的選票，堅定守護自由民主的台灣！",
+      "ad_creation_time": "2020-01-04T21:07:56+0000",
+      "ad_delivery_start_time": "2020-01-04T21:07:56+0000",
+      "ad_delivery_stop_time": "2020-01-10T15:59:06+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.119022",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.133322",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "4.4E-5",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000131",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000305",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000174",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.021101",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.037363",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.101234",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.085015",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.133714",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.050835",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.110302",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.039761",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.112874",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.054366",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000436",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "賴惠員",
+      "impressions": {
+        "lower_bound": "30000",
+        "upper_bound": "34999"
+      },
+      "page_id": "132727540081371",
+      "page_name": "賴惠員",
+      "region_distribution": [
+        {
+          "percentage": "0.009037",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.934977",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.055986",
+          "region": "Chiayi"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2500",
+        "upper_bound": "2999"
+      },
+      "ad_id": "457745781576444"
+    }
+  },
+  {
+    "選區": "臺南市第一選舉區",
+    "參選人": "賴惠員",
+    "AD_ID": "2762074890547601",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "賴清德全力推薦３號賴惠員：「這一次，她的責任更重大，希望得到大家支持，共同守護台灣。」 誠摯邀請您明年大選用手中的選票，堅定守護自由民主的台灣！",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81969818_465699887451117_8786829009678761984_n.jpg?_nc_cat=105&_nc_ohc=VAZAqImM4eYAQk9eJYF5HVD6V-_NMkU0AN-goAVg1UsQZjqe1wfQiJ_Bw&_nc_ht=scontent-hkg3-1.xx&oh=8f1e2600f7a91c7027c28b601ec19f35&oe=5EA06091",
+    "廣告詳情": {
+      "ad_creative_body": "賴清德全力推薦３號賴惠員：「這一次，她的責任更重大，希望得到大家支持，共同守護台灣。」\n誠摯邀請您明年大選用手中的選票，堅定守護自由民主的台灣！",
+      "ad_creation_time": "2020-01-01T06:03:13+0000",
+      "ad_delivery_start_time": "2020-01-01T06:03:13+0000",
+      "ad_delivery_stop_time": "2020-01-10T15:59:06+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000222",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000222",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.161755",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.139597",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.083536",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.064924",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.082872",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.163084",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.060492",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.042987",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.110126",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.028363",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.038998",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.022823",
+          "age": "18-24",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "賴惠員",
+      "impressions": {
+        "lower_bound": "4000",
+        "upper_bound": "4999"
+      },
+      "page_id": "132727540081371",
+      "page_name": "賴惠員",
+      "region_distribution": [
+        {
+          "percentage": "0.010682",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.938304",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.051014",
+          "region": "Chiayi"
+        }
+      ],
+      "spend": {
+        "lower_bound": "400",
+        "upper_bound": "499"
+      },
+      "ad_id": "2762074890547601"
+    }
+  },
+  {
+    "選區": "臺南市第一選舉區",
+    "參選人": "賴惠員",
+    "AD_ID": "494368471190887",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【我是 ➌︎ 賴惠員】 這片土地，給予我們成長的養分，培育出台灣人堅毅、自信、勇敢冒險的性格。 這首歌，第一次聆聽時，隨著樂曲慷慨激昂的旋律，漸漸被滅火器帶入他所詮釋的世界，但等到第二次、第三次、第四次後...突然間發現，其實這就是每一位台灣囡仔的最樸實的心聲以及最無欲的願望。 仝心為台灣！自信勇敢的站出來！",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/81872567_2469579116648451_5425252295732363264_n.jpg?_nc_cat=110&_nc_ohc=aTqnc8kp9OEAQm7ttrXRfbatJwbRn14koHLk6oroalDmCkOqbNNcTx4ug&_nc_ht=scontent-hkg3-2.xx&oh=ce65808f0ca209351e7dbcbacf954509&oe=5EB3826F",
+    "廣告詳情": {
+      "ad_creative_body": "【我是 ➌︎ 賴惠員】\n\n這片土地，給予我們成長的養分，培育出台灣人堅毅、自信、勇敢冒險的性格。\n\n這首歌，第一次聆聽時，隨著樂曲慷慨激昂的旋律，漸漸被滅火器帶入他所詮釋的世界，但等到第二次、第三次、第四次後...突然間發現，其實這就是每一位台灣囡仔的最樸實的心聲以及最無欲的願望。\n\n仝心為台灣！自信勇敢的站出來！",
+      "ad_creation_time": "2020-01-01T06:05:36+0000",
+      "ad_creative_link_title": "【自信勇敢咱的名MV】第二版｜辛苦快樂的一天",
+      "ad_delivery_start_time": "2020-01-01T06:05:36+0000",
+      "ad_delivery_stop_time": "2020-01-05T04:46:53+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.094758",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.116282",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.190421",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.210458",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.013315",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.086808",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.0329",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.091526",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.04266",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.119579",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000582",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000129",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000194",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000259",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000129",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "賴惠員",
+      "impressions": {
+        "lower_bound": "20000",
+        "upper_bound": "24999"
+      },
+      "page_id": "132727540081371",
+      "page_name": "賴惠員",
+      "region_distribution": [
+        {
+          "percentage": "0.989906",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.010094",
+          "region": "Chiayi"
+        }
+      ],
+      "spend": {
+        "lower_bound": "3000",
+        "upper_bound": "3499"
+      },
+      "ad_id": "494368471190887"
+    }
+  },
+  {
+    "選區": "臺南市第一選舉區",
+    "參選人": "賴惠員",
+    "AD_ID": "537102210220680",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【我是 ➌︎ 賴惠員】 這片土地，給予我們成長的養分，培育出台灣人堅毅、自信、勇敢冒險的性格。 這首歌，第一次聆聽時，隨著樂曲慷慨激昂的旋律，漸漸被滅火器帶入他所詮釋的世界，但等到第二次、第三次、第四次後...突然間發現，其實這就是每一位台灣囡仔的最樸實的心聲以及最無欲的願望。 仝心為台灣！自信勇敢的站出來！",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/81872567_2469579116648451_5425252295732363264_n.jpg?_nc_cat=110&_nc_ohc=aTqnc8kp9OEAQm7ttrXRfbatJwbRn14koHLk6oroalDmCkOqbNNcTx4ug&_nc_ht=scontent-hkg3-2.xx&oh=ce65808f0ca209351e7dbcbacf954509&oe=5EB3826F",
+    "廣告詳情": {
+      "ad_creative_body": "【我是 ➌︎ 賴惠員】\n\n這片土地，給予我們成長的養分，培育出台灣人堅毅、自信、勇敢冒險的性格。\n\n這首歌，第一次聆聽時，隨著樂曲慷慨激昂的旋律，漸漸被滅火器帶入他所詮釋的世界，但等到第二次、第三次、第四次後...突然間發現，其實這就是每一位台灣囡仔的最樸實的心聲以及最無欲的願望。\n\n仝心為台灣！自信勇敢的站出來！",
+      "ad_creation_time": "2020-01-01T05:52:48+0000",
+      "ad_creative_link_title": "【自信勇敢咱的名MV】第二版｜辛苦快樂的一天",
+      "ad_delivery_start_time": "2020-01-01T05:52:48+0000",
+      "ad_delivery_stop_time": "2020-01-05T04:46:53+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.25",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.25",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.25",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.25",
+          "age": "35-44",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "賴惠員",
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "132727540081371",
+      "page_name": "賴惠員",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Tainan"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "537102210220680"
     }
   },
   {
@@ -2760,6 +3204,452 @@
         "upper_bound": "99"
       },
       "ad_id": "2932915906719637"
+    }
+  },
+  {
+    "選區": "臺南市第一選舉區",
+    "參選人": "賴惠員",
+    "AD_ID": "470299196966713",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-29",
+    "結束日期": "1970-01-01",
+    "廣告內容": "2020農曆新年的總統府賀年以「攜手同心，台灣前進」為主題，也是台灣人一直努力的目標與方向。 過去，我們克服困境，而現在，我們勇敢創新！當對立爭吵的迷霧，已經遮住前進的路，面對下一代，我們不能再裝糊塗！ 2020不只台灣要贏，更要攜手同心！一起用我們手中的選票，支持進步力量，讓台灣向前進！ ————————————— 總統請投 ③ 蔡英文 賴清德 立委請投 ③ 賴惠員",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80447764_3084371094916986_5237811002287849472_n.jpg?_nc_cat=106&_nc_ohc=AvfXDD2PvywAQljD8s5ujDdA4Mo-LsXN3aohK2XDN7OvW1IHya5mGs0dw&_nc_ht=scontent-hkg3-1.xx&oh=6f3bd23f5a92666582d37a192bd16a6c&oe=5EA8F9E3",
+    "廣告詳情": {
+      "ad_creative_body": "2020農曆新年的總統府賀年以「攜手同心，台灣前進」為主題，也是台灣人一直努力的目標與方向。\n\n過去，我們克服困境，而現在，我們勇敢創新！當對立爭吵的迷霧，已經遮住前進的路，面對下一代，我們不能再裝糊塗！\n\n2020不只台灣要贏，更要攜手同心！一起用我們手中的選票，支持進步力量，讓台灣向前進！\n\n—————————————\n\n總統請投 ③ 蔡英文 賴清德\n立委請投 ③ 賴惠員",
+      "ad_creation_time": "2020-01-01T07:12:42+0000",
+      "ad_delivery_start_time": "2020-01-01T07:12:42+0000",
+      "ad_delivery_stop_time": "2020-01-04T13:32:36+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.297533",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.155361",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.058582",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.291881",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.097122",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.097294",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000514",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001028",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000685",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "賴惠員",
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "132727540081371",
+      "page_name": "賴惠員",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Tainan"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1500",
+        "upper_bound": "1999"
+      },
+      "ad_id": "470299196966713"
+    }
+  },
+  {
+    "選區": "臺南市第一選舉區",
+    "參選人": "賴惠員",
+    "AD_ID": "2485436778443235",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-27",
+    "結束日期": "1970-01-01",
+    "廣告內容": "平安夜的早上，感謝 總統府 陳菊(花媽) 秘書長、 賴清德 副總統陪同我到北門、將軍重要的廟宇參拜。 位於海線的北門、將軍、學甲土壤貧瘠、富含鹽分，因此又被稱為「鹽分地帶」，這裡過去曾誕生多位台灣本土文學作家，因此被視為傳承台灣文化的聖地。 2020大選，我們面臨抉擇台灣未來的重要時刻，請您用手中選票的力量，嚇阻境外敵對勢力，一起守護自由民主的台灣。 —————————— 總統請投 ③ 蔡英文 Tsai Ing-wen 賴清德 立委請投 ③ 賴惠員",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81558404_1486411074869171_471421258290954240_n.jpg?_nc_cat=106&_nc_ohc=4HJCegvhnzUAQmaHtIZkHz-EcEZLi3hS2t8CKyuDQJD1tfUk0bDhrjBag&_nc_ht=scontent-hkg3-1.xx&oh=6b0788707ee6415482f291d91b784d9c&oe=5E9EDB68",
+    "廣告詳情": {
+      "ad_creative_body": "平安夜的早上，感謝 總統府 陳菊(花媽) 秘書長、 賴清德 副總統陪同我到北門、將軍重要的廟宇參拜。\n\n位於海線的北門、將軍、學甲土壤貧瘠、富含鹽分，因此又被稱為「鹽分地帶」，這裡過去曾誕生多位台灣本土文學作家，因此被視為傳承台灣文化的聖地。\n\n2020大選，我們面臨抉擇台灣未來的重要時刻，請您用手中選票的力量，嚇阻境外敵對勢力，一起守護自由民主的台灣。\n\n——————————\n\n總統請投 ③ 蔡英文 Tsai Ing-wen 賴清德\n立委請投 ③ 賴惠員",
+      "ad_creation_time": "2020-01-02T03:33:13+0000",
+      "ad_creative_link_title": "12.24 陳菊 賴清德 力挺③賴惠員！",
+      "ad_delivery_start_time": "2020-01-02T03:33:13+0000",
+      "ad_delivery_stop_time": "2020-01-03T06:59:58+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "6.5E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.070481",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.370174",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.286563",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.155464",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.04873",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.029003",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.003658",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.015154",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.016983",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002809",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000131",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000327",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000196",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000261",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "賴惠員",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "132727540081371",
+      "page_name": "賴惠員",
+      "region_distribution": [
+        {
+          "percentage": "0.053249",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.000261",
+          "region": "Lienchiang"
+        },
+        {
+          "percentage": "0.008212",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.069022",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.013557",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.009385",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.080297",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.006127",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.021704",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.016881",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.001434",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.176302",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.011276",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.00189",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.002933",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.061787",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.073389",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.126703",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.07958",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.130874",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.042104",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.013035",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "1000",
+        "upper_bound": "1499"
+      },
+      "ad_id": "2485436778443235"
+    }
+  },
+  {
+    "選區": "臺南市第一選舉區",
+    "參選人": "賴惠員",
+    "AD_ID": "477979436187558",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-27",
+    "結束日期": "1970-01-01",
+    "廣告內容": "平安夜的早上，感謝 總統府 陳菊(花媽) 秘書長、 賴清德 副總統陪同我到北門、將軍重要的廟宇參拜。 位於海線的北門、將軍、學甲土壤貧瘠、富含鹽分，因此又被稱為「鹽分地帶」，這裡過去曾誕生多位台灣本土文學作家，因此被視為傳承台灣文化的聖地。 2020大選，我們面臨抉擇台灣未來的重要時刻，請您用手中選票的力量，嚇阻境外敵對勢力，一起守護自由民主的台灣。 —————————— 總統請投 ③ 蔡英文 Tsai Ing-wen 賴清德 立委請投 ③ 賴惠員",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81558404_1486411074869171_471421258290954240_n.jpg?_nc_cat=106&_nc_ohc=4HJCegvhnzUAQmaHtIZkHz-EcEZLi3hS2t8CKyuDQJD1tfUk0bDhrjBag&_nc_ht=scontent-hkg3-1.xx&oh=6b0788707ee6415482f291d91b784d9c&oe=5E9EDB68",
+    "廣告詳情": {
+      "ad_creative_body": "平安夜的早上，感謝 總統府 陳菊(花媽) 秘書長、 賴清德 副總統陪同我到北門、將軍重要的廟宇參拜。\n\n位於海線的北門、將軍、學甲土壤貧瘠、富含鹽分，因此又被稱為「鹽分地帶」，這裡過去曾誕生多位台灣本土文學作家，因此被視為傳承台灣文化的聖地。\n\n2020大選，我們面臨抉擇台灣未來的重要時刻，請您用手中選票的力量，嚇阻境外敵對勢力，一起守護自由民主的台灣。\n\n——————————\n\n總統請投 ③ 蔡英文 Tsai Ing-wen 賴清德\n立委請投 ③ 賴惠員",
+      "ad_creation_time": "2020-01-01T05:57:41+0000",
+      "ad_creative_link_title": "12.24 陳菊 賴清德 力挺③賴惠員！",
+      "ad_delivery_start_time": "2020-01-01T05:57:41+0000",
+      "ad_delivery_stop_time": "2020-01-03T06:59:58+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.143552",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.059773",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.401298",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.308759",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.053041",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.031225",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000892",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001135",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000324",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "賴惠員",
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "132727540081371",
+      "page_name": "賴惠員",
+      "region_distribution": [
+        {
+          "percentage": "0.048977",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.014216",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.021284",
+          "region": "Hsinchu City"
+        },
+        {
+          "percentage": "0.00756",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.064179",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.009697",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.005834",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.055962",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.005588",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.016189",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.001972",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.171337",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.009532",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.003944",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.002712",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.052593",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.065248",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.134851",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.074041",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.173227",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.060892",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.000164",
+          "region": "Lienchiang"
+        }
+      ],
+      "spend": {
+        "lower_bound": "900",
+        "upper_bound": "999"
+      },
+      "ad_id": "477979436187558"
     }
   }
 ]

@@ -2537,86 +2537,101 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.136364",
+          "percentage": "0.152803",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.083916",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.255245",
+          "percentage": "0.240296",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.108392",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.202797",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.031469",
+          "percentage": "0.027726",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.024476",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.059441",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.045455",
+          "percentage": "0.025878",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.031469",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.013986",
+          "percentage": "0.0191",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.006993",
+          "percentage": "0.22366",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.11337",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.075169",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.056685",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.007394",
           "age": "18-24",
           "gender": "female"
+        },
+        {
+          "percentage": "0.024646",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.027726",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001232",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.002465",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001848",
+          "age": "18-24",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "詠貞 張",
       "impressions": {
-        "lower_bound": "0",
-        "upper_bound": "999"
+        "lower_bound": "2000",
+        "upper_bound": "2999"
       },
       "page_id": "120719819319998",
       "page_name": "張幸松",
       "region_distribution": [
         {
-          "percentage": "0.846154",
+          "percentage": "0.78773",
           "region": "Taipei"
         },
         {
-          "percentage": "0.153846",
+          "percentage": "0.21227",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "0",
-        "upper_bound": "99"
+        "lower_bound": "300",
+        "upper_bound": "399"
       },
       "ad_id": "469507463944339"
     }

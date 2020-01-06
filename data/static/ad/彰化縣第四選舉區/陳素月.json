@@ -10461,182 +10461,182 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.110801",
+          "percentage": "0.111236",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.247155",
+          "percentage": "0.238162",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.030706",
+          "percentage": "0.034183",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.183809",
+          "percentage": "0.181283",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.042731",
+          "percentage": "0.047072",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.022761",
+          "percentage": "0.023956",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.061628",
+          "percentage": "0.064444",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.100279",
+          "percentage": "0.101429",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.026627",
+          "percentage": "0.02942",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.155035",
+          "percentage": "0.14724",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.007945",
+          "percentage": "0.010227",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.009448",
+          "percentage": "0.009947",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.000429",
+          "percentage": "0.00042",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000215",
+          "percentage": "0.00014",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000215",
+          "percentage": "0.00042",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000215",
+          "percentage": "0.00042",
           "age": "65+",
           "gender": "unknown"
         }
       ],
       "funding_entity": "陳素月SayYes",
       "impressions": {
-        "lower_bound": "5000",
-        "upper_bound": "5999"
+        "lower_bound": "8000",
+        "upper_bound": "8999"
       },
       "page_id": "1556863941219141",
       "page_name": "陳素月SayYes",
       "region_distribution": [
         {
-          "percentage": "0.029393",
+          "percentage": "0.030684",
           "region": "Unknown"
         },
         {
-          "percentage": "0.000871",
+          "percentage": "0.000566",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.020684",
+          "percentage": "0.021493",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.02003",
+          "percentage": "0.019231",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.007838",
+          "percentage": "0.009191",
           "region": "Yilan"
         },
         {
-          "percentage": "0.003919",
+          "percentage": "0.003818",
           "region": "Taitung"
         },
         {
-          "percentage": "0.040061",
+          "percentage": "0.040441",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.001524",
+          "percentage": "0.002545",
           "region": "Penghu"
         },
         {
-          "percentage": "0.003266",
+          "percentage": "0.004666",
           "region": "Nantou"
         },
         {
-          "percentage": "0.010233",
+          "percentage": "0.010322",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.00762",
+          "percentage": "0.007777",
           "region": "Hualien"
         },
         {
-          "percentage": "0.19791",
+          "percentage": "0.199378",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.003701",
+          "percentage": "0.002969",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.002613",
+          "percentage": "0.002404",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.012846",
+          "percentage": "0.011171",
           "region": "Changhua"
         },
         {
-          "percentage": "0.158067",
+          "percentage": "0.15427",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.132158",
+          "percentage": "0.133201",
           "region": "Taichung"
         },
         {
-          "percentage": "0.113869",
+          "percentage": "0.110577",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.099499",
+          "percentage": "0.10082",
           "region": "Tainan"
         },
         {
-          "percentage": "0.118441",
+          "percentage": "0.11892",
           "region": "Taipei"
         },
         {
-          "percentage": "0.015458",
+          "percentage": "0.015554",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
+        "lower_bound": "400",
+        "upper_bound": "499"
       },
       "ad_id": "570767973762581"
     }
@@ -10660,99 +10660,99 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.074739",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.141367",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.077636",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.090382",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.116454",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.048088",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.156431",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.07416",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.035342",
+          "percentage": "0.039487",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.053882",
+          "percentage": "0.098059",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.046068",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.131951",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.081277",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.089832",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.051991",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.040556",
-          "age": "65+",
-          "gender": "female"
+          "percentage": "0.137545",
+          "age": "55-64",
+          "gender": "male"
         },
         {
-          "percentage": "0.089803",
+          "percentage": "0.133926",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.090819",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.001159",
+          "percentage": "0.037512",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.060875",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000658",
           "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "陳素月SayYes",
       "impressions": {
-        "lower_bound": "2000",
-        "upper_bound": "2999"
+        "lower_bound": "3000",
+        "upper_bound": "3999"
       },
       "page_id": "1556863941219141",
       "page_name": "陳素月SayYes",
       "region_distribution": [
         {
-          "percentage": "0.015929",
+          "percentage": "0.012957",
           "region": "Taichung"
         },
         {
-          "percentage": "0.722714",
+          "percentage": "0.734884",
           "region": "Changhua"
         },
         {
-          "percentage": "0.147493",
+          "percentage": "0.138538",
           "region": "Nantou"
         },
         {
-          "percentage": "0.113864",
+          "percentage": "0.113621",
           "region": "Yunlin"
         }
       ],
       "spend": {
-        "lower_bound": "100",
-        "upper_bound": "199"
+        "lower_bound": "200",
+        "upper_bound": "299"
       },
       "ad_id": "598409014244976"
     }
@@ -10775,171 +10775,171 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.129392",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.15957",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.059942",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.010335",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.011575",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.143448",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.262505",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.039272",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.069864",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.027284",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.062009",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.02439",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000413",
+          "percentage": "0.000243",
           "age": "55-64",
           "gender": "unknown"
+        },
+        {
+          "percentage": "0.025249",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.14688",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.291818",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.131828",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.156591",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.048555",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.063608",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.064336",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.028891",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.010439",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.008012",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.023549",
+          "age": "25-34",
+          "gender": "male"
         }
       ],
       "funding_entity": "陳素月SayYes",
       "impressions": {
-        "lower_bound": "2000",
-        "upper_bound": "2999"
+        "lower_bound": "4000",
+        "upper_bound": "4999"
       },
       "page_id": "1556863941219141",
       "page_name": "陳素月SayYes",
       "region_distribution": [
         {
-          "percentage": "0.000415",
+          "percentage": "0.000244",
           "region": "Lienchiang"
         },
         {
-          "percentage": "0.004975",
+          "percentage": "0.005134",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.0199",
+          "percentage": "0.020538",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.070896",
+          "percentage": "0.067482",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.021144",
+          "percentage": "0.020782",
           "region": "Yilan"
         },
         {
-          "percentage": "0.004975",
+          "percentage": "0.007824",
           "region": "Taitung"
         },
         {
-          "percentage": "0.041045",
+          "percentage": "0.045477",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.003317",
+          "percentage": "0.003423",
           "region": "Penghu"
         },
         {
-          "percentage": "0.027363",
+          "percentage": "0.025672",
           "region": "Nantou"
         },
         {
-          "percentage": "0.027778",
+          "percentage": "0.024205",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.023217",
+          "percentage": "0.018582",
           "region": "Hualien"
         },
         {
-          "percentage": "0.055141",
+          "percentage": "0.051589",
           "region": "Unknown"
         },
         {
-          "percentage": "0.00539",
+          "percentage": "0.003912",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.003317",
+          "percentage": "0.003667",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.094942",
+          "percentage": "0.088264",
           "region": "Changhua"
         },
         {
-          "percentage": "0.140547",
+          "percentage": "0.133496",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.101575",
+          "percentage": "0.110269",
           "region": "Taichung"
         },
         {
-          "percentage": "0.129768",
+          "percentage": "0.126406",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.075871",
+          "percentage": "0.086797",
           "region": "Tainan"
         },
         {
-          "percentage": "0.04063",
+          "percentage": "0.043521",
           "region": "Taipei"
         },
         {
-          "percentage": "0.085406",
+          "percentage": "0.091687",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.022388",
+          "percentage": "0.021027",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "300",
-        "upper_bound": "399"
+        "lower_bound": "500",
+        "upper_bound": "599"
       },
       "ad_id": "819688955120762"
     }
@@ -10961,109 +10961,109 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.001513",
+          "percentage": "0.001014",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000756",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000756",
+          "percentage": "0.000507",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.159607",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.080182",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.173979",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.097579",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.049168",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.198941",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.048411",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.015129",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.051437",
+          "percentage": "0.051724",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.036309",
+          "percentage": "0.025355",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.045639",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.102434",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.179513",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.157201",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.048174",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.18712",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.080629",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.041075",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.062784",
+          "percentage": "0.064909",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.023449",
-          "age": "25-34",
+          "percentage": "0.014199",
+          "age": "18-24",
           "gender": "female"
+        },
+        {
+          "percentage": "0.000507",
+          "age": "45-54",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "陳素月SayYes",
       "impressions": {
-        "lower_bound": "1000",
-        "upper_bound": "1999"
+        "lower_bound": "2000",
+        "upper_bound": "2999"
       },
       "page_id": "1556863941219141",
       "page_name": "陳素月SayYes",
       "region_distribution": [
         {
-          "percentage": "0.181886",
+          "percentage": "0.171357",
           "region": "Taichung"
         },
         {
-          "percentage": "0.561377",
+          "percentage": "0.567337",
           "region": "Changhua"
         },
         {
-          "percentage": "0.122754",
+          "percentage": "0.120603",
           "region": "Nantou"
         },
         {
-          "percentage": "0.133982",
+          "percentage": "0.140704",
           "region": "Yunlin"
         }
       ],
       "spend": {
-        "lower_bound": "300",
-        "upper_bound": "399"
+        "lower_bound": "500",
+        "upper_bound": "599"
       },
       "ad_id": "839607356475306"
     }
@@ -11087,115 +11087,115 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000397",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.02975",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.00119",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.064657",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.028957",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.054344",
-          "age": "13-17",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.038873",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.061087",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.038477",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.123364",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.07378",
+          "percentage": "0.071312",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.04165",
+          "percentage": "0.066635",
           "age": "13-17",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.111464",
-          "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.140817",
+          "percentage": "0.000701",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000701",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.043255",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.05892",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.13444",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.115827",
+          "percentage": "0.037409",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.025953",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.118307",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.07497",
+          "percentage": "0.056114",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.034604",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.114332",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.108253",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.046996",
+          "age": "13-17",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.081833",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.000397",
+          "percentage": "0.000234",
           "age": "18-24",
           "gender": "unknown"
         }
       ],
       "funding_entity": "陳素月SayYes",
       "impressions": {
-        "lower_bound": "3000",
-        "upper_bound": "3999"
+        "lower_bound": "5000",
+        "upper_bound": "5999"
       },
       "page_id": "1556863941219141",
       "page_name": "陳素月SayYes",
       "region_distribution": [
         {
-          "percentage": "0.04393",
+          "percentage": "0.039716",
           "region": "Taichung"
         },
         {
-          "percentage": "0.847444",
+          "percentage": "0.847281",
           "region": "Changhua"
         },
         {
-          "percentage": "0.108626",
+          "percentage": "0.113002",
           "region": "Nantou"
         }
       ],
       "spend": {
-        "lower_bound": "100",
-        "upper_bound": "199"
+        "lower_bound": "300",
+        "upper_bound": "399"
       },
       "ad_id": "2466253466967849"
     }
@@ -11218,99 +11218,114 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000198",
+          "percentage": "0.000178",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "8.9E-5",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "8.9E-5",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.207527",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.043699",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.148756",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.282351",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.019977",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.007759",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.120664",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.057968",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.058949",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.012842",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "8.9E-5",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.201349",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.303114",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.058719",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.133902",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.146598",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.051974",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.042055",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.024598",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.013093",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.006348",
+          "percentage": "0.007045",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.011307",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.006745",
-          "age": "18-24",
+          "percentage": "0.032016",
+          "age": "65+",
           "gender": "female"
         }
       ],
       "funding_entity": "陳素月SayYes",
       "impressions": {
-        "lower_bound": "5000",
-        "upper_bound": "5999"
+        "lower_bound": "10000",
+        "upper_bound": "14999"
       },
       "page_id": "1556863941219141",
       "page_name": "陳素月SayYes",
       "region_distribution": [
         {
-          "percentage": "0.091402",
+          "percentage": "0.0888",
           "region": "Taichung"
         },
         {
-          "percentage": "0.574327",
+          "percentage": "0.586524",
           "region": "Changhua"
         },
         {
-          "percentage": "0.143029",
+          "percentage": "0.13494",
           "region": "Nantou"
         },
         {
-          "percentage": "0.191241",
+          "percentage": "0.189737",
           "region": "Yunlin"
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
+        "lower_bound": "500",
+        "upper_bound": "599"
       },
       "ad_id": "467652524184360"
     }
@@ -11332,104 +11347,109 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.035466",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.137222",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.123633",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.176003",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.077892",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.15943",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.042095",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.087173",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.080544",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.021876",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.018561",
+          "percentage": "0.030479",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.038449",
+          "percentage": "0.135522",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.129898",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.1709",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.130624",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.065675",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.090348",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.035196",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.053338",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.000331",
-          "age": "35-44",
+          "percentage": "0.078012",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000726",
+          "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001326",
-          "age": "25-34",
+          "percentage": "0.0459",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.033019",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000181",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000181",
+          "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "陳素月SayYes",
       "impressions": {
-        "lower_bound": "3000",
-        "upper_bound": "3999"
+        "lower_bound": "6000",
+        "upper_bound": "6999"
       },
       "page_id": "1556863941219141",
       "page_name": "陳素月SayYes",
       "region_distribution": [
         {
-          "percentage": "0.142257",
+          "percentage": "0.130789",
           "region": "Taichung"
         },
         {
-          "percentage": "0.617523",
+          "percentage": "0.634045",
           "region": "Changhua"
         },
         {
-          "percentage": "0.108309",
+          "percentage": "0.104197",
           "region": "Nantou"
         },
         {
-          "percentage": "0.131911",
+          "percentage": "0.13097",
           "region": "Yunlin"
         }
       ],
       "spend": {
-        "lower_bound": "100",
-        "upper_bound": "199"
+        "lower_bound": "300",
+        "upper_bound": "399"
       },
       "ad_id": "2209489446023641"
     }
@@ -11453,72 +11473,72 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.092995",
+          "percentage": "0.092179",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.044686",
+          "percentage": "0.044693",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.263688",
+          "percentage": "0.263767",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.108696",
+          "percentage": "0.10814",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.152576",
+          "percentage": "0.15403",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.022947",
+          "percentage": "0.023144",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.031401",
+          "percentage": "0.031524",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.000805",
+          "percentage": "0.000798",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.052335",
+          "percentage": "0.051875",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.050725",
+          "percentage": "0.050279",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.153784",
+          "percentage": "0.15403",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.012077",
+          "percentage": "0.01237",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.012882",
+          "percentage": "0.012769",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.000403",
+          "percentage": "0.000399",
           "age": "55-64",
           "gender": "unknown"
         }
@@ -11532,93 +11552,93 @@
       "page_name": "陳素月SayYes",
       "region_distribution": [
         {
-          "percentage": "0.001989",
+          "percentage": "0.001976",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.006762",
+          "percentage": "0.006719",
           "region": "Hualien"
         },
         {
-          "percentage": "0.019093",
+          "percentage": "0.018972",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.019093",
+          "percentage": "0.018972",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.009149",
+          "percentage": "0.009091",
           "region": "Yilan"
         },
         {
-          "percentage": "0.006364",
+          "percentage": "0.006324",
           "region": "Taitung"
         },
         {
-          "percentage": "0.034606",
+          "percentage": "0.034783",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.002387",
+          "percentage": "0.002372",
           "region": "Penghu"
         },
         {
-          "percentage": "0.006364",
+          "percentage": "0.006324",
           "region": "Nantou"
         },
         {
-          "percentage": "0.010342",
+          "percentage": "0.010277",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.00358",
+          "percentage": "0.003557",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.029435",
+          "percentage": "0.029249",
           "region": "Unknown"
         },
         {
-          "percentage": "0.002387",
+          "percentage": "0.002372",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.025855",
+          "percentage": "0.026087",
           "region": "Changhua"
         },
         {
-          "percentage": "0.151949",
+          "percentage": "0.152569",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.155529",
+          "percentage": "0.154941",
           "region": "Taichung"
         },
         {
-          "percentage": "0.089499",
+          "percentage": "0.090119",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.095465",
+          "percentage": "0.096047",
           "region": "Tainan"
         },
         {
-          "percentage": "0.100636",
+          "percentage": "0.100791",
           "region": "Taipei"
         },
         {
-          "percentage": "0.21599",
+          "percentage": "0.21502",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.013524",
+          "percentage": "0.013439",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "100",
-        "upper_bound": "199"
+        "lower_bound": "200",
+        "upper_bound": "299"
       },
       "ad_id": "976951592683518"
     }
@@ -11641,94 +11661,94 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.05743",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.042629",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.089402",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.138544",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.116045",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.104204",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.069864",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.142096",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.039668",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.101835",
+          "percentage": "0.101185",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.050918",
+          "percentage": "0.129444",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.067153",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.079003",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.059556",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.116378",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.040413",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.047365",
+          "percentage": "0.037679",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.055606",
           "age": "18-24",
           "gender": "female"
+        },
+        {
+          "percentage": "0.132483",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.128532",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.052568",
+          "age": "65+",
+          "gender": "male"
         }
       ],
       "funding_entity": "陳素月SayYes",
       "impressions": {
-        "lower_bound": "1000",
-        "upper_bound": "1999"
+        "lower_bound": "3000",
+        "upper_bound": "3999"
       },
       "page_id": "1556863941219141",
       "page_name": "陳素月SayYes",
       "region_distribution": [
         {
-          "percentage": "0.044326",
+          "percentage": "0.036044",
           "region": "Taichung"
         },
         {
-          "percentage": "0.51182",
+          "percentage": "0.498768",
           "region": "Changhua"
         },
         {
-          "percentage": "0.270095",
+          "percentage": "0.276648",
           "region": "Nantou"
         },
         {
-          "percentage": "0.173759",
+          "percentage": "0.18854",
           "region": "Yunlin"
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
+        "lower_bound": "500",
+        "upper_bound": "599"
       },
       "ad_id": "741298293004495"
     }
@@ -11752,104 +11772,104 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000708",
+          "percentage": "0.121841",
           "age": "35-44",
-          "gender": "unknown"
+          "gender": "male"
         },
         {
-          "percentage": "0.000354",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.101911",
+          "percentage": "0.118964",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.073956",
+          "percentage": "0.062667",
           "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.138358",
-          "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.166667",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.078202",
+          "percentage": "0.079515",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.080679",
+          "percentage": "0.153894",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.037806",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.030614",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.098418",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.137297",
-          "age": "35-44",
+          "percentage": "0.052394",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.131087",
+          "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.037863",
+          "percentage": "0.075406",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000822",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.036162",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.068648",
+          "percentage": "0.000411",
           "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.043524",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.027955",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.043878",
-          "age": "45-54",
-          "gender": "female"
+          "gender": "unknown"
         }
       ],
       "funding_entity": "陳素月SayYes",
       "impressions": {
-        "lower_bound": "3000",
-        "upper_bound": "3999"
+        "lower_bound": "6000",
+        "upper_bound": "6999"
       },
       "page_id": "1556863941219141",
       "page_name": "陳素月SayYes",
       "region_distribution": [
         {
-          "percentage": "0.096059",
+          "percentage": "0.093577",
           "region": "Taichung"
         },
         {
-          "percentage": "0.68297",
+          "percentage": "0.674944",
           "region": "Changhua"
         },
         {
-          "percentage": "0.1038",
+          "percentage": "0.10589",
           "region": "Nantou"
         },
         {
-          "percentage": "0.117171",
+          "percentage": "0.12559",
           "region": "Yunlin"
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
+        "lower_bound": "500",
+        "upper_bound": "599"
       },
       "ad_id": "2476114489293089"
     }
@@ -11872,186 +11892,191 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000228",
+          "percentage": "0.206582",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000322",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.366956",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.176175",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.032634",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.038567",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.208581",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.073482",
+          "percentage": "0.000214",
           "age": "35-44",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.010497",
-          "age": "45-54",
-          "gender": "female"
+          "percentage": "0.000107",
+          "age": "18-24",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.035828",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.047467",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.002967",
+          "percentage": "0.003645",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.00251",
+          "percentage": "0.000322",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.013829",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.003752",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.003195",
+          "percentage": "0.005896",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.000456",
-          "age": "55-64",
-          "gender": "unknown"
+          "percentage": "0.178066",
+          "age": "65+",
+          "gender": "male"
         },
         {
-          "percentage": "0.000228",
+          "percentage": "0.034198",
           "age": "18-24",
-          "gender": "unknown"
+          "gender": "male"
         },
         {
-          "percentage": "0.000228",
+          "percentage": "0.049957",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.326865",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.040845",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.101522",
           "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.033769",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000107",
+          "age": "65+",
           "gender": "unknown"
         }
       ],
       "funding_entity": "陳素月SayYes",
       "impressions": {
-        "lower_bound": "4000",
-        "upper_bound": "4999"
+        "lower_bound": "10000",
+        "upper_bound": "14999"
       },
       "page_id": "1556863941219141",
       "page_name": "陳素月SayYes",
       "region_distribution": [
         {
-          "percentage": "0.000228",
+          "percentage": "0.000211",
           "region": "Lienchiang"
         },
         {
-          "percentage": "0.001825",
+          "percentage": "0.001371",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.010721",
+          "percentage": "0.011915",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.059078",
+          "percentage": "0.058625",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.010721",
+          "percentage": "0.01086",
           "region": "Yilan"
         },
         {
-          "percentage": "0.00479",
+          "percentage": "0.005377",
           "region": "Taitung"
         },
         {
-          "percentage": "0.042427",
+          "percentage": "0.04302",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.007299",
+          "percentage": "0.006537",
           "region": "Penghu"
         },
         {
-          "percentage": "0.028513",
+          "percentage": "0.026466",
           "region": "Nantou"
         },
         {
-          "percentage": "0.025319",
+          "percentage": "0.025728",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.013686",
+          "percentage": "0.013918",
           "region": "Hualien"
         },
         {
-          "percentage": "0.043796",
+          "percentage": "0.041755",
           "region": "Unknown"
         },
         {
-          "percentage": "0.003193",
+          "percentage": "0.00369",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.003422",
+          "percentage": "0.002636",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.149407",
+          "percentage": "0.151413",
           "region": "Changhua"
         },
         {
-          "percentage": "0.099909",
+          "percentage": "0.092893",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.149863",
+          "percentage": "0.141185",
           "region": "Taichung"
         },
         {
-          "percentage": "0.07938",
+          "percentage": "0.082138",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.096487",
+          "percentage": "0.100485",
           "region": "Tainan"
         },
         {
-          "percentage": "0.052235",
+          "percentage": "0.056411",
           "region": "Taipei"
         },
         {
-          "percentage": "0.10333",
+          "percentage": "0.108499",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.01437",
+          "percentage": "0.014867",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
+        "lower_bound": "500",
+        "upper_bound": "599"
       },
       "ad_id": "811331829337704"
     }
@@ -12073,187 +12098,192 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.013457",
+          "percentage": "0.000112",
           "age": "18-24",
-          "gender": "female"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.078644",
+          "percentage": "0.086371",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.00035",
+          "percentage": "0.000224",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00035",
+          "percentage": "0.000337",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000175",
+          "percentage": "0.000112",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000175",
+          "percentage": "0.000224",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.013981",
+          "percentage": "0.017162",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.043516",
+          "percentage": "0.041279",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.022894",
+          "percentage": "0.023107",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.226494",
-          "age": "55-64",
-          "gender": "male"
+          "percentage": "0.015928",
+          "age": "18-24",
+          "gender": "female"
         },
         {
-          "percentage": "0.122859",
+          "percentage": "0.104431",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.13317",
+          "percentage": "0.144251",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.067634",
+          "percentage": "0.066517",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.151171",
+          "percentage": "0.151318",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.026564",
+          "percentage": "0.025687",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.098392",
+          "percentage": "0.118116",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.000175",
+          "percentage": "0.204711",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000112",
           "age": "65+",
           "gender": "unknown"
         }
       ],
       "funding_entity": "陳素月SayYes",
       "impressions": {
-        "lower_bound": "6000",
-        "upper_bound": "6999"
+        "lower_bound": "10000",
+        "upper_bound": "14999"
       },
       "page_id": "1556863941219141",
       "page_name": "陳素月SayYes",
       "region_distribution": [
         {
-          "percentage": "0.03013",
+          "percentage": "0.031847",
           "region": "Unknown"
         },
         {
-          "percentage": "0.001212",
+          "percentage": "0.001229",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.014372",
+          "percentage": "0.014415",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.041558",
+          "percentage": "0.043469",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.009697",
+          "percentage": "0.009945",
           "region": "Yilan"
         },
         {
-          "percentage": "0.005368",
+          "percentage": "0.005587",
           "region": "Taitung"
         },
         {
-          "percentage": "0.05039",
+          "percentage": "0.052408",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.003117",
+          "percentage": "0.003352",
           "region": "Penghu"
         },
         {
-          "percentage": "0.014026",
+          "percentage": "0.013745",
           "region": "Nantou"
         },
         {
-          "percentage": "0.012814",
+          "percentage": "0.017209",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.008139",
+          "percentage": "0.00771",
           "region": "Hualien"
         },
         {
-          "percentage": "0.172121",
+          "percentage": "0.156442",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.002597",
+          "percentage": "0.002794",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.002078",
+          "percentage": "0.002123",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.09039",
+          "percentage": "0.111297",
           "region": "Changhua"
         },
         {
-          "percentage": "0.13039",
+          "percentage": "0.123142",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.137489",
+          "percentage": "0.138339",
           "region": "Taichung"
         },
         {
-          "percentage": "0.090736",
+          "percentage": "0.084255",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.095584",
+          "percentage": "0.092636",
           "region": "Tainan"
         },
         {
-          "percentage": "0.071515",
+          "percentage": "0.071405",
           "region": "Taipei"
         },
         {
-          "percentage": "0.016277",
+          "percentage": "0.01665",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "300",
-        "upper_bound": "399"
+        "lower_bound": "500",
+        "upper_bound": "599"
       },
       "ad_id": "600875240703124"
     }
@@ -12275,163 +12305,192 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.183196",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.144628",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.292011",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.114325",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.050964",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.084022",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.023416",
+          "percentage": "0.027032",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.039945",
-          "age": "25-34",
+          "percentage": "0.034405",
+          "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.006887",
+          "percentage": "0.000189",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000189",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000189",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000189",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000378",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.013043",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.023416",
+          "percentage": "0.010586",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.102079",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.035539",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.027548",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.008264",
-          "age": "18-24",
+          "percentage": "0.058601",
+          "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.001377",
+          "percentage": "0.090359",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.164461",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.258601",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.044612",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.159357",
           "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000189",
+          "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "陳素月SayYes",
       "impressions": {
-        "lower_bound": "0",
-        "upper_bound": "999"
+        "lower_bound": "6000",
+        "upper_bound": "6999"
       },
       "page_id": "1556863941219141",
       "page_name": "陳素月SayYes",
       "region_distribution": [
         {
-          "percentage": "0.023677",
+          "percentage": "0.026186",
           "region": "Unknown"
         },
         {
-          "percentage": "0.019499",
-          "region": "Miaoli"
-        },
-        {
-          "percentage": "0.020891",
-          "region": "Keelung City"
-        },
-        {
-          "percentage": "0.023677",
-          "region": "Yunlin"
-        },
-        {
-          "percentage": "0.008357",
-          "region": "Yilan"
-        },
-        {
-          "percentage": "0.005571",
-          "region": "Taitung"
-        },
-        {
-          "percentage": "0.02507",
-          "region": "Pingtung"
-        },
-        {
-          "percentage": "0.001393",
-          "region": "Penghu"
-        },
-        {
-          "percentage": "0.005571",
-          "region": "Nantou"
-        },
-        {
-          "percentage": "0.001393",
+          "percentage": "0.000759",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.210306",
-          "region": "Kaohsiung"
+          "percentage": "0.020873",
+          "region": "Keelung City"
         },
         {
-          "percentage": "0.006964",
+          "percentage": "0.021063",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.011385",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.003985",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.034725",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.001518",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.005503",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.010816",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.006641",
           "region": "Hualien"
         },
         {
-          "percentage": "0.001393",
+          "percentage": "0.185958",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.003226",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.003226",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.012535",
+          "percentage": "0.017078",
           "region": "Changhua"
         },
         {
-          "percentage": "0.17688",
+          "percentage": "0.163378",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.126741",
+          "percentage": "0.132068",
           "region": "Taichung"
         },
         {
-          "percentage": "0.110028",
+          "percentage": "0.113093",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.0961",
+          "percentage": "0.099431",
           "region": "Tainan"
         },
         {
-          "percentage": "0.111421",
+          "percentage": "0.123529",
           "region": "Taipei"
         },
         {
-          "percentage": "0.012535",
+          "percentage": "0.01556",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "0",
-        "upper_bound": "99"
+        "lower_bound": "500",
+        "upper_bound": "599"
       },
       "ad_id": "808750286235657"
     }
@@ -12453,150 +12512,182 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.172",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.1",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.156",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.068",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.092",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.304",
+          "percentage": "0.267358",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.024",
-          "age": "18-24",
+          "percentage": "0.185422",
+          "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.028",
+          "percentage": "0.133546",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.031923",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.133812",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.083799",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.009843",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.025539",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.028",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.008",
-          "age": "25-34",
+          "percentage": "0.043097",
+          "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.004",
+          "percentage": "0.006119",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.016",
+          "percentage": "0.048949",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.028997",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000266",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000532",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000266",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000532",
           "age": "45-54",
-          "gender": "female"
+          "gender": "unknown"
         }
       ],
       "funding_entity": "陳素月SayYes",
       "impressions": {
-        "lower_bound": "0",
-        "upper_bound": "999"
+        "lower_bound": "4000",
+        "upper_bound": "4999"
       },
       "page_id": "1556863941219141",
       "page_name": "陳素月SayYes",
       "region_distribution": [
         {
-          "percentage": "0.016",
+          "percentage": "0.028135",
           "region": "Unknown"
         },
         {
-          "percentage": "0.016",
+          "percentage": "0.013666",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.032",
+          "percentage": "0.012862",
+          "region": "Hsinchu City"
+        },
+        {
+          "percentage": "0.021168",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.048",
+          "percentage": "0.031886",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.02",
+          "percentage": "0.008574",
           "region": "Yilan"
         },
         {
-          "percentage": "0.008",
+          "percentage": "0.004555",
           "region": "Taitung"
         },
         {
-          "percentage": "0.024",
+          "percentage": "0.03403",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.004",
+          "percentage": "0.002412",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.01045",
           "region": "Nantou"
         },
         {
-          "percentage": "0.008",
+          "percentage": "0.007771",
           "region": "Hualien"
         },
         {
-          "percentage": "0.2",
+          "percentage": "0.21463",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.004",
+          "percentage": "0.002947",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.003215",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.076",
+          "percentage": "0.058414",
           "region": "Changhua"
         },
         {
-          "percentage": "0.128",
+          "percentage": "0.127546",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.132",
+          "percentage": "0.12433",
           "region": "Taichung"
         },
         {
-          "percentage": "0.104",
+          "percentage": "0.09298",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.08",
+          "percentage": "0.099946",
           "region": "Tainan"
         },
         {
-          "percentage": "0.092",
+          "percentage": "0.099946",
           "region": "Taipei"
         },
         {
-          "percentage": "0.008",
-          "region": "Hsinchu City"
+          "percentage": "0.000536",
+          "region": "Kinmen"
         }
       ],
       "spend": {
-        "lower_bound": "0",
-        "upper_bound": "99"
+        "lower_bound": "300",
+        "upper_bound": "399"
       },
       "ad_id": "2969953773023493"
     }
@@ -12618,96 +12709,865 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.0625",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.038462",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.194712",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.185096",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.067308",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.149038",
+          "percentage": "0.13668",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.019231",
+          "percentage": "0.058687",
           "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.223938",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.012741",
+          "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.108173",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.076923",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.064904",
+          "percentage": "0.069884",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.028846",
+          "percentage": "0.206564",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.01583",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.047104",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.119305",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.037066",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.03668",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.033591",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.004808",
-          "age": "18-24",
-          "gender": "female"
+          "percentage": "0.000772",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001158",
+          "age": "25-34",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "陳素月SayYes",
       "impressions": {
-        "lower_bound": "0",
-        "upper_bound": "999"
+        "lower_bound": "3000",
+        "upper_bound": "3999"
       },
       "page_id": "1556863941219141",
       "page_name": "陳素月SayYes",
       "region_distribution": [
         {
-          "percentage": "0.15311",
+          "percentage": "0.173241",
           "region": "Taichung"
         },
         {
-          "percentage": "0.576555",
+          "percentage": "0.569219",
           "region": "Changhua"
         },
         {
-          "percentage": "0.124402",
+          "percentage": "0.12065",
           "region": "Nantou"
         },
         {
-          "percentage": "0.145933",
+          "percentage": "0.136891",
           "region": "Yunlin"
         }
       ],
       "spend": {
-        "lower_bound": "0",
-        "upper_bound": "99"
+        "lower_bound": "300",
+        "upper_bound": "399"
       },
       "ad_id": "439475656930417"
+    }
+  },
+  {
+    "選區": "彰化縣第四選舉區",
+    "參選人": "陳素月",
+    "AD_ID": "467137190667194",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "今天是2019年的最後一天。 回顧這幾年，許多沒有民主的地方，羨慕我們台灣安心生活的幸福。 ✅民主自由是台灣的驕傲！ 💟我們要我們的未來及下一代，一樣自由自在、平平安安的生活。 期許2020，台灣越來越好！ #新年快樂 #2020台灣要贏 #民主自由安心生活 💡1月11日投票支持台灣隊 ✅ 總統支持 ③蔡英文 ✅ 立委支持 ④陳素月 ✅ 政黨票支持 ⑭民主進步黨 #員林 #大村 #永靖 #田中 #社頭 #二水 #田尾 ❤加陳素月LINE好友或ID搜尋@sayyes➡ http://line.me/ti/p/@sayyesme/ti/p/@sayyes",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80861538_2522641434641382_2917421381224235008_n.jpg?_nc_cat=105&_nc_ohc=YTfxrs6ikjMAQmImJdZ-G-FcduxmSOEjehfQDa4Jm-_L9Iai7WJczOaSw&_nc_ht=scontent-hkg3-1.xx&oh=b97c12e3abc14fc482bc9a80321e22df&oe=5E9E84D2",
+    "廣告詳情": {
+      "ad_creative_body": "今天是2019年的最後一天。\n回顧這幾年，許多沒有民主的地方，羨慕我們台灣安心生活的幸福。\n✅民主自由是台灣的驕傲！\n💟我們要我們的未來及下一代，一樣自由自在、平平安安的生活。\n期許2020，台灣越來越好！\n\n#新年快樂\n#2020台灣要贏\n#民主自由安心生活\n\n💡1月11日投票支持台灣隊\n✅ 總統支持 ③蔡英文\n✅ 立委支持 ④陳素月\n✅ 政黨票支持 ⑭民主進步黨\n\n#員林 #大村 #永靖\n#田中 #社頭 #二水 #田尾\n\n❤加陳素月LINE好友或ID搜尋@sayyes➡ http://line.me/ti/p/@sayyesme/ti/p/@sayyes",
+      "ad_creation_time": "2020-01-04T12:31:52+0000",
+      "ad_delivery_start_time": "2020-01-04T12:31:53+0000",
+      "ad_delivery_stop_time": "2020-01-07T12:31:52+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000456",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.023712",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.120383",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.160055",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.267214",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.035568",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.014592",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.157319",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.01596",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.069767",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.057456",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.046968",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.030096",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000456",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "陳素月SayYes",
+      "impressions": {
+        "lower_bound": "2000",
+        "upper_bound": "2999"
+      },
+      "page_id": "1556863941219141",
+      "page_name": "陳素月SayYes",
+      "region_distribution": [
+        {
+          "percentage": "0.302458",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.135645",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.14662",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.139596",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.104917",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.020193",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.018876",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.036435",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.011414",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.039508",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.030729",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.013608",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "199"
+      },
+      "ad_id": "467137190667194"
+    }
+  },
+  {
+    "選區": "彰化縣第四選舉區",
+    "參選人": "陳素月",
+    "AD_ID": "462584831351962",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "傳說中的鐵牛阿伯🥰 一個多月前，有位朋友告訴素月說，在二水有一個阿伯每天開著鐵牛車到田裡工作時，他的鐵牛車後面都會綁著二隻素月的旗幟，四處為素月逗宣傳。乍聽之下，素月内心很感動，同時也好奇這位素昧平生的阿伯是誰？怎麼會主動為素月宣傳?😎 💟選舉進入倒數時刻，上星期到二水安德宮廟埕舉辦下鄉演講會，在這裡遇到了傳說中的鐵牛阿伯。原來阿伯長年在二水河川公地耕作，因為感念素月協助解決河川公地農民的許多問題，包括爭取放寬農具間的設置規定、爭取河川公地實耕者納入農保，還有爭取濁水溪護岸堤防防災工程⋯等等，因此主動地將素月的選舉旗幟插在農耕的鐵牛車上，四處奔走宣傳，希望能幫素月爭取更多選民的支持。 鐵牛阿伯靦腆的笑說他年紀大、力量微薄，只能這樣為素月助選。但看似單純的舉動，卻讓素月感動不已！ 鄉親們的熱情相挺，那怕只是一句「加油！」，都是素月繼續向前的最大動力❤️ 🌞當然，1/11素月也需要大家用選票繼續支持與肯定！ 讓我們一起守護這片土地。 💡1月11日投票支持台灣隊 ✅ 總統支持 ③蔡英文 ✅ 立委支持 ④陳素月 ✅ 政黨票支持 ⑭民主進步黨 #員林 #大村 #永靖 #田中 #社頭 #二水 #田尾 ❤加陳素月LINE好友或ID搜尋@sayyes➡ http://line.me/ti/p/@sayyesme/ti/p/@sayyes",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/80583167_2522047558034103_1468414052525932544_n.jpg?_nc_cat=109&_nc_ohc=u6hZh4DjCWYAQlixhkLtgNKEDx-fc3TjpHZEfaVjCNoRxQWLTT1huWrPg&_nc_ht=scontent-hkg3-2.xx&oh=c29f6944ba075a6ccb8661cba0768230&oe=5E6D3404",
+    "廣告詳情": {
+      "ad_creative_body": "傳說中的鐵牛阿伯🥰\n\n一個多月前，有位朋友告訴素月說，在二水有一個阿伯每天開著鐵牛車到田裡工作時，他的鐵牛車後面都會綁著二隻素月的旗幟，四處為素月逗宣傳。乍聽之下，素月内心很感動，同時也好奇這位素昧平生的阿伯是誰？怎麼會主動為素月宣傳?😎\n\n💟選舉進入倒數時刻，上星期到二水安德宮廟埕舉辦下鄉演講會，在這裡遇到了傳說中的鐵牛阿伯。原來阿伯長年在二水河川公地耕作，因為感念素月協助解決河川公地農民的許多問題，包括爭取放寬農具間的設置規定、爭取河川公地實耕者納入農保，還有爭取濁水溪護岸堤防防災工程⋯等等，因此主動地將素月的選舉旗幟插在農耕的鐵牛車上，四處奔走宣傳，希望能幫素月爭取更多選民的支持。\n\n鐵牛阿伯靦腆的笑說他年紀大、力量微薄，只能這樣為素月助選。但看似單純的舉動，卻讓素月感動不已！\n鄉親們的熱情相挺，那怕只是一句「加油！」，都是素月繼續向前的最大動力❤️\n🌞當然，1/11素月也需要大家用選票繼續支持與肯定！\n讓我們一起守護這片土地。\n\n💡1月11日投票支持台灣隊\n✅ 總統支持 ③蔡英文\n✅ 立委支持 ④陳素月\n✅ 政黨票支持 ⑭民主進步黨\n\n#員林 #大村 #永靖\n#田中 #社頭 #二水 #田尾\n\n❤加陳素月LINE好友或ID搜尋@sayyes➡ http://line.me/ti/p/@sayyesme/ti/p/@sayyes",
+      "ad_creation_time": "2020-01-04T12:33:08+0000",
+      "ad_delivery_start_time": "2020-01-04T12:33:09+0000",
+      "ad_delivery_stop_time": "2020-01-08T12:33:08+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.06964",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.207556",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.165225",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.185708",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.036868",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.051889",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.04142",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.012745",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.070096",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.016386",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.035503",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.106054",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00091",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "陳素月SayYes",
+      "impressions": {
+        "lower_bound": "2000",
+        "upper_bound": "2999"
+      },
+      "page_id": "1556863941219141",
+      "page_name": "陳素月SayYes",
+      "region_distribution": [
+        {
+          "percentage": "0.40778",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.591762",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.000458",
+          "region": "Nantou"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "199"
+      },
+      "ad_id": "462584831351962"
+    }
+  },
+  {
+    "選區": "彰化縣第四選舉區",
+    "參選人": "陳素月",
+    "AD_ID": "2259851180987652",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "☀早安！ 💟你ㄟ心聲，阮ㄟ打拚！ #骨力打拚陳素月 💡1月11日投票支持台灣隊 ✅ 總統支持 ③蔡英文 ✅ 立委支持 ④陳素月 ✅ 政黨票支持 ⑭民主進步黨 #員林 #大村 #永靖 #田中 #社頭 #二水 #田尾 ❤加陳素月LINE好友或ID搜尋@sayyes➡ http://line.me/ti/p/@sayyesme/ti/p/@sayyes",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/81883999_2520435641528628_2416367666089426944_n.jpg?_nc_cat=105&_nc_ohc=J7qyU3aBq7MAQk1Ip99U4T8P6kTdtczljgO9qo5RaFkuA-ZoordePRzuA&_nc_ht=scontent-hkg3-1.xx&oh=e00a1bdd7aa3c90d23a6b4a425f79eec&oe=5E67B595",
+    "廣告詳情": {
+      "ad_creative_body": "☀早安！\n💟你ㄟ心聲，阮ㄟ打拚！\n\n#骨力打拚陳素月\n\n💡1月11日投票支持台灣隊\n✅ 總統支持 ③蔡英文\n✅ 立委支持 ④陳素月\n✅ 政黨票支持 ⑭民主進步黨\n\n#員林 #大村 #永靖\n#田中 #社頭 #二水 #田尾\n\n❤加陳素月LINE好友或ID搜尋@sayyes➡ http://line.me/ti/p/@sayyesme/ti/p/@sayyes",
+      "ad_creation_time": "2020-01-04T12:33:38+0000",
+      "ad_delivery_start_time": "2020-01-04T12:33:39+0000",
+      "ad_delivery_stop_time": "2020-01-07T12:33:38+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000238",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000715",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.188468",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.275673",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.039314",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.027401",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.110317",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.168454",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.077913",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.030736",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.008339",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.043603",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.022397",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000715",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.005718",
+          "age": "25-34",
+          "gender": "female"
+        }
+      ],
+      "funding_entity": "陳素月SayYes",
+      "impressions": {
+        "lower_bound": "4000",
+        "upper_bound": "4999"
+      },
+      "page_id": "1556863941219141",
+      "page_name": "陳素月SayYes",
+      "region_distribution": [
+        {
+          "percentage": "0.027627",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.000708",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.020307",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.036836",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.009681",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.006139",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.035655",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.002125",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.022432",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.010153",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.008028",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.181818",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.00307",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.003306",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.054782",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.141913",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.11405",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.101063",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.106257",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.103896",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.010153",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "200",
+        "upper_bound": "299"
+      },
+      "ad_id": "2259851180987652"
+    }
+  },
+  {
+    "選區": "彰化縣第四選舉區",
+    "參選人": "陳素月",
+    "AD_ID": "2655988337830154",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-27",
+    "結束日期": "2019-12-29",
+    "廣告內容": "☀早安！ 💟因為有鄉親的疼惜和寄望，素月更加~骨力衝！ #倒數14天 #骨力 💡1月11日三張票顧台灣 ✅ 總統支持 ③蔡英文 ✅ 立委支持 ④陳素月 ✅ 政黨票支持 ⑭民主進步黨 #員林 #大村 #永靖  #田中 #社頭 #二水 #田尾 ❤加陳素月LINE好友或ID搜尋@sayyes➡ http://line.me/ti/p/@sayyesme/ti/p/@sayyes",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80252346_2519447698294089_3408102131863912448_n.jpg?_nc_cat=101&_nc_ohc=2csmTiDNPnMAQmocuDoX_bIbSrbP4JMGvhfnSJ8AdCvw5kV9fPOpb56Vg&_nc_ht=scontent-hkg3-1.xx&oh=cf07c5b859abfd57bc7db8f1f3605e98&oe=5EAE0302",
+    "廣告詳情": {
+      "ad_creative_body": "☀早安！\n💟因為有鄉親的疼惜和寄望，素月更加~骨力衝！\n#倒數14天 #骨力\n\n💡1月11日三張票顧台灣\n✅ 總統支持 ③蔡英文\n✅ 立委支持 ④陳素月\n✅ 政黨票支持 ⑭民主進步黨\n\n#員林 #大村 #永靖 \n#田中 #社頭 #二水 #田尾\n\n❤加陳素月LINE好友或ID搜尋@sayyes➡ http://line.me/ti/p/@sayyesme/ti/p/@sayyes",
+      "ad_creation_time": "2020-01-04T12:35:14+0000",
+      "ad_delivery_start_time": "2020-01-04T12:35:15+0000",
+      "ad_delivery_stop_time": "2020-01-08T12:35:14+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000521",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000521",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.096925",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.156853",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.012507",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.059406",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.011464",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.089109",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.035956",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.178218",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.027097",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.017196",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.25951",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.053153",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001563",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "陳素月SayYes",
+      "impressions": {
+        "lower_bound": "2000",
+        "upper_bound": "2999"
+      },
+      "page_id": "1556863941219141",
+      "page_name": "陳素月SayYes",
+      "region_distribution": [
+        {
+          "percentage": "0.001556",
+          "region": "Penghu"
+        },
+        {
+          "percentage": "0.00778",
+          "region": "Hualien"
+        },
+        {
+          "percentage": "0.020228",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.028527",
+          "region": "Yunlin"
+        },
+        {
+          "percentage": "0.011929",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.005705",
+          "region": "Taitung"
+        },
+        {
+          "percentage": "0.0389",
+          "region": "Pingtung"
+        },
+        {
+          "percentage": "0.018672",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.011411",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.001037",
+          "region": "Kinmen"
+        },
+        {
+          "percentage": "0.003112",
+          "region": "Hsinchu"
+        },
+        {
+          "percentage": "0.038382",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.003631",
+          "region": "Chiayi"
+        },
+        {
+          "percentage": "0.045643",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.145747",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.088693",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.113589",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.110996",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.114108",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.179979",
+          "region": "Kaohsiung"
+        },
+        {
+          "percentage": "0.010373",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "199"
+      },
+      "ad_id": "2655988337830154"
+    }
+  },
+  {
+    "選區": "彰化縣第四選舉區",
+    "參選人": "陳素月",
+    "AD_ID": "2494772017444649",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-27",
+    "結束日期": "2019-12-29",
+    "廣告內容": "☀早安！ 💟因為有鄉親的疼惜和寄望，素月更加~骨力衝！ #倒數14天 #骨力 💡1月11日三張票顧台灣 ✅ 總統支持 ③蔡英文 ✅ 立委支持 ④陳素月 ✅ 政黨票支持 ⑭民主進步黨 #員林 #大村 #永靖  #田中 #社頭 #二水 #田尾 ❤加陳素月LINE好友或ID搜尋@sayyes➡ http://line.me/ti/p/@sayyesme/ti/p/@sayyes",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/80252346_2519447698294089_3408102131863912448_n.jpg?_nc_cat=101&_nc_ohc=2csmTiDNPnMAQmocuDoX_bIbSrbP4JMGvhfnSJ8AdCvw5kV9fPOpb56Vg&_nc_ht=scontent-hkg3-1.xx&oh=cf07c5b859abfd57bc7db8f1f3605e98&oe=5EAE0302",
+    "廣告詳情": {
+      "ad_creative_body": "☀早安！\n💟因為有鄉親的疼惜和寄望，素月更加~骨力衝！\n#倒數14天 #骨力\n\n💡1月11日三張票顧台灣\n✅ 總統支持 ③蔡英文\n✅ 立委支持 ④陳素月\n✅ 政黨票支持 ⑭民主進步黨\n\n#員林 #大村 #永靖 \n#田中 #社頭 #二水 #田尾\n\n❤加陳素月LINE好友或ID搜尋@sayyes➡ http://line.me/ti/p/@sayyesme/ti/p/@sayyes",
+      "ad_creation_time": "2019-12-31T10:21:45+0000",
+      "ad_delivery_start_time": "2019-12-31T10:21:48+0000",
+      "ad_delivery_stop_time": "2020-01-03T10:21:45+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.175573",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.123591",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.039622",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.076699",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.242821",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.046165",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.125772",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.062886",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.036714",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.041076",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.010542",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.018175",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000364",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "陳素月SayYes",
+      "impressions": {
+        "lower_bound": "4000",
+        "upper_bound": "4999"
+      },
+      "page_id": "1556863941219141",
+      "page_name": "陳素月SayYes",
+      "region_distribution": [
+        {
+          "percentage": "0.151471",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.627679",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.106066",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.114784",
+          "region": "Yunlin"
+        }
+      ],
+      "spend": {
+        "lower_bound": "300",
+        "upper_bound": "399"
+      },
+      "ad_id": "2494772017444649"
     }
   },
   {

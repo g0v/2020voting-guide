@@ -8160,90 +8160,90 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000251",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000501",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000251",
+          "percentage": "0.000212",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000251",
+          "percentage": "0.000212",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.150589",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.196191",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.150338",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.086194",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.033325",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.069907",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.049862",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.069657",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.095465",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.028063",
+          "percentage": "0.02665",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.057379",
+          "percentage": "0.056895",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.011776",
+          "percentage": "0.142978",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.199239",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.076142",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.090525",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.156514",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.082276",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.069797",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.035533",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.050973",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.011421",
           "age": "18-24",
           "gender": "female"
+        },
+        {
+          "percentage": "0.000423",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000212",
+          "age": "25-34",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "正鈐 鄭",
       "impressions": {
-        "lower_bound": "10000",
-        "upper_bound": "14999"
+        "lower_bound": "15000",
+        "upper_bound": "19999"
       },
       "page_id": "186612874691719",
       "page_name": "鄭正鈐",
@@ -8254,8 +8254,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "1500",
-        "upper_bound": "1999"
+        "lower_bound": "2500",
+        "upper_bound": "2999"
       },
       "ad_id": "736748806813113"
     }
@@ -8277,85 +8277,85 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000244",
+          "percentage": "0.000211",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000244",
+          "percentage": "0.000422",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000244",
+          "percentage": "0.086167",
           "age": "55-64",
-          "gender": "unknown"
+          "gender": "female"
         },
         {
-          "percentage": "0.191474",
+          "percentage": "0.079197",
           "age": "45-54",
-          "gender": "male"
+          "gender": "female"
         },
         {
-          "percentage": "0.116443",
+          "percentage": "0.114678",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.183678",
+          "percentage": "0.185005",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.137637",
+          "percentage": "0.192186",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.043295",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.131573",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.071376",
+          "percentage": "0.074551",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.085993",
-          "age": "55-64",
+          "percentage": "0.040971",
+          "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.043362",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.036541",
+          "percentage": "0.039071",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.042144",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.07771",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.004141",
+          "percentage": "0.004013",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.00877",
+          "percentage": "0.008237",
           "age": "18-24",
           "gender": "male"
+        },
+        {
+          "percentage": "0.000422",
+          "age": "55-64",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "正鈐 鄭",
       "impressions": {
-        "lower_bound": "20000",
-        "upper_bound": "24999"
+        "lower_bound": "30000",
+        "upper_bound": "34999"
       },
       "page_id": "186612874691719",
       "page_name": "鄭正鈐",
@@ -8366,8 +8366,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "1500",
-        "upper_bound": "1999"
+        "lower_bound": "2500",
+        "upper_bound": "2999"
       },
       "ad_id": "638943819975235"
     }
@@ -9416,90 +9416,90 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000277",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000277",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.00083",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000277",
+          "percentage": "0.000204",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.012732",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.111265",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.022973",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.182674",
+          "percentage": "0.18193",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.145032",
+          "percentage": "0.074816",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.144317",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.130916",
+          "percentage": "0.089125",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.129599",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.088569",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.053695",
+          "percentage": "0.058667",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.035704",
+          "percentage": "0.011856",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.035568",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.089399",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.071132",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.054249",
+          "percentage": "0.054988",
           "age": "65+",
           "gender": "male"
+        },
+        {
+          "percentage": "0.082379",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.110998",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.02453",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000613",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000204",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000204",
+          "age": "45-54",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "正鈐 鄭",
       "impressions": {
-        "lower_bound": "8000",
-        "upper_bound": "8999"
+        "lower_bound": "15000",
+        "upper_bound": "19999"
       },
       "page_id": "186612874691719",
       "page_name": "鄭正鈐",
@@ -9510,8 +9510,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "1500",
-        "upper_bound": "1999"
+        "lower_bound": "3000",
+        "upper_bound": "3499"
       },
       "ad_id": "2619397124812979"
     }
@@ -15772,80 +15772,85 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000413",
+          "percentage": "0.131234",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.065908",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.10907",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.020122",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.108486",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.116652",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.058909",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.072908",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.151648",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.110236",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.025955",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.027705",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000583",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.160891",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.122112",
+          "percentage": "0.000292",
           "age": "35-44",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.136551",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.057343",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.106848",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.058581",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.112211",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.101898",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.073432",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.022277",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.018564",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.028465",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000413",
+          "percentage": "0.000292",
           "age": "65+",
           "gender": "unknown"
         }
       ],
       "funding_entity": "正鈐 鄭",
       "impressions": {
-        "lower_bound": "2000",
-        "upper_bound": "2999"
+        "lower_bound": "3000",
+        "upper_bound": "3999"
       },
       "page_id": "186612874691719",
       "page_name": "鄭正鈐",
@@ -15856,8 +15861,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "400",
-        "upper_bound": "499"
+        "lower_bound": "600",
+        "upper_bound": "699"
       },
       "ad_id": "1719813401489001"
     }
@@ -15991,75 +15996,85 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000471",
+          "percentage": "0.000321",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.179934",
+          "percentage": "0.005452",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.176716",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.133773",
+          "percentage": "0.184413",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.015394",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.046504",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.094933",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.144323",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.012718",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.087141",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.192652",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.076778",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.09138",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.043806",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.122939",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.043335",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.011776",
+          "percentage": "0.013791",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.003297",
-          "age": "18-24",
+          "percentage": "0.088198",
+          "age": "65+",
           "gender": "female"
+        },
+        {
+          "percentage": "0.100706",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.087235",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.041373",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000321",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000321",
+          "age": "45-54",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "正鈐 鄭",
       "impressions": {
-        "lower_bound": "2000",
-        "upper_bound": "2999"
+        "lower_bound": "4000",
+        "upper_bound": "4999"
       },
       "page_id": "186612874691719",
       "page_name": "鄭正鈐",
@@ -16070,8 +16085,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "500",
-        "upper_bound": "599"
+        "lower_bound": "800",
+        "upper_bound": "899"
       },
       "ad_id": "2575482472550476"
     }
@@ -16452,65 +16467,75 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.11557",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.081862",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.0626",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.075441",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.162119",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.24077",
+          "percentage": "0.233563",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.215088",
+          "percentage": "0.195402",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.027287",
+          "percentage": "0.074483",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.093333",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.035402",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.016051",
+          "percentage": "0.14069",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.097931",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.025287",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.001605",
+          "percentage": "0.089655",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.005977",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.001605",
+          "percentage": "0.006897",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00046",
           "age": "65+",
           "gender": "unknown"
+        },
+        {
+          "percentage": "0.00092",
+          "age": "18-24",
+          "gender": "female"
         }
       ],
       "funding_entity": "正鈐 鄭",
       "impressions": {
-        "lower_bound": "0",
-        "upper_bound": "999"
+        "lower_bound": "3000",
+        "upper_bound": "3999"
       },
       "page_id": "186612874691719",
       "page_name": "鄭正鈐",
@@ -16521,8 +16546,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "100",
-        "upper_bound": "199"
+        "lower_bound": "600",
+        "upper_bound": "699"
       },
       "ad_id": "3154015037947669"
     }
@@ -16544,80 +16569,90 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.041739",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.030435",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.103478",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.221739",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.192174",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.05913",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.026087",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.226957",
+          "percentage": "0.204227",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.066957",
+          "percentage": "0.04037",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.213726",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.089527",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.08739",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.006087",
-          "age": "25-34",
+          "percentage": "0.06958",
+          "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.01913",
+          "percentage": "0.169318",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.026597",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.002609",
+          "percentage": "0.036808",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.046307",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.010449",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.0038",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.001739",
+          "percentage": "0.000475",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000475",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001739",
+          "percentage": "0.000475",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000475",
           "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "正鈐 鄭",
       "impressions": {
-        "lower_bound": "1000",
-        "upper_bound": "1999"
+        "lower_bound": "5000",
+        "upper_bound": "5999"
       },
       "page_id": "186612874691719",
       "page_name": "鄭正鈐",
@@ -16628,8 +16663,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "100",
-        "upper_bound": "199"
+        "lower_bound": "600",
+        "upper_bound": "699"
       },
       "ad_id": "1018777838483072"
     }
@@ -16651,50 +16686,60 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.548837",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.15814",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.060465",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.046512",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.12093",
+          "percentage": "0.202398",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.004651",
+          "percentage": "0.091678",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.030324",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.051163",
+          "percentage": "0.141044",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.415374",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.056417",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.01622",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.045134",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.009302",
-          "age": "45-54",
-          "gender": "female"
+          "percentage": "0.000705",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000705",
+          "age": "25-34",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "正鈐 鄭",
       "impressions": {
-        "lower_bound": "0",
-        "upper_bound": "999"
+        "lower_bound": "2000",
+        "upper_bound": "2999"
       },
       "page_id": "186612874691719",
       "page_name": "鄭正鈐",
@@ -16705,8 +16750,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "0",
-        "upper_bound": "99"
+        "lower_bound": "600",
+        "upper_bound": "699"
       },
       "ad_id": "784595035349493"
     }
@@ -16728,75 +16773,85 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.045568",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.211317",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.04006",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.047071",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.150726",
+          "percentage": "0.13366",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.22684",
+          "percentage": "0.214101",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.195182",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.096144",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.030546",
+          "percentage": "0.038111",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.068102",
+          "percentage": "0.071322",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.055083",
+          "percentage": "0.060297",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.091874",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.058391",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.070913",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.020531",
+          "percentage": "0.017967",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.007511",
+          "percentage": "0.040289",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.007078",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.000501",
+          "percentage": "0.000408",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000136",
           "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000272",
+          "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "正鈐 鄭",
       "impressions": {
-        "lower_bound": "2000",
-        "upper_bound": "2999"
+        "lower_bound": "9000",
+        "upper_bound": "9999"
       },
       "page_id": "186612874691719",
       "page_name": "鄭正鈐",
@@ -16807,8 +16862,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
+        "lower_bound": "1000",
+        "upper_bound": "1499"
       },
       "ad_id": "748307232325626"
     }
@@ -16831,80 +16886,100 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000215",
+          "percentage": "0.064011",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.03838",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000371",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000101",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "3.4E-5",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00027",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.076459",
-          "age": "45-54",
-          "gender": "female"
+          "percentage": "0.001012",
+          "age": "35-44",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.021538",
+          "percentage": "0.015345",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.168641",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.100151",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.153565",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.053198",
+          "percentage": "0.062392",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.123627",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.051045",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.067844",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.04846",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.118027",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.016153",
+          "percentage": "0.022057",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.001077",
+          "percentage": "0.046744",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.122525",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.062392",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.092914",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.14239",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.124583",
           "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.204445",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "3.4E-5",
+          "age": "18-24",
           "gender": "unknown"
         }
       ],
       "funding_entity": "正鈐 鄭",
       "impressions": {
-        "lower_bound": "5000",
-        "upper_bound": "5999"
+        "lower_bound": "50000",
+        "upper_bound": "59999"
       },
       "page_id": "186612874691719",
       "page_name": "鄭正鈐",
@@ -16915,8 +16990,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "600",
-        "upper_bound": "699"
+        "lower_bound": "5000",
+        "upper_bound": "5999"
       },
       "ad_id": "455561575127566"
     }
@@ -16939,90 +17014,100 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000145",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000145",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.013366",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.027023",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.024263",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.097341",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.182043",
+          "percentage": "0.20534",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.284178",
-          "age": "35-44",
-          "gender": "male"
+          "percentage": "0.026865",
+          "age": "25-34",
+          "gender": "female"
         },
         {
-          "percentage": "0.18335",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.101119",
+          "percentage": "0.00023",
           "age": "18-24",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.030946",
+          "percentage": "0.000165",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00079",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000691",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001251",
           "age": "35-44",
-          "gender": "female"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.011623",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.036321",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.00741",
+          "percentage": "0.016198",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.000291",
-          "age": "35-44",
-          "gender": "unknown"
+          "percentage": "0.039376",
+          "age": "45-54",
+          "gender": "female"
         },
         {
-          "percentage": "0.000436",
-          "age": "25-34",
+          "percentage": "0.112893",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.015573",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.074406",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.049779",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.151314",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.242181",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.03131",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.03131",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000329",
+          "age": "55-64",
           "gender": "unknown"
         }
       ],
       "funding_entity": "正鈐 鄭",
       "impressions": {
-        "lower_bound": "7000",
-        "upper_bound": "7999"
+        "lower_bound": "45000",
+        "upper_bound": "49999"
       },
       "page_id": "186612874691719",
       "page_name": "鄭正鈐",
@@ -17033,8 +17118,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "700",
-        "upper_bound": "799"
+        "lower_bound": "4500",
+        "upper_bound": "4999"
       },
       "ad_id": "484817615476793"
     }
@@ -17056,80 +17141,100 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000792",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000594",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.077182",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.069662",
+          "percentage": "7.0E-5",
           "age": "65+",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.182862",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.153968",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.091629",
+          "percentage": "0.09408",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.052642",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.145656",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.037404",
+          "percentage": "0.000351",
           "age": "45-54",
-          "gender": "female"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.132792",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.0283",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.011676",
+          "percentage": "0.017987",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.014843",
+          "percentage": "0.056736",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.029018",
           "age": "25-34",
           "gender": "female"
+        },
+        {
+          "percentage": "0.049886",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.179097",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.078974",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "3.5E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.06183",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.127982",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.157667",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.046724",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.098577",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000316",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000457",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000211",
+          "age": "55-64",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "正鈐 鄭",
       "impressions": {
-        "lower_bound": "5000",
-        "upper_bound": "5999"
+        "lower_bound": "40000",
+        "upper_bound": "44999"
       },
       "page_id": "186612874691719",
       "page_name": "鄭正鈐",
@@ -17140,8 +17245,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "700",
-        "upper_bound": "799"
+        "lower_bound": "5000",
+        "upper_bound": "5999"
       },
       "ad_id": "2769124753110447"
     }
@@ -17163,42 +17268,42 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.047619",
+          "percentage": "0.045455",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.047619",
+          "percentage": "0.045455",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.142857",
+          "percentage": "0.136364",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.285714",
+          "percentage": "0.272727",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.095238",
+          "percentage": "0.090909",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.047619",
+          "percentage": "0.090909",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.285714",
+          "percentage": "0.272727",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.047619",
+          "percentage": "0.045455",
           "age": "55-64",
           "gender": "male"
         }
