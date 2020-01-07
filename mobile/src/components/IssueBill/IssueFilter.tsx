@@ -6,18 +6,17 @@ import {
     Fab,
     IconButton,
     Toolbar,
-    Typography,
-    Divider
+    Typography
 } from '@material-ui/core';
 import { createStyles, makeStyles, Theme } from '@material-ui/core/styles';
-import CloseIcon from '@material-ui/icons/Close';
-import CheckCircleOutlineIcon from '@material-ui/icons/CheckCircleOutline';
 import CheckCircleIcon from '@material-ui/icons/CheckCircle';
+import CheckCircleOutlineIcon from '@material-ui/icons/CheckCircleOutline';
+import CloseIcon from '@material-ui/icons/Close';
 import FilterListIcon from '@material-ui/icons/FilterList';
 import React from 'react';
 import issues from '../../data/issues.json';
-import { Bill } from './index';
 import kols from '../../data/kol.json';
+import { Bill } from './index';
 
 interface Kol {
     name: string;
@@ -273,7 +272,7 @@ const IssueFilter = ({
                                 py={1}
                                 px={1}
                                 display="flex"
-                                justifyContent="center"
+                                justifyContent={isDesktop ? 'left' : 'center'}
                                 color="#EC502B"
                             >
                                 <Box
@@ -308,13 +307,6 @@ const IssueFilter = ({
                                     paragraph
                                 >
                                     {activeKol.background}
-                                </Typography>
-                                <Typography
-                                    variant="h5"
-                                    color="textPrimary"
-                                    paragraph
-                                >
-                                    {activeKol.issues.join('、')}
                                 </Typography>
                             </Box>
                         </Box>
