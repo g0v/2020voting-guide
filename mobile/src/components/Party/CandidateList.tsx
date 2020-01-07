@@ -4,6 +4,7 @@ import Tab from '@material-ui/core/Tab';
 import Tabs from '@material-ui/core/Tabs';
 import { makeStyles } from '@material-ui/styles';
 import {
+    DialogContent,
     Button,
     Typography,
     Avatar,
@@ -195,21 +196,24 @@ const CandidateList: FunctionComponent<{
                     )}
                     handleCloseClick={() => setOpen(false)}
                 >
-                    <List disablePadding>
-                        {candidates2016.map((c, i) => {
-                            return (
-                                <>
-                                    <Item candidate={c} />
-                                    {electedPersonNum !== 0 &&
-                                        i + 1 === electedPersonNum && (
-                                            <ElectedLine
-                                                num={electedPersonNum}
-                                            />
-                                        )}
-                                </>
-                            );
-                        })}
-                    </List>
+                    <DialogContent>
+                        <List disablePadding>
+                            {candidates2016.map((c, i) => {
+                                return (
+                                    <>
+                                        <Item candidate={c} />
+                                        {electedPersonNum !== 0 &&
+                                            i + 1 === electedPersonNum && (
+                                                <ElectedLine
+                                                    num={electedPersonNum}
+                                                />
+                                            )}
+                                    </>
+                                );
+                            })}
+                        </List>
+                        <Box height={72} />
+                    </DialogContent>
                 </Dialog>
             )}
         </Box>
