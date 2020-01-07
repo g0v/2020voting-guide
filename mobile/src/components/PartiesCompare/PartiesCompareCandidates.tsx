@@ -1,8 +1,7 @@
-import React from 'react';
 import Typography from '@material-ui/core/Typography';
 import take from 'lodash/take';
-
-import partyCandidates from '../../data/party_candidates.json';
+import React from 'react';
+import partyCandidates from '../../data/party_candidates_integrated.json';
 
 type SingleCandidateInParty = {
     name: string;
@@ -10,10 +9,10 @@ type SingleCandidateInParty = {
     party: string;
     constituency: string;
     rank: number;
-    currentLegislator: boolean;
-    isPast: boolean;
+    currentLegislator: false;
+    isPast: false;
     birth: string;
-    age: number | string;
+    age: number;
     wiki: string;
     fbPage: string;
     education: string;
@@ -25,7 +24,11 @@ type SingleCandidateInParty = {
     others: string;
     unvarifiedEducation: string;
     unvarifiedPolitics: string;
+    date_of_birth: string;
+    sex: string;
+    place_of_birth: string;
 };
+
 interface Props {
     name: string;
 }
@@ -59,7 +62,7 @@ export default function PartiesCompareCandidates({ name }: Props) {
                                 )}
                             </div>
                             <div className="h5 color-gray text-overflow-1">
-                                {experience}
+                                {experience.split(/。|\n|，/)[0]}
                             </div>
                         </div>
                     );
