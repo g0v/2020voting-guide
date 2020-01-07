@@ -38,14 +38,12 @@ export default function CandidateCompareCardEducation({
                     dangerouslySetInnerHTML={experience}
                 ></div>
             </div>
-            <div className="mt-auto">
-                <a
-                    className="btn btn-rounded"
-                    href={`/candidate/${constituency}/${name}?tab=3`}
-                >
-                    詳細學經歷
-                </a>
-            </div>
+            <a
+                className="btn btn-rounded btn-link"
+                href={`/candidate/${constituency}/${name}?tab=3`}
+            >
+                詳細學經歷
+            </a>
         </div>
     );
 }

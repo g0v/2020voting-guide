@@ -20,18 +20,16 @@ export default function CandidateCompareCardEducation({
         <div className="candidate-compare-col candidate-compare-political style-flex">
             <div className="h4 mb-2">政見</div>
             <div
-                className="h5 text-overflow-7 color-gray"
+                className="h5 text-overflow-20 color-gray"
                 dangerouslySetInnerHTML={politic}
             ></div>
 
-            <div className="mt-auto">
-                <a
-                    className="btn btn-rounded"
-                    href={`/candidate/${constituency}/${name}?tab=3`}
-                >
-                    完整政見
-                </a>
-            </div>
+            <a
+                className="btn btn-rounded btn-link"
+                href={`/candidate/${constituency}/${name}?tab=3`}
+            >
+                完整政見
+            </a>
         </div>
     );
 }

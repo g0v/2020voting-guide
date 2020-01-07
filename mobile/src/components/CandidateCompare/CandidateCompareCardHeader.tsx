@@ -60,12 +60,8 @@ const CandidateCompareCardHeader = ({
                 {name.charAt(0)}
             </Avatar>
             <div className="d-flex align-items-center candidate-compare-header-name">
-                <Typography variant="h3" color="textSecondary">
-                    {name}
-                </Typography>
-                <Typography variant="h5" color="textSecondary">
-                    {ageDisplay}
-                </Typography>
+                <div className="h3 color-black mr-2 mb-2">{name}</div>
+                <div className="h5 color-gray">{ageDisplay}</div>
                 {responseData.currentLegislator && (
                     <Typography
                         variant="h5"

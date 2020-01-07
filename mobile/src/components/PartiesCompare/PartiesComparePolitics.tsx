@@ -8,21 +8,19 @@ export default function PartiesComparePolitics({ name }: Props) {
         return item.name === name;
     });
     return (
-        <div className="parties-compare-politics">
+        <div className="candidate-compare-col parties-compare-politics">
             <div className="h4 mb-3">政見</div>
             {partyPolity && (
-                <div className="h5 color-gray text-overflow-5">
+                <div className="h5 color-gray text-overflow-20">
                     {partyPolity.politics}
                 </div>
             )}
-            <div>
-                <a
-                    href={`/party/${name}/基本資料`}
-                    className="btn btn-rounded parties-compare-link-btn"
-                >
-                    完整政見
-                </a>
-            </div>
+            <a
+                href={`/party/${name}/基本資料`}
+                className="btn btn-rounded btn-link"
+            >
+                完整政見
+            </a>
         </div>
     );
 }

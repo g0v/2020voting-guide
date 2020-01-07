@@ -47,7 +47,7 @@ const PartiesCompareBillsItem = ({
                 );
             });
         },
-        (_: any) => take(_, 3)
+        (_: any) => take(_, 8)
     );
     const label =
         type === 'person' ? (
@@ -119,19 +119,20 @@ export default function PartiesCompareBills({ name }: Props) {
 
     return (
         <div
-            className={clsx('parties-compare-bills loading style-flex', {
-                'is-show': isLoading
-            })}
+            className={clsx(
+                'candidate-compare-col parties-compare-bills loading style-flex',
+                {
+                    'is-show': isLoading
+                }
+            )}
         >
             {child}
-            <div>
-                <a
-                    href={`/party/${name}/議題法案`}
-                    className="btn btn-rounded parties-compare-link-btn"
-                >
-                    詳細議題法案
-                </a>
-            </div>
+            <a
+                href={`/party/${name}/議題法案`}
+                className="btn btn-rounded btn-link"
+            >
+                詳細議題法案
+            </a>
         </div>
     );
 }
