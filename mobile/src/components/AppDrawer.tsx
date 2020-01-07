@@ -9,6 +9,7 @@ import Typography from '@material-ui/core/Typography';
 import ChevronRightIcon from '@material-ui/icons/ChevronRight';
 import React from 'react';
 import countyConstituency from '../data/county_constituency.json';
+import parties from '../data/party.json';
 import { useOpenClose } from '../hooks/useOpenClose';
 import SearchContainerWithDialog from './Search/SearchContainerWithDialog';
 
@@ -71,6 +72,13 @@ const useStyles = makeStyles((theme: Theme) =>
         countyListItem: {
             boxSizing: 'border-box',
             width: '33%',
+            padding: '5px 15px 5px 15px',
+            display: 'inline-block',
+            color: '#3199BA'
+        },
+        partyListItem: {
+            boxSizing: 'border-box',
+            width: '50%',
             padding: '5px 15px 5px 15px',
             display: 'inline-block',
             color: '#3199BA'
@@ -159,6 +167,28 @@ const AppDrawer = ({ open, handleDrawerClose }: AppDrawer) => {
                             className={classes.countyListItem}
                         >
                             <ListItemText primary={county}></ListItemText>
+                        </ListItem>
+                    ))}
+                </List>
+                <List>
+                    <ListItem
+                        button
+                        key="不分區域立委候選人"
+                        component="a"
+                        href="/parties"
+                        className={classes.listItemLink}
+                    >
+                        <Typography variant="h3">不分區域立委候選人</Typography>
+                    </ListItem>
+                    {parties.map(party => (
+                        <ListItem
+                            key={party.name}
+                            button
+                            component="a"
+                            href={`/party/${party.name}`}
+                            className={classes.partyListItem}
+                        >
+                            <ListItemText primary={party.name}></ListItemText>
                         </ListItem>
                     ))}
                 </List>
