@@ -71,17 +71,6 @@ const Footer = () => {
                                     </Typography>
                                 </Link>
                             </Box>
-
-                            <Box my={3}>
-                                {/* TODO：待頁面上線後，拿掉 Tooltip */}
-                                <Tooltip title="COMING SOON" placement="left">
-                                    <Link>
-                                        <Typography variant="h4">
-                                            熱門議題
-                                        </Typography>
-                                    </Link>
-                                </Tooltip>
-                            </Box>
                         </div>
                     </div>
                     <Typography variant="h4" className="footer__powered">
