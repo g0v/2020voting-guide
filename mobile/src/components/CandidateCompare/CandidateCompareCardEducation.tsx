@@ -1,6 +1,6 @@
+import find from 'lodash/find';
 import React from 'react';
 import regionalAll from '../../data/cec_regional_all.json';
-import find from 'lodash/find';
 interface Props {
     name: string;
     constituency: string;
@@ -10,7 +10,7 @@ export default function CandidateCompareCardEducation({
     constituency
 }: Props) {
     const [education, experience] = React.useMemo(() => {
-        const candidateData = find(regionalAll, { name }) as any;
+        const candidateData = find(regionalAll, { name, constituency }) as any;
         return [
             {
                 __html: candidateData.education.replace(/\n/g, '<br/>')

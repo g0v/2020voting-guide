@@ -1,9 +1,5 @@
-import React from 'react';
-import { Typography } from '@material-ui/core';
-import clsx from 'clsx';
 import find from 'lodash/find';
-import useFetch from '../../hooks/useFetch';
-import { CandidateType } from '../Candidate/Candidate';
+import React from 'react';
 import regionalAll from '../../data/cec_regional_all.json';
 interface Props {
     name: string;
@@ -14,7 +10,7 @@ export default function CandidateCompareCardEducation({
     constituency
 }: Props) {
     const politic = React.useMemo(() => {
-        const candidateData = find(regionalAll, { name }) as any;
+        const candidateData = find(regionalAll, { name, constituency }) as any;
         return {
             __html: candidateData.politic.replace(/\n/g, '<br/>')
         };
