@@ -77,6 +77,9 @@ const VisIssuePage: FunctionComponent<{
             <div className='vis-title'>
                 <Typography variant="h2">猜猜誰最常看<span> {btn} </span>法?</Typography>
                 <Typography className={isMobile ? classes.visSubtitleMobile : classes.visSubtitle}>圓圈大小代表該立委「質詢次數+法案提案」的統計數量</Typography>
+                <Typography className={isMobile ? classes.visSubtitleMobile : classes.visSubtitle}>
+                    包含 民主進步黨35席, 中國國民黨12席, 時代力量3席, 無黨籍3席, 親民黨1席, 無黨團結聯盟1席
+                </Typography>
             </div>
             { isMobile ?
                 <div className='vis-controller-mobile'>
