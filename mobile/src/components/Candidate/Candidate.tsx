@@ -79,23 +79,28 @@ interface CandidatePage {
     };
 }
 
-const IssueBillTabAlert: FunctionComponent<{
-    isCurrentLegislator: boolean;
+const IssueBillNoInfo: FunctionComponent<{
     name: string;
-}> = ({ name, isCurrentLegislator }) => (
-    <Alert>
-        <Typography variant="h5">
-            {isCurrentLegislator
-                ? `以下是 2016-2019 年${name}候選人在立法院實際提出的法案。`
-                : `${name}候選人不是上屆立委，以下是他所屬政黨的黨團 2016-2019 年在立法院實際提出的法案`}
+}> = ({ name }) => (
+    <Box
+        py={2}
+        textAlign="center">
+        <img
+            width="150"
+            height="150"
+            src="/img/doll/new_candidate.svg"
+            alt="2020/1/11,台灣總選大選投票日"
+        />
+        <Box py={2} style={{
+            fontWeight: 500,
+            color: '#000'
+        }}>
+            原來{name}不是上屆立委阿！
+        </Box>
+        <Typography variant="h5" color="textSecondary">
+            你可以參考他的政黨在 2016-2019 年在實際提出的法案。
         </Typography>
-        <Typography variant="h5">
-            {`資料來源: `}
-            <Link href="https://lis.ly.gov.tw/billtpc/billtp">
-                立法動態資訊網法案追蹤平台
-            </Link>
-        </Typography>
-    </Alert>
+    </Box>
 );
 
 const caucusParty = ['民主進步黨', '中國國民黨', '親民黨', '時代力量'];
@@ -273,11 +278,8 @@ const CandidatePage = ({ match }: CandidatePage) => {
                                     </Typography>
                                 </Box>
                             ) : (
-                                <IssueBillTabAlert
+                                <IssueBillNoInfo
                                     name={candidate.name}
-                                    isCurrentLegislator={
-                                        candidate.currentLegislator
-                                    }
                                 />
                             )}
                         </IssueBillTab>
