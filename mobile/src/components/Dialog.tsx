@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { Button, Box } from '@material-ui/core';
 import { makeStyles } from '@material-ui/styles';
 import CloseIcon from '@material-ui/icons/Close';
@@ -14,11 +15,10 @@ const useStyles = makeStyles({
         paddingTop: '16px',
         paddingLeft: '16px',
         paddingRight: '16px',
-        background: 'rgba(0, 0, 0, 0.5)',
         position: 'fixed'
     },
     content: {
-        maxWidth:'980px',
+        maxWidth: '980px',
         marginLeft: 'auto',
         marginRight: 'auto',
         position: 'relative',
@@ -40,6 +40,16 @@ const useStyles = makeStyles({
     bottomPanel: {
         boxSizing: 'border-box',
         backgroundColor: 'rgba(255, 255, 255, 0.8)'
+    },
+    background: {
+        cursor: 'pointer',
+        position: 'absolute',
+        top: 0,
+        left: 0,
+        right: 0,
+        bottom: 0,
+        zIndex: -1,
+        background: 'rgba(0, 0, 0, 0.5)'
     },
     button: {
         color: 'rgba(0, 0, 0, 0.54)'
@@ -76,6 +86,10 @@ const Dialog: FunctionComponent<{
                     </Button>
                 </Box>
             </Box>
+            <Box
+                className={classes.background}
+                onClick={() => handleCloseClick()}
+            />
         </Box>
     );
 };
