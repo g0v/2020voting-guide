@@ -171,6 +171,16 @@ const CandidatePage = ({ match }: CandidatePage) => {
     }, []);
 
     useEffect(() => {
+        if (
+            candidate.name &&
+            !candidate.currentLegislator &&
+            !caucusParty.includes(candidate.party)
+        ) {
+            setTab('競選戰力');
+        }
+    }, [candidate]);
+
+    useEffect(() => {
         fetch(billsURL)
             .then(res => res.json())
             .then(setBills);
@@ -231,9 +241,14 @@ const CandidatePage = ({ match }: CandidatePage) => {
                     textColor="primary"
                     onChange={switchTab}
                 >
-                    <Tab label="議題法案" value="議題法案" />
+                    {candidate.name &&
+                    !candidate.currentLegislator &&
+                    !caucusParty.includes(candidate.party) ? null : (
+                        <Tab label="議題法案" value="議題法案" />
+                    )}
                     <Tab label="競選戰力" value="競選戰力" />
-                    {name === '蔡其昌' ? null : (
+                    {name === '蔡其昌' ||
+                    (candidate.name && !candidate.currentLegislator) ? null : (
                         <Tab label="立院表現" value="立院表現" />
                     )}
                     <Tab label="經歷政見" value="經歷政見" />
