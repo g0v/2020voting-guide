@@ -1,180 +1,183 @@
 @import '../../css/variable';
 @import '../../css/mixins';
 
-body.body-page-candidate-compare {
-    background-color: #f9f9f9;
-    header {
-        position: relative;
+
+body.body-page-candidate-compare{
+  background-color:#f9f9f9;
+  header{
+    position: relative;
+  }
+  .main-container{
+    > .MuiToolbar-regular.MuiToolbar-gutters{
+      display: none;
     }
-    .main-container {
-        > .MuiToolbar-regular.MuiToolbar-gutters {
-            display: none;
-        }
-    }
+  }
 }
 
-.page-candidate-compare {
-    .page-candidate-compare-nav {
-        position: -webkit-sticky;
-        position: sticky;
-        top: 0;
-        margin: 0;
-        z-index: 99;
-        padding: 4px 10px;
-        margin-bottom: 10px;
-        background-color: white;
+.page-candidate-compare{
+  
+  .page-candidate-compare-nav{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    margin: 0;
+    z-index: 99;
+    padding: 4px 10px;
+    margin-bottom: 10px;
+    background-color: white;
+  }
+  .canidate-compare-fixed-container{
+    position: fixed;
+    z-index: 9;
+    top: 64px;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.15s;
+    &.is-show{
+      opacity: 1;
+      visibility: visible;
     }
-    .canidate-compare-fixed-container {
-        position: fixed;
-        z-index: 9;
-        top: 64px;
-        opacity: 0;
-        visibility: hidden;
-        transition: all 0.15s;
-        &.is-show {
-            opacity: 1;
-            visibility: visible;
-        }
-        // background-color:white;
-        .candidate-compare-card {
-            h3 {
-                padding-left: 16px;
-            }
-        }
+    // background-color:white;
+    .candidate-compare-card{
+      h3{
+        padding-left: 16px;
+      }
     }
-    .candidate-compare-row {
+  }
+  .candidate-compare-row{
+    display: flex;
+    flex-wrap: no-wrap;
+  }
+  .swiper-slide{
+    width: auto;
+  }
+  .candidate-compare-card{
+    padding: 8px;
+    position: relative;
+    flex: 0 0 auto;
+    width: 60vw;
+    @include mediaMedium(){
+      width: 22vw;
+    }
+    .candidate-compare-add-btn{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 40px 0;
+      font-size: 40px;
+      border-color: rgba(0, 0, 0, 0.15);
+    }
+    .candidate-compare-header{
+      position: relative;
+      &-close-btn{
+        position: absolute;
+        top: -16px;
+        right: -16px;
+      }
+      .candidate-compare-header-current{
+        display: inline-flex;
+        align-items: center;
+        &:before{
+          content: '';
+          display: inline-block;
+          width: 15px;
+          height: 15px;
+          margin-right: 4px;
+          background-color:#42B72A;
+          border-radius: 50%;
+        }
+        &.style-gray{
+          &:before{
+            background-color:#AEAEAE;
+          }
+        }
+      }
+      &--fixed{
+        border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+        background-color:white;
+        padding: 10px 0;
         display: flex;
-        flex-wrap: no-wrap;
+        align-items: center;
+        .candidate-compare-header-close-btn{
+          top: 50%;
+          right: 0;
+          transform: translateY(-50%);
+        }
+      }
     }
-    .swiper-slide {
-        width: auto;
-    }
-    .candidate-compare-card {
-        padding: 8px;
-        position: relative;
-        flex: 0 0 auto;
-        width: 60vw;
-        @include mediaMedium() {
-            width: 22vw;
-        }
-        .candidate-compare-add-btn {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            padding: 40px 0;
-            font-size: 40px;
-            border-color: rgba(0, 0, 0, 0.15);
-        }
-        .candidate-compare-header {
-            position: relative;
-            &-close-btn {
-                position: absolute;
-                top: -16px;
-                right: -16px;
-            }
-            .candidate-compare-header-current {
-                display: inline-flex;
-                align-items: center;
-                &:before {
-                    content: '';
-                    display: inline-block;
-                    width: 12px;
-                    height: 12px;
-                    margin-right: 4px;
-                    background-color: #42b72a;
-                    border-radius: 50%;
-                }
-                &.style-gray {
-                    &:before {
-                        background-color: #aeaeae;
-                    }
-                }
-            }
-            &--fixed {
-                border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-                background-color: white;
-                padding: 10px 0;
-                display: flex;
-                align-items: center;
-                .candidate-compare-header-close-btn {
-                    top: 50%;
-                    right: 0;
-                    transform: translateY(-50%);
-                }
-            }
-        }
-        .candidate-compare-col {
-            position: relative;
-            min-height: 1px;
+    .candidate-compare-col{
+      position: relative;
+      min-height: 1px;
+      
+      &.style-flex{
+        display: flex;
+        flex-direction: column;
+      }
+      .candidate-compare-col-title{
+        margin-bottom: 0.5rem;
+      }
 
-            &.style-flex {
-                display: flex;
-                flex-direction: column;
-            }
-            .candidate-compare-col-title {
-                margin-bottom: 0.5rem;
-            }
-
-            &.candidate-compare-issue-bill {
-                height: 250px;
-                .candidate-compare-issue-bill-list
-                    + .candidate-compare-issue-bill-list {
-                    margin-top: 10px;
-                }
-            }
-            &.candidate-compare-fb {
-                height: 150px;
-                .iframe {
-                    width: 100%;
-                }
-            }
-            &.candidate-compare-fbad {
-                height: 380px;
-            }
-
-            &.candidate-compare-education {
-                height: 380px;
-                .candidate-compare-education-item {
-                    height: 140px;
-                }
-            }
-            &.candidate-compare-political {
-                height: 240px;
-                h3,
-                h5 {
-                    @include textOverflow(7);
-                }
-            }
+      &.candidate-compare-issue-bill{
+        height: 250px;
+        .candidate-compare-issue-bill-list + .candidate-compare-issue-bill-list{
+          margin-top: 10px;
         }
-    }
-    #swiper-wrapper-fixed {
-        .candidate-compare-card {
-            padding: 0 8px;
-            .candidate-compare-add-btn {
-                padding: 0;
-                line-height: 50px;
-                background-color: #f9f9f9;
-            }
+      }
+      &.candidate-compare-fb{
+        height: 150px;
+        .iframe{
+          width: 100%;
         }
-    }
+      }
+      &.candidate-compare-fbad{
+        height: 380px;
+      }
 
-    .candidate-compare-noinfo {
-        position: relative;
-        .alert-frame {
-            margin: 0;
+      &.candidate-compare-education{
+        height: 380px;
+        .candidate-compare-education-item{
+          height: 140px;
         }
+      }
+      &.candidate-compare-political{
+        height: 240px;
+        h3,
+        h5{
+          @include textOverflow(7)
+        }
+      }
     }
+  }
+  #swiper-wrapper-fixed{
+    .candidate-compare-card{
+      padding: 0 8px;
+      .candidate-compare-add-btn{
+        padding: 0;
+        line-height: 50px;
+        background-color:#f9f9f9;
+      }
+    }
+  }
+  
+  .candidate-compare-noinfo{
+    position: relative;
+    .alert-frame{
+      margin: 0;
+    }
+  }
+  
 }
 
-.ic-spend {
-    width: 42px;
-    height: 42px;
-    display: inline-block;
-    background-image: url('/img/spend.svg');
+
+.ic-spend{
+  width: 42px;
+  height: 42px;
+  display: inline-block;
+  background-image:url('/img/spend.svg');
 }
-.ic-impressions {
-    width: 42px;
-    height: 42px;
-    display: inline-block;
-    background-image: url('/img/impressions.svg');
+.ic-impressions{
+  width: 42px;
+  height: 42px;
+  display: inline-block;
+  background-image:url('/img/impressions.svg');
 }
