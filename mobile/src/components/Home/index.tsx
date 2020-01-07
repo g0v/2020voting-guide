@@ -207,6 +207,7 @@ const Home = (props: Props) => {
                     </div>
                 </div>
             </Box>
+            <CurrentLegislatorIssue />
             <Container>
                 <div id="立委的工作是什麼" />
                 {isYoutubeReady && (
@@ -266,8 +267,6 @@ const Home = (props: Props) => {
                         </a>
                     </VideoCard>
                 )}
-                <div className="divider"></div>
-                <CurrentLegislatorIssue />
             </Container>
         </div>
     );
