@@ -147,19 +147,37 @@ const CandidateList: FunctionComponent<{
     electedPersonNum: number;
     party: string;
     candidates: Candidate[];
-}> = ({ party, candidates, electedPersonNum }) => {
+    candidates2016: Candidate[];
+}> = ({ party, candidates, electedPersonNum, candidates2016 }) => {
     const [open, setOpen] = useState(false);
     const [tab, setTab] = React.useState(0);
     return (
         <Box>
             <ListAlert name={party} />
-            <Button
-                onClick={() => setOpen(true)}
-                variant="outlined"
-                color="primary"
-            >
-                上屆名單
-            </Button>
+            <Box mb={2} mr={2} display="flex" flexDirection="row-reverse">
+                <Button
+                    onClick={() => setOpen(true)}
+                    variant="outlined"
+                    color="primary"
+                >
+                    上屆名單
+                </Button>
+            </Box>
+            <Box p={2} bgcolor="white">
+                <List disablePadding>
+                    {candidates.map((c, i) => {
+                        return (
+                            <>
+                                <Item candidate={c} />
+                                {electedPersonNum !== 0 &&
+                                    i + 1 === electedPersonNum && (
+                                        <ElectedLine num={electedPersonNum} />
+                                    )}
+                            </>
+                        );
+                    })}
+                </List>
+            </Box>
             {open && (
                 <Dialog
                     top={() => (
@@ -176,23 +194,24 @@ const CandidateList: FunctionComponent<{
                         </Tabs>
                     )}
                     handleCloseClick={() => setOpen(false)}
-                />
+                >
+                    <List disablePadding>
+                        {candidates2016.map((c, i) => {
+                            return (
+                                <>
+                                    <Item candidate={c} />
+                                    {electedPersonNum !== 0 &&
+                                        i + 1 === electedPersonNum && (
+                                            <ElectedLine
+                                                num={electedPersonNum}
+                                            />
+                                        )}
+                                </>
+                            );
+                        })}
+                    </List>
+                </Dialog>
             )}
-            <Box p={2} bgcolor="white">
-                <List disablePadding>
-                    {candidates.map((c, i) => {
-                        return (
-                            <>
-                                <Item candidate={c} />
-                                {electedPersonNum !== 0 &&
-                                    i + 1 === electedPersonNum && (
-                                        <ElectedLine num={electedPersonNum} />
-                                    )}
-                            </>
-                        );
-                    })}
-                </List>
-            </Box>
         </Box>
     );
 };

@@ -7,6 +7,7 @@ import React, { useEffect } from 'react';
 import { RouteComponentProps } from 'react-router';
 import partyInfos from '../../data/party.json';
 import partyCandidates from '../../data/party_candidates_integrated.json';
+import partyCandidates2016 from '../../data/party_candidates_2016.json';
 import partyNonRegionalBills from '../../data/party_nonregional_bills.json';
 import partyPolitics2016 from '../../data/party_politics_2016.json';
 import partyPolitics2020 from '../../data/party_politics_2020.json';
@@ -56,6 +57,11 @@ const Party = ({
 
     const candidates: Candidate[] =
         (partyCandidates as {
+            [party: string]: Candidate[];
+        })[party] || [];
+
+    const candidates2016: Candidate[] =
+        (partyCandidates2016 as {
             [party: string]: Candidate[];
         })[party] || [];
 
@@ -180,6 +186,7 @@ const Party = ({
                         electedPersonNum={partyInfo.electedPersonNum}
                         party={party}
                         candidates={candidates}
+                        candidates2016={candidates2016}
                     />
                 )}
                 {tab === 1 ? (
