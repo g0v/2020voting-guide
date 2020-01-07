@@ -19,7 +19,7 @@ const CurrentLegislatorIssue = () => {
     return (
         <div className="current-legislator">
             <Box mx={1} mb={3} className="current-legislator-title" >
-                <Typography variant="h2">猜猜誰最常看<span className='current-legislator-title__highlight'>  交通建設  </span>法？</Typography>
+                <Typography variant="h2">猜猜誰最常看<span className='current-legislator-title__highlight'>  {btn}  </span>法？</Typography>
             </Box>
             <Typography>選你在乎的議題  爭取連任的立委比一比</Typography>
             <div className='butten-area'>
