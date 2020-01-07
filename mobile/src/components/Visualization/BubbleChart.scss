@@ -30,6 +30,9 @@
   width: 100%;
   flex-wrap: wrap;
 }
+.vis-subtitle {
+  text-align: left !important;
+}
 .vis-controller-mobile {
   z-index: 100;
   position: absolute;
@@ -59,7 +62,7 @@
     padding: 10% 3% 0 3%;
   }
   .vis-controller-mobile {
-    top: 34%;
+    top: 53%;
   }
 }
 

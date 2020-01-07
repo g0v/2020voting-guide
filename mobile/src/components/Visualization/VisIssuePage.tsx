@@ -4,6 +4,7 @@ import './BubbleChart.scss';
 import { IssueData } from './visData.js';
 import { Button, Select, MenuItem, Typography } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
+import Alert from '../Alert';
 
 const useStyles = makeStyles({
     visButton: {
@@ -76,10 +77,19 @@ const VisIssuePage: FunctionComponent<{
         <div className='vis-container'>
             <div className='vis-title'>
                 <Typography variant="h2">猜猜誰最常看<span> {btn} </span>法?</Typography>
-                <Typography className={isMobile ? classes.visSubtitleMobile : classes.visSubtitle}>圓圈大小代表該立委「質詢次數+法案提案」的統計數量</Typography>
-                <Typography className={isMobile ? classes.visSubtitleMobile : classes.visSubtitle}>
-                    包含 民主進步黨35席, 中國國民黨12席, 時代力量3席, 無黨籍3席, 親民黨1席, 無黨團結聯盟1席
-                </Typography>
+                <Alert>
+                    <div className='vis-subtitle'>
+                        <Typography className={isMobile ? classes.visSubtitleMobile : classes.visSubtitle}>
+                            下圖比較所有競選連任的立委，包含民主進步黨 35 席、中國國民黨 12 席、時代力量 3 席、親民黨 1 席、無黨團結聯盟 1 席、無黨籍 3 席
+                        </Typography>
+                        <Typography className={isMobile ? classes.visSubtitleMobile : classes.visSubtitle}>
+                            圓圈越大代表該立委「法案提案+質詢次數」越多
+                        </Typography>
+                        <Typography className={isMobile ? classes.visSubtitleMobile : classes.visSubtitle}>
+                            資料來源: <a href="https://lis.ly.gov.tw/billtpc/billtp">立法動態資訊網法案追蹤平台</a>
+                        </Typography>
+                    </div>
+                </Alert>
             </div>
             { isMobile ?
                 <div className='vis-controller-mobile'>
