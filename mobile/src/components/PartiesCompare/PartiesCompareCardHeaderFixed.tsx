@@ -18,9 +18,7 @@ const PartiesCompareCardHeaderFixed = ({
     return (
         <div className="candidate-compare-card py-0">
             <div className="candidate-compare-header candidate-compare-header--fixed">
-                <Typography variant="h3" color="textSecondary">
-                    {name}
-                </Typography>
+                <div className="h3 color-black pl-3">{name}</div>
                 <IconButton
                     className={clsx('candidate-compare-header-close-btn', {
                         'd-none': currentCandidateCount <= 2

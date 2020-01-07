@@ -2,32 +2,30 @@
 @import '../../css/mixins';
 .page-candidate-compare{
   .parties-compare-header{
-    height: 200px;
+    height: 220px;
   }
 
-  .parties-compare-link-btn{
-    position: absolute;
-    bottom: 0;
-  }
+
 
 
   .parties-compare-candidates{
-    height: 85px * 7;
+    height: 80px * 7;
     position: relative;
     &-item{
       height: 50px;
     }
   }
-  .parties-compare-politics{
-    position: relative;
-    height: 210px;
-  }
+
 
   .parties-compare-bills{
     position: relative;
-    height: 420px;
+    height: 560px;
     .parties-compare-bills-item{
-      height: 120px;
+      height: 210px;
     }
+  }
+  .parties-compare-politics{
+    position: relative;
+    height: 500px;
   }
 }

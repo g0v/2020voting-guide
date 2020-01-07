@@ -119,14 +119,12 @@ export default function CandidateCompareCardFBAd({
                         {numberWithCommas(totalImpressionsUpper)}
                     </Typography>
 
-                    <div className="mt-auto">
-                        <a
-                            href={`/candidate/${constituency}/${name}?tab=1`}
-                            className="btn btn-rounded"
-                        >
-                            詳細粉專廣告
-                        </a>
-                    </div>
+                    <a
+                        href={`/candidate/${constituency}/${name}?tab=1`}
+                        className="btn btn-rounded btn-link"
+                    >
+                        詳細粉專廣告
+                    </a>
                 </>
             );
         }

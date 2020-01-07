@@ -42,21 +42,25 @@ export default function PartiesCompareCandidates({ name }: Props) {
         7
     );
     return (
-        <div className="parties-compare-candidates">
-            <Typography variant="h3">本屆不分區提名</Typography>
+        <div className="candidate-compare-col parties-compare-candidates">
+            <div className="h4 color-black mb-3 font-weight-500">
+                本屆不分區提名
+            </div>
             {candidates.map(
                 (candidate: SingleCandidateInParty, idx: number) => {
                     const { name, age, experience } = candidate;
                     return (
                         <div
-                            className="parties-compare-candidates-item mb-4"
+                            className="parties-compare-candidates-item mb-3"
                             key={name}
                         >
                             <div className="d-flex align-items-center">
                                 <span className="h3 color-red mr-2">
                                     {idx + 1}
                                 </span>
-                                <span className="h4 mr-1">{name}</span>
+                                <span className="h4 mr-2 color-real-black">
+                                    {name}
+                                </span>
                                 {age && (
                                     <div className="h5 color-gray">{age}歲</div>
                                 )}
@@ -68,14 +72,9 @@ export default function PartiesCompareCandidates({ name }: Props) {
                     );
                 }
             )}
-            <div>
-                <a
-                    href={`/party/${name}`}
-                    className="btn btn-rounded parties-compare-link-btn"
-                >
-                    完整不分區名單
-                </a>
-            </div>
+            <a href={`/party/${name}`} className="btn btn-rounded">
+                完整不分區名單
+            </a>
         </div>
     );
 }

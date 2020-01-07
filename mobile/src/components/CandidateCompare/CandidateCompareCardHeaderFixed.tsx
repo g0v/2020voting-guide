@@ -27,9 +27,7 @@ const CandidateCompareCardHeaderFixed = ({
     return (
         <div className="candidate-compare-card py-0">
             <div className="candidate-compare-header candidate-compare-header--fixed">
-                <Typography variant="h3" color="textSecondary">
-                    {name}
-                </Typography>
+                <div className="h3 color-black pl-3">{name}</div>
                 {responseData.currentLegislator && (
                     <Typography variant="h5" color="textSecondary">
                         <span className="candidate-compare-header-current ml-2">
