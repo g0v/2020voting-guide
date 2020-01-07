@@ -191,7 +191,7 @@ const CandidateList: FunctionComponent<{
                             textColor="primary"
                         >
                             <Tab label="上屆不分區提名" />
-                            <Tab label="上屆區域立委" />
+                            {/* <Tab label="上屆區域立委" /> */}
                         </Tabs>
                     )}
                     handleCloseClick={() => setOpen(false)}
