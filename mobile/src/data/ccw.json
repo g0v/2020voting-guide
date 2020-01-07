@@ -1,641 +1,890 @@
 {
-    "林麗蟬": {
-        "engagementRate": 0.8428571428571429,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "徐榛蔚": {
-        "engagementRate": 0.62,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "陳超明": {
-        "engagementRate": 0.8357142857142857,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "黃昭順": {
-        "engagementRate": 0.8885714285714286,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "楊鎮浯": {
-        "engagementRate": 0.6366666666666667,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 1
-    },
-    "吳琪銘": {
-        "engagementRate": 0.9671428571428572,
-        "excellentLegislatorNum": 2,
-        "observedLegislatorNum": 0
-    },
-    "李俊俋": {
-        "engagementRate": 0.9714285714285714,
-        "excellentLegislatorNum": 2,
-        "observedLegislatorNum": 0
-    },
-    "姚文智": {
-        "engagementRate": 0.74,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "洪宗熠": {
-        "engagementRate": 0.9671428571428571,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "莊瑞雄": {
-        "engagementRate": 0.84,
-        "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
-    },
-    "陳其邁": {
-        "engagementRate": 0.6866666666666666,
-        "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
-    },
-    "趙天麟": {
-        "engagementRate": 0.7971428571428572,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "賴瑞隆": {
-        "engagementRate": 0.9671428571428571,
-        "excellentLegislatorNum": 2,
-        "observedLegislatorNum": 0
-    },
-    "陳怡潔": {
-        "engagementRate": 0.9057142857142857,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "王金平": {
-        "engagementRate": 0.06,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "江啟臣": {
-        "engagementRate": 0.9928571428571429,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "呂玉玲": {
-        "engagementRate": 0.9857142857142858,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "徐志榮": {
-        "engagementRate": 0.7185714285714286,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "馬文君": {
-        "engagementRate": 0.9514285714285714,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
     "王定宇": {
-        "engagementRate": 0.9771428571428571,
-        "excellentLegislatorNum": 0,
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 97.71428571428571,
+        "excellentLegislatorNum": 5,
         "observedLegislatorNum": 0
     },
-    "呂孫綾": {
-        "engagementRate": 0.92,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "陳亭妃": {
-        "engagementRate": 0.8785714285714286,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "劉世芳": {
-        "engagementRate": 0.9671428571428571,
-        "excellentLegislatorNum": 2,
-        "observedLegislatorNum": 0
-    },
-    "蔡適應": {
-        "engagementRate": 0.9785714285714285,
-        "excellentLegislatorNum": 2,
-        "observedLegislatorNum": 0
-    },
-    "羅致政": {
-        "engagementRate": 0.9457142857142857,
-        "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
-    },
-    "蘇嘉全": {
-        "engagementRate": 0.0,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "林昶佐": {
-        "engagementRate": 0.91,
-        "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
-    },
-    "王惠美": {
-        "engagementRate": 0.6583333333333333,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "孔文吉": {
-        "engagementRate": 0.7885714285714286,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "張麗善": {
-        "engagementRate": 0.6716666666666666,
-        "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
-    },
-    "廖國棟": {
-        "engagementRate": 0.7014285714285714,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 1
-    },
-    "林岱樺": {
-        "engagementRate": 0.5685714285714285,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "邱志偉": {
-        "engagementRate": 0.8428571428571429,
-        "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
-    },
-    "邱議瑩": {
-        "engagementRate": 0.7171428571428572,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "陳明文": {
-        "engagementRate": 0.8428571428571429,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "黃偉哲": {
-        "engagementRate": 0.8283333333333334,
-        "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
-    },
-    "蘇治芬": {
-        "engagementRate": 0.7257142857142858,
-        "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
-    },
-    "蘇震清": {
-        "engagementRate": 0.7642857142857142,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "高志鵬": {
-        "engagementRate": 0.6733333333333333,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "管碧玲": {
-        "engagementRate": 0.9,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "蔡培慧": {
-        "engagementRate": 0.8214285714285714,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "徐永明": {
-        "engagementRate": 0.8985714285714286,
-        "excellentLegislatorNum": 2,
-        "observedLegislatorNum": 0
-    },
-    "曾銘宗": {
-        "engagementRate": 0.9828571428571429,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "費鴻泰": {
-        "engagementRate": 0.9742857142857143,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "盧秀燕": {
-        "engagementRate": 0.8533333333333334,
-        "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
-    },
-    "賴士葆": {
-        "engagementRate": 0.96,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "羅明才": {
-        "engagementRate": 0.9214285714285714,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "王榮璋": {
-        "engagementRate": 0.9728571428571429,
-        "excellentLegislatorNum": 0,
+    "尤美女": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 99.42857142857143,
+        "excellentLegislatorNum": 5,
         "observedLegislatorNum": 0
     },
     "江永昌": {
-        "engagementRate": 1.0,
-        "excellentLegislatorNum": 2,
-        "observedLegislatorNum": 0
-    },
-    "余宛如": {
-        "engagementRate": 0.92,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "吳秉叡": {
-        "engagementRate": 0.8885714285714286,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "李應元": {
-        "engagementRate": 0.5,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "徐國勇": {
-        "engagementRate": 1.0,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "陳賴素美": {
-        "engagementRate": 0.8942857142857142,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "施義芳": {
-        "engagementRate": 0.9814285714285714,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "黃國昌": {
-        "engagementRate": 0.9685714285714285,
-        "excellentLegislatorNum": 2,
-        "observedLegislatorNum": 0
-    },
-    "陳雪生": {
-        "engagementRate": 0.6242857142857143,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 2
-    },
-    "鄭天財": {
-        "engagementRate": 0.9214285714285714,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "簡東明": {
-        "engagementRate": 0.634,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "顏寬恒": {
-        "engagementRate": 0.68,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "李昆澤": {
-        "engagementRate": 1.0,
-        "excellentLegislatorNum": 2,
-        "observedLegislatorNum": 0
-    },
-    "林俊憲": {
-        "engagementRate": 0.9742857142857143,
-        "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
-    },
-    "陳素月": {
-        "engagementRate": 0.9357142857142857,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "陳歐珀": {
-        "engagementRate": 0.8442857142857143,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "葉宜津": {
-        "engagementRate": 0.8685714285714285,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "趙正宇": {
-        "engagementRate": 0.9085714285714286,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "劉櫂豪": {
-        "engagementRate": 0.7714285714285715,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "鄭運鵬": {
-        "engagementRate": 0.8928571428571429,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "鄭寶清": {
-        "engagementRate": 0.9728571428571429,
-        "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
-    },
-    "蕭美琴": {
-        "engagementRate": 0.9114285714285715,
-        "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
-    },
-    "李鴻鈞": {
-        "engagementRate": 0.5157142857142857,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "林為洲": {
-        "engagementRate": 0.9014285714285715,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "林德福": {
-        "engagementRate": 0.8614285714285714,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "許淑華": {
-        "engagementRate": 0.7371428571428572,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "許毓仁": {
-        "engagementRate": 0.8371428571428571,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 1
-    },
-    "尤美女": {
-        "engagementRate": 0.9942857142857143,
-        "excellentLegislatorNum": 2,
-        "observedLegislatorNum": 0
-    },
-    "周春米": {
-        "engagementRate": 0.9885714285714285,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "柯建銘": {
-        "engagementRate": 0.3757142857142857,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "段宜康": {
-        "engagementRate": 0.9657142857142857,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "張宏陸": {
-        "engagementRate": 0.9671428571428571,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "蔡其昌": {
-        "engagementRate": 0.0,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "蔡易餘": {
-        "engagementRate": 0.9385714285714286,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "顧立雄": {
-        "engagementRate": 1.0,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "周陳秀霞": {
-        "engagementRate": 0.7657142857142857,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "吳志揚": {
-        "engagementRate": 0.8928571428571429,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "柯志恩": {
-        "engagementRate": 1.0,
-        "excellentLegislatorNum": 2,
-        "observedLegislatorNum": 0
-    },
-    "陳學聖": {
-        "engagementRate": 0.8871428571428571,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "蔣乃辛": {
-        "engagementRate": 0.9671428571428572,
-        "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
-    },
-    "何欣純": {
-        "engagementRate": 0.9328571428571428,
-        "excellentLegislatorNum": 0,
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 100,
+        "excellentLegislatorNum": 6,
         "observedLegislatorNum": 0
     },
     "吳思瑤": {
-        "engagementRate": 0.9928571428571429,
-        "excellentLegislatorNum": 2,
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 99.28571428571429,
+        "excellentLegislatorNum": 6,
         "observedLegislatorNum": 0
     },
-    "張廖萬堅": {
-        "engagementRate": 0.96,
-        "excellentLegislatorNum": 1,
+    "李昆澤": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 100,
+        "excellentLegislatorNum": 7,
         "observedLegislatorNum": 0
     },
-    "許智傑": {
-        "engagementRate": 0.9085714285714286,
-        "excellentLegislatorNum": 0,
+    "李俊俋": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 97.14285714285714,
+        "excellentLegislatorNum": 7,
+        "observedLegislatorNum": 0
+    },
+    "李彥秀": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 91.85714285714286,
+        "excellentLegislatorNum": 4,
+        "observedLegislatorNum": 0
+    },
+    "周春米": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 98.85714285714286,
+        "excellentLegislatorNum": 4,
+        "observedLegislatorNum": 0
+    },
+    "邱志偉": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 84.28571428571429,
+        "excellentLegislatorNum": 3,
+        "observedLegislatorNum": 0
+    },
+    "莊瑞雄": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 84,
+        "excellentLegislatorNum": 3,
+        "observedLegislatorNum": 0
+    },
+    "陳其邁": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 68.66666666666667,
+        "excellentLegislatorNum": 3,
+        "observedLegislatorNum": 0
+    },
+    "曾銘宗": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 98.28571428571429,
+        "excellentLegislatorNum": 4,
+        "observedLegislatorNum": 0
+    },
+    "黃秀芳": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 79.14285714285714,
+        "excellentLegislatorNum": 3,
+        "observedLegislatorNum": 0
+    },
+    "黃偉哲": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 88,
+        "excellentLegislatorNum": 3,
         "observedLegislatorNum": 0
     },
     "黃國書": {
-        "engagementRate": 0.9928571428571429,
-        "excellentLegislatorNum": 1,
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 99.28571428571429,
+        "excellentLegislatorNum": 4,
         "observedLegislatorNum": 0
     },
-    "鄭麗君": {
-        "engagementRate": 0.89,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "鍾佳濱": {
-        "engagementRate": 0.9342857142857143,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "蘇巧慧": {
-        "engagementRate": 0.9785714285714285,
+    "趙正宇": {
+        "所屬黨籍": "無黨籍",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 90.85714285714286,
         "excellentLegislatorNum": 2,
         "observedLegislatorNum": 0
     },
-    "李麗芬": {
-        "engagementRate": 0.9742857142857143,
-        "excellentLegislatorNum": 0,
+    "劉建國": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 87.42857142857143,
+        "excellentLegislatorNum": 4,
         "observedLegislatorNum": 0
     },
-    "高金素梅": {
-        "engagementRate": 0.3542857142857143,
-        "excellentLegislatorNum": 0,
+    "蔡易餘": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 93.85714285714286,
+        "excellentLegislatorNum": 1,
         "observedLegislatorNum": 0
     },
-    "高潞．以用．巴魕剌": {
-        "engagementRate": 0.7585714285714286,
+    "蔡適應": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 97.85714285714286,
+        "excellentLegislatorNum": 7,
+        "observedLegislatorNum": 0
+    },
+    "蔣萬安": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 90.28571428571429,
+        "excellentLegislatorNum": 7,
+        "observedLegislatorNum": 0
+    },
+    "鄭寶清": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 97.28571428571429,
+        "excellentLegislatorNum": 6,
+        "observedLegislatorNum": 0
+    },
+    "盧秀燕": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 85.33333333333333,
+        "excellentLegislatorNum": 3,
+        "observedLegislatorNum": 0
+    },
+    "蕭美琴": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 91.14285714285714,
+        "excellentLegislatorNum": 4,
+        "observedLegislatorNum": 0
+    },
+    "賴瑞隆": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 96.71428571428571,
+        "excellentLegislatorNum": 7,
+        "observedLegislatorNum": 0
+    },
+    "蘇巧慧": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 97.85714285714286,
+        "excellentLegislatorNum": 3,
+        "observedLegislatorNum": 0
+    },
+    "蘇治芬": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 72.71428571428571,
+        "excellentLegislatorNum": 3,
+        "observedLegislatorNum": 0
+    },
+    "林靜儀": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 82.14285714285714,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 1
+    },
+    "許毓仁": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 83.71428571428571,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 1
+    },
+    "陳雪生": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 62.42857142857143,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 4
+    },
+    "楊鎮浯": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 63.666666666666664,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 2
+    },
+    "王金平": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 3.25,
         "excellentLegislatorNum": 0,
         "observedLegislatorNum": 0
     },
     "王育敏": {
-        "engagementRate": 0.9142857142857143,
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 91.42857142857143,
         "excellentLegislatorNum": 0,
         "observedLegislatorNum": 0
     },
-    "李彥秀": {
-        "engagementRate": 0.9185714285714286,
+    "王惠美": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 65.83333333333333,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "王榮璋": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 97.28571428571429,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "孔文吉": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 78.85714285714286,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "江啟臣": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 99.28571428571429,
         "excellentLegislatorNum": 1,
         "observedLegislatorNum": 0
     },
-    "陳宜民": {
-        "engagementRate": 0.79,
-        "excellentLegislatorNum": 0,
+    "何欣純": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 93.28571428571429,
+        "excellentLegislatorNum": 1,
         "observedLegislatorNum": 0
     },
-    "蔣萬安": {
-        "engagementRate": 0.9028571428571428,
-        "excellentLegislatorNum": 2,
+    "余宛如": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 92,
+        "excellentLegislatorNum": 1,
         "observedLegislatorNum": 0
     },
     "吳玉琴": {
-        "engagementRate": 0.9771428571428571,
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 97.71428571428571,
+        "excellentLegislatorNum": 3,
+        "observedLegislatorNum": 0
+    },
+    "吳志揚": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 89.28571428571429,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "吳秉叡": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 88.85714285714286,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 1
+    },
+    "吳焜裕": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 88.57142857142857,
         "excellentLegislatorNum": 1,
         "observedLegislatorNum": 0
     },
-    "吳焜裕": {
-        "engagementRate": 0.8857142857142857,
+    "吳琪銘": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 96.71428571428571,
+        "excellentLegislatorNum": 3,
+        "observedLegislatorNum": 0
+    },
+    "呂玉玲": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 98.57142857142857,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "呂孫綾": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 92,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "李應元": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 50,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "李鴻鈞": {
+        "所屬黨籍": "親民黨",
+        "所屬黨團": "親民黨",
+        "engagementRate": 51.57142857142857,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "谷辣斯．尤達卡 Kolas Yotaka": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 89,
+        "excellentLegislatorNum": 1,
+        "observedLegislatorNum": 0
+    },
+    "周陳秀霞": {
+        "所屬黨籍": "親民黨",
+        "所屬黨團": "親民黨",
+        "engagementRate": 73.71428571428571,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "林岱樺": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 57,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 2
+    },
+    "林俊憲": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 97.42857142857143,
+        "excellentLegislatorNum": 5,
+        "observedLegislatorNum": 0
+    },
+    "林昶佐": {
+        "所屬黨籍": "無黨籍",
+        "所屬黨團": "無黨籍",
+        "engagementRate": 91,
+        "excellentLegislatorNum": 4,
+        "observedLegislatorNum": 0
+    },
+    "林為洲": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 90.14285714285714,
         "excellentLegislatorNum": 0,
         "observedLegislatorNum": 0
     },
     "林淑芬": {
-        "engagementRate": 0.8671428571428571,
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 86.71428571428571,
         "excellentLegislatorNum": 0,
         "observedLegislatorNum": 0
     },
-    "林靜儀": {
-        "engagementRate": 0.8214285714285714,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 1
-    },
-    "陳曼麗": {
-        "engagementRate": 0.96,
-        "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
-    },
-    "陳瑩": {
-        "engagementRate": 0.8142857142857143,
+    "林德福": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 86.14285714285714,
         "excellentLegislatorNum": 0,
         "observedLegislatorNum": 0
     },
-    "黃秀芳": {
-        "engagementRate": 0.7914285714285715,
+    "林麗蟬": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 84.28571428571429,
         "excellentLegislatorNum": 0,
         "observedLegislatorNum": 0
     },
-    "楊曜": {
-        "engagementRate": 0.7928571428571429,
+    "邱議瑩": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 71.71428571428571,
         "excellentLegislatorNum": 0,
         "observedLegislatorNum": 0
     },
-    "劉建國": {
-        "engagementRate": 0.8742857142857143,
-        "excellentLegislatorNum": 1,
+    "姚文智": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 74,
+        "excellentLegislatorNum": 0,
         "observedLegislatorNum": 0
     },
-    "鍾孔炤": {
-        "engagementRate": 0.9628571428571429,
+    "柯志恩": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 100,
+        "excellentLegislatorNum": 5,
+        "observedLegislatorNum": 0
+    },
+    "柯建銘": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 37.57142857142857,
         "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "段宜康": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 96.57142857142857,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "洪宗熠": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 96.71428571428571,
+        "excellentLegislatorNum": 3,
         "observedLegislatorNum": 0
     },
     "洪慈庸": {
-        "engagementRate": 0.9171428571428571,
+        "所屬黨籍": "無黨籍",
+        "所屬黨團": "無黨籍",
+        "engagementRate": 91.71428571428571,
+        "excellentLegislatorNum": 4,
+        "observedLegislatorNum": 0
+    },
+    "徐永明": {
+        "所屬黨籍": "時代力量",
+        "所屬黨團": "時代力量",
+        "engagementRate": 89.85714285714286,
+        "excellentLegislatorNum": 5,
+        "observedLegislatorNum": 0
+    },
+    "徐志榮": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 71.85714285714286,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "徐國勇": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 50,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "徐榛蔚": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 62,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "馬文君": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 95.14285714285714,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "高志鵬": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 67.33333333333333,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "高金素梅": {
+        "所屬黨籍": "無黨團結聯盟",
+        "所屬黨團": "親民黨",
+        "engagementRate": 35.42857142857143,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "高潞．以用．巴魕剌Kawlo．Iyun．Pacidal": {
+        "所屬黨籍": "時代力量",
+        "所屬黨團": "時代力量",
+        "engagementRate": 75.85714285714286,
         "excellentLegislatorNum": 1,
         "observedLegislatorNum": 0
     },
-    "邱泰源": {
-        "engagementRate": 0.9116666666666666,
+    "張宏陸": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 96.71428571428571,
+        "excellentLegislatorNum": 3,
+        "observedLegislatorNum": 0
+    },
+    "張廖萬堅": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 96,
+        "excellentLegislatorNum": 4,
+        "observedLegislatorNum": 0
+    },
+    "張麗善": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 67.16666666666667,
+        "excellentLegislatorNum": 2,
+        "observedLegislatorNum": 0
+    },
+    "許淑華": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 73.71428571428571,
+        "excellentLegislatorNum": 1,
+        "observedLegislatorNum": 0
+    },
+    "許智傑": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 90.85714285714286,
         "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "陳宜民": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 79,
+        "excellentLegislatorNum": 1,
+        "observedLegislatorNum": 0
+    },
+    "陳怡潔": {
+        "所屬黨籍": "親民黨",
+        "所屬黨團": "親民黨",
+        "engagementRate": 90.57142857142857,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "陳明文": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 84.28571428571429,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "陳亭妃": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 87.85714285714286,
+        "excellentLegislatorNum": 1,
+        "observedLegislatorNum": 0
+    },
+    "陳素月": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 93.57142857142857,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "陳曼麗": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 96,
+        "excellentLegislatorNum": 4,
+        "observedLegislatorNum": 0
+    },
+    "陳超明": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 83.57142857142857,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "陳歐珀": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 84.42857142857143,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "陳瑩": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 81.42857142857143,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "陳學聖": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 88.71428571428571,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "陳賴素美": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 89.42857142857143,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "費鴻泰": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 97.42857142857143,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "黃昭順": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 88.85714285714286,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "黃國昌": {
+        "所屬黨籍": "時代力量",
+        "所屬黨團": "時代力量",
+        "engagementRate": 96.85714285714286,
+        "excellentLegislatorNum": 6,
+        "observedLegislatorNum": 0
+    },
+    "楊曜": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 79.28571428571429,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "葉宜津": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 86.85714285714286,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "廖國棟Sufin．Siluko": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 70.14285714285714,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 1
+    },
+    "管碧玲": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 90,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "趙天麟": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 79.71428571428571,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "劉世芳": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 96.71428571428571,
+        "excellentLegislatorNum": 4,
+        "observedLegislatorNum": 0
+    },
+    "劉櫂豪": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 77.14285714285714,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "蔡其昌": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 0,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "蔡培慧": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 82.14285714285714,
+        "excellentLegislatorNum": 1,
+        "observedLegislatorNum": 0
+    },
+    "蔣乃辛": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 96.71428571428571,
+        "excellentLegislatorNum": 2,
+        "observedLegislatorNum": 0
+    },
+    "鄭天財Sra．Kacaw": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 92.14285714285714,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "鄭運鵬": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 89.28571428571429,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "鄭麗君": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 89,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "賴士葆": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 96,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "鍾孔炤": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 96.28571428571429,
+        "excellentLegislatorNum": 1,
+        "observedLegislatorNum": 0
+    },
+    "鍾佳濱": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 92.28571428571429,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "簡東明Uliw．Qaljupayare": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 63.4,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "顏寬恒": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 68,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "羅明才": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 92.14285714285714,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "羅致政": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 94.57142857142857,
+        "excellentLegislatorNum": 5,
+        "observedLegislatorNum": 0
+    },
+    "蘇嘉全": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 0,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "蘇震清": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 76.42857142857143,
+        "excellentLegislatorNum": 1,
+        "observedLegislatorNum": 0
+    },
+    "顧立雄": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 100,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "施義芳": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 98.14285714285714,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "李麗芬": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 97.42857142857143,
+        "excellentLegislatorNum": 2,
         "observedLegislatorNum": 0
     },
     "郭正亮": {
-        "engagementRate": 0.92,
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 92,
         "excellentLegislatorNum": 0,
         "observedLegislatorNum": 0
     },
-    "谷辣斯．尤達卡": {
-        "engagementRate": 0.89,
-        "excellentLegislatorNum": 1,
+    "邱泰源": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 87.83333333333333,
+        "excellentLegislatorNum": 2,
         "observedLegislatorNum": 0
     },
     "蔣絜安": {
-        "engagementRate": 1.0,
-        "excellentLegislatorNum": 0,
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 100,
+        "excellentLegislatorNum": 1,
         "observedLegislatorNum": 0
     },
     "林奕華": {
-        "engagementRate": 0.89,
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 89,
         "excellentLegislatorNum": 0,
         "observedLegislatorNum": 0
     },
     "陳靜敏": {
-        "engagementRate": 0.69,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "余天": {
-        "engagementRate": 0.88,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "郭國文": {
-        "engagementRate": 0.79,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "柯呈枋": {
-        "engagementRate": 0.5,
-        "excellentLegislatorNum": 0,
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 69,
+        "excellentLegislatorNum": 1,
         "observedLegislatorNum": 0
     },
     "童惠珍": {
-        "engagementRate": 0.47,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "何志偉": {
-        "engagementRate": 0.72,
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 47,
         "excellentLegislatorNum": 0,
         "observedLegislatorNum": 0
     },
     "沈智慧": {
-        "engagementRate": 0.56,
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 56,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "何志偉": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 72,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "余天": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 88,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "郭國文": {
+        "所屬黨籍": "民主進步黨",
+        "所屬黨團": "民主進步黨",
+        "engagementRate": 79,
+        "excellentLegislatorNum": 0,
+        "observedLegislatorNum": 0
+    },
+    "柯呈枋": {
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 50,
         "excellentLegislatorNum": 0,
         "observedLegislatorNum": 0
     },
     "陳玉珍": {
-        "engagementRate": 0.21,
-        "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
-    },
-    "null": {
-        "engagementRate": 0.0,
+        "所屬黨籍": "中國國民黨",
+        "所屬黨團": "中國國民黨",
+        "engagementRate": 21,
         "excellentLegislatorNum": 0,
         "observedLegislatorNum": 0
     }
