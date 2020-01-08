@@ -149,21 +149,30 @@ const CandidateList: FunctionComponent<{
     party: string;
     candidates: Candidate[];
     candidates2016: Candidate[];
-}> = ({ party, candidates, electedPersonNum, candidates2016 }) => {
+}> = ({ party, candidates, electedPersonNum, candidates2016 = [] }) => {
     const [open, setOpen] = useState(false);
     const [tab, setTab] = React.useState(0);
     return (
         <Box>
             <ListAlert name={party} />
-            <Box mb={2} mr={2} display="flex" flexDirection="row-reverse">
-                <Button
-                    onClick={() => setOpen(true)}
-                    variant="outlined"
-                    color="primary"
-                >
-                    上屆名單
-                </Button>
-            </Box>
+            {candidates2016.length > 0 && (
+                <>
+                    <Box
+                        mb={2}
+                        mr={2}
+                        display="flex"
+                        flexDirection="row-reverse"
+                    >
+                        <Button
+                            onClick={() => setOpen(true)}
+                            variant="outlined"
+                            color="primary"
+                        >
+                            上屆名單
+                        </Button>
+                    </Box>
+                </>
+            )}
             <Box p={2} bgcolor="white">
                 <List disablePadding>
                     {candidates.map((c, i) => {
