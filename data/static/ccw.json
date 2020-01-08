@@ -9,9 +9,12 @@
             "6": "21/22",
             "7": "17/19"
         },
-        "engagementRate": 0.8428571428571429,
+        "engagementCan": 152,
+        "engagementDid": 132,
+        "engagementRate": 0.868421052631579,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "徐榛蔚": {
         "engagementList": {
@@ -22,9 +25,12 @@
             "5": "11/17",
             "6": "2/20"
         },
-        "engagementRate": 0.62,
+        "engagementCan": 126,
+        "engagementDid": 80,
+        "engagementRate": 0.6349206349206349,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 6
     },
     "陳超明": {
         "engagementList": {
@@ -36,9 +42,12 @@
             "6": "21/23",
             "7": "12/17"
         },
-        "engagementRate": 0.8357142857142857,
+        "engagementCan": 154,
+        "engagementDid": 129,
+        "engagementRate": 0.8376623376623377,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "黃昭順": {
         "engagementList": {
@@ -50,9 +59,12 @@
             "6": "13/16",
             "7": "17/19"
         },
-        "engagementRate": 0.8885714285714286,
+        "engagementCan": 155,
+        "engagementDid": 140,
+        "engagementRate": 0.9032258064516129,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "楊鎮浯": {
         "engagementList": {
@@ -63,9 +75,12 @@
             "5": "13/19",
             "6": "3/15"
         },
-        "engagementRate": 0.6366666666666667,
+        "engagementCan": 141,
+        "engagementDid": 94,
+        "engagementRate": 0.6666666666666666,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 1
+        "observedLegislatorNum": 1,
+        "evaluationCount": 6
     },
     "吳琪銘": {
         "engagementList": {
@@ -77,9 +92,12 @@
             "6": "16/16",
             "7": "19/19"
         },
-        "engagementRate": 0.9671428571428572,
+        "engagementCan": 155,
+        "engagementDid": 149,
+        "engagementRate": 0.9612903225806452,
         "excellentLegislatorNum": 2,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "李俊俋": {
         "engagementList": {
@@ -91,9 +109,12 @@
             "6": "28/29",
             "7": "19/19"
         },
-        "engagementRate": 0.9714285714285714,
+        "engagementCan": 180,
+        "engagementDid": 175,
+        "engagementRate": 0.9722222222222222,
         "excellentLegislatorNum": 2,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "姚文智": {
         "engagementList": {
@@ -104,9 +125,12 @@
             "5": "13/19",
             "6": "0/6"
         },
-        "engagementRate": 0.74,
+        "engagementCan": 126,
+        "engagementDid": 107,
+        "engagementRate": 0.8492063492063492,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 6
     },
     "洪宗熠": {
         "engagementList": {
@@ -118,9 +142,12 @@
             "6": "16/16",
             "7": "18/19"
         },
-        "engagementRate": 0.9671428571428571,
+        "engagementCan": 155,
+        "engagementDid": 150,
+        "engagementRate": 0.967741935483871,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "莊瑞雄": {
         "engagementList": {
@@ -132,9 +159,12 @@
             "6": "17/23",
             "7": "11/17"
         },
-        "engagementRate": 0.84,
+        "engagementCan": 142,
+        "engagementDid": 118,
+        "engagementRate": 0.8309859154929577,
         "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "陳其邁": {
         "engagementList": {
@@ -145,9 +175,12 @@
             "5": "5/20",
             "6": "0/4"
         },
-        "engagementRate": 0.6866666666666666,
+        "engagementCan": 125,
+        "engagementDid": 102,
+        "engagementRate": 0.816,
         "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 6
     },
     "趙天麟": {
         "engagementList": {
@@ -159,9 +192,12 @@
             "6": "11/20",
             "7": "18/21"
         },
-        "engagementRate": 0.7971428571428572,
+        "engagementCan": 162,
+        "engagementDid": 132,
+        "engagementRate": 0.8148148148148148,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "賴瑞隆": {
         "engagementList": {
@@ -173,9 +209,12 @@
             "6": "21/23",
             "7": "16/17"
         },
-        "engagementRate": 0.9671428571428571,
+        "engagementCan": 166,
+        "engagementDid": 161,
+        "engagementRate": 0.9698795180722891,
         "excellentLegislatorNum": 2,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "陳怡潔": {
         "engagementList": {
@@ -187,18 +226,24 @@
             "6": "13/16",
             "7": "18/19"
         },
-        "engagementRate": 0.9057142857142857,
+        "engagementCan": 151,
+        "engagementDid": 138,
+        "engagementRate": 0.9139072847682119,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "王金平": {
         "engagementList": {
             "1": "1/8",
             "7": "0/32"
         },
-        "engagementRate": 0.06,
+        "engagementCan": 40,
+        "engagementDid": 1,
+        "engagementRate": 0.025,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 6
     },
     "江啟臣": {
         "engagementList": {
@@ -210,9 +255,12 @@
             "6": "21/21",
             "7": "21/21"
         },
-        "engagementRate": 0.9928571428571429,
+        "engagementCan": 106,
+        "engagementDid": 105,
+        "engagementRate": 0.9905660377358491,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "呂玉玲": {
         "engagementList": {
@@ -224,9 +272,12 @@
             "6": "22/22",
             "7": "19/21"
         },
-        "engagementRate": 0.9857142857142858,
+        "engagementCan": 105,
+        "engagementDid": 103,
+        "engagementRate": 0.9809523809523809,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "徐志榮": {
         "engagementList": {
@@ -238,9 +289,12 @@
             "6": "11/20",
             "7": "13/14"
         },
-        "engagementRate": 0.7185714285714286,
+        "engagementCan": 115,
+        "engagementDid": 80,
+        "engagementRate": 0.6956521739130435,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "馬文君": {
         "engagementList": {
@@ -252,9 +306,12 @@
             "6": "21/22",
             "7": "20/21"
         },
-        "engagementRate": 0.9514285714285714,
+        "engagementCan": 107,
+        "engagementDid": 101,
+        "engagementRate": 0.9439252336448598,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "王定宇": {
         "engagementList": {
@@ -266,9 +323,12 @@
             "6": "21/22",
             "7": "21/21"
         },
-        "engagementRate": 0.9771428571428571,
+        "engagementCan": 107,
+        "engagementDid": 104,
+        "engagementRate": 0.9719626168224299,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "呂孫綾": {
         "engagementList": {
@@ -280,9 +340,12 @@
             "6": "21/22",
             "7": "18/19"
         },
-        "engagementRate": 0.92,
+        "engagementCan": 105,
+        "engagementDid": 97,
+        "engagementRate": 0.9238095238095239,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "陳亭妃": {
         "engagementList": {
@@ -294,9 +357,12 @@
             "6": "18/22",
             "7": "15/17"
         },
-        "engagementRate": 0.8785714285714286,
+        "engagementCan": 128,
+        "engagementDid": 111,
+        "engagementRate": 0.8671875,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "劉世芳": {
         "engagementList": {
@@ -308,9 +374,12 @@
             "6": "15/15",
             "7": "19/19"
         },
-        "engagementRate": 0.9671428571428571,
+        "engagementCan": 104,
+        "engagementDid": 100,
+        "engagementRate": 0.9615384615384616,
         "excellentLegislatorNum": 2,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "蔡適應": {
         "engagementList": {
@@ -322,9 +391,12 @@
             "6": "22/22",
             "7": "21/21"
         },
-        "engagementRate": 0.9785714285714285,
+        "engagementCan": 107,
+        "engagementDid": 105,
+        "engagementRate": 0.9813084112149533,
         "excellentLegislatorNum": 2,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "羅致政": {
         "engagementList": {
@@ -336,18 +408,24 @@
             "6": "18/22",
             "7": "20/20"
         },
-        "engagementRate": 0.9457142857142857,
+        "engagementCan": 106,
+        "engagementDid": 100,
+        "engagementRate": 0.9433962264150944,
         "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "蘇嘉全": {
         "engagementList": {
             "1": "0/8",
             "7": "0/21"
         },
+        "engagementCan": 29,
+        "engagementDid": 0,
         "engagementRate": 0.0,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 6
     },
     "林昶佐": {
         "engagementList": {
@@ -359,9 +437,12 @@
             "6": "20/22",
             "7": "20/21"
         },
-        "engagementRate": 0.91,
+        "engagementCan": 107,
+        "engagementDid": 98,
+        "engagementRate": 0.9158878504672897,
         "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "王惠美": {
         "engagementList": {
@@ -372,9 +453,12 @@
             "5": "12/25",
             "6": "2/21"
         },
-        "engagementRate": 0.6583333333333333,
+        "engagementCan": 121,
+        "engagementDid": 76,
+        "engagementRate": 0.628099173553719,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 6
     },
     "孔文吉": {
         "engagementList": {
@@ -386,9 +470,12 @@
             "6": "16/23",
             "7": "13/17"
         },
-        "engagementRate": 0.7885714285714286,
+        "engagementCan": 140,
+        "engagementDid": 110,
+        "engagementRate": 0.7857142857142857,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "張麗善": {
         "engagementList": {
@@ -399,9 +486,12 @@
             "5": "7/19",
             "6": "0/3"
         },
-        "engagementRate": 0.6716666666666666,
+        "engagementCan": 97,
+        "engagementDid": 76,
+        "engagementRate": 0.7835051546391752,
         "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 6
     },
     "廖國棟": {
         "engagementList": {
@@ -413,9 +503,12 @@
             "6": "16/23",
             "7": "11/17"
         },
-        "engagementRate": 0.7014285714285714,
+        "engagementCan": 159,
+        "engagementDid": 109,
+        "engagementRate": 0.6855345911949685,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 1
+        "observedLegislatorNum": 1,
+        "evaluationCount": 7
     },
     "林岱樺": {
         "engagementList": {
@@ -427,9 +520,12 @@
             "6": "14/23",
             "7": "11/17"
         },
-        "engagementRate": 0.5685714285714285,
+        "engagementCan": 140,
+        "engagementDid": 77,
+        "engagementRate": 0.55,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "邱志偉": {
         "engagementList": {
@@ -441,9 +537,12 @@
             "6": "21/22",
             "7": "12/17"
         },
-        "engagementRate": 0.8428571428571429,
+        "engagementCan": 123,
+        "engagementDid": 103,
+        "engagementRate": 0.8373983739837398,
         "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "邱議瑩": {
         "engagementList": {
@@ -455,9 +554,12 @@
             "6": "15/23",
             "7": "13/17"
         },
-        "engagementRate": 0.7171428571428572,
+        "engagementCan": 140,
+        "engagementDid": 99,
+        "engagementRate": 0.7071428571428572,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "陳明文": {
         "engagementList": {
@@ -469,9 +571,12 @@
             "6": "19/20",
             "7": "13/16"
         },
-        "engagementRate": 0.8428571428571429,
+        "engagementCan": 128,
+        "engagementDid": 109,
+        "engagementRate": 0.8515625,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "黃偉哲": {
         "engagementList": {
@@ -482,9 +587,12 @@
             "5": "9/10",
             "6": "12/21"
         },
-        "engagementRate": 0.8283333333333334,
+        "engagementCan": 106,
+        "engagementDid": 86,
+        "engagementRate": 0.8113207547169812,
         "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 6
     },
     "蘇治芬": {
         "engagementList": {
@@ -496,9 +604,12 @@
             "6": "14/23",
             "7": "13/17"
         },
-        "engagementRate": 0.7257142857142858,
+        "engagementCan": 140,
+        "engagementDid": 101,
+        "engagementRate": 0.7214285714285714,
         "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "蘇震清": {
         "engagementList": {
@@ -510,9 +621,12 @@
             "6": "23/23",
             "7": "8/17"
         },
+        "engagementCan": 140,
+        "engagementDid": 107,
         "engagementRate": 0.7642857142857142,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "高志鵬": {
         "engagementList": {
@@ -523,9 +637,12 @@
             "5": "22/25",
             "6": "12/21"
         },
-        "engagementRate": 0.6733333333333333,
+        "engagementCan": 121,
+        "engagementDid": 81,
+        "engagementRate": 0.6694214876033058,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 6
     },
     "管碧玲": {
         "engagementList": {
@@ -537,9 +654,12 @@
             "6": "16/16",
             "7": "28/32"
         },
-        "engagementRate": 0.9,
+        "engagementCan": 142,
+        "engagementDid": 127,
+        "engagementRate": 0.8943661971830986,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "蔡培慧": {
         "engagementList": {
@@ -551,9 +671,12 @@
             "6": "19/22",
             "7": "15/15"
         },
-        "engagementRate": 0.8214285714285714,
+        "engagementCan": 135,
+        "engagementDid": 111,
+        "engagementRate": 0.8222222222222222,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "徐永明": {
         "engagementList": {
@@ -565,9 +688,12 @@
             "6": "24/25",
             "7": "13/17"
         },
-        "engagementRate": 0.8985714285714286,
+        "engagementCan": 129,
+        "engagementDid": 117,
+        "engagementRate": 0.9069767441860465,
         "excellentLegislatorNum": 2,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "曾銘宗": {
         "engagementList": {
@@ -579,9 +705,12 @@
             "6": "24/25",
             "7": "20/21"
         },
-        "engagementRate": 0.9828571428571429,
+        "engagementCan": 137,
+        "engagementDid": 134,
+        "engagementRate": 0.9781021897810219,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "費鴻泰": {
         "engagementList": {
@@ -593,9 +722,12 @@
             "6": "24/25",
             "7": "18/21"
         },
-        "engagementRate": 0.9742857142857143,
+        "engagementCan": 134,
+        "engagementDid": 130,
+        "engagementRate": 0.9701492537313433,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "盧秀燕": {
         "engagementList": {
@@ -606,9 +738,12 @@
             "5": "12/12",
             "6": "12/22"
         },
-        "engagementRate": 0.8533333333333334,
+        "engagementCan": 110,
+        "engagementDid": 90,
+        "engagementRate": 0.8181818181818182,
         "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 6
     },
     "賴士葆": {
         "engagementList": {
@@ -620,9 +755,12 @@
             "6": "23/25",
             "7": "19/21"
         },
-        "engagementRate": 0.96,
+        "engagementCan": 134,
+        "engagementDid": 128,
+        "engagementRate": 0.9552238805970149,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "羅明才": {
         "engagementList": {
@@ -634,9 +772,12 @@
             "6": "25/25",
             "7": "21/21"
         },
-        "engagementRate": 0.9214285714285714,
+        "engagementCan": 134,
+        "engagementDid": 122,
+        "engagementRate": 0.9104477611940298,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "王榮璋": {
         "engagementList": {
@@ -648,9 +789,12 @@
             "6": "25/25",
             "7": "20/21"
         },
-        "engagementRate": 0.9728571428571429,
+        "engagementCan": 134,
+        "engagementDid": 130,
+        "engagementRate": 0.9701492537313433,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "江永昌": {
         "engagementList": {
@@ -662,9 +806,12 @@
             "6": "25/25",
             "7": "21/21"
         },
+        "engagementCan": 134,
+        "engagementDid": 134,
         "engagementRate": 1.0,
         "excellentLegislatorNum": 2,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "余宛如": {
         "engagementList": {
@@ -676,9 +823,12 @@
             "6": "23/25",
             "7": "19/21"
         },
-        "engagementRate": 0.92,
+        "engagementCan": 134,
+        "engagementDid": 122,
+        "engagementRate": 0.9104477611940298,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "吳秉叡": {
         "engagementList": {
@@ -690,25 +840,34 @@
             "6": "20/25",
             "7": "17/21"
         },
-        "engagementRate": 0.8885714285714286,
+        "engagementCan": 134,
+        "engagementDid": 116,
+        "engagementRate": 0.8656716417910447,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "李應元": {
         "engagementList": {
             "1": "1/2"
         },
+        "engagementCan": 2,
+        "engagementDid": 1,
         "engagementRate": 0.5,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 1
     },
     "徐國勇": {
         "engagementList": {
             "1": "7/7"
         },
+        "engagementCan": 7,
+        "engagementDid": 7,
         "engagementRate": 1.0,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 2
     },
     "陳賴素美": {
         "engagementList": {
@@ -720,9 +879,12 @@
             "6": "21/25",
             "7": "18/21"
         },
-        "engagementRate": 0.8942857142857142,
+        "engagementCan": 134,
+        "engagementDid": 119,
+        "engagementRate": 0.8880597014925373,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "施義芳": {
         "engagementList": {
@@ -734,9 +896,12 @@
             "6": "24/25",
             "7": "21/21"
         },
-        "engagementRate": 0.9814285714285714,
+        "engagementCan": 131,
+        "engagementDid": 128,
+        "engagementRate": 0.9770992366412213,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "黃國昌": {
         "engagementList": {
@@ -748,9 +913,12 @@
             "6": "29/29",
             "7": "18/21"
         },
-        "engagementRate": 0.9685714285714285,
+        "engagementCan": 149,
+        "engagementDid": 144,
+        "engagementRate": 0.9664429530201343,
         "excellentLegislatorNum": 2,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "陳雪生": {
         "engagementList": {
@@ -762,9 +930,12 @@
             "6": "12/20",
             "7": "7/16"
         },
-        "engagementRate": 0.6242857142857143,
+        "engagementCan": 119,
+        "engagementDid": 74,
+        "engagementRate": 0.6218487394957983,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 2
+        "observedLegislatorNum": 2,
+        "evaluationCount": 7
     },
     "鄭天財": {
         "engagementList": {
@@ -776,9 +947,12 @@
             "6": "15/16",
             "7": "14/17"
         },
-        "engagementRate": 0.9214285714285714,
+        "engagementCan": 130,
+        "engagementDid": 120,
+        "engagementRate": 0.9230769230769231,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "簡東明": {
         "engagementList": {
@@ -788,9 +962,12 @@
             "4": "0/24",
             "7": "6/12"
         },
-        "engagementRate": 0.634,
+        "engagementCan": 78,
+        "engagementDid": 42,
+        "engagementRate": 0.5384615384615384,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 5
     },
     "顏寬恒": {
         "engagementList": {
@@ -802,9 +979,12 @@
             "6": "11/20",
             "7": "9/16"
         },
-        "engagementRate": 0.68,
+        "engagementCan": 131,
+        "engagementDid": 86,
+        "engagementRate": 0.6564885496183206,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "李昆澤": {
         "engagementList": {
@@ -816,9 +996,12 @@
             "6": "20/20",
             "7": "16/16"
         },
+        "engagementCan": 119,
+        "engagementDid": 119,
         "engagementRate": 1.0,
         "excellentLegislatorNum": 2,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "林俊憲": {
         "engagementList": {
@@ -830,9 +1013,12 @@
             "6": "20/20",
             "7": "15/16"
         },
-        "engagementRate": 0.9742857142857143,
+        "engagementCan": 117,
+        "engagementDid": 114,
+        "engagementRate": 0.9743589743589743,
         "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "陳素月": {
         "engagementList": {
@@ -844,9 +1030,12 @@
             "6": "17/20",
             "7": "15/16"
         },
-        "engagementRate": 0.9357142857142857,
+        "engagementCan": 119,
+        "engagementDid": 111,
+        "engagementRate": 0.9327731092436975,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "陳歐珀": {
         "engagementList": {
@@ -858,9 +1047,12 @@
             "6": "14/20",
             "7": "13/16"
         },
-        "engagementRate": 0.8442857142857143,
+        "engagementCan": 119,
+        "engagementDid": 98,
+        "engagementRate": 0.8235294117647058,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "葉宜津": {
         "engagementList": {
@@ -872,9 +1064,12 @@
             "6": "17/20",
             "7": "9/16"
         },
-        "engagementRate": 0.8685714285714285,
+        "engagementCan": 138,
+        "engagementDid": 119,
+        "engagementRate": 0.8623188405797102,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "趙正宇": {
         "engagementList": {
@@ -886,9 +1081,12 @@
             "6": "15/16",
             "7": "19/19"
         },
-        "engagementRate": 0.9085714285714286,
+        "engagementCan": 120,
+        "engagementDid": 107,
+        "engagementRate": 0.8916666666666667,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "劉櫂豪": {
         "engagementList": {
@@ -900,9 +1098,12 @@
             "6": "15/20",
             "7": "9/16"
         },
-        "engagementRate": 0.7714285714285715,
+        "engagementCan": 138,
+        "engagementDid": 106,
+        "engagementRate": 0.7681159420289855,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "鄭運鵬": {
         "engagementList": {
@@ -914,9 +1115,12 @@
             "6": "17/23",
             "7": "27/32"
         },
-        "engagementRate": 0.8928571428571429,
+        "engagementCan": 146,
+        "engagementDid": 127,
+        "engagementRate": 0.8698630136986302,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "鄭寶清": {
         "engagementList": {
@@ -928,9 +1132,12 @@
             "6": "19/20",
             "7": "15/16"
         },
-        "engagementRate": 0.9728571428571429,
+        "engagementCan": 119,
+        "engagementDid": 116,
+        "engagementRate": 0.9747899159663865,
         "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "蕭美琴": {
         "engagementList": {
@@ -942,9 +1149,12 @@
             "6": "20/20",
             "7": "12/15"
         },
-        "engagementRate": 0.9114285714285715,
+        "engagementCan": 118,
+        "engagementDid": 107,
+        "engagementRate": 0.9067796610169492,
         "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "李鴻鈞": {
         "engagementList": {
@@ -956,9 +1166,12 @@
             "6": "9/20",
             "7": "5/16"
         },
-        "engagementRate": 0.5157142857142857,
+        "engagementCan": 119,
+        "engagementDid": 58,
+        "engagementRate": 0.48739495798319327,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "林為洲": {
         "engagementList": {
@@ -970,9 +1183,12 @@
             "6": "28/29",
             "7": "18/19"
         },
-        "engagementRate": 0.9014285714285715,
+        "engagementCan": 178,
+        "engagementDid": 160,
+        "engagementRate": 0.898876404494382,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "林德福": {
         "engagementList": {
@@ -984,9 +1200,12 @@
             "6": "22/29",
             "7": "17/21"
         },
-        "engagementRate": 0.8614285714285714,
+        "engagementCan": 170,
+        "engagementDid": 146,
+        "engagementRate": 0.8588235294117647,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "許淑華": {
         "engagementList": {
@@ -998,9 +1217,12 @@
             "6": "11/20",
             "7": "9/16"
         },
-        "engagementRate": 0.7371428571428572,
+        "engagementCan": 138,
+        "engagementDid": 103,
+        "engagementRate": 0.7463768115942029,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "許毓仁": {
         "engagementList": {
@@ -1012,9 +1234,12 @@
             "6": "24/29",
             "7": "15/17"
         },
-        "engagementRate": 0.8371428571428571,
+        "engagementCan": 145,
+        "engagementDid": 117,
+        "engagementRate": 0.8068965517241379,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 1
+        "observedLegislatorNum": 1,
+        "evaluationCount": 7
     },
     "尤美女": {
         "engagementList": {
@@ -1026,9 +1251,12 @@
             "6": "29/29",
             "7": "31/31"
         },
-        "engagementRate": 0.9942857142857143,
+        "engagementCan": 189,
+        "engagementDid": 188,
+        "engagementRate": 0.9947089947089947,
         "excellentLegislatorNum": 2,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "周春米": {
         "engagementList": {
@@ -1040,9 +1268,12 @@
             "6": "29/29",
             "7": "32/32"
         },
-        "engagementRate": 0.9885714285714285,
+        "engagementCan": 172,
+        "engagementDid": 170,
+        "engagementRate": 0.9883720930232558,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "柯建銘": {
         "engagementList": {
@@ -1054,9 +1285,12 @@
             "6": "4/29",
             "7": "3/32"
         },
-        "engagementRate": 0.3757142857142857,
+        "engagementCan": 191,
+        "engagementDid": 68,
+        "engagementRate": 0.35602094240837695,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "段宜康": {
         "engagementList": {
@@ -1068,9 +1302,12 @@
             "6": "29/29",
             "7": "29/32"
         },
-        "engagementRate": 0.9657142857142857,
+        "engagementCan": 191,
+        "engagementDid": 184,
+        "engagementRate": 0.9633507853403142,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "張宏陸": {
         "engagementList": {
@@ -1082,18 +1319,24 @@
             "6": "16/16",
             "7": "19/19"
         },
-        "engagementRate": 0.9671428571428571,
+        "engagementCan": 153,
+        "engagementDid": 148,
+        "engagementRate": 0.9673202614379085,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "蔡其昌": {
         "engagementList": {
             "1": "0/26",
             "7": "0/32"
         },
+        "engagementCan": 58,
+        "engagementDid": 0,
         "engagementRate": 0.0,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 6
     },
     "蔡易餘": {
         "engagementList": {
@@ -1105,17 +1348,23 @@
             "6": "23/25",
             "7": "17/21"
         },
-        "engagementRate": 0.9385714285714286,
+        "engagementCan": 164,
+        "engagementDid": 154,
+        "engagementRate": 0.9390243902439024,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "顧立雄": {
         "engagementList": {
             "1": "26/26"
         },
+        "engagementCan": 26,
+        "engagementDid": 26,
         "engagementRate": 1.0,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 1
     },
     "周陳秀霞": {
         "engagementList": {
@@ -1127,9 +1376,12 @@
             "6": "14/23",
             "7": "12/17"
         },
-        "engagementRate": 0.7657142857142857,
+        "engagementCan": 143,
+        "engagementDid": 108,
+        "engagementRate": 0.7552447552447552,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "吳志揚": {
         "engagementList": {
@@ -1141,9 +1393,12 @@
             "6": "25/29",
             "7": "23/32"
         },
-        "engagementRate": 0.8928571428571429,
+        "engagementCan": 178,
+        "engagementDid": 158,
+        "engagementRate": 0.8876404494382022,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "柯志恩": {
         "engagementList": {
@@ -1155,9 +1410,12 @@
             "6": "22/22",
             "7": "15/15"
         },
+        "engagementCan": 134,
+        "engagementDid": 134,
         "engagementRate": 1.0,
         "excellentLegislatorNum": 2,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "陳學聖": {
         "engagementList": {
@@ -1169,9 +1427,12 @@
             "6": "13/22",
             "7": "15/15"
         },
-        "engagementRate": 0.8871428571428571,
+        "engagementCan": 134,
+        "engagementDid": 117,
+        "engagementRate": 0.8731343283582089,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "蔣乃辛": {
         "engagementList": {
@@ -1183,9 +1444,12 @@
             "6": "22/22",
             "7": "15/15"
         },
-        "engagementRate": 0.9671428571428572,
+        "engagementCan": 134,
+        "engagementDid": 130,
+        "engagementRate": 0.9701492537313433,
         "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "何欣純": {
         "engagementList": {
@@ -1197,9 +1461,12 @@
             "6": "19/22",
             "7": "21/21"
         },
-        "engagementRate": 0.9328571428571428,
+        "engagementCan": 130,
+        "engagementDid": 122,
+        "engagementRate": 0.9384615384615385,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "吳思瑤": {
         "engagementList": {
@@ -1211,9 +1478,12 @@
             "6": "21/22",
             "7": "15/15"
         },
-        "engagementRate": 0.9928571428571429,
+        "engagementCan": 134,
+        "engagementDid": 133,
+        "engagementRate": 0.9925373134328358,
         "excellentLegislatorNum": 2,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "張廖萬堅": {
         "engagementList": {
@@ -1225,9 +1495,12 @@
             "6": "22/22",
             "7": "14/15"
         },
-        "engagementRate": 0.96,
+        "engagementCan": 134,
+        "engagementDid": 129,
+        "engagementRate": 0.9626865671641791,
         "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "許智傑": {
         "engagementList": {
@@ -1239,9 +1512,12 @@
             "6": "28/29",
             "7": "15/15"
         },
-        "engagementRate": 0.9085714285714286,
+        "engagementCan": 145,
+        "engagementDid": 131,
+        "engagementRate": 0.903448275862069,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "黃國書": {
         "engagementList": {
@@ -1253,17 +1529,23 @@
             "6": "21/22",
             "7": "15/15"
         },
-        "engagementRate": 0.9928571428571429,
+        "engagementCan": 131,
+        "engagementDid": 130,
+        "engagementRate": 0.9923664122137404,
         "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "鄭麗君": {
         "engagementList": {
             "1": "8/9"
         },
-        "engagementRate": 0.89,
+        "engagementCan": 9,
+        "engagementDid": 8,
+        "engagementRate": 0.8888888888888888,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 1
     },
     "鍾佳濱": {
         "engagementList": {
@@ -1275,9 +1557,12 @@
             "6": "20/22",
             "7": "14/15"
         },
-        "engagementRate": 0.9342857142857143,
+        "engagementCan": 129,
+        "engagementDid": 120,
+        "engagementRate": 0.9302325581395349,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "蘇巧慧": {
         "engagementList": {
@@ -1289,9 +1574,12 @@
             "6": "22/22",
             "7": "15/15"
         },
-        "engagementRate": 0.9785714285714285,
+        "engagementCan": 134,
+        "engagementDid": 131,
+        "engagementRate": 0.9776119402985075,
         "excellentLegislatorNum": 2,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "李麗芬": {
         "engagementList": {
@@ -1303,9 +1591,12 @@
             "6": "22/22",
             "7": "15/15"
         },
-        "engagementRate": 0.9742857142857143,
+        "engagementCan": 125,
+        "engagementDid": 121,
+        "engagementRate": 0.968,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "高金素梅": {
         "engagementList": {
@@ -1317,9 +1608,12 @@
             "6": "11/22",
             "7": "5/15"
         },
-        "engagementRate": 0.3542857142857143,
+        "engagementCan": 134,
+        "engagementDid": 46,
+        "engagementRate": 0.34328358208955223,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "高潞．以用．巴魕剌": {
         "engagementList": {
@@ -1331,9 +1625,12 @@
             "6": "21/23",
             "7": "14/19"
         },
-        "engagementRate": 0.7585714285714286,
+        "engagementCan": 137,
+        "engagementDid": 105,
+        "engagementRate": 0.7664233576642335,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "王育敏": {
         "engagementList": {
@@ -1345,9 +1642,12 @@
             "6": "16/20",
             "7": "13/14"
         },
-        "engagementRate": 0.9142857142857143,
+        "engagementCan": 137,
+        "engagementDid": 125,
+        "engagementRate": 0.9124087591240876,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "李彥秀": {
         "engagementList": {
@@ -1359,9 +1659,12 @@
             "6": "19/22",
             "7": "11/14"
         },
-        "engagementRate": 0.9185714285714286,
+        "engagementCan": 105,
+        "engagementDid": 96,
+        "engagementRate": 0.9142857142857143,
         "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "陳宜民": {
         "engagementList": {
@@ -1373,9 +1676,12 @@
             "6": "12/20",
             "7": "10/14"
         },
-        "engagementRate": 0.79,
+        "engagementCan": 110,
+        "engagementDid": 85,
+        "engagementRate": 0.7727272727272727,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "蔣萬安": {
         "engagementList": {
@@ -1387,9 +1693,12 @@
             "6": "14/20",
             "7": "12/14"
         },
-        "engagementRate": 0.9028571428571428,
+        "engagementCan": 113,
+        "engagementDid": 101,
+        "engagementRate": 0.8938053097345132,
         "excellentLegislatorNum": 2,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "吳玉琴": {
         "engagementList": {
@@ -1401,9 +1710,12 @@
             "6": "19/20",
             "7": "14/14"
         },
-        "engagementRate": 0.9771428571428571,
+        "engagementCan": 113,
+        "engagementDid": 110,
+        "engagementRate": 0.9734513274336283,
         "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "吳焜裕": {
         "engagementList": {
@@ -1415,9 +1727,12 @@
             "6": "19/20",
             "7": "19/21"
         },
-        "engagementRate": 0.8857142857142857,
+        "engagementCan": 110,
+        "engagementDid": 96,
+        "engagementRate": 0.8727272727272727,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "林淑芬": {
         "engagementList": {
@@ -1429,9 +1744,12 @@
             "6": "14/16",
             "7": "10/14"
         },
-        "engagementRate": 0.8671428571428571,
+        "engagementCan": 108,
+        "engagementDid": 93,
+        "engagementRate": 0.8611111111111112,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "林靜儀": {
         "engagementList": {
@@ -1443,9 +1761,12 @@
             "6": "17/20",
             "7": "18/21"
         },
-        "engagementRate": 0.8214285714285714,
+        "engagementCan": 117,
+        "engagementDid": 97,
+        "engagementRate": 0.8290598290598291,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 1
+        "observedLegislatorNum": 1,
+        "evaluationCount": 7
     },
     "陳曼麗": {
         "engagementList": {
@@ -1457,9 +1778,12 @@
             "6": "18/20",
             "7": "21/21"
         },
-        "engagementRate": 0.96,
+        "engagementCan": 118,
+        "engagementDid": 113,
+        "engagementRate": 0.9576271186440678,
         "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "陳瑩": {
         "engagementList": {
@@ -1471,9 +1795,12 @@
             "6": "15/20",
             "7": "10/14"
         },
-        "engagementRate": 0.8142857142857143,
+        "engagementCan": 113,
+        "engagementDid": 90,
+        "engagementRate": 0.7964601769911505,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "黃秀芳": {
         "engagementList": {
@@ -1485,9 +1812,12 @@
             "6": "13/20",
             "7": "10/14"
         },
-        "engagementRate": 0.7914285714285715,
+        "engagementCan": 113,
+        "engagementDid": 87,
+        "engagementRate": 0.7699115044247787,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "楊曜": {
         "engagementList": {
@@ -1499,9 +1829,12 @@
             "6": "11/20",
             "7": "13/14"
         },
-        "engagementRate": 0.7928571428571429,
+        "engagementCan": 113,
+        "engagementDid": 87,
+        "engagementRate": 0.7699115044247787,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "劉建國": {
         "engagementList": {
@@ -1513,9 +1846,12 @@
             "6": "22/25",
             "7": "12/14"
         },
-        "engagementRate": 0.8742857142857143,
+        "engagementCan": 110,
+        "engagementDid": 96,
+        "engagementRate": 0.8727272727272727,
         "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "鍾孔炤": {
         "engagementList": {
@@ -1527,9 +1863,12 @@
             "6": "29/29",
             "7": "32/32"
         },
-        "engagementRate": 0.9628571428571429,
+        "engagementCan": 168,
+        "engagementDid": 161,
+        "engagementRate": 0.9583333333333334,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "洪慈庸": {
         "engagementList": {
@@ -1541,9 +1880,12 @@
             "6": "20/22",
             "7": "19/21"
         },
-        "engagementRate": 0.9171428571428571,
+        "engagementCan": 127,
+        "engagementDid": 117,
+        "engagementRate": 0.9212598425196851,
         "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 7
     },
     "邱泰源": {
         "engagementList": {
@@ -1554,9 +1896,12 @@
             "6": "17/20",
             "7": "12/12"
         },
-        "engagementRate": 0.9116666666666666,
+        "engagementCan": 101,
+        "engagementDid": 91,
+        "engagementRate": 0.900990099009901,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 6
     },
     "郭正亮": {
         "engagementList": {
@@ -1567,9 +1912,12 @@
             "6": "25/25",
             "7": "21/21"
         },
-        "engagementRate": 0.92,
+        "engagementCan": 128,
+        "engagementDid": 117,
+        "engagementRate": 0.9140625,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 6
     },
     "谷辣斯．尤達卡": {
         "engagementList": {
@@ -1579,91 +1927,124 @@
             "4": "27/27",
             "5": "16/19"
         },
-        "engagementRate": 0.89,
+        "engagementCan": 118,
+        "engagementDid": 106,
+        "engagementRate": 0.8983050847457628,
         "excellentLegislatorNum": 1,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 5
     },
     "蔣絜安": {
         "engagementList": {
             "6": "16/16",
             "7": "19/19"
         },
+        "engagementCan": 35,
+        "engagementDid": 35,
         "engagementRate": 1.0,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 2
     },
     "林奕華": {
         "engagementList": {
             "6": "11/13",
             "7": "14/15"
         },
-        "engagementRate": 0.89,
+        "engagementCan": 28,
+        "engagementDid": 25,
+        "engagementRate": 0.8928571428571429,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 2
     },
     "陳靜敏": {
         "engagementList": {
             "6": "5/13",
             "7": "13/13"
         },
-        "engagementRate": 0.69,
+        "engagementCan": 26,
+        "engagementDid": 18,
+        "engagementRate": 0.6923076923076923,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 2
     },
     "余天": {
         "engagementList": {
             "7": "14/16"
         },
-        "engagementRate": 0.88,
+        "engagementCan": 16,
+        "engagementDid": 14,
+        "engagementRate": 0.875,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 1
     },
     "郭國文": {
         "engagementList": {
             "7": "11/14"
         },
-        "engagementRate": 0.79,
+        "engagementCan": 14,
+        "engagementDid": 11,
+        "engagementRate": 0.7857142857142857,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 1
     },
     "柯呈枋": {
         "engagementList": {
             "7": "7/14"
         },
+        "engagementCan": 14,
+        "engagementDid": 7,
         "engagementRate": 0.5,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 1
     },
     "童惠珍": {
         "engagementList": {
             "7": "7/15"
         },
-        "engagementRate": 0.47,
+        "engagementCan": 15,
+        "engagementDid": 7,
+        "engagementRate": 0.4666666666666667,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 1
     },
     "何志偉": {
         "engagementList": {
             "7": "21/29"
         },
-        "engagementRate": 0.72,
+        "engagementCan": 29,
+        "engagementDid": 21,
+        "engagementRate": 0.7241379310344828,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 1
     },
     "沈智慧": {
         "engagementList": {
             "7": "18/32"
         },
-        "engagementRate": 0.56,
+        "engagementCan": 32,
+        "engagementDid": 18,
+        "engagementRate": 0.5625,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 1
     },
     "陳玉珍": {
         "engagementList": {
             "7": "5/24"
         },
-        "engagementRate": 0.21,
+        "engagementCan": 24,
+        "engagementDid": 5,
+        "engagementRate": 0.20833333333333334,
         "excellentLegislatorNum": 0,
-        "observedLegislatorNum": 0
+        "observedLegislatorNum": 0,
+        "evaluationCount": 1
     }
 }
