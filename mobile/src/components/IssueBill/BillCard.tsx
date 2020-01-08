@@ -51,8 +51,8 @@ const CaucusBillCard = ({ title, bills }: { title: string; bills: Bill[] }) => (
             {title}
         </Typography>
         <List>
-            {bills.map((bill, idx) => (
-                <CaucusBill key={bill.billNo + idx} {...bill} />
+            {bills.map(bill => (
+                <CaucusBill {...bill} />
             ))}
         </List>
     </Card>

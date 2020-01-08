@@ -62,7 +62,15 @@ const IssueList: FunctionComponent<{
     bills: Bill[];
     selectIssue: (issue: string) => void;
     handleComplete: () => void;
-}> = ({ isParty = false, children, filteredIssue, bills, selectedIssue, selectIssue, handleComplete }) => {
+}> = ({
+    isParty = false,
+    children,
+    filteredIssue,
+    bills,
+    selectedIssue,
+    selectIssue,
+    handleComplete
+}) => {
     return (
         <React.Fragment>
             <Element
@@ -82,9 +90,18 @@ const IssueList: FunctionComponent<{
                         bills: bills.filter(i => issue === i.category)
                     }))
                     .filter(issue => issue.bills.length !== 0)
-                    .map(issue => (
-                        <Element name={issue.issue} key={issue.issue} style={{ cursor: 'pointer' }}>
-                            <IssueBill isParty={isParty} issue={issue.issue} bills={issue.bills} />
+                    .map((issue, i) => (
+                        <Element
+                            name={issue.issue}
+                            key={i}
+                            style={{ cursor: 'pointer' }}
+                        >
+                            <IssueBill
+                                isParty={isParty}
+                                key={`${issue.issue}${i}`}
+                                issue={issue.issue}
+                                bills={issue.bills}
+                            />
                         </Element>
                     ))}
             </Element>
@@ -98,7 +115,14 @@ const IssueBillTab: FunctionComponent<{
     party?: string;
     padding?: object;
     isDesktop?: boolean;
-}> = ({ isParty = false, party = '', bills = [], padding = {}, isDesktop = false, children }) => {
+}> = ({
+    isParty = false,
+    party = '',
+    bills = [],
+    padding = {},
+    isDesktop = false,
+    children
+}) => {
     const classes = useStyles();
 
     const [selectedIssue, updateSelectedIssue] = React.useState([] as string[]);
@@ -128,20 +152,34 @@ const IssueBillTab: FunctionComponent<{
                         <Grid item sm={3}>
                             <Card>
                                 <CardContent>
-                                    <Typography className={classes.issueH1}>所有議題</Typography>
+                                    <Typography className={classes.issueH1}>
+                                        所有議題
+                                    </Typography>
                                 </CardContent>
                                 <CardContent className={classes.issueCard}>
                                     {filteredIssue
                                         .map(issue => ({
                                             issue: issue,
-                                            bills: bills.filter(i => issue === i.category)
+                                            bills: bills.filter(
+                                                i => issue === i.category
+                                            )
                                         }))
-                                        .filter(issue => issue.bills.length !== 0)
-                                        .map(issue => (
-                                            <div style={customStyle.issueTitle} key={issue.issue}>
+                                        .filter(
+                                            issue => issue.bills.length !== 0
+                                        )
+                                        .map((issue, i) => (
+                                            <div
+                                                style={customStyle.issueTitle}
+                                                key={i}
+                                            >
                                                 <Link
-                                                    activeClass={classes.activeTab}
-                                                    className={classes.normalTab}
+                                                    key={i}
+                                                    activeClass={
+                                                        classes.activeTab
+                                                    }
+                                                    className={
+                                                        classes.normalTab
+                                                    }
                                                     to={issue.issue}
                                                     spy={true}
                                                     smooth={true}
