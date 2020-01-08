@@ -34,13 +34,9 @@
   text-align: left !important;
 }
 .vis-controller-mobile {
-  z-index: 100;
-  position: absolute;
-  top: 13%;
+  position: relative;
   margin-left: auto;
   margin-right: auto;
-  left: 0;
-  right: 0;
   width: 150px;
   text-align: center;
 }
@@ -60,9 +56,6 @@
   .vis-title {
     font-family: 'Noto Sans TC' !important;
     padding: 10% 3% 0 3%;
-  }
-  .vis-controller-mobile {
-    top: 53%;
   }
 }
 
