@@ -56,6 +56,9 @@ def calculate(name, party, record, people_dict, party_dict):
                     people_dict[name]["observedLegislatorNum"] += 1
                     party_dict[party]["observedLegislatorNum"] += 1
 
+        people_dict[name]["evaluationCount"] += 1
+        party_dict[party]["evaluationCount"] += 1
+
     return people_dict
 
 
@@ -79,6 +82,7 @@ with open(input_file, "r") as f, open(output_file, "w") as output, open(party_ou
                 "engagementRate": [],
                 "excellentLegislatorNum": 0,
                 "observedLegislatorNum": 0,
+                "evaluationCount": 0,
             }
         if party not in party_dict:
             party_dict[party] = {
@@ -87,6 +91,9 @@ with open(input_file, "r") as f, open(output_file, "w") as output, open(party_ou
                 "engagementRate": 0,
                 "excellentLegislatorNum": 0,
                 "observedLegislatorNum": 0,
+                "evaluationCount": 0,
+                "excellentLegislatorRate": 0,
+                "observedLegislatorRate": 0,
             }
 
         people_dict = calculate(name, party, record, people_dict, party_dict)
@@ -96,11 +103,7 @@ with open(input_file, "r") as f, open(output_file, "w") as output, open(party_ou
     for people, statistic in people_dict.items():
         if len(statistic['engagementList']) != 7:
             print(people, len(statistic['engagementList']), list(statistic['engagementList'].keys()))
-        # statistic["engagementRate"] = mean(statistic["engagementRate"])
-        if statistic["engagementCan"] == 0:
-            statistic["engagementRate"] = 0
-        else:
-            statistic["engagementRate"] = statistic["engagementDid"] / statistic["engagementCan"]
+        statistic["engagementRate"] = statistic["engagementDid"] / statistic["engagementCan"] if statistic["engagementCan"] else 0
         total_rate.append(statistic["engagementRate"])
 
     output_rate = json.dumps(people_dict, ensure_ascii=False, indent=4)
@@ -110,6 +113,8 @@ with open(input_file, "r") as f, open(output_file, "w") as output, open(party_ou
     print("Median Rate", median(total_rate))
 
     for party, statistic in party_dict.items():
-        statistic["engagementRate"] = round(statistic["engagementDid"] / statistic["engagementCan"], 4)
+        statistic["engagementRate"] = statistic["engagementDid"] / statistic["engagementCan"]
+        statistic["excellentLegislatorRate"] = statistic["excellentLegislatorNum"] / statistic["evaluationCount"]
+        statistic["observedLegislatorRate"] = statistic["observedLegislatorNum"] / statistic["evaluationCount"]
     print(party_dict)
     output2.write(json.dumps(party_dict, ensure_ascii=False, indent=4))
