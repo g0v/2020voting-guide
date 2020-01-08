@@ -48,7 +48,14 @@ func GetStatisticByNameHandler(c *gin.Context) {
 	}
 
 	var legislatorDb db.Legislator
-	db.MySQL.Where("name = ? AND term = ?", name, "09").First(&legislatorDb)
+	var formatedName string
+	if name == "鄭天財" {
+		formatedName = "鄭天財Sra．Kacaw"
+	}
+	if name == "廖國棟" {
+		formatedName = "廖國棟Sufin．Siluko"
+	}
+	db.MySQL.Where("name = ? AND term = ?", formatedName, "09").First(&legislatorDb)
 	if legislatorDb.MaxSittingNum != 0 {
 		statisticResp.SittingRate = float32(legislatorDb.SittingNum) / float32(legislatorDb.MaxSittingNum)
 	}

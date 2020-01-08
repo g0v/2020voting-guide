@@ -4,36 +4,50 @@ import { makeStyles, useTheme } from '@material-ui/core/styles';
 import ExpandLessRoundedIcon from '@material-ui/icons/ExpandLessRounded';
 import ExpandMoreRoundedIcon from '@material-ui/icons/ExpandMoreRounded';
 import React from 'react';
-import { Bar, BarChart, Cell, ResponsiveContainer, Tooltip, XAxis } from 'recharts';
-import overallStatistic from '../../data/overall_statistic.json';
+import {
+    Bar,
+    BarChart,
+    Cell,
+    ResponsiveContainer,
+    Tooltip,
+    XAxis
+} from 'recharts';
 import ccw from '../../data/ccw.json';
+import overallStatistic from '../../data/overall_statistic.json';
 import proposeTimes from '../../data/propose_times.json';
-import Issue from '../Issue';
 import Alert from '../Alert';
 import BasePaper from '../BasePaper';
+import Issue from '../Issue';
 import BigNum from '../Numbers/BigNum';
 import AppBarChart from './AppBarChart';
 
-
-function isKeyof<T extends object>(obj: T, possibleKey: keyof any): possibleKey is keyof T {
+function isKeyof<T extends object>(
+    obj: T,
+    possibleKey: keyof any
+): possibleKey is keyof T {
     return possibleKey in obj;
 }
 
 function getCCW(name: string) {
+    if (name.startsWith('廖國棟') || name.startsWith('鄭天財')) {
+        name = name.substring(0, 3);
+    }
     if (isKeyof(ccw, name)) {
-        return ccw[name]
+        return ccw[name];
     } else {
-        return ccw['null']
+        return ccw['null'];
     }
 }
 
-const proposeData = proposeTimes.map(item => {
-    return {
-        name: item.name,
-        count: item.count,
-        percent: (Number(item.count) * 100) / Number(proposeTimes[0].count)
-    }
-}).reverse()
+const proposeData = proposeTimes
+    .map(item => {
+        return {
+            name: item.name,
+            count: item.count,
+            percent: (Number(item.count) * 100) / Number(proposeTimes[0].count)
+        };
+    })
+    .reverse();
 
 const Statistic: {
     sittingRate: number;
@@ -44,12 +58,12 @@ const Statistic: {
     billProposal: [];
     contribution: {
         [key: string]: number;
-    },
+    };
     otherConstituencyCandidate: {
         name: string;
         totalIncome: number;
-        totalExpense: number
-    }[]
+        totalExpense: number;
+    }[];
 } = {
     sittingRate: 0,
     interpellationRate: 0,
@@ -86,8 +100,8 @@ const useStyle = makeStyles({
 });
 
 const getPercentage = (num: number) => {
-    return (num * 100).toFixed(2)
-}
+    return (num * 100).toFixed(2);
+};
 
 const PositionTab = ({
     name = '',
@@ -103,6 +117,9 @@ const PositionTab = ({
 
     React.useEffect(() => {
         if (!name) return;
+        if (name.startsWith('廖國棟') || name.startsWith('鄭天財')) {
+            name = name.substring(0, 3);
+        }
         fetch(`/api/statistic/${name}`)
             .then(res => res.json())
             .then(res => setStatistic(res));
@@ -111,23 +128,21 @@ const PositionTab = ({
     return (
         <Box bgcolor="#F7F7F7" py={1} style={padding}>
             <Box mb={2}>
-                <Alert >
-                <span>{`以下是 2016-2019 年${name}擔任立法委員的紀錄。`}</span>
-                <br />
-                <span>
-                    {`資料來源: `}
-                    <Link href="https://npl.ly.gov.tw/do/www/homePage">
-                    立法院國會圖書館
-                    </Link>
-                </span>
-                <br />
-                <span>
-                    {`資料來源: `}
-                    <Link href="https://ccw.org.tw/">
-                    公督盟
-                    </Link>
-                    由田君陽提供
-                </span>
+                <Alert>
+                    <span>{`以下是 2016-2019 年${name}擔任立法委員的紀錄。`}</span>
+                    <br />
+                    <span>
+                        {`資料來源: `}
+                        <Link href="https://npl.ly.gov.tw/do/www/homePage">
+                            立法院國會圖書館
+                        </Link>
+                    </span>
+                    <br />
+                    <span>
+                        {`資料來源: `}
+                        <Link href="https://ccw.org.tw/">公督盟</Link>
+                        由田君陽提供
+                    </span>
                 </Alert>
             </Box>
 
@@ -145,24 +160,37 @@ const PositionTab = ({
                     />
                 </Box>
                 <Box marginTop={-10}>
-                <ResponsiveContainer width="100%" height={150}>
-                    <BarChart
-                        data={proposeData}
-                        margin={{
-                            top: 0, right: 10, bottom: 20, left: 10,
-                        }}
-                        reverseStackOrder={true}>
-                        <Bar dataKey="percent">
-                        {
-                            proposeData.map((entry, index) => (
-                                <Cell key={`cell-${index}`} fill={ entry.name === name ? '#3199BA' : '#E5E5E5'} />
-                            ))
-                        }
-                        </Bar>
-                        <Tooltip />
-                        <XAxis dataKey="count" minTickGap={10} interval={10}/>
-                    </BarChart>
-                </ResponsiveContainer>
+                    <ResponsiveContainer width="100%" height={150}>
+                        <BarChart
+                            data={proposeData}
+                            margin={{
+                                top: 0,
+                                right: 10,
+                                bottom: 20,
+                                left: 10
+                            }}
+                            reverseStackOrder={true}
+                        >
+                            <Bar dataKey="percent">
+                                {proposeData.map((entry, index) => (
+                                    <Cell
+                                        key={`cell-${index}`}
+                                        fill={
+                                            entry.name === name
+                                                ? '#3199BA'
+                                                : '#E5E5E5'
+                                        }
+                                    />
+                                ))}
+                            </Bar>
+                            <Tooltip />
+                            <XAxis
+                                dataKey="count"
+                                minTickGap={10}
+                                interval={10}
+                            />
+                        </BarChart>
+                    </ResponsiveContainer>
                 </Box>
             </BasePaper>
             <Box px={1.5} pt={1}>
@@ -217,8 +245,12 @@ const PositionTab = ({
                 <BigNum
                     num={Number(getPercentage(statistic.sittingRate))}
                     unit="%"
-                    text1={`立委平均 ${getPercentage(overallStatistic.overallSittingRate)}%`}
-                    text2={`中位數 ${getPercentage(overallStatistic.mediumSittingRate)}%`}
+                    text1={`立委平均 ${getPercentage(
+                        overallStatistic.overallSittingRate
+                    )}%`}
+                    text2={`中位數 ${getPercentage(
+                        overallStatistic.mediumSittingRate
+                    )}%`}
                 />
             </Box>
             <BasePaper
@@ -228,8 +260,12 @@ const PositionTab = ({
                 <BigNum
                     num={Number(getPercentage(getCCW(name).engagementRate))}
                     unit="%"
-                    text1={`立委平均 ${getPercentage(overallStatistic.overallEngagementRate)}%`}
-                    text2={`中位數 ${getPercentage(overallStatistic.medianEngagementRate)}%`}
+                    text1={`立委平均 ${getPercentage(
+                        overallStatistic.overallEngagementRate
+                    )}%`}
+                    text2={`中位數 ${getPercentage(
+                        overallStatistic.medianEngagementRate
+                    )}%`}
                 />
             </BasePaper>
             <Box px={1.5} pt={1}>

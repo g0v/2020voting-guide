@@ -181,9 +181,17 @@ const CandidatePage = ({ match }: CandidatePage) => {
     );
     const isRegional = constituency !== undefined;
 
+    let formatedName;
+    if (name.startsWith('廖國棟')) {
+        formatedName = '廖國棟Sufin．Siluko';
+    } else if (name.startsWith('鄭天財')) {
+        formatedName = '鄭天財Sra．Kacaw';
+    } else {
+        formatedName = name;
+    }
     const billsURL = isRegional
-        ? `/api/bills/${constituency}/${name}`
-        : `/api/nonregional/bills/${party}/${name}`;
+        ? `/api/bills/${constituency}/${formatedName}`
+        : `/api/nonregional/bills/${party}/${formatedName}`;
 
     useTimeout(
         () => {
