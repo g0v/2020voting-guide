@@ -33,7 +33,7 @@ const useStyles = makeStyles((theme: Theme) =>
             bottom: theme.spacing(2),
             right: theme.spacing(2),
             fontSize: 20,
-            zIndex: 2000
+            zIndex: 50
         },
         desktopFab: {
             position: 'relative',
