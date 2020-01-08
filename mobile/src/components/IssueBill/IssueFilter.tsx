@@ -187,6 +187,7 @@ const IssueFilter = ({
                         width="100%"
                         zIndex={2001}
                         borderBottom="1px solid #F7F7F7"
+                        overflow="scroll"
                     >
                         <Box pt={3} px={2} display="flex">
                             <Box

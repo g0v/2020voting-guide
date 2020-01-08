@@ -177,7 +177,7 @@ const CandidatePage = ({ match }: CandidatePage) => {
     const [bills, setBills] = useState<Bill[]>([]);
     const cecCandidate = cecCandidates.find(
         candidate =>
-            candidate.name === name && candidate.constituency == constituency
+            candidate.name === name && candidate.constituency === constituency
     );
     const isRegional = constituency !== undefined;
 
