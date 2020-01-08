@@ -80,11 +80,9 @@ registerGAEvent();
 const render = (Component: any) => {
     ReactDOM.render(
         <BrowserRouter>
-            <React.Suspense fallback={<div className="route-loading loading is-show" />}>
-                <ThemeProvider theme={theme}>
-                    <Component />
-                </ThemeProvider>
-            </React.Suspense>
+            <ThemeProvider theme={theme}>
+                <Component />
+            </ThemeProvider>
         </BrowserRouter>,
         document.getElementById('root') as HTMLElement
     );
