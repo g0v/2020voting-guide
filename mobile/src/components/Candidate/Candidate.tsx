@@ -8,8 +8,8 @@ import county_constituency from '../../data/county_constituency.json';
 import partyCandidate from '../../data/party_candidates_integrated.json';
 import useTimeout from '../../hooks/useTimeout';
 import { gaEvent } from '../../utils';
+import Alert from '../Alert';
 import { Bill } from '../IssueBill';
-// import IssueBillTabAlert from '../IssueBill/';
 import IssueBillTab from '../IssueBillTab';
 import BasicInfoTab from './BasicInfoTab';
 import Nav from './Nav';
@@ -122,24 +122,44 @@ const desktopPadding = isDesktop
       }
     : {};
 
-// const IssueBillTabAlert: FunctionComponent<{
-//     isCurrentLegislator: boolean;
-//     name: string;
-// }> = ({ name, isCurrentLegislator }) => (
-//     <Alert>
-//         <Typography variant="h5">
-//             {isCurrentLegislator
-//                 ? `以下是 2016-2019 年${name}候選人在立法院實際提出的法案。`
-//                 : `${name}候選人不是上屆立委，以下是他所屬政黨的黨團 2016-2019 年在立法院實際提出的法案`}
-//         </Typography>
-//         <Typography variant="h5">
-//             {`資料來源: `}
-//             <Link href="https://lis.ly.gov.tw/billtpc/billtp">
-//                 立法動態資訊網法案追蹤平台
-//             </Link>
-//         </Typography>
-//     </Alert>
-// );
+const IssueBillTabAlert: FunctionComponent<{
+    isCurrentLegislator: boolean;
+    name: string;
+}> = ({ name, isCurrentLegislator }) =>
+    isCurrentLegislator ? (
+        <Alert>
+            <Typography variant="h5">
+                {`以下是 2016-2019 年${name}候選人在立法院實際提出的法案。`}
+            </Typography>
+            <Typography variant="h5">
+                {`資料來源: `}
+                <Link href="https://lis.ly.gov.tw/billtpc/billtp">
+                    立法動態資訊網法案追蹤平台
+                </Link>
+            </Typography>
+        </Alert>
+    ) : (
+        <Box py={2} textAlign="center">
+            <img
+                width="150"
+                height="150"
+                src="/img/doll/new_candidate.svg"
+                alt="2020/1/11,台灣總選大選投票日"
+            />
+            <Box
+                py={2}
+                style={{
+                    fontWeight: 500,
+                    color: '#000'
+                }}
+            >
+                原來{name}不是上屆立委阿！
+            </Box>
+            <Typography variant="h5" color="textSecondary">
+                你可以參考他的政黨在 2016-2019 年在實際提出的法案。
+            </Typography>
+        </Box>
+    );
 
 const CandidatePage = ({ match }: CandidatePage) => {
     const { party, name, constituency } = match.params;
@@ -312,17 +332,18 @@ const CandidatePage = ({ match }: CandidatePage) => {
                                         立法院長、副院長的工作是依法監督管理立法院委員會，組織立法院決策程序與行政議事，並負責召集院會
                                     </Typography>
                                 </Box>
-                            ) : // <IssueBillTabAlert
-                            //     name={candidate.name}
-                            //     isCurrentLegislator={
-                            //         candidate.currentLegislator
-                            //     }
-                            // />
-                            null}
+                            ) : (
+                                <IssueBillTabAlert
+                                    name={candidate.name}
+                                    isCurrentLegislator={
+                                        candidate.currentLegislator
+                                    }
+                                />
+                            )}
                         </IssueBillTab>
                     </>
                 ) : (
-                    <NoInfoTab name={candidate.name} from="issueBill" />
+                    <IssueBillNoInfo name={candidate.name} />
                 )
             ) : tab === '競選戰力' ? (
                 <StrengthTab {...candidate} padding={desktopPadding} />
