@@ -1,4 +1,4 @@
-import { Box, Grid } from '@material-ui/core';
+import { Box, Grid, Typography } from '@material-ui/core';
 import React, { ReactNode } from 'react';
 import DecoratedTitle from '../CommonComponents/DecoratedTitle';
 import LoadingAndError from '../CommonComponents/LoadingAndError';
@@ -18,7 +18,8 @@ type Props = {
     data: AllCandidatesAndParties | undefined;
 };
 
-export const handleNullValueToString = (val: string | null) => (typeof val === 'string' ? val : '');
+export const handleNullValueToString = (val: string | null) =>
+    typeof val === 'string' ? val : '';
 
 const SearchResultGridWrapper = ({ children }: { children: ReactNode }) => {
     return (
@@ -47,7 +48,11 @@ export const ConstituecyCandidatesSearchResults = ({
     );
 };
 
-export const PartyCandidatesSearchResults = ({ partyCandidates }: { partyCandidates: SingleCandidateInParty[] }) => {
+export const PartyCandidatesSearchResults = ({
+    partyCandidates
+}: {
+    partyCandidates: SingleCandidateInParty[];
+}) => {
     const isEmpty = partyCandidates.length === 0;
     if (isEmpty) {
         return <></>;
@@ -56,13 +61,20 @@ export const PartyCandidatesSearchResults = ({ partyCandidates }: { partyCandida
         <SearchResultGridWrapper>
             <DecoratedTitle title={'政黨不分區立委名單'} />
             {partyCandidates.map((c, i) => (
-                <SingleCandidateItemWithPartyName key={i} candidate={{ ...c, age: String(c.age) }} />
+                <SingleCandidateItemWithPartyName
+                    key={i}
+                    candidate={{ ...c, age: String(c.age) }}
+                />
             ))}
         </SearchResultGridWrapper>
     );
 };
 
-export const PartiesSearchResults = ({ parties }: { parties: SingleParty[] }) => {
+export const PartiesSearchResults = ({
+    parties
+}: {
+    parties: SingleParty[];
+}) => {
     const isEmpty = parties.length === 0;
     if (isEmpty) {
         return <></>;
@@ -95,7 +107,10 @@ const SearchResults = (props: Props) => {
         );
     } else if (data) {
         const { constituecyCandidates, partyCandidates, parties } = data;
-        const isNoResult = constituecyCandidates.length === 0 && partyCandidates.length === 0 && parties.length === 0;
+        const isNoResult =
+            constituecyCandidates.length === 0 &&
+            partyCandidates.length === 0 &&
+            parties.length === 0;
 
         if (isNoResult) {
             return <EmptySearchResult />;
@@ -110,7 +125,11 @@ const SearchResults = (props: Props) => {
             </Box>
         );
     }
-    return <EmptySearchResult customResultTitle={'在以上的搜尋欄，可以查詢立委和政黨喔'} />;
+    return (
+        <EmptySearchResult
+            customResultTitle={'在以上的搜尋欄，可以查詢立委和政黨喔'}
+        />
+    );
 };
 
 export default SearchResults;

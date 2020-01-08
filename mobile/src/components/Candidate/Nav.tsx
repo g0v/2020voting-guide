@@ -1,4 +1,4 @@
-import { Avatar, Box, Grid } from '@material-ui/core';
+import { Avatar, Box, Grid, Link } from '@material-ui/core';
 import Typography from '@material-ui/core/Typography';
 import { makeStyles } from '@material-ui/styles';
 import React from 'react';
@@ -28,7 +28,13 @@ interface Nav {
     padding?: object;
 }
 
-const Nav = ({ name = '', photo = '', age = 0, party = '', padding = {} }: Nav) => {
+const Nav = ({
+    name = '',
+    photo = '',
+    age = 0,
+    party = '',
+    padding = {}
+}: Nav) => {
     const classes = useStyles();
     const ageDisplay = age === 0 ? '未知年齡' : `${age} 歲`;
     return (
@@ -40,7 +46,9 @@ const Nav = ({ name = '', photo = '', age = 0, party = '', padding = {} }: Nav) 
                             {photo ? (
                                 <Avatar src={photo} className={classes.photo} />
                             ) : (
-                                <Avatar className={classes.photo}>{name.charAt(0)}</Avatar>
+                                <Avatar className={classes.photo}>
+                                    {name.charAt(0)}
+                                </Avatar>
                             )}
                         </Grid>
                         <Grid item>
@@ -50,7 +58,10 @@ const Nav = ({ name = '', photo = '', age = 0, party = '', padding = {} }: Nav) 
                                 </Grid>
                                 <Box height={8} />
                                 <Grid item>
-                                    <Typography variant="h5" color="textSecondary">
+                                    <Typography
+                                        variant="h5"
+                                        color="textSecondary"
+                                    >
                                         {ageDisplay}
                                     </Typography>
                                 </Grid>
