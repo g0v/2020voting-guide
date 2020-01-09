@@ -254,7 +254,7 @@ const PositionTab = ({
                 />
             </Box> */}
             <BasePaper
-                title="法案及預算審查委員會"
+                title="法案及預算審查參與率"
                 subtitle="在法案及預算審查時有掌握發言機會表達意見的比率"
             >
                 <BigNum
