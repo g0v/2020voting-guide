@@ -86,7 +86,7 @@ const PoliticsCard: FunctionComponent<{
                             whiteSpace="pre-line"
                             lineHeight="160%"
                         >
-                            {politics.split(' ').join('\n')}
+                            {politics}
                         </Box>
                         {politicsPic.length ? (
                             <img width="100%" src={politicsPic} />
