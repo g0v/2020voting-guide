@@ -237,7 +237,7 @@ const PositionTab = ({
             <Box px={1.5} pt={1}>
                 <Issue name="出席" />
             </Box>
-            <Box p={1} bgcolor={theme.palette.background.default} />
+            {/* <Box p={1} bgcolor={theme.palette.background.default} />
             <Box px={2.5} py={3} bgcolor="#FFFFFF">
                 <Box pb={1}>
                     <Typography variant="h2">委員會出席率</Typography>
@@ -252,7 +252,7 @@ const PositionTab = ({
                         overallStatistic.mediumSittingRate
                     )}%`}
                 />
-            </Box>
+            </Box> */}
             <BasePaper
                 title="法案及預算審查委員會"
                 subtitle="在法案及預算審查時有掌握發言機會表達意見的比率"
