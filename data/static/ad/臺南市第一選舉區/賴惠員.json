@@ -2551,115 +2551,120 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.119022",
-          "age": "55-64",
-          "gender": "male"
+          "percentage": "7.2E-5",
+          "age": "18-24",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.133322",
+          "percentage": "0.125442",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "4.4E-5",
+          "percentage": "0.000108",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000131",
+          "percentage": "0.000108",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000305",
+          "percentage": "0.000325",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000174",
+          "percentage": "0.000144",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.021101",
+          "percentage": "0.023999",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.037363",
+          "percentage": "0.035366",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.101234",
+          "percentage": "0.098629",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.085015",
-          "age": "35-44",
-          "gender": "female"
+          "percentage": "0.11162",
+          "age": "55-64",
+          "gender": "male"
         },
         {
-          "percentage": "0.133714",
+          "percentage": "0.132732",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.050835",
+          "percentage": "0.047311",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.110302",
+          "percentage": "0.105666",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.039761",
+          "percentage": "0.043955",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.112874",
+          "percentage": "0.124215",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.054366",
+          "percentage": "0.062252",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.000436",
+          "percentage": "0.087622",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000433",
           "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "賴惠員",
       "impressions": {
-        "lower_bound": "30000",
-        "upper_bound": "34999"
+        "lower_bound": "40000",
+        "upper_bound": "44999"
       },
       "page_id": "132727540081371",
       "page_name": "賴惠員",
       "region_distribution": [
         {
-          "percentage": "0.009037",
+          "percentage": "0.010073",
           "region": "Unknown"
         },
         {
-          "percentage": "0.934977",
+          "percentage": "0.930168",
           "region": "Tainan"
         },
         {
-          "percentage": "0.055986",
+          "percentage": "0.059759",
           "region": "Chiayi"
         }
       ],
       "spend": {
-        "lower_bound": "2500",
-        "upper_bound": "2999"
+        "lower_bound": "3500",
+        "upper_bound": "3999"
       },
       "ad_id": "457745781576444"
     }

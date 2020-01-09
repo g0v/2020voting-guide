@@ -487,6 +487,159 @@
   {
     "選區": "新竹市選舉區",
     "參選人": "鄭宏輝",
+    "AD_ID": "1804859929659088",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-14",
+    "結束日期": "1970-01-01",
+    "廣告內容": "2020新竹市立法委員選舉  挺有經驗會做事的新竹人  #鄭宏輝 #林智堅市長最佳夥伴 #會做事新竹隊  #團結齊心  #新竹拼未來",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/73198039_966560127021118_4928165124629331968_n.jpg?_nc_cat=102&_nc_ohc=w4o9Nub81h4AQnrxbgfMxZOpVTxPk1nQZrNNQXQmrHCFkHGWZ1XYFBsvQ&_nc_ht=scontent-hkg3-1.xx&oh=705866eb271c2ee4e7a2e76686497247&oe=5E7D356C",
+    "廣告詳情": {
+      "ad_creative_body": "2020新竹市立法委員選舉  挺有經驗會做事的新竹人  #鄭宏輝 #林智堅市長最佳夥伴 #會做事新竹隊  #團結齊心  #新竹拼未來",
+      "ad_creation_time": "2019-10-14T16:22:08+0000",
+      "ad_delivery_start_time": "2019-10-14T16:22:08+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000139",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.042802",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000453",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000174",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000287",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000209",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.041304",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.026712",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.074555",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.144678",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.04167",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.068042",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.137147",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.090453",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.122494",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.043481",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.165008",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000392",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "500000",
+        "upper_bound": "999999"
+      },
+      "page_id": "766804583451824",
+      "page_name": "鄭宏輝",
+      "region_distribution": [
+        {
+          "percentage": "6.0E-6",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.011121",
+          "region": "Yilan"
+        },
+        {
+          "percentage": "0.385804",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.242391",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.273795",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.029421",
+          "region": "Keelung City"
+        },
+        {
+          "percentage": "0.05671",
+          "region": "Hsinchu City"
+        },
+        {
+          "percentage": "0.000752",
+          "region": "Hsinchu"
+        }
+      ],
+      "spend": {
+        "lower_bound": "50000",
+        "upper_bound": "99999"
+      },
+      "ad_id": "1804859929659088"
+    }
+  },
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "鄭宏輝",
     "AD_ID": "735853636867807",
     "登錄為政治廣告": "否",
     "開始日期": "2019-07-19",
@@ -8822,115 +8975,115 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.049524",
+          "percentage": "0.046878",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.092268",
+          "percentage": "0.088211",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "3.5E-5",
+          "percentage": "3.0E-5",
           "age": "13-17",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000141",
+          "percentage": "0.000165",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000141",
+          "percentage": "0.00012",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000282",
+          "percentage": "0.00027",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000775",
+          "percentage": "0.000839",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001497",
+          "percentage": "0.001499",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.009986",
+          "percentage": "0.009307",
           "age": "13-17",
           "gender": "male"
         },
         {
-          "percentage": "0.008929",
+          "percentage": "0.008497",
           "age": "13-17",
           "gender": "female"
         },
         {
-          "percentage": "0.029641",
+          "percentage": "0.027111",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.055477",
+          "percentage": "0.051689",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.04889",
+          "percentage": "0.049216",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.087161",
+          "percentage": "0.08454",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.05118",
+          "percentage": "0.054027",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.028179",
+          "percentage": "0.026287",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.16608",
+          "percentage": "0.164973",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.10988",
+          "percentage": "0.11757",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.173987",
+          "percentage": "0.177307",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.085858",
+          "percentage": "0.091374",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "8.8E-5",
+          "percentage": "9.0E-5",
           "age": "65+",
           "gender": "unknown"
         }
       ],
       "funding_entity": "鄭宏輝",
       "impressions": {
-        "lower_bound": "125000",
-        "upper_bound": "149999"
+        "lower_bound": "175000",
+        "upper_bound": "199999"
       },
       "page_id": "766804583451824",
       "page_name": "鄭宏輝",
@@ -8941,8 +9094,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "10000",
-        "upper_bound": "14999"
+        "lower_bound": "15000",
+        "upper_bound": "19999"
       },
       "ad_id": "1568910303261406"
     }
@@ -9438,70 +9591,70 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.190265",
-          "age": "35-44",
+          "percentage": "0.080348",
+          "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.170845",
+          "percentage": "0.166195",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.084439",
-          "age": "45-54",
+          "percentage": "0.181398",
+          "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.163531",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.120504",
+          "percentage": "0.124958",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.103556",
+          "percentage": "0.043694",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.159905",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.124167",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001166",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.116378",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.043884",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000454",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.11995",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000504",
+          "percentage": "0.000541",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00116",
-          "age": "35-44",
+          "percentage": "0.000375",
+          "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000908",
+          "percentage": "0.000875",
           "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "鄭宏輝",
       "impressions": {
-        "lower_bound": "60000",
-        "upper_bound": "69999"
+        "lower_bound": "80000",
+        "upper_bound": "89999"
       },
       "page_id": "766804583451824",
       "page_name": "鄭宏輝",
@@ -9512,8 +9665,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "10000",
-        "upper_bound": "14999"
+        "lower_bound": "15000",
+        "upper_bound": "19999"
       },
       "ad_id": "2420970771554429"
     }
@@ -9535,70 +9688,70 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "5.4E-5",
+          "percentage": "4.9E-5",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.286603",
+          "percentage": "0.280911",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.247962",
+          "percentage": "0.245688",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.139701",
+          "percentage": "0.142469",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.145598",
+          "percentage": "0.144288",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.095082",
+          "percentage": "0.099556",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.052799",
+          "percentage": "0.055357",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.018913",
+          "percentage": "0.018436",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.009457",
+          "percentage": "0.009509",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.000326",
+          "percentage": "0.000315",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.002228",
+          "percentage": "0.002183",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001277",
+          "percentage": "0.001237",
           "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "鄭宏輝",
       "impressions": {
-        "lower_bound": "100000",
-        "upper_bound": "124999"
+        "lower_bound": "125000",
+        "upper_bound": "149999"
       },
       "page_id": "766804583451824",
       "page_name": "鄭宏輝",
@@ -9609,8 +9762,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "8000",
-        "upper_bound": "8999"
+        "lower_bound": "10000",
+        "upper_bound": "14999"
       },
       "ad_id": "556088651605001"
     }
@@ -9750,95 +9903,100 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.081491",
-          "age": "45-54",
-          "gender": "female"
+          "percentage": "5.4E-5",
+          "age": "18-24",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.071143",
+          "percentage": "0.102866",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.00026",
+          "percentage": "0.000145",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000208",
+          "percentage": "0.000581",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000572",
+          "percentage": "0.000436",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000572",
+          "percentage": "0.000835",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.033647",
+          "percentage": "0.062787",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.027094",
+          "percentage": "0.07395",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.165531",
+          "percentage": "0.170699",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.123875",
-          "age": "55-64",
-          "gender": "male"
+          "percentage": "0.069576",
+          "age": "45-54",
+          "gender": "female"
         },
         {
-          "percentage": "0.087784",
+          "percentage": "0.16235",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.009933",
+          "percentage": "0.028045",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.068438",
+          "percentage": "0.041785",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.06121",
+          "percentage": "0.034888",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.15539",
+          "percentage": "0.108148",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.112642",
+          "percentage": "0.073297",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.000208",
+          "percentage": "0.069449",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000109",
           "age": "65+",
           "gender": "unknown"
         }
       ],
       "funding_entity": "鄭宏輝",
       "impressions": {
-        "lower_bound": "25000",
-        "upper_bound": "29999"
+        "lower_bound": "90000",
+        "upper_bound": "99999"
       },
       "page_id": "766804583451824",
       "page_name": "鄭宏輝",
@@ -9849,8 +10007,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "2000",
-        "upper_bound": "2499"
+        "lower_bound": "9000",
+        "upper_bound": "9999"
       },
       "ad_id": "763539384154050"
     }
@@ -11192,6 +11350,166 @@
         "upper_bound": "1999"
       },
       "ad_id": "524792371402004"
+    }
+  },
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "鄭宏輝",
+    "AD_ID": "2526706780951984",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-14",
+    "結束日期": "1970-01-01",
+    "廣告內容": "2020新竹市立法委員選舉  挺有經驗會做事的新竹人  #鄭宏輝 #林智堅市長最佳夥伴 #會做事新竹隊  #團結齊心  #新竹拼未來",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/73198039_966560127021118_4928165124629331968_n.jpg?_nc_cat=102&_nc_ohc=w4o9Nub81h4AQnrxbgfMxZOpVTxPk1nQZrNNQXQmrHCFkHGWZ1XYFBsvQ&_nc_ht=scontent-hkg3-1.xx&oh=705866eb271c2ee4e7a2e76686497247&oe=5E7D356C",
+    "廣告詳情": {
+      "ad_creative_body": "2020新竹市立法委員選舉  挺有經驗會做事的新竹人  #鄭宏輝 #林智堅市長最佳夥伴 #會做事新竹隊  #團結齊心  #新竹拼未來",
+      "ad_creation_time": "2019-10-12T16:59:10+0000",
+      "ad_delivery_start_time": "2019-10-12T16:59:10+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000283",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000848",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000283",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.086514",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.065027",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.066158",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.095561",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.117331",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.067289",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.079446",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.066723",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.09443",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.046932",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.036189",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.176703",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000283",
+          "age": "18-24",
+          "gender": "unknown"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "5000",
+        "upper_bound": "9999"
+      },
+      "page_id": "766804583451824",
+      "page_name": "鄭宏輝",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "500",
+        "upper_bound": "999"
+      },
+      "ad_id": "2526706780951984"
+    }
+  },
+  {
+    "選區": "新竹市選舉區",
+    "參選人": "鄭宏輝",
+    "AD_ID": "600075670396630",
+    "登錄為政治廣告": "否",
+    "開始日期": "2019-10-14",
+    "結束日期": "1970-01-01",
+    "廣告內容": "2020新竹市立法委員選舉  挺有經驗會做事的新竹人  #鄭宏輝 #林智堅市長最佳夥伴 #會做事新竹隊  #團結齊心  #新竹拼未來",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/73198039_966560127021118_4928165124629331968_n.jpg?_nc_cat=102&_nc_ohc=w4o9Nub81h4AQnrxbgfMxZOpVTxPk1nQZrNNQXQmrHCFkHGWZ1XYFBsvQ&_nc_ht=scontent-hkg3-1.xx&oh=705866eb271c2ee4e7a2e76686497247&oe=5E7D356C",
+    "廣告詳情": {
+      "ad_creative_body": "2020新竹市立法委員選舉  挺有經驗會做事的新竹人  #鄭宏輝 #林智堅市長最佳夥伴 #會做事新竹隊  #團結齊心  #新竹拼未來",
+      "ad_creation_time": "2019-10-12T16:10:07+0000",
+      "ad_delivery_start_time": "2019-10-12T16:10:07+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.5",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.5",
+          "age": "45-54",
+          "gender": "male"
+        }
+      ],
+      "impressions": {
+        "lower_bound": "0",
+        "upper_bound": "999"
+      },
+      "page_id": "766804583451824",
+      "page_name": "鄭宏輝",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Hsinchu City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "0",
+        "upper_bound": "99"
+      },
+      "ad_id": "600075670396630"
     }
   }
 ]

@@ -350,55 +350,55 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000227",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000963",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000425",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.33981",
+          "percentage": "0.338282",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.176136",
+          "percentage": "0.094988",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.169565",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.140808",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.179672",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.140761",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.074912",
+          "percentage": "0.074968",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.174295",
+          "percentage": "0.000239",
           "age": "18-24",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.092472",
-          "age": "18-24",
-          "gender": "female"
+          "percentage": "0.001022",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000456",
+          "age": "35-44",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "Huimin Chen",
       "impressions": {
-        "lower_bound": "50000",
-        "upper_bound": "59999"
+        "lower_bound": "90000",
+        "upper_bound": "99999"
       },
       "page_id": "942934662567694",
       "page_name": "陳惠敏 ⑤高雄鳳山立委候選人",
@@ -409,8 +409,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "6000",
-        "upper_bound": "6999"
+        "lower_bound": "10000",
+        "upper_bound": "14999"
       },
       "ad_id": "521694102025674"
     }

@@ -588,73 +588,73 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000334",
+          "percentage": "0.000325",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000401",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.093652",
+          "percentage": "0.093876",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.068165",
-          "age": "35-44",
+          "percentage": "0.059095",
+          "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.171048",
+          "percentage": "0.231699",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.170069",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.090976",
+          "percentage": "0.163828",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.068847",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.090495",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.034785",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.231521",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.163957",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.047428",
+          "percentage": "0.047198",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.038799",
+          "percentage": "0.037771",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.057797",
-          "age": "25-34",
+          "percentage": "0.035236",
+          "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.000334",
-          "age": "18-24",
+          "percentage": "0.00078",
+          "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000803",
-          "age": "25-34",
+          "percentage": "0.000455",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000325",
+          "age": "18-24",
           "gender": "unknown"
         }
       ],
@@ -667,21 +667,21 @@
       "page_name": "登真-邱議瑩",
       "region_distribution": [
         {
-          "percentage": "0.582075",
+          "percentage": "0.582802",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.233114",
+          "percentage": "0.231489",
           "region": "Tainan"
         },
         {
-          "percentage": "0.18481",
+          "percentage": "0.185709",
           "region": "Pingtung"
         }
       ],
       "spend": {
-        "lower_bound": "8000",
-        "upper_bound": "8999"
+        "lower_bound": "9000",
+        "upper_bound": "9999"
       },
       "ad_id": "648039619061020"
     }

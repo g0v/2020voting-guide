@@ -1160,120 +1160,120 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.00011",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.043028",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "3.7E-5",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000183",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "7.3E-5",
+          "percentage": "7.8E-5",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00033",
-          "age": "25-34",
+          "percentage": "0.076692",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000182",
+          "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.033873",
-          "age": "18-24",
+          "percentage": "0.064701",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.056307",
+          "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.052952",
+          "percentage": "0.12703",
           "age": "25-34",
-          "gender": "female"
+          "gender": "male"
         },
         {
-          "percentage": "0.143145",
+          "percentage": "0.126352",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.028417",
-          "age": "65+",
+          "percentage": "0.074034",
+          "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.179215",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.119159",
+          "percentage": "0.078048",
           "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.059616",
-          "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.073495",
-          "age": "18-24",
-          "gender": "male"
+          "percentage": "0.000156",
+          "age": "45-54",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.063937",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.130108",
+          "percentage": "0.115899",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.072067",
+          "percentage": "0.02917",
           "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.15925",
+          "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.000256",
+          "percentage": "0.048747",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.042778",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000235",
           "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "5.2E-5",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000287",
+          "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "駿達陳",
       "impressions": {
-        "lower_bound": "50000",
-        "upper_bound": "59999"
+        "lower_bound": "80000",
+        "upper_bound": "89999"
       },
       "page_id": "2213635748884193",
       "page_name": "陳秀寶",
       "region_distribution": [
         {
-          "percentage": "0.332548",
+          "percentage": "0.377379",
           "region": "Taichung"
         },
         {
-          "percentage": "0.662016",
+          "percentage": "0.616234",
           "region": "Changhua"
         },
         {
-          "percentage": "0.005436",
+          "percentage": "0.006387",
           "region": "Nantou"
         }
       ],
       "spend": {
-        "lower_bound": "5000",
-        "upper_bound": "5999"
+        "lower_bound": "8000",
+        "upper_bound": "8999"
       },
       "ad_id": "2573845162886923"
     }

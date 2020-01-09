@@ -8572,40 +8572,50 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.408602",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.177419",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.258065",
+          "percentage": "0.297582",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.043011",
-          "age": "65+",
-          "gender": "female"
+          "percentage": "0.454066",
+          "age": "55-64",
+          "gender": "male"
         },
         {
-          "percentage": "0.102151",
+          "percentage": "0.065934",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.010753",
+          "percentage": "0.014505",
           "age": "45-54",
           "gender": "female"
+        },
+        {
+          "percentage": "0.133187",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.033846",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00044",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00044",
+          "age": "65+",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "玉玲 呂",
       "impressions": {
-        "lower_bound": "0",
-        "upper_bound": "999"
+        "lower_bound": "2000",
+        "upper_bound": "2999"
       },
       "page_id": "385459414829351",
       "page_name": "看見幸福 呂玉玲",
@@ -8616,8 +8626,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "0",
-        "upper_bound": "99"
+        "lower_bound": "200",
+        "upper_bound": "299"
       },
       "ad_id": "457874541559642"
     }

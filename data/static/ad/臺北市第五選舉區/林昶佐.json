@@ -1487,86 +1487,86 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.31943",
+          "percentage": "0.313717",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.092879",
+          "percentage": "0.094672",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.157277",
+          "percentage": "0.157797",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.045421",
+          "percentage": "0.045533",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.001272",
+          "percentage": "0.00127",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.081739",
+          "percentage": "0.083036",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.04768",
+          "percentage": "0.048057",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.095655",
+          "percentage": "0.095942",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.154581",
+          "percentage": "0.155929",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.000347",
+          "percentage": "0.000328",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000365",
+          "percentage": "0.000369",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.003354",
+          "percentage": "0.003351",
           "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "林昶佐 Freddy Lim",
       "impressions": {
-        "lower_bound": "250000",
-        "upper_bound": "299999"
+        "lower_bound": "300000",
+        "upper_bound": "349999"
       },
       "page_id": "365320250345879",
       "page_name": "林昶佐 Freddy Lim",
       "region_distribution": [
         {
-          "percentage": "0.791568",
+          "percentage": "0.789988",
           "region": "Taipei"
         },
         {
-          "percentage": "0.208432",
+          "percentage": "0.210012",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "40000",
-        "upper_bound": "44999"
+        "lower_bound": "50000",
+        "upper_bound": "59999"
       },
       "ad_id": "493059671318403"
     }
@@ -1589,98 +1589,98 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.362321",
+          "percentage": "0.310312",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.05729",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.211521",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.241848",
+          "percentage": "0.205479",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.040869",
+          "percentage": "0.066399",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.085407",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.238935",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.068497",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.015452",
+          "percentage": "0.015909",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.063261",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.001427",
+          "percentage": "0.001693",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.003536",
+          "percentage": "0.004979",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "9.2E-5",
+          "percentage": "0.000169",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001715",
+          "percentage": "0.00166",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000668",
+          "percentage": "0.000563",
           "age": "18-24",
           "gender": "unknown"
         }
       ],
       "funding_entity": "林昶佐 Freddy Lim",
       "impressions": {
-        "lower_bound": "90000",
-        "upper_bound": "99999"
+        "lower_bound": "250000",
+        "upper_bound": "299999"
       },
       "page_id": "365320250345879",
       "page_name": "林昶佐 Freddy Lim",
       "region_distribution": [
         {
-          "percentage": "0.633322",
+          "percentage": "0.613024",
           "region": "Taipei"
         },
         {
-          "percentage": "0.091077",
+          "percentage": "0.098577",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.238448",
+          "percentage": "0.255305",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.000367",
+          "percentage": "0.000303",
           "region": "Yilan"
         },
         {
-          "percentage": "0.036786",
+          "percentage": "0.03279",
           "region": "Keelung City"
         }
       ],
       "spend": {
-        "lower_bound": "5000",
-        "upper_bound": "5999"
+        "lower_bound": "15000",
+        "upper_bound": "19999"
       },
       "ad_id": "464243447835000"
     }
@@ -1703,94 +1703,94 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.002728",
+          "percentage": "0.002492",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.017909",
+          "percentage": "0.028971",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.032099",
+          "percentage": "0.055113",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.128076",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.027457",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.00457",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.049795",
+          "percentage": "0.06429",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.422685",
+          "percentage": "0.361499",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.312767",
+          "percentage": "0.133269",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.324018",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.001364",
+          "percentage": "0.004571",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.023635",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001604",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000354",
-          "age": "18-24",
+          "percentage": "0.000172",
+          "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000195",
-          "age": "45-54",
+          "percentage": "0.000365",
+          "age": "18-24",
           "gender": "unknown"
         }
       ],
       "funding_entity": "林昶佐 Freddy Lim",
       "impressions": {
-        "lower_bound": "70000",
-        "upper_bound": "79999"
+        "lower_bound": "200000",
+        "upper_bound": "249999"
       },
       "page_id": "365320250345879",
       "page_name": "林昶佐 Freddy Lim",
       "region_distribution": [
         {
-          "percentage": "0.527189",
+          "percentage": "0.552602",
           "region": "Taipei"
         },
         {
-          "percentage": "0.0474",
+          "percentage": "0.048663",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.378699",
+          "percentage": "0.355334",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.046712",
+          "percentage": "0.0434",
           "region": "Keelung City"
         }
       ],
       "spend": {
-        "lower_bound": "5000",
-        "upper_bound": "5999"
+        "lower_bound": "15000",
+        "upper_bound": "19999"
       },
       "ad_id": "2610780942579184"
     }

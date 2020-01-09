@@ -4842,70 +4842,70 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000258",
+          "percentage": "0.00022",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001119",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.00043",
+          "percentage": "0.000366",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.150112",
+          "percentage": "0.042731",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.161557",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.226631",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.097951",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.203908",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.143398",
+          "percentage": "0.148167",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.059391",
-          "age": "18-24",
-          "gender": "female"
+          "percentage": "0.196824",
+          "age": "35-44",
+          "gender": "male"
         },
         {
-          "percentage": "0.072129",
+          "percentage": "0.067096",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.043983",
-          "age": "45-54",
+          "percentage": "0.096437",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.221702",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.063218",
+          "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.000689",
+          "percentage": "0.001024",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000659",
           "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "美惠王",
       "impressions": {
-        "lower_bound": "20000",
-        "upper_bound": "24999"
+        "lower_bound": "25000",
+        "upper_bound": "29999"
       },
       "page_id": "105497726206174",
       "page_name": "嘉義市立委候選人 王美惠",
@@ -4916,8 +4916,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "1500",
-        "upper_bound": "1999"
+        "lower_bound": "2000",
+        "upper_bound": "2499"
       },
       "ad_id": "494596344501766"
     }
@@ -5697,6 +5697,132 @@
         "upper_bound": "99"
       },
       "ad_id": "2606721656226468"
+    }
+  },
+  {
+    "選區": "嘉義市選舉區",
+    "參選人": "王美惠",
+    "AD_ID": "2535485173389397",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-20",
+    "結束日期": "2019-12-24",
+    "廣告內容": "#一起把大頭貼加上特效框，大聲說出你挺台灣隊！ 　 點擊連結加特效 👉 www.facebook.com/profilepicframes/?selected_overlay_id=489508965024187 　 2020選舉進入倒數階段，請大家換上阿惠的特效框，跟身邊的朋友分享你對台灣隊的支持，#說服更多人明年一起回嘉投票。 　 讓我們一起向大家宣告嘉義人對自由民主的堅持，#讓民主聖地的美名繼續流傳下去。 　 2020，總統投3號，立委投6號，政黨票投14號，一起下架親中政黨，#上架最強組合。 　 #惠贏特效框嘉義市立委候選人 王美惠蔡英文 Tsai Ing-wen 賴清德 民主進步黨 　 -- 　 ⚡️挺阿惠，別忘了追我的LINE跟IG哦！ Line | http://nav.cx/al3KUWL IG | https://www.instagram.com/ahueimoto/ ⚡️有空也加入一下惠粉社團吧！https://www.facebook.com/groups/ahueipower/ ⚡️競選總部：嘉義市東區公明路152號",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/80116197_2735360976553156_210972238143291392_n.jpg?_nc_cat=107&_nc_ohc=qrWrxTfqTRsAQloCS8U2xMdeACzTXX9iOcqny7Qa70JobjU9ZBjEl41Eg&_nc_ht=scontent-hkg3-2.xx&oh=c8885e80051f6657ebfea0f097c8fd98&oe=5E6916AA",
+    "廣告詳情": {
+      "ad_creative_body": "#一起把大頭貼加上特效框，大聲說出你挺台灣隊！\n　\n點擊連結加特效 👉 www.facebook.com/profilepicframes/?selected_overlay_id=489508965024187\n　\n2020選舉進入倒數階段，請大家換上阿惠的特效框，跟身邊的朋友分享你對台灣隊的支持，#說服更多人明年一起回嘉投票。\n　\n讓我們一起向大家宣告嘉義人對自由民主的堅持，#讓民主聖地的美名繼續流傳下去。\n　\n2020，總統投3號，立委投6號，政黨票投14號，一起下架親中政黨，#上架最強組合。\n　\n#惠贏特效框\n嘉義市立委候選人 王美惠\n蔡英文 Tsai Ing-wen 賴清德 民主進步黨\n　\n--\n　\n⚡️挺阿惠，別忘了追我的LINE跟IG哦！\n\nLine | http://nav.cx/al3KUWL\nIG | https://www.instagram.com/ahueimoto/\n\n⚡️有空也加入一下惠粉社團吧！\n\nhttps://www.facebook.com/groups/ahueipower/\n\n⚡️競選總部：嘉義市東區公明路152號",
+      "ad_creation_time": "2020-01-07T01:58:19+0000",
+      "ad_delivery_start_time": "2020-01-07T01:58:19+0000",
+      "ad_delivery_stop_time": "2020-01-10T01:58:09+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000225",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.125122",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "7.5E-5",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000524",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.064207",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.089202",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.091372",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.10806",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.088902",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000225",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.033376",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.078875",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.035321",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.122951",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.093617",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.0675",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000449",
+          "age": "35-44",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "美惠王",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "105497726206174",
+      "page_name": "嘉義市立委候選人 王美惠",
+      "region_distribution": [
+        {
+          "percentage": "0.982189",
+          "region": "Unknown"
+        },
+        {
+          "percentage": "0.017811",
+          "region": "Chiayi"
+        }
+      ],
+      "spend": {
+        "lower_bound": "2000",
+        "upper_bound": "2499"
+      },
+      "ad_id": "2535485173389397"
     }
   },
   {

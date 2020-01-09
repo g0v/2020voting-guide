@@ -959,7 +959,7 @@
       "ad_creation_time": "2019-12-22T07:41:07+0000",
       "ad_creative_link_title": "台中第四(西南屯)立委候選人黃馨慧CF「政見篇」",
       "ad_delivery_start_time": "2019-12-22T08:31:08+0000",
-      "ad_delivery_stop_time": "2020-01-02T07:31:08+0000",
+      "ad_delivery_stop_time": "2020-01-10T07:31:08+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -2573,104 +2573,104 @@
       "ad_creative_body": "<你那邊怎樣?我這邊👌!>\n\n今天早上在黎明向上路口,\n阿慧看到熱情的大家，給我滿滿的動力。\n經過的您們對我比了👌的手勢，\n我想那就是我們共同的默契!\n\n#你那邊怎樣我這邊ok\n#台中市第四選區3號黃馨慧\n#下次經過比個ok給我\n#我懂你",
       "ad_creation_time": "2019-12-25T12:34:04+0000",
       "ad_delivery_start_time": "2019-12-25T13:30:41+0000",
-      "ad_delivery_stop_time": "2020-01-03T12:30:41+0000",
+      "ad_delivery_stop_time": "2020-01-10T03:30:41+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "2.1E-5",
+          "percentage": "7.3E-5",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.046508",
+          "percentage": "0.051051",
           "age": "55-64",
           "gender": "female"
+        },
+        {
+          "percentage": "0.000161",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000658",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000863",
+          "age": "25-34",
+          "gender": "unknown"
         },
         {
           "percentage": "0.00019",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.00057",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000908",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000211",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.093249",
+          "percentage": "0.097185",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.047564",
+          "percentage": "0.053509",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.019",
+          "percentage": "0.020353",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.090462",
+          "percentage": "0.088084",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.054108",
+          "percentage": "0.055733",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.022146",
+          "percentage": "0.02186",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.057571",
+          "percentage": "0.059552",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.075642",
+          "percentage": "0.082611",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.150524",
+          "percentage": "0.145192",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.221542",
+          "percentage": "0.209192",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.119743",
+          "percentage": "0.11369",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "4.2E-5",
+          "percentage": "4.4E-5",
           "age": "55-64",
           "gender": "unknown"
         }
       ],
       "funding_entity": "馨慧 黃",
       "impressions": {
-        "lower_bound": "70000",
-        "upper_bound": "79999"
+        "lower_bound": "100000",
+        "upper_bound": "124999"
       },
       "page_id": "271077586244690",
       "page_name": "黃馨慧",
@@ -2681,8 +2681,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "8000",
-        "upper_bound": "8999"
+        "lower_bound": "15000",
+        "upper_bound": "19999"
       },
       "ad_id": "2865666270119329"
     }
@@ -3255,7 +3255,7 @@
       "ad_creation_time": "2019-12-27T12:38:10+0000",
       "ad_creative_link_title": "地價稅調降",
       "ad_delivery_start_time": "2019-12-27T12:38:10+0000",
-      "ad_delivery_stop_time": "2020-01-02T12:34:20+0000",
+      "ad_delivery_stop_time": "2020-01-10T06:30:20+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -3543,104 +3543,104 @@
       "ad_creation_time": "2019-12-30T15:13:38+0000",
       "ad_creative_link_title": "進國會 除網軍",
       "ad_delivery_start_time": "2019-12-30T15:13:38+0000",
-      "ad_delivery_stop_time": "2020-01-04T15:11:20+0000",
+      "ad_delivery_stop_time": "2020-01-09T15:11:20+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.138849",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.032506",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "3.9E-5",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000155",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000542",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.00058",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.038195",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.060795",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000658",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.176541",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.047986",
+          "percentage": "0.040638",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.018691",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.07492",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.171046",
+          "percentage": "0.059868",
           "age": "45-54",
-          "gender": "male"
+          "gender": "female"
         },
         {
-          "percentage": "0.132116",
+          "percentage": "0.000115",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000138",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000665",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000183",
           "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00055",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.168603",
+          "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.048682",
+          "percentage": "0.05274",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.057622",
-          "age": "45-54",
+          "percentage": "0.164547",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.067707",
+          "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "7.7E-5",
+          "percentage": "0.150473",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.106741",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.049302",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.029522",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.026886",
           "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.080634",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000688",
+          "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "馨慧 黃",
       "impressions": {
-        "lower_bound": "40000",
-        "upper_bound": "44999"
+        "lower_bound": "80000",
+        "upper_bound": "89999"
       },
       "page_id": "271077586244690",
       "page_name": "黃馨慧",
@@ -3651,8 +3651,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "4500",
-        "upper_bound": "4999"
+        "lower_bound": "9000",
+        "upper_bound": "9999"
       },
       "ad_id": "928918860838135"
     }
@@ -3671,94 +3671,104 @@
       "ad_creation_time": "2020-01-01T08:28:02+0000",
       "ad_creative_link_title": "地價稅調降",
       "ad_delivery_start_time": "2020-01-01T08:28:02+0000",
-      "ad_delivery_stop_time": "2020-01-02T12:34:20+0000",
+      "ad_delivery_stop_time": "2020-01-10T06:30:20+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.179669",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.028197",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.105002",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.044211",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.050141",
+          "percentage": "5.3E-5",
           "age": "18-24",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.125575",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.171077",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.016015",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.110407",
+          "percentage": "0.14236",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.079589",
+          "percentage": "0.000743",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000389",
           "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.063479",
+          "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.040783",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "8.1E-5",
+          "percentage": "0.000141",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.047882",
-          "age": "35-44",
+          "percentage": "0.033861",
+          "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.000565",
+          "percentage": "0.074318",
           "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.022368",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000141",
+          "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000565",
+          "percentage": "0.145401",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.101054",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.065424",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.037469",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.09048",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.040811",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.181084",
           "age": "35-44",
-          "gender": "unknown"
+          "gender": "male"
         },
         {
-          "percentage": "0.000242",
+          "percentage": "0.000424",
           "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "馨慧 黃",
       "impressions": {
-        "lower_bound": "30000",
-        "upper_bound": "34999"
+        "lower_bound": "90000",
+        "upper_bound": "99999"
       },
       "page_id": "271077586244690",
       "page_name": "黃馨慧",
@@ -3769,10 +3779,154 @@
         }
       ],
       "spend": {
-        "lower_bound": "3500",
-        "upper_bound": "3999"
+        "lower_bound": "9000",
+        "upper_bound": "9999"
       },
       "ad_id": "752455691942403"
+    }
+  },
+  {
+    "選區": "臺中市第四選舉區",
+    "參選人": "黃馨慧",
+    "AD_ID": "2690670524350282",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-25",
+    "結束日期": "1970-01-01",
+    "廣告內容": "3號黃馨慧「政見篇」 該做的事、都會做到最好！ 空汙影響健康、社會酒駕憾事頻傳、管中閔案，政府執政顛倒黑白、亂象叢生，就把您的擔心和恐懼，都交給我，黃馨慧「把該做的事、都會做到最好」！ #國會換新人 #監督政府才夠力 #撥亂反正",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/80835724_2364240670355051_1035559783781892096_n.jpg?_nc_cat=104&_nc_ohc=MW5DtRBOmDwAQmbajFcipTRzPv90BVzuOQdeR6wMEm8d-LpqE-hAwouGA&_nc_ht=scontent-hkg3-1.xx&oh=834a6575b606b0b54d258391bc57bc95&oe=5E6BD86D",
+    "廣告詳情": {
+      "ad_creative_body": "3號黃馨慧「政見篇」\n該做的事、都會做到最好！\n\n空汙影響健康、社會酒駕憾事頻傳、管中閔案，政府執政顛倒黑白、亂象叢生，就把您的擔心和恐懼，都交給我，黃馨慧「把該做的事、都會做到最好」！\n\n#國會換新人\n#監督政府才夠力\n#撥亂反正",
+      "ad_creation_time": "2020-01-07T11:13:20+0000",
+      "ad_creative_link_title": "台中第四(西南屯)立委候選人黃馨慧CF「政見篇」",
+      "ad_delivery_start_time": "2020-01-07T11:13:20+0000",
+      "ad_delivery_stop_time": "2020-01-10T07:31:08+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "1.8E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.296029",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "9.0E-5",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000126",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "9.0E-5",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00018",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.007294",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002605",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.239418",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.111121",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.085663",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.123751",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.046568",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.029033",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.037406",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.003557",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.016906",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000144",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "馨慧 黃",
+      "impressions": {
+        "lower_bound": "70000",
+        "upper_bound": "79999"
+      },
+      "page_id": "271077586244690",
+      "page_name": "黃馨慧",
+      "region_distribution": [
+        {
+          "percentage": "0.428164",
+          "region": "Taichung"
+        },
+        {
+          "percentage": "0.330831",
+          "region": "Changhua"
+        },
+        {
+          "percentage": "0.064218",
+          "region": "Miaoli"
+        },
+        {
+          "percentage": "0.088427",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.088359",
+          "region": "Yunlin"
+        }
+      ],
+      "spend": {
+        "lower_bound": "5000",
+        "upper_bound": "5999"
+      },
+      "ad_id": "2690670524350282"
     }
   },
   {
@@ -3789,7 +3943,7 @@
       "ad_creation_time": "2019-12-25T12:28:04+0000",
       "ad_creative_link_title": "台中第四(西南屯)立委候選人黃馨慧CF「政見篇」",
       "ad_delivery_start_time": "2019-12-25T12:28:04+0000",
-      "ad_delivery_stop_time": "2020-01-02T07:31:08+0000",
+      "ad_delivery_stop_time": "2020-01-10T07:31:08+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {

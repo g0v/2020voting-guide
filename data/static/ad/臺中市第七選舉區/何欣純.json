@@ -1280,100 +1280,100 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.139024",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.099858",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000397",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000146",
+          "percentage": "0.000118",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00023",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000167",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.00046",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.061863",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.046083",
+          "percentage": "0.057117",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.052625",
-          "age": "35-44",
-          "gender": "female"
+          "percentage": "0.000574",
+          "age": "25-34",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.140675",
+          "percentage": "0.000169",
           "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000659",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.060378",
+          "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.02765",
+          "percentage": "0.034294",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.143036",
+          "percentage": "0.132412",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.047902",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.067965",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.106943",
+          "percentage": "0.107933",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.064788",
+          "percentage": "0.000186",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.047539",
           "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.131703",
+          "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.000188",
+          "percentage": "0.060682",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.101987",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.129473",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.072423",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.062101",
           "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000253",
+          "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "欣純 何",
       "impressions": {
-        "lower_bound": "80000",
-        "upper_bound": "89999"
+        "lower_bound": "125000",
+        "upper_bound": "149999"
       },
       "page_id": "420900021820330",
       "page_name": "何欣純 台中阿純",
@@ -1384,8 +1384,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "10000",
-        "upper_bound": "14999"
+        "lower_bound": "15000",
+        "upper_bound": "19999"
       },
       "ad_id": "500023967157293"
     }

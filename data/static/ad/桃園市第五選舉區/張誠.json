@@ -15967,6 +15967,143 @@
   {
     "選區": "桃園市第五選舉區",
     "參選人": "張誠",
+    "AD_ID": "608225376621454",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-29",
+    "結束日期": "1970-01-01",
+    "廣告內容": "【打造中科院國防科技園區，同時發展環保、改變低薪，創造平鎮龍潭的新生命 !】 烏樹林、南勢工業區，都有空汙問題，若只是單就環保來看，也許關掉電廠是一個選擇，若從整體經濟發展和國家長遠之計，張誠主張發展環保科技，來同時取得改善環境以及賺取科技智慧財！ #誠實大叔 #張誠 #平鎮 #龍潭 #立委 #雄三 #歡境汙染 #環保 #低薪問題 #年輕人就業 ✦選舉資訊✦  【平鎮龍潭區 立委候選人 誠實大叔 ③號 張誠】  ✦捐款資訊✦ 109年立法委員擬參選人張誠政治獻金專戶 銀行代號：008 華南銀行平鎮分行 帳號：246-200296090 線上捐款： https://reurl.cc/Qpdj5o (若需收據，請私訊粉專) 加入Line@： http://bit.ly/2wgSMi4 追蹤Youtube： http://bit.ly/2wrnt3y",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/82167892_1277409105780255_4682856830567710720_n.jpg?_nc_cat=105&_nc_ohc=od6_FZccIisAQlLtJyfiFfTSRFGvVm2nJyMROKxjqCYdpYEQapV7mxyEA&_nc_ht=scontent-hkg3-1.xx&oh=2bc23b18bfc3b796dbb809c94db5078a&oe=5EA8024A",
+    "廣告詳情": {
+      "ad_creative_body": "【打造中科院國防科技園區，同時發展環保、改變低薪，創造平鎮龍潭的新生命 !】\n\n烏樹林、南勢工業區，都有空汙問題，若只是單就環保來看，也許關掉電廠是一個選擇，若從整體經濟發展和國家長遠之計，張誠主張發展環保科技，來同時取得改善環境以及賺取科技智慧財！\n\n#誠實大叔 #張誠 #平鎮 #龍潭 #立委 #雄三\n#歡境汙染 #環保 #低薪問題 #年輕人就業\n\n✦選舉資訊✦\n 【平鎮龍潭區 立委候選人 誠實大叔 ③號 張誠】 \n\n✦捐款資訊✦\n109年立法委員擬參選人張誠政治獻金專戶\n銀行代號：008 華南銀行平鎮分行\n帳號：246-200296090\n線上捐款： https://reurl.cc/Qpdj5o\n(若需收據，請私訊粉專)\n加入Line@： http://bit.ly/2wgSMi4\n追蹤Youtube： http://bit.ly/2wrnt3y",
+      "ad_creation_time": "2020-01-07T03:07:23+0000",
+      "ad_creative_link_caption": "www.phdchang.com",
+      "ad_creative_link_title": "【誠實大叔】街頭調查Q&A - 低薪&空污篇",
+      "ad_delivery_start_time": "2020-01-07T03:07:23+0000",
+      "ad_delivery_stop_time": "2020-01-10T03:06:04+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.000167",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.021248",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000335",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.007863",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000502",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000502",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000335",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.007529",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.051364",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.144554",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.059394",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.239418",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.009871",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.067425",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.185879",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.059227",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.144052",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000335",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "誠 張",
+      "impressions": {
+        "lower_bound": "6000",
+        "upper_bound": "6999"
+      },
+      "page_id": "1630273963894007",
+      "page_name": "張誠博士",
+      "region_distribution": [
+        {
+          "percentage": "0.891053",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.101729",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.007218",
+          "region": "Hsinchu"
+        }
+      ],
+      "spend": {
+        "lower_bound": "700",
+        "upper_bound": "799"
+      },
+      "ad_id": "608225376621454"
+    }
+  },
+  {
+    "選區": "桃園市第五選舉區",
+    "參選人": "張誠",
     "AD_ID": "453314325288872",
     "登錄為政治廣告": "是",
     "開始日期": "2019-12-29",
@@ -15983,119 +16120,119 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000507",
-          "age": "65+",
+          "percentage": "0.000216",
+          "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.049658",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000253",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.003547",
+          "percentage": "0.005191",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.17811",
-          "age": "45-54",
-          "gender": "male"
+          "percentage": "0.000216",
+          "age": "18-24",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.017482",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.070433",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.146694",
+          "percentage": "0.000433",
           "age": "65+",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.121358",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000253",
+          "percentage": "0.000433",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.283",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.005574",
+          "percentage": "0.007138",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.054978",
+          "percentage": "0.019035",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.075059",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.178023",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.271036",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.057755",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.057512",
+          "percentage": "0.057106",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.009374",
+          "percentage": "0.011681",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.000253",
-          "age": "45-54",
-          "gender": "unknown"
+          "percentage": "0.142764",
+          "age": "65+",
+          "gender": "male"
         },
         {
-          "percentage": "0.001013",
+          "percentage": "0.0504",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.122648",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000865",
           "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "誠 張",
       "impressions": {
-        "lower_bound": "4000",
-        "upper_bound": "4999"
+        "lower_bound": "5000",
+        "upper_bound": "5999"
       },
       "page_id": "1630273963894007",
       "page_name": "張誠博士",
       "region_distribution": [
         {
-          "percentage": "0.567917",
+          "percentage": "0.580376",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.377851",
+          "percentage": "0.367251",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.032945",
+          "percentage": "0.032493",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.021287",
+          "percentage": "0.01988",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "400",
-        "upper_bound": "499"
+        "lower_bound": "500",
+        "upper_bound": "599"
       },
       "ad_id": "453314325288872"
     }
@@ -16200,6 +16337,143 @@
         "upper_bound": "199"
       },
       "ad_id": "305099257082467"
+    }
+  },
+  {
+    "選區": "桃園市第五選舉區",
+    "參選人": "張誠",
+    "AD_ID": "476097549997147",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-27",
+    "結束日期": "2019-12-29",
+    "廣告內容": "【停車空間不足?!龍潭平鎮人的痛苦怎麼解?】 從世界級城市來看，是怎麼解決停車空間永遠都不足的需求? 拼命蓋停車場嗎？看看誠實大叔怎麼說？！ #大眾運輸系統改善 #道路規劃也是一環 #觀念對規劃才會對 ✦選舉資訊✦ 【平鎮龍潭區 立委候選人 誠實大叔 ③號 張誠】 ✦捐款資訊✦ 109年立法委員擬參選人張誠政治獻金專戶 銀行代號：008 華南銀行平鎮分行 帳號：246-200296090 線上捐款： http://www.phdchang.com/donate/ (若需收據，請私訊粉專) 加入Line@： http://bit.ly/2wgSMi4 追蹤Youtube： http://bit.ly/2wrnt3y",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t39.16868-6/81615179_632796957462868_4657610879657836544_n.jpg?_nc_cat=107&_nc_ohc=vPpemz7p_SIAQmLd7kMQKL0UUQ0bYeidH-q02mQQCbM8fzP-cEZZTOwWw&_nc_ht=scontent-hkg3-2.xx&oh=4bb32438a11ea12fc00e5885746bad50&oe=5E6A0BF3",
+    "廣告詳情": {
+      "ad_creative_body": "【停車空間不足?!龍潭平鎮人的痛苦怎麼解?】\n\n從世界級城市來看，是怎麼解決停車空間永遠都不足的需求?\n拼命蓋停車場嗎？看看誠實大叔怎麼說？！\n\n#大眾運輸系統改善\n#道路規劃也是一環\n#觀念對規劃才會對\n\n✦選舉資訊✦\n【平鎮龍潭區 立委候選人 誠實大叔 ③號 張誠】\n\n✦捐款資訊✦\n109年立法委員擬參選人張誠政治獻金專戶\n銀行代號：008 華南銀行平鎮分行\n帳號：246-200296090\n線上捐款： http://www.phdchang.com/donate/\n(若需收據，請私訊粉專)\n加入Line@： http://bit.ly/2wgSMi4\n追蹤Youtube： http://bit.ly/2wrnt3y",
+      "ad_creation_time": "2020-01-07T03:07:01+0000",
+      "ad_creative_link_caption": "www.phdchang.com",
+      "ad_creative_link_title": "【誠實大叔】街頭調查Q&A - 交通停車篇",
+      "ad_delivery_start_time": "2020-01-07T03:07:01+0000",
+      "ad_delivery_stop_time": "2020-01-10T03:06:50+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "8.3E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.032689",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00672",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002489",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "8.3E-5",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.003402",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.051274",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.013855",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.169418",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000498",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.122127",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.244172",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.024973",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.042313",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.285489",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000166",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "8.3E-5",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000166",
+          "age": "45-54",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "誠 張",
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "1630273963894007",
+      "page_name": "張誠博士",
+      "region_distribution": [
+        {
+          "percentage": "0.874417",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.116905",
+          "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.008678",
+          "region": "Hsinchu"
+        }
+      ],
+      "spend": {
+        "lower_bound": "900",
+        "upper_bound": "999"
+      },
+      "ad_id": "476097549997147"
     }
   },
   {

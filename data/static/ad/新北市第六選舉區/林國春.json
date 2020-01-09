@@ -1035,95 +1035,100 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000219",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.07048",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000146",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.068319",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.011501",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.062746",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.063132",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.153348",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.185034",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000198",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.179283",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.036341",
+          "percentage": "9.0E-6",
           "age": "18-24",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.131681",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.02819",
+          "percentage": "0.027559",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.008871",
-          "age": "18-24",
-          "gender": "female"
+          "percentage": "0.000177",
+          "age": "55-64",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.000157",
+          "percentage": "0.000124",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000141",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000355",
+          "percentage": "0.000212",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.009519",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.013254",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.155374",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.176973",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.058544",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.185962",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.073255",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.073634",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.063073",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.125749",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.036097",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000344",
           "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "翊琴 方",
       "impressions": {
-        "lower_bound": "150000",
-        "upper_bound": "174999"
+        "lower_bound": "200000",
+        "upper_bound": "249999"
       },
       "page_id": "368538816565950",
       "page_name": "林國春",

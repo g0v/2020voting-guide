@@ -3510,5 +3510,127 @@
       },
       "ad_id": "466142967638593"
     }
+  },
+  {
+    "選區": "新北市第一選舉區",
+    "參選人": "呂孫綾",
+    "AD_ID": "463900607627759",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-23",
+    "結束日期": "2019-12-26",
+    "廣告內容": "呂孫綾承諾 淡水北海岸 爭取設置大醫院。 #在地女兒6呂孫綾鄭重承諾 #四年創奇蹟呂孫綾有成績 #2020拚建設護家鄉保台灣 #淡江大橋通車後八里林口一同受惠",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.6435-0/s600x600/81481898_2915858511771202_4557389454188216320_n.jpg?_nc_cat=100&_nc_ohc=xr88m4evm4gAQnLWqxNQBHFZ4IXYKwdV2JFSmWTuolloxwa31cf-27TeA&_nc_ht=scontent-hkg3-1.xx&oh=2b32d27c31b8f9d6976efd4abbc069a9&oe=5E9A1B9C",
+    "廣告詳情": {
+      "ad_creative_body": "呂孫綾承諾\n淡水北海岸\n爭取設置大醫院。\n\n#在地女兒6呂孫綾鄭重承諾\n#四年創奇蹟呂孫綾有成績\n#2020拚建設護家鄉保台灣\n#淡江大橋通車後八里林口一同受惠",
+      "ad_creation_time": "2020-01-08T14:10:56+0000",
+      "ad_delivery_start_time": "2020-01-08T14:10:56+0000",
+      "ad_delivery_stop_time": "2020-01-10T14:10:45+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.044477",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.178152",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000489",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000244",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000489",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.035435",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000978",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.017351",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.08651",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.044477",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.099462",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.169844",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.083578",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.040811",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.152248",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.04521",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000244",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "呂孫綾",
+      "impressions": {
+        "lower_bound": "4000",
+        "upper_bound": "4999"
+      },
+      "page_id": "932173560139717",
+      "page_name": "呂孫綾",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "New Taipei City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "700",
+        "upper_bound": "799"
+      },
+      "ad_id": "463900607627759"
+    }
   }
 ]

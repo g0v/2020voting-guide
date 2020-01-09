@@ -1182,70 +1182,70 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "4.2E-5",
+          "percentage": "3.9E-5",
           "age": "13-17",
           "gender": "unknown"
         },
         {
-          "percentage": "0.111017",
-          "age": "25-34",
-          "gender": "female"
+          "percentage": "0.000193",
+          "age": "45-54",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.233078",
+          "percentage": "0.000773",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001005",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.228807",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.064233",
+          "percentage": "0.107078",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.233832",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.11593",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.070741",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.063512",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.147222",
+          "percentage": "0.148556",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.230675",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.028492",
+          "percentage": "0.029533",
           "age": "18-24",
           "gender": "female"
-        },
-        {
-          "percentage": "0.071441",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.111776",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.001096",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000717",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000211",
-          "age": "45-54",
-          "gender": "unknown"
         }
       ],
       "funding_entity": "程朗李",
       "impressions": {
-        "lower_bound": "45000",
-        "upper_bound": "49999"
+        "lower_bound": "50000",
+        "upper_bound": "59999"
       },
       "page_id": "127397457601670",
       "page_name": "陳根德",

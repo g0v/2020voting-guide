@@ -3831,94 +3831,94 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000103",
+          "percentage": "0.0001",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.059802",
+          "percentage": "0.075134",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.059806",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.036656",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000343",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.04732",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.10575",
+          "percentage": "0.104083",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.075164",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.00024",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.122518",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000206",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.094538",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.095806",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.077701",
+          "percentage": "0.078079",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.118095",
-          "age": "25-34",
-          "gender": "male"
+          "percentage": "0.037149",
+          "age": "65+",
+          "gender": "female"
         },
         {
-          "percentage": "0.123958",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.041457",
+          "percentage": "0.041232",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.000103",
+          "percentage": "0.124632",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.123461",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000201",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.095348",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.11757",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.094511",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000234",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000335",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000234",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.0001",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00024",
-          "age": "45-54",
-          "gender": "unknown"
+          "percentage": "0.047791",
+          "age": "65+",
+          "gender": "male"
         }
       ],
       "funding_entity": "昭順 黃",
@@ -3930,19 +3930,19 @@
       "page_name": "黃昭順",
       "region_distribution": [
         {
-          "percentage": "0.55484",
+          "percentage": "0.550954",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.294748",
+          "percentage": "0.296087",
           "region": "Tainan"
         },
         {
-          "percentage": "0.000299",
+          "percentage": "0.00029",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.150113",
+          "percentage": "0.152669",
           "region": "Pingtung"
         }
       ],

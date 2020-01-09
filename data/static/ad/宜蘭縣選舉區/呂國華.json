@@ -2986,58 +2986,58 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.115165",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.074142",
+          "percentage": "0.074014",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.14856",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.061719",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.176838",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.159991",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.080364",
+          "percentage": "0.080252",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.027011",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.097695",
+          "percentage": "0.09791",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.057271",
+          "percentage": "0.115245",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.02705",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.14858",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.159814",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.06172",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.176666",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.057507",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.000369",
-          "age": "25-34",
+          "percentage": "0.00046",
+          "age": "35-44",
           "gender": "unknown"
         },
         {
@@ -3046,13 +3046,13 @@
           "gender": "unknown"
         },
         {
-          "percentage": "0.000184",
-          "age": "55-64",
+          "percentage": "0.000368",
+          "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000461",
-          "age": "35-44",
+          "percentage": "0.000184",
+          "age": "55-64",
           "gender": "unknown"
         }
       ],
@@ -3070,8 +3070,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "15000",
-        "upper_bound": "19999"
+        "lower_bound": "20000",
+        "upper_bound": "24999"
       },
       "ad_id": "1017237631974464"
     }
@@ -3180,100 +3180,100 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000143",
+          "percentage": "0.000159",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.082846",
+          "percentage": "0.085848",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.000463",
+          "percentage": "0.000477",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.038571",
+          "percentage": "0.036319",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.041459",
+          "percentage": "0.040807",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.064273",
+          "percentage": "0.065317",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.093719",
+          "percentage": "0.096957",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.08281",
+          "percentage": "0.082601",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.077606",
+          "percentage": "0.07649",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.000178",
+          "percentage": "0.000159",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.090083",
+          "percentage": "0.088649",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.094931",
+          "percentage": "0.094952",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.122986",
+          "percentage": "0.121658",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.075253",
+          "percentage": "0.07684",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.134072",
+          "percentage": "0.132194",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.000285",
+          "percentage": "0.000255",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "7.1E-5",
+          "percentage": "6.4E-5",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00025",
+          "percentage": "0.000255",
           "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "憲權 吳",
       "impressions": {
-        "lower_bound": "50000",
-        "upper_bound": "59999"
+        "lower_bound": "60000",
+        "upper_bound": "69999"
       },
       "page_id": "203178079695479",
       "page_name": "呂國華-與宜蘭同在",
@@ -3284,8 +3284,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "5000",
-        "upper_bound": "5999"
+        "lower_bound": "7000",
+        "upper_bound": "7999"
       },
       "ad_id": "1016163375411495"
     }

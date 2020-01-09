@@ -3034,12 +3034,12 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.541831",
+          "percentage": "0.549089",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.458169",
+          "percentage": "0.450911",
           "age": "25-34",
           "gender": "male"
         }
@@ -3053,24 +3053,24 @@
       "page_name": "蘇治芬",
       "region_distribution": [
         {
-          "percentage": "0.296536",
+          "percentage": "0.292874",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.211172",
+          "percentage": "0.211388",
           "region": "Taipei"
         },
         {
-          "percentage": "0.245276",
-          "region": "Taichung"
-        },
-        {
-          "percentage": "0.148848",
+          "percentage": "0.149714",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.098168",
+          "percentage": "0.098269",
           "region": "Yunlin"
+        },
+        {
+          "percentage": "0.247755",
+          "region": "Taichung"
         }
       ],
       "spend": {
@@ -3161,49 +3161,49 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.191008",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.529894",
+          "percentage": "0.533007",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.279097",
+          "percentage": "0.189729",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.277265",
           "age": "18-24",
           "gender": "male"
         }
       ],
       "funding_entity": "Chih-Fen Su",
       "impressions": {
-        "lower_bound": "40000",
-        "upper_bound": "44999"
+        "lower_bound": "45000",
+        "upper_bound": "49999"
       },
       "page_id": "588499344612267",
       "page_name": "蘇治芬",
       "region_distribution": [
         {
-          "percentage": "0.284015",
+          "percentage": "0.283281",
           "region": "Taipei"
         },
         {
-          "percentage": "0.352603",
+          "percentage": "0.354981",
           "region": "Taichung"
         },
         {
-          "percentage": "0.168828",
+          "percentage": "0.171118",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.194554",
+          "percentage": "0.190621",
           "region": "Yunlin"
         }
       ],
       "spend": {
-        "lower_bound": "3000",
-        "upper_bound": "3499"
+        "lower_bound": "3500",
+        "upper_bound": "3999"
       },
       "ad_id": "412513259629000"
     }
@@ -3754,75 +3754,75 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.306995",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.425085",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.124187",
+          "percentage": "0.123589",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.045278",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.063711",
+          "percentage": "0.421654",
           "age": "35-44",
-          "gender": "female"
+          "gender": "male"
         },
         {
-          "percentage": "0.030486",
+          "percentage": "0.305001",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.031186",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.001414",
+          "percentage": "0.048435",
           "age": "25-34",
-          "gender": "unknown"
+          "gender": "female"
         },
         {
-          "percentage": "0.002421",
+          "percentage": "0.065636",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.002566",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000424",
+          "percentage": "0.001527",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000406",
           "age": "18-24",
           "gender": "unknown"
         }
       ],
       "funding_entity": "Chih-Fen Su",
       "impressions": {
-        "lower_bound": "90000",
-        "upper_bound": "99999"
+        "lower_bound": "100000",
+        "upper_bound": "124999"
       },
       "page_id": "588499344612267",
       "page_name": "蘇治芬",
       "region_distribution": [
         {
-          "percentage": "0.413888",
+          "percentage": "0.41828",
           "region": "Taipei"
         },
         {
-          "percentage": "0.352024",
+          "percentage": "0.355217",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.234089",
+          "percentage": "0.226503",
           "region": "Yunlin"
         }
       ],
       "spend": {
-        "lower_bound": "7000",
-        "upper_bound": "7999"
+        "lower_bound": "8000",
+        "upper_bound": "8999"
       },
       "ad_id": "753793215102248"
     }
@@ -4110,75 +4110,75 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000631",
+          "percentage": "0.4038",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.274539",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.142997",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.048938",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.070916",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.056924",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001001",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000698",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.069527",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.144883",
+          "percentage": "0.000186",
           "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.055016",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.406991",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.274498",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.047293",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000202",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000959",
-          "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "Chih-Fen Su",
       "impressions": {
-        "lower_bound": "70000",
-        "upper_bound": "79999"
+        "lower_bound": "80000",
+        "upper_bound": "89999"
       },
       "page_id": "588499344612267",
       "page_name": "蘇治芬",
       "region_distribution": [
         {
-          "percentage": "0.250511",
+          "percentage": "0.250477",
           "region": "Taipei"
         },
         {
-          "percentage": "0.351427",
+          "percentage": "0.356436",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.398062",
+          "percentage": "0.393087",
           "region": "Yunlin"
         }
       ],
       "spend": {
-        "lower_bound": "4000",
-        "upper_bound": "4499"
+        "lower_bound": "5000",
+        "upper_bound": "5999"
       },
       "ad_id": "573748043186493"
     }
@@ -4200,48 +4200,48 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.563879",
+          "percentage": "0.561518",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.436121",
+          "percentage": "0.438482",
           "age": "25-34",
           "gender": "male"
         }
       ],
       "funding_entity": "Chih-Fen Su",
       "impressions": {
-        "lower_bound": "45000",
-        "upper_bound": "49999"
+        "lower_bound": "50000",
+        "upper_bound": "59999"
       },
       "page_id": "588499344612267",
       "page_name": "蘇治芬",
       "region_distribution": [
         {
-          "percentage": "0.300772",
+          "percentage": "0.297023",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.208148",
+          "percentage": "0.210587",
           "region": "Taipei"
         },
         {
-          "percentage": "0.253216",
+          "percentage": "0.25266",
           "region": "Taichung"
         },
         {
-          "percentage": "0.148456",
+          "percentage": "0.149047",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.089408",
+          "percentage": "0.090684",
           "region": "Yunlin"
         }
       ],
       "spend": {
-        "lower_bound": "4500",
-        "upper_bound": "4999"
+        "lower_bound": "5000",
+        "upper_bound": "5999"
       },
       "ad_id": "1169617693428092"
     }
@@ -4400,119 +4400,119 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.084132",
+          "percentage": "0.092",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.288945",
+          "percentage": "0.281388",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.313081",
+          "percentage": "0.303969",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.172938",
+          "percentage": "0.174754",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.074753",
+          "percentage": "0.076723",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.062441",
+          "percentage": "0.067295",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.001683",
+          "percentage": "0.001735",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001482",
+          "percentage": "0.001638",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000547",
+          "percentage": "0.000497",
           "age": "18-24",
           "gender": "unknown"
         }
       ],
       "funding_entity": "Chih-Fen Su",
       "impressions": {
-        "lower_bound": "100000",
-        "upper_bound": "124999"
+        "lower_bound": "125000",
+        "upper_bound": "149999"
       },
       "page_id": "588499344612267",
       "page_name": "蘇治芬",
       "region_distribution": [
         {
-          "percentage": "0.172225",
+          "percentage": "0.170062",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.146178",
+          "percentage": "0.146634",
           "region": "Taipei"
         },
         {
-          "percentage": "0.031767",
+          "percentage": "0.032492",
           "region": "Tainan"
         },
         {
-          "percentage": "0.096358",
+          "percentage": "0.097862",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.198612",
+          "percentage": "0.200809",
           "region": "Taichung"
         },
         {
-          "percentage": "0.066787",
+          "percentage": "0.068255",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.079431",
+          "percentage": "0.077843",
           "region": "Changhua"
         },
         {
-          "percentage": "0.001992",
+          "percentage": "0.002064",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.022551",
+          "percentage": "0.022083",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.022944",
+          "percentage": "0.02214",
           "region": "Nantou"
         },
         {
-          "percentage": "0.056948",
+          "percentage": "0.056786",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.010842",
+          "percentage": "0.011355",
           "region": "Yilan"
         },
         {
-          "percentage": "0.082508",
+          "percentage": "0.08042",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.010856",
+          "percentage": "0.011195",
           "region": "Keelung City"
         }
       ],
       "spend": {
-        "lower_bound": "7000",
-        "upper_bound": "7999"
+        "lower_bound": "8000",
+        "upper_bound": "8999"
       },
       "ad_id": "2559804110954356"
     }

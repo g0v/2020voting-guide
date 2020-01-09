@@ -146,105 +146,105 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000101",
+          "percentage": "8.9E-5",
           "age": "13-17",
           "gender": "unknown"
         },
         {
-          "percentage": "0.10221",
-          "age": "35-44",
-          "gender": "male"
+          "percentage": "0.108384",
+          "age": "18-24",
+          "gender": "female"
         },
         {
-          "percentage": "0.000253",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000405",
+          "percentage": "0.000356",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.010368",
+          "percentage": "0.000223",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000223",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.010068",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.075507",
-          "age": "13-17",
+          "percentage": "0.026773",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.039514",
+          "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.017701",
+          "percentage": "0.076755",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.184961",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.017596",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.183179",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.026653",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.10747",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "5.1E-5",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.033733",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.077631",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.060284",
+          "percentage": "0.060852",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.026653",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.08987",
+          "percentage": "0.085353",
           "age": "13-17",
           "gender": "female"
         },
         {
-          "percentage": "0.038891",
+          "percentage": "0.034301",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.026684",
           "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.070563",
+          "age": "13-17",
           "gender": "male"
         },
         {
-          "percentage": "0.148789",
+          "percentage": "0.108161",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.1491",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.000253",
-          "age": "18-24",
+          "percentage": "4.5E-5",
+          "age": "55-64",
           "gender": "unknown"
         }
       ],
       "funding_entity": "偉龍 潘",
       "impressions": {
-        "lower_bound": "50000",
-        "upper_bound": "59999"
+        "lower_bound": "70000",
+        "upper_bound": "79999"
       },
       "page_id": "113957710023963",
       "page_name": "潘偉龍-屏北立委候選人",
@@ -255,8 +255,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "1000",
-        "upper_bound": "1499"
+        "lower_bound": "1500",
+        "upper_bound": "1999"
       },
       "ad_id": "1289278894614100"
     }

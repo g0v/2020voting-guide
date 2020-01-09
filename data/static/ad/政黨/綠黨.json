@@ -9779,125 +9779,125 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.349573",
+          "percentage": "0.352674",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.42945",
+          "percentage": "0.42952",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.126438",
+          "percentage": "0.124319",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.050715",
+          "percentage": "0.050142",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.043824",
+          "percentage": "0.043345",
           "age": "55-64",
           "gender": "female"
         }
       ],
       "funding_entity": "浩宇 王",
       "impressions": {
-        "lower_bound": "80000",
-        "upper_bound": "89999"
+        "lower_bound": "90000",
+        "upper_bound": "99999"
       },
       "page_id": "282353111158",
       "page_name": "綠黨",
       "region_distribution": [
         {
-          "percentage": "0.02022",
+          "percentage": "0.020213",
           "region": "Unknown"
         },
         {
-          "percentage": "0.000277",
+          "percentage": "0.000264",
           "region": "Lienchiang"
         },
         {
-          "percentage": "0.010445",
+          "percentage": "0.010304",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.020128",
+          "percentage": "0.020345",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.009407",
+          "percentage": "0.009425",
           "region": "Yilan"
         },
         {
-          "percentage": "0.006709",
+          "percentage": "0.006789",
           "region": "Taitung"
         },
         {
-          "percentage": "0.025823",
+          "percentage": "0.02586",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.00279",
+          "percentage": "0.002724",
           "region": "Penghu"
         },
         {
-          "percentage": "0.008162",
+          "percentage": "0.008217",
           "region": "Nantou"
         },
         {
-          "percentage": "0.009223",
+          "percentage": "0.009316",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.001637",
+          "percentage": "0.001604",
           "region": "Kinmen"
         },
         {
-          "percentage": "0.142004",
+          "percentage": "0.142415",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.009292",
+          "percentage": "0.009228",
           "region": "Hualien"
         },
         {
-          "percentage": "0.007355",
+          "percentage": "0.007272",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.000968",
+          "percentage": "0.000989",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.025985",
+          "percentage": "0.026211",
           "region": "Changhua"
         },
         {
-          "percentage": "0.100756",
+          "percentage": "0.101175",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.135687",
+          "percentage": "0.136702",
           "region": "Taichung"
         },
         {
-          "percentage": "0.094139",
+          "percentage": "0.094584",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.097505",
+          "percentage": "0.098341",
           "region": "Tainan"
         },
         {
-          "percentage": "0.241285",
+          "percentage": "0.238383",
           "region": "Taipei"
         },
         {
-          "percentage": "0.030204",
+          "percentage": "0.029639",
           "region": "Hsinchu City"
         }
       ],

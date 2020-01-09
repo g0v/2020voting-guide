@@ -1837,79 +1837,79 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000625",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000375",
+          "percentage": "0.000368",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.171262",
+          "percentage": "0.000737",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.183144",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.143688",
+          "percentage": "0.142977",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.094104",
+          "percentage": "0.094072",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.209091",
+          "percentage": "0.204885",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.045395",
+          "percentage": "0.053485",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.333771",
+          "percentage": "0.318646",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.001688",
+          "percentage": "0.001685",
           "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "Wei-Hang Chang",
       "impressions": {
-        "lower_bound": "20000",
-        "upper_bound": "24999"
+        "lower_bound": "30000",
+        "upper_bound": "34999"
       },
       "page_id": "470500560373820",
       "page_name": "張衞航律師",
       "region_distribution": [
         {
-          "percentage": "0.361077",
+          "percentage": "0.371378",
           "region": "Taipei"
         },
         {
-          "percentage": "0.091525",
+          "percentage": "0.092335",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.539286",
+          "percentage": "0.528139",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.008111",
+          "percentage": "0.008149",
           "region": "Keelung City"
         }
       ],
       "spend": {
-        "lower_bound": "3000",
-        "upper_bound": "3499"
+        "lower_bound": "4000",
+        "upper_bound": "4499"
       },
       "ad_id": "484937575471348"
     }
@@ -1933,79 +1933,79 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000596",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.337478",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.064834",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.437828",
+          "percentage": "0.438686",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.06098",
+          "percentage": "0.33202",
           "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.064269",
+          "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.080764",
+          "percentage": "0.085419",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.004012",
-          "age": "35-44",
-          "gender": "unknown"
+          "percentage": "0.060854",
+          "age": "45-54",
+          "gender": "female"
         },
         {
-          "percentage": "0.002106",
+          "percentage": "0.002003",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.011402",
+          "percentage": "0.011921",
           "age": "25-34",
           "gender": "female"
+        },
+        {
+          "percentage": "0.004204",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000624",
+          "age": "25-34",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "Wei-Hang Chang",
       "impressions": {
-        "lower_bound": "35000",
-        "upper_bound": "39999"
+        "lower_bound": "45000",
+        "upper_bound": "49999"
       },
       "page_id": "470500560373820",
       "page_name": "張衞航律師",
       "region_distribution": [
         {
-          "percentage": "0.59187",
+          "percentage": "0.590119",
           "region": "Taipei"
         },
         {
-          "percentage": "0.064861",
-          "region": "Taoyuan City"
-        },
-        {
-          "percentage": "0.339131",
+          "percentage": "0.33913",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.004138",
+          "percentage": "0.066545",
+          "region": "Taoyuan City"
+        },
+        {
+          "percentage": "0.004206",
           "region": "Keelung City"
         }
       ],
       "spend": {
-        "lower_bound": "3000",
-        "upper_bound": "3499"
+        "lower_bound": "4000",
+        "upper_bound": "4499"
       },
       "ad_id": "1394621034039400"
     }
@@ -2126,48 +2126,48 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.257601",
+          "percentage": "0.260231",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.316156",
+          "percentage": "0.32149",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.163347",
+          "percentage": "0.052749",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.053491",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.146074",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.159088",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.052422",
+          "percentage": "0.001138",
           "age": "25-34",
-          "gender": "female"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.14783",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.05562",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.001992",
+          "percentage": "0.00188",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.003827",
+          "percentage": "0.00386",
           "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.001206",
-          "age": "25-34",
           "gender": "unknown"
         }
       ],
@@ -2180,25 +2180,25 @@
       "page_name": "張衞航律師",
       "region_distribution": [
         {
-          "percentage": "0.526149",
+          "percentage": "0.517568",
           "region": "Taipei"
         },
         {
-          "percentage": "0.048313",
+          "percentage": "0.04962",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.391144",
+          "percentage": "0.397581",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.034394",
+          "percentage": "0.035231",
           "region": "Keelung City"
         }
       ],
       "spend": {
-        "lower_bound": "2500",
-        "upper_bound": "2999"
+        "lower_bound": "3000",
+        "upper_bound": "3499"
       },
       "ad_id": "1171188376604301"
     }
@@ -2222,79 +2222,79 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000616",
-          "age": "25-34",
-          "gender": "unknown"
+          "percentage": "0.385157",
+          "age": "35-44",
+          "gender": "male"
         },
         {
-          "percentage": "0.395833",
+          "percentage": "0.370843",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.057779",
+          "percentage": "0.018821",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.053576",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.10395",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.06188",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.096572",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.383518",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.045926",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.014727",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.003387",
+          "percentage": "0.003479",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001642",
+          "percentage": "0.000712",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001582",
           "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "Wei-Hang Chang",
       "impressions": {
-        "lower_bound": "25000",
-        "upper_bound": "29999"
+        "lower_bound": "40000",
+        "upper_bound": "44999"
       },
       "page_id": "470500560373820",
       "page_name": "張衞航律師",
       "region_distribution": [
         {
-          "percentage": "0.54412",
+          "percentage": "0.544372",
           "region": "Taipei"
         },
         {
-          "percentage": "0.036759",
+          "percentage": "0.038384",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.388376",
+          "percentage": "0.387357",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.030745",
+          "percentage": "0.029887",
           "region": "Keelung City"
         }
       ],
       "spend": {
-        "lower_bound": "2500",
-        "upper_bound": "2999"
+        "lower_bound": "4000",
+        "upper_bound": "4499"
       },
       "ad_id": "3380588525345038"
     }

@@ -414,55 +414,55 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000274",
+          "percentage": "0.000228",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.003019",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.001372",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.102114",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.311282",
+          "percentage": "0.304973",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.130387",
+          "percentage": "0.107892",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.130703",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.237167",
-          "age": "25-34",
-          "gender": "male"
+          "percentage": "0.064097",
+          "age": "45-54",
+          "gender": "female"
         },
         {
-          "percentage": "0.14768",
+          "percentage": "0.137089",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.066703",
-          "age": "45-54",
-          "gender": "female"
+          "percentage": "0.002737",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.250912",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001369",
+          "age": "35-44",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "Chia-Wei Lin",
       "impressions": {
-        "lower_bound": "8000",
-        "upper_bound": "8999"
+        "lower_bound": "10000",
+        "upper_bound": "14999"
       },
       "page_id": "435406813706650",
       "page_name": "林佳瑋 中壢區⑤立委候選人",
@@ -496,70 +496,75 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.05861",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.218731",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.173414",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.203021",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.058006",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.160121",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.045921",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000604",
+          "percentage": "0.000321",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.059215",
+          "percentage": "0.000321",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.182081",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.070649",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.197816",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.188825",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.158317",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.061336",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.013293",
-          "age": "55-64",
-          "gender": "male"
+          "percentage": "0.052023",
+          "age": "18-24",
+          "gender": "female"
         },
         {
-          "percentage": "0.008459",
+          "percentage": "0.066153",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.010276",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.000604",
-          "age": "18-24",
+          "percentage": "0.011561",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000321",
+          "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "豫綾 魏",
       "impressions": {
-        "lower_bound": "1000",
-        "upper_bound": "1999"
+        "lower_bound": "3000",
+        "upper_bound": "3999"
       },
       "page_id": "435406813706650",
       "page_name": "林佳瑋 中壢區⑤立委候選人",
@@ -570,8 +575,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "400",
-        "upper_bound": "499"
+        "lower_bound": "900",
+        "upper_bound": "999"
       },
       "ad_id": "989196698121773"
     }

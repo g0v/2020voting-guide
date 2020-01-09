@@ -10402,6 +10402,63 @@
   {
     "選區": "新北市第七選舉區",
     "參選人": "吳達偉",
+    "AD_ID": "2501006363448651",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-25",
+    "結束日期": "2019-12-26",
+    "廣告內容": "小編陪達偉掃街終於遇到更耐用啦！ 然後老闆就逼我po上來…… 給大家見笑了（鞠躬） -- 居住正義並非仇富 https://medium.com/z9fortw/a366ef67e2e4 搶救生育率：孕產友善職場、廣設公托公幼、0～6歲國家養https://medium.com/z9fortw/d0546ade498a 你的免運，他的玩命！科技人對外送平台的看法https://medium.com/z9fortw/277c1ce40e5f 為什麼要投柔性政黨？ https://medium.com/z9fortw/fd73bcc17cfe -- 【吳達偉政見整理】https://medium.com/z9fortw 【線上捐款】https://pros.is/Z9donate 【募款專戶】銀行：臺灣銀行004 板橋分行 戶名：109年立法委員擬參選人吳達偉政治獻金專戶 帳號：027-0012-06269 匯款後請來信給會計 pon8813@gmail.com索取收據",
+    "圖片": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.6435-0/s600x600/80230557_157585652317568_8748122833126686720_n.jpg?_nc_cat=110&_nc_ohc=3zhBkzuVr6gAQmqgv7Q-0zI2FIet4mdmzZvpIvZh0ksAetW_cAuyHQr4w&_nc_ht=scontent-hkg3-2.xx&oh=27c388121f1028048e859ef0506b25cf&oe=5E6887D8",
+    "廣告詳情": {
+      "ad_creative_body": "小編陪達偉掃街終於遇到更耐用啦！\n然後老闆就逼我po上來……\n給大家見笑了（鞠躬）\n--\n居住正義並非仇富 https://medium.com/z9fortw/a366ef67e2e4\n搶救生育率：孕產友善職場、廣設公托公幼、0～6歲國家養\nhttps://medium.com/z9fortw/d0546ade498a\n你的免運，他的玩命！科技人對外送平台的看法\nhttps://medium.com/z9fortw/277c1ce40e5f\n為什麼要投柔性政黨？ https://medium.com/z9fortw/fd73bcc17cfe\n--\n【吳達偉政見整理】https://medium.com/z9fortw\n【線上捐款】https://pros.is/Z9donate\n【募款專戶】銀行：臺灣銀行004 板橋分行\n戶名：109年立法委員擬參選人吳達偉政治獻金專戶\n帳號：027-0012-06269\n匯款後請來信給會計 pon8813@gmail.com索取收據",
+      "ad_creation_time": "2020-01-05T13:51:15+0000",
+      "ad_delivery_start_time": "2020-01-05T13:51:15+0000",
+      "ad_delivery_stop_time": "2020-01-10T13:51:02+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.163506",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.497358",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.325355",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.013781",
+          "age": "45-54",
+          "gender": "male"
+        }
+      ],
+      "funding_entity": "吳達偉Z9 板橋立委候選人",
+      "impressions": {
+        "lower_bound": "10000",
+        "upper_bound": "14999"
+      },
+      "page_id": "101001864642614",
+      "page_name": "吳達偉Z9 板橋立委候選人",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Taipei"
+        }
+      ],
+      "spend": {
+        "lower_bound": "600",
+        "upper_bound": "699"
+      },
+      "ad_id": "2501006363448651"
+    }
+  },
+  {
+    "選區": "新北市第七選舉區",
+    "參選人": "吳達偉",
     "AD_ID": "2492767504382822",
     "登錄為政治廣告": "是",
     "開始日期": "2019-12-22",

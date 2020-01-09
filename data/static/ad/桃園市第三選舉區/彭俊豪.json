@@ -658,109 +658,109 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.074337",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.056372",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.105877",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.142926",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.027427",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.184087",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.082561",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.058687",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.205446",
+          "percentage": "0.200254",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.059087",
+          "percentage": "0.070473",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.052863",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.170828",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.096969",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.151232",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.061489",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.086846",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.071775",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.000719",
-          "age": "25-34",
+          "percentage": "0.033755",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000553",
+          "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.0002",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.001278",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000439",
+          "percentage": "0.000391",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000559",
-          "age": "18-24",
+          "percentage": "0.001009",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001367",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000195",
+          "age": "55-64",
           "gender": "unknown"
         }
       ],
       "funding_entity": "聲捷 賴",
       "impressions": {
-        "lower_bound": "50000",
-        "upper_bound": "59999"
+        "lower_bound": "90000",
+        "upper_bound": "99999"
       },
       "page_id": "485136741630414",
       "page_name": "彭俊豪",
       "region_distribution": [
         {
-          "percentage": "0.222726",
+          "percentage": "0.228182",
           "region": "Taipei"
         },
         {
-          "percentage": "0.552938",
+          "percentage": "0.5386",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.218868",
+          "percentage": "0.226743",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.005468",
+          "percentage": "0.006476",
           "region": "Hsinchu"
         }
       ],
       "spend": {
-        "lower_bound": "10000",
-        "upper_bound": "14999"
+        "lower_bound": "15000",
+        "upper_bound": "19999"
       },
       "ad_id": "1072892459716178"
     }

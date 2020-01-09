@@ -8652,128 +8652,128 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000146",
+          "percentage": "0.000128",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.028492",
+          "percentage": "0.028698",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.000826",
+          "percentage": "0.000989",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000291",
+          "percentage": "0.000256",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.047875",
+          "percentage": "0.055179",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.031066",
+          "percentage": "0.036279",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.046223",
+          "percentage": "0.046279",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.094316",
+          "percentage": "0.087521",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.136799",
+          "percentage": "0.143231",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.000364",
+          "percentage": "0.00044",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.051251",
+          "percentage": "0.048238",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.047753",
+          "percentage": "0.04333",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.167622",
+          "percentage": "0.161765",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.02786",
+          "percentage": "0.026262",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.210517",
+          "percentage": "0.219709",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.107918",
+          "percentage": "0.100982",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "9.7E-5",
+          "percentage": "0.00011",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000583",
+          "percentage": "0.000604",
           "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "超明 陳",
       "impressions": {
-        "lower_bound": "70000",
-        "upper_bound": "79999"
+        "lower_bound": "100000",
+        "upper_bound": "124999"
       },
       "page_id": "1621835121361449",
       "page_name": "陳超明-阿明哥粉絲團",
       "region_distribution": [
         {
-          "percentage": "0.239713",
+          "percentage": "0.239898",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.108052",
+          "percentage": "0.108231",
           "region": "Taichung"
         },
         {
-          "percentage": "0.157647",
+          "percentage": "0.154951",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.331472",
+          "percentage": "0.336668",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.163116",
+          "percentage": "0.160253",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "6000",
-        "upper_bound": "6999"
+        "lower_bound": "8000",
+        "upper_bound": "8999"
       },
       "ad_id": "630886087681819"
     }

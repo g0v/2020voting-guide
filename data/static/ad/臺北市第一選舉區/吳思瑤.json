@@ -410,6 +410,103 @@
   {
     "選區": "臺北市第一選舉區",
     "參選人": "吳思瑤",
+    "AD_ID": "826965547772636",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-30",
+    "結束日期": "1970-01-01",
+    "廣告內容": "「真正的自由，是能找到一個屬於自己真正的角落。 」 「久違了，台灣很久沒有這樣的文化運動。」 讀樂樂公園圖書館計畫，原本只是一個簡單、又帶點傻勁的想法。 那就試試看吧！ 一路以來我們遭遇很多的困難、質疑與不理解， 但我們堅定信念，用行動來讓大家相信，在公園裡閱讀的想法，不再只是一個「理想」，是一個正在發生的「改變」。 謝謝2018台灣文藝獎得主黃聲遠建築師，與我們一同見證這趟改變的旅程，為讀樂樂代言。 「 讓設計走入社區，把閱讀帶進生活 」！ 十組建築師 x 十個鄰里社區 x 十座公園。 我們一同為士林北投共創出改變的可能，而這個嘗試還會繼續下去...... ——————————————————————————— ❗️粉專設為搶先看，重要訊息不漏接❗️ 👉 加入Line帳號，重要訊息不漏接：https://reurl.cc/D1QANj 👉 關注思瑤IG，看看不一樣的思瑤：https://reurl.cc/GkRAzG 👉 做我的後援，小額捐款挺思瑤：https://reurl.cc/Nam059",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81861982_2497998137126255_7198882744540069888_n.jpg?_nc_cat=106&_nc_ohc=mx6lKOj41qAAQmvWWgag7RDkuiJUNN7v7xBj0J3Y7ZONOHEQx4MCv21dg&_nc_ht=scontent-hkg3-1.xx&oh=850c52c0ccc8ae6a6d89b8057edb9b8c&oe=5EADFFC8",
+    "廣告詳情": {
+      "ad_creative_body": "「真正的自由，是能找到一個屬於自己真正的角落。 」\n「久違了，台灣很久沒有這樣的文化運動。」\n\n讀樂樂公園圖書館計畫，原本只是一個簡單、又帶點傻勁的想法。\n那就試試看吧！\n\n一路以來我們遭遇很多的困難、質疑與不理解， 但我們堅定信念，用行動來讓大家相信，在公園裡閱讀的想法，不再只是一個「理想」，是一個正在發生的「改變」。\n\n謝謝2018台灣文藝獎得主黃聲遠建築師，與我們一同見證這趟改變的旅程，為讀樂樂代言。\n\n「 讓設計走入社區，把閱讀帶進生活 」！\n\n十組建築師 x 十個鄰里社區 x 十座公園。\n我們一同為士林北投共創出改變的可能，而這個嘗試還會繼續下去......\n\n———————————————————————————\n\n❗️粉專設為搶先看，重要訊息不漏接❗️\n👉 加入Line帳號，重要訊息不漏接：https://reurl.cc/D1QANj\n👉 關注思瑤IG，看看不一樣的思瑤：https://reurl.cc/GkRAzG\n👉 做我的後援，小額捐款挺思瑤：https://reurl.cc/Nam059",
+      "ad_creation_time": "2020-01-08T16:21:38+0000",
+      "ad_creative_link_title": "讓設計走入社區，把閱讀帶進生活  -  吳思瑤《讀樂樂公園圖書館計畫》",
+      "ad_delivery_start_time": "2020-01-08T16:21:38+0000",
+      "ad_delivery_stop_time": "2020-01-10T13:59:13+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.020153",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.177015",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.095316",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.061547",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.215686",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.132353",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.265795",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.020697",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001634",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.007081",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.002723",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "禹翔 黃",
+      "impressions": {
+        "lower_bound": "2000",
+        "upper_bound": "2999"
+      },
+      "page_id": "211122988933967",
+      "page_name": "吳思瑤",
+      "region_distribution": [
+        {
+          "percentage": "0.912852",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.087148",
+          "region": "New Taipei City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "200",
+        "upper_bound": "299"
+      },
+      "ad_id": "826965547772636"
+    }
+  },
+  {
+    "選區": "臺北市第一選舉區",
+    "參選人": "吳思瑤",
     "AD_ID": "2767820706574822",
     "登錄為政治廣告": "是",
     "開始日期": "2019-12-30",
@@ -425,103 +522,190 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.091509",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.138253",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.119861",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.139633",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.092032",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.107737",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.074461",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.098821",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.078527",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.052339",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.001418",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000709",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.001492",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.002723",
+          "percentage": "0.002644",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000485",
+          "percentage": "0.131685",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.077617",
           "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.121201",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.099736",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.101851",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.116752",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.084928",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.049899",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.077213",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.132276",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001618",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000622",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000467",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001493",
+          "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "禹翔 黃",
       "impressions": {
-        "lower_bound": "60000",
-        "upper_bound": "69999"
+        "lower_bound": "80000",
+        "upper_bound": "89999"
       },
       "page_id": "211122988933967",
       "page_name": "吳思瑤",
       "region_distribution": [
         {
-          "percentage": "0.897725",
+          "percentage": "0.888969",
           "region": "Taipei"
         },
         {
-          "percentage": "0.102275",
+          "percentage": "0.111031",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "8000",
-        "upper_bound": "8999"
+        "lower_bound": "10000",
+        "upper_bound": "14999"
       },
       "ad_id": "2767820706574822"
+    }
+  },
+  {
+    "選區": "臺北市第一選舉區",
+    "參選人": "吳思瑤",
+    "AD_ID": "2755607141164224",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-26",
+    "結束日期": "2019-12-29",
+    "廣告內容": "流浪到異鄉，30年的思念，北投人沒有一天遺忘過老車站； 與阿嬤許下的承諾，和北投做好的約定，思瑤同樣一刻也不敢遺忘。 經過十多年的努力，思瑤終於陪著101歲的新北投車站爺爺，回到溫暖的家。 車站不只是車站，歸鄉不只是歸鄉，這永遠是北投人心中最真真切切的一段故事。 謝謝有這樣一位北投阿嬤，讓思瑤擁有強大的動力，永不放棄。 ——————————————————————————— 👉 思瑤FB：https://www.facebook.com/TaipeiNeedYou/ 👉 思瑤Line：https://lin.ee/w6VfIpb 👉 思瑤IG：https://www.instagram.com/wsy_jiejie/ 👉 捐款挺思瑤：https://donate.newebpay.com/wuszuyao/2020wsy",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81532255_774318706375328_839897261507870720_n.jpg?_nc_cat=102&_nc_ohc=DfcG8K95fMYAQmbdVtobipvP8UvpbNUYMvvInLKYsovPJbULNYAA5n5hw&_nc_ht=scontent-hkg3-1.xx&oh=87cec99278d0c65665396b77ce3fc8fc&oe=5E9C6B6E",
+    "廣告詳情": {
+      "ad_creative_body": "流浪到異鄉，30年的思念，北投人沒有一天遺忘過老車站；\n與阿嬤許下的承諾，和北投做好的約定，思瑤同樣一刻也不敢遺忘。\n  \n\n經過十多年的努力，思瑤終於陪著101歲的新北投車站爺爺，回到溫暖的家。\n車站不只是車站，歸鄉不只是歸鄉，這永遠是北投人心中最真真切切的一段故事。\n  \n\n謝謝有這樣一位北投阿嬤，讓思瑤擁有強大的動力，永不放棄。\n\n———————————————————————————\n\n👉 思瑤FB：https://www.facebook.com/TaipeiNeedYou/\n👉 思瑤Line：https://lin.ee/w6VfIpb\n👉 思瑤IG：https://www.instagram.com/wsy_jiejie/\n👉 捐款挺思瑤：https://donate.newebpay.com/wuszuyao/2020wsy",
+      "ad_creation_time": "2020-01-08T16:21:38+0000",
+      "ad_creative_link_title": "吳思瑤的承諾，新北投車站回家了",
+      "ad_delivery_start_time": "2020-01-08T16:21:38+0000",
+      "ad_delivery_stop_time": "2020-01-10T05:13:43+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.069872",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.181818",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.135237",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.065364",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.269722",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.238918",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.023291",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.015026",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000751",
+          "age": "25-34",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "禹翔 黃",
+      "impressions": {
+        "lower_bound": "1000",
+        "upper_bound": "1999"
+      },
+      "page_id": "211122988933967",
+      "page_name": "吳思瑤",
+      "region_distribution": [
+        {
+          "percentage": "0.89902",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.10098",
+          "region": "New Taipei City"
+        }
+      ],
+      "spend": {
+        "lower_bound": "200",
+        "upper_bound": "299"
+      },
+      "ad_id": "2755607141164224"
     }
   },
   {
@@ -542,96 +726,96 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.147983",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.051878",
+          "percentage": "7.3E-5",
           "age": "55-64",
-          "gender": "female"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.094216",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.111509",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.146293",
+          "percentage": "0.152552",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.181872",
+          "percentage": "0.184657",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.043033",
-          "age": "18-24",
-          "gender": "male"
+          "percentage": "0.113793",
+          "age": "45-54",
+          "gender": "female"
         },
         {
-          "percentage": "0.047704",
+          "percentage": "0.052655",
           "age": "55-64",
-          "gender": "male"
+          "gender": "female"
         },
         {
-          "percentage": "0.108328",
+          "percentage": "0.142972",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.107065",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.064997",
+          "percentage": "0.062454",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.000199",
-          "age": "45-54",
-          "gender": "unknown"
+          "percentage": "0.09295",
+          "age": "25-34",
+          "gender": "male"
         },
         {
-          "percentage": "0.001491",
+          "percentage": "0.046219",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.042636",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001243",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000398",
-          "age": "25-34",
+          "percentage": "0.000219",
+          "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "9.9E-5",
-          "age": "55-64",
+          "percentage": "0.000512",
+          "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "禹翔 黃",
       "impressions": {
-        "lower_bound": "15000",
-        "upper_bound": "19999"
+        "lower_bound": "25000",
+        "upper_bound": "29999"
       },
       "page_id": "211122988933967",
       "page_name": "吳思瑤",
       "region_distribution": [
         {
-          "percentage": "0.889544",
+          "percentage": "0.878421",
           "region": "Taipei"
         },
         {
-          "percentage": "0.110456",
+          "percentage": "0.121579",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "2000",
-        "upper_bound": "2499"
+        "lower_bound": "4000",
+        "upper_bound": "4499"
       },
       "ad_id": "2781157831949091"
     }

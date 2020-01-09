@@ -2246,120 +2246,120 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.191611",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.021334",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000171",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000328",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000342",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000644",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000302",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.012493",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.072199",
+          "percentage": "0.07438",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.083654",
-          "age": "25-34",
-          "gender": "male"
+          "percentage": "0.025923",
+          "age": "35-44",
+          "gender": "female"
         },
         {
-          "percentage": "0.172799",
+          "percentage": "0.000153",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000276",
           "age": "45-54",
-          "gender": "male"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.100193",
+          "percentage": "0.000327",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000604",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00024",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.017149",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.102239",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.009892",
+          "percentage": "0.182803",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.012514",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.108732",
-          "age": "65+",
+          "percentage": "0.054153",
+          "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.041591",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.12937",
+          "percentage": "0.131458",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.054136",
-          "age": "18-24",
+          "percentage": "0.03974",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.165683",
+          "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.00021",
+          "percentage": "0.089186",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.103017",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000153",
           "age": "65+",
           "gender": "unknown"
         }
       ],
       "funding_entity": "蘇巧慧",
       "impressions": {
-        "lower_bound": "100000",
-        "upper_bound": "124999"
+        "lower_bound": "200000",
+        "upper_bound": "249999"
       },
       "page_id": "456170574528072",
       "page_name": "蘇巧慧",
       "region_distribution": [
         {
-          "percentage": "0.259485",
+          "percentage": "0.256053",
           "region": "Taipei"
         },
         {
-          "percentage": "0.34075",
+          "percentage": "0.343625",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.399765",
+          "percentage": "0.400322",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "8000",
-        "upper_bound": "8999"
+        "lower_bound": "15000",
+        "upper_bound": "19999"
       },
       "ad_id": "2189206898053594"
     }

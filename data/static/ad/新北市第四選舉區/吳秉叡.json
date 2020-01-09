@@ -1899,120 +1899,120 @@
       "ad_creative_link_description": "顧臺灣，會做事！\n繼續衝、繼續拼，\n新莊持續向上！台灣繼續向前！",
       "ad_creative_link_title": "吳秉叡",
       "ad_delivery_start_time": "2019-12-05T15:47:40+0000",
-      "ad_delivery_stop_time": "2020-01-10T15:47:40+0000",
+      "ad_delivery_stop_time": "2020-01-10T12:00:40+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.00019",
-          "age": "45-54",
+          "percentage": "7.0E-5",
+          "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.101679",
+          "percentage": "0.102527",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.000722",
+          "percentage": "0.000773",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000646",
+          "percentage": "0.000598",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.062733",
+          "percentage": "0.063126",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.051486",
+          "percentage": "0.050613",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.038529",
+          "percentage": "0.038311",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.06638",
+          "percentage": "0.072405",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.101907",
+          "percentage": "0.097817",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "7.6E-5",
-          "age": "55-64",
+          "percentage": "0.000211",
+          "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.07588",
+          "percentage": "0.077748",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.078577",
+          "percentage": "0.07592",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.089292",
+          "percentage": "0.096587",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.13789",
+          "percentage": "0.137675",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.055589",
+          "percentage": "0.053882",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.137206",
+          "percentage": "0.130611",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.000152",
+          "percentage": "0.000141",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001064",
+          "percentage": "0.000984",
           "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "吳秉叡",
       "impressions": {
-        "lower_bound": "70000",
-        "upper_bound": "79999"
+        "lower_bound": "80000",
+        "upper_bound": "89999"
       },
       "page_id": "154631861234059",
       "page_name": "吳秉叡",
       "region_distribution": [
         {
-          "percentage": "0.468561",
+          "percentage": "0.458166",
           "region": "Taipei"
         },
         {
-          "percentage": "0.531439",
+          "percentage": "0.541834",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "9000",
-        "upper_bound": "9999"
+        "lower_bound": "10000",
+        "upper_bound": "14999"
       },
       "ad_id": "839921703130517"
     }
