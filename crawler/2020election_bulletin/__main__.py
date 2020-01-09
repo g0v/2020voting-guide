@@ -48,11 +48,11 @@ def party_candidates():
     df["name"] = df["name"].str.strip()
     df["date_of_birth"] = df["date_of_birth"].apply(ROCtoAD)
     df["age"] = df["date_of_birth"].apply(caculate_age)
-    df["education"] = df["education"].str.replace("、", "\n").str.strip()
+    # df["education"] = df["education"].str.replace("、", "\n").str.strip()
     df["educationConnection"] = "選舉公報"
-    df["experience"] = (
-        df["experience"].str.replace("、", "\n").str.replace("\n ", "\n").str.replace("\n\n", "\n").str.strip()
-    )
+    # df["experience"] = (
+    #     df["experience"].str.replace("、", "\n").str.replace("\n ", "\n").str.replace("\n\n", "\n").str.strip()
+    # )
     df["experienceConnection"] = "選舉公報"
 
     # j = df.to_json(force_ascii=False, orient="records")
@@ -89,7 +89,7 @@ def regional_candidates():
         "政黨": "party",
         "學歷": "education",
         "經歷": "experience",
-        "政見": "politic",
+        "政見\n目前政見已完成，請協助：優化換行位置、刪除多餘的空格": "politic",
         "政見替代圖片": "politic_pic",
         "政見替代圖片檔名": "politic_pic_name",
     }
@@ -113,6 +113,6 @@ def regional_candidates():
 
 
 if __name__ == "__main__":
-    # party_politics()
-    # party_candidates()
+    party_politics()
+    party_candidates()
     regional_candidates()
