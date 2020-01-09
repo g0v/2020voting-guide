@@ -24,6 +24,7 @@ import BasicInfoTab from './BasicInfoTab';
 import CandidateList from './CandidateList';
 import Nav from './Nav';
 import NewParty from './NewParty';
+import PassPerformanceTab from './PassPerformanceTab';
 import { Candidate, Position } from './types';
 
 const currentParties = ['民主進步黨', '中國國民黨', '時代力量', '親民黨'];
@@ -171,8 +172,8 @@ const Party = ({
                 >
                     <Tab value={0} label="不分區名單" />
                     {isCurrentParty && <Tab value={1} label="議題法案" />}
-                    {/* <Tab label="過去表現" /> */}
-                    <Tab value={2} label="基本資料" />
+                    <Tab value={2} label="立院表現" />
+                    <Tab value={3} label="基本資料" />
                 </Tabs>
             </Box>
             <Box
@@ -205,8 +206,8 @@ const Party = ({
                         </IssueBillTab>
                     )
                 ) : null}
-                {/* {tab === 2 && <Progressing />} */}
-                {tab === 2 && (
+                {tab === 2 && <PassPerformanceTab name={party} />}
+                {tab === 3 && (
                     <BasicInfoTab
                         party={party}
                         lastPolitics={lastPolitics}
