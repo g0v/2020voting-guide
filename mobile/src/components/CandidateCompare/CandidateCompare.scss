@@ -15,7 +15,10 @@ body.body-page-candidate-compare{
 }
 
 .page-candidate-compare{
-  
+  .btn-link{
+    position: absolute;
+    bottom: 40px;
+  }
   .page-candidate-compare-nav{
     position: -webkit-sticky;
     position: sticky;
@@ -80,9 +83,9 @@ body.body-page-candidate-compare{
         &:before{
           content: '';
           display: inline-block;
-          width: 15px;
-          height: 15px;
-          margin-right: 4px;
+          width: 12px;
+          height: 12px;
+          margin-right: 8px;
           background-color:#42B72A;
           border-radius: 50%;
         }
@@ -107,6 +110,7 @@ body.body-page-candidate-compare{
     }
     .candidate-compare-col{
       position: relative;
+      padding-bottom: 40px;
       min-height: 1px;
       
       &.style-flex{
@@ -118,7 +122,7 @@ body.body-page-candidate-compare{
       }
 
       &.candidate-compare-issue-bill{
-        height: 250px;
+        height: 450px;
         .candidate-compare-issue-bill-list + .candidate-compare-issue-bill-list{
           margin-top: 10px;
         }
@@ -140,11 +144,7 @@ body.body-page-candidate-compare{
         }
       }
       &.candidate-compare-political{
-        height: 240px;
-        h3,
-        h5{
-          @include textOverflow(7)
-        }
+        height: 500px;
       }
     }
   }

@@ -24,10 +24,16 @@
 .font-thumb{
   font-size: 14px;
 }
-@for $i from 1 through 8 {
+@for $i from 1 through 10 {
   .text-overflow-#{$i}{
     @include textOverflow($i)
   }
+}
+.text-overflow-15{
+  @include textOverflow(15)
+}
+.text-overflow-20{
+  @include textOverflow(20)
 }
 .font-weight-500{
   font-weight: 500;

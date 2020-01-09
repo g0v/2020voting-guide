@@ -49,7 +49,7 @@ const CandidateCompareIssue = ({ list, type }: CandidateCompareIssueProp) => {
                 );
             });
         },
-        (_: any) => take(_, 3)
+        (_: any) => take(_, 8)
     );
     const label =
         type === 'person' ? (
@@ -101,11 +101,9 @@ export default function CandidateCompareCardIssueBill({
                             type="party"
                         />
                     </Typography>
-                    <div className="mt-auto">
-                        <a href={candidateUrl} className="btn btn-rounded">
-                            詳細議題法案
-                        </a>
-                    </div>
+                    <a href={candidateUrl} className="btn btn-rounded btn-link">
+                        詳細議題法案
+                    </a>
                 </>
             );
         } else {

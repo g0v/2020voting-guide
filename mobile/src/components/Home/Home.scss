@@ -166,9 +166,11 @@ $spanHeight: 36px;
 }
 
 .current-legislator {
+    background: #F9F9F9;
     text-align: center;
-    margin-top: 30%;
-    margin-bottom: 15%;
+    padding-top: 30%;
+    padding-bottom: 30%;
+    margin-top: -40px;
     .current-legislator-title__highlight {
         color: #ec502b;
     }
@@ -185,7 +187,8 @@ $spanHeight: 36px;
         }
     }
     @include mediaMedium {
-        margin-top: 12%;
+        padding-top: 12%;
+        padding-bottom: 15%;
         .butten-area {
             margin-top: 4%;
             margin-bottom: 3%;

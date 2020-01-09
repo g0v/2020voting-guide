@@ -50,12 +50,8 @@ const PartiesCompareCardHeader = ({
                 <CloseIcon />
             </IconButton>
             <Avatar src={partyData.logo} className={classes.photo} />
-            <div>
-                <Typography variant="h3" color="textSecondary">
-                    {name}
-                </Typography>
-            </div>
-            <div>
+            <div className="h3 mb-2 color-black">{name}</div>
+            <div className="h4 mb-1">
                 <div
                     className={clsx('candidate-compare-header-current', {
                         'style-gray': isElectedPersonZero
@@ -68,7 +64,7 @@ const PartiesCompareCardHeader = ({
                 </span>
             </div>
             {!isElectedPersonZero && (
-                <div className="font-thumb color-gray">
+                <div className="font-thumb color-gray mb-1">
                     {electedPersonNum} 席不分區、{regionalLegislatorsNum} 席區域
                 </div>
             )}

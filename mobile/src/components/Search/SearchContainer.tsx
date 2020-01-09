@@ -8,7 +8,7 @@ import { useChangeInput } from './functions/useChangeInput';
 import filterSearchResults from './functions/filterSearchResults';
 import { useFnsByKeyCode } from './functions/useFnsByKeyCode';
 
-const useStyles = makeStyles((theme: Theme) =>
+const useStyles = makeStyles(() =>
     createStyles({
         root: {
             // padding: theme.spacing(2)
@@ -37,11 +37,7 @@ const SearchContainer = () => {
 
     return (
         <Box className={classes.root}>
-            <SearchInput
-                searchInput={searchInput}
-                changeInput={changeInput}
-                searchFn={handleSearch}
-            />
+            <SearchInput searchInput={searchInput} changeInput={changeInput} searchFn={handleSearch} />
             <SearchResults {...fetchResult} />
         </Box>
     );

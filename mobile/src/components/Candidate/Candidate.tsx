@@ -8,7 +8,6 @@ import county_constituency from '../../data/county_constituency.json';
 import partyCandidate from '../../data/party_candidates_integrated.json';
 import useTimeout from '../../hooks/useTimeout';
 import { gaEvent } from '../../utils';
-import Alert from '../Alert';
 import { Bill } from '../IssueBill';
 import IssueBillTab from '../IssueBillTab';
 import BasicInfoTab from './BasicInfoTab';
@@ -79,23 +78,24 @@ interface CandidatePage {
     };
 }
 
-const IssueBillTabAlert: FunctionComponent<{
-    isCurrentLegislator: boolean;
+const IssueBillNoInfo: FunctionComponent<{
     name: string;
-}> = ({ name, isCurrentLegislator }) => (
-    <Alert>
-        <Typography variant="h5">
-            {isCurrentLegislator
-                ? `以下是 2016-2019 年${name}候選人在立法院實際提出的法案。`
-                : `${name}候選人不是上屆立委，以下是他所屬政黨的黨團 2016-2019 年在立法院實際提出的法案`}
+}> = ({ name }: { name: string }) => (
+    <Box py={2} textAlign="center">
+        <img width="150" height="150" src="/img/doll/new_candidate.svg" alt="2020/1/11,台灣總選大選投票日" />
+        <Box
+            py={2}
+            style={{
+                fontWeight: 500,
+                color: '#000'
+            }}
+        >
+            原來{name}不是上屆立委阿！
+        </Box>
+        <Typography variant="h5" color="textSecondary">
+            你可以參考他的政黨在 2016-2019 年在實際提出的法案。
         </Typography>
-        <Typography variant="h5">
-            {`資料來源: `}
-            <Link href="https://lis.ly.gov.tw/billtpc/billtp">
-                立法動態資訊網法案追蹤平台
-            </Link>
-        </Typography>
-    </Alert>
+    </Box>
 );
 
 const caucusParty = ['民主進步黨', '中國國民黨', '親民黨', '時代力量'];
@@ -131,14 +131,11 @@ const CandidatePage = ({ match }: CandidatePage) => {
     const [candidate, setCandidate] = useState<CandidateType>(CandidateDefault);
     const [bills, setBills] = useState<Bill[]>([]);
     const cecCandidate = cecCandidates.find(
-        candidate =>
-            candidate.name === name && candidate.constituency == constituency
+        candidate => candidate.name === name && candidate.constituency === constituency
     );
     const isRegional = constituency !== undefined;
 
-    const billsURL = isRegional
-        ? `/api/bills/${constituency}/${name}`
-        : `/api/nonregional/bills/${party}/${name}`;
+    const billsURL = isRegional ? `/api/bills/${constituency}/${name}` : `/api/nonregional/bills/${party}/${name}`;
 
     useTimeout(
         () => {
@@ -158,12 +155,16 @@ const CandidatePage = ({ match }: CandidatePage) => {
                 [key: string]: CandidateType[];
             })[party];
 
-            const candidate = candidateList.find(
-                candidate => candidate.name === name
-            );
+            const candidate = candidateList.find(candidate => candidate.name === name);
             setCandidate(candidate || CandidateDefault);
         }
     }, []);
+
+    useEffect(() => {
+        if (candidate.name && !candidate.currentLegislator && !caucusParty.includes(candidate.party)) {
+            setTab('競選戰力');
+        }
+    }, [candidate]);
 
     useEffect(() => {
         fetch(billsURL)
@@ -171,13 +172,9 @@ const CandidatePage = ({ match }: CandidatePage) => {
             .then(setBills);
     }, []);
 
-    const county_list = county_constituency.filter(county =>
-        county.area.includes(constituency || '')
-    );
+    const county_list = county_constituency.filter(county => county.area.includes(constituency || ''));
     const county = county_list.length ? county_list[0].name : '';
-    const previousLink = isRegional
-        ? `/regional/${county}/${constituency}`
-        : `/party/${party}`;
+    const previousLink = isRegional ? `/regional/${county}/${constituency}` : `/party/${party}`;
 
     return (
         <Box pt={isDesktop ? '48px' : '60px'}>
@@ -196,29 +193,16 @@ const CandidatePage = ({ match }: CandidatePage) => {
                     <KeyboardArrowLeft fontSize="large" />
                 </Link>
                 <Box>
-                    <Typography
-                        variant="h3"
-                        display="inline"
-                        color="textPrimary"
-                    >
+                    <Typography variant="h3" display="inline" color="textPrimary">
                         {`${name} `}
                     </Typography>
-                    <Typography
-                        variant="h5"
-                        display="inline"
-                        color="textSecondary"
-                    >
+                    <Typography variant="h5" display="inline" color="textSecondary">
                         {constituency}
                     </Typography>
                 </Box>
             </Box>
             <Nav {...candidate} padding={desktopPadding} />
-            <Box
-                zIndex={499}
-                position="sticky"
-                bgcolor="white"
-                top={isDesktop ? '112px' : '100px'}
-            >
+            <Box zIndex={499} position="sticky" bgcolor="white" top={isDesktop ? '112px' : '100px'}>
                 <Tabs
                     style={desktopPadding}
                     value={tab}
@@ -226,59 +210,34 @@ const CandidatePage = ({ match }: CandidatePage) => {
                     textColor="primary"
                     onChange={switchTab}
                 >
-                    <Tab label="議題法案" value="議題法案" />
+                    {candidate.name && !candidate.currentLegislator && !caucusParty.includes(candidate.party) ? null : (
+                        <Tab label="議題法案" value="議題法案" />
+                    )}
                     <Tab label="競選戰力" value="競選戰力" />
-                    {name === '蔡其昌' ? null : (
+                    {name === '蔡其昌' || (candidate.name && !candidate.currentLegislator) ? null : (
                         <Tab label="立院表現" value="立院表現" />
                     )}
                     <Tab label="經歷政見" value="經歷政見" />
                 </Tabs>
             </Box>
             {tab === '議題法案' ? (
-                candidate.currentLegislator ||
-                caucusParty.includes(candidate.party) ? (
+                candidate.currentLegislator || caucusParty.includes(candidate.party) ? (
                     <>
-                        <IssueBillTab
-                            bills={bills}
-                            padding={desktopPadding}
-                            isDesktop={isDesktop}
-                        >
+                        <IssueBillTab bills={bills} padding={desktopPadding} isDesktop={isDesktop}>
                             {name === '蔡其昌' ? (
-                                <Box
-                                    bgcolor="##E5E5E5"
-                                    height={237}
-                                    textAlign="center"
-                                    py={3}
-                                    px={1}
-                                >
-                                    <img
-                                        width="150"
-                                        height="150"
-                                        src="/img/doll/chairman.svg"
-                                        alt="副院長"
-                                    />
+                                <Box bgcolor="##E5E5E5" height={237} textAlign="center" py={3} px={1}>
+                                    <img width="150" height="150" src="/img/doll/chairman.svg" alt="副院長" />
                                     <Box py={1}>
-                                        <Typography
-                                            variant="h4"
-                                            color="textPrimary"
-                                        >
+                                        <Typography variant="h4" color="textPrimary">
                                             蔡其昌是上屆立法院副院長
                                         </Typography>
                                     </Box>
-                                    <Typography
-                                        variant="h5"
-                                        color="textSecondary"
-                                    >
+                                    <Typography variant="h5" color="textSecondary">
                                         立法院長、副院長的工作是依法監督管理立法院委員會，組織立法院決策程序與行政議事，並負責召集院會
                                     </Typography>
                                 </Box>
                             ) : (
-                                <IssueBillTabAlert
-                                    name={candidate.name}
-                                    isCurrentLegislator={
-                                        candidate.currentLegislator
-                                    }
-                                />
+                                <IssueBillNoInfo name={candidate.name} />
                             )}
                         </IssueBillTab>
                     </>
@@ -289,10 +248,7 @@ const CandidatePage = ({ match }: CandidatePage) => {
                 <StrengthTab {...candidate} padding={desktopPadding} />
             ) : tab === '立院表現' ? (
                 candidate.currentLegislator ? (
-                    <PassPerformanceTab
-                        {...candidate}
-                        padding={desktopPadding}
-                    />
+                    <PassPerformanceTab {...candidate} padding={desktopPadding} />
                 ) : (
                     <NoInfoTab name={candidate.name} from="passPerformance" />
                 )
