@@ -4,8 +4,10 @@
 
 ## Usage
 
-以下為 "評鑑結果" 以及 "黨團幹部" 之 json 檔產生方式，"言行脫序"與 "資訊揭露" 為手動下載為 csv 後直接轉 json，並未有轉換 script
 
+### Excel Parser
+
+以下為 "評鑑結果" 以及 "黨團幹部" 之 json 檔產生方式，"言行脫序"與 "資訊揭露" 為手動下載為 csv 後直接轉 json，並未有轉換 script
 
 產生 評鑑結果 json 檔
 ```lan=shell
@@ -21,6 +23,21 @@ python group_info.py
 ```lan=shell
 python data_extract.py
 ```
+
+### Web Parser
+產生 官網 公督盟數據
+
+產生 優秀立委, 待觀察立委次數 (ccw_count.json) 以及 各會期各各立委參與率(ccw_full.json)
+```
+python web_parser/__main__.py
+```
+
+### 合併法案參與率 與 優秀立委次數資訊
+產生最終 個人公督盟數據 以及 政黨公督盟數據
+```
+python merge_excel_web/__main__.py
+```
+
 
 ## Format
 
