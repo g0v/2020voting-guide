@@ -86,16 +86,30 @@ const ListAlert: FunctionComponent<{
     </Box>
 );
 
-const Item: FunctionComponent<{ candidate: Candidate }> = ({ candidate }) => {
+const Item: FunctionComponent<{ candidate: Candidate; isLink?: boolean }> = ({
+    candidate,
+    isLink = false
+}) => {
     const classes = useStyles();
+    const ItemComp = isLink
+        ? ({ children }: { children: React.ReactElement }) => (
+              <ListItem
+                  divider
+                  disableGutters
+                  button
+                  component="a"
+                  href={`/party/${candidate.party}/candidate/${candidate.name}`}
+              >
+                  {children}
+              </ListItem>
+          )
+        : ({ children }: { children: React.ReactElement }) => (
+              <ListItem divider disableGutters>
+                  {children}
+              </ListItem>
+          );
     return (
-        <ListItem
-            divider
-            disableGutters
-            component="a"
-            button
-            href={`/party/${candidate.party}/candidate/${candidate.name}`}
-        >
+        <ItemComp>
             <Box width="100%" display="flex" alignItems="center">
                 <Box m={1}>
                     <Avatar className={classes.avatar} src={candidate.photo}>
@@ -114,7 +128,7 @@ const Item: FunctionComponent<{ candidate: Candidate }> = ({ candidate }) => {
                     />
                 </Box>
             </Box>
-        </ListItem>
+        </ItemComp>
     );
 };
 
@@ -178,7 +192,7 @@ const CandidateList: FunctionComponent<{
                     {candidates.map((c, i) => {
                         return (
                             <>
-                                <Item candidate={c} />
+                                <Item isLink candidate={c} />
                                 {electedPersonNum !== 0 &&
                                     i + 1 === electedPersonNum && (
                                         <ElectedLine num={electedPersonNum} />
