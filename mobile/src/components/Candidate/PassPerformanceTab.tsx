@@ -35,7 +35,15 @@ function getCCW(name: string) {
     if (isKeyof(ccw, name)) {
         return ccw[name];
     } else {
-        return ccw['null'];
+        return {
+            engagementList: {},
+            engagementCan: 0,
+            engagementDid: 0,
+            engagementRate: 0,
+            excellentLegislatorNum: 0,
+            observedLegislatorNum: 0,
+            evaluationCount: 0
+        };
     }
 }
 
