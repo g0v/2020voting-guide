@@ -96,7 +96,7 @@
       "ad_creative_link_description": "新桃園 新世代 留學英國 社會福利與公共政策的雙碩士\n一個討論新桃園 美好未來與公共議題的開放園地",
       "ad_creative_link_title": "彭俊豪",
       "ad_delivery_start_time": "2019-12-11T06:36:31+0000",
-      "ad_delivery_stop_time": "2020-01-10T10:00:37+0000",
+      "ad_delivery_stop_time": "2020-01-10T14:00:37+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -206,7 +206,7 @@
       "ad_creative_link_description": "新桃園 新世代 留學英國 社會福利與公共政策的雙碩士\n一個討論新桃園 美好未來與公共議題的開放園地",
       "ad_creative_link_title": "彭俊豪",
       "ad_delivery_start_time": "2019-12-13T01:59:28+0000",
-      "ad_delivery_stop_time": "2020-01-10T10:00:37+0000",
+      "ad_delivery_stop_time": "2020-01-10T14:00:37+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -301,7 +301,7 @@
       "ad_creative_link_description": "新桃園 新世代 留學英國 社會福利與公共政策的雙碩士\n一個討論新桃園 美好未來與公共議題的開放園地",
       "ad_creative_link_title": "彭俊豪",
       "ad_delivery_start_time": "2019-12-18T03:23:38+0000",
-      "ad_delivery_stop_time": "2020-01-10T10:00:37+0000",
+      "ad_delivery_stop_time": "2020-01-10T14:00:37+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -386,7 +386,7 @@
       "ad_creative_link_description": "新桃園 新世代 留學英國 社會福利與公共政策的雙碩士\n一個討論新桃園 美好未來與公共議題的開放園地",
       "ad_creative_link_title": "彭俊豪",
       "ad_delivery_start_time": "2019-12-16T10:24:09+0000",
-      "ad_delivery_stop_time": "2020-01-10T10:00:37+0000",
+      "ad_delivery_stop_time": "2020-01-10T14:00:37+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -553,7 +553,7 @@
       "ad_creative_link_description": "新桃園 新世代 留學英國 社會福利與公共政策的雙碩士\n一個討論新桃園 美好未來與公共議題的開放園地",
       "ad_creative_link_title": "彭俊豪",
       "ad_delivery_start_time": "2019-12-24T09:32:57+0000",
-      "ad_delivery_stop_time": "2020-01-10T10:00:37+0000",
+      "ad_delivery_stop_time": "2020-01-10T14:00:37+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -654,113 +654,113 @@
       "ad_creative_link_description": "新桃園 新世代 留學英國 社會福利與公共政策的雙碩士\n一個討論新桃園 美好未來與公共議題的開放園地",
       "ad_creative_link_title": "彭俊豪",
       "ad_delivery_start_time": "2019-12-31T01:20:26+0000",
-      "ad_delivery_stop_time": "2020-01-10T10:00:37+0000",
+      "ad_delivery_stop_time": "2020-01-10T14:00:37+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.200254",
+          "percentage": "0.194725",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.070473",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.052863",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.170828",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.096969",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.151232",
+          "percentage": "0.15764",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.061489",
+          "percentage": "0.06153",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.086846",
+          "percentage": "0.09015",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.094728",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.071775",
+          "percentage": "0.08229",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.033755",
-          "age": "18-24",
+          "percentage": "0.049984",
+          "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.000553",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000391",
+          "percentage": "0.1598",
           "age": "45-54",
-          "gender": "unknown"
+          "gender": "male"
         },
         {
-          "percentage": "0.001009",
+          "percentage": "0.068613",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.036883",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.001152",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001367",
+          "percentage": "0.000518",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001411",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000195",
+          "percentage": "0.000173",
           "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000403",
+          "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "聲捷 賴",
       "impressions": {
-        "lower_bound": "90000",
-        "upper_bound": "99999"
+        "lower_bound": "100000",
+        "upper_bound": "124999"
       },
       "page_id": "485136741630414",
       "page_name": "彭俊豪",
       "region_distribution": [
         {
-          "percentage": "0.228182",
+          "percentage": "0.232088",
           "region": "Taipei"
         },
         {
-          "percentage": "0.5386",
+          "percentage": "0.54123",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.226743",
+          "percentage": "0.220346",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.006476",
+          "percentage": "0.006335",
           "region": "Hsinchu"
         }
       ],
       "spend": {
-        "lower_bound": "15000",
-        "upper_bound": "19999"
+        "lower_bound": "20000",
+        "upper_bound": "24999"
       },
       "ad_id": "1072892459716178"
     }
@@ -781,7 +781,7 @@
       "ad_creative_link_description": "新桃園 新世代 留學英國 社會福利與公共政策的雙碩士\n一個討論新桃園 美好未來與公共議題的開放園地",
       "ad_creative_link_title": "彭俊豪",
       "ad_delivery_start_time": "2019-12-10T10:00:37+0000",
-      "ad_delivery_stop_time": "2020-01-10T10:00:37+0000",
+      "ad_delivery_stop_time": "2020-01-10T14:00:37+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {

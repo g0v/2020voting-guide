@@ -1951,102 +1951,102 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.065865",
+          "percentage": "0.239704",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.237119",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.065987",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.238824",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.161368",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.205627",
+          "percentage": "0.208903",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.241005",
-          "age": "45-54",
-          "gender": "male"
+          "percentage": "0.160522",
+          "age": "35-44",
+          "gender": "female"
         },
         {
-          "percentage": "0.017467",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.054409",
+          "percentage": "0.05476",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.014412",
+          "percentage": "0.017427",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.014523",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.000443",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000493",
+          "percentage": "0.000498",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "2.5E-5",
+          "percentage": "0.000462",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "2.4E-5",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "6.2E-5",
+          "percentage": "7.1E-5",
           "age": "55-64",
           "gender": "unknown"
         }
       ],
       "funding_entity": "蔡英文 Tsai Ing-wen",
       "impressions": {
-        "lower_bound": "450000",
-        "upper_bound": "499999"
+        "lower_bound": "500000",
+        "upper_bound": "599999"
       },
       "page_id": "46251501064",
       "page_name": "蔡英文 Tsai Ing-wen",
       "region_distribution": [
         {
-          "percentage": "0.250907",
+          "percentage": "0.248533",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.305043",
+          "percentage": "0.302791",
           "region": "Taichung"
         },
         {
-          "percentage": "0.316641",
+          "percentage": "0.321269",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.022616",
+          "percentage": "0.02291",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.050865",
+          "percentage": "0.050923",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.053927",
+          "percentage": "0.053574",
           "region": "Nantou"
         }
       ],
       "spend": {
-        "lower_bound": "20000",
-        "upper_bound": "24999"
+        "lower_bound": "25000",
+        "upper_bound": "29999"
       },
       "ad_id": "634648230609903"
     }

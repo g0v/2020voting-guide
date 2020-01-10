@@ -446,132 +446,132 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.095019",
+          "percentage": "0.09581",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.06835",
+          "percentage": "0.068743",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "9.4E-5",
+          "percentage": "8.2E-5",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000485",
+          "percentage": "0.000444",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001132",
+          "percentage": "0.001193",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001388",
+          "percentage": "0.001357",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000458",
+          "percentage": "0.00048",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.02516",
+          "percentage": "0.025102",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.059631",
+          "percentage": "0.061538",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.207342",
+          "percentage": "0.211996",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.046506",
+          "percentage": "0.046765",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.160391",
+          "percentage": "0.160623",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.03559",
+          "percentage": "0.035185",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.044633",
+          "percentage": "0.043244",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.170997",
+          "percentage": "0.166191",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.062313",
+          "percentage": "0.061327",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.020416",
+          "percentage": "0.019815",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "9.4E-5",
+          "percentage": "0.000105",
           "age": "65+",
           "gender": "unknown"
         }
       ],
       "funding_entity": "辰梁",
       "impressions": {
-        "lower_bound": "70000",
-        "upper_bound": "79999"
+        "lower_bound": "80000",
+        "upper_bound": "89999"
       },
       "page_id": "123607365704240",
       "page_name": "李縉穎",
       "region_distribution": [
         {
-          "percentage": "0.472538",
+          "percentage": "0.471859",
           "region": "Taipei"
         },
         {
-          "percentage": "0.256426",
+          "percentage": "0.257144",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.195887",
+          "percentage": "0.19407",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.004007",
+          "percentage": "0.004178",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.02753",
+          "percentage": "0.028377",
           "region": "Yilan"
         },
         {
-          "percentage": "0.043612",
+          "percentage": "0.044372",
           "region": "Keelung City"
         }
       ],
       "spend": {
-        "lower_bound": "2000",
-        "upper_bound": "2499"
+        "lower_bound": "2500",
+        "upper_bound": "2999"
       },
       "ad_id": "2570502216503037"
     }

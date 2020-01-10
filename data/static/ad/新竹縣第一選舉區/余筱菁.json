@@ -3056,142 +3056,142 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.328882",
+          "percentage": "0.209358",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.132653",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.315822",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.123497",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.029309",
+          "percentage": "0.034104",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.023658",
+          "percentage": "0.025607",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.213308",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.186437",
+          "percentage": "0.18154",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.050585",
+          "percentage": "0.052572",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.041166",
+          "percentage": "0.045045",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.000997",
+          "percentage": "0.001125",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001274",
+          "percentage": "0.001242",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000609",
+          "percentage": "0.000466",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000277",
+          "percentage": "0.000466",
           "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "筱菁 余",
       "impressions": {
-        "lower_bound": "20000",
-        "upper_bound": "24999"
+        "lower_bound": "35000",
+        "upper_bound": "39999"
       },
       "page_id": "2013924568826126",
       "page_name": "余筱菁 客家好妹仔",
       "region_distribution": [
         {
-          "percentage": "0.186394",
+          "percentage": "0.182673",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.16572",
+          "percentage": "0.176318",
           "region": "Taipei"
         },
         {
-          "percentage": "0.099179",
+          "percentage": "0.096378",
           "region": "Tainan"
         },
         {
-          "percentage": "0.095926",
+          "percentage": "0.095883",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.155797",
+          "percentage": "0.145765",
           "region": "Taichung"
         },
         {
-          "percentage": "0.068692",
+          "percentage": "0.072749",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.043001",
+          "percentage": "0.041397",
           "region": "Changhua"
         },
         {
-          "percentage": "0.018358",
+          "percentage": "0.018644",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.009758",
+          "percentage": "0.010083",
           "region": "Hualien"
         },
         {
-          "percentage": "0.012239",
+          "percentage": "0.012252",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.013782",
+          "percentage": "0.013431",
           "region": "Nantou"
         },
         {
-          "percentage": "0.053696",
+          "percentage": "0.056731",
           "region": "Pingtung"
         },
         {
-          "percentage": "0.009096",
+          "percentage": "0.00936",
           "region": "Yilan"
         },
         {
-          "percentage": "0.032968",
+          "percentage": "0.031961",
           "region": "Yunlin"
         },
         {
-          "percentage": "0.012459",
+          "percentage": "0.013812",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.022934",
+          "percentage": "0.022563",
           "region": "Hsinchu City"
         }
       ],
       "spend": {
-        "lower_bound": "2500",
-        "upper_bound": "2999"
+        "lower_bound": "4500",
+        "upper_bound": "4999"
       },
       "ad_id": "508113793140660"
     }

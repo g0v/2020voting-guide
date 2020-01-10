@@ -3607,114 +3607,114 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000225",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.079913",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000113",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000238",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000326",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.004082",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.107849",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.094638",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.251309",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "3.8E-5",
+          "percentage": "3.4E-5",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.124602",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.049848",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.224036",
-          "age": "45-54",
+          "percentage": "0.019825",
+          "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.009917",
+          "percentage": "0.000331",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000228",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00024",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.004785",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.005173",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000343",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.012128",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.029388",
+          "percentage": "0.243365",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.031246",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.004458",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.018682",
-          "age": "18-24",
+          "percentage": "0.098773",
+          "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.000338",
-          "age": "35-44",
+          "percentage": "0.052236",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.220273",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.078822",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.126388",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.105706",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000103",
+          "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "志楷魯",
       "impressions": {
-        "lower_bound": "150000",
-        "upper_bound": "174999"
+        "lower_bound": "175000",
+        "upper_bound": "199999"
       },
       "page_id": "157793094819088",
       "page_name": "魯明哲",
       "region_distribution": [
         {
-          "percentage": "0.95243",
+          "percentage": "0.951275",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.04604",
+          "percentage": "0.047033",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.00153",
+          "percentage": "0.001692",
           "region": "Hsinchu"
         }
       ],

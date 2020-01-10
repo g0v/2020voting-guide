@@ -8572,50 +8572,50 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.297582",
+          "percentage": "0.293695",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.454066",
+          "percentage": "0.444932",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.065934",
+          "percentage": "0.067837",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.014505",
+          "percentage": "0.018356",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.133187",
+          "percentage": "0.136872",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.033846",
+          "percentage": "0.03751",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.00044",
+          "percentage": "0.000399",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00044",
+          "percentage": "0.000399",
           "age": "65+",
           "gender": "unknown"
         }
       ],
       "funding_entity": "玉玲 呂",
       "impressions": {
-        "lower_bound": "2000",
-        "upper_bound": "2999"
+        "lower_bound": "3000",
+        "upper_bound": "3999"
       },
       "page_id": "385459414829351",
       "page_name": "看見幸福 呂玉玲",
@@ -8626,8 +8626,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "200",
-        "upper_bound": "299"
+        "lower_bound": "300",
+        "upper_bound": "399"
       },
       "ad_id": "457874541559642"
     }

@@ -7232,77 +7232,77 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "7.0E-5",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000575",
+          "percentage": "0.000553",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000174",
+          "percentage": "0.000179",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.14006",
+          "percentage": "6.5E-5",
+          "age": "18-24",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.136714",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.102073",
+          "percentage": "0.100021",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.247346",
+          "percentage": "0.246437",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.03335",
+          "percentage": "0.032485",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.082617",
+          "percentage": "0.082454",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.192884",
+          "percentage": "0.198352",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.063772",
+          "percentage": "0.066123",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.010722",
+          "percentage": "0.0104",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.103293",
+          "percentage": "0.102719",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.021896",
+          "percentage": "0.022312",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.000418",
+          "percentage": "0.000406",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00075",
+          "percentage": "0.00078",
           "age": "35-44",
           "gender": "unknown"
         }
@@ -7316,15 +7316,15 @@
       "page_name": "洪孟楷",
       "region_distribution": [
         {
-          "percentage": "0.00879",
+          "percentage": "0.009181",
           "region": "Taipei"
         },
         {
-          "percentage": "0.243852",
+          "percentage": "0.247634",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.747358",
+          "percentage": "0.743185",
           "region": "New Taipei City"
         }
       ],

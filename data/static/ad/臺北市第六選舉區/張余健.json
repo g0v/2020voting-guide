@@ -2322,77 +2322,77 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.00092",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000433",
+          "percentage": "0.000529",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001569",
-          "age": "35-44",
+          "percentage": "0.000952",
+          "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00092",
+          "percentage": "0.000899",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.145184",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.169697",
-          "age": "45-54",
+          "percentage": "0.159097",
+          "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.082684",
+          "percentage": "0.082853",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.054437",
+          "percentage": "0.054777",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.160335",
+          "percentage": "0.015651",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.161846",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.160011",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.069805",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.015693",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.056331",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.081006",
+          "percentage": "0.080051",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.000974",
+          "percentage": "0.146196",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.070005",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.168403",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.056099",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.001692",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000952",
           "age": "65+",
           "gender": "unknown"
         }
@@ -3647,74 +3647,74 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000363",
+          "percentage": "0.00035",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000725",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000544",
+          "percentage": "0.167512",
           "age": "65+",
-          "gender": "unknown"
+          "gender": "male"
         },
         {
-          "percentage": "0.001088",
-          "age": "55-64",
-          "gender": "unknown"
+          "percentage": "0.183773",
+          "age": "45-54",
+          "gender": "male"
         },
         {
-          "percentage": "0.326867",
+          "percentage": "0.323833",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.057107",
-          "age": "35-44",
-          "gender": "male"
+          "percentage": "0.102291",
+          "age": "65+",
+          "gender": "female"
         },
         {
-          "percentage": "0.109681",
+          "percentage": "0.022382",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.111208",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.020667",
+          "percentage": "0.003847",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.057353",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.020108",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.168419",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.183104",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.100798",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.004895",
+          "percentage": "0.005071",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.021755",
+          "percentage": "0.000699",
           "age": "45-54",
-          "gender": "female"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.003988",
-          "age": "25-34",
-          "gender": "female"
+          "percentage": "0.001049",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000525",
+          "age": "65+",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "余健張",
@@ -3726,17 +3726,17 @@
       "page_name": "50萬選立委-張余健-大安區立委候選人服務處",
       "region_distribution": [
         {
-          "percentage": "0.987192",
+          "percentage": "0.987247",
           "region": "Taipei"
         },
         {
-          "percentage": "0.012808",
+          "percentage": "0.012753",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "600",
-        "upper_bound": "699"
+        "lower_bound": "700",
+        "upper_bound": "799"
       },
       "ad_id": "443865136561630"
     }
@@ -5171,70 +5171,70 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000954",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000477",
+          "percentage": "0.000454",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00175",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.001113",
+          "percentage": "0.001059",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.180372",
+          "percentage": "0.177485",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.20439",
+          "percentage": "0.205023",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.204708",
+          "percentage": "0.206083",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.159695",
+          "percentage": "0.093055",
           "age": "65+",
-          "gender": "male"
+          "gender": "female"
         },
         {
-          "percentage": "0.039446",
+          "percentage": "0.037525",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.041005",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.036424",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.093526",
+          "percentage": "0.158723",
           "age": "65+",
-          "gender": "female"
+          "gender": "male"
         },
         {
-          "percentage": "0.077143",
+          "percentage": "0.076865",
           "age": "55-64",
           "gender": "female"
+        },
+        {
+          "percentage": "0.000908",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001816",
+          "age": "35-44",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "余健張",
       "impressions": {
-        "lower_bound": "7000",
-        "upper_bound": "7999"
+        "lower_bound": "8000",
+        "upper_bound": "8999"
       },
       "page_id": "103252787739139",
       "page_name": "50萬選立委-張余健-大安區立委候選人服務處",
@@ -5446,101 +5446,101 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000743",
+          "percentage": "0.000866",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000346",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000693",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000372",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000929",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.076923",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.020624",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.101449",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.107952",
+          "percentage": "0.105801",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.242847",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.044593",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.247677",
+          "percentage": "0.25039",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.068004",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.026756",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.060015",
+          "percentage": "0.059567",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.000743",
+          "percentage": "0.238615",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.078961",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.023896",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.045022",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.067013",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.099048",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.028745",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000693",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000372",
+          "percentage": "0.000346",
           "age": "55-64",
           "gender": "unknown"
         }
       ],
       "funding_entity": "余健張",
       "impressions": {
-        "lower_bound": "7000",
-        "upper_bound": "7999"
+        "lower_bound": "8000",
+        "upper_bound": "8999"
       },
       "page_id": "103252787739139",
       "page_name": "50萬選立委-張余健-大安區立委候選人服務處",
       "region_distribution": [
         {
-          "percentage": "0.934017",
+          "percentage": "0.934438",
           "region": "Taipei"
         },
         {
-          "percentage": "0.065983",
+          "percentage": "0.065562",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "800",
-        "upper_bound": "899"
+        "lower_bound": "900",
+        "upper_bound": "999"
       },
       "ad_id": "964156737317772"
     }
@@ -5852,101 +5852,101 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000565",
+          "percentage": "0.000445",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000282",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.015254",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.168644",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.215819",
+          "percentage": "0.213698",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.090678",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.038136",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.194068",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.166384",
+          "percentage": "0.157216",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.012712",
+          "percentage": "0.178563",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.088503",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.184345",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.016678",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.048023",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.04661",
+          "percentage": "0.050256",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.000282",
+          "percentage": "0.01779",
           "age": "35-44",
-          "gender": "unknown"
+          "gender": "female"
         },
         {
-          "percentage": "0.00113",
+          "percentage": "0.050478",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.039137",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000889",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001412",
+          "percentage": "0.000445",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000445",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001112",
           "age": "65+",
           "gender": "unknown"
         }
       ],
       "funding_entity": "余健張",
       "impressions": {
-        "lower_bound": "4000",
-        "upper_bound": "4999"
+        "lower_bound": "5000",
+        "upper_bound": "5999"
       },
       "page_id": "103252787739139",
       "page_name": "50萬選立委-張余健-大安區立委候選人服務處",
       "region_distribution": [
         {
-          "percentage": "0.932058",
+          "percentage": "0.932045",
           "region": "Taipei"
         },
         {
-          "percentage": "0.067942",
+          "percentage": "0.067955",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "600",
-        "upper_bound": "699"
+        "lower_bound": "800",
+        "upper_bound": "899"
       },
       "ad_id": "1003670796685214"
     }
@@ -5968,67 +5968,67 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000464",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000464",
+          "percentage": "0.000425",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.186165",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.167131",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.037604",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.246054",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.028319",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.194058",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.067781",
+          "percentage": "0.073885",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.016249",
+          "percentage": "0.04034",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.016561",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.013463",
-          "age": "35-44",
+          "percentage": "0.029724",
+          "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.041783",
+          "percentage": "0.045435",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.000464",
+          "percentage": "0.242887",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.185138",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.014437",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.191507",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.157962",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000849",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000849",
           "age": "25-34",
           "gender": "unknown"
         }
@@ -6042,11 +6042,11 @@
       "page_name": "50萬選立委-張余健-大安區立委候選人服務處",
       "region_distribution": [
         {
-          "percentage": "0.898903",
+          "percentage": "0.902566",
           "region": "Taipei"
         },
         {
-          "percentage": "0.101097",
+          "percentage": "0.097434",
           "region": "New Taipei City"
         }
       ],
@@ -6074,80 +6074,80 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000645",
+          "percentage": "0.000597",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000645",
+          "percentage": "0.049821",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.036396",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.231205",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.240752",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.115155",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.170943",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.017005",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.116348",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.014916",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.005967",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000895",
           "age": "65+",
           "gender": "unknown"
-        },
-        {
-          "percentage": "0.229677",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.174194",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.250323",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.112258",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.034839",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.016774",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.117742",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.012903",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.044839",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.005161",
-          "age": "25-34",
-          "gender": "female"
         }
       ],
       "funding_entity": "余健張",
       "impressions": {
-        "lower_bound": "3000",
-        "upper_bound": "3999"
+        "lower_bound": "4000",
+        "upper_bound": "4999"
       },
       "page_id": "103252787739139",
       "page_name": "50萬選立委-張余健-大安區立委候選人服務處",
       "region_distribution": [
         {
-          "percentage": "0.909407",
+          "percentage": "0.910391",
           "region": "Taipei"
         },
         {
-          "percentage": "0.090593",
+          "percentage": "0.089609",
           "region": "New Taipei City"
         }
       ],
@@ -6292,101 +6292,101 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.001032",
+          "percentage": "0.000976",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.148435",
+          "percentage": "0.14804",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.145167",
+          "percentage": "0.142509",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.038356",
+          "percentage": "0.040182",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.140007",
+          "percentage": "0.136815",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.117819",
+          "percentage": "0.118432",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.026488",
+          "percentage": "0.028469",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.088235",
+          "percentage": "0.091589",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.105263",
+          "percentage": "0.103465",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.123151",
+          "percentage": "0.122173",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.062092",
+          "percentage": "0.063446",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.001204",
+          "percentage": "0.001139",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00086",
+          "percentage": "0.000813",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00086",
+          "percentage": "0.000976",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.001032",
+          "percentage": "0.000976",
           "age": "65+",
           "gender": "unknown"
         }
       ],
       "funding_entity": "余健張",
       "impressions": {
-        "lower_bound": "8000",
-        "upper_bound": "8999"
+        "lower_bound": "9000",
+        "upper_bound": "9999"
       },
       "page_id": "103252787739139",
       "page_name": "50萬選立委-張余健-大安區立委候選人服務處",
       "region_distribution": [
         {
-          "percentage": "0.953524",
+          "percentage": "0.954841",
           "region": "Taipei"
         },
         {
-          "percentage": "0.046476",
+          "percentage": "0.045159",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "900",
-        "upper_bound": "999"
+        "lower_bound": "1000",
+        "upper_bound": "1499"
       },
       "ad_id": "471348780192445"
     }

@@ -1903,92 +1903,92 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "7.0E-5",
+          "percentage": "6.8E-5",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.102527",
+          "percentage": "0.104332",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.000773",
+          "percentage": "0.000817",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000598",
+          "percentage": "0.000613",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.063126",
+          "percentage": "0.062443",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.050613",
+          "percentage": "0.049614",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.038311",
+          "percentage": "0.037704",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.072405",
+          "percentage": "0.075782",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.097817",
+          "percentage": "0.095484",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.000211",
-          "age": "45-54",
+          "percentage": "0.000136",
+          "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.077748",
+          "percentage": "0.077313",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.07592",
+          "percentage": "0.075271",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.096587",
+          "percentage": "0.0995",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.137675",
+          "percentage": "0.13802",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.053882",
+          "percentage": "0.053085",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.130611",
+          "percentage": "0.128594",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.000141",
-          "age": "65+",
+          "percentage": "0.000204",
+          "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000984",
+          "percentage": "0.001021",
           "age": "35-44",
           "gender": "unknown"
         }
@@ -2002,11 +2002,11 @@
       "page_name": "吳秉叡",
       "region_distribution": [
         {
-          "percentage": "0.458166",
+          "percentage": "0.455628",
           "region": "Taipei"
         },
         {
-          "percentage": "0.541834",
+          "percentage": "0.544372",
           "region": "New Taipei City"
         }
       ],

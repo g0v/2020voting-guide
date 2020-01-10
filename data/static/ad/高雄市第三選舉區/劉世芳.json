@@ -242,109 +242,109 @@
       "ad_creative_body": "懇請總統支持3號蔡英文，立委栽培8號劉世芳。\n\n今天，世芳前往抽籤號次，抽中發發發的8號。世芳走過左楠每條大街小巷，中央問政不遺餘力，社福與建設有成績，懇求市民朋友立委支持8號劉世芳、總統3號蔡英文，政黨票14號民主進步黨，3張選票建設左楠、守護台灣，8號劉世芳絕對會持續努力拚勝選，絕不辜負鄉親期待。懇請總統支持3號蔡英文，立委栽培8號劉世芳，感謝。\n\n#總統支持3號蔡英文\n#立委栽培8號劉世芳\n#政黨票請支持14號民主進步黨\n\n----------\n\n追蹤世芳的LINE\nhttps://lin.ee/bG0PpfF\n追蹤世芳的臉書\nhttps://reurl.cc/Znvv7a\n\n左營競選總部：左營區文強路52號\n（健身工廠博愛店正後方）\n服務電話：07- 359-0557，07-359-0596\n\n楠梓競選總部：楠梓區三山街1號\n服務電話：07-363-5125、07-363-5135",
       "ad_creation_time": "2019-12-18T07:26:42+0000",
       "ad_delivery_start_time": "2019-12-18T07:26:42+0000",
-      "ad_delivery_stop_time": "2020-01-10T11:59:53+0000",
+      "ad_delivery_stop_time": "2020-01-10T02:00:53+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "3.9E-5",
+          "percentage": "7.5E-5",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "3.9E-5",
+          "percentage": "3.7E-5",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000394",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.035561",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.24239",
+          "percentage": "0.238535",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.023983",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.130863",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.241523",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.06427",
+          "percentage": "0.06349",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.056866",
-          "age": "25-34",
-          "gender": "female"
+          "percentage": "0.238983",
+          "age": "35-44",
+          "gender": "male"
         },
         {
-          "percentage": "0.093687",
+          "percentage": "0.131722",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.092695",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.000866",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.097428",
+          "percentage": "0.099492",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.011539",
+          "percentage": "0.011391",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.000551",
+          "percentage": "0.023416",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.060315",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.037758",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00056",
           "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000448",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.001083",
+          "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "博軒 徐",
       "impressions": {
-        "lower_bound": "60000",
-        "upper_bound": "69999"
+        "lower_bound": "70000",
+        "upper_bound": "79999"
       },
       "page_id": "879078268822395",
       "page_name": "愛信任-劉世芳",
       "region_distribution": [
         {
-          "percentage": "0.66009",
+          "percentage": "0.659435",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.130462",
+          "percentage": "0.131348",
           "region": "Tainan"
         },
         {
-          "percentage": "0.209448",
+          "percentage": "0.209217",
           "region": "Pingtung"
         }
       ],
       "spend": {
-        "lower_bound": "3500",
-        "upper_bound": "3999"
+        "lower_bound": "4000",
+        "upper_bound": "4499"
       },
       "ad_id": "459944814722067"
     }

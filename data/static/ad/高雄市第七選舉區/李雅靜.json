@@ -2388,6 +2388,119 @@
   {
     "選區": "高雄市第七選舉區",
     "參選人": "李雅靜",
+    "AD_ID": "2538521009765937",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-24",
+    "結束日期": "2019-12-28",
+    "廣告內容": "謝謝一群默默年輕人為雅靜錄製影片加油~ 你們的聲音雅靜都聽到了，雅靜帶著大家期望向前進，莫忘初衷～ Youtube影片網址:https://youtu.be/lp5xisLs2vU 邀請好友們幫忙大力轉分享 #鳳山區立委候選人①李雅靜  #鳳山在地ㄟ女兒 #開創鳳山新境界 #實實在在顧鳳山 -------------------- 雅靜邀您加入雅靜的Line@ 邀您共同關心高雄大小事唷 http://line.me/ti/p/%40zba3237j",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/81113534_807895429656664_1172193701468831744_n.jpg?_nc_cat=101&_nc_ohc=mBl1IHRiQ1wAQlK9pURxi8asoAWyLsrTe1eLRsUlfe1SaveXJpqvcDDcg&_nc_ht=scontent-hkg3-1.xx&oh=13e791796e01b963700bb15253a5e8f5&oe=5E9EC8DB",
+    "廣告詳情": {
+      "ad_creative_body": "謝謝一群默默年輕人為雅靜錄製影片加油~\n你們的聲音雅靜都聽到了，雅靜帶著大家期望向前進，莫忘初衷～\nYoutube影片網址:https://youtu.be/lp5xisLs2vU\n邀請好友們幫忙大力轉分享\n#鳳山區立委候選人①李雅靜 \n#鳳山在地ㄟ女兒\n#開創鳳山新境界\n#實實在在顧鳳山\n--------------------\n雅靜邀您加入雅靜的Line@\n邀您共同關心高雄大小事唷 \nhttp://line.me/ti/p/%40zba3237j",
+      "ad_creation_time": "2020-01-09T03:16:45+0000",
+      "ad_creative_link_title": "莫忘初衷，鳳山女兒李雅靜加油",
+      "ad_delivery_start_time": "2020-01-09T03:16:45+0000",
+      "ad_delivery_stop_time": "2020-01-13T03:16:32+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.01458",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.197724",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.035206",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.188834",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.123044",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.103841",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.026671",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.09495",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.061522",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.075391",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.059388",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.017425",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000711",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000356",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000356",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "廣諺 鄒",
+      "impressions": {
+        "lower_bound": "2000",
+        "upper_bound": "2999"
+      },
+      "page_id": "327986657268286",
+      "page_name": "鳳山區立法委員候選人李雅靜",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Kaohsiung"
+        }
+      ],
+      "spend": {
+        "lower_bound": "300",
+        "upper_bound": "399"
+      },
+      "ad_id": "2538521009765937"
+    }
+  },
+  {
+    "選區": "高雄市第七選舉區",
+    "參選人": "李雅靜",
     "AD_ID": "2395112050819131",
     "登錄為政治廣告": "是",
     "開始日期": "2019-12-24",

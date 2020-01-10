@@ -1945,114 +1945,114 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "9.6E-5",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.022915",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "9.6E-5",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000192",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.005369",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000288",
+          "percentage": "0.000278",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000288",
+          "percentage": "0.090943",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.007424",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000186",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.094098",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.054287",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.021158",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.023571",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.248886",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "9.3E-5",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.060226",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.042316",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.221696",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.128526",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000278",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.007191",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.020997",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.053787",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.090508",
+          "percentage": "9.3E-5",
           "age": "55-64",
-          "gender": "female"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.094343",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.042474",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.058773",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.250431",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.224257",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.1279",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "9.6E-5",
+          "percentage": "9.3E-5",
           "age": "18-24",
           "gender": "unknown"
+        },
+        {
+          "percentage": "0.005846",
+          "age": "18-24",
+          "gender": "female"
         }
       ],
       "funding_entity": "Yu Hung Tsai",
       "impressions": {
-        "lower_bound": "25000",
-        "upper_bound": "29999"
+        "lower_bound": "30000",
+        "upper_bound": "34999"
       },
       "page_id": "394926941361071",
       "page_name": "王啟澧",
       "region_distribution": [
         {
-          "percentage": "0.001134",
-          "region": "Tainan"
-        },
-        {
-          "percentage": "0.967583",
+          "percentage": "0.967003",
           "region": "Unknown"
         },
         {
-          "percentage": "0.031282",
+          "percentage": "0.001283",
+          "region": "Tainan"
+        },
+        {
+          "percentage": "0.031714",
           "region": "Chiayi"
         }
       ],

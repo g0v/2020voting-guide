@@ -1987,7 +1987,7 @@
       "ad_creative_body": "期待蔡政府，選前三讀通過反滲透法\n【落實抗中保台】\n#政黨票投10號 @[101909061180405:一邊一國行動黨]",
       "ad_creation_time": "2019-12-26T10:09:10+0000",
       "ad_delivery_start_time": "2019-12-26T10:09:10+0000",
-      "ad_delivery_stop_time": "2020-01-09T15:59:00+0000",
+      "ad_delivery_stop_time": "2020-01-10T11:59:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -2290,7 +2290,7 @@
       "ad_creative_body": "如果討厭國民黨，也不放心民進黨，請投 10 號一邊一國行動黨\n\n#政黨票投10號  一邊一國行動黨",
       "ad_creation_time": "2019-12-25T08:52:41+0000",
       "ad_delivery_start_time": "2019-12-25T08:52:41+0000",
-      "ad_delivery_stop_time": "2020-01-09T15:59:00+0000",
+      "ad_delivery_stop_time": "2020-01-10T11:59:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -2498,79 +2498,84 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000182",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.076503",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.277643",
+          "percentage": "0.276307",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.052498",
-          "age": "65+",
-          "gender": "female"
+          "percentage": "0.189045",
+          "age": "45-54",
+          "gender": "male"
         },
         {
-          "percentage": "0.091174",
+          "percentage": "0.096295",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.193198",
+          "percentage": "0.070024",
           "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.089788",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.054145",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.074928",
+          "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.151309",
+          "percentage": "0.148254",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.06741",
+          "percentage": "0.000146",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000194",
           "age": "45-54",
-          "gender": "female"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.089052",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000909",
+          "percentage": "0.000826",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000121",
-          "age": "65+",
+          "percentage": "4.9E-5",
+          "age": "55-64",
           "gender": "unknown"
         }
       ],
       "funding_entity": "一邊一國行動黨",
       "impressions": {
-        "lower_bound": "30000",
-        "upper_bound": "34999"
+        "lower_bound": "40000",
+        "upper_bound": "44999"
       },
       "page_id": "101909061180405",
       "page_name": "一邊一國行動黨",
       "region_distribution": [
         {
-          "percentage": "0.52204",
+          "percentage": "0.515147",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.33843",
+          "percentage": "0.350997",
           "region": "Tainan"
         },
         {
-          "percentage": "0.139529",
+          "percentage": "0.133856",
           "region": "Pingtung"
         }
       ],
@@ -2598,63 +2603,63 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000209",
+          "percentage": "0.000198",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "5.2E-5",
+          "percentage": "4.9E-5",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.168139",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.057772",
+          "percentage": "0.058204",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.247033",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.101427",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.179903",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.0859",
+          "percentage": "0.086763",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.057615",
+          "percentage": "0.05939",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.101166",
-          "age": "65+",
+          "percentage": "0.245763",
+          "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.000157",
-          "age": "65+",
+          "percentage": "0.180048",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.167202",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.10213",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000692",
+          "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000627",
-          "age": "35-44",
+          "percentage": "0.099412",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000148",
+          "age": "65+",
           "gender": "unknown"
         }
       ],
@@ -2667,19 +2672,19 @@
       "page_name": "一邊一國行動黨",
       "region_distribution": [
         {
-          "percentage": "0.60668",
+          "percentage": "0.607543",
           "region": "Taichung"
         },
         {
-          "percentage": "0.256311",
+          "percentage": "0.254561",
           "region": "Changhua"
         },
         {
-          "percentage": "0.058851",
+          "percentage": "0.059238",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.078158",
+          "percentage": "0.078658",
           "region": "Nantou"
         }
       ],
@@ -2812,63 +2817,63 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000209",
+          "percentage": "0.000189",
           "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.162095",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.080593",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.083018",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.229501",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.1056",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.098628",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.178728",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.059601",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.00125",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000379",
+          "age": "65+",
           "gender": "unknown"
         },
         {
           "percentage": "0.000417",
           "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.225494",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.080003",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.082464",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.181238",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.101068",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.164011",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.103863",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.059481",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.001335",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000417",
-          "age": "65+",
           "gender": "unknown"
         }
       ],
@@ -2881,19 +2886,19 @@
       "page_name": "一邊一國行動黨",
       "region_distribution": [
         {
-          "percentage": "0.258538",
+          "percentage": "0.256692",
           "region": "Taipei"
         },
         {
-          "percentage": "0.316209",
+          "percentage": "0.313876",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.380261",
+          "percentage": "0.384146",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.044992",
+          "percentage": "0.045286",
           "region": "Keelung City"
         }
       ],
@@ -3496,7 +3501,7 @@
       "ad_creative_body": "呼籲蔡政府，選前三讀通過反滲透法\n【落實抗中保台】\n#政黨票投10號 一邊一國行動黨",
       "ad_creation_time": "2019-12-27T04:47:57+0000",
       "ad_delivery_start_time": "2019-12-27T04:47:57+0000",
-      "ad_delivery_stop_time": "2020-01-09T15:59:00+0000",
+      "ad_delivery_stop_time": "2020-01-10T11:59:00+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {

@@ -9142,105 +9142,105 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000381",
+          "percentage": "0.000326",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000381",
+          "percentage": "0.099463",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.079766",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.036139",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.197135",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.113462",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.227576",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.040371",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.090672",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.069022",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.01579",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.020837",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.008302",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000488",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.094821",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.206588",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.227723",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.076542",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.095202",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.038271",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.07083",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.034653",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.020183",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.110434",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.01428",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.008949",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000762",
+          "percentage": "0.000651",
           "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "慶煌 徐",
       "impressions": {
-        "lower_bound": "6000",
-        "upper_bound": "6999"
+        "lower_bound": "8000",
+        "upper_bound": "8999"
       },
       "page_id": "818423875158479",
       "page_name": "徐慶煌 - 一心為民  在地專業",
       "region_distribution": [
         {
-          "percentage": "0.794843",
+          "percentage": "0.787762",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.0071",
+          "percentage": "0.008009",
           "region": "Tainan"
         },
         {
-          "percentage": "0.198057",
+          "percentage": "0.204229",
           "region": "Pingtung"
         }
       ],
       "spend": {
-        "lower_bound": "1000",
-        "upper_bound": "1499"
+        "lower_bound": "1500",
+        "upper_bound": "1999"
       },
       "ad_id": "2564110423818527"
     }
@@ -9262,105 +9262,105 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000404",
+          "percentage": "0.000248",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.087571",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.165052",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.018967",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.078692",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.234867",
+          "percentage": "0.232622",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.13519",
+          "percentage": "0.097319",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.028798",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.069265",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.135551",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.048023",
+          "percentage": "0.156653",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.05139",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.012914",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.078692",
+          "percentage": "0.092602",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.043987",
+          "percentage": "0.01862",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.057845",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.046425",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.026634",
+          "percentage": "0.011172",
           "age": "18-24",
-          "gender": "male"
+          "gender": "female"
         },
         {
-          "percentage": "0.06699",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.001211",
+          "percentage": "0.000745",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000807",
+          "percentage": "0.000745",
           "age": "55-64",
           "gender": "unknown"
         }
       ],
       "funding_entity": "慶煌 徐",
       "impressions": {
-        "lower_bound": "2000",
-        "upper_bound": "2999"
+        "lower_bound": "4000",
+        "upper_bound": "4999"
       },
       "page_id": "818423875158479",
       "page_name": "徐慶煌 - 一心為民  在地專業",
       "region_distribution": [
         {
-          "percentage": "0.783261",
+          "percentage": "0.779275",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.011054",
+          "percentage": "0.012739",
           "region": "Tainan"
         },
         {
-          "percentage": "0.205685",
+          "percentage": "0.207986",
           "region": "Pingtung"
         }
       ],
       "spend": {
-        "lower_bound": "300",
-        "upper_bound": "399"
+        "lower_bound": "500",
+        "upper_bound": "599"
       },
       "ad_id": "1608841819263525"
     }
@@ -9768,110 +9768,110 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000411",
+          "percentage": "0.000138",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.061103",
           "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000411",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000205",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.031224",
-          "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.052383",
+          "percentage": "0.076",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.200828",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.081793",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.247448",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.134069",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.044966",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.06",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.120173",
+          "percentage": "0.032966",
           "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.086072",
-          "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.026294",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.083607",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.254108",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.04622",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.218776",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.008217",
+          "percentage": "0.00869",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.058956",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.012736",
+          "percentage": "0.014759",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.000205",
-          "age": "55-64",
+          "percentage": "0.036",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000414",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000276",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000552",
+          "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "慶煌 徐",
       "impressions": {
-        "lower_bound": "6000",
-        "upper_bound": "6999"
+        "lower_bound": "10000",
+        "upper_bound": "14999"
       },
       "page_id": "818423875158479",
       "page_name": "徐慶煌 - 一心為民  在地專業",
       "region_distribution": [
         {
-          "percentage": "0.789007",
+          "percentage": "0.776718",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.006304",
+          "percentage": "0.007946",
           "region": "Tainan"
         },
         {
-          "percentage": "0.204689",
+          "percentage": "0.215336",
           "region": "Pingtung"
         }
       ],
       "spend": {
-        "lower_bound": "600",
-        "upper_bound": "699"
+        "lower_bound": "1000",
+        "upper_bound": "1499"
       },
       "ad_id": "592050881626940"
     }
@@ -10018,110 +10018,110 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000303",
+          "percentage": "0.00019",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000303",
+          "percentage": "0.00019",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000303",
+          "percentage": "0.00019",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.035801",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.06432",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.152609",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.074939",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.104066",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.118022",
+          "percentage": "0.138599",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.130158",
+          "percentage": "0.118284",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.127397",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.040049",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.058252",
-          "age": "65+",
+          "percentage": "0.142396",
+          "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.18568",
+          "percentage": "0.174672",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.016687",
+          "percentage": "0.069679",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.058287",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.034745",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.052592",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.023163",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.0179",
+          "percentage": "0.039871",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.019366",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.000607",
+          "percentage": "0.00038",
           "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "慶煌 徐",
       "impressions": {
-        "lower_bound": "3000",
-        "upper_bound": "3999"
+        "lower_bound": "6000",
+        "upper_bound": "6999"
       },
       "page_id": "818423875158479",
       "page_name": "徐慶煌 - 一心為民  在地專業",
       "region_distribution": [
         {
-          "percentage": "0.755843",
+          "percentage": "0.732348",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.010763",
+          "percentage": "0.011671",
           "region": "Tainan"
         },
         {
-          "percentage": "0.233395",
+          "percentage": "0.255981",
           "region": "Pingtung"
         }
       ],
       "spend": {
-        "lower_bound": "300",
-        "upper_bound": "399"
+        "lower_bound": "500",
+        "upper_bound": "599"
       },
       "ad_id": "481647435829858"
     }
@@ -10658,83 +10658,83 @@
           "gender": "unknown"
         },
         {
+          "percentage": "0.039405",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.012962",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.02506",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.107847",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.02195",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.070515",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.080021",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.011061",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
           "percentage": "0.000173",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000519",
+          "percentage": "0.074317",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.119253",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.225544",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.210508",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000518",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.010896",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.025078",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.021965",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.012971",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.080249",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.108094",
-          "age": "65+",
-          "gender": "male"
+          "percentage": "0.000518",
+          "age": "45-54",
+          "gender": "unknown"
         },
         {
           "percentage": "0.000173",
           "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.070564",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.210308",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.225355",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.119509",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.03926",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.074196",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000519",
-          "age": "45-54",
           "gender": "unknown"
         }
       ],
@@ -10747,15 +10747,15 @@
       "page_name": "徐慶煌 - 一心為民  在地專業",
       "region_distribution": [
         {
-          "percentage": "0.783219",
+          "percentage": "0.783667",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.01404",
+          "percentage": "0.014",
           "region": "Tainan"
         },
         {
-          "percentage": "0.202741",
+          "percentage": "0.202333",
           "region": "Pingtung"
         }
       ],

@@ -3293,6 +3293,129 @@
   {
     "選區": "宜蘭縣選舉區",
     "參選人": "呂國華",
+    "AD_ID": "729742910768104",
+    "登錄為政治廣告": "是",
+    "開始日期": "2019-12-28",
+    "結束日期": "1970-01-01",
+    "廣告內容": "宜蘭鄉親請您認真想想！ 宜蘭需要這樣立委嗎？ 👉您就能改變宜蘭 👉我們不需要三寶立委",
+    "圖片": "https://scontent-hkg3-1.xx.fbcdn.net/v/t39.16868-6/82025371_1017237648641129_3789590601792487424_n.jpg?_nc_cat=102&_nc_ohc=hzLtDD1pWPAAQlxO24__1NIa2carc4BMbcl4cTi-Ezvk_JHuREwqJ8_WA&_nc_ht=scontent-hkg3-1.xx&oh=f19f0fde6746f2ec0e90253e60e4998a&oe=5EA3B645",
+    "廣告詳情": {
+      "ad_creative_body": "宜蘭鄉親請您認真想想！\n宜蘭需要這樣立委嗎？\n👉您就能改變宜蘭\n👉我們不需要三寶立委",
+      "ad_creation_time": "2020-01-09T11:31:33+0000",
+      "ad_creative_link_title": "宜蘭不需要這樣的三寶立委",
+      "ad_delivery_start_time": "2020-01-09T11:31:33+0000",
+      "ad_delivery_stop_time": "2020-01-10T11:31:22+0000",
+      "currency": "TWD",
+      "demographic_distribution": [
+        {
+          "percentage": "0.128885",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.124255",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000281",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.00014",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000281",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000491",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.077457",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.043219",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.067284",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.066162",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.083281",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.096962",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.076054",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.067424",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.073528",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.094156",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00014",
+          "age": "65+",
+          "gender": "unknown"
+        }
+      ],
+      "funding_entity": "憲權 吳",
+      "impressions": {
+        "lower_bound": "15000",
+        "upper_bound": "19999"
+      },
+      "page_id": "203178079695479",
+      "page_name": "呂國華-與宜蘭同在",
+      "region_distribution": [
+        {
+          "percentage": "1",
+          "region": "Yilan"
+        }
+      ],
+      "spend": {
+        "lower_bound": "3000",
+        "upper_bound": "3499"
+      },
+      "ad_id": "729742910768104"
+    }
+  },
+  {
+    "選區": "宜蘭縣選舉區",
+    "參選人": "呂國華",
     "AD_ID": "448836972484756",
     "登錄為政治廣告": "是",
     "開始日期": "2019-11-24",

@@ -2407,7 +2407,7 @@
       "ad_creation_time": "2019-12-30T09:47:42+0000",
       "ad_creative_link_title": "【自信勇敢咱的名MV】第二版｜辛苦快樂的一天",
       "ad_delivery_start_time": "2019-12-30T09:47:42+0000",
-      "ad_delivery_stop_time": "2020-01-05T04:46:53+0000",
+      "ad_delivery_stop_time": "2020-01-10T15:59:53+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -2551,120 +2551,120 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "7.2E-5",
+          "percentage": "6.9E-5",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.125442",
+          "percentage": "0.12473",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.000108",
+          "percentage": "0.000137",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000108",
+          "percentage": "0.000103",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000325",
+          "percentage": "0.000309",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000144",
+          "percentage": "0.000137",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.023999",
+          "percentage": "0.024349",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.035366",
+          "percentage": "0.035358",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.098629",
+          "percentage": "0.098529",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.11162",
+          "percentage": "0.109812",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.132732",
+          "percentage": "0.132412",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.047311",
+          "percentage": "0.047395",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.105666",
+          "percentage": "0.10429",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.043955",
+          "percentage": "0.044103",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.124215",
+          "percentage": "0.125141",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.062252",
+          "percentage": "0.064131",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.087622",
+          "percentage": "0.088583",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.000433",
+          "percentage": "0.000412",
           "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "賴惠員",
       "impressions": {
-        "lower_bound": "40000",
-        "upper_bound": "44999"
+        "lower_bound": "45000",
+        "upper_bound": "49999"
       },
       "page_id": "132727540081371",
       "page_name": "賴惠員",
       "region_distribution": [
         {
-          "percentage": "0.010073",
+          "percentage": "0.011647",
           "region": "Unknown"
         },
         {
-          "percentage": "0.930168",
+          "percentage": "0.925665",
           "region": "Tainan"
         },
         {
-          "percentage": "0.059759",
+          "percentage": "0.062688",
           "region": "Chiayi"
         }
       ],
       "spend": {
-        "lower_bound": "3500",
-        "upper_bound": "3999"
+        "lower_bound": "4000",
+        "upper_bound": "4499"
       },
       "ad_id": "457745781576444"
     }
@@ -2798,105 +2798,105 @@
       "ad_creation_time": "2020-01-01T06:05:36+0000",
       "ad_creative_link_title": "【自信勇敢咱的名MV】第二版｜辛苦快樂的一天",
       "ad_delivery_start_time": "2020-01-01T06:05:36+0000",
-      "ad_delivery_stop_time": "2020-01-05T04:46:53+0000",
+      "ad_delivery_stop_time": "2020-01-10T15:59:53+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.094758",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.116282",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.190421",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.210458",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.013315",
+          "percentage": "0.000109",
           "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.086808",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.0329",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.091526",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.04266",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.119579",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000582",
-          "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000129",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000194",
+          "percentage": "0.000163",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000259",
+          "percentage": "0.192875",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.121131",
           "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.099701",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.199402",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.105521",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.101441",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.050204",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.014686",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.081643",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.032255",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.00049",
+          "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000129",
-          "age": "18-24",
+          "percentage": "0.000163",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000218",
+          "age": "45-54",
           "gender": "unknown"
         }
       ],
       "funding_entity": "賴惠員",
       "impressions": {
-        "lower_bound": "20000",
-        "upper_bound": "24999"
+        "lower_bound": "30000",
+        "upper_bound": "34999"
       },
       "page_id": "132727540081371",
       "page_name": "賴惠員",
       "region_distribution": [
         {
-          "percentage": "0.989906",
+          "percentage": "0.989698",
           "region": "Tainan"
         },
         {
-          "percentage": "0.010094",
+          "percentage": "0.010302",
           "region": "Chiayi"
         }
       ],
       "spend": {
-        "lower_bound": "3000",
-        "upper_bound": "3499"
+        "lower_bound": "4000",
+        "upper_bound": "4499"
       },
       "ad_id": "494368471190887"
     }
@@ -2915,7 +2915,7 @@
       "ad_creation_time": "2020-01-01T05:52:48+0000",
       "ad_creative_link_title": "【自信勇敢咱的名MV】第二版｜辛苦快樂的一天",
       "ad_delivery_start_time": "2020-01-01T05:52:48+0000",
-      "ad_delivery_stop_time": "2020-01-05T04:46:53+0000",
+      "ad_delivery_stop_time": "2020-01-10T15:59:53+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -2973,7 +2973,7 @@
       "ad_creation_time": "2019-12-30T09:00:16+0000",
       "ad_creative_link_title": "【自信勇敢咱的名MV】第二版｜辛苦快樂的一天",
       "ad_delivery_start_time": "2019-12-30T09:00:16+0000",
-      "ad_delivery_stop_time": "2020-01-05T04:46:53+0000",
+      "ad_delivery_stop_time": "2020-01-10T15:59:53+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
@@ -3114,7 +3114,7 @@
       "ad_creation_time": "2019-12-30T04:55:15+0000",
       "ad_creative_link_title": "【自信勇敢咱的名MV】第二版｜辛苦快樂的一天",
       "ad_delivery_start_time": "2019-12-30T04:55:15+0000",
-      "ad_delivery_stop_time": "2020-01-05T04:46:53+0000",
+      "ad_delivery_stop_time": "2020-01-10T15:59:53+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {

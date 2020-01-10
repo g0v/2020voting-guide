@@ -2246,92 +2246,92 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.07438",
+          "percentage": "0.0765",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.025923",
+          "percentage": "0.026051",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.000153",
+          "percentage": "0.00015",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000276",
+          "percentage": "0.000272",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000327",
+          "percentage": "0.000326",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000604",
+          "percentage": "0.000585",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00024",
+          "percentage": "0.000245",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.017149",
+          "percentage": "0.018263",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.102239",
+          "percentage": "0.10434",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.182803",
+          "percentage": "0.181724",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.012514",
+          "percentage": "0.013406",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.054153",
+          "percentage": "0.053292",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.131458",
+          "percentage": "0.128044",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.03974",
+          "percentage": "0.039947",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.165683",
+          "percentage": "0.164413",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.089186",
+          "percentage": "0.087628",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.103017",
+          "percentage": "0.104666",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.000153",
+          "percentage": "0.00015",
           "age": "65+",
           "gender": "unknown"
         }
@@ -2345,21 +2345,21 @@
       "page_name": "蘇巧慧",
       "region_distribution": [
         {
-          "percentage": "0.256053",
+          "percentage": "0.255754",
           "region": "Taipei"
         },
         {
-          "percentage": "0.343625",
+          "percentage": "0.337645",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.400322",
+          "percentage": "0.406602",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "15000",
-        "upper_bound": "19999"
+        "lower_bound": "20000",
+        "upper_bound": "24999"
       },
       "ad_id": "2189206898053594"
     }

@@ -3226,116 +3226,116 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "3.8E-5",
+          "percentage": "5.4E-5",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.076763",
+          "percentage": "0.075503",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.000228",
+          "percentage": "0.000217",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000721",
+          "percentage": "0.000732",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.038912",
+          "percentage": "0.04347",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.037774",
+          "percentage": "0.035828",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.019835",
+          "percentage": "0.021437",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.039292",
+          "percentage": "0.043633",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.001214",
+          "percentage": "0.00103",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "7.6E-5",
+          "percentage": "5.4E-5",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.058217",
+          "percentage": "0.063091",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.052869",
+          "percentage": "0.054202",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.024842",
+          "percentage": "0.025475",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.126029",
+          "percentage": "0.123662",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.230971",
+          "percentage": "0.230901",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.214435",
+          "percentage": "0.206212",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.077673",
+          "percentage": "0.074419",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.000114",
+          "percentage": "8.1E-5",
           "age": "65+",
           "gender": "unknown"
         }
       ],
       "funding_entity": "正宇 趙",
       "impressions": {
-        "lower_bound": "30000",
-        "upper_bound": "34999"
+        "lower_bound": "45000",
+        "upper_bound": "49999"
       },
       "page_id": "164769440270830",
       "page_name": "趙正宇",
       "region_distribution": [
         {
-          "percentage": "0.96182",
+          "percentage": "0.962401",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.03818",
+          "percentage": "0.037599",
           "region": "New Taipei City"
         }
       ],
       "spend": {
-        "lower_bound": "1500",
-        "upper_bound": "1999"
+        "lower_bound": "2500",
+        "upper_bound": "2999"
       },
       "ad_id": "479108199297343"
     }

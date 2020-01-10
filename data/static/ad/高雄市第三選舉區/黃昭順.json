@@ -3836,64 +3836,64 @@
           "gender": "unknown"
         },
         {
-          "percentage": "0.075134",
+          "percentage": "0.041259",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.075008",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.059806",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.104083",
+          "percentage": "0.104049",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.078079",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.037149",
+          "percentage": "0.03712",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.041232",
-          "age": "18-24",
+          "percentage": "0.094335",
+          "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.124632",
+          "percentage": "0.078245",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.124412",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.123461",
-          "age": "45-54",
+          "percentage": "0.117435",
+          "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.000201",
+          "percentage": "0.0002",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.095348",
+          "percentage": "0.123744",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.047668",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.095737",
           "age": "55-64",
           "gender": "male"
-        },
-        {
-          "percentage": "0.11757",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.094511",
-          "age": "35-44",
-          "gender": "female"
         },
         {
           "percentage": "0.000234",
@@ -3901,7 +3901,7 @@
           "gender": "unknown"
         },
         {
-          "percentage": "0.000335",
+          "percentage": "0.000334",
           "age": "35-44",
           "gender": "unknown"
         },
@@ -3916,8 +3916,8 @@
           "gender": "unknown"
         },
         {
-          "percentage": "0.047791",
-          "age": "65+",
+          "percentage": "0.059786",
+          "age": "18-24",
           "gender": "male"
         }
       ],
@@ -3930,19 +3930,19 @@
       "page_name": "黃昭順",
       "region_distribution": [
         {
-          "percentage": "0.550954",
+          "percentage": "0.550931",
           "region": "Kaohsiung"
         },
         {
-          "percentage": "0.296087",
+          "percentage": "0.2957",
           "region": "Tainan"
         },
         {
-          "percentage": "0.00029",
+          "percentage": "0.000289",
           "region": "Chiayi"
         },
         {
-          "percentage": "0.152669",
+          "percentage": "0.153081",
           "region": "Pingtung"
         }
       ],

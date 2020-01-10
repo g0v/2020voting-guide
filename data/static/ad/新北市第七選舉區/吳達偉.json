@@ -10416,30 +10416,30 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.163506",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.497358",
+          "percentage": "0.50221",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.325355",
+          "percentage": "0.319907",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.013781",
+          "percentage": "0.165541",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.012343",
           "age": "45-54",
           "gender": "male"
         }
       ],
       "funding_entity": "吳達偉Z9 板橋立委候選人",
       "impressions": {
-        "lower_bound": "10000",
-        "upper_bound": "14999"
+        "lower_bound": "15000",
+        "upper_bound": "19999"
       },
       "page_id": "101001864642614",
       "page_name": "吳達偉Z9 板橋立委候選人",
@@ -10450,8 +10450,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "600",
-        "upper_bound": "699"
+        "lower_bound": "800",
+        "upper_bound": "899"
       },
       "ad_id": "2501006363448651"
     }

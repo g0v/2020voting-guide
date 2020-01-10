@@ -1456,93 +1456,93 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.00015",
+          "percentage": "0.000144",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.028909",
+          "percentage": "0.028953",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.000329",
+          "percentage": "0.000289",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000361",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000621",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000346",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000224",
+          "percentage": "0.048929",
           "age": "25-34",
-          "gender": "unknown"
+          "gender": "male"
         },
         {
-          "percentage": "0.008225",
+          "percentage": "0.008213",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.008501",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.010977",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.007672",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.048036",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.171986",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000374",
+          "percentage": "0.087509",
           "age": "65+",
-          "gender": "unknown"
+          "gender": "female"
         },
         {
-          "percentage": "0.000613",
+          "percentage": "0.033139",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.011864",
           "age": "35-44",
-          "gender": "unknown"
+          "gender": "female"
         },
         {
-          "percentage": "0.255391",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.110071",
+          "percentage": "0.109896",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.093919",
+          "percentage": "0.095029",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.142",
+          "percentage": "0.140436",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.088535",
-          "age": "65+",
-          "gender": "female"
+          "percentage": "0.253406",
+          "age": "55-64",
+          "gender": "male"
         },
         {
-          "percentage": "0.032333",
+          "percentage": "0.172147",
           "age": "45-54",
-          "gender": "female"
+          "gender": "male"
         },
         {
-          "percentage": "0.000254",
-          "age": "45-54",
+          "percentage": "0.000217",
+          "age": "25-34",
           "gender": "unknown"
         }
       ],
@@ -2084,108 +2084,108 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "3.8E-5",
+          "percentage": "7.1E-5",
           "age": "13-17",
           "gender": "unknown"
         },
         {
-          "percentage": "0.056285",
+          "percentage": "0.06234",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.000264",
-          "age": "45-54",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000579",
+          "percentage": "0.000659",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000529",
+          "percentage": "0.000576",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00898",
-          "age": "13-17",
-          "gender": "male"
+          "percentage": "0.000212",
+          "age": "65+",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.006096",
+          "percentage": "0.007199",
           "age": "13-17",
           "gender": "female"
         },
         {
-          "percentage": "0.107607",
+          "percentage": "0.060176",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000682",
           "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.064693",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.009375",
+          "age": "13-17",
           "gender": "male"
         },
         {
-          "percentage": "0.115605",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.090894",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.066033",
+          "percentage": "0.063811",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.000214",
+          "percentage": "0.086253",
           "age": "65+",
-          "gender": "unknown"
+          "gender": "male"
         },
         {
-          "percentage": "0.079635",
+          "percentage": "0.057024",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.068386",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.081584",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.058035",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.101826",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.063375",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.126134",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.064912",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.052116",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000214",
+          "percentage": "0.0002",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00063",
+          "percentage": "0.111978",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.106414",
           "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.098004",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.120105",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000259",
+          "age": "45-54",
           "gender": "unknown"
         }
       ],
@@ -2198,35 +2198,35 @@
       "page_name": "張宏陸",
       "region_distribution": [
         {
-          "percentage": "0.404136",
+          "percentage": "0.407037",
           "region": "Taipei"
         },
         {
-          "percentage": "0.234544",
+          "percentage": "0.233993",
           "region": "Taoyuan City"
         },
         {
-          "percentage": "0.227632",
+          "percentage": "0.226479",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.038954",
+          "percentage": "0.038503",
           "region": "Hsinchu"
         },
         {
-          "percentage": "0.008192",
+          "percentage": "0.007959",
           "region": "Miaoli"
         },
         {
-          "percentage": "0.022824",
+          "percentage": "0.023013",
           "region": "Yilan"
         },
         {
-          "percentage": "0.031854",
+          "percentage": "0.03146",
           "region": "Keelung City"
         },
         {
-          "percentage": "0.031864",
+          "percentage": "0.031556",
           "region": "Hsinchu City"
         }
       ],
@@ -2254,110 +2254,110 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000141",
+          "percentage": "0.000162",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.042319",
-          "age": "25-34",
+          "percentage": "0.059984",
+          "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.00047",
-          "age": "25-34",
+          "percentage": "0.000192",
+          "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000548",
+          "percentage": "0.000192",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000532",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00025",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.006604",
-          "age": "13-17",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.003991",
+          "percentage": "0.004002",
           "age": "13-17",
           "gender": "female"
         },
         {
-          "percentage": "0.130525",
-          "age": "55-64",
+          "percentage": "0.006291",
+          "age": "13-17",
           "gender": "male"
         },
         {
-          "percentage": "0.067281",
-          "age": "65+",
+          "percentage": "0.046915",
+          "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.120336",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000203",
-          "age": "55-64",
+          "percentage": "0.000443",
+          "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.036622",
-          "age": "18-24",
-          "gender": "female"
+          "percentage": "0.079861",
+          "age": "65+",
+          "gender": "male"
         },
         {
-          "percentage": "0.127614",
+          "percentage": "0.124516",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.063134",
+          "percentage": "0.066334",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.039413",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.061298",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.117546",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.062642",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.111603",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.081711",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.090319",
+          "percentage": "0.090803",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.05786",
-          "age": "35-44",
+          "percentage": "0.110547",
+          "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.058267",
-          "age": "45-54",
-          "gender": "female"
+          "percentage": "0.12809",
+          "age": "55-64",
+          "gender": "male"
         },
         {
-          "percentage": "0.000203",
-          "age": "45-54",
+          "percentage": "0.000236",
+          "age": "18-24",
           "gender": "unknown"
         }
       ],
       "funding_entity": "幃航 鄭",
       "impressions": {
-        "lower_bound": "150000",
-        "upper_bound": "174999"
+        "lower_bound": "175000",
+        "upper_bound": "199999"
       },
       "page_id": "180099508994152",
       "page_name": "張宏陸",

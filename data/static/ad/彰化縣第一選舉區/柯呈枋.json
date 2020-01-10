@@ -1212,97 +1212,97 @@
       "ad_creation_time": "2019-12-25T08:06:57+0000",
       "ad_creative_link_title": "【彰化．海線 -恁ㄟ心聲，阮來打拼 】💪🏻💪🏻💪🏻",
       "ad_delivery_start_time": "2019-12-25T08:20:42+0000",
-      "ad_delivery_stop_time": "2020-01-10T13:55:42+0000",
+      "ad_delivery_stop_time": "2020-01-10T13:45:42+0000",
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "2.0E-5",
+          "percentage": "5.7E-5",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.038241",
-          "age": "25-34",
-          "gender": "male"
+          "percentage": "0.006724",
+          "age": "35-44",
+          "gender": "female"
         },
         {
-          "percentage": "0.000242",
+          "percentage": "0.000229",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000161",
-          "age": "65+",
+          "percentage": "0.000152",
+          "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.005302",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000181",
-          "age": "35-44",
+          "percentage": "3.8E-5",
+          "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.002822",
+          "percentage": "0.003276",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.004677",
+          "percentage": "0.005028",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.029431",
+          "percentage": "0.00019",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.026247",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.217382",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.03038",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "4.0E-5",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.099442",
+          "percentage": "0.102091",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.050799",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.079848",
+          "percentage": "0.081692",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.024775",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.145887",
+          "percentage": "0.143385",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.298506",
+          "percentage": "0.291589",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.219465",
-          "age": "45-54",
+          "percentage": "0.039846",
+          "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.000161",
-          "age": "45-54",
+          "percentage": "0.051522",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000171",
+          "age": "35-44",
           "gender": "unknown"
         }
       ],
@@ -1315,15 +1315,15 @@
       "page_name": "柯呈枋",
       "region_distribution": [
         {
-          "percentage": "0.506317",
+          "percentage": "0.504759",
           "region": "Taichung"
         },
         {
-          "percentage": "0.442932",
+          "percentage": "0.443904",
           "region": "Changhua"
         },
         {
-          "percentage": "0.050751",
+          "percentage": "0.051336",
           "region": "Nantou"
         }
       ],

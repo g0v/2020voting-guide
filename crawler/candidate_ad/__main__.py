@@ -6,7 +6,7 @@ import requests
 # RAW = "../data/manual/fb-ad.jsonl"
 STATIC_DATA_FOLDER = "../data/static/ad"
 
-url = "https://gist.githubusercontent.com/ronnywang/dd781d031501d69f70ddba6a2bf88d9b/raw/82d10ee896f6ab0172c5b51415d83517c1054c89/fb-ad.jsonl"
+url = "https://gist.githubusercontent.com/ronnywang/dd781d031501d69f70ddba6a2bf88d9b/raw/a9c7b17f4818ffcc16a7191109e7bfad5bdc6c7a/fb-ad.jsonl"
 response = requests.get(url)
 
 ads = [json.loads(ad) for ad in response.text.split("\n") if ad]

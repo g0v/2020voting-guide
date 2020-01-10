@@ -6703,54 +6703,54 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000447",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000447",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.142602",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.171658",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.198927",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.126956",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.125168",
+          "percentage": "0.126503",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.075995",
+          "percentage": "0.199555",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.142094",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.171047",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.075724",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.071077",
+          "percentage": "0.126503",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.071269",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.086723",
+          "percentage": "0.086414",
           "age": "45-54",
           "gender": "female"
+        },
+        {
+          "percentage": "0.000445",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000445",
+          "age": "65+",
+          "gender": "unknown"
         }
       ],
       "funding_entity": "年佑 簡",
@@ -6762,15 +6762,15 @@
       "page_name": "賴品妤",
       "region_distribution": [
         {
-          "percentage": "0.023431",
+          "percentage": "0.023757",
           "region": "Taipei"
         },
         {
-          "percentage": "0.954023",
+          "percentage": "0.953806",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.022546",
+          "percentage": "0.022437",
           "region": "Keelung City"
         }
       ],
@@ -6801,44 +6801,44 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.112994",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.107345",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.316384",
+          "percentage": "0.314607",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.096045",
+          "percentage": "0.106742",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.11236",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.185393",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.095506",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.186441",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.079096",
+          "percentage": "0.02809",
           "age": "65+",
-          "gender": "male"
+          "gender": "female"
         },
         {
-          "percentage": "0.079096",
+          "percentage": "0.078652",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.022599",
+          "percentage": "0.078652",
           "age": "65+",
-          "gender": "female"
+          "gender": "male"
         }
       ],
       "funding_entity": "年佑 簡",
@@ -6850,16 +6850,16 @@
       "page_name": "賴品妤",
       "region_distribution": [
         {
-          "percentage": "0.050847",
-          "region": "Taipei"
+          "percentage": "0.005618",
+          "region": "Keelung City"
         },
         {
-          "percentage": "0.943503",
+          "percentage": "0.94382",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.00565",
-          "region": "Keelung City"
+          "percentage": "0.050562",
+          "region": "Taipei"
         }
       ],
       "spend": {
@@ -7056,42 +7056,42 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.03125",
+          "percentage": "0.030303",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.234375",
+          "percentage": "0.227273",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.09375",
+          "percentage": "0.090909",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.171875",
+          "percentage": "0.181818",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.296875",
+          "percentage": "0.287879",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.046875",
+          "percentage": "0.045455",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.046875",
+          "percentage": "0.045455",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.078125",
+          "percentage": "0.090909",
           "age": "35-44",
           "gender": "female"
         }
@@ -7105,16 +7105,16 @@
       "page_name": "賴品妤",
       "region_distribution": [
         {
-          "percentage": "0.904762",
+          "percentage": "0.046154",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.907692",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.047619",
+          "percentage": "0.046154",
           "region": "Keelung City"
-        },
-        {
-          "percentage": "0.047619",
-          "region": "Taipei"
         }
       ],
       "spend": {
@@ -7237,42 +7237,42 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.251969",
+          "percentage": "0.257813",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.251969",
+          "percentage": "0.25",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.149606",
+          "percentage": "0.148438",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.110236",
+          "percentage": "0.109375",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.055118",
+          "percentage": "0.054688",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.094488",
+          "percentage": "0.09375",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.055118",
+          "percentage": "0.054688",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.031496",
+          "percentage": "0.03125",
           "age": "45-54",
           "gender": "female"
         }
@@ -7286,16 +7286,16 @@
       "page_name": "賴品妤",
       "region_distribution": [
         {
-          "percentage": "0.015748",
-          "region": "Keelung City"
-        },
-        {
-          "percentage": "0.03937",
+          "percentage": "0.039063",
           "region": "Taipei"
         },
         {
-          "percentage": "0.944882",
+          "percentage": "0.9375",
           "region": "New Taipei City"
+        },
+        {
+          "percentage": "0.023438",
+          "region": "Keelung City"
         }
       ],
       "spend": {
@@ -8111,54 +8111,54 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.122268",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.122951",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.069672",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.148224",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.094945",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.142077",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.132514",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.165984",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000683",
+          "percentage": "0.000681",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000683",
+          "percentage": "0.000681",
           "age": "45-54",
           "gender": "unknown"
+        },
+        {
+          "percentage": "0.1484",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.122532",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.123213",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.142954",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.094622",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.165419",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.132063",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.069435",
+          "age": "65+",
+          "gender": "male"
         }
       ],
       "funding_entity": "年佑 簡",
@@ -8170,15 +8170,15 @@
       "page_name": "賴品妤",
       "region_distribution": [
         {
-          "percentage": "0.018206",
+          "percentage": "0.018109",
           "region": "Taipei"
         },
         {
-          "percentage": "0.953473",
+          "percentage": "0.953722",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.028321",
+          "percentage": "0.028169",
           "region": "Keelung City"
         }
       ],
@@ -8377,43 +8377,43 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.098958",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.125",
+          "percentage": "0.125259",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.177083",
-          "age": "35-44",
+          "percentage": "0.101449",
+          "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.10625",
+          "percentage": "0.081781",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.106625",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.148958",
+          "percentage": "0.175983",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.148033",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.144792",
+          "percentage": "0.143892",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.117708",
+          "percentage": "0.116977",
           "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.08125",
-          "age": "65+",
           "gender": "male"
         }
       ],
@@ -8426,16 +8426,16 @@
       "page_name": "賴品妤",
       "region_distribution": [
         {
-          "percentage": "0.953733",
+          "percentage": "0.022893",
+          "region": "Taipei"
+        },
+        {
+          "percentage": "0.954214",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.023134",
+          "percentage": "0.022893",
           "region": "Keelung City"
-        },
-        {
-          "percentage": "0.023134",
-          "region": "Taipei"
         }
       ],
       "spend": {
@@ -8880,87 +8880,87 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000251",
+          "percentage": "0.000249",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.02268",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.001172",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000753",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.062348",
+          "percentage": "0.062552",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.029291",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.034898",
+          "percentage": "0.001161",
           "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000747",
+          "age": "25-34",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.022648",
+          "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.056574",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.037493",
+          "percentage": "0.037332",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "8.4E-5",
+          "percentage": "0.011117",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.029036",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.056081",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "8.3E-5",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.179931",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.011047",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.15449",
+          "percentage": "0.155301",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.126454",
-          "age": "55-64",
-          "gender": "male"
+          "percentage": "0.035009",
+          "age": "35-44",
+          "gender": "female"
         },
         {
-          "percentage": "0.055067",
-          "age": "18-24",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.227216",
+          "percentage": "0.227559",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.000251",
+          "percentage": "0.12527",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.055334",
+          "age": "18-24",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.180272",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000249",
           "age": "55-64",
           "gender": "unknown"
         }
@@ -8974,15 +8974,15 @@
       "page_name": "賴品妤",
       "region_distribution": [
         {
-          "percentage": "0.022403",
+          "percentage": "0.022492",
           "region": "Taipei"
         },
         {
-          "percentage": "0.92653",
+          "percentage": "0.926901",
           "region": "New Taipei City"
         },
         {
-          "percentage": "0.051067",
+          "percentage": "0.050607",
           "region": "Keelung City"
         }
       ],

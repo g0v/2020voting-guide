@@ -267,55 +267,55 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.364556",
+          "percentage": "0.363588",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.000833",
+          "percentage": "0.000846",
           "age": "18-24",
           "gender": "unknown"
         },
         {
-          "percentage": "0.260778",
+          "percentage": "0.260446",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.1395",
+          "percentage": "0.139162",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.093056",
+          "percentage": "0.093727",
           "age": "18-24",
           "gender": "female"
         },
         {
-          "percentage": "0.104167",
+          "percentage": "0.104676",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.033944",
+          "percentage": "0.034328",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.000778",
+          "percentage": "0.000846",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.002389",
+          "percentage": "0.00238",
           "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "郁揚 王",
       "impressions": {
-        "lower_bound": "35000",
-        "upper_bound": "39999"
+        "lower_bound": "40000",
+        "upper_bound": "44999"
       },
       "page_id": "388974281948360",
       "page_name": "王郁揚 北投天母 1號立法委員 素人參選",
@@ -326,8 +326,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "4500",
-        "upper_bound": "4999"
+        "lower_bound": "5000",
+        "upper_bound": "5999"
       },
       "ad_id": "1537048299767825"
     }

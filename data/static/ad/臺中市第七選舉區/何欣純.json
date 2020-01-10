@@ -1280,93 +1280,93 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000118",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.057117",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000574",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000169",
-          "age": "55-64",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000659",
-          "age": "35-44",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.060378",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.034294",
-          "age": "18-24",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.132412",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.107933",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000186",
-          "age": "18-24",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.047539",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.131703",
+          "percentage": "0.130015",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.060682",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.101987",
+          "percentage": "0.100879",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.129473",
-          "age": "55-64",
-          "gender": "male"
+          "percentage": "0.000583",
+          "age": "25-34",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.072423",
+          "percentage": "0.000126",
+          "age": "65+",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000236",
           "age": "45-54",
-          "gender": "female"
+          "gender": "unknown"
         },
         {
-          "percentage": "0.062101",
+          "percentage": "0.000158",
+          "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000756",
+          "age": "35-44",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.061139",
           "age": "18-24",
           "gender": "male"
         },
         {
-          "percentage": "0.000253",
+          "percentage": "0.062273",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.065299",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.124894",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.036841",
+          "age": "18-24",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.129715",
           "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.047099",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.074202",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.107529",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.058035",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000221",
+          "age": "18-24",
           "gender": "unknown"
         }
       ],

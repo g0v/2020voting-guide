@@ -7464,50 +7464,50 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.171717",
+          "percentage": "0.17175",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.064538",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.213748",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.520372",
+          "percentage": "0.526159",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.004",
+          "percentage": "0.208464",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.064791",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.016917",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.006918",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.003888",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.017287",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.00705",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.001288",
+          "percentage": "0.001111",
           "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "羅致政粉絲團",
       "impressions": {
-        "lower_bound": "20000",
-        "upper_bound": "24999"
+        "lower_bound": "30000",
+        "upper_bound": "34999"
       },
       "page_id": "182836328407031",
       "page_name": "羅致政粉絲團",
@@ -7518,8 +7518,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "1500",
-        "upper_bound": "1999"
+        "lower_bound": "2500",
+        "upper_bound": "2999"
       },
       "ad_id": "1601860596619920"
     }

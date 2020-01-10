@@ -1863,105 +1863,105 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000142",
-          "age": "25-34",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.067987",
+          "percentage": "0.067156",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.062255",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.100619",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.177459",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.200641",
+          "percentage": "0.19451",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.145678",
+          "percentage": "0.171963",
           "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.041853",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.073123",
-          "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.021054",
+          "percentage": "0.105991",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.022426",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.10811",
+          "percentage": "0.144704",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.063701",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.044344",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.112032",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.000369",
-          "age": "45-54",
-          "gender": "unknown"
+          "percentage": "0.071869",
+          "age": "65+",
+          "gender": "male"
         },
         {
-          "percentage": "0.000227",
+          "percentage": "0.000242",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000227",
-          "age": "35-44",
+          "percentage": "0.000145",
+          "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000255",
+          "percentage": "0.000411",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000266",
           "age": "55-64",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000242",
+          "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "佳欣 蔡",
       "impressions": {
-        "lower_bound": "60000",
-        "upper_bound": "69999"
+        "lower_bound": "70000",
+        "upper_bound": "79999"
       },
       "page_id": "307173240000158",
       "page_name": "莊子富 Nico",
       "region_distribution": [
         {
-          "percentage": "0.935377",
+          "percentage": "0.934181",
           "region": "Taichung"
         },
         {
-          "percentage": "0.064536",
+          "percentage": "0.065745",
           "region": "Changhua"
         },
         {
-          "percentage": "8.7E-5",
+          "percentage": "7.4E-5",
           "region": "Nantou"
         }
       ],
       "spend": {
-        "lower_bound": "9000",
-        "upper_bound": "9999"
+        "lower_bound": "10000",
+        "upper_bound": "14999"
       },
       "ad_id": "3505377019502889"
     }
@@ -1983,100 +1983,100 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "8.4E-5",
+          "percentage": "8.1E-5",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "8.4E-5",
-          "age": "25-34",
+          "percentage": "0.000162",
+          "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.111307",
-          "age": "35-44",
-          "gender": "male"
+          "percentage": "0.000324",
+          "age": "45-54",
+          "gender": "unknown"
         },
         {
-          "percentage": "0.174107",
+          "percentage": "0.170307",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.135603",
+          "percentage": "0.062055",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.181796",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.039563",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.134628",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.058848",
+          "percentage": "0.114725",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.091667",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.067233",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.061246",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.038167",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.068012",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.060782",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.0781",
+          "percentage": "0.075809",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.183607",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.090626",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.000168",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.000168",
+          "percentage": "0.000243",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000336",
-          "age": "45-54",
+          "percentage": "0.000162",
+          "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "佳欣 蔡",
       "impressions": {
-        "lower_bound": "25000",
-        "upper_bound": "29999"
+        "lower_bound": "30000",
+        "upper_bound": "34999"
       },
       "page_id": "307173240000158",
       "page_name": "莊子富 Nico",
       "region_distribution": [
         {
-          "percentage": "0.942972",
+          "percentage": "0.000414",
+          "region": "Nantou"
+        },
+        {
+          "percentage": "0.941921",
           "region": "Taichung"
         },
         {
-          "percentage": "0.056602",
+          "percentage": "0.057665",
           "region": "Changhua"
-        },
-        {
-          "percentage": "0.000426",
-          "region": "Nantou"
         }
       ],
       "spend": {
@@ -2341,63 +2341,63 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.161852",
+          "percentage": "0.159368",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.19709",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.192566",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.082407",
+          "percentage": "0.087227",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.000192",
+          "percentage": "0.068979",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.189938",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.12892",
           "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.188642",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.07545",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.031297",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.055578",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.013425",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000291",
+          "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.027012",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.078156",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.011449",
+          "percentage": "0.00017",
           "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.125653",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.069161",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.053544",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000274",
-          "age": "45-54",
           "gender": "unknown"
         },
         {
@@ -2406,40 +2406,40 @@
           "gender": "unknown"
         },
         {
-          "percentage": "0.000274",
-          "age": "55-64",
+          "percentage": "0.000291",
+          "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000165",
-          "age": "25-34",
+          "percentage": "0.000218",
+          "age": "35-44",
           "gender": "unknown"
         }
       ],
       "funding_entity": "佳欣 蔡",
       "impressions": {
-        "lower_bound": "125000",
-        "upper_bound": "149999"
+        "lower_bound": "150000",
+        "upper_bound": "174999"
       },
       "page_id": "307173240000158",
       "page_name": "莊子富 Nico",
       "region_distribution": [
         {
-          "percentage": "0.913312",
+          "percentage": "0.913187",
           "region": "Taichung"
         },
         {
-          "percentage": "0.086536",
+          "percentage": "0.086581",
           "region": "Changhua"
         },
         {
-          "percentage": "0.000152",
+          "percentage": "0.000232",
           "region": "Nantou"
         }
       ],
       "spend": {
-        "lower_bound": "9000",
-        "upper_bound": "9999"
+        "lower_bound": "10000",
+        "upper_bound": "14999"
       },
       "ad_id": "551661345684387"
     }
@@ -2462,105 +2462,105 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.118044",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.155596",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.080112",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.062714",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.165515",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.06414",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.136709",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.039644",
+          "percentage": "0.044614",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.10803",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.067372",
+          "percentage": "0.075291",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.000254",
-          "age": "45-54",
-          "gender": "unknown"
+          "percentage": "0.11361",
+          "age": "25-34",
+          "gender": "male"
         },
         {
-          "percentage": "0.000539",
+          "percentage": "0.116096",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.130146",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.058322",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.151906",
+          "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.083594",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.059759",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.164268",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.000684",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000254",
+          "percentage": "0.000274",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000251",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000285",
-          "age": "65+",
+          "percentage": "0.000935",
+          "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000792",
-          "age": "35-44",
+          "percentage": "0.000251",
+          "age": "65+",
           "gender": "unknown"
         }
       ],
       "funding_entity": "佳欣 蔡",
       "impressions": {
-        "lower_bound": "40000",
-        "upper_bound": "44999"
+        "lower_bound": "60000",
+        "upper_bound": "69999"
       },
       "page_id": "307173240000158",
       "page_name": "莊子富 Nico",
       "region_distribution": [
         {
-          "percentage": "0.957483",
+          "percentage": "0.955255",
           "region": "Taichung"
         },
         {
-          "percentage": "0.042421",
+          "percentage": "0.044498",
           "region": "Changhua"
         },
         {
-          "percentage": "9.6E-5",
+          "percentage": "0.000247",
           "region": "Nantou"
         }
       ],
       "spend": {
-        "lower_bound": "3500",
-        "upper_bound": "3999"
+        "lower_bound": "6000",
+        "upper_bound": "6999"
       },
       "ad_id": "2943494139003354"
     }

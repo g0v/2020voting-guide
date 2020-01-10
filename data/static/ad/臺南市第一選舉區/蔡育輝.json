@@ -1901,85 +1901,85 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.000219",
+          "percentage": "0.000182",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.092752",
+          "percentage": "0.09852",
           "age": "45-54",
           "gender": "female"
         },
         {
-          "percentage": "0.202202",
+          "percentage": "0.196615",
           "age": "55-64",
           "gender": "male"
         },
         {
-          "percentage": "0.085971",
+          "percentage": "0.081473",
           "age": "65+",
           "gender": "male"
         },
         {
-          "percentage": "0.205046",
+          "percentage": "0.199466",
           "age": "45-54",
           "gender": "male"
         },
         {
-          "percentage": "0.057897",
+          "percentage": "0.057632",
           "age": "25-34",
           "gender": "male"
         },
         {
-          "percentage": "0.06497",
+          "percentage": "0.064669",
           "age": "65+",
           "gender": "female"
         },
         {
-          "percentage": "0.141024",
+          "percentage": "0.148447",
           "age": "55-64",
           "gender": "female"
         },
         {
-          "percentage": "0.020417",
+          "percentage": "0.021839",
           "age": "25-34",
           "gender": "female"
         },
         {
-          "percentage": "0.093189",
+          "percentage": "0.091725",
           "age": "35-44",
           "gender": "male"
         },
         {
-          "percentage": "0.035292",
+          "percentage": "0.038522",
           "age": "35-44",
           "gender": "female"
         },
         {
-          "percentage": "0.000438",
+          "percentage": "0.000364",
           "age": "45-54",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000219",
+          "percentage": "0.000182",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000146",
+          "percentage": "0.000121",
           "age": "65+",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000219",
+          "percentage": "0.000243",
           "age": "25-34",
           "gender": "unknown"
         }
       ],
       "funding_entity": "佳欣 蔡",
       "impressions": {
-        "lower_bound": "20000",
-        "upper_bound": "24999"
+        "lower_bound": "30000",
+        "upper_bound": "34999"
       },
       "page_id": "905634552843396",
       "page_name": "蔡育輝",
@@ -1990,8 +1990,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "3500",
-        "upper_bound": "3999"
+        "lower_bound": "4500",
+        "upper_bound": "4999"
       },
       "ad_id": "2694533797433131"
     }
@@ -2013,85 +2013,85 @@
       "currency": "TWD",
       "demographic_distribution": [
         {
-          "percentage": "0.170876",
-          "age": "45-54",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.055553",
-          "age": "35-44",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.127",
-          "age": "55-64",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.159251",
-          "age": "55-64",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.121856",
-          "age": "35-44",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.056427",
-          "age": "65+",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.041407",
-          "age": "25-34",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.069492",
-          "age": "65+",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.103544",
-          "age": "25-34",
-          "gender": "male"
-        },
-        {
-          "percentage": "0.000154",
-          "age": "65+",
-          "gender": "unknown"
-        },
-        {
-          "percentage": "0.093308",
-          "age": "45-54",
-          "gender": "female"
-        },
-        {
-          "percentage": "0.00036",
+          "percentage": "0.000302",
           "age": "25-34",
           "gender": "unknown"
         },
         {
-          "percentage": "0.00036",
+          "percentage": "0.000302",
           "age": "35-44",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000103",
+          "percentage": "8.6E-5",
           "age": "55-64",
           "gender": "unknown"
         },
         {
-          "percentage": "0.000309",
+          "percentage": "0.1192",
+          "age": "35-44",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.067031",
+          "age": "65+",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.104123",
+          "age": "25-34",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.056951",
+          "age": "65+",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.153664",
+          "age": "55-64",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.164434",
           "age": "45-54",
+          "gender": "male"
+        },
+        {
+          "percentage": "0.133804",
+          "age": "55-64",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.045018",
+          "age": "25-34",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.098393",
+          "age": "45-54",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.056132",
+          "age": "35-44",
+          "gender": "female"
+        },
+        {
+          "percentage": "0.000388",
+          "age": "45-54",
+          "gender": "unknown"
+        },
+        {
+          "percentage": "0.000172",
+          "age": "65+",
           "gender": "unknown"
         }
       ],
       "funding_entity": "佳欣 蔡",
       "impressions": {
-        "lower_bound": "25000",
-        "upper_bound": "29999"
+        "lower_bound": "30000",
+        "upper_bound": "34999"
       },
       "page_id": "905634552843396",
       "page_name": "蔡育輝",
@@ -2102,8 +2102,8 @@
         }
       ],
       "spend": {
-        "lower_bound": "3500",
-        "upper_bound": "3999"
+        "lower_bound": "4500",
+        "upper_bound": "4999"
       },
       "ad_id": "915240212205790"
     }
