@@ -3,7 +3,7 @@ import dayjs from 'dayjs';
 import { Box, Typography } from '@material-ui/core';
 const Countdown = () => {
     const diffDay: number = React.useMemo(
-        () => Math.max(0, dayjs('2020/1/11').diff(dayjs(), 'day')),
+        () => Math.max(-1, dayjs('2020/1/11').diff(dayjs(), 'day')),
         []
     );
     const days: number[] = Array.from(Array(50 - diffDay).keys());
@@ -17,7 +17,7 @@ const Countdown = () => {
             className="color-primary countdown"
         >
             <div className="countdown__content">
-                <span>距離立委投票剩下</span>
+                <span>距離 2020 立委投票剩下</span>
                 <div className="countdown__numbers">
                     00
                     <div className="countdown__numbers-inner">{dayDOM}</div>
