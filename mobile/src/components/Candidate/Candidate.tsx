@@ -30,14 +30,7 @@ export interface CandidateType {
     experienceConnection: string;
     politic: string;
     politicsConnection: string;
-    sittingRate: number;
-    interpellationRate: number;
-    interpellationnum: string;
     currentLegislator: boolean;
-    maxinterpellationnum: string;
-    interpellationcategory: { name: string; percent: number }[];
-    billnum: string;
-    billnumcategory: { name: string; percent: number }[];
     politicalcontribution: string;
     othercandidate: string;
     fbPage: string;
@@ -56,14 +49,7 @@ const CandidateDefault: CandidateType = {
     educationConnection: '',
     experienceConnection: '',
     politicsConnection: '',
-    sittingRate: 0,
-    interpellationRate: 0,
-    interpellationnum: '',
     currentLegislator: false,
-    maxinterpellationnum: '',
-    interpellationcategory: [],
-    billnum: '',
-    billnumcategory: [],
     politicalcontribution: '',
     othercandidate: '',
     fbPage: ''
