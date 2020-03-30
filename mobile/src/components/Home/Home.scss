@@ -34,12 +34,15 @@ $spanHeight: 36px;
         min-width: 180px;
         border: 2px solid $color-primary;
         &:hover:after {
-            right: -25px;
+            transform: translateX(5px);
         }
         &:after {
             transition: all 0.35s;
             display: block;
-            content: url('/img/home/arrow.png');
+            height: 16px;
+            width: 36px;
+            content: '';
+            background: no-repeat url('/img/home/arrow.png');
             position: absolute;
             top: 50%;
             transform: translateY(-50%);
